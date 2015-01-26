@@ -1,0 +1,101 @@
+{{Earthquake
+| title              = 2010 Mindanao earthquakes
+| date               = July 23–24, 2010
+| origintime        = {{Plainlist|
+* 22:08:11 UTC (1st)
+* '''22:51:11 UTC (2nd)'''
+* 23:15:08 UTC (3rd)}}
+| map               =
+| map2              = {{Location map | Philippines
+| relief            = 1
+| label             =
+| lat               = 6.494
+| long              = 123.533
+| mark              = Bullseye1.png
+| marksize          = 50
+| position          = top
+| width             = 250
+| float             = right
+| caption           = }}
+| caption           = 
+| magnitude         = {{Plainlist|
+* 7.3 moment magnitude scale|M<sub>w</sub> (1st)
+* '''7.6 moment magnitude scale|M<sub>w</sub> (2nd)'''
+* 7.4 moment magnitude scale|M<sub>w</sub> (3rd)}}
+| depth              = {{Plainlist|
+* {{convert|604.5|km|mi}}(1st)
+* '''{{convert|576.3|km|mi}} (2nd)'''
+* {{convert|616.7|km|mi}}(3rd)}}
+| location           = {{Plainlist|
+* {{Coord|6.699|123.475|display=inline}} (1st)
+* {{Coord|6.494|123.533|display=inline,title}} (2nd)
+* {{Coord|6.749|123.268|display=inline}} (3rd)
+}}
+| countries affected = {{flagcountry|Philippines}}
+| intensity          = 
+}}
+
+The '''2010 Mindanao earthquakes''' were a series of powerful earthquakes that occurred in the Southern Philippines in the Moro Gulf.  There were no reports of damage or casualties as the shocks occurred far too Depth of focus (tectonics)|deep (over {{convert|500|km}}) to pose any serious threat.
+
+==Tectonic summary==
+The southern part of the Philippines lies above the Molucca Sea Collision Zone|complex collisional zone between the Philippine Sea Plate and the Sunda Plate. The convergence between these two plates of between 6&ndash;11&nbsp;cm per year is accommodated by a series of smaller plates.  One of these, the Molucca Sea Plate, is currently being subduction|subducted beneath both the Philippine Sea Plate and the Sangihe Plate|Sangihe Microplate, causing it to have an inverted U-shape seismic zone. The earthquakes were caused by the continuing distortion of the Molucca Sea Plate. The initial M7.3 event is the foreshock of the M7.6 while the M7.4 is an aftershock of the M7.6.
+<!-- 
+Series of earthquakes occurred in Mindanao at Philippines on July 24 2010. USGS event IDs are http://earthquake.usgs.gov/earthquakes/recenteqsww/Quakes/us2010zbbz.php us2010zbbz, http://earthquake.usgs.gov/earthquakes/recenteqsww/Quakes/us2010zcas.php us2010zcas, http://earthquake.usgs.gov/earthquakes/recenteqsww/Quakes/us2010zbca.php us2010zbca and http://earthquake.usgs.gov/earthquakes/recenteqsww/Quakes/us2010zbcd.php us2010zbcd. 
+-->
+
+==Areas affected==
+These earthquakes occurred in Moro Gulf, off the island of Mindanao. The M<sub>w</sub> 7.6 earthquake were felt in Philippines, Taiwan, and Malaysia. The M<sub>w</sub> 7.4 earthquake were felt in Philippines, Brunei, Malaysia, and Indonesia.
+
+==Earthquakes magnitudes==
+The earthquakes with magnitudes above M6.4 are:
+{| class="wikitable"
+|-
+! Date
+! Local Time<br>(UTC +8)
+! Magnitude<br>(M<sub>w</sub>)
+! Latitude
+! Longitude
+! Depth
+|--align=center
+| July 23, 2010
+| 06:08
+| 7.3
+| 6.699°N
+| 123.475°E
+| 612.2&nbsp;km
+|--align=center
+| July 23, 2010
+| 06:51
+| 7.6
+| 6.470°N
+| 123.532°E
+| 583.8&nbsp;km
+|--align=center
+| July 23, 2010
+| 07:15
+| 7.4
+| 6.749°N
+| 123.268°E
+| 616.7&nbsp;km
+|--align=center
+| July 24, 2010
+| 05:35
+| 6.5
+| 6.226°N
+| 123.522°E
+| 555.3&nbsp;km
+|}
+
+On July 25, 2010 another earthquake hit Mindanao measuring 5.6 on the Richter scale. The epicenter, with the depth of 611&nbsp;km, was initially determined to be 6.793 degrees north latitude and 123.603 degrees east longitude.
+
+==References==
+{{Wikinews|Four earthquakes hit the Philippines in quick succession}}
+{{Reflist}}
+
+{{Earthquakes in 2010}}
+{{Earthquakes in the Philippines}}
+
+{{DEFAULTSORT:2010 Mindanao Earthquakes}}
+Category:2010 disasters in the Philippines|Mindanao Earthquakes, 2010
+Category:2010 earthquakes|Mindanao earthquakes, 2010
+Category:Earthquakes in the Philippines

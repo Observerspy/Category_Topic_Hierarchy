@@ -1,0 +1,81 @@
+{{refimprove|date=December 2010}}
+{{Infobox earthquake
+|title = 1972 Nicaragua earthquake
+|date = {{start-date|December 23, 1972|December 23, 1972}}
+|origintime = 6:29 UTC
+|map2 = {{Location map many | Nicaragua
+| relief = yes
+| label =
+| lat = 12.3
+| long = -86.1
+| mark = Bullseye1.png
+| marksize = 40
+| position = top
+| label2 = Managua
+| lat2 = 12.14
+| long2 = -86.25
+| mark2 =
+| mark2size = 10
+| position2 = left
+| width = 250
+| float = right
+| caption = }}
+|image = <!-- Managua earthquake aerial view.jpg --> 
+|magnitude = 6.2 Moment magnitude scale|M<sub>w</sub> 
+|depth = {{convert|5|km|mi|0}}
+|location = {{coord|12.3|-86.1|display=inline,title}} 
+|countries affected = {{NIC}}
+|casualties = 6,000  }}
+
+The '''1972 Nicaragua earthquake''' occurred at 12:29 a.m. local time (06:29 UTC) on Saturday, December 23 near Managua, the capital of Nicaragua. It had a magnitude of 6.2, with the epicenter 28 kilometers northeast of the city centre, and a depth of about 5 kilometers.  Within an hour after the main shock, two aftershocks, one of magnitude 5.0 and the other 5.2, occurred. The earthquake caused widespread casualties among Managua's residents: 6,000 were killed, 20,000 were injured and over 250,000 were left homeless.
+
+==Tectonics and background==
+{{see also|Geography of Nicaragua}}
+Image:1972Nicaraguaquake2.jpg|thumb|A Nicaraguan soldier patrolling against looters in the aftermath of the earthquake
+Managua, which lies on the southern shore of Lake Xolotlan, near the western coast of Nicaragua, is situated within an active volcanic zone known as the Central American Volcanic Chain. The city has a long history of volcanic and seismic activity which arise from the relative movements of two crustal plates which intersect near the southwestern border of Central America. The Cocos Plate|Cocos plate, located east of the East Pacific Rise, is moving northeastward and is slowly being submerged under the Caribbean plate. The zone of dipping is initiated at the surface of the Middle America Trench, which extends 4 to 5 kilometers deep along the Pacific Coast from Mexico to Costa Rica. But rather than a simple crustal movement between the two plates the earthquake was believed to have been caused by a shallow adjustment to geological pressure at the south western corner of the Caribbean plate.
+
+One of the most significant geological effects of the 1972 Nicaragua earthquake quake was surface faulting. Examination of the fault lines indicated a lateral motion moving in a northeasterly direction and aftershock data has revealed at least one of the faults extends from the surface to a depth of 8 to 10 kilometers beneath the city of Managua.
+
+==Structural effects==
+{{see also|Earthquake engineering}}
+<!-- Image:1972Nicaraguaquake4.jpg|thumb|A hotel destroyed by the quake in Managua's centre --> 
+The earthquake severely damaged an area of 27 square kilometers and destroyed 13 square kilometers in the city centre. The majority of the buildings in the central business district sustained significant structural damage including a 19-story building, one 15-story building, approximately 5 buildings in the 7 to 9 story range and well over 25 buildings in the 3 to 6 story range. Much of the damage arose from  seismic ground movement which occurred within 10–15 seconds of the main shock. The majority of the factories and smaller buildings were severely damaged. Many of the houses and small shops were over 40 years old and constructed of taquezal or talquezal, which have walls that are timber frames filled with stone and finished with plaster, and roofs of unmortared clay tiles. This architecture is far from earthquake resistant, something that became fatally evident.  An estimated 53,000 homes in the city were affected.
+
+The water and electrical power networks were so severely damaged that a week following the earthquake only 10% of the city had any working water service.
+
+==Response==
+Image:1972Nicaraguaquake3.jpg|thumb|left|An office block damaged
+{{see also|Emergency management}}
+
+Two-thirds of Managua's 1 000 000 residents were displaced and faced food shortage and disease and dry-season winds worsened the problem with fires created by the disaster. Because of the damaging effects of the earthquake many of the emergency services in the city were operating at a seriously lower level than normal. The earthquake destroyed all the fire-fighting equipment available and fires were prevalent in some areas for several days. All four main hospitals which before the disaster had 1650 beds were unserviceable.
+
+The Nicaraguan government appealed for aid, and the government accepted aid from countries like the United States and Mexico and some 25 other countries worth millions of dollars. Despite this and the magnitude of the devastation, the aid was not distributed well and the ruling Liberal-Conservative Junta, led by President Anastasio Somoza Debayle, was the target of criticism and was accused of stockpiling foreign aid which never reached the victims of the earthquake.
+ It was because of these reports that the Puerto Rican baseball star Roberto Clemente chose to personally accompany the fourth of a number of relief flights he had organised. That flight crashed on December 31, 1972, killing Clemente among others.
+
+Another difficulty was that much of the material aid donated was inappropriate for the needs of the affected Nicaraguans, including such items as winter clothes (Managua's climate is tropical) and frozen TV dinners.
+
+Image:1972Nicaraguaquake5.jpg|thumb|Bulldozers shifting the rubble
+
+It was later revealed that Somoza and his cronies had indeed plundered much of the foreign aid in order to enrich themselves at the expense of the people and of those businessmen who didn't support Somoza. Opposition to the regime, which had begun to surface before the earthquake, increased quickly among the lower classes and even among members of the upper and middle classes fed up with Somoza's corruption. This grew into a revolt that became the Nicaraguan Revolution, in which Somoza was overthrown in 1979.
+
+Because of the extent of the damage, the faulty underground terrain, the misappropriation of aid, and the subsequent revolution and 11 year civil war, much of the city centre remained ruined for almost 20 years.  Reconstruction only began in earnest in the 1990s.
+
+Puerto Rican baseball legend Roberto Clemente and three others died on December 31, 1972, when their airplane crashed after take-off from Luis Munoz Marin International Airport in San Juan, Puerto Rico|San Juan, while attempting to fly to Nicaragua with help for earthquake victims.
+
+==Long-term effects==
+
+The earthquake changed the face of Managua during its decades of recovery. The city centre is no longer clearly defined, as buildings have been constructed away from the city centre. During the massive evacuations, the displaced residents set up camp around water resources and areas that remained somewhat unaffected. Although Managua remains Central America's second largest capital and metropolitan area, the bulk of its residents reside in barrios or neighborhoods that are of considerable distance from the city centre. Today, in place of the large buildings that used to exist in the centre, the government set up the "Plaza de la Fe" (Faith Square) in honor of Pope John Paul II.
+
+==References==
+{{reflist|refs=
+
+}}
+
+{{USGS|article=Historic Earthquakes|url=http://earthquake.usgs.gov/earthquakes/world/events/1972_12_23.php}}
+
+{{DEFAULTSORT:Nicaragua Earthquake}}
+Category:1972 earthquakes
+Category:1972 in Nicaragua
+Category:Earthquakes in Nicaragua
+Category:History of Nicaragua
+Category:Managua

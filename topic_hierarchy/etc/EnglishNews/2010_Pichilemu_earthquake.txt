@@ -1,0 +1,127 @@
+{{Use dmy dates|date=March 2012}}
+{{Infobox earthquake
+| title = 2010 Pichilemu earthquake<br /><small>''Terremoto de Pichilemu de 2010''</small>
+| date = {{Start date|2010|03|11|df=yes}}
+| origintime = 11:39:41 UTC-3
+| image = Structural damage after Pichilemu earthquake, as seen in April 2011.jpg
+| image alt = House damaged by the Pichilemu earthquake, in the epicentre town, as seen on 16 April 2011.
+| image name = House damaged by the Pichilemu earthquake, in the epicentre town, as seen on 16 April 2011.
+| map2 = File:2010PichilemuShakeMapUSGS.png|210px
+| caption = Pichilemu earthquake wikt:shakemap|shakemap produced by the United States Geological Survey
+| magnitude = 6.9 Moment magnitude scale|M<sub>w</sub><br /> 6.3 Richter magnitude scale|M<sub>L</sub>
+| intensity = Modified Mercalli intensity|MM X
+| depth = {{convert|33.1|km|mi|...}}
+| location = Pichilemu, Chile <br />{{Coord|34.301|S|72.13|W|display =inline,title}}
+| countries affected = Chile<br /> Argentina
+| tsunami = #Tsunami|Yes
+| casualties = 1 killed
+| PGA = 0.086''Peak ground acceleration|g'' (Curicó, Maule Region|Maule)
+}}
+The '''2010 Pichilemu earthquake''' ({{lang-es|link=no|Terremoto de Pichilemu de 2010}}), also known as the '''Libertador O'Higgins earthquake''', was a 6.9 Moment magnitude scale|M<sub>W</sub> intraplate earthquake|intraplate earthquake that struck Chile's O'Higgins Region on 11 March 2010. The earthquake was centred {{convert|15|km|mi|1}} northwest of the city of Pichilemu, according to the University of Chile Seismological Service.
+
+The earthquake was caused by increased regional compression (geology)|stress arising from an 2010 Chile earthquake|earthquake on 27 February, centered offshore Maule Region, which was felt throughout central Chile. The 11 March earthquake was at first thought to be an aftershock from the 27&nbsp;February event, but University of Chile Seismologist Jaime Campos identified it as an "independent earthquake". The Hawaii-based Pacific Tsunami Warning Center pointed out the possibility of local tsunamis within {{convert|100|km|mi}} of the epicentre, although small, but violent waves were seen in the Pichilemu and Bucalemu area. One person was reported dead. At least eleven aftershocks immediately followed, causing panic throughout coastal towns between the Coquimbo Region|Coquimbo and Los Lagos Region|Los Lagos regions.
+
+The earthquake was specially destructive in the epicentre town, Pichilemu, capital of Cardenal Caro Province. The city hosts five National Monuments of Chile, of which two, the Agustín Ross Park and the Agustín Ross Cultural Centre, were seriously damaged by the earthquake. It also damaged the villages of La Aguada, Pichilemu|La Aguada and Cardonal de Panilonco. Rancagua, the capital of O'Higgins Region, was also damaged, leading President Sebastián Pi?era to declare a catastrophe state in O'Higgins Region.
+
+==Background==
+File:Plaza Arturo Prat y Quioscos Después.jpg|thumb|left|The city of Pichilemu was "devastated" by the 2010 Chile earthquake|27 February 2010 earthquake and tsunami.
+Nearly all of the territory of Chile is subject to earthquakes, arising from strains in the subducting Nazca and South American Plates or shallow strike-slip faults. The subduction zone along the Chilean coast produced the most powerful earthquake ever recorded, the 1960 Valdivia earthquake. Some earthquakes which occurred near the epicentre of the 11 March 2010 event are the 1985 1985 Algarrobo earthquake|Algarrobo and 1985 Pichilemu earthquake|Pichilemu (or Lago Rapel) earthquakes.
+
+On 27 February 2010, a strong earthquake, which reached a magnitude of 8.8 on the moment magnitude scale, hit central Chile. The earthquake occurred in the region of the plate boundary between the Nazca plate|Nazca and South American plates, offshore Maule Region. The earthquake produced a tsunami which caused great damage in cities and towns along the Chilean coast; Pichilemu was "devastated" after the earthquake and tsunami struck.
+
+The 6.9 earthquake of 11 March 2010 occurred two weeks after the 27 February event. Chilean seismologists, including Sergio Barrientos from the University of Chile Seismological Service, were worried about the "absence of an earthquake around magnitude 7 following the February 27 quake." Two foreshocks of the 11 March event occurred on 5 March: one reached magnitude 5.7, and the other magnitude 5.2; both were felt between the Valparaíso and Maule regions.
+
+==Geology==
+The Pichilemu earthquake was caused by the change in regional compression (geology)|stress from the 27&nbsp;February earthquake. Preliminary analyses by the United States Geological Survey (USGS) of the 11&nbsp;March earthquake locations and seismic-wave radiation patterns suggested that the event resulted from normal faulting within the subduction|subducting Nazca plate or the overriding South America plate, unlike the 27 February earthquake, which occurred as thrust faulting on the interface between the two plates. While news media reported the earthquake as an aftershock of the 2010 Chile earthquake|February earthquake in Chile, a preliminary geological summary issued by the USGS considered it to be an independent earthquake, a conclusion which seismologist Jaime Campos of the University of Chile also reached.
+
+File:Seismic Hazard Map 2010 Pichilemu Earthquake.jpg|thumb|Seismic hazard near the epicentre of the earthquake.
+
+The earthquake has been given three different locations: the University of Chile Seismological Service (''Servicio Sismológico de la Universidad de Chile'') stated that the event occurred {{convert|15|km|mi}} northwest of Pichilemu, at a depth of {{convert|33.1|km|mi}}; the United States Geological Service reported the earthquake occurred {{convert|105|km|mi}} west of Rancagua, capital of O'Higgins Region, at a depth of {{convert|11|km|mi}}; and local online newspaper ''Pichilemu News'' reported the earthquake occurred {{convert|35|km|mi}} northeast of Pichilemu, between the villages of Cardonal de Panilonco|Panilonco and La Aguada, Pichilemu|La Aguada, and reached a moment magnitude of 7.2.
+
+On 15&nbsp;March 2010, seismologist Mario Pardo from the University of Chile Seismological Service ruled out that Pichilemu was experiencing a Earthquake swarm|seismic swarm, after public concerns about the continued aftershocks in the area;
+ 
+In a 2012 publication titled ''Aftershock Seismicity of the 27 February 2010 Mw 8.8 Maule Earthquake Rupture Zone'', it was stated that, in total, 10,000 aftershocks were located in the Pichilemu area for the first six months after the mainshock; this pronounced crust (geology)|crustal aftershock activity with mainly fault (geology)#Dip-slip faults|normal faulting mechanisms found in approximately a {{convert|30|km|mi}} wide region, with sharp inclined borders and oriented oblique to the trench.
+
+==Reaction==
+File:Sebastián Pi?era asume como Presidente de Chile en solemne ceremonia en el Congreso Nacional.jpg|thumb|The earthquake took place just minutes before President of Chile|President Sebastián Pi?era was sworn in at the National Congress of Chile.
+The earthquake took place minutes before the new President of Chile, Sebastián Pi?era, was sworn in, at about {{Tooltip|12:15 local time|(15:15 UTC)}}, at the Chilean congress in Valparaíso, where the shaking was clearly felt. According to Spanish newspaper ''El Mundo (Spain)|El Mundo'', there was "nervousness" at the ceremony, and the ceremony narrator called for calm, adding that the Congress building could even stand stronger earthquakes.
+
+File:Presidente Pi?era en Rancagua tras terremoto de Pichilemu de 2010.jpg|thumb|left|President Pi?era's visit to Rancagua on the earthquake day
+
+Presidents Néstor Kirchner of Argentina, Evo Morales of Bolivia, ?lvaro Uribe of Colombia, Rafael Correa of Ecuador, and Fernando Lugo of Paraguay were present at the ceremony, but television footage showed that the inauguration was not interrupted, even though there was a tsunami warning in place; however, it was reported the ceremony was "speeded."
+
+President Pi?era cancelled the ceremonial lunch with his visitors and traveled to Rancagua, one of the cities most affected by the earthquake;
+
+==Tsunami==
+File:2010 Pichilemu earthquake - tsunami travel time map.jpg|thumb|left|Travel time map of the tsunami triggered by the 11 March 2010 Pichilemu earthquake.
+File:Militaries in the La Cruz Hill.jpg|thumb|right|Army personnel at La Cruz Hill, Pichilemu, shortly after the earthquake occurred.
+
+A Pacific Ocean|Pacific-wide tsunami warning was not issued by the Pacific Tsunami Warning Center, although the organization pointed out the possibility of local tsunamis within {{convert|100|km|mi}} of the epicentre, roughly the area between La Serena, Chile|La Serena and Concepción, Chile|Concepción. Following the tsunami warning system|tsunami alert, thousands of residents of central Pichilemu fled to La Cruz Hill, with some of them staying them for several days, The tsunami warning emitted by SHOA was lifted that same day at around {{Tooltip|15:50 local time|(18:50 UTC)}}.
+
+According to a preliminary report by the National Office of Emergency of the Interior Ministry (''Oficina Nacional de Emergencias del Ministerio del Interior'', ONEMI) on 11 March 2010, only 'small waves, without any special kind of characteristics' were seen in the area surrounding Pichilemu, and Bucalemu.
+
+==Damage and casualties==
+File:People camping in La Cruz Hill.jpg|thumb|Locals set an improvised camp at the La Cruz Hill in Pichilemu, shortly after the tsunami warning was decreed
+<!--File:Balaustrades of the Ross Park after Pichilemu earthquake.jpg|thumb|The Agustín Ross Park baluster|balustres were destroyed after the earthquake.-->
+File:Pichilemu post office demolition.jpg|thumb|left|The Pichilemu post-office building was severely damaged by the February and March earthquakes.
+At Pichilemu, the epicentre town, the earthquake destroyed the baluster|balustres surrounding Agustín Ross Park, damaged severely the recently re-inaugurated Agustín Ross Cultural Centre, and the Espinillo, Chile|Espinillo, and Rodeillo villages. The earthquake was accompanied by "great noise," according to witnesses from the Pichilemu villages of 
+Cardonal de Panilonco and La Aguada, Pichilemu|La Aguada;
+
+Outside Pichilemu, in Rancagua, local mayor Eduardo Soto reported severe damage to homes in the town. and there were partial power outages in Mostazal, San Fernando, Chile|San Fernando and Peumo. The old Basílica del Salvador in Santiago, which was damaged during the 1985 Algarrobo earthquake and was never repaired, suffered additional damage.
+
+One person died of a heart attack during the earthquake in Talca, Maule Region. 177 kilometers northeast of Pichilemu.
+
+According to the U.S. National Oceanic and Atmospheric Administration's National Geophysical Data Center, the damage provoked by the earthquake and its accompanying small tsunami was "limited", adding that "a rough estimate of the US dollar|dollar amount of damage" was "roughly corresponding to less than one million".
+
+==Aftershocks==
+File:House in Pichilemu, Chile, after 2010 earthquake.jpg|thumb|Several buildings in Pichilemu were damaged after the earthquake and its aftershocks.
+Following the main shock, there were two aftershocks of magnitude 6 or greater. The first of them occurred at {{Tooltip|11:55 local time|(14:55 UTC)}}, fifteen minutes after the initial quake, and was centered in the commune of La Estrella, Chile|La Estrella, Cardenal Caro Province, at a depth of {{convert|18.0|km|mi}}, reaching a magnitude of 6.7; another aftershock, of magnitude 6.0, took place eleven minutes later, at {{Tooltip|12:06 local time|(15:06 UTC)}}, this time centered in Pichilemu, at a depth of {{convert|29.3|km|mi}}. In total, there were ten aftershocks within the six hours after the 6.9 magnitude earthquake, two of magnitude 6 or greater, and seven between 5 and 6.
+
+Almost two months later, on 2 May 2010, an aftershock of magnitude 5.8 Moment magnitude scale|M<sub>W</sub> struck the Chilean O'Higgins Region, at {{Tooltip|10:52 local time|(14:52 UTC)}}. The aftershock was centered {{convert|44|km|mi|0}} southwest of Navidad, Chile|Navidad, and occurred at a depth of  {{convert|32.9|km|mi|0}}, according to the University of Chile Seismological Service. The National Emergencies Office (ONEMI) reported that the aftershock was felt most strongly in Talca, {{convert|258|km|mi}} south of Santiago, and that there were no casualties, only some telephone lines had collapsed. Six other aftershocks subsequently hit the Pichilemu area that day. The United States Geological Survey measured the aftershock with a magnitude of 5.9.
+
+A further aftershock of the Pichilemu earthquake occurred on 29 September 2010 at {{Tooltip|12:29 local time|(16:29 UTC)}}. {{convert|43|km|mi}} southwest of Santa Cruz, Chile|Santa Cruz, Telephone lines collapsed in O'Higgins Region. No infrastructural damage or casualties was reported. The aftershock was felt between the Valparaíso Region|Valparaíso and Maule Region|Maule regions. The event reached Mercalli intensity scale|Mercalli V intensity in Rancagua, Navidad, Chile|Navidad, Talca, Curicó, amid other cities and towns.
+
+As of February 2013, there have been about 8,500 aftershocks of the Chilean February and March 2010 earthquakes according to the University of Chile Seismological Service, with most taking place in the proximities of Pichilemu. Seismologist Sergio Ruiz said that "a significant number of aftershocks" will take place at least until 2015.
+
+==Media coverage==
+File:El Mercurio on Pichilemu earthquake.jpg|thumb|One of the headlines of nationally-distributed newspaper ''El Mercurio'' of 12 March 2010 was about the Pichilemu earthquake, along with the oath ceremony of President Pi?era on the day before.
+
+The earthquake was reported by local, national and international news media. Locally, online newspaper ''Pichilemu News'' published an article named "First signs of change?: Shaken handover ceremony in Chile because of new earthquake aftershocks" ("?Los primeros signos del cambio?: Movido cambio de mando se vivió en el país ante nuevas réplicas del terremoto") on 11 March; The only local radio that continued broadcasting through the day of the earthquake was ''Radio Entre Olas'', directed by Jorge Nasser Guerra, who along with two other radio workers, reportedly were the only not to be evacuated after the earthquake in Pichilemu. Because the earthquake provoked a power outage, the radio worked with "emergency equipment". Previously, after the 27 February earthquake, ''Entre Olas'' did not stop broadcasting either, despite there was a power outage that lasted for several days.
+
+Nationally-distributed newspaper ''El Mercurio'' published on its 12 March 2010 main page the headline "6.9 magnitude aftershock marks the most seismic day after the 2010 Chile earthquake|earthquake" ("Réplica de 6,9° marca el día más sísmico post terremoto"), adding that "seventeen of the twenty seisms that occurred yesterday 11 March in central-southern Chile had their epicentre in Pichilemu, Region of O'Higgins, which was declared in Disaster State yesterday." On that same day, Santiago de Chile|Santiago-based newspaper ''La Tercera'' published on their headline: "Pi?era faces first crisis as he takes office as new President" ("Pi?era enfrenta primera crisis al asumir como nuevo Presidente"); ''La Tercera'' ellaborated: "The 6.9 Richter magnitude earthquake, which occurred minutes before the power handover took place, added an additional quota of drama to the oath of Sebastián Pi?era, whose agenda was already modified by the 27 February disaster." Other newspapers of national distribution where the earthquake was reported on its main page included ''Las ?ltimas Noticias'' (which featured a photograph of President Pi?era aboarding a helicopter in military dress), ''Publimetro#South America and Caribbean|Publimetro'', and ''La Nación (Chile)|La Nación'', whose main headline said "Emergency measures marked start of Pi?era's presidency" ("Medidas de emergencia marcan partida de Pi?era").
+
+File:New York Times on 2010 Pichilemu earthquake.jpg|thumb|left|''The New York Times'' included a headline on their 12 March 2010 main page titled "For Chile, More Aftershocks and An Inauguration", featuring a photograph of presidents Fernando Lugo|Lugo and Rafael Correa|Correa during the earthquake.
+
+Throughout Chile, regional newspapers also reported the earthquake and tsunami warning on their edition of 12 March 2010. Among these are ''La Estrella de Arica'' (Arica), ''La Estrella de Iquique'' (Iquique), ''El Mercurio de Antofagasta'', ''La Estrella del Norte'' (both from Antofagasta), ''El Mercurio de Calama'', ''La Estrella del Loa'' (both from Calama, Chile|Calama), ''El Diario de Atacama'', ''Diario Cha?arcillo'' (both from Copiapó), ''El Día'' (La Serena, Chile|La Serena), ''El Mercurio de Valparaíso'', ''La Estrella de Valparaíso'' (both from Valparaíso), ''El Líder'' (San Antonio, Chile|San Antonio), ''El Tipógrafo'' (Rancagua), ''La Prensa (Curicó)|La Prensa'' (Curicó), ''El Sur'' (Concepción, Chile|Concepción), ''El Austral de Temuco'' (Temuco), ''El Diario Austral de Los Ríos'' (Valdivia), ''El Austral de Osorno'' (Osorno, Chile|Osorno), ''El Llanquihue'' (Puerto Montt), and ''La Prensa Austral'' (Punta Arenas).
+
+Among the international media who reported on the quake were the BBC, The newspaper published an extensive article titled "Aftershocks Jolt Chile as New President Is Sworn In", which stated that the earthquake "almost overshadowed the inauguration of Chile’s first right-wing leader in 20 years Pi?era." Other newspapers who included headlines on the earthquake on their 12 March 2010 main pages include ''El Mundo (Spain)|El Mundo'', ''El País'', ''ABC (newspaper)|ABC'' (the three from Madrid, Spain), ''Clarín (Argentine newspaper)|Clarín'' (Buenos Aires, Argentina), ''Bild'' (Berlin, Germany), ''El Colombiano'' (Medellín, Colombia), ''El Tiempo (Colombia)|El Tiempo'' (Bogotá, Colombia), ''The Dallas Morning News'' (Dallas, Texas|Dallas, Texas, United States of America), ''El Comercio (Peru)|El Comercio'' (Lima, Peru), and ''Excélsior'' (Mexico City, Mexico).
+
+==See also==
+{{Portal|Pichilemu}}
+* 1985 Pichilemu earthquake
+* List of earthquakes in Chile
+
+==References==
+{{reflist|colwidth=30em}}
+* {{USGS|article=Magnitude 6.9 – Libertador O'Higgins, Chile: Summary|url=http://earthquake.usgs.gov/earthquakes/recenteqsww/Quakes/us2010tsa6.php#summary|comment=in the "Geological background" section}}
+
+==External links==
+{{commons category}}
+* http://ciperchile.cl/2010/03/12/la-replica-los-nervios-la-piocha-y-el-escaso-protocolo-que-deslucieron-el-cambio-de-mando/ Story of the handover ceremony, CIPER Chile (http://web.archive.org/web/20100315114133/http://ciperchile.cl/2010/03/12/la-replica-los-nervios-la-piocha-y-el-escaso-protocolo-que-deslucieron-el-cambio-de-mando archived version) {{es icon}}
+* http://www2.udec.cl/~revgeosur/ed2/revgeosur_N2_quezada.pdf "Vertical coseismic movements and geomorphological  changes generated by the Mw = 8,8 earthquake, february 27th 2010 in south-central Chile", article by University of Concepción academics. {{es icon}}
+* http://www.dgf.uchile.cl/~sruiz/Papers/books/13-30.pdf "Sismogénesis, proceso de ruptura y réplicas del mega terremoto del Maule 2010", article published by the Faculty of Mathematical and Physical Sciences of the University of Chile. {{es icon}}
+
+{{Earthquakes in 2010}}
+{{Pichilemu}}
+{{Earthquakes in Chile}}
+
+{{GA icon}}
+
+{{DEFAULTSORT:Pichilemu earthquake, 2010}}
+Category:Earthquakes in Chile
+Category:2010 earthquakes
+Category:2010 in Chile
+Category:2010 Chile earthquake
+Category:History of Pichilemu|Earthquake
+Category:History of O'Higgins Region|2010 Pichilemu earhquake
+Category:21st-century tsunamis

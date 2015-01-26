@@ -1,0 +1,54 @@
+{{Earthquake
+|title              = 2009 Costa Rica Earthquake
+|date               = {{Start date|2009|01|08}}
+|map2 = {{Location map many | Costa Rica|relief=1
+ | label=
+ | lat=10.197
+ | long=-84.159
+ | mark=Bullseye1.png
+ | marksize=40
+ | position=top
+ | width= 250
+ | float=right 
+ | caption=}}
+|magnitude          = 6.1&nbsp;Moment magnitude scale|M<sub>w</sub> (6.2&nbsp;Richter magnitude scale|M<sub>L</sub>)
+|depth              = {{convert|4.5|km|mi|abbr=on}}
+|location           = {{Coord|10.197|N|84.159|W|display=inline,title}}
+|countries affected = {{flagcountry|Costa Rica}},<br/>{{flagcountry|Nicaragua}}
+|casualties         = 34 dead, 91 injured,
+}}
+The '''2009 Costa Rica earthquake''' (also known as '''Cinchona Earthquake'''), occurred at 1:21:34&nbsp;pm UTC?06:00|local time (19:21:34 UTC) on January 8, 2009.  The epicenter of the 6.1&nbsp;Moment magnitude scale|M<sub>w</sub> earthquake was in northern Costa Rica, {{convert|30|km|mi}} north-northwest of San José, Costa Rica|San José. It was felt all over Costa Rica as well as in southern central Nicaragua.
+
+==Damage==
+File:2009CostaRicaEarthquake2.jpg|thumb|left|200px|A house collapsed after earthquake.
+File:2009CostaRicaEarthquake.jpg|thumb|left|200px|Landslide seen from a helicopter.
+The earthquake took at least 34 lives, and injured at least 91. Most of the victims died when a landslide occurred near the La Paz Waterfall, Costa Rica|La Paz waterfall by the Poás Volcano, and 452 people including 369 tourists were evacuated from the area in helicopters. The town of Cinchona was heavily hit, and all of the buildings there were heavily damaged.
+
+==Aftermath==
+The Costa Rican International Red Cross and Red Crescent Movement|Red Cross sent 400 personnel to assist in the recovery. The agency said, "Some 42 communities were affected and sustained serious impacts on civil and electrical infrastructure... They are going to need a lot of help."
+Four helicopters were also dispatched in order to help aid efforts.  Additionally, the United States and Colombia dispatched helicopters with aid to assist with the relief and recovery efforts.
+
+About 2,000 aftershocks were felt throughout Costa Rica.
+
+On January 12, President Oscar Arias declared a five day period of national grieving out of respect for the victims, and asked the organizers of the ''Fiestas de Palmares{{disambiguation needed|date=January 2012}}'' to postpone them.
+
+On January 13, the Banco de Costa Rica announced that it would offer home financing credit to homeowners who want to rebuild or fix their home.
+
+== See also ==
+*List of earthquakes in Costa Rica
+
+==References==
+{{Wikinews|Strongest earthquake in 150 years hits Costa Rica}}
+{{reflist|30em}}
+
+==External links==
+* http://www.newscred.com/costa-rica-earthquake Latest news articles about the Costa Rica Earthquake
+* http://anf.ucsd.edu/spevents/2009/008/a/ EarthScope USArray Array Network Facility records Costa Rica Earthquake - maps and waveforms from the event 
+
+{{Earthquakes in 2009}}
+
+{{DEFAULTSORT:2009 Costa Rica Earthquake}}
+Category:2009 in Costa Rica|Costa Rica
+Category:2009 earthquakes|Costa Rica
+Category:Geography of Costa Rica
+Category:Earthquakes in Costa Rica

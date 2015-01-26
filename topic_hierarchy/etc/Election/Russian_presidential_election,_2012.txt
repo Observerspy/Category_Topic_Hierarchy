@@ -1,0 +1,415 @@
+{{Use dmy dates|date=May 2012}}
+{{Infobox election
+| election_name = Russian presidential election, 2012
+| country = Russia
+| type = presidential
+| ongoing = no
+| previous_election = Russian presidential election, 2008
+| previous_year = 2008
+| next_election = Russian presidential election, 2018
+| next_year = 2018
+| election_date =  4 March 2012
+<!-- Putin -->
+| image1 = [[File:Vladimir Putin - 2006.jpg|110px|Vladimir Putin]]
+| nominee1 = '''[[Vladimir Putin]]'''
+| party1 = United Russia
+| popular_vote1 = '''46,602,075'''
+| percentage1 = '''63.6%'''
+<!-- Zyuganov -->
+| image2 = [[File:Gennady Zyuganov 2012-05-01.jpg|106px|Gennady Zyuganov]]
+| nominee2 = [[Gennady Zyuganov]]
+| party2 = Communist Party of the Russian Federation
+| popular_vote2 = 12,318,353
+| percentage2 = 17.2%
+<!-- Prokhorov -->
+| image3 = [[File:Prokhorov2009.jpg|150px|Mikhail Prokhorov]]
+| nominee3 = [[Mikhail Prokhorov]]
+| party3 = Independent (politician)
+| popular_vote3 = 5,722,508
+| percentage3 = 8.0%
+<!-- Zhirinovsky -->
+| image4 = [[File:Vladimir Zhirinovsky (cremlin.ru).jpg|100px|Vladimir Zhirinovsky]]
+| nominee4 = [[Vladimir Zhirinovsky]]
+| party4 = Liberal Democratic Party of Russia
+| popular_vote4 = 4,458,103
+| percentage4 = 6.2%
+<!-- Mironov -->
+| image5 = [[File:Sergey Mironov 5.jpg|100px|Sergey Mironov]]
+| nominee5 = [[Sergey Mironov]]
+| party5 = A Just Russia
+| popular_vote5 = 2,763,935
+| percentage5 = 3.9%
+<!-- bottom -->
+| title             = President
+| before_election   = [[Dmitry Medvedev]]
+| before_party      = United Russia
+| posttitle         = President-elect
+| after_election    = [[Vladimir Putin]]
+| after_party       = United Russia
+}}
+
+The '''2012 Russian presidential election''' was held on 4 March 2012.<ref>{{cite news |title=Russia's presidential elections scheduled for March 2012 |url=http://www.b92.net/eng/news/world-article.php?yyyy=2011&mm=07&dd=21&nav_id=75561 |work=[[B92]] |agency=[[RIA Novosti]] |date=21 July 2011 |accessdate=25 September 2011}}</ref> There were five officially-registered candidates: four representatives of registered parties and one independent. The election was for a new, extended term of six years.
+
+At the United Russia Congress in Moscow on 24 September 2011, [[President of Russia|Russian president]] [[Dmitry Medvedev]] proposed that his predecessor, [[Vladimir Putin]] stand for the Presidency in 2012; an offer which Putin accepted. Putin immediately offered Medvedev to stand on the United Russia ticket in the parliamentary elections in December and becoming [[Prime Minister of Russia]] at the end of his presidential term.<ref>{{cite news |title=Russia's Putin set to return as president in 2012 |url=http://www.bbc.co.uk/news/world-europe-15045816 |newspaper=BBC News |date=24 September 2011 |accessdate=24 September 2011}}</ref>
+
+All independents had to register by 15 December, and candidates nominated by parties had to register by 18 January. The final list was announced on 29 January. On 2 March, outgoing President Dmitry Medvedev addressed the nation on the national television channels about the following presidential election. He invited the citizens of Russia to vote in the election to be held on 4 March 2012.<ref>{{cite news |title='I'm Sure You'll Make Right Choice,' Medvedev Tells Nation|url=http://en.rian.ru/society/20120302/171681349.html |agency=[[RIA Novosti]] |date=2 March 2012 |accessdate=4 March 2012}}</ref>
+
+Russian Prime Minister Vladimir Putin received 63.64% of the vote with almost 100% of the votes counted.<ref>{{cite web|url=http://rt.com/news/putin-win-presidential-election-813/ |title=Putin declared president-elect|publisher=Rt.com |accessdate=5 March 2012}}</ref><ref>[http://www.cikrf.ru/info_center/itogi.html Central Election Commission of the Russian Federation]. Cikrf.ru. Retrieved on 5 March 2012.</ref> With this election, Putin secured a record third term in the [[Moscow Kremlin|Kremlin]].<ref>[http://rt.com/news/putin-win-supporters-speech-827/ ‘We won!’ Teary-eyed Putin proclaims victory (PHOTOS, VIDEO)], [[RT (TV network)|RT]], 2012-03-04</ref>
+
+[[Organization for Security and Co-operation in Europe]] observers assessed the voting on the election day positively overall, but assessed the vote count negatively in almost one-third of polling stations due to procedural irregularities.<ref name=OSCE>{{cite web|title=Russia’s presidential election marked by unequal campaign conditions, active citizens’ engagement, international observers say|url=http://www.osce.org/odihr/elections/88661|publisher=[[Organization for Security and Co-operation in Europe]]}}</ref> The next presidential election will be in 2018.<ref name=nytimes-2018>{{cite news|last=Herszenhorn|first=David M.|title=Observers Detail Flaws in Russian Election|url=http://www.nytimes.com/2012/03/06/world/europe/observers-detail-flaws-in-russian-election.html|accessdate=5 March 2012|newspaper=New York Times|date=5 March 2012}}</ref>
+
+==Candidates==
+The following are individuals who submitted documents required to be officially registered as a presidential candidate to the Central Election Commission.
+
+===Registered candidates===
+The following candidates were successfully registered by the Central Election Commission:
+
+*[[Sergey Mironov]], nominated by [[A Just Russia]]
+*[[Mikhail Prokhorov]], independent, running as self-nominated<ref>{{cite news |title=Russia billionaire Mikhail Prokhorov to challenge Putin |url=http://www.bbc.co.uk/news/world-europe-16138739 |newspaper=BBC News |date=12 December 2011 |accessdate=4 March 2012}}</ref>
+*[[Vladimir Putin]], nonpartisan, nominated by [[United Russia]] and endorsed by [[Patriots of Russia]]<ref>[http://www.patriot-rus.ru/mainNews/nws_566/ Official Statement of Political Party "PATRIOTS OF RUSSIA"]. Patriot-rus.ru (19 December 2011). Retrieved on 5 March 2012.</ref>
+*[[Vladimir Zhirinovsky]], nominated by [[Liberal Democratic Party of Russia]]
+*[[Gennady Zyuganov]], nominated by [[Communist Party of the Russian Federation]]
+
+===Rejected===
+
+The following candidates were denied registration by the Russian Central Elections Committee (CEC).
+{| class="wikitable"  style="text-align: center"
+|-
+! Name
+! Party
+! Profession
+! Reason of rejection
+|-
+![[Grigory Yavlinsky]]
+|[[Yabloko]]
+|Politician, Economist
+|Rejected due to the high quantity of invalid signatures he presented<ref>{{cite news |title=Russian opposition leader to be left off ballot |first=Val Brickates |last=Kennedy |url=http://www.marketwatch.com/story/russian-opposition-leader-to-be-left-off-ballot-2012-01-24 |newspaper=[[MarketWatch]] |date=24 January 2012 |accessdate=4 March 2012}}</ref> to the CEC (25.66%).<ref>{{cite web|title=Yavlinsky Officially Rejected as Presidential Candidate|url=http://en.ria.ru/russia/20120127/170980797.html|work=[[RIA Novosti]]|date=27 Jan 2012}}</ref>
+|-
+|[[Eduard Limonov]]
+|Independent
+|Writer, leader of the unregistered party [[The Other Russia (party)|The Other Russia]]
+|Registration request from group of voters turned down on the grounds that the required initiative committee members signatures had not been certified by a notary.<ref>{{cite web|url=http://rt.com/news/line/2011-12-30/ |title=December 30, 2011 – RT News line |publisher=Rt.com |date=30 December 2011 |accessdate=27 February 2012}}</ref>
+|-
+![[Leonid Ivashov]]
+|Independent
+|Colonel General in Reserve, President of the Academy of Geopolitical Affairs
+|Registration request from group of voters turned down because he did not inform the CEC about holding a meeting in due time.<ref name="ElectionsPDF">{{cite web|url=http://www.ifes.org/~/media/Files/Publications/White%20PaperReport/2012/FAQ_Russian_Election_2012.pdf|title=Elections in Russia The March 4 Presidential Election Frequently Asked Questions|work=[[International Foundation for Electoral Systems]]|date=2 March 2012}}</ref>
+|-
+![[Dmitry Mezentsev]]
+|Independent
+|Governor of the [[Irkutsk Oblast]]
+|Rejected due to the high quantity of invalid signatures he presented.<ref name="ElectionsPDF"/>
+|-
+![[Nicolai Levashov]]
+|Independent
+|Writer
+|Registration request turned down because at the time of registration attempt he had lived in Russia for less than 10 years.<ref>{{cite web|url=http://en.ria.ru/russia/20111216/170306004.html|title=Eight self-promoted candidates ready to enter Russian presidential race|work=[[RIA Novosti]]|date=16 December 2011}}</ref>
+|-
+!Boris Mironov
+|Independent
+|Writer, former leader of the [[National Sovereignty Party of Russia]]
+|Registration request from group of voters turned down on the grounds that the candidate had been previously convicted of writing extremist texts.<ref name="themoscowtimes1">{{cite news |title=Presidential Race Lacks Independents |first=Alexander |last=Bratersky |url=http://www.themoscowtimes.com/news/article/presidential-race-lacks-independents/450101.html |newspaper=[[The Moscow Times]] |date=19 December 2011 |accessdate=4 March 2012}}</ref>
+|-
+!Svetlana Peunova
+|Independent
+|Head of the unregistered political party Volya
+|Rejected due to the lack of signatures gathered to uphold her bid (243,245 signatures gathered out of the necessary 2 million).<ref name="ThreeRusDenied">{{cite web|title=Three Russian Presidential Candidates Denied Registration|url=http://en.rian.ru/society/20120120/170861922.html|work=[[RIA Novosti]]|date=20 January 2012}}</ref>
+|-
+!Viktor Cherepkov
+|Independent
+|Leader of the unregistered party Freedom and Sovereignty
+|Did not present any signatures required for registration.<ref name="ThreeRusDenied"/>
+|-
+!Rinat Khamiev
+|Independent
+|Leader of the Chairman of the People's Patriotic Union of Orenburg, CEO of Zorro LLC
+|Did not present any signatures required for registration.<ref name="ThreeRusDenied"/>
+|-
+!Dmitry Berdnikov
+|Independent
+|Leader of the group "Against Criminality and Lawlessness"
+|Submitted an application on creation of an initiative committee, but later dropped out of the registration process.{{Citation needed|date=March 2012}}
+|-
+!Lidiya Bednaya
+|Independent
+|Unknown
+|Rejected by the CEC because she didn't provide the necessary documentation.{{Citation needed|date=March 2012}}
+|}
+
+==Campaigning==
+
+===Mironov's campaign===
+{{Expand section|date=March 2012}}
+
+===Prokhorov's campaign===
+{{Expand section|date=March 2012}}
+Mikhail Prokhorov made a tour around the country, meeting with his supporters in various cities. He was the only candidate to do so except for Putin, who, however, visited Russia's regions as a part of his [[Prime Minister of Russia]] duties.
+
+===Putin's campaign===
+{{Wikisource|Vladimir Putin/Articles}}
+In the course of the 2012 presidential campaign, in order to present his manifesto, Putin published 7 articles in different [[Media of Russia|Russian newspapers]]. In those articles, he presented his vision of the problems which Russia successfully solved in the last decade and the goals yet to be achieved. The topics of the articles were as follows: the general overview, the ethnicity issue, economic tasks, democracy and government efficiency, social policy, military, foreign policy.<ref>[http://neprussia.ru/news/maximum/1170 7 статей и джек-пот: Путин завершил серию публикаций]</ref>
+
+====Speeches====
+[[File:Moscow rally 23 February 2012, Luzhniki 2.jpg|thumb|300px|Panorama of the 23 February Luzhniki rally, where Putin made his ''Borodino'' speech]]
+During the campaign Putin made a single outdoor public speech at a 100,000-strong rally of his supporters in the [[Luzhniki Stadium]] on 23 February, Russia's [[Defender of the Fatherland Day]].<ref name=rian-luzhniki>[http://en.rian.ru/video/20120223/171487865.html Putin Supporters Fill Moscow Stadium] [[RIAN]]</ref> In the speech he called not to betray the [[Mother Russia|Motherland]], but to love her, to unite around Russia and to work together for the good, to overcome the existing problems.<ref name=vz-luzhniki>[http://vz.ru/news/2012/2/23/563536.html Путин: Главное, чтобы мы были вместе] vz.ru {{ru icon}}</ref> He said that foreign interference in Russian affairs should not be allowed, that Russia has its own free will.<ref name=vz-luzhniki/> He compared the political situation at the moment (when fears were spread in the Russian society that the [[2011–13 Russian protests]] could instigate a [[color revolution]] directed from abroad) with the [[First Fatherland War]] of 1812, reminding that its 200th anniversary and the anniversary of the [[Battle of Borodino]] would be celebrated in 2012.<ref name=vz-luzhniki/> Putin cited [[Lermontov]]'s poem ''[[Borodino (poem)|Borodino]]'' and ended the speech with [[Vyacheslav Molotov]]'s famous [[Great Patriotic War]] slogan "The Victory Shall Be Ours!" (''"Победа будет за нами!"'').<ref name=rian-luzhniki/><ref name=vz-luzhniki/>
+
+The BBC reported that some attendees claimed they had been made to take part in the rally or paid. Some said they had been told they were attending a "folk festival". After Putin spoke, popular folk band [[Lubeh]] took to the stage.<ref>[http://www.bbc.co.uk/news/world-europe-17136644 ''Putin tells stadium rally 'battle' is on for Russia''], BBC, retrieved 28/2/2012</ref>
+
+===Zhirinovsky's campaign===
+{{Expand section|date=March 2012}}
+[[Vladimir Volfovich Zhirinovsky]] is a veteran of Russian politics who has participated in five presidential [[elections in Russia]] (every election since 1996). Zhirinovsky's campaign slogan for 2012 was "Vote Zhirinovsky, or things will get worse".<ref name=clown-showman>[http://www.bbc.co.uk/news/world-europe-16750990 Profiles of Russia's 2012 presidential election candidates] [[BBC]]</ref> [[Proshka]], an [[donkey|ass]] owned by [[Vladimir Zhirinovsky]], became prominent during the presidential campaign, when he was filmed in an election advertisement video. On the last episode of debates with Prokhorov, just before the elections, Zhirinovsky produced a scandal, calling those Russian celebrities which supported Prokhorov, including a pop-[[diva]] and a veteran of Russian pop  scene [[Alla Pugacheva]], "prostitutes" ("I thought you are an artful person, politician, cunning man, but you are just a clown and a psycho" replied Pugacheva. "I am what I am. And such is my charm" replied Zhirinovsky).<ref>[http://lenta.ru/news/2012/02/28/scandal/ Жириновский устроил скандал на дебатах с Пугачевой] [[Lenta.ru]]</ref>
+
+{{See also|Vladimir Zhirinovsky's donkey video}}
+
+===Zyuganov's campaign===
+{{Expand section|date=March 2012}}
+In September 2011, [[Gennady Zyuganov]] again became the CPRF's candidate for the Russian presidential election. According to Zyuganov, "a gang of folks who cannot do anything in life apart from dollars, profits and mumbling, has humiliated the country" and called for a new international alliance to "counter the aggressive policies of imperialist circles."<ref>{{cite news|url=http://rt.com/politics/russia-communists-congress-zyuganov-589-307/|title=Communists pledge to stop ‘dollar-lovers’ experiment on Russia’|publisher=RT|date=24 September 2011|accessdate=24 September 2011}}</ref>
+
+==Opinion polls==
+
+===Election forecasts===
+{| class="wikitable" style="font-size:95%;line-height:14px;"
+|- style="background:lightgrey;"
+! rowspan="3" style="width:60px;"| Poll source
+! rowspan="3" style="width:60px;"| Date
+! style="width:60px;"| [[File:Vladimir Putin-2.jpg|60px]]
+! style="width:60px;"| [[File:Gennady Zyuganov 2012-05-01.jpg|60px]]
+! style="width:60px;"| [[File:Wladimir Schirinowski crooped.jpeg|60px]]
+! style="width:60px;"| [[File:Prokhorov.jpg|60px]]
+! style="width:60px;"| [[File:Siergiej Mironow.jpg|60px]]
+|-
+| bgcolor= {{United Russia/meta/color}} |
+| bgcolor= {{Communist Party of the Russian Federation/meta/color}} |
+| bgcolor= {{Liberal Democratic Party of Russia/meta/color}} |
+| bgcolor= {{Independent (politician)/meta/color}} |
+| bgcolor= {{A Just Russia/meta/color}} |
+|-
+! [[Vladimir Putin|Putin]]<br/><small>[[United Russia|YeR]]</small>
+! [[Gennady Zyuganov|Zyuganov]]<br/><small>[[Communist Party of the Russian Federation|KPRF]]</small>
+! [[Vladimir Zhirinovsky|Zhirinovsky]]<br/><small>[[Liberal Democratic Party of Russia|LDPR]]</small>
+! [[Mikhail Prokhorov|Prokhorov]]<br/><small>[[Independent (politician)|Ind]]</small>
+! [[Sergey Mironov|Mironov]]<br/><small>[[A Just Russia|SR]]</small>
+|- style="text-align:center;"
+! Levada
+![http://www.levada.ru/31-01-2012/metodologiya-analiza-elektoralnykh-ustanovok-izbiratelei 16–20 Dec 2011]
+| 63% || 13% || 12% || 3% || 6% 
+|- style="text-align:center;"
+! Levada
+![http://www.levada.ru/25-01-2012/utochnennye-yanvarskie-reitingi-odobreniya-polozheniya-del-v-strane-elektoralnye-predpoch 20–23 Jan 2011]
+| 63% || 15% || 8% || 5% || 5%
+|- style="text-align:center;"
+! FOM
+![http://bd.fom.ru/pdf/d0412.pdf 21–22 Jan 2012]
+| 52.2% || 18.0% || 10.8% || 6.7% || 6.6% 
+|- style="text-align:center;"
+! FOM
+![http://bd.fom.ru/pdf/d0412.pdf 28–29 Jan 2012]    
+| 54.6% || 16.9% || 11.7% || 6.9% || 5.9%
+|- style="text-align:center;"
+! FOM
+![http://bd.fom.ru/pdf/d0412.pdf 4–5 Feb 2012] 
+| 58.7% || 15.0% || 12.2% || 7.2% || 5.1%
+|- style="text-align:center;"
+! FOM
+![http://bd.fom.ru/pdf/d0412.pdf 11–12 Feb 2012] 
+| 60.0% || 16.7% || 9.5% || 7.4% || 5.0%
+|- style="text-align:center;"
+! VCIOM 
+![http://bd.fom.ru/pdf/d0412.pdf 11–12 Feb 2012] 
+| 58.6% || 14.8% || 9.4% || 8.7% || 7.7%
+|- style="text-align:center;"
+! Levada
+![http://www.levada.ru/24-02-2012/vybory-prezidenta-rf-elektoralnye-reitingi-prezentatsiya 17–20 Feb 2012]
+| 66% || 15% || 8% || 6% || 5%
+|- style="text-align:center;"
+! FOM
+![http://bd.fom.ru/pdf/d0412.pdf 18–19 Feb 2012] 
+| 58.7% || 16.2% || 8.8% || 8.6% || 6.1%
+|- style="text-align:center;"
+! VCIOM 
+![http://bd.fom.ru/pdf/d0412.pdf 25–26 Feb 2012] 
+| 59.9% || 15.1% || 7.7% || 8.7% || 7.1%
+|}
+
+===Open survey===
+{| class="wikitable sortable"  style="text-align: center"
+|-
+! Candidate
+! 24 December 2011
+! 24–25 December 2011
+! 7 January 2012
+! 14 January 2012
+! 14–15 January 2012
+! 21 January 2012
+! 28 January 2012
+! 12 February 2012
+|-
+![[Vladimir Putin]]
+|45 %
+|44 %
+|48 %
+|52 %
+|45 %
+|49 %
+|52 %
+|55 %
+|-
+![[Mikhail Prokhorov]]
+|4 %
+|4 %
+|3 %
+|2 %
+|3 %
+|4 %
+|4 %
+|6 %
+|-
+![[Gennady Zyuganov]]
+|10 %
+|12 %
+|10 %
+|11 %
+|11 %
+|8 %
+|9 %
+|-
+![[Vladimir Zhirinovsky]]
+|8 %
+|11 %
+|9 %
+|9 %
+|10 %
+|9 %
+|8 %
+|8 %
+|-
+![[Sergey Mironov]]
+|5 %
+|4 %
+|5 %
+|4 %
+|3 %
+|6 %
+|4 %
+|5 %
+|-
+![[Grigory Yavlinsky]]
+|2 %
+|2 %
+|2 %
+|1 %
+|1 %
+|-
+![[Dmitry Mezentsev]]
+| —
+| —
+|0 %
+|0 %
+| —
+|-
+!Other
+| —
+|2 %
+| —
+|0 %
+|1 %
+|-
+!Would not vote
+|10 %
+|9 %
+|9 %
+|10 %
+|10 %
+|9 %
+|11 %
+|9 %
+|-
+!Plan to ruin ballot
+| —
+|1 %
+| —
+| —
+|1 %
+|-
+!Don't know
+|12 %
+|12 %
+|10 %
+|9 %
+|13 %
+|9 %
+|10 %
+|8 %
+|-
+
+!Sample Size
+|1,600
+|3,000
+|1,600
+|1,600
+|3,000
+|1,600
+|1,600
+|1,600
+|-
+!''Poll Source''
+|[[VTSIOM]]<ref name="vciom-dec2011">{{cite web|url=http://wciom.ru/index.php?id=168 |title=По данным ВЦИОМ |publisher=Wciom.ru |accessdate=5 March 2012}}</ref>
+|[[:ru:ФОМ|Public Opinion Fund]]<ref name="fom-dec2011">{{cite web|url=http://bd.fom.ru/pdf/d52pv11.pdf |title=По данным Фонда «Общественное мнение |format=PDF |accessdate=5 March 2012}}</ref>
+|[[VTSIOM]]<ref name="vciom-dec2011"/>
+|[[VTSIOM]]<ref name="vciom-dec2011"/>
+|[[:ru:ФОМ|Public Opinion Fund]]<ref name="fom-jan2011">{{cite web|url=http://bd.fom.ru/pdf/d02pv12.pdf |title=По данным Фонда «Общественное мнение |format=PDF |accessdate=5 March 2012}}</ref>
+|[[VTSIOM]]<ref name="vciom-dec2011">{{cite web|url=http://wciom.com/index.php?id=150 |title=Ratings of presidential contenders |publisher=Wciom.com |accessdate=5 March 2012}}</ref>
+|[[VTSIOM]]<ref name="vciom-dec2011"/>
+|[[VTSIOM]]<ref name="vciom-dec2011"/>
+|}
+
+According to a "[[Levada Center]]" opinion poll from September 2011, 41% of Russian people wanted to see [[Vladimir Putin|Putin]] be a candidate in the 2012 elections as opposed to 22% for Medvedev, while 10% wanted someone else and 28% were unsure.<ref>{{cite web |url=http://www.levada.ru/press/2011091601.html |title=Россияне о президентских выборах |date=16 September 2011 |publisher=Levada |archiveurl=http://www.webcitation.org/61yQZ0sE9 |archivedate=25 September 2011}}</ref>
+
+==Results==
+[[File:Выборы президента России 2012 (Северодвинск).JPG|thumb|200px|right|Election of the President of the Russian Federation (2012)]]
+{{Russian presidential election, 2012}}
+There were over 108,000,000 eligible voters and almost all 95,000 polling stations had [[webcam]]s to observe the voting process. Following criticism of the vote in the [[Russian legislative election, 2011|December elections]], 2 web cameras were dedicated to streaming the activities at each [[polling station]], at an expense of a half billion dollars,<ref>{{Cite news |author= Brooke, James; Golloher, Jessica;  Nesnera, Andre de |title= After Big Protests, Russians Vote for President |url= http://www.voanews.com/learningenglish/home/After-Big-Protests-Russians-Vote-for-President--141242183.html |publisher= [[Voice of America]] |date= 2 March 2012 |accessdate=5 March 2012}}</ref> i.e. about $5,000 per polling station.
+
+==Claims of electoral irregularities==
+International observers from the [[Organization for Security and Co-operation in Europe]] (OSCE) found that although all competitors had access to the media, Putin was given clear prominence.<ref name=OSCE/> Strict candidate registration requirements also limited "genuine competition".<ref name=OSCE/> According to [[Tonino Picula]], the Special Co-ordinator to lead the short-term OSCE observer mission,
+<blockquote> “There were serious problems from the very start of this election. The point of elections is that the outcome should be uncertain. This was not the case in Russia. There was no real competition and abuse of government resources ensured that the ultimate winner of the election was never in doubt.”<ref name=OSCE/></blockquote>
+
+The OCSE observers concluded that voting on the day of the election was assessed positively overall, but the "process deteriorated during the vote count which was assessed negatively in almost one-third of polling stations observed due to procedural irregularities."<ref name=OSCE/> The OSCE called for a thorough investigation of the electoral violations and urged citizens to actively oversee future elections in order to increase confidence.<ref name=OSCE/>
+
+Allegations were made that Putin supporters had been driven around in coaches in order to vote for him in multiple constituencies (which is known as [[carousel voting]]).<ref>{{cite news| url=http://www.bbc.co.uk/news/world-europe-17256116 | work=BBC News | title=Russian elections: Hunting the 'carousel' voters | date=5 March 2012}}</ref>
+
+''[[Pravda]]'' alleged that industrial plants with a continuous-cycle production have violated the law by bussing workers to polling centres.<ref name="pr1">{{Cite news |title=И пусть нам приснится "карусель"... |url=http://www.pravda.ru/politics/elections/federal/04-03-2012/1110165-son_karusel-0/ |publisher=Pravda.RU |date=4 March 2012 |accessdate=5 March 2012}}</ref> The chairman of the Moscow Election Committee Valentin Gorbunov countered the accusation saying that this was normal practice and  did not constitute a violation. According to Iosif Diskin, a member of the [[Public Chamber of Russia]], there were special observers who controlled that workers have legal absentee certificates. Information about [[carousel voting]] was, according to him, not confirmed.<ref>{{Cite news |title=Иосиф Дискин: Никаких доказательств существования "каруселей" не выявлено |url=http://www.pravda.ru/news/politics/04-03-2012/1110159-diskin-0/ |publisher=Pravda.RU |date=4 March 2012 |accessdate=5 March 2012}}</ref> Georgy Fyodorov, director of the NGO "Citizens Watch" ("Гражданский контроль"), said that statements from the monitoring group [[GOLOS Association|GOLOS]] about carousel voting in [[Strogino District]] were false,<ref>{{Cite news |title=Федоров: Не все нарушения подтверждаются |url=http://www.pravda.ru/news/politics/04-03-2012/1110178-0/ |publisher=Pravda.RU |date=4 March 2012 |accessdate=5 March 2012}}</ref> however, Citizens Watch never addressed the evidence of the electoral fraud presented by GOLOS. The level of electoral manipulation is substantial. According to GOLOS, one third of all electoral commissions had substantial irregularities at the stage of vote counting and tabulation.<ref>{{Cite news |title=Краткое заявление ассоциации "ГОЛОС" по итогам наблюдения хода выборов Президента России, назначенных на 4 марта 2012 г. |url=http://www.golos.org/asset/5606 |date=4 March 2012 |accessdate=11 March 2012}}</ref>
+
+Claims that Putin's share of the vote was inflated by up to 10% were dismissed by Putin in a talk with journalists: "It's possible there were irregularities, probably there were some. But they can only influence hundredths of a per cent. Well, maybe one per cent; that I can imagine. But no more."<ref name=Irregularities>[http://www.telegraph.co.uk/news/worldnews/vladimir-putin/9129093/Russia-elections-Vladimir-Putin-admits-possible-irregularities.html ''Russia elections: Vladimir Putin admits "possible irregularities"''], Telegraph, retrieved 11/3/2012</ref> [[Ruža Tomašić]], OSCE observer from Croatia, noted that there were no irregularities at five polling stations near [[Kaluga]].<ref>http://www.tportal.hr/vijesti/svijet/181183/Nisam-vidjela-nepravilnosti-u-Rusiji.html | In Croatian</ref>
+
+Тhe [[Communist Party of the Russian Federation]] did not acknowledge the results of the election.<ref>{{Cite news |title=Мы не признаем выборы! |url=https://www.youtube.com/watch?v=iI6xeLyCHww |publisher=http://kprf.ru |date=4 March 2012 |accessdate=6 March 2012}}</ref>
+
+==Protests==
+{{main|2011–13 Russian protests}}
+On 11 March 2012 approximately 15,000–20,000 protesters demonstrated in [[Novy Arbat]] street against perceived fraud and Putin's rule.<ref name=Arbat>[http://www.telegraph.co.uk/news/worldnews/europe/russia/9135792/Moscow-protest-opposition-call-for-civil-rights-campaign-against-Vladimir-Putin-after-his-election-victory.html ''Moscow protest: opposition call for civil rights campaign against Vladimir Putin after his election victory''], Telegraph, retrieved 11/3/2012</ref> MP [[Ilya Ponomaryov]], a protest coordinator, described the protesters' plans: "We must be the government's constant nightmare and build up to a crescendo of protests at the time of Putin's inauguration in early May."<ref name=Arbat/>
+
+===Inauguration===
+Putin was [[Russian presidential inauguration|inaugurated]] in the [[Moscow Kremlin|Kremlin]] on 7 May 2012. Public protests had taken place in Moscow on 6 May with estimated 8,000<ref name=vz-provocation>[http://vz.ru/politics/2012/5/6/577272.html Провокация вместо марша] vz.ru</ref>-20,000 protesters taking part.<ref name="Russian police battle anti-Putin protesters">{{cite news|url=http://www.reuters.com/article/2012/05/06/us-russia-protests-idUSBRE8440CK20120506|title=Russian police battle anti-Putin protesters|publisher=Reuters|accessdate=7 May 2012|date=6 May 2012}}</ref> 80 people were injured in confrontations with police (including over 30 policemen)<ref>[http://lenta.ru/news/2012/05/10/more/ СК пересчитал пострадавших полицейских во время "Марша миллионов"] [[Lenta.ru]]</ref> and 450 arrests were made on 6 May<ref name="Inauguration protests">{{cite news|url=http://www.telegraph.co.uk/news/worldnews/vladimir-putin/9250729/Vladimir-Putin-inauguration-shows-how-popularity-has-crumbled.html|title=Vladimir Putin inauguration shows how popularity has crumbled|publisher=Telegraph|accessdate=7 May 2012|location=London|first=Tom|last=Parfitt|date=7 May 2012}}</ref> and another 120 arrests the following day.<ref name="Inauguration protests"/>
+
+==Price==
+The election cost 10.375 million roubles according to a report given by the Russian Central Election Commission. According to the report, during the campaign, budget funds have been spared.<ref>[http://www.itar-tass.com/en/c32/416072.html "Over 10 million roubles spent for presidential elections in RF – CEC", ITAR Tass, 12 May 2012.]</ref>
+
+==See also==
+*[[Bald–hairy]]
+
+==References==
+{{reflist|30em}}
+
+==External links==
+{{Commons category|Russian presidential elections, 2012}}
+*[http://webvybory2012.ru Online webcams in all the polling stations]
+*[http://www.themoscowtimes.com/topics/presidential-vote-2012/452089.html "Presidential Vote 2012"], The Moscow Times
+*[http://www.guardian.co.uk/world/russian-presidential-election-2012 Russian presidential election, 2012 at the ''Guardian'']
+*[http://russian.lingualift.com/blog/russian-elections-cameras/ Russian elections: Scrutinized by webcams]
+
+{{Russian elections}}
+
+[[Category:2012 elections in Europe]]
+[[Category:Presidential elections in Russia|2012]]
+[[Category:2012 elections in Russia]]
+[[Category:2011–13 Russian protests]]

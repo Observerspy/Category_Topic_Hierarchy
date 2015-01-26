@@ -1,0 +1,83 @@
+{{Earthquake
+|title= 1356 Basel earthquake
+|date= {{Start-date|October 18, 1356}}
+
+|image= Erdbeben Basel Jauslin.JPG
+|image alt          =
+|imagecaption       = Basel earthquake envisioned by the Swiss painter Karl Jauslin.
+
+|map                =
+|map alt            =
+|image name         =
+
+|map2 = {{Location map | Switzerland
+ | label=
+ | lat=47.5
+ | long=7.6
+ | mark=Bullseye1.png
+ | marksize=40
+ | position=top
+ | width= 250
+ | float=right
+ | caption=
+ | relief=yes}}
+|mapsize            =
+|caption            =
+|date               = <!-- {{Start date|YYYY|MM|DD}} -->
+|origintime         =
+|duration           =
+|magnitude = 6.2-6.5 Moment magnitude scale|M<sub>w</sub>
+|depth=
+|location={{coord|47.5|7.6|display=inline,title}}
+|type               =
+|countries affected = {{CHE}}, Basel
+|damage             =
+|intensity          =
+|PGA                = <!-- NN''Peak ground acceleration|g'' -->
+|landslide          =
+|foreshocks         =
+|aftershocks        =
+|casualties = 1,000
+}}
+Image:Erdbebenkreuz.JPG|thumb|right|Erdbebenkreuz ("Earthquake cross") in Reinach, Basel-Country|Reinach
+
+The '''Basel earthquake of 18 October 1356''' is the most significant Earthquake|seismological event to have occurred in Central Europe in recorded history and may have had a Moment magnitude scale|M<sub>w</sub> magnitude as strong as 7.1.
+
+The earthquake destroyed the town of Basel, Switzerland, sited near the southern end of the Upper Rhine Graben, and caused much destruction in a vast region extending into France and Germany. Though major earthquakes are common at the seismically active edges of tectonic plates in Turkey, Greece and Italy, intraplate earthquakes are rare events in Central Europe: according to the Swiss Seismological Service, of more than 10,000 earthquakes in Switzerland over the past 800 years, only half a dozen of them have registered more than 6.0 on the Richter scale.
+
+Due to the limited records of the event a variety of epicenters have been proposed for the earthquake.  Some of the proposed locations include a north-northeast to south-southwest fault along the Basel-Rheinach Escarpment|scarp that bounds the Rhine Graben or an east-west fault beneath the Jura Mountains.
+
+The earthquake could be felt as far away as Zürich, Konstanz and even in ?le-de-France. The maximum seismic intensity registered on the Medvedev-Sponheuer-Karnik scale|MSK scale was of IX–X. Notably, the macroseismic map was established on the basis of damages reported by the region's 30 to 40 castles.
+
+From this macroseismic data, various studies have been conducted to estimate the Moment magnitude scale|M<sub>w</sub> magnitude of the earthquake, which have resulted in various values of 6.2 (BRGM 1998); 6.0 (GEO-TER 2002); 6.9 (SED 2004) with a follow-up report suggesting a range of between 6.7 to 7.1; 6.6 (GFZ 2006); and a major Swiss study by 21 European experts, with American involvement, in which four sub-groups estimated values of 6.9, 6.9, 6.5 to 6.9, and 6.5 ± 0.5 (PEGASOS 2002 - 2004). There are also different opinions about which fault (geology)|faults were involved.
+
+After a precursor tremblor between 19:00 and 20:00 local time, the main earthquake struck in the evening at around 22:00, and numerous aftershocks followed during the night between October 18–19.
+
+The seismic crisis lasted a year. The modeling of the macroseismic data On the other hand, recent paleoseismologic studies attribute instead the cause of this earthquake to a normal fault, oriented NNE-SSW and south of the town. The significant magnitude of the event suggests a possible extension of this fault under the town itself.
+
+This earthquake is also known as the 'Séisme de la Saint-Luc', as 18 October is the feast day of Saint Luke the Evangelist.
+
+==See also==
+*Induced seismicity in Basel
+*Fessenheim Nuclear Power Plant
+
+==References==
+{{Reflist|30em}}
+{{Translation/Ref|fr|Tremblement de terre de B?le de 1356|oldid=12333789}}
+
+==External links==
+*http://www.newadvent.org/cathen/02338a.htm Catholic Encyclopedia article on the Diocese of Basel makes mentions the earthquake
+*http://www.burgenlexikon.eu/513.html Das Grosse Beben von Basel im Jahr 1356
+*http://www.altbasel.ch/dossier/erdbeben.html Critical description of the earthquake and its consequences (German)
+*http://nora.nerc.ac.uk/7678/1/Musson_etal_SJG.pdf Preparing a seismic hazard model for Switzerland: The view from PEGASOS Expert Group 3
+
+{{DEFAULTSORT:1356 Basel Earthquake}}
+Category:14th-century earthquakes|Basel earthquake, 1356
+Category:Reinach, Basel-Landschaft
+Category:Earthquakes in Europe|1356 Basel
+Category:Earthquakes in Switzerland|1356 Basel
+Category:1356 in Europe|Basel Earthquake, 1356
+Category:14th century in Switzerland
+Category:Earthquakes in Germany|1356 Basel
+Category:History of Basel
+Category:1356 disasters

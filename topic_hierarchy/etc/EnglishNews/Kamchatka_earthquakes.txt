@@ -1,0 +1,39 @@
+File:RussianEarthquakes.jpg|thumb|400px|Image of earthquakes occurring in and around Russia since 1900. Note that most of this seismicity is in the Kamchatka area.
+Three earthquakes, which occurred off the coast of Kamchatka Peninsula in far eastern Russia in 1737, 1923 and 1952, were megathrust earthquakes and caused tsunamis. They occurred where the Pacific Plate subducts under the Okhotsk Plate at the Kuril-Kamchatka Trench. The depth of the trench at the point of the earthquakes is 7,000–7,500 m. Northern Kamchatka lies at the western end of the Bering fault, between the Pacific Plate and North American Plate, or the Bering plate There are many more earthquakes and tsunamis originating from Kamchatka, of which the most recent was the 1997 Kamchatka earthquake and tsunami originating near the Kronotsky Peninsula.
+
+==1737 earthquake==
+The epicentres of the 1737 earthquake was located at {{coord|52.5|159.5|type:event}}. This earthquake occurred at a depth of 40&nbsp;km. A magnitude of 8.3 M<sub>s</sub>(9.0M<sub>w</sub>)has been estimated.
+
+==1923 earthquakes==
+On February 4, 1923, an estimated magnitude 8.3–8.5&nbsp;M<sub>w</sub> earthquake with an approximate location of {{coord|54.0|161.0|type:event}} triggered an 8 m tsunami that caused considerable damage in Kamchatka, with a number of reported deaths. There was another earthquake and tsunami in April 1923, which caused locally high tsunami runup near Ust' Kamchatsk, leaving a deposit studied by Minoura and others.
+
+==1952 earthquake==
+{{main|1952 Severo-Kurilsk tsunami}}
+The main earthquake struck at 16:58 GMT (04:58 local time) on November 4, 1952. Initially assigned a magnitude of 8.2, the quake was revised to 9.0 M<sub>w</sub> in later years.
+
+The hypocentre was located at {{coord|52.75|159.5|type:event|display=inline,title}}, at a depth of 30&nbsp;km. The length of the subduction zone fracture was 600&nbsp;km. Aftershocks were recorded in an area of approximately 247,000&nbsp;km<sup>2</sup>, at depths of between 40 and 60&nbsp;km. A recent analysis of the tsunami runup distribution based on historical and geological records give some indication as to the slip distribution of the rupture.
+
+==1959 earthquake==
+{{main|1959 Kamchatka earthquake}}
+
+==See also==
+*Megathrust earthquake
+*Tsunami
+*2006 Kamchatka earthquakes
+
+==References==
+{{Reflist|2}}
+
+==External links==
+*{{Ru icon}} http://beringisland.ru/quake.shtm Землетрясения на Командорских островах.
+*{{Ru icon}} http://www.ilovekamchatka.ru/index.php?showtopic=41 Землетрясения на Камчатке: информация, впечатления жетелей Камчатки.
+
+Category:1952 in the Soviet Union
+Category:Megathrust earthquakes in Russia
+Category:Megathrust earthquakes in the Soviet Union
+Category:1737 earthquakes
+Category:1952 earthquakes
+Category:Kamchatka Peninsula
+Category:Natural disasters in the Russian Far East
+Category:18th-century Tsunamis
+Category:20th-century tsunamis

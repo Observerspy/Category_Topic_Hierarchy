@@ -1,0 +1,58 @@
+{{Unreferenced|date=December 2009}}
+{{Politics of Georgia (country)}}
+A presidential election was held in the '''[[Republic of Georgia]]''' on January 4, 2004. The election followed the resignation of former President [[Eduard Shevardnadze]]. As expected, the main opposition leader, [[Mikhail Saakashvili]], was soon shown by exit polls to be heading for an overwhelming victory. According to preliminary results issued on January 6 by Georgia's Central Election Commission, Saakashvili won over 97% of the votes cast.
+
+The other candidates received less than 2% each. They were former presidential envoy to the [[Imereti]] region [[Temur Shashiashvili]], leader of the Lawyers of Georgia Party [[Kartlos Garibashvili]], one of the leaders of the political organization ''Mdzleveli'', [[Zurab Kelekhsashvili]], the President of the Coalition of [[NGO|Non-Government Organisations]] of the Disabled [[Zaza Sikharulidze]], and leader of the ''[[David Agmashenebeli]] Party'' [[Roin Liparteliani]].
+
+==National summary of votes==
+{| border="1" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
+!style="background-color:#E9E9E9" align=left|Summary of the 4 January 2004 Presidential election results
+!style="background-color:#E9E9E9" align=right|Votes
+!style="background-color:#E9E9E9" align=right|%
+|-
+|[[Mikheil Saakashvili]]
+|align="right" |1,692,728
+|align="right" |96.0
+|-
+|Teimuraz Shashiashvili
+|align="right" |33,868
+|align="right" |1.9
+|-
+|Roin Liparteliani
+|align="right" |4,248
+|align="right" |0.2
+|-
+|Zaza Sikharulidze
+|align="right" |4,098
+|align="right" |0.2
+|-
+|Kartlos Garibashvili
+|align="right" |3,582
+|align="right" |0.2
+|-
+|Zurab Kelekhsashvili
+|align="right" |1,631
+|align="right" |0.1
+|-
+|Against all
+|align="right" |22,817
+|align="right" |1.3
+|-
+|style="background-color:#E9E9E9"|'''Total''' 82.8% turnout, 1,762,972 registered voters
+|width="75" align="right" style="background-color:#E9E9E9"|1,762,972
+|width="30" align="right" style="background-color:#E9E9E9"|100.0
+|}
+
+Georgian law requires a 50% turnout for elections to be valid. The Chairman of the Georgian Central Election Commission, [[Zurab Tchiaberashvili]], said that since about 1,763,000 voters had participated - over 80% of those eligible to vote - "according to the preliminary information, the elections are valid." 
+
+Early on January 5 Saakashvili claimed victory, although no official figures had been released at that time. He thanked his supporters, who were gathered in the Philharmonic Hall in [[Tbilisi]], and also thanked the voters. "The whole of Georgia has won," he said.
+
+"The primary tasks to be implemented from the first days of my presidency include introduction of a Prime Minister's post, appointment of a date for parliamentary elections and implementation of anti-corruption measures in the country," Saakashvili said.
+
+Saakashvili was inaugurated as President in [[Tbilisi]] on January 25, 2004.
+{{Georgian elections}}
+{{DEFAULTSORT:Georgian Presidential Election, 2004}}
+[[Category:Elections in Georgia (country)]]
+[[Category:2004 elections in Europe]]
+[[Category:2004 in Georgia (country)|Presidential election]]
+[[Category:Rose Revolution]]

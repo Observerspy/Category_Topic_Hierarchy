@@ -1,0 +1,415 @@
+{{Use dmy dates|date=April 2014}}
+{{Earthquake
+|title = 2009 L'Aquila earthquake
+|date = {{Start date|2009|04|06|df=yes}}
+|origintime = 01:32:39 UTC
+|image=L'Aquila eathquake prefettura.jpg
+|imagecaption=The local prefecture (a government office) damaged by the earthquake
+|map = 20090406 013242 umbria quake intensity.jpg|230px
+|caption = Map of the earthquake's intensity
+|magnitude = 5.8–5.9Richter magnitude scale|''M''<sub>L</sub>-6.3Moment magnitude scale|''M''<sub>w</sub>
+|max intensity = IX – Ruinous Mercalli intensity scale|MM
+|depth = {{convert|9.46|km|abbr=on}}
+|location = {{coord|42.3476|13.3800|type:event_region:IT-AQ|display=inline, title}}
+|countries affected = Abruzzo, Italy
+|tsunami =
+|casualties = 308 dead<br/>1,500+ injured<br/>65,000+ homeless
+|damage = $16 billion
+}}
+{{wikinews|Major magnitude 6.3 earthquake strikes central Italy}}
+
+The '''2009 L'Aquila earthquake''' occurred in the region of Abruzzo, in central Italy. The main shock occurred at 03:32 Central European Time#Central European Summer Time|CEST (01:32 Coordinated Universal Time|UTC) on 6 April 2009, and was rated 5.8 or 5.9 on the Richter scale and 6.3 on the moment magnitude scale; its epicentre was near L'Aquila, the capital of Abruzzo, which together with surrounding villages suffered most damage. There have been several thousand foreshocks and aftershocks since December 2008, more than thirty of which had a Richter magnitude greater than 3.5.
+
+The earthquake was felt throughout central Italy; 309 people are known to have died, making this the deadliest List of earthquakes in Italy|earthquake to hit Italy since the 1980 Irpinia earthquake. In a subsequent inquiry of the handling of the disaster, seven members of the Italian National Commission for the Forecast and Prevention of Major Risks were accused of giving "inexact, incomplete and contradictory" information about the danger of the tremors prior to the main quake.
+On 22 October 2012, six scientists and one ex-government official were convicted of multiple manslaughter for downplaying the likelihood of a major earthquake six days before it took place. #Prosecutions|They were each sentenced to six years' imprisonment.
+
+==Cause==
+This earthquake was caused by movement on a NW-SE trending normal Dip-slip faults|fault according to Focal mechanism#Moment tensor solutions|moment tensor solutions. Although Italy lies in a Tectonics|tectonically complex region, the central part of the Apennines has been characterised by extensional tectonics since the Pliocene epoch (i.e. about the last 5&nbsp;million years), with most of the active faults being normal in type and NW-SE trending. The extension is due to the back-arc basin in the Tyrrhenian Sea opening faster than the African Plate is Continental collision|colliding with the Eurasian Plate.
+
+The earthquake occurred at 03:32 CEST (01:32 UTC) at the relatively shallow depth of {{convert|9.46|km|mi}} and with an epicentre at 42.3476°&nbsp;N, 13.3800&nbsp;°E, approximately {{convert|90|km|mi|sigfig=1}} north-east of Rome, near the city of L'Aquila.  The earthquake was reported to measure 6.3 on the moment magnitude scale.
+
+==Historical context==
+Italy frequently experiences earthquakes, but it is uncommon for them to be very deadly. The last major earthquake was the 5.9-Richter magnitude scale|magnitude 2002 Molise earthquake which killed 30 people, 26 of the victims children who perished in the collapse of an elementary school in San Giuliano di Puglia, and was the deadliest quake in 20 years.  Earthquakes mark the history of L'Aquila, a city  built on the bed of an ancient lake, providing a soil structure that amplifies seismic waves. The city was struck by earthquakes in 1315, 1349, 1452, 1501, 1646, 1703, and 1706. The 1703 Apennine earthquakes|earthquake of February 1703, which caused devastation across much of central Italy, largely destroyed the city and killed around 5,000 people.
+
+==Effects==
+{|class="wikitable" style="float:left; margin-right:1em"
+|-
+! Nationality !! Deaths !! Injured
+|-
+|{{flagicon|ITA}} Italians|Italian ||286 ||1,173
+|-
+|{{flagicon|MKD}} Macedonians (ethnic group)|Macedonian ||6||
+|-
+|{{flagicon|ROM}} Romanians|Romanian ||5 ||
+|-
+|{{flagicon|CZE}} Czechs|Czech ||2 ||
+|-
+|{{flagicon|PLE}} Palestinian people|Palestinian ||2||
+|-
+|{{flagicon|UKR}} Ukrainian people|Ukrainian ||2|| 
+|-
+|{{flagicon|GRE}} Greeks|Greek ||1|| 5 
+|-
+|{{flagicon|FRA}} French ||1||
+|-
+|{{flagicon|ISR}} Israelis|Israeli ||1||
+|-
+|{{flagicon|ARG}} Argentine people|Argentine ||1||
+|-
+|{{flagicon|PER}} Peruvian people|Peruvian ||1 ||
+|-
+|3|'''Total''' ||308||ca. 1,500
+|}
+
+The earthquake caused damage to between 3,000 and 11,000 buildings in the Middle Ages|medieval city of L'Aquila. Several buildings also collapsed. Two hundred and ninety-seven people died in the earthquake, including six Macedonians, two Czechs, five Romanian citizens, two Palestinians, one Greek citizen, one French citizen, one Ukrainian citizen and one Israeli citizen, and approximately 1,500 people were injured. Twenty of the victims were children. Around 65,000 people were rendered homeless.
+
+The main earthquake was preceded by two smaller earthquakes the previous day. The earthquake was felt as far away as Rome ({{convert|92|km}} away), in other parts of Lazio, as well as Marche, Molise, Umbria and Campania. Schools remained closed in the Abruzzo region. Most of the inhabitants of L'Aquila abandoned their homes and the city itself; in the city centre of L'Aquila, and the nearby village of Paganica which was also badly damaged, many streets were impassable due to fallen masonry. The hospital at L'Aquila, where many of the victims were brought, suffered damage in the 4.8 aftershock which followed the main earthquake an hour later. Powerful aftershocks, some only slightly weaker than the main shock, were felt throughout the following 2 days.
+
+Villages in the valley along Strada Statale 17 just outside l'Aquila suffered the greatest damage while medieval mountain hill towns lying high above the valley suffered little damage. Onna, L'Aquila|Onna was reported to be mostly leveled with 38 deaths among the 350 residents. The villages of Villa Sant'Angelo and San Pio delle Camere were badly damaged. Fatalities were reported in Poggio Picenze, Tornimparte, Fossa (Italy)|Fossa, Totani, San Gregorio (L'Aquila)|San Gregorio and San Pio delle Camere.
+
+Many of L'Aquila's medieval buildings were damaged. The apse of the Basilica of Saint Bernardino of Siena, L'Aquila's largest Renaissance church, was seriously damaged, and its campanile collapsed. Almost the whole dome of the 18th-century Santa Maria del Suffragio (L'Aquila)|church of Anime Sante in Piazza Duomo fell down. The 13th-century Basilica di Santa Maria di Collemaggio collapsed from the transept to the back of the church, and Porta Napoli, the oldest gate to the city, was destroyed. The third floor of Forte Spagnolo, the 16th-century castle housing the Museo Nazionale d'Abruzzo|National Museum of Abruzzo, collapsed, as did the cupola of the 18th-century Baroque church of St Augustine, damaging L'Aquila's state archives. This church had been rebuilt after it was destroyed in the 1703 earthquake. The Cathedral of L'Aquila has lost part of its transept and maybe more with the effects of the aftershocks. Slight damage was also reported to the Baths of Caracalla in Rome, but other Roman monuments such as the Colosseum and Roman Forum were unharmed.
+
+File:Chiesa di Santa Maria a Paganica.jpg|thumb|175px|right|The damaged Santa Maria Church in the town of Paganica
+
+While most of l'Aquila's medieval structures suffered damage, many of its modern buildings suffered the greatest damage, for instance, a dormitory at the university of l'Aquila collapsed. Even some buildings that were believed to be "earthquake-proof" were damaged.  L'Aquila Hospital's new wing, which opened in 2000 and was thought capable of resisting almost any earthquake, suffered extensive damage and had to be closed.
+
+===Homeless camps===
+Around 40,000 people who were made homeless by the earthquake found accommodation in tented camps and a further 10,000 were housed in hotels on the coast. Others sought shelter with friends and relatives throughout Italy. Prime Minister Silvio Berlusconi caused a controversy when he said, in an interview to the German station n-tv, that the homeless victims should consider themselves to be on a "camping weekend" – "They have everything they need, they have medical care, hot food... Of course, their current lodgings are a bit temporary. But they should see it like a weekend of camping." To clarify his thought, he also told the people in a homeless camp: "Head to the beach. It's Easter. Take a break. We're paying for it, you'll be well looked after." The billionaire prime minister offered his own houses to some of the survivors.
+
+===Building standards===
+Poor Building code|building standards or construction materials seem to have further contributed to the large number of victims. According to firefighters and other rescuers, some concrete elements of the fallen buildings "seemed to have been made poorly, possibly with sand". An official at Italy's Protezione Civile|Civil Protection Agency, Franco Barberi, said that "in California, an earthquake like this one would not have killed a single person". According to Italian media, L'Aquila's chief prosecutor has opened a probe into possible criminal blame for the collapses.
+
+===Luminous phenomena===
+Many people reported seeing peculiar sightings of light glows, flashes, lightning, flames and fireballs, all of which were considered candidates for earthquake light. 241 luminous phenomena were collected including photos and videos. At least 99 of such phenomena occurred before the main shock and other strong events of the seismic sequence, whereas globular lights, luminous clouds and diffused light were more frequent before the quakes. Flashes were mostly observed during the main shock. Electrical discharges and flames were observed principally after the main shock. Many luminous events were observed before and after the main shock without the ground shaking and were very similar to those reported about two centuries ago. An earthquake alarm system has been proposed, based on a video sensing network to capture earthquake light and provide a warning if observations match threshold characteristics preceding a main shock.
+
+==Aftershocks==
+{{wikinews|5.6-magnitude aftershock earthquake strikes Italy}}
+The epicentral region saw dozens of significant aftershocks following the main earthquake. The strongest, which hit at 19:47 CEST on 7 April, measured magnitude 5.3 M<sub>L</sub> and caused further damage. According to the Italian National Geophysics Institute director Boschi, the aftershock epicentres migrated south-east, thus lessening the risk of further major shocks near populated areas.
+
+Aftershocks caused safety problems for rescue crews searching for injured victims trapped in precarious structures in the historic center of L'Aquila, a medieval city. Using cranes and backhoes to remove loose bricks and broken timbers, the crews were aware that even a small aftershock could have triggered the collapse of seriously damaged walls or parapets.
+
+The aftershocks also caused sustained psychological trauma to small children and elderly who had already been traumatized by the main earthquake of 6 April 2009. Aware of this, the Italian government temporarily relocated thousands of citizens away from the epicentral area.
+
+As a result of aftershocks, the dome of the Anime Sante Basilica in L'Aquila, already heavily damaged by the main shock, almost entirely collapsed. Further buildings collapsed in L'Aquila and in neighbouring municipalities. The aftershock was strong enough to be felt in Rome, where it caused an elderly man to die of cardiac arrest.
+
+===List of foreshocks and aftershocks===
+Only shocks with local magnitude 4.0 or higher are listed. There have been dozens of small magnitude aftershocks, M<sub>L</sub> 1–3, but these generally do not cause further structural damage. Shocks with local magnitude 5.0 or higher are highlighted in blue, and the main shock is highlighted in darker blue.
+
+{|class="wikitable sortable"
+ ! Date (YYYY-MM-DD) <br/>and time (UTC) !! Time <br/>(local) !! Lat. !! Long. !! Depth !! M<sub>L</sub>
+ |-
+ |2009-03-30 13:38:39 ||15:38:39 ||42.321°&nbsp;N ||13.376°&nbsp;E ||{{hs|0}}{{convert|9.8|km|mi|1|abbr=on}} ||4.1
+ |- style="background: #9999ff"
+ |2009-04-06 01:32:39 ||03:32:39 ||42.334°&nbsp;N ||13.334°&nbsp;E ||{{hs|0}}{{convert|8.8|km|mi|1|abbr=on}} ||6.3
+ |-
+ |2009-04-06 01:36:29 ||03:36:29 ||42.355°&nbsp;N ||13.342°&nbsp;E ||{{hs|0}}{{convert|9.7|km|mi|1|abbr=on}} ||4.7
+ |-
+ |2009-04-06 01:40:51 ||03:40:51 ||42.418°&nbsp;N ||13.408°&nbsp;E ||{{convert|11.0|km|mi|1|abbr=on}} ||4.1
+ |-
+ |2009-04-06 01:41:33 ||03:41:33 ||42.387°&nbsp;N ||13.316°&nbsp;E ||{{hs|0}}{{convert|9.1|km|mi|1|abbr=on}} ||4.3
+ |-
+ |2009-04-06 01:42:50 ||03:42:50 ||42.300°&nbsp;N ||13.429°&nbsp;E ||{{convert|10.5|km|mi|1|abbr=on}} ||4.2
+ |-
+ |2009-04-06 02:37:04 ||04:37:04 ||42.366°&nbsp;N ||13.340°&nbsp;E ||{{convert|10.1|km|mi|1|abbr=on}} ||4.6
+ |-
+ |2009-04-06 16:38:09 ||18:38:09 ||42.362°&nbsp;N ||13.333°&nbsp;E ||{{convert|10.2|km|mi|1|abbr=on}} ||4.0
+ |-
+ |2009-04-06 23:15:37 ||01:15:37 ||42.451°&nbsp;N ||13.364°&nbsp;E ||{{hs|0}}{{convert|8.6|km|mi|1|abbr=on}} ||4.8
+ |-
+ |2009-04-07 09:26:28 ||11:26:28 ||42.342°&nbsp;N ||13.388°&nbsp;E ||{{convert|10.2|km|mi|1|abbr=on}} ||4.7
+ |- style="background: #ccccff"
+ |2009-04-07 17:47:37 ||19:47:37 ||42.275°&nbsp;N ||13.464°&nbsp;E ||{{convert|15.1|km|mi|1|abbr=on}} ||5.3
+ |-
+ |2009-04-07 21:34:29 ||23:34:29 ||42.380°&nbsp;N ||13.376°&nbsp;E ||{{hs|0}}{{convert|7.4|km|mi|1|abbr=on}} ||4.2
+ |-
+ |2009-04-08 22:56:50 ||00:56:50 ||42.507°&nbsp;N ||13.364°&nbsp;E ||{{convert|10.2|km|mi|1|abbr=on}} ||4.3
+ |- style="background: #ccccff"
+ |2009-04-09 00:52:59 ||02:52:59 ||42.484°&nbsp;N ||13.343°&nbsp;E ||{{convert|15.4|km|mi|1|abbr=on}} ||5.1
+ |-
+ |2009-04-09 03:14:52 ||05:14:52 ||42.338°&nbsp;N ||13.437°&nbsp;E ||{{convert|18.0|km|mi|1|abbr=on}} ||4.2
+ |-
+ |2009-04-09 04:32:44 ||06:32:44 ||42.445°&nbsp;N ||13.420°&nbsp;E ||{{hs|0}}{{convert|8.1|km|mi|1|abbr=on}} ||4.0
+ |-
+ |2009-04-09 19:38:16 ||21:38:16 ||42.501°&nbsp;N ||13.356°&nbsp;E ||{{convert|17.2|km|mi|1|abbr=on}} ||4.9
+ |-
+ |2009-04-13 21:14:24 ||23:14:24 ||42.504°&nbsp;N ||13.363°&nbsp;E ||{{hs|0}}{{convert|7.5|km|mi|1|abbr=on}} ||4.9
+ |-
+ |2009-04-14 20:17:27 ||22:17:27 ||42.530°&nbsp;N ||13.288°&nbsp;E ||{{convert|10.4|km|mi|1|abbr=on}} ||4.1
+ |-
+ |2009-04-23 15:14:08 ||17:14:08 ||42.247°&nbsp;N ||13.492°&nbsp;E ||{{hs|0}}{{convert|9.9|km|mi|1|abbr=on}} ||4.0
+ |-
+ |2009-04-23 21:49:00 ||23:49:00 ||42.233°&nbsp;N ||13.479°&nbsp;E ||{{hs|0}}{{convert|9.3|km|mi|1|abbr=on}} ||4.0
+ |-
+ |2009-06-22 20:58:40 ||22:58:40 ||42.446°&nbsp;N ||13.356°&nbsp;E ||{{convert|14.2|km|mi|1|abbr=on}} ||4.5
+ |-
+ |2009-07-03 11:03:07 ||13:03:07 ||42.409°&nbsp;N ||13.387°&nbsp;E ||{{hs|0}}{{convert|8.8|km|mi|1|abbr=on}} ||4.1
+ |-
+ |2009-07-12 08:38:51 ||10:38:51 ||42.338°&nbsp;N ||13.378°&nbsp;E ||{{convert|10.8|km|mi|1|abbr=on}} ||4.0
+ |-
+ |2009-09-24 16:14:57 ||18:14:57 ||42.453°&nbsp;N ||13.330°&nbsp;E ||{{hs|0}}{{convert|9.7|km|mi|1|abbr=on}} ||4.1
+ |}
+
+== Emergency and reconstruction aid ==
+
+===National aid===
+File:Emergenza Terremoto Abruzzo 2009 - 12.jpg|thumb|210px|right|Emergency personnel review damaged buildings
+Many Italian companies have offered some sort of help. All Italian mobile companies (Telecom Italia Mobile, Vodafone Italy,
+WIND (Italy)|Wind,{{Citation needed|date=April 2009}} 3 Italy|H3G{{Citation needed|date=April 2009}}), and some Mobile virtual network operators,
+sent free minutes and credit to all their pre-paid customers in Abruzzo, suspended billing to all post-paid customers and extended their coverage with additional mobile base stations to cover homeless camps. In addition, some companies sent free mobile phones, Subscriber Identity Module|SIM Cards and chargers for those who lost their mobiles, and set up a national unique number to send donations to, by placing a call or sending an SMS. Poste Italiane sent to homeless camps some mobile units acting as Postal Office, to allow people to withdraw money from their accounts as well as their retirement.
+Many companies, such as pay-tv SKY Italia, suspended billing to all customers in Abruzzo, and offered some decoders to homeless camps to allow them to follow the funerals and the news. Ferrovie dello Stato offered railway sleeping carriages to host some homeless people, and offered free tickets to all people and students living in Abruzzo. AISCAT (Associazione Italiana Società Concessionarie Autostrade e Trafori) declared that all toll-roads in Abruzzo would be free of charge. All tax billing for all Abruzzo residents has been suspended by the government, as well as mortgage payments.
+
+===International aid===
+Prime Minister of Italy Silvio Berlusconi refused foreign aid for the emergency, saying that Italians were "proud people" and had sufficient resources to deal with the crisis. However he singled out the United States, announcing that he would accept aid for reconstruction: "If the United States wants to give a tangible sign of its solidarity with Italy, it could take on the responsibility of rebuilding heritage sites and churches. We would be very happy to have this support." and suggested the USA help rebuild "a small district of a town or a suburb". Aid was offered by Austria, Brazil, Croatia, the European Union, France, Germany, Spain, Greece, Slovakia, Israel, Portugal, Iran, Republic of Macedonia|Macedonia, Topos de Tlatelolco|Mexico,
+Russia, Serbia, Slovenia, Switzerland, Tunisia, the
+Turkish Red Crescent, Ukraine, and the United States.
+Aid was also offered by various organisations, companies, sport clubs and celebrities including ACF Fiorentina, Carla Bruni, Madonna (entertainer)|Madonna, S.S.C. Napoli, Zastava Automobiles|Zastava and Fiat.
+
+On Friday 20 November 2009 in Bruxelles, Pawel Samecki and Guido Bertolaso who, at that time, were European Commissioner for Regional Policy and commander in chief of the Protezione Civile|Italian Civil Protection department respectively, signed an agreement to destine 493,7 millions of euros from EU solidarity fund to help reconstruction in Abruzzo
+
+==Prior warning==
+{{wikinews|Scientist says he predicted Italy earthquake, was ignored}}
+Italian laboratory technician Giampaolo Giuliani claimed to have Earthquake prediction|predicteda major earthquake on Italian television a month before, after measuring increased levels of radon emitted from the ground. He was accused of being alarmist by the Director of the Civil Defence, Guido Bertolaso, and forced to remove his findings from the Internet (old data and descriptions are still online). He was also reported to police a week before the main quake for "causing fear" among the local population when the mayor of Sulmona claimed that Giuliani predicted an imminent earthquake in his town, about {{convert|50|km|mi|abbr=on}} from L'Aquila, on 30 March, after a 4° quake happened (Sulmona later only suffered minor damages from 6 April earthquake).  Enzo Boschi, the head of the National Institute of Geophysics and Volcanology|Italian National Geophysics Institute declared:
+
+<blockquote>"Every time there is an earthquake there are people who claim to have predicted it. As far as I know nobody predicted this earthquake with precision. It is not possible to predict earthquakes."</blockquote>
+
+Predicting earthquakes based on Earthquake prediction#Radon emissions|radon emissions has been studied by scientists since the 1970s, but enthusiasm for it had faded due to inconsistent results.
+
+==Controversy on reconstruction and criminality==
+In the days following the tragedy, journalists reported that the reconstruction works may have been infiltrated by Organized crime|criminal organizations, the mafia and camorra trying to infiltrate the contract procedures.
+
+On 7 April, a few hours after the main earthquake, journalist Luca Spinelli stated:
+<blockquote>"The transfers of money necessitated by such a big tragedy are huge: much the same as the cost of running a war. ... Any company would be interested in a turnover and a potential income like this. Surely the "main Italian company" will be: a company with a ninety billion annual income, making up to 7% of Italian GDP (Gross Domestic Product): the Mafia. ... Abruzzo and Marsica are known territories of the mafia. A region which "attracted the attention of some Camorra and Sacra Corona Unita associates too", according to Franco Forgione, President of the Parliamentary Antimafia Commission in 2007. A region which, according to the Antimafia District Public Prosecutor's Office of L'Aquila, hosts part of the hidden treasure of mafia boss Vito Ciancimino, reckoned to be around 600 million euros, a region which has seen many recent arrests for mafia infiltration; infiltration in contracts, building permits, the health system, the very things that will be needed for the reconstruction."</blockquote>
+
+The week following the earthquake, on 14 April, journalist and writer Roberto Saviano, author of the bestseller ''Gomorrah (book)|Gomorrah'', wrote:
+<blockquote>"Data demonstrates that the Camorra invasion (in Abruzzo) during these years was enormous. In 2006 it emerged that the ambush against mafia boss Vitale was decided and settled in detail at Villa Rosa in Martinsicuro. On 10 September, Diego Leon Montoya Sanchez, the drug dealer deemed among the ten most wanted by the FBI, had one of his bases in Abruzzo. Nicola di Villano, cashier in a criminal-entrepreneurial organisation led by the Zagaria family of Casapesenna, repeatedly managed to escape capture and it was discovered that his shelter was located in the Parco Nazionale d'Abruzzo, Lazio e Molise|Abruzzo National Park, where he had the ability to move freely. Abruzzo has become a junction point for waste traffic. ... Behind it all, obviously, the Camorra clans."</blockquote>
+
+In the following weeks, even major Italian institutions talked about the danger of criminal infiltration, noting that these risks would have been avoided with adequate supervision and inspections. On 15 April, President of the Italian Chamber of Deputies|Chamber of Deputies Gianfranco Fini confirmed the need to "watch out for mafia infiltrations".
+
+On 17 April, Italian Prime Minister Silvio Berlusconi, stated: "Exploitation will be impossible, we will reconstruct within 6 months keeping out exploitation and the mafia."
+
+==State funeral==
+File:L'Aquila state funeral.jpg|thumb|210px|right|Cardinal Tarcisio Bertone presides over the state funeral ceremony
+On the morning of 10 April 2009, which was also Good Friday, a state funeral was held for 205 of the 291 victims of the earthquake. It was attended by Prime Minister Silvio Berlusconi, President of the Republic Giorgio Napolitano, and many other politicians and church dignitaries. The Requiem|funeral Mass was led by the Vatican's second highest official, Cardinal Tarcisio Bertone. The Vatican had earlier granted a special dispensation to hold a Mass on Good Friday, the only day on the Roman Catholic calendar on which Mass is not normally held. Near the end, an janaza|Islamic rite was held for the Muslim victims. In addition Friday was declared a national day of mourning, with flags flying at Half-staff|half staff, shops lowering their shutters and flights stopping at the airport for one Moment of silence|minute of silence.
+
+Pope Benedict XVI later visited the areas affected by the L'Aquila earthquake on 28 April 2009.
+
+In response to the earthquake, automaker Ferrari announced that an Ferrari F430|F430 painted silver and gold would be produced. It was auctioned, and all proceeds went to the relief fund. This was the last F430 produced. In addition, Italian Formula 1 racing driver Jarno Trulli arranged a fund raising campaign known as Abruzzo in Hearts for the earthquake victims, which Italian icons such as Valentino Rossi took part in. The MotoGP star gave all the money he made from writing a column in a Spanish magazine every month to the cause, and had a sticker on the side of his Yamaha M1 at races.
+
+==G8 summit==
+The 35th G8 summit took place in the city of L'Aquila, Abruzzo, on 8–10 July 2009. It was moved from the Sardinian seaside city of La Maddalena as part of an attempt to redistribute disaster funds after the earthquake.
+
+==Prosecutions==
+
+A trial, which lasted from September 2011 until October 2012, found six scientists and a former government official guilty of involuntary manslaughter. The seven members of the National Commission for the Forecast and Prevention of Major Risks who were convicted were: Franco Barberi, head of Serious Risks Commission; Enzo Boschi, former president of the National Institute of Geophysics and Volcanology; Giulio Lorenzo Selvaggi, director of National Earthquake Centre; Gian Michele Calvi, director of European Centre for Earthquake Engineering; Claudio Eva, physicist; Mauro Dolce, director of the Civil Protection Agency's earthquake risk office; Bernardo De Bernardinis, former vice-president of Civil Protection Agency's technical department.
+
+Boschi had called a major earthquake "unlikely", while not entirely excluding the possibility. De Bernardinis had informed the public that there was "no danger". They were also banned from ever holding public office again and had to pay court costs and damages.
+
+Enzo Boschi, one of the convicted, said, "I thought I would have been acquitted. I still don't understand what I was convicted of." His co-defendant Claudio Eva said that "it was a very Italian and medieval decision." Their lawyers announced they would appeal the verdict, and it will not be finally decided until it is heard by the appellate court.
+
+The verdicts were strongly criticised by the British media and public. Malcolm Sperrin, a British scientist, said: {{quote|If the scientific community is to be penalised for making predictions that turn out to be incorrect, or for not accurately predicting an event that subsequently occurs, then scientific endeavour will be restricted to certainties only, and the benefits that are associated with findings, from medicine to physics, will be stalled.}}
+
+This position was countered by other views. David Ropeik, writing for ''Scientific American'', contested the "trial against science" thesis, describing it as "a judgment not against science, but against a failure of science communication".
+
+During the trial, other scientists attacked the scientific conduct of the commission. Professor Francesco Giovanni Maria Stoppa, a member of the commission until 2003, said: "They should have given information proportional to our knowledge, which in 2009 spotlighted a criticality in L'Aquila. Under those conditions, there were 5–6 days before the quake to give information, and this doesn't mean forecasting earthquakes (?Avrebbero dovuto dare una informazione proporzionata alle nostre conoscenze, che nel 2009 mettevano in luce una criticità all'Aquila. Nelle condizioni che c'erano 5 – 6 giorni prima del terremoto bisognava dare informazioni e questo non vuol dire prevedere i terremoti?).
+
+In protest over the prison sentences handed to his seven colleagues, Luciano Maiani, the head of Italy's disaster body, resigned.
+
+==See also==
+{{Portal|Italy|2000s|Earthquakes}}
+* List of earthquakes in Italy
+{{-}}
+
+==Notes==
+{{reflist|30em|refs=
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}}
+
+==External links==
+{{commons category|2009 L'Aquila earthquake}}
+* Pace, B.; Peruzza, L.; Boncio, P.; Lavecchia, G., http://www.bssaonline.org/cgi/content/abstract/96/1/107 "Layered Seismogenic Source Model and Probabilistic Seismic-Hazard Analyses in Central Italy", ''Bulletin of the Seismological Society of America'', vol.96, p.&nbsp;107–132, February 2006.
+* Akinci, A.; Galadini, F.; Pantosti, D.; Petersen, M.D.; Malagnini, L.; Perkins, D., http://www.bssaonline.org/cgi/content/abstract/99/2A/585?stoc "Effect of Time Dependence on Probabilistic Seismic-Hazard Maps and Deaggregation for the Central Apennines, Italy", ''Bulletin of the Seismological Society of America'', vol.99, no.2A, p.&nbsp;585–610, April 2009, {{doi|10.1785/0120080053}}
+* Carraro, F.; Giardino, M., http://www.aiqua.it/ "Geological evidence of recent fault evolution; examples from Camp Imperatore, L'Aquila, central Apennines", ''Il Quaternario'', vol. 5, 1992, p.&nbsp;181–200.
+* Fidani, C., http://www.nat-hazards-earth-syst-sci.net/10/967/2010/nhess-10-967-2010.html "The earthquake lights (EQL) of the 6 April 2009 Aquila earthquake, in Central Italy", ''NHESS'', vol.10, p.&nbsp;967, 2010.
+* Kerr, Richard A., http://www.sciencemag.org/ "After the Quake, in Search of the Science --- or Even a Good Prediction", ''Science Magazine'', vol. 324, 17 April 2009, p.&nbsp;322.
+* http://www.noilaquila.com/index.jsp?locale=en  Noi L'Aquila
+* http://www.preventionweb.net/english/professional/news/tags/index.php/pw:itaearthquake2009/Italy:%20L%27Aquila%20Earthquake%202009/ PreventionWeb 2009 L’Aquila earthquake 
+{{Earthquakes in 2009}}
+
+{{DEFAULTSORT:2009 L'aquila Earthquake}}
+Category:2009 earthquakes|L'Aquila earthquake
+Category:2009 in Italy|L'Aquila earthquake
+Category:Earthquakes in Italy|2009 L'Aquila earthquake
+Category:History of Abruzzo|2009 Earthquake
+Category:L'Aquila|Earthquake 2009

@@ -1,0 +1,97 @@
+{{Use mdy dates|date=March 2012}}
+{{Infobox earthquake
+|title              = 1940 El Centro earthquake
+|image              =
+|image alt          =
+|imagecaption       =
+|map                =
+|map alt            =
+|image name         =
+|map2 = {{Location map+ | California
+|places =
+{{Location map~|California|lat=32.79|long=-115.56|label=El Centro|position=left|mark=Green pog.svg}}
+{{Location map~|California|lat=34.05|long=-118.25|label=Los Angeles|position=left|mark=Green pog.svg}}
+{{Location map~|California|lat=32.733|long=-115.5|mark=Bullseye1.png|marksize=40}}
+ | relief = yes
+ | width = 250
+ | float = right
+ | caption = }}
+|mapsize            =
+|caption            =
+|date               = {{Start date|1940|5|18}}
+|origintime         = 21:35 Pacific Standard Time|PST
+|duration           =
+|magnitude          = 6.9 Moment magnitude scale|M<sub>w</sub> 
+|depth              = {{convert|16|km|abbr=on}} 
+|location           = {{Coord|32.733|N|115.5|W|region:US-CA_type:event|display=inline, title}} 
+|type               = Fault (geology)#Strike-slip faults|Strike-slip
+|countries affected = United States, Mexico
+|damage             = $ 6 million 
+|intensity          = X (''Intense'') 
+|PGA                = <!-- NN''Peak ground acceleration|g'' -->
+|tsunami            =
+|landslide          =
+|foreshocks         =
+|aftershocks        =
+|casualties         = 9 
+}}
+
+The '''1940 El Centro earthquake''' (or '''1940 Imperial Valley earthquake''') occurred at 21:35 Pacific Standard Time on May 18 (05:35 coordinated universal time|UTC on May 19) in the Imperial Valley in southeastern Southern California near the United States - Mexico border|international border of the United States and Mexico. It had a moment magnitude of 6.9 and a maximum perceived intensity of X (''Intense'') on the Mercalli intensity scale. It was the first major earthquake to be recorded by a strong-motion seismograph located next to a fault rupture.
+
+==Tectonic setting==
+{{see also|1892 Laguna Salada earthquake}}
+
+The Salton Trough is part of the complex plate boundary between the Pacific Plate and the North American Plate where it undergoes a transition from the transform fault|continental transform of the San Andreas Fault system to the series of short Mid-ocean ridge|spreading centers of the East Pacific Rise linked by oceanic transforms in the Gulf of California. The two main right lateral Fault (geology)#Strike-slip faults|strike-slip fault strands that extend across the southern part of the trough are the Elsinore Fault Zone/Laguna Salada Fault to the western side of the trough and the Imperial Fault Zone|Imperial Fault to the east. The Imperial Fault is linked to the San Andreas Fault through the Brawley Seismic Zone, which is a spreading center beneath the southern end of the Salton Sea.
+
+With the San Jacinto Fault Zone to the west, the Elsinore fault to the south-southwest, and the Imperial fault centered directly under the Imperial Valley, the area frequently encounters seismic activity, including moderate and damaging earthquakes. Other events in 1852, 1892, 1915, 1942, 1979, and 1987 have impacted the region in varying degrees.
+
+==Earthquake==
+File:USCGS Imperial damage 1940.jpg|thumb|Collapsed buildings in Imperial, California, in which four people died
+{{see also|List of earthquakes in California}}
+
+The earthquake was the result of a rupture along the Imperial Fault, with its epicenter {{convert|5|mi|sp=us}} north of Calexico, California.
+
+In an interview with the ''Los Angeles Times'' shortly after the earthquake, Dr. Beno Gutenberg, a geophysicist and professor at the Caltech Seismological Laboratory in Pasadena, prematurely reported that the source of the quake was the San Jacinto fault and compared the earthquake to the 1933 Long Beach earthquake saying "The energy of the Imperial Vally shock was less, and it should have done less damage, than the one of 1933, even had it occurred in an area of greater population." The Imperial Fault had not been previously differentiated from the other faults in the area by geologists until after the earthquake occurred.
+
+===Damage===
+The event caused significant damage in the towns of Brawley, Imperial, California|Imperial, El Centro, Calexico and Mexicali and was responsible for the deaths of nine people. Imperial appeared to receive the most damage and was described as "razed" with at least 80% of the buildings in that city being damaged,  It was felt as far afield as Los Angeles and Tucson, Arizona.
+
+File:USCGS water tank 1940.jpg|thumb|left|Imperial's 100,000 gallon water tank that collapsed in the earthquake
+
+The earthquake also caused substantial damage to irrigation systems over a very wide area of the valley, with the canals of the Imperial Irrigation District being breached in multiple locations. With ninety percent of the damage done to the canals south of the international border, water rationing became necessary in Brawley and Imperial during the days following the earthquake spanning the restoration period. The canals brought water from the Mexican side of the border to the United States and supplied 3000 miles of irrigation waterways and ditches in the Imperial Valley. The primary trunkline was the Alamo Canal and it sustained nine breaks, each several hundred feet in length, along a twenty mile stretch between Sharp's heading and Cudahy check.
+
+In Mexico, a {{convert|427|m|ft|abbr=on}} long wooden flume was completely destroyed south of Mexicali where the Solfatara canal crossed the New River (Mexico – United States)|New River, and water storage tanks were destroyed at Imperial and Holtville, California|Holtville. The railroad system also suffered damage, with bent rails and damage to several bridges.{{clr}}
+
+===Strong motion===
+A strong-motion seismograph at El Centro recorded the earthquake and provided the first example of such a recording made very close to a fault rupture in a major earthquake. This gave a detailed record of the different types of shaking associated with the earthquake.
+
+The recording showed that the earthquake consisted of several sub-events, with a total of 13 being recorded in just over five minutes. The majority of the energy released during the earthquake occurred in the first fifteen seconds, although significant energy was released as late as the last of those events, near the 5:20 mark on the seismograph record.
+
+===Surface rupture===
+A surface rupture was formed during the earthquake of {{convert|40|-|60|km|abbr=on}},
+
+==Aftermath==
+Soon after the earthquake, reconstruction efforts were concentrated on repairing the Alamo and Solfatara irrigation canals to save the cantaloupe crop, and the water supply was restored in less than four days.
+
+==References==
+{{Reflist|colwidth=33em|refs=
+
+}}
+
+;Sources
+{{Refbegin}}
+* {{citation|title=Surface Rupture and Slip Distribution of the 1940 Imperial Valley Earthquake, Imperial Fault, Southern California Implications for Rupture Segmentation and Dynamics|url=http://bssa.geoscienceworld.org/content/103/2A/629.abstract?sid=330ea432-c596-418d-a3b2-b5fa2a4dd35f|first=Thomas K.|last=Rockwell|first2=Yann|last2=Klinger|journal=Bulletin of the Seismological Society of America|publisher=Seismological Society of America|year=2013|volume=103|number=2A|pages=629–640|doi=10.1785/0120120192}}
+* {{citation|last=Stover|first=C.W.|last2=Coffman|first2=J.L.|title=Seismicity of the United States, 1568–1989 (Revised)|url=http://books.google.co.uk/books?id=bY0KAQAAIAAJ&pg=PA135&lpg=PA135&dq=seismicity+of+the+united+states+stover+coffman+1940+imperial&source=bl&ots=3qHGk7k6Ub&sig=y-U3_rN6dsI_xA8pn3A2pkVyvwo&hl=en&sa=X&ei=J-EZT-DmHoKI8gOH3fjOCw&ved=0CCoQ6AEwATgK#v=onepage&q&f=false|series=U.S. Geological Survey professional paper|volume=1527|year=1993|publisher=United States Government Printing Office}}
+* {{citation|last=Trifunac|first=M.D.|last2=Brune|first2=J.N.|year=1970|title=Complexity of energy release during the Imperial Valley, California, earthquake of 1940|publisher=Seismological Society of America|journal=Bulletin of the Seismological Society of America|volume=60|issue=1|pages=137–160|url=http://bssa.geoscienceworld.org/content/60/1/137.abstract}}
+* {{citation|title=The Imperial Valley Earthquakes of 1940|url=http://bssa.geoscienceworld.org/content/31/1/13.full.pdf+html?sid=eb0295c9-909e-41e8-afcb-9b1f2a740f76|first=Franklin P.|last=Ulrich|year=1941|journal=Bulletin of the Seismological Society of America|publisher=Seismological Society of America|volume=31|pages=13–30}}
+{{Refend}}
+
+{{Significant earthquakes in California}}
+{{Earthquakes in Mexico}}
+
+Category:Earthquakes in California|E
+Category:1940 earthquakes|El Centro Earthquake, 1940
+Category:1940 in the United States
+Category:El Centro metropolitan area
+Category:Earthquakes in Mexico
+Category:1940 in California|El Centro earthquake

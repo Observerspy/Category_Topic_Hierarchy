@@ -1,0 +1,53 @@
+{{Earthquake|
+ | title= 1975 Lice earthquake
+ |date= {{Start date|1975|9|6|df=yes}}
+ | image              = 
+ | image alt          = 
+ | map2 = {{Location map | Turkey |relief=1
+ | label=
+ | lat=38.474
+ | long=40.723
+ | mark=Bullseye1.png
+ | marksize=40
+ | position=top
+ | width= 250
+ | float=right
+ | caption=}}
+ | depth = 26 km
+ | location = {{coord|38.474|40.723|display=inline,title}}
+ | magnitude = 6.7 Surface wave magnitude|M<sub>s</sub>
+ | countries affected = {{flag|Turkey}}
+ | casualties = 2,311 dead
+|}}
+The '''1975 Lice earthquake''' was a Richter magnitude scale|magnitude 6.7 earthquake that struck the Turkish district of Lice, Turkey|Lice at 12:20 local time (09:20 Coordinated universal time|UTC) on 6 September 1975, killing 2,311 people. The epicenter was located near the town of Lice. The maximum felt intensity was VIII (Destructive) on the Mercalli intensity scale.
+
+==Tectonic setting==
+The tectonics of Turkey are dominated by the effects of the continuing collision between the African Plate and the Eurasian Plate. The main result of this collision is the southwestward escape of the Anatolian Plate by displacement along the North Anatolian fault|North Anatolian and East Anatolian Faults. To the east of these faults, the plate boundary is a zone of orthogonal collision, with the relative displacement spread out over a wide zone, continuing as far north as the Greater Caucasus. The largest fault within the plate boundary zone is the west-east trending Bitlis frontal thrust and the 1975 earthquake is thought to have been caused by movement on this structure.
+
+==Damage==
+The main area of damage was located near the towns of Hani, Lice and Kulp. In Lice 12 out of the 13  mahalles (sections) of the town were completely destroyed. 6 schools, 6 mosques and 132 commercial buildings were damaged. In the 188 villages surrounding Lice that were affected, 5,555 houses suffered either severe damage or total destruction.
+
+==Characteristics==
+The earthquake occurred near midday without any warning. The shaking continued for about 20&ndash;24 seconds. The mainshock was followed by aftershocks that continued for more than a month. The focal mechanism for the earthquake suggests that it was associated with dominantly reverse movement on a fault plane dipping at 45° to the northwest with a significant sinistral (left lateral) component.
+
+==Response==
+
+===National===
+A total of 15,000 Turkish soldiers were involved in rescue and relief work, with the first personnel arriving just 3 hours after the earthquake. The government set aside a total of 34 million dollars for repair and reconstruction.
+
+===International===
+Financial assistance from the international community, from both government and private sources reached a total of $14,837,058. The largest government contribution was from Saudi Arabia. Aid in the form of food and some other supplies from foreign agencies were treated with suspicion with much unfamiliar tinned food being sold for animal feed.
+
+==Aftermath==
+Just 5 days after the earthquake, following a geological site investigation of suitable sites, the decision was made to relocate the town about {{convert|2|km|abbr=on}} south of its previous position. By 29 October 1975, 1,568 houses, 40 shops, a school, a mosque and a bakery were complete.
+
+==References==
+{{Reflist}}
+
+{{Earthquakes in Turkey}}
+
+{{DEFAULTSORT:Lice 1975}}
+Category:1975 in Turkey
+Category:Earthquakes in Turkey|1975 Lice
+Category:1975 earthquakes
+Category:History of Diyarbak?r Province

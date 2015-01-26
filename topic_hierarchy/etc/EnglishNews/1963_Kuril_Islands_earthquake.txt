@@ -1,0 +1,54 @@
+{{Earthquake
+|title= 1963 Kuril Islands earthquake
+|date= {{Start-date|October 13, 1963}}
+|map2 = {{Location map many | Russia Sakhalin Oblast
+ | label=October 13
+ | lat=44.81
+ | long=149.54
+ | mark=Bullseye1.png
+ | marksize=30
+ | position=left
+ | label2=October 20
+ | lat2=44.78
+ | long2=150.24
+ | mark2=Bullseye1.png
+ | mark2size=20
+ | position2=right
+ | width= 250
+ | float=right
+ | caption=
+ | relief=yes}}
+|magnitude = 8.5 Moment magnitude scale|M<sub>w</sub>
+|depth=47 km
+|location={{coord|44.81|149.54|display=inline,title}}
+|countries affected = Russia
+|tsunami = yes
+|casualties =  
+}}
+The '''1963 Kuril Islands earthquake''' occurred at 05:17 UTC, on October 13. The earthquake had a moment magnitude scale|magnitude of 8.5  and was followed by a M<sub>w</sub>=7.8 event seven days later. Both earthquakes triggered tsunamis that were observed around the northern part of the Pacific ocean.
+
+==Tectonic setting==
+The Kuril Islands form part of the island arc formed above the subduction zone, where the Pacific Plate is being subducted beneath the Eurasian Plate. This convergent boundary has been the site of many large megathrust earthquakes.
+
+==Damage==
+No damage, deaths or injuries are recorded for these two earthquakes or their associated tsunamis.
+
+==Characteristics==
+
+===Earthquake===
+The earthquake was made up of three sub events, each of which is interpreted to represent the rupture of an asperity roughly 50&nbsp;km in length along the subduction interface.
+
+===Tsunami===
+The tsunami triggered by the earthquake of October 13, caused a 4.5 m wave locally. The tsunami was also observed  in Canada, Japan, Mexico, Hawaii, Alaska, California and on many islands across the northern Pacific Ocean. The tsunami associated with the October 20 event was larger in the local area with a maximum recorded run-up of 15 m at Urup, but was only observed in the western part of the northern Pacific.
+
+==References==
+{{Reflist}}
+
+{{Earthquakes in Japan}}
+
+Category:Megathrust earthquakes in the Soviet Union
+Category:Megathrust earthquakes in Japan
+Category:1963 earthquakes|Kuril Islands
+Category:1963 in the Soviet Union|Kuril Islands earthquake
+Category:Natural disasters in the Russian Far East
+Category:20th-century tsunamis

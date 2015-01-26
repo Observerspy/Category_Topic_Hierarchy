@@ -1,0 +1,100 @@
+{{Earthquake
+|title= 1984 Otaki earthquake
+|date= September 14, 1984 local time (September 13, 1984 UTC)
+|map2 = {{Location map | Japan
+ | label=
+ | lat=35.79
+ | long=137.49
+ | mark=Bullseye1.png
+ | marksize=50
+ | position=top
+ | width= 250
+ | float=right
+ | caption=}}
+|magnitude = M<sub>s</sub> 6.3 (M<sub>j</sub> 6.8)
+|depth = {{Convert|2|km|mi|0|abbr=on}}
+|location={{coord|35.79|137.49|display=inline,title}}
+|countries affected = Japan
+|tsunami = no
+|casualties = 14 dead<br>10 injured<br>15 missing
+|type = Intraplate earthquake|Intraplate
+|intensity = ''Japan Meteorological Agency seismic intensity scale|Shindo'' 6 (estimate)
+|PGA = 0.3~ ''peak ground acceleration|g''
+|tsunami = No
+|landslide = Yes
+|foreshocks = 
+|aftershocks = 
+}}
+
+The '''1984 Otaki earthquake''' hit Nagano Prefecture, Japan on September 14, 1984 at 08:48 local time (September 13, 1984 at 23:48 UTC). Registering a magnitude of M<sub>s</sub> 6.3, the earthquake destroyed Otaki, Nagano|Otaki (Japanese language|Japanese: 王滝(おうたき)), and elicited landslides. The earthquake left at least 29 people dead or missing, making it the deadliest earthquake in 1984.
+
+== Geology ==
+Although the epicenter was only {{Convert|2|km|mi|0|abbr=on}} deep, no visible Fault (geology)|fault appeared. The Japan Meteorological Agency estimated that two faults, one {{Convert|15|km|mi|0|abbr=on}} long and one {{Convert|5|km|mi|0|abbr=on}} long, had ruptured simultaneously.
+
+=== Relation to other earthquakes ===
+Seismologists including Akeo Yoshida state that the 1948 Fukui earthquake, a 7.0 M<sub>j</sub> earthquake in Gifu Prefecture in 1961, a 6.6 M<sub>j</sub> earthquake in Gifu Prefecture in 1969, and this earthquake were earthquakes that occurred in a cycle for a little while in the same area.
+
+== Main Shock ==
+Since there was no seismometer in the area, the Japan Meteorological Agency made an estimate intensity, ''Japan Meteorological Agency seismic intensity scale|Shindo'' 6. Some unofficial estimates put it to ''Japan Meteorological Agency seismic intensity scale|Shindo'' 7. There are reports that rocks and pieces of wood flew in the air in areas near the epicenter, due to ground accelerations faster than gravitational acceleration in the 5&nbsp;Hz~10&nbsp;Hz shaking range. A seismometer at Makio Dam, {{Convert|4|km|mi|0|abbr=on}} away from the epicenter, observed very strong shaking but couldn't record more than 0.3 ''peak ground acceleration|g'' which was the limit.
+
+== Damage ==
+
+File:Lake Shizenko.jpg|thumb|This lake was formed after a part of the Otaki river was blocked by a landslide
+Due to torrential rains in the area before the earthquake, many landslides occurred.
+
+{| class="wikitable" style="text-align:right"
+|+Total Damage
+! Dead || 14
+|-
+! Missing || 15
+|-
+! Injured || 10
+|-
+! Collapsed buildings || 14
+|-
+! Half collapsed buildings || 73
+|-
+! Damaged Buildings || 517
+|-
+! Economic cost || US$28 million
+|}
+
+=== Incidents ===
+* A massive landslide occurred on the south side of Mount Ontake, sending 3.45 million cubic meters of earth at estimated speeds of 80 to 100&nbsp;km/h down the side of the mountain and buried over {{Convert|3|km|mi|0|abbr=on}} of land, including a hot spring facility, under {{Convert|50|m|ft|0|abbr=on}} of earth. A nearby valley was completely buried under {{Convert|30|m|ft|0|abbr=on}} of earth. The 4 people in the facility's owner's family and 5 people who were looking for mushrooms in the area were also buried and became missing.
+
+* A large landslide in the Matsugoe District caused part of an inn and a road to collapse and crashed into a concrete factory on the bottom of the slope, killing 13 people working in the forest and the factory. There were no people staying at the inn, and the owner miraculously survived since she was able to stay on her tatami mat that stayed over the landslide as she was swept down. Then she was able to climb up the cliff shaped by the landslide, even though she was badly injured. She was then found and hospitalized for 2 weeks.
+
+* A house in the Takigoe District collapsed after a landslide crashed into it, killing 1 person.
+
+* 5 people that were driving in the Kōrigase District were buried in a landslide and became missing. 2 people were able to survive by running away from the landslide.
+
+* 1 person became missing in the Yanagigase District.
+
+* A man driving a truck was killed after being swept away by a landslide.
+
+* A lake was formed after a landslide blocked a river.
+
+== Precursors ==
+
+* According to Nagoya University, hot spring observatories near the epicenter recorded a big difference in the ratio of Methane and Argon, and the amount of Hydrogen before the earthquake. The change in the amount of Hydrogen is thought to be from small rupturing before the main earthquake.
+
+* A change in the percentage of Radon was observed at 141 observatories over 3 faults, including the Japan Median Tectonic Line.
+
+== Response ==
+
+9 check dams were built on Mount Ontake in 4 years after the earthquake.
+
+== See also ==
+
+* 1948 Fukui earthquake
+
+== References ==
+{{reflist}}
+
+{{Earthquakes in 1984}}
+{{Earthquakes in Japan}}
+
+Category:1984 earthquakes|Otaki earthquake
+Category:1984 in Japan|Otake earthquake
+Category:Earthquakes in Japan|1984 Otaki earthquake
+Category:Landslides in Japan

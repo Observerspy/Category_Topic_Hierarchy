@@ -1,0 +1,77 @@
+{{Use dmy dates|date=August 2011}}
+{{Earthquake
+|title= 1931 Hawke's Bay earthquake
+|image= Hastings Post Office 1931.jpg
+|date= {{start-date|3 February 1931, 10:47AM NZST|Tuesday 3 February 1931, 10:47 am NZST|tz=y}}
+|map = 1931 Hawke's Bay EQ Location.png
+|magnitude = 7.8 Surface wave magnitude|M<sub>s</sub>
+|depth= {{convert|20|km|abbr=on}}
+|location= {{coord|39.3|S|177.0|E|display=inline,title|region:NZ_type:event}}
+|countries affected = {{NZL}}
+|tsunami = none
+|casualties = 256 dead, thousands injured
+}}
+
+Image:NZ faults Napier Fault.png|thumb|240 px|Tectonic map of New Zealand with the interpreted position of the Napier Fault highlighted
+Image:Hawkes Bay Tribune 1931.jpg|thumb|Damage to the Hawkes Bay Tribune building
+The '''1931 Hawke's Bay earthquake''', also known as the '''Napier earthquake''', occurred in New Zealand at 10:47 am on Tuesday 3 February 1931, killing 256 and devastating the Hawke's Bay (region)|Hawke's Bay region. It remains New Zealand's deadliest natural disaster. Centred 15&nbsp;km north of Napier, New Zealand|Napier, it lasted for two and a half minutes and measured magnitude 7.8 Surface wave magnitude|M<sub>s</sub> (magnitude 7.9 moment magnitude scale|M<sub>w</sub>). There were 525 aftershocks recorded in the following two weeks. The main shock could be felt in much of the southern half of the North Island.
+
+==Tectonic setting==
+New Zealand lies along the boundary between the Indo-Australian Plate and Pacific Plates. In the South Island most of the relative displacement between these plates is taken up along a single dextral (right lateral) Fault (geology)#Strike-slip faults|strike-slip fault with a major Fault (geology)#Dip-slip faults|reverse component, the Alpine Fault. In the North Island the displacement is mainly taken up along the Hikurangi Subduction Zone, although the remaining dextral strike-slip component  of the relative plate motion is accommodated by the North Island Fault System (NIFS).
+
+The earthquake is thought to have occurred on one of the larger Thrust fault|thrust faults within the accretionary wedge, at between ca. 5&nbsp;km depth and ca. 20–25&nbsp;km depth (which is the approximate depth of subducted Pacific plate at that location)
+
+==Effects==
+{{refimprove|section|date=February 2013}}
+Nearly all buildings in the central areas of Napier and Hastings were levelled (The Dominion Post (Wellington)|''The Dominion'' noted that "Napier as a town has been wiped off the map") Thousands more were injured, with over 400 hospitalised. 
+
+The local landscape changed dramatically, with the coastal areas around Napier being lifted by around two metres. and resulted in draining 2230 hectares of the lagoon. Today, this area is the location of Napier Airport|Hawkes Bay Airport, housing and industrial developments and farmland.
+
+Within minutes fires broke out in chemist shops in Hastings Street, Napier. The fire brigade almost had the first fire under control when the second broke out in a shop at the back of the Masonic Hotel. The hotel was quickly engulfed in flames. The wind at this point also picked up strength and began blowing from the east, pushing the fires back over the city. With water mains broken, the brigade was unable to save many buildings. Pumping water from Clive Square, they were able to stop the fires spreading south. Only a few buildings in the central Napier area survived. Some withstood the earthquake only to be gutted by fire. Trapped people had to be left to burn as people were unable to free them in time. By Wednesday morning, the main fires were out, but the ruins still smouldered for several days.
+
+In Hastings, the fires were quickly brought under control.
+
+The death toll might have been much higher had the Royal Navy ship HMS Veronica (1915)|HMS ''Veronica'' not been in port at the time. Within minutes of the shock the ''Veronica'' had sent radio messages asking for help. The sailors joined survivors to fight the fires, rescue trapped people and help give them medical treatment. The ''Veronica'''s radio was used to transmit news of the disaster to the outside world and to seek assistance. The crew from two cargo ships, the ''Northumberland'' and ''Taranaki'', also joined the rescue works, while two cruisers, HMS Diomede (D92)|HMS ''Diomede'' and HMS Dunedin (D93)|HMS ''Dunedin'', were dispatched from Auckland that afternoon with food, tents, medicine, blankets, and a team of doctors and nurses. The cruisers sailed at high speed overnight, arrived on 4 February and provided valuable assistance in all areas until their departure on 11 February. 
+
+A group of prisoners working at Bluff Hill in Napier had four of their number buried in a landslip by the quake. The remaining prisoners dug them out, but two had been killed. The prisoners re-assembled without any attempt to escape and were locked up in the Napier Jail. In Taradale, New Zealand|Taradale, Mission Estate missionaries' accommodation block had been built and opened in February 1931. The next day the Hawke's Bay earthquake struck, causing serious damage to the entire Mission. Two priests and seven students were killed when the stone chapel was destroyed. In Havelock North, New Zealand|Havelock North, St Luke's church was damaged (but not destroyed) just before a wedding was due to take place. The couple got married later in the day, but outdoors.
+
+Within four days of the quake, cinemas around New Zealand offered news specials about the disaster.
+
+Another casualty of the earthquake was the Napier trams. The tracks were twisted by the earthquake, and were never restored.
+
+New Zealand's first commercial air disaster occurred six days after the quake, when a Dominion Airlines Desoutter monoplane crashed near Wairoa. The small airline had been making three return trips a day between Hastings and Gisborne, carrying passengers and supplies. All three on board were killed.
+
+The Napier ''Daily Telegraph'' had recently celebrated its diamond jubilee with an article describing Napier as "the Nice of the Pacific". The newspaper office was destroyed by the quake. The ''Hawke's Bay Herald'' offices in Hastings were also destroyed.
+
+It is still possible to see the original path of the earthquake from Napier Prison.
+
+==Rebuilding==
+The earthquake prompted a thorough review of New Zealand building codes, which were found to be totally inadequate.  Many buildings built during the 1930s and 1940s are heavily reinforced, although more recent research has developed other strengthening techniques. Building regulations established as a result of this event mean that to this day, there are very few buildings in Hawke's Bay taller than five stories, and as most of the region's rebuilding took place in the 1930s when Art Deco was fashionable, Hawke's Bay architecture is regarded today as being one of the finest collections of Art Deco in the world.
+
+On the tenth anniversary of the earthquake, the ''New Zealand Listener'' reported that Napier had risen from the ashes like a phoenix. It quoted the 1931 principal of Napier Girls' High School as saying "Napier today is a far lovelier city than it was before".
+
+==See also==
+* List of New Zealand disasters by death toll
+* List of New Zealand earthquakes
+
+==Notes==
+{{Reflist}}
+==References==
+*{{cite journal | first = Denis | last = Welch |date=4 February 2006| title = Shake, Rattle & Roll | journal = New Zealand Listener | issue =  3430 | pages = 29–30 | url = http://listener.co.nz/default,5417.sm | accessdate= 19 February 2006 <!--DASHBot-->}}
+*{{cite web | url = http://www.hbrc.govt.nz/DesktopDefault.aspx?tabid=181 | title = Earthquakes | work = History of Earthquakes in Hawke's Bay | publisher = Hawke's Bay Regional Council | accessdate = 2006-02-20| archiveurl= http://web.archive.org/web/20060129090609/http://www.hbrc.govt.nz/DesktopDefault.aspx?tabid=181| archivedate= 29 January 2006 <!--DASHBot-->| deadurl= no}}
+*{{cite web | url = http://www.hastingsdc.govt.nz/libraries/Topic_HBearthquake.htm | title = Hawke's Bay Earthquake 3&nbsp;February 1931 | work = Hastings District Libraries | accessdate = 2006-02-20 |archiveurl = http://web.archive.org/web/20051221173022/http://www.hastingsdc.govt.nz/libraries/Topic_HBearthquake.htm <!-- Bot retrieved archive --> |archivedate = 2005-12-21}}
+*Bateman ''New Zealand Encyclopedia'', edition 4 (1995). Article: ''Napier''
+
+==External links==
+*http://www.artdeconapier.com/Earthquake_8.aspx Art Deco Napier
+*http://audiovisual.archives.govt.nz/wiki/index.php/THE_HAWKES_BAY_DISASTER Hawkes Bay Earthquake (film)
+
+{{Earthquakes in New Zealand}}
+
+{{DEFAULTSORT:Hawkes Bay}}
+Category:Hawke's Bay Region
+Category:Napier, New Zealand
+Category:1931 in New Zealand
+Category:1931 earthquakes
+Category:History of the Hawke's Bay Region|1931 Hawkes Bay
+Category:Earthquakes in New Zealand

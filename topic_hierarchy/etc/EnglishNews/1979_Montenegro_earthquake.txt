@@ -1,0 +1,67 @@
+{{Infobox earthquake
+|title = 1979 Montenegro earthquake
+|date = {{start-date|April 15, 1979}}
+|map2 = {{Location map many| Montenegro
+| relief = yes
+| label =
+| lat1 = 41.98
+| long1 = 18.98
+| mark1 = Bullseye1.png
+| marksize = 40
+| lat2 = 42.44
+| long2 = 19.26
+| mark2 = Blue pog.svg
+| label2 = Podgorica
+| position = top
+| width = 250
+| float = right
+| caption = }}
+|magnitude = 6.9 Moment magnitude scale|M<sub>w</sub> 
+|depth = 12 km
+|location = {{coord|41.98|N|18.98|E|type:event|display=inline,title}} 
+|countries affected = Montenegro, Albania
+|casualties = 136 dead, 1,000+ injured
+}}
+The '''1979 Montenegro earthquake''' was the most devastating earthquake on the territory of present-day Montenegro, then part of Socialist Federal Republic of Yugoslavia|SFR Yugoslavia.
+
+== Earthquake ==
+The earthquake, which measured 7.0 on the Richter scale and IX Coordinated Universal Time|UTC (07:19/07:30 local time), fifteen kilometers from the Montenegrin Littoral|Montenegrin coast between Bar, Montenegro|Bar and Ulcinj. The tremor lasted for ten seconds and was mostly felt along the Montenegrin and Albanian coastline.
+
+=== Damage ===
+Budva's Old Town, one of Montenegro's Cultural Heritage Site, was heavily devastated. Of the 400 buildings in Budva's Old Town, 8 remained unscathed from the earthquake. The 15th century walls and ramparts protecting the Old Town were severely damaged as well. Praskvica Monastery, located between Milo?er and Sveti Stefan in the Budva Municipality, suffered greatly too. The church inside the monastery had all but totally collapsed, whereas the frescoes in the monastery were completely damaged. 
+
+The walls surrounding Stari Bar had suffered very little damage from the earthquake, in comparison to the Bar Aqueduct|Aqueduct in Stari Bar which was completely destroyed. Herceg Novi, the youngest town on the Montenegrin coast, suffered heavily as well. Parts of the walls of Herceg Novi's Old Town fell into the Adriatic. Ulcinj's Old Town, another Montenegrin Cultural Heritage Site, was almost totally devastated. The centuries old Bal?i? Tower in Ulcinj nearly collapsed as a result of the earthquake.
+
+Over 450 villages were razed to the ground. In addition, many villages in the regions of Crmnica, Grbalj, Krajina, Montenegro|Krajina and Pa?trovi?i were in danger of near total collapse. Further inland, Cetinje, Danilovgrad, Nik?i? and Montenegro's capital city, Titograd (present Podgorica) were damaged as well, but not as severely. 
+
+According to a 1984 UNESCO report, a total of 1,487 objects were damaged, nearly half of which consisted of households and another forty percent consisting of churches and other sacred properties. Only thirty percent of the 1,487 objects damaged were destroyed. Over 1,000 cultural monuments were suffered, as well as thousands of works of art and valuable collections.
+
+By the end of the catastrophe, 101 people had died in Montenegro and 35 in Albania and over 100,000 people were left homeless.
+
+=== Aid and relief ===
+File:Hotel Slavija, 1979 Yugoslavia Earthquake.jpg|thumb|left|Damage done to Hotel Slavija in Budva
+
+Days after the earthquake, $30,000 was made available immediately for aid work and restoration of disaster areas. On 28 May 1979, the Director-General of UNESCO issued a worldwide appeal for donations to help the nation recover for the devastation as the federal budget was insufficient for aid funding.
+
+Several months later, in October 1979, the World Heritage Committee of UNESCO decided to list the Natural and Culturo-historical Region of Kotor in the ''World Heritage List'' and in the ''List of World Heritage in Danger''.
+
+UNESCO, through International Center for the Study of the Preservation and the Restoration of Cultural Property|ICCROM, aided the Republic Institute for the Protection of Cultural Monuments in Cetinje for the restoration of frescoes in the ''Church of the Virgin'' in Podlastva Monastery. Similar help was given for the restoration of the ''Church of Alexander Nevsky'' on the island of Sveti Stefan.
+
+First estimates of the cost of damaged cultural property was about Yugoslav dinar|YUD10,527,690,000 (10.5 billion), which is just under 15% of the total earthquake damage. The 1984 inflation rates put that amount at about Yugoslav dinar|YUD3,174,098,500,000 (3.1 trillion), equaling to US Dollar|$31,700,000,000 (31 billion). The Yugoslav Government agreed to pay 81.839% of the total estimated cost of damaged cultural property, whereas the remaining 18.161% was to be paid by the local municipalities. To help meet the total costs of the disaster, the Government had set up a statutory fund whereby each worker across SFR Yugoslavia contributed 1% of his monthly salary towards the restoration effort in a ten-year period, from 1979 to 1989.
+
+Till September 1, 1983, the Government had budgeted for a total expenditure of Yugoslav dinar|YUD54,722,849,000 (54.7 billion), of which 3.69% or Yugoslav dinar|YUD21,023,620,800 (21 billion) were allocated for cultural property.
+
+By 1984, Montenegro was still under restoration, the entire Montenegrin coast, especially Budva and Kotor, and Cetinje receiving the heaviest amounts of restoration. Several objects had been fully restored by 1984, including the ''Memorial Museum of Jovan Tomasevic'' in Bar; ''Monastery of St. Vid'' and ''Church of St. Alexander Nevsky'' in Budva; ''Republic Institute for the Protection of Cultural Monuments'' (former ''Austrian embassy''), ''State Museum'' (former ''Palace of King Nicholas''), ''National Gallery'' and the ''Bishop's House'' in Cetinje; the ''Archives'' and ''Gallery of Josip Bepo Benkovic'' in Herceg Novi, ''Cultural Center'' in Kotor, ''Church of St. George'' in Orahovac (Kotor), ''Church of Our Lady'' in Krimovice (Kotor), ''Church of St. John'' in Dub (Kotor), ''Church of St. George'' in Sisici (Kotor), ''Church of St. George'' in Sutvara (Kotor), ''Church of St. George'' in Prijeradi (Kotor), ''Church of St. Eustacius'' in Dobrota (Kotor), ''Our Lady of the Rocks|Church of Our Lady of the Rocks'' in Perast (Kotor), ''Roman mosaics'' in Risan (Kotor) and twelve church buildings in Grbalj (Kotor).
+
+== References ==
+{{reflist|refs=
+
+}}
+
+{{Earthquakes in 1979}}
+
+{{DEFAULTSORT:Montenegro Earthquake}}
+Category:1979 earthquakes
+Category:1979 in Yugoslavia
+Category:Earthquakes in Montenegro|1979
+Category:Earthquakes in Yugoslavia|1979

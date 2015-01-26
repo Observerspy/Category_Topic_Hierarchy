@@ -1,0 +1,49 @@
+{{Earthquake
+|title = 1949 Khait earthquake
+|date = {{Start-date|10 July 1949}}
+|map2 = {{Location map | Tajikistan 
+ | relief = yes
+ | lat = 39.2
+ | long = 70.8
+ | mark = Bullseye1.png
+ | marksize = 40
+ | position = top
+ | width = 250
+ | float = right
+ | caption = }}
+|magnitude = 7.4
+|depth = 18 km
+|location = {{coord|39.2|70.8|display=inline,title}}
+|countries affected = Tajikistan, Gharm Oblast
+|tsunami = 
+|casualties = ~7,200 
+}}
+
+The '''1949 Khait (Hoit) earthquake''' occurred at 09:45 local time (03:53 Coordinated Universal Time|UTC) on 10 July in the Gharm Oblast region of Tajikistan. It had a Seismic scale#Magnitude scales|magnitude of 7.4 and triggered a series of landslides that together led to 7,200 deaths.
+
+==Tectonic setting==
+The earthquake occurred in a tectonically complex region at the southern edge of the Tien Shan. The southern margin of the Tien Shan is characterised by combination of dextral Fault (geology)#Strike-slip faults|strike-slip faulting and southward Thrust fault|thrusting over the Tajik Basin to the south along the Gissar-Kokshaal fault zone.
+
+==Damage==
+In the area of maximum felt intensity (>IX) most kishlaks were completely destroyed. Most of the fatalities were caused by numerous landslides triggered by the earthquake. The town of Khait (modern spelling ''Hoit'' ({{lang-tg|?оит}})) and the village of Khisorak were almost completely destroyed by the Khait landslide. Numerous kishlaks in the Yasman River valley were overwhelmed by the loess flowslide the swept down the whole length of the valley. Other kishlaks were destroyed by loess flowslides in the lower Obi-Kabud River valley and on the north side of the Surkhob River valley. Published estimates of the number of casualties range from 5,000 to 28,000. A more recent study, based on the size of affected settlements and the likely population density, gave an estimate of 7,200 of which about 800 were caused by the Khait landslide and 4,000 by the Yasman valley flowslide.
+
+==Characteristics==
+File:USGS Khait landslide.jpg|thumb|260px|View of the Khait landslide showing the scar on Chokrak mountain and the landslide that overwhelmed the village of Khait
+{{see also|List of earthquakes in Tajikistan}}
+
+===Earthquake===
+The main shock was preceded by two foreshocks (M5.1 and M5.6) on 8 July, just 12 minutes apart. The main shock had a magnitude of 7.4 calculated as the 'unified magnitude' using the 'Soviet Method'.
+
+===Landslides===
+Most of the landslides triggered by the earthquake were loess flowslides, involving failure and flow of unconsolidated loess material. In the Yasman River valley, which lies almost entirely within the area of greatest felt intensity, a large number of such flowslides coalesced in tributary valleys before combining into one massive flowslide that travelled the length of the valley. The area covered by the Yasman valley slide is about 24.4&nbsp;km<sup>2</sup>, with a total estimated volume of 245 Mm<sup>3</sup> (million cubic metres). The Khait landslide began as a rockslide but progressively entrained loess material. The rockslide was initiated by failure of part of the western flank of Chokrak Mountain. The landslide became more mobile once it began to entrain loess material and reached the Obi-Kabud River where it traversed the floodplain and surmounted a 25 m high river terrace on the river's west bank. The estimated volume for this landslide is about 75 Mm<sup>3</sup>. It travelled with an estimated velocity of about 40&nbsp;m/s.
+
+==References==
+{{Reflist}}
+
+Category:1949 earthquakes|Khait
+Category:1949 in the Soviet Union|Khait earthquake
+Category:Earthquakes in the Soviet Union
+Category:History of Tajikistan
+Category:Earthquakes in Tajikistan
+Category:Landslides in Tajikistan
+Category:Landslides in the Soviet Union

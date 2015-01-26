@@ -1,0 +1,71 @@
+clustering:
+cluster id: 0concept: 
+voter demographics#analysis#results#reactions#summary#vote#ballot access#procedure#debates#overall results#result#overview of results#
+cluster id: 1concept: 
+vote and seat summaries#
+cluster id: 2concept: 
+chamber of deputies#
+cluster id: 3concept: 
+party conventions#
+cluster id: 4concept: 
+primaries#general election campaign#government formation#background#conduct#turnout#media bias#rejected candidates#second round#campaign issues#candidates#aftermath#early primaries/caucuses#before the primaries#campaign#
+cluster id: 5concept: 
+results by province#results by region#
+cluster id: 6concept: 
+campaign slogans#
+cluster id: 7concept: 
+presidential debates#leaders' debates#
+cluster id: 8concept: 
+eligibility#nominations#manifestos#
+cluster id: 9concept: 
+electoral system#
+cluster id: 10concept: 
+polls#opinion polls#overview#economy#
+cluster id: 11concept: 
+electors#
+cluster id: 12concept: 
+congress of deputies#senate#
+cluster id: 13concept: 
+comparison#
+cluster id: 14concept: 
+official candidate websites#sources#
+cluster id: 15concept: 
+issues#campaigns#
+cluster id: 16concept: 
+electoral maps#
+cluster id: 17concept: 
+investiture voting#electronic voting#
+cluster id: 18concept: 
+health care#
+cluster id: 19concept: 
+political context#
+cluster id: 20concept: 
+official candidates#presidential candidates#registered candidates#other candidates#
+cluster id: 21concept: 
+first round#
+cluster id: 22concept: 
+withdrawn#
+cluster id: 23concept: 
+votes by state#results by state#
+cluster id: 24concept: 
+political parties#candidates by party#
+cluster id: 25concept: 
+opinion polling#
+cluster id: 26concept: 
+unsuccessful candidacies#
+cluster id: 27concept: 
+other nominations#election campaign#
+cluster id: 28concept: 
+apportionment#controversies#
+cluster id: 29concept: 
+exit polls#
+cluster id: 30concept: 
+timeline#
+cluster id: 31concept: 
+seat by seat results#
+cluster id: 32concept: 
+international observers#
+cluster id: 33concept: 
+post-election#
+cluster id: 34concept: 
+endorsements#

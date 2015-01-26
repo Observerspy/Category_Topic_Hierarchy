@@ -1,0 +1,66 @@
+{{Use dmy dates|date=March 2012}}
+{{Earthquake
+|title= 1978 Miyagi earthquake
+|date= {{Start-date|df=yes|12 June 1978}}
+|map2 = {{Location map | Japan
+ | label=
+ | lat=38.19
+ | long=142.03
+ | mark=Bullseye1.png
+ | marksize=50
+ | position=top
+ | width= 250
+ | float=right
+ | caption=
+ | relief=yes}}
+|magnitude = M<sub>s</sub>7.7
+|depth= {{convert|44|km|mi|0|abbr=on}}
+|PGA= 0.125 ''peak ground acceleration|g''
+|location={{coord|38.19|142.03|display=inline,title}}
+|countries affected = Japan, Miyagi Prefecture
+|tsunami = Yes (minor)
+|casualties = 28 deaths
+}}
+
+The {{Nihongo|'''1978 Miyagi earthquake'''|1978年宫城県冲地震|1978 nen Miyagi-ken-oki jishin}} occurred at 17:14 local time (08:14 UTC) on 12 June. It had a Surface wave magnitude|magnitude of 7.7, and triggered a small tsunami. The earthquake reached a maximum Seismic scales#Seismic intensity scales|intensity of Japan Meteorological Agency seismic intensity scale|Shindo 5 in Sendai and caused 28 deaths and 1,325 injuries.
+
+==Geology==
+The northeastern part of Honshū lies above the subduction zone that forms the Japan Trench, where the Pacific Plate is being subducted beneath the Okhotsk Plate.
+
+The rupture of the plate interface that caused the earthquake, occurred in two distinct stages, from study of surface and body wave data and the distribution of aftershocks. The first stage of rupture propagated northwards, roughly parallel to the trench axis, along the upper of the two aftershock zones. The second stage began after about 11 seconds with a second shock, about 30&nbsp;km westward of the first, at the base of the upper aftershock zone, propagating down dip. The cause of this rupture sequence is thought to be the presence of a barrier, a zone of higher strength, between the two aftershock zones.
+
+Earthquakes with similar magnitudes have occurred in this region periodically, about every 40 years. Such earthquakes include the ones that occurred in 1793, 1835, 1861, 1897, 1936, and 1978. The 2005 Miyagi earthquake is not considered to be the one that was expected to follow the 1978 Miyagi earthquake. More recent comparisons have confirmed the differences between the 1978 and 2005 events but called into question whether this sequence truly represents the repeat of a characteristic earthquake.
+
+The rupture zone of the 1978 earthquake occurred at the westernmost limit of known interplate earthquakes, some 150&nbsp;km back from the trench. This deepest part of the rupture zone, about 40&nbsp;km, is interpreted to represent the depth of transition to aseismic creep on the plate interface.
+
+The maximum peak ground acceleration recorded was 0.125g
+
+There was a foreshock of magnitude M<sub>j</sub> 5.8 at 17:06 local time, minutes before the main shock.
+
+==Damage==
+There were widespread landslides that caused extensive damage to highways and 1 death in the area around Sendai. Soil liquefaction was observed in lands claimed by embankment. No damage was reported from the tsunami.
+
+==Tsunami==
+A maximum wave height of about {{convert|60|cm|in|abbr=on}} was recorded at Kesennuma, Miyagi|Kesennuma and Onagawa, close to the epicenter.
+
+==Aftermath==
+The extent of damage to buildings caused by the earthquake, led directly to a revision of the Japanese Building Standard Act in 1981. The earthquake also led to a major revision in the Earthquake insurance#Japan|Earthquake Insurance System, which had been set up by the Japanese government in 1966.
+
+== 2011 Tōhoku earthquake and tsunami ==
+As of March 2011 it is not known if the 2011 Tōhoku earthquake and tsunami is related to the 1978 Miyagi quake periodic sequence. Some involved geological research will be required to see if there is a relationship between the quake events.
+
+Notable linkages
+* The time difference between the quakes is 33 years – a number that is within the probability for being related to the 1978 Miyagi quake sequence.
+* There are some suggestions that the 2011 Tōhoku quake is part of a 1000 year sequence (that is not related to the 40 year Miyagi quake sequence) as a 869 Jogan Sanriku earthquake|similar quake and tsunami hit the Sendai coast in 869 AD.
+
+== References ==
+{{reflist|colwidth=30em}}
+
+{{JapanTrenchMegathrust}}
+{{Earthquakes in Japan}}
+
+Category:1978 earthquakes|Miyagi earthquake
+Category:Megathrust earthquakes in Japan
+Category:History of Miyagi Prefecture
+Category:1978 in Japan
+Category:20th-century tsunamis

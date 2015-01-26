@@ -1,0 +1,100 @@
+{{Politics of Turkey}}
+The '''2000 Turkish presidential election''' consisted of a first round election on 27 April 2000 followed by a second round vote on 1 May and a third on 5 May. It occurred at the end of 9th president [[Süleyman Demirel]]'s seven-year term in office. There was a small effort to convert Turkey's [[President of Turkey|presidential system]] into two terms of five years each, which would have given Demirel an additional three years, but this proposal never found widespread support.
+
+In the months leading to the vote, each of the five largest parliamentary parties informally endorsed their own candidates. However, with their no party with a defining majority, a neutral compromise candidate was sought and eventually found in the form of [[Ahmet Necdet Sezer]], then chief justice at Turkey's [[Constitutional Court of Turkey|Constitutional Court]]. Sezer was endorsed by the leaders of the governing [[Democratic Left Party (Turkey)|Democratic Left]], [[Nationalist Action Party|Nationalist Action]] and [[Motherland Party (Turkey)|Motherland]] parties, as well as the leaders of the opposition [[Virtue Party|Virtue]] and [[True Path Party|True Path]] parties.
+
+A number of MPs broke from party lines to nominate themselves. Among them was parliament speaker and former prime minister [[Yıldırım Akbulut]], who was unable to win popular support and withdrew after the second round.
+
+==Procedure==
+
+The presidential vote is held in parliament by [[secret ballot]]. A candidate requires a [[two-thirds majority]] - or 367 votes - to be elected in the first two rounds. If there is no clear winner before the third round, the winning threshold is dropped to a [[majority|simple majority]], or 276 votes. If there is still no winner, the two candidates with the most votes from the third round progress to a runoff election, where the simply majority rule still applies. In the event of no clear winner among the two, the Turkish constitution states that a snap general election must be called to overcome the parliamentary deadlock.
+
+==Results==
+{{electiontable|Turkish presidential election, 2000}}'''Summary of the April - May 2000 Turkish [[President of Turkey|presidential]] election results'''
+|-
+!style="background-color:#E9E9E9" align=left valign=top|Candidates
+!style="background-color:#E9E9E9" align=left valign=top|Position or political party
+!style="background-color:#E9E9E9" align=right|1st round votes
+!style="background-color:#E9E9E9" align=right|2nd round votes
+!style="background-color:#E9E9E9" align=right|3rd round votes
+|-
+|align=left|[[Ahmet Necdet Sezer]]
+|align=left|Chief Justice, [[Constitutional Court of Turkey|Constitutional Court]]. Cross-party candidate.
+|281
+|314
+|330
+|-
+|align=left|[[Nevzat Yalçıntaş]]
+|align=left|[[Virtue Party]] (''Fazilet Partisi'')
+|61
+|66
+|113
+|-
+|align=left|Sadi Somuncuoğlu
+|align=left|[[Nationalist Movement Party]] (''Milliyetçi Hareket Partisi'')
+|58
+|32
+|43
+|-
+|align=left|Rasim Zaimoğlu
+|align=left|[[True Path Party]] (''Doğru Yol Partisi'')
+|7
+|3
+|24
+|-
+|align=left|Mehmet Mail Büyükerman
+|align=left|[[Democratic Left Party (Turkey)|Democratic Left Party]] (''Demokratik Sol Parti'')
+|3
+|2
+|7
+|-
+|align=left|[[Yıldırım Akbulut]]
+|align=left|[[List of Speakers of the Parliament of Turkey|Parliament speaker]], [[Motherland Party (Turkey)]] (''Anavatan Partisi'')
+|56
+|88
+| colspan=1 rowspan=2|
+|-
+|align=left|[[Doğan Güreş]]
+|align=left|[[True Path Party]] (''Doğru Yol Partisi'')
+|35
+|22
+|-
+|align=left|Ahmet İyimaya
+|align=left|[[True Path Party]] (''Doğru Yol Partisi'')
+|10
+| colspan=2 rowspan=3|
+|-
+|align=left|Agâh Oktay Güner
+|align=left|[[Motherland Party (Turkey)]] (''Anavatan Partisi'')
+|5
+|-
+|align=left|Oğuz Aygün
+|align=left|[[Democratic Left Party (Turkey)|Democratic Left Party]] (''Demokratik Sol Parti'')
+|4
+|-
+| colspan=2 rowspan=1|'''Spoiled votes'''
+|8
+|2
+|8
+|-
+| colspan=2 rowspan=1|'''Blank votes'''
+|2
+|3
+|8
+|-
+| align=right colspan=2 style="background-color:#E9E9E9"|'''Total MP turnout'''
+|width="75" align="right" style="background-color:#E9E9E9"|530
+|width="75" align="right" style="background-color:#E9E9E9"|532
+|width="75" align="right" style="background-color:#E9E9E9"|533
+|-
+|colspan=6 align=left|'''Source:''' Turkish Grand National Assembly online archives [http://www.tbmm.gov.tr/]
+|}
+
+===Withdrawn nominations===
+* '''Vecdi Gönül''', Virtue Party. Fielded his candidacy early on in the election period, withdrew when a cross-party consensus was found in Sezer. Still won five votes in the first ballot.
+* '''Gönul Saray Alphan''' and '''Turhan İmamoğlu''', both Democratic Left Party. Both withdrew their candidacies before the first ballot.
+
+{{Turkish presidential elections}}
+
+[[Category:Presidential elections in Turkey|2000]]
+[[Category:2000 elections in Turkey]]

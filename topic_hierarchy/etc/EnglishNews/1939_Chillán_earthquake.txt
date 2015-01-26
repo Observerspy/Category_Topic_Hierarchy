@@ -1,0 +1,56 @@
+{{refimprove|date=January 2011}}
+{{Infobox earthquake 
+|title= 1939 Chillán earthquake
+|map2 = {{Location map+ | South America |relief = 1
+ | places =
+{{Location map~|South America|lat=-36.6|long=-72.12|label=Chillán|position=right||label_size=120|mark=Blue pog.svg}}
+{{Location map~|South America|lat=-36.25|long=-72.25|position=left||marksize=40|mark=Bullseye1.png}}
+ | width = 250
+ | float = center
+ | caption =}} 
+ |date = {{Start date|1939|1|24}}
+ |magnitude = 8.3 Surface wave magnitude|M<sub>S</sub> 
+ | depth= 60; km
+ | location = {{coord|36|12|00|S|72|12|03|W|type:event|display=inline,title}} 
+ | countries affected = Chillán, Chile
+ | casualties = ~28,000 
+}}
+The '''1939 Chillán earthquake''' occurred in south-central Chile on 24 January and had a surface wave magnitude of 8.3. With a death toll of around 28,000, compared to the 2,231 – 6,000 (official estimates vary greatly)  of the Great Chilean Earthquake of 1960, it is the single deadliest earthquake in Chile.
+
+==Earthquake==
+{{see also|List of earthquakes in Chile}}
+
+At 23:33, the earth began to shake strongly underneath Chillán, destroying more than half of it, at around 3,500 homes (including the recently constructed Casa Rabié) which then was in the city. After this quake, others came, which, although they were less intense, left the city completely destroyed. Until then, the Cathedral of Chillán had been one of the principal buildings of the area, but it was completely destroyed by the earthquake.  The church that was built to replace the one destroyed in the earthquake was designed specifically to withstand future earthquakes.
+
+Some minutes after the earthquake in Chillán, at 23:35, Concepción, Chile|Concepción was violently hit. Almost all of the buildings (around 95% of the houses) were completely destroyed.
+There was a show going on in the theater of Concepción at the moment of the earthquake. The large chandelier that was suspended in the ceiling of the theater started to swing.  The people inside were terrified, so they fled down the stairs, but the spiral staircase cracked, causing many people to fall into the gap. In the intersection of O’Higgins and Aníbal Pinto avenue the bodies accumulated, which were later brought to the cemetery, and interred in large strips of land.
+
+The electricity was cut in all of the city and tens of fires were reported in various points of the city. The potable water supply was also seriously affected. The material damages in all of the city were evaluated to be more than three thousand million pesos. Various emblematic buildings of the city were destroyed, like the central market, Correos de Chile, but the most emblematic was the plaza of independence, which was seriously damaged. Its two towers leaned dangerously, and because of this they had to be demolished. Another building that was affected was the first building of the old Central Station of Concepción.  In 1941, the construction of a second station building began.
+
+{{clear}}
+
+==Geology==
+The community of Chillán is situated in the continental territory of Chile. The city of Chillán was built on a tectonic structure at the end of the Tertiary Period in the part of the Longitudinal Valley which is identified with the Central level. Morphologically, the land corresponds to an alluvial plain, which predominates with fluvioglacial sediments, conformed during the Cuaternario by the action of the Rivers nuble and Cato in the north and the River Chillán in the south, both tributary streams of the large drainage basin of Itata. The natural flow of the enclave of Chillán is confirmed by later geological studies, found the root of the earthquake of 1939, when a prospection of more than 80 meters was carried out, without finding the bedrock.
+
+==Response==
+In the aftermath of the disastrous 1939 Chillán earthquake the government created CORFO (Spanish acronym for ''Production Development Corporation'') to help in the reconstruction of the country and to industrialize the country, mechanize the agriculture and help mining to develop.
+
+==Gallery==
+{{Commons category|1939 Chillán earthquake}}
+<gallery>
+Image:Calle Barros Arana en 1939.jpg|Concepción after the earthquake.
+Image:Miradoraleman1938.jpg|"El Mirador Alemán", in Concepción, after the earthquake.
+Image:1939 Chile Earthquake Memorial Placard.jpg|A memorial placard next to the cathedral in Chillán commemorates the earthquake victims 50 years later.
+</gallery>
+{{clear}}
+
+==References==
+{{reflist}}
+
+{{Earthquakes in Chile}}
+
+{{DEFAULTSORT:1939 Chillan earthquake}}
+Category:Megathrust earthquakes in Chile
+Category:History of Bío Bío Region
+Category:1939 earthquakes|Chillan
+Category:Concepción, Chile

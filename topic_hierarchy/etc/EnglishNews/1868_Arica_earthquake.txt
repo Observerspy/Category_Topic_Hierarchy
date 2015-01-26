@@ -1,0 +1,84 @@
+{{Use dmy dates|date=July 2013}}
+{{Earthquake
+|title = 1868 Arica earthquake
+|date = {{Start-date|13 August 1868}}
+|map2 = {{Location map+ | Peru
+| places =
+{{Location map~|Peru|lat=-12.04|long=-77.03|label=Lima|position=left||label_size=120|mark=Blue pog.svg}}
+{{Location map~|Peru|lat=-18.48|long=-70.33|label=Arica|position=right||label_size=120|mark=Blue pog.svg}}
+{{Location map~|Peru|lat=-18.5|long=-71.0|position=left||marksize=45|mark=Bullseye1.png}}
+| relief = yes
+| label =
+| lat = 
+| long = 
+| mark = 
+| marksize = 
+| position = 
+| width = 250
+| float = right
+| caption = }}
+|magnitude = 8.5-9.0 Magnitude Moment magnitude scale|M<sub>w</sub>
+|depth =
+|location = {{coord|-18.5|-71.0|type:event|display=inline,title}} 
+|countries affected = Peru and parts of what is now northern Chile
+|tsunami =
+|casualties = 25,000+
+}}
+
+File:Arica after the earthquake (1868).JPG|thumb|Arica after the earthquake and tsunami
+File:USS Wateree (1863).jpg|thumb|The USS Wateree (1863)|USS ''Wateree'' beached at Arica, {{Convert|430|yd|m}} inland
+File:Arica Peru 1868.jpg|thumb|Sketches of Arica after the earthquake and tsunami from the Illustrated London News
+
+The '''1868 Arica earthquake''' occurred on 13 August 1868, near Arica, then part of Peru, now part of Chile, at 21:30 UTC. It had an estimated magnitude between 8.5 and 9.0. A tsunami (or multiple tsunamis) in the Pacific Ocean was produced by the earthquake, which was recorded in Hawaii, Japan and New Zealand.
+
+==Tectonic setting==
+The earthquake occurred along the boundary between the Nazca Plate and the South American Plate. The earthquake was likely a result of thrust fault|thrust-faulting, caused by the subduction of the Nazca plate beneath the South American plate.
+
+The coasts of Peru and Chile have a history of great megathrust earthquakes originating from this plate boundary, such as the 1960 Valdivia earthquake and the 2010 Maule earthquake.
+
+==Damage==
+The earthquake caused the almost complete destruction the southern part of Peru, including Arica_Province_(Peru)|Arica, Tacna, Moquegua, Mollendo, Ilo, Iquique, Torata District|Torata and Arequipa, giving rise to an estimated 25,000 casualties.
+
+The tsunami drove three ships that had been anchored in the port nearly 800 m inland: the 1560-ton Peruvian corvette ''America'', the USS Wateree (1863)|U.S. gunboat ''Wateree'' and the U.S. store ship ''Fredonia'', which was completely destroyed in the process. The English brig ''Cha?arcillo'' and two Chilean schooners, ''Rosa Rivera'' and ''Regalon'' were also lost.
+
+The tsunami caused considerable damage in Hawaii, washing out a bridge along the Waiohi river. In New Zealand, substantial damage occurred on the Chatham Islands and the Banks peninsula with many houses washed away and boats damaged, but only one death was recorded.
+
+==Characteristics==
+
+===Earthquake===
+Two separate earthquakes have been described,
+
+The earthquake was felt over a very wide area, up to 1400&nbsp;km to the northwest in Samanco District|Samanco, Peru and 224&nbsp;km to the east in Bolivia. Estimates of its magnitude range from 8.5 to 9.0. A 600&nbsp;km rupture length has been estimated from the Isoseismal map|pattern of isoseismals making it one of the largest fault breaks in modern times.
+
+About 400 aftershocks were recorded by 25 August of that year.
+
+===Tsunami===
+Although this event generated a tsunami that was noted across the Pacific, most of the associated damage was localised along the coasts of southern Peru and what is now northernmost Chile. The first wave arrived at Arica 52 minutes after the earthquake, with a 12 m height, followed by the largest 16 m wave 73 minutes later.
+
+==Future risk==
+In 2001 the Arica area was identified as forming part of a seismic gap between 15° and 24°S, with no major earthquake since 1877. In accordance with this theory a major earthquake was considered likely to happen in the near future. A repeat of the 1868 event would probably cause more casualties, because of the increase of population in areas at risk.
+
+==See also==
+* 1877 Iquique earthquake
+* 2014 Iquique earthquake
+
+==References==
+{{Reflist}}
+
+== Further reading ==
+* {{cite book|title=Arica 1868: Un Tsunami y Un Terremoto|url=http://www.memoriachilena.cl/temas/documento_detalle.asp?id=MC0064460|first=Manuel Fernández|last=Canque|date=January 2007|publisher=University of Tarapacá|isbn=978-9562441940}}
+* {{citation|title=Un día en la historia de Arica: 13 de agosto 1868|url=https://www.academia.edu/4228789/Un_dia_en_la_historia_de_Arica_13_de_agosto_1868|first=Manuel Fernández|last=Canque|pages=33–47}}
+
+==External links==
+*{{commonscat-inline}}
+
+{{Earthquakes in Chile}}
+
+{{DEFAULTSORT:1868 Arica Earthquake}}
+Category:1868 earthquakes|Arica
+Category:1868 in Peru|Arica
+Category:1868 in Chile|Arica
+Category:Megathrust earthquakes in Peru
+Category:Megathrust earthquakes in Chile
+Category:19th-century tsunamis
+Category:Arica

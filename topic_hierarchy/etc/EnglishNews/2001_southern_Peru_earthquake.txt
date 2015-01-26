@@ -1,0 +1,43 @@
+{{Infobox earthquake
+|title = 2001 southern Peru earthquake
+|date = {{Start date|2001|6|23}}
+|map2 = {{Location map+ | South America |relief = 1
+ | places =
+{{Location map~|South America|lat=-18.48|long=-70.33|label=Arica|position=right||label_size=120|mark=Blue pog.svg}}
+{{Location map~|South America|lat=-29.95|long=-70.33|label=Coquimbo|position=right||label_size=120|mark=Blue pog.svg}}
+{{Location map~|South America|lat=-16.26|long=-73.34|position=left||marksize=40|mark=Bullseye1.png}}
+ | width = 250
+ | float = center
+ | caption =}} 
+|image name =
+|magnitude = 8.4 Moment magnitude scale|M<sub>w</sub>
+|depth = {{convert|33|km|mi|0}}
+|location = {{coord|16.26|S|73.64|W}}
+|countries affected = {{PER}}
+|casualties = 75 confirmed dead, 2,687 injured}}
+
+The '''2001 southern Peru earthquake''' occurred at 20:33:14 UTC (15:33:14 local time) on Saturday, June 23 with a magnitude of 8.4. The quake affected the Peruvian Subdivisions of Peru|regions of Arequipa Region|Arequipa, Moquegua Region|Moquegua and Tacna Region|Tacna. It was the most devastating earthquake in Peru since the catastrophic 1970 Ancash earthquake and globally the largest earthquake since the 1965 Rat Islands earthquake.
+
+==Tectonics and background==
+The earthquake occurred at the boundary between the Nazca Plate|Nazca and South American Plate|South American Plate tectonics|plates. The two plates are converging towards each other at a rate of about 78mm per year. The earthquake occurred as thrust-faulting on the interface between the two plates, with the South American plate moving up and seaward over the Nazca plate.
+
+==Damage and casualties==
+At least 75 people were killed, including 26 killed by a tsunami. 2,687 were injured, 17,510 homes were destroyed and 35,549 homes damaged in the Arequipa-Camana-Tacna area. An additional 64 people were missing due to the tsunami in the Camana-Chala area. Landslides blocked highways in the epicentral area. Many of the historic buildings in Arequipa were damaged or destroyed, including the left tower of the Basilica Cathedral of Arequipa. Restoration was completed on the tower on June 30, 2002.
+
+Some people were injured and damage was reported in the Arica, Chile area. It was felt in Arica, Iquique, Calama, Chile|Calama and Tocopilla, Chile. The quake was also felt strongly in much of southern Peru and northern Chile and also in Bolivia. Tsunami runup heights near Camana were estimated from field evidence to have reached approximately 7m at some locations; at other locations, the tsunami inundation distance extended more than 1&nbsp;km inland from the coast. Tsunami wave heights (peak-to-trough) recorded from selected tide stations: 2.5m at Arica; 1.5m at Iquique; 1.0m at Coquimbo, Chile.
+
+==See also==
+* Earthquakes in Peru
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Es icon}} http://www.igp.gob.pe/cns/reportes/2002/sis_230602_areq/Documentos%20pdf/sismo6.pdf Análisis del Terremoto del Sur del Perú, 23 de Junio 2001, Mw= 8.4 Utilizando Datos Locales
+
+{{Earthquakes in 2001}}
+
+{{DEFAULTSORT:2001 Southern Peru Earthquake}}
+Category:2001 earthquakes|Southern Peru
+Category:2001 in Peru|Southern Peru Earthquake, 2001
+Category:Megathrust earthquakes in Peru

@@ -1,0 +1,63 @@
+{{Earthquake
+|title= 1835 Concepción earthquake
+|date= {{Start-date|February 20, 1835}}
+|map2 = {{Location map | Chile
+| label=
+| lat=-36.8
+| long=-73.0
+| mark=Bullseye1.png
+| marksize=50
+| position=top
+| width= 150
+| float=center
+| caption=
+ | relief=yes}}
+|magnitude = 8.2 Magnitude M<sub>fa</sub>
+|depth=
+|location={{Coord|-36.8|-73.0|type:event_region:CL|display=inline,title}}
+|countries affected = Chile
+|tsunami =yes
+|casualties = >50}}
+File:Remains of the Cathedral of Conception - 1835.png|thumb|320px|Drawing of the remains of the Cathedral in Concepción
+The '''1835 Concepción earthquake''' occurred near the neighboring cities of Concepción, Chile|Concepción and Talcahuano in Chile on February 20 at 11:30 local time (15:30 Coordinated universal time|UTC) and has an estimated Seismic scale#Seismic magnitude scales|magnitude of 8.2 M<sub>fa</sub> The earthquake triggered a tsunami which caused the destruction of Talcahuano. A total of at least 50 people died from the effects of the earthquake and the tsunami. The earthquake caused damage from San Fernando, Chile|San Fernando in the north to Osorno, Chile|Osorno in the south. It was felt over a still wider area from Copiapó in the north to the Chiloé Archipelago|island of Chiloe in the south and as far west as the Juan Fernández Islands.
+
+==Tectonic setting==
+Chile lies above the convergent boundary between the Nazca Plate and the South American Plate, with a convergence rate of 66&nbsp;mm/yr. This boundary has been the site of many historical megathrust earthquakes, including the 1960 Valdivia earthquake|largest earthquake ever recorded. The rupture area of the 1835 earthquake was noted as a prominent seismic gap, leading to a forecast of a large earthquake (M<sub>w</sub> 8.0&ndash;8.5) within a few decades. The recent 2010 Chile earthquake appears to have ruptured this part of the plate interface.
+
+==Damage==
+Concepción was devastated, with most buildings being destroyed. A later survey found that 33% of kiln-dried brick buildings, 71% of mud-brick buildings and 95% of stone-built constructions were destroyed with all the rest being damaged. Despite this degree of damage only 50 people were reported dead. The low level of fatalities was attributed to the gradual increase in the intensity of shaking and that the earthquake occurred during the middle of the day, giving most of the inhabitants time to get clear. The destruction at Talcahuano was greater still due to the effects of the tsunami, which left only the lower parts of some buildings standing. A schooner was swept about 200 m inland, into the middle of the ruined town. There were few deaths, as the inhabitants had time to run up the hills behind the town.
+
+==Characteristics==
+
+===Earthquake===
+The shaking lasted for two minutes, with gradually increasing intensity. At least 300 aftershocks were noted during the next 12 days.
+
+===Tsunami===
+There were three separate waves reported at Talcahuano, the first of which had a run-up of {{convert|23|ft|m}}. The maximum run-up of 24 m was recorded at Coelemu.
+
+==Remarks==
+Charles Darwin was visiting the area while on the second voyage of the HMS Beagle and recorded his observations of the earthquake in Valdivia and its effects and the subsequent tsunami in Concepción and Talcahuano. He remarked:
+{{quote box
+|border    = 1px
+|align     = left
+|bgcolor   = #c6dbf7
+|halign    = left
+|quote     = ''An earthquake instantly reverses the strongest ideas, the earth, the very emblem of solidity, has trembled under our feet like a thin crust placed on a fluid, a space of a second was enough to awaken the imagination a strange feeling of insecurity which hours of reflection would not have occurred. ... But I confess that I saw with great satisfaction that all the people seemed more active and happier than it would have been expected after such a terrible catastrophe. It has been noted, with some truth, that being general destruction, no one felt more humble than his neighbour, no one could accuse his friends of coldness, two causes which always added a sharp pain to the loss of wealth. ... "
+|source    = Charles Darwin, ''Travel'' and ''A naturalist's voyage round the world: Observations of the Concepción earthquake'', 1835.
+}}
+
+{{-}}
+The ''Beagle'''s captain, Robert Fitzroy, wrote a paper suggesting that the earthquake had affected the currents running along the South American coast. The paper was submitted to the Admiralty during the court martial of Captain Michael Seymour of HMS ''Challenger'', whose ship was run ashore on rocks in May 1835 near the mouth of the Leübu River.
+
+==See also==
+* List of earthquakes in Chile
+
+==References==
+{{Reflist}}
+
+{{Earthquakes in Chile}}
+
+{{DEFAULTSORT:1835 Concepcion earthquake}}
+Category:Megathrust earthquakes in Chile
+Category:1835 in Chile|Concepcion Earthquake, 1835
+Category:1835 earthquakes|Concepcion Earthquake, 1835

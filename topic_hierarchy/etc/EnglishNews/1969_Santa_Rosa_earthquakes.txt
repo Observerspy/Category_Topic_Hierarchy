@@ -1,0 +1,55 @@
+{{Infobox earthquake
+|title = 1969 Santa Rosa earthquakes
+|date = October 1, 1969
+|map2 = {{Location map+ | California
+ |places = 
+{{Location map~|California|lat=38.467|long=-122.692|mark=Bullseye1.png|marksize=40}}
+{{Location map~|California|lat=38.45|long=-122.7|label=Santa Rosa|position=left|mark=Green pog.svg}}
+ | relief = yes
+ | width = 250
+ | float = right
+ | caption = }}
+|magnitude = 5.6 and 5.7 Moment magnitude scale|M<sub>w</sub>
+|depth = 9.6 km and 10.4 km 
+|location = {{coord|38.467|-122.692|region:US-CA_type:event|display=inline,title}}
+|countries affected = United States (Santa Rosa, California|Santa Rosa)
+|aftershocks = Yes
+|casualties = 1
+}}
+File:Santa Rosa 1969 earthquake locations.png|thumb|Geological structures near Santa Rosa, showing the epicenters of the 1969 earthquakes
+At 04:56 and 06:19 UTC on October 2, 1969 (21:56 and 23:19 Pacific Time Zone|PDT October 1), a pair of earthquakes of magnitude 5.6 and 5.7, respectively, struck the city of Santa Rosa, California|Santa Rosa, California, killing one person and damaging buildings. The maximum felt intensity for the two events was VII (very strong) and VIII (destructive) respectively on the Mercalli intensity scale.
+
+==Tectonic setting==
+The current tectonics of northern California are mainly controlled by the San Andreas Fault system, the zone of dextral strike-slip faulting that accommodates displacement between the North American Plate and the Pacific Plate along this transform fault|transform boundary. In addition to the San Andreas Fault itself there are numerous other sub-parallel dextral strike-slip faults that take up some of the plate boundary motion distributed through a zone more than 100&nbsp;km wide. These faults may form a continuation of the Hayward Fault Zone north of San Francisco Bay.
+
+==Earthquake==
+The two earthquakes occurred about a kilometer apart, a few kilometers north of Santa Rosa, close to the trace of the Healdsburg Fault. The focal depths of the two mainshocks were 9.6&nbsp;km and 10.4&nbsp;km respectively. The first shock was described as "violent or explosive" by residents and the main shaking lasted for 15 seconds.
+
+{| class="wikitable"
+! Earthquake epicenter
+! Geographic coordinate system|Coordinates
+|-
+| First earthquake
+| {{coord|38|28.4|N|122|43.0|W|type:event_region:US-CA|format=dec}}
+|-
+| Second earthquake
+| {{coord|38|27.9|N|122|43.1|W|type:event_region:US-CAformat=dec}}
+|}
+
+==Damage==
+The earthquake caused severe damage in some areas of Santa Rosa, affecting many buildings, bringing down chimneys, causing sidewalks to buckle and rupturing underground pipes. The lack of casualties and the low number of injuries is ascribed to the earthquakes being in the evening, when there were few pedestrians in the streets.
+
+==Aftermath==
+Following the relatively high level of damage caused by the 1969 earthquakes, the city set about retrofitting buildings to improve their earthquake resistance by adding for instance cross-bracing to unreinforced masonry structures. The first buildings to be retrofitted were the St. Rose Church and Parish hall due to their high level of occupancy and lack of reinforcing. The safety standards adopted in Santa Rosa in 1970 provided a model for other cities in California when the state brought in requirements for retrofitting.
+
+An analysis of the effects on structures in Santa Rosa showed that it was necessary to design buildings using dynamic principles rather than just static, even in the case of a moderate intensity earthquake.
+
+==References==
+{{Reflist}}
+
+{{Significant earthquakes in California}}
+
+Category:1969 earthquakes|Santa Rosa earthquakes, 1969
+Category:Earthquakes in California|S
+Category:History of Sonoma County, California
+Category:History of Santa Rosa, California

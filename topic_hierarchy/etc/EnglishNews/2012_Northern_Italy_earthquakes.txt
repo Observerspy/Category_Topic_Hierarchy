@@ -1,0 +1,266 @@
+{{use dmy dates|date=May 2013}}
+{{Infobox earthquake
+| title = 2012 Northern Italy earthquakes
+| date = {{Start date|2012|05|20|df=yes}} 04:03 Central European Summer Time|CEST
+| map2 = {{Location map |Alps|relief=1
+| AlternativeMap=
+| label =
+| lat = 44.500
+| long = 11.172
+| mark = Bullseye1.png
+| marksize = 50
+| position = top
+| width = 240
+| float = center
+| caption = }}
+| caption = Earthquake epicentre
+| magnitude = 6.1 moment magnitude scale|M<sub>w</sub>
+| depth = {{convert|9.0|km|mi|abbr=on}}
+| location = {{coord|44.500|N|11.172|E|display=inline,title|type:event}}<br>Finale Emilia,<br>Modena
+| countries affected = Emilia-Romagna,<br>Italy
+| aftershocks = '''#29 May earthquake|5.8 M<sub>w</sub>''', 5.3 M<sub>w</sub>, 5.2 M<sub>w</sub>, #3 June aftershock|5.1 M<sub>w</sub>, 4.7 M<sub>w</sub>, 4.6 M<sub>w</sub>, #6 June earthquake|4.5 M<sub>w</sub>
+| casualties = 27 dead (7 on 20 May and 20 on 29 May), at least 50 injured in the first quake and 350 in the second, up to 45,000 homeless in total
+| intensity = Mercalli intensity scale|MM VII-VIII<br>(''Very Strong''- ''Destructive'')
+| PGA =
+}}
+<!--Per MOS:BOLDTITLE and WP:SBE, neither the article's title nor related text appears in bold.-->In May 2012, two major earthquakes occurred in Northern Italy, causing 26 deaths and widespread damage.
+
+The first earthquake, registering moment magnitude scale|magnitude 5.9, struck in the Emilia-Romagna region, about 36 kilometres (22&nbsp;mi) north of the city of Bologna, on {{Nowrap|20 May 2012}} at 04:03 Italy|local time (02:03 Coordinated Universal Time|UTC). The Epicenter|epicentre was between Finale Emilia, Bondeno and Sermide. Two aftershocks of magnitude 5.2 occurred, one approximately an hour after the main event and another approximately eleven hours after the main event.  Seven people were killed.
+
+A magnitude 5.8 earthquake struck the same area nine days later, on 29 May, causing an additional twenty deaths and widespread damage, particularly to buildings already weakened by the 20 May earthquake. The epicentre was in Medolla at a depth of about 10 kilometres (6&nbsp;mi).
+
+==Tectonic setting==
+The Po Valley|Po Plain, a foreland basin formed by the downflexing of the Crust (geology)|crust by the loading of the Apennine thrust sheets, overlies and mainly conceals the active front of the Apennine Mountains|Northern Apennines fold and thrust belt, across which there is about one millimeter (0.04&nbsp;in) per year of active shortening at present. Information from hydrocarbon exploration demonstrates that the area is underlain by a series of active thrust faults and related Fold (geology)|folds, some of which have been detected from anomalous drainage patterns. These blind thrust faults are roughly WNW-ESE trending, parallel to the mountain front, and Strike and dip|dip shallowly towards the south-southwest. Several damaging historical earthquakes,  such as the 1570 Ferrara earthquake, have occurred in the area.
+
+==20 May earthquake==
+File:Chiesa di San Paolo - Mirabello - Province of Ferrara - 2012 Northern Italy earthquake - (1).jpg|thumb|right|200px|The damaged Church of Saint Paul, Mirabello|church of Saint Paul in Mirabello, Emilia–Romagna|Mirabello, Province of Ferrara|Ferrara
+The 20 May earthquake sequence began with a magnitude 4.0 foreshock at 01:13 local time (23:13 UTC 19 May). Less than three hours later, at 04:04 local time (02:04 UTC) the biggest of these earthquakes occurred with magnitude 5.9 between Finale Emilia (province of Modena) and Sant'Agostino, Emilia–Romagna|Sant'Agostino (province of Ferrara). This strong quake destroyed all the churches and many of the factories in the area. 7 people were killed. In San Carlo more than 350 families lost their houses. Within the next nine days, there were six aftershocks exceeding magnitude 5, 28 of magnitude 4–5 and 139 of magnitude 3–4.
+The focal mechanism indicates that the earthquake was a result of thrust faulting,
+
+==29 May earthquake==
+On 29 May (about 09:00 CEST, 07:00 UTC), a magnitude 5.8 earthquake hit the same area. The Hypocenter|hypocentre has been estimated at 5–10 kilometres (3–6&nbsp;mi) below Mirandola. The 09:00 shock and the 13:00 shocks were felt throughout Northern Italy, up to the Aosta Valley|Aosta province. The 09:00 earthquake could be felt in Austria, Switzerland, and Croatia,{{citation needed|date=May 2012}} with reports of swaying buildings in Austria. The two large aftershocks at 12:55 and 13:02 could also be felt in Austria.
+
+This earthquake had a similar mechanism to the 20 May shock.
+
+==3 June aftershock==
+On 3 June at 21:20 local time, a magnitude 4.9 earthquake hit the area between the provinces of Modena, Reggio Emilia, Bologna and Mantua.
+Its epicenter was between the towns of Concordia sulla Secchia, Novi di Modena and San Possidonio in the province of Modena, at a depth of 6.0&nbsp;km.
+
+This earthquake, like the previous earthquakes of 20 May and 29 May, was distinctly felt in Trentino Alto Adige. It was especially felt on the upper floors of buildings both in Trento and Bolzano, and created some concern among residents.
+
+==6 June earthquake==
+On 6 June at 06:08 local time,a Richter magnitude scale|magnitude 4.5 earthquake hit 50&nbsp;km further east with an epicenter off the coast of Ravenna in Romagna at a depth 25.6&nbsp;km.
+The earthquake was felt strongly and distinctly in Ravenna and Rimini, then less in Pesaro and Ancona, and very slightly in the province of Modena, in areas already affected by earthquakes in recent days.
+This earthquake was generated by a fault other than that responsible for the earthquakes of 20 and 29 May in Emilia, although part of the same group of geological structures.
+
+==Damage==
+File:Pilastrello (frazione di Cento) - Province of Ferrara - 2012 Northern Italy earthquake.jpg|thumb|left|250px|A destroyed house in Cento.
+File:Al Munisìpi ad Sant Agustèn.jpg|thumb|right|200px|The damaged town hall of Sant'Agostino, Emilia–Romagna|Sant'Agostino.
+Initial reports after the 20 May shock listed seven dead, including four workers at a factory in Ferrara, At least 100 structures of historical significance have been damaged or destroyed. Many churches in towns around the epicentre suffered damage. One of the towers of Castello Estense, a moated medieval structure in the centre of Ferrara, was damaged in the earthquake.{{citation needed|date=May 2012}} Half of a clock tower in Finale Emilia dating from the 13th century (known as the ''torre dei modenesi'') fell down in the mainshock and the remaining part collapsed completely during an aftershock later that day. There was also significant damage to factories and agricultural land in the region.
+
+Production of Grana Padano and Parmigiano-Reggiano hard cheeses was badly affected; approximately 300,000 truckle|wheels, with an estimated value of ?200 million, were destroyed.
+
+Five of the deaths were caused by the collapse of recently constructed factory buildings. Stefano Gresta, president of the National Institute of Geophysics and Volcanology, deemed it "unacceptable that modern constructions such as warehouses and industrial sheds have collapsed in an earthquake which was strong, but not exceptional".
+File:2012 Modena intensity.jpg|thumb|right|USGS shake map for the 20 May earthquake.
+
+The 29 May magnitude 5.8 earthquake left 18 people dead, more than 350 injured, and more than 15,000 homeless.
+
+After the main shock of 20 May, inspections were underway to determine which buildings were safe to reenter. The 29 May earthquake occurred during the daytime, when many people were working. As in the mainshock of 20 May, many of the dead in the 29 May earthquake were workers inside huge warehouses and factories. A local union representative has demanded an investigation to determine who was responsible for permitting the companies to resume operations.
+
+Both the 20 May and 29 May events caused damage to the neighbouring provinces of Province of Bologna|Bologna, Province of Reggio Emilia|Reggio Emilia, Province of Rovigo|Rovigo and Province of Mantua|Mantua.{{citation needed|date=May 2012}}
+
+The earthquake of 3 June was felt throughout Northern Italy, has caused the collapse of the 18th century clock tower in Novi di Modena, already imperiled by the earthquake of recent days.
+
+The earthquake damage in Emilia "the economy as a whole, according to some estimates could exceed 4 billion." He said the vice president of Confindustria for territorial policies and president of Confindustria Emilia-Romagna, Gaetano Maccaferri, in testimony before the Senate Committee on Industry.
+
+==Sequence of shocks==
+File:Chiesa San Martino di Tours - Buonacompra frazione di Cento, Ferrara - 2012 Northern Italy earthquake.jpg|thumb|right|200px|The damaged church of Martin of Tours|Saint Martin of Tours in Cento, Ferrara
+File:Macerie - Cavezzo - Province of Modena - 2012 Northern Italy earthquake.jpg|thumb|right|200px|Rubble in Cavezzo, Modena.
+{| class="wikitable sortable"
+!class="unsortable" |Date
+!class="unsortable" |Local hour
+!Moment magnitude scale|Magnitude
+!Epicentre
+|-
+| 20 May 2012
+| 01:13:27
+| 4.1
+| Finale Emilia
+|- style="background-color:lightblue"
+| 20 May 2012
+| 04:03:52
+| 5.9
+| Finale Emilia
+|-
+| 20 May 2012
+| 04:06:30
+| 4.8
+| Finale Emilia
+|- style="background-color:lightblue"
+| 20 May 2012
+| 04:07:31
+| 5.1
+| Finale Emilia
+|-
+| 20 May 2012
+| 04:11:46
+| 4.3
+| Bondeno
+|-
+| 20 May 2012
+| 04:12:42
+| 4.3
+| Finale Emilia
+|-
+| 20 May 2012
+| 04:21:53
+| 4.1
+| Mirandola
+|-
+| 20 May 2012
+| 04:25:05
+| 4.0
+| Bondeno
+|-
+| 20 May 2012
+| 04:35:37
+| 4.0
+| Vigarano Mainarda
+|-
+| 20 May 2012
+| 04:39:10
+| 4.0
+| Finale Emilia
+|-
+| 20 May 2012
+| 05:02:50
+| 4.9
+| San Felice sul Panaro
+|-
+| 20 May 2012
+| 11:13:21
+| 4.2
+| Finale Emilia
+|- style="background-color:lightblue"
+| 20 May 2012
+| 15:18:02
+| 5.1
+| Vigarano Mainarda - Mirabello
+|-
+| 20 May 2012
+| 15:21:06 
+| 4.1
+| Bondeno
+|-
+| 20 May 2012
+| 19:37:14
+| 4.5
+| Bondeno
+|-
+| 21 May 2012
+| 18:37:31
+| 4.1
+| Finale Emilia
+|-
+| 23 May 2012
+| 23:41:18
+| 4.3
+| Finale Emilia
+|- style="background-color:lightblue"
+| 29 May 2012
+| 09:00:03
+| 5.8
+| Medolla - Cavezzo
+|-
+| 29 May 2012
+| 09:07:21
+| 4.0
+| Cavezzo
+|-
+| 29 May 2012
+| 09:09:54
+| 4.1
+| Novi di Modena
+|-
+| 29 May 2012
+| 10:25:51
+| 4.5
+| Novi di Modena
+|-
+| 29 May 2012
+| 10:27:23
+| 4.7
+| San Felice sul Panaro
+|-
+| 29 May 2012
+| 10:40:58
+| 4.2
+| Mirandola
+|-
+| 29 May 2012
+| 11:30:21
+| 4.2
+| Concordia sulla Secchia
+|- style="background-color:lightblue"
+| 29 May 2012
+| 12:55:57
+| 5.1
+| San Possidonio - Mirandola
+|-
+| 29 May 2012
+| 13:00:02
+| 4.9
+| Novi di Modena
+|- style="background-color:lightblue"
+| 29 May 2012
+| 13:00:25
+| 5.3
+| Cavezzo
+|-
+| 29 May 2012
+| 13:07:05
+| 4.0
+| San Possidonio
+|-
+| 31 May 2012
+| 16:58:21
+| 4.0
+| Novi di Modena - Rolo
+|-
+| 31 May 2012
+| 21:04:04
+| 4.2
+| San Possidonio
+|- style="background-color:lightblue"
+| 3 June 2012
+| 21:20:43
+| 5.1
+| Novi di Modena
+|-
+| 6 June 2012
+| 06:08:23
+| 4.5
+| Ravenna
+|-
+| 12 June 2012
+| 03:48:36
+| 4.3
+| Novi di Modena
+|}
+
+==See also==
+* List of earthquakes in Italy
+{{clear}}
+
+==References==
+{{reflist|30em}}
+
+==External links==
+* {{commonscat-inline|2012 Northern Italy earthquake}}
+{{Earthquakes in 2012}}
+
+{{DEFAULTSORT:2012 Northern Italy Earthquakes}}
+Category:2012 earthquakes|Italy
+Category:2012 in Italy
+Category:Earthquakes in Italy
+Category:History of Emilia-Romagna

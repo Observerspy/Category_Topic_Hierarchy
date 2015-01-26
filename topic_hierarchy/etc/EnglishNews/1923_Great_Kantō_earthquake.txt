@@ -1,0 +1,178 @@
+{{Infobox earthquake
+|title              = The Great Kanto Earthquake of 1923
+|image              = 
+|image alt          = 
+|imagecaption       =
+|map                = 
+|map alt            = 
+|image name         =
+|map2               = {{Location map |Japan
+ |label=
+ |lat_deg=35.1
+ |lon_deg=139.5
+ |position=right
+ |width=250
+ |float=right
+ |mark=Bullseye1.png
+ |marksize=40
+ |caption=
+ |relief=yes}}
+|mapsize            = 
+|caption            =
+|date               = {{Start date|1923|9|1}}
+|origintime         = 11:58:32
+|duration           = 4 min 
+|magnitude          = 7.9 Moment magnitude scale|M<sub>w</sub>
+|depth              = <!-- {{convert|NNN|km|mi|0|abbr=on}} -->
+|location           = {{Coord|35.1|N|139.5|E|source:dewiki_region:JP-13_type:landmark|display=inline,title}}
+|type               =
+|countries affected = Japan
+|damage             =
+|intensity          =
+|PGA                = <!-- NN''Peak ground acceleration|g'' -->
+|tsunami            = 
+|landslide          =
+|aftershocks        =
+|casualties         = 
+}}
+
+The {{nihongo|'''Great Kantō earthquake'''|関东大震灾|Kantō daishinsai}} struck the Kantō Plain on the Japanese main island of Honshū at 11:58:44 a.m. JST (2:58:44 UTC) on Saturday, September 1, 1923.  Varied accounts indicate the duration of the earthquake was between four and 10 minutes. This was the deadliest earthquake in Japanese history, and at the time was the most powerful earthquake ever recorded in the region. The 2011 Tōhoku earthquake later surpassed that record, at magnitude 9.0.
+
+The earthquake had a magnitude of 7.9 on the Moment magnitude scale (M<sub>w</sub>), with its hypocenter|focus deep beneath Izu ?shima|Izu ?shima Island in the Sagami Bay. The cause was a rupture of part of the convergent boundary where the Philippine Sea Plate is subduction|subducting beneath the Okhotsk Plate along the line of the Sagami Trough.
+
+==Outline==
+File:Desolution of Nihonbashi and Kanda after Kanto Earthquake.jpg|thumb|Desolation of Nihonbashi and Kanda, Tokyo|Kanda seen from the Roof of Dai-ichi Sogo Building, Kyōbashi
+
+This earthquake devastated Tokyo, the port city of Yokohama, and the surrounding prefectures of Chiba Prefecture|Chiba, Kanagawa Prefecture|Kanagawa, and Shizuoka Prefecture|Shizuoka, and caused widespread damage throughout the Kantō region.  The power was so great in Kamakura, Kanagawa|Kamakura, over {{convert|60|km|abbr=on}} from the epicenter, it moved the Kōtoku-in|Great Buddha statue, which weighs about {{convert|93|ST|kg|abbr=on}}, almost two feet.
+
+Estimated casualties totaled about 142,800 deaths, including about 40,000 who went missing and were presumed dead.{{citation needed|date=September 2012}} The damage from this natural disaster was the greatest sustained by Empire of Japan|prewar Japan. In 1960, the government declared September 1, the anniversary of the quake, as an annual "Disaster Prevention Day".
+
+According to the Japanese construction company Kajima Kobori Research's conclusive report of September 2004, 105,385 deaths were confirmed in the 1923 quake.
+
+== Damage and deaths ==
+File:Theosakamainichi-earthquakepictorialedition-1923-page9-crop.jpg|thumb|left|Destruction of the area around Sensō-ji temple in Asakusa
+Because the earthquake struck at lunchtime when many people were cooking meals over fire, many people died as a result of the many large fires that broke out. Some fires developed into firestorms{{citation needed|date=December 2013}} that swept across cities. Many people died when their feet became stuck on melting tarmac. The single greatest loss of life was caused by a fire tornado that engulfed open space at the Rikugun Honjo Hifukusho (formerly the Army Clothing Depot) in downtown Tokyo, where about 38,000 people were incinerated after taking shelter there following the earthquake. The earthquake broke water mains all over the city, and putting out the fires took nearly two full days until late in the morning of September 3. An estimated 6,400 people were killed and 381,000 houses were destroyed by the fire alone.
+
+A strong typhoon struck Tokyo Bay at about the same time as the earthquake. Some scientists, including C. F. Brooks of the United States Weather Bureau, suggested the opposing energy exerted by a sudden decrease of atmospheric pressure coupled with a sudden increase of sea pressure by a storm surge on an already-stressed earthquake fault, known as the Sagami Trough, may have triggered the earthquake.  Winds from the typhoon caused fires off the coast of Noto Peninsula in Ishikawa Prefecture to spread rapidly.
+
+The Emperor Taishō|Emperor and Empress Teimei|Empress were staying at Nikkō, Tochigi|Nikko when the earthquake struck Tokyo, and were never in any danger.
+
+File:Marunouchi after the Great Kanto Earthquake.JPG|right|thumb|Marunouchi in flames
+
+Many homes were buried or swept away by landslides in the mountainous and hilly coastal areas in western Kanagawa Prefecture, killing about 800 people. A collapsing mountainside in the village of Nebukawa, west of Odawara, pushed the entire village and a passenger train carrying over 100 passengers, along with the railway station, into the sea.
+
+A tsunami with waves up to {{convert|10|m|abbr=on}} high struck the coast of Sagami Bay, Bōsō Peninsula, Izu Islands, and the east coast of Izu Peninsula within minutes. The tsunami killed many, including about 100 people along Yui-ga-hama Beach in Kamakura, Kanagawa|Kamakura and an estimated 50 people on the Enoshima causeway. Over 570,000 homes were destroyed, leaving an estimated 1.9 million homeless. Evacuees were transported by ship from Kanto to as far as Kobe in Kansai. The damage is estimated to have exceeded US$1 billion (or about  ${{formatnum:{{inflation|US|1|1923}}}} billion today).{{citation needed|date=May 2012}} There were 57 aftershocks.
+
+Altogether, the earthquake and typhoon killed an estimated 99,300 people, and another 43,500 were missing.
+
+The Honda Point Disaster on the United States west coast, in which seven US Navy destroyers ran aground and 23 lives were lost, has been attributed to navigational errors caused by unusual currents set up by the earthquake in Japan.
+
+== Aftermath ==
+File:Kanto-daishinsai.jpg|left|thumb|A view of the destruction in Yokohama
+
+Following the devastation of the earthquake, some in the government considered the possibility of moving the capital elsewhere. Proposed sites for the new capital were even discussed.
+
+Japanese commentators interpreted the disaster as an act of divine punishment to admonish the Japanese people for their self-centered, immoral, and extravagant lifestyles.  In the long run, the response to the disaster was a strong sense that Japan had been given an unparalleled opportunity to rebuild the city, and to rebuild Japanese values.  In reconstructing  the city, the nation, and the Japanese people, the  earthquake fostered a culture of catastrophe and reconstruction that amplified discourses of moral degeneracy and national renovation in interwar Japan.
+
+After the earthquake, Gotō Shinpei organized a reconstruction plan of Tokyo with modern networks of roads, trains, and public services.  Parks were placed all over Tokyo as refuge spots, and public buildings were constructed with stricter standards than private buildings to accommodate refugees.  However, the outbreak of World War II and subsequent destruction severely limited resources.
+
+File:Memorial Service for foreigners who died at the earthquake.jpg|thumb|right|Memorial service for foreigners who died at the earthquake: The woman burning incense is the wife of the Italian Ambassador. The venue is Zōjō-ji in Shiba Park.
+
+Frank Lloyd Wright received credit for designing the Imperial Hotel, Tokyo, to withstand the quake, although in fact the building was damaged by the shock.  The destruction of the US embassy caused Ambassador Cyrus Woods to relocate the embassy to the hotel.  Wright's structure withstood the anticipated earthquake stresses, and the hotel remained in use until 1968.
+
+The unfinished battlecruiser ''Japanese battlecruiser Amagi|Amagi'' was in drydock being converted into an aircraft carrier in Yokosuka in compliance with the Washington Naval Treaty of 1922. However, the earthquake damaged the ''Amagi'' beyond repair, leading it to be scrapped, and the unfinished fast battleship ''Japanese aircraft carrier Kaga|Kaga'' was converted into an aircraft carrier in its place.
+
+In contrast to London, where typhoid fever had been steadily declining since the 1870s, the rate in Tokyo remained high, more so in the upper-class residential northern and western districts than in the densely populated working-class eastern district. An explanation is the decline of waste disposal, which became particularly serious in the northern and western districts when traditional methods of waste disposal collapsed due to urbanization. The 1923 earthquake led to record-high morbidity due to unsanitary conditions following the earthquake, and it prompted the establishment of antityphoid measures and the building of urban infrastructure.
+
+== Postquake violence==
+File:8-2earthquake-kanto.jpg|thumb|left|Koreans in Japan|Ethnic Koreans were massacred after the earthquake.
+
+The Home Ministry declared martial law, and ordered all sectional police chiefs to make maintenance of order and security a top priority. A false rumor was spread that Koreans in Japan|Koreans were taking advantage of the disaster, committing arson and robbery, and were in possession of bombs. Moreover, anyone mistakenly identified as Korean, such as Chinese, Okinawans, and Japanese speakers of some regional dialects, suffered the same fate. About 700 Chinese, mostly from Wenzhou, were killed. A monument commemorating this was built in 1993 in Wenzhou.
+
+File:Metropolitan Police Office after Kanto Earthquake.jpg|right|thumb|Metropolitan Police Department burning at Marunouchi, near Hibiya Park
+
+In response, the government called upon the Imperial Japanese Army|Japanese Army and the police to protect Koreans; 23,715 Koreans were placed in protective custody across Japan, 12,000 in Tokyo alone.  The chief of police of Tsurumi-ku, Yokohama|Tsurumi (or Kawasaki, Kanagawa|Kawasaki by some accounts) is reported to have publicly drunk the well water to disprove the rumor that Koreans had been poisoning wells.{{citation needed|date=April 2012}}  In some towns, even police stations into which Korean people had escaped were attacked by mobs, whereas in other neighbourhoods, residents took steps to protect them.{{citation needed|date=April 2012}} The Army distributed flyers denying the rumor and warning civilians against attacking Koreans, but in many cases vigilante activity only ceased as a result of Army operations against it. In several documented cases, soldiers and policemen participated in the killings, and in other cases authorities handed groups of Koreans over to local vigilantes, who proceeded to kill them.
+
+Amidst the mob violence against Koreans in the Kantō Region, regional police and the Imperial Army used the pretext of civil unrest to liquidate political dissidents.
+
+Director Chongkong Oh made two documentary films about the pogrom: ''Hidden Scars: The Massacre of Koreans from the Arakawa River Bank to Shitamachi in Tokyo'' (1983) and ''The Disposed-of Koreans: The Great Kanto Earthuake and Camp Narashino'' (1986). They largely consist of interviews with victims, witnesses and perpetrators.
+
+The importance of obtaining and providing accurate information following natural disasters has been emphasized in Japan ever since. Earthquake preparation literature in modern Japan almost always directs citizens to carry a portable radio and use it to listen to reliable information, and not to be misled by rumors in the event of a large earthquake.
+
+==Memory==
+Beginning in 1960, every September 1 is designated as Disaster Prevention Day to commemorate the earthquake and remind people of the importance of preparation, as September and October are the middle of the typhoon season. Schools and public and private organizations host disaster drills.  Tokyo is located near a fault (geology)|fault zone beneath the Izu Peninsula which, on average, causes a major earthquake about once every 70 years,{{citation needed|date=September 2012}} and is also located near the Sagami Trough, a large subduction zone that threatens to create a massive earthquake that, in the darkest case, would kill millions in the Kanto Region. Every year on this date, schools across Japan take a moment of silence at the precise time the earthquake hit in memory of the lives lost.
+
+Some discreet memorials are located in Yokoamicho Park in Sumida, Tokyo|Sumida Ward, at the site of the open space in which an estimated 38,000 people were killed by a single fire tornado. The park houses a Buddhist-style memorial hall/museum, a memorial bell donated by Taiwanese Buddhists, a memorial to the victims of Bombing of Tokyo in World War II|World War II Tokyo air raids, and a memorial to the Korean victims of the vigilante killings.
+
+== Great Kanto earthquake-related fiction ==
+Several Japanese films, books, and shows were based on this disaster, including the examples below.
+
+In ''Japan Sinks'', in one scene in the book, due to the fast-moving subduction of the Pacific and Eurasian plates, the Sagami Trough ruptures in a magnitude-8.5 earthquake, killing several million people in Tokyo and other areas, causing major tsunamis, and creating major firestorms.
+
+In the film adaptation of ''Japan Sinks'', Nihon Chinbotsu (1973 film), due to the fast-moving subduction of the Pacific and Eurasian plates, the Sagami Trough ruptures in a massive earthquake called "The Second Great Kanto Earthquake". The quake in the film flattens many buildings, causes Tokyo's three rivers to flood and wash out the lower east side of Tokyo in a series of tidal waves, and crushing overpasses and bridges, killing millions of people. Like the 1923 Kanto earthquake, the quake also causes a series of major firestorms that burn the Kanto Region to the ground. The quake in the film also flattened Yokohama, Chiba, and other large cities, killing millions more. In the film, all told, the quake killed between three and four million.
+
+In the manga (comic) adaptation of ''Japan Sinks'', the Second Kanto Earthquake killed over five million.
+
+In the historical fantasy novel ''Teito Monogatari'' (Hiroshi Aramata) a supernatural explanation is given for the cause of the Great Kanto earthquake, connecting it with the principles of feng shui.
+
+In Oswald Wynd's novel ''The Ginger Tree'', Mary Mackenzie survives the earthquake, and later bases her clothes designing company in one of the few buildings that remained standing in the aftermath.
+
+In ''Tokyo Magnitude 8.0'', the Sagami Trough ruptures in a magnitude-8.0 earthquake, killing over 200,000 in Tokyo, causing floods and fires, and putting the main character at risk.
+
+Waki Yamato's manga ''Haikara-san ga Tōru'' actually reaches its climax after the Great Kanto earthquake—which happens right before the wedding of the female lead, Benio Hanamura, and her second love Tousei. The male lead, Shinobu Iijyuin, not only recovers his memory (which he had lost some time ago), but also sees his other love interest (Larissa) die; before dying, she begs him to leave her and search for Benio. Traumatised and injured, Shinobu does so and manages to find a living Benio among the wreckage, renewing their bond. Tousei arrives and, since they are both in great risk, each of the lovers beg Tousei to save the other's life; he manages to save them both and then concedes, allowing them to get married.
+
+The josei manga and anime ''Kasei Yakyoku'' (by author Makiko Hirata) also finishes few after the earthquake, as a corollary to the main love triangle between the noblewoman Akiko, her lover Taka, and Akiko's maid Sara. The Hashou's big fancy house is destroyed, leading to an emotional confrontation between Akiko and her fiancè Saionji; meanwhile, Sara's humble house in the suburbia is also destroyed and her mother dies of injuries she sustained in the earthquake.
+
+''The Wind Rises'' ("Kaze Tachinu") (2013), an animated fictionalized biography of Japanese aeronautical engineer ''Jiro Horikoshi'' by ''Hayao Miyazaki'', portrays the earthquake.  Riding a train to Tokyo when the earthquake hits, Horikoshi meets Nahoko Satomi a young girl traveling with her maid whose leg is broken by the earthquake.  Horikoshi then helps them return home safely through the post-quake devastation.  Horikoshi then goes to Tokyo University where he tries to save books from the post-quake fires.  He returns later to the Satomi home only to find it burnt down.  The film also mentions the speed and wider streets of rebuilt Tokyo.
+
+==See also==
+{{Portal|Tokyo}}
+* 2011 Tōhoku earthquake and tsunami
+* Great Hanshin earthquake
+* List of earthquakes in Japan
+
+==Notes==
+{{Reflist|30em}}
+
+==References==
+* Borland, Janet. "Capitalising on Catastrophe: Reinvigorating the Japanese State with Moral Values through Education Following the 1923 Great Kanto- Earthquake," ''Modern Asian Studies'' (2006) 40#4  pp.&nbsp;875–908
+* Borland, Janet.  "Stories of Ideal Subjects from the Great Kanto- Earthquake," ''Japanese Studies'' (2005) 25#1 pp.&nbsp;21–34
+* Clancey, Gregory. (2006). http://books.google.com.sg/books?id=m0eUSUtm0iMC ''Earthquake Nation: The Cultural Politics of Japanese Seismicity.'' Berkeley: University of California Press.  10-ISBN 0-520-24607-1; 13-ISBN 978-0-520-24607-2 (cloth)
+* Hammer, Joshua. (2006). http://books.google.com/books?id=6O8VyhDbUPgC&printsec=frontcover&dq=Tokyo+1923&lr=&source=gbs_summary_r  ''Yokohama Burning: The Deadly 1923 Earthquake and Fire that Helped Forge the Path to World War II.'' New York: Simon & Schuster.  10-ISBN 0-7432-6465-7; 13-ISBN 978-0-7432-6465-5 (cloth)
+* Heilbrun, Jacob. http://www.nytimes.com/2006/09/17/books/review/Heilbrunn.t.html  "Aftershocks," ''New York Times.'' September 17, 2006.
+* Nyst, M. and T. Nishimura,F. F. Pollitz, and W. Thatcher. (2005).  http://quake.usgs.gov/research/deformation/modeling/papers/marleen/kanto_1923.pdf  "The 1923 Kanto Earthquake Re-evaluated Using a Newly Augmented Geodetic Data Set," ''Journal of Geophysical Research.''  Washington, D.C.: American Geophysical Union.
+* Scawthorn, Charles, John M. Eidinger and Anshel J. Schiff. (2006). http://books.google.com/books?id=IWW8qOXd6sgC&dq=Tokyo+1923&lr=&source=gbs_summary_s&cad=0  ''Fire Following Earthquake.'' Reston, Virginia: ASCE (American Society of Civil Engineers) Publications. 10-ISBN 0-7844-0739-8; 13-ISBN 978-0-7844-0739-4 (cloth)
+* Schencking, J. Charles. "The Great Kanto Earthquake and the Culture of Catastrophe and Reconstruction in 1920s Japan," ''Journal of Japanese Studies'' (2008) 34#2 pp 295–331. http://muse.jhu.edu/journals/journal_of_japanese_studies/v034/34.2.schencking.html online in project MUSE
+
+==External links==
+{{Commons category|1923 Great Kantō earthquake}}
+*http://www.greatkantoearthquake.com/ Website and Online Image Archive of Great Kanto Earthquake Compiled by J. Charles Schencking, The University of Hong Kong
+*http://www.japan-guide.com/a/earthquake/ Great Kanto Earthquake 1923 Online photo gallery by A. Kengelbacher
+*http://www.britishpathe.com/workspace.php?id=11103 Film footage of the 1923 Great Kanto earthquake
+*http://dl.lib.brown.edu/kanto The Great Kanto Earthquake of 1923: Materials from the Dana and Vera Reynolds Collection A Brown University Library Digital Collection
+* http://www.housing.com/categories/homes/japanese-meiji-period-architecture-1868-1912.html Video: Frank Lloyd Wright's Imperial Hotel escaped major damage in earthquake
+*http://neic.cr.usgs.gov/neis/eqlists/eqsmosde.html USGS Earthquake Lists
+*http://www.kajima.co.jp/news/digest/sep_2003/tokushu/ A Study by Kajima Construction Company
+*http://www.kimsoft.com/2003/kanto-1923-massacre.htm The 1923 Kanto Massacre of Koreans in Japan: A Japanese Professor Reveals the Truth Article from Korean newspaper
+*http://hkuhist2.hku.hk/nakasendo/1923quke.htm Additional information about the Great Kanto Earthquake
+*http://www.geophys.washington.edu/tsunami/movies/kanto1.mov Numerical simulation (2.6 MB) (or see http://www.geophys.washington.edu/tsunami/movies/kanto2.mov 6.2 MB version), produced by Professor Nobuo Shuto of the Disaster Control Research Center, Tohoku University, Japan, shows the 1923 Kanto tsunami. Note that the structures in this model are rigid – in a  real-life tsunami, coastal structures often are destroyed. (The QuickTime movie presented here was digitized from a video tape produced from the original computer-generated animation.)
+*http://www.eas.slu.edu/Earthquake_Center/1923EQ/ The 1923 Tokyo Earthquake Includes links to 86 photos of the quake's aftermath
+*http://english.ohmynews.com/articleview/article_view.asp?menu=c10400&no=320400&rel_no=1 Japanese massacre of Korean civilians after Kanto earthquake from ohmynews.com
+
+{{Earthquakes in Japan}}
+
+{{DEFAULTSORT:Great Kanto Earthquake}}
+Category:Megathrust earthquakes in Japan|1923 Great Kanto
+Category:History of Tokyo
+Category:Empire of Japan
+Category:1923 in Japan
+Category:1923 earthquakes|Kanto, Great
+Category:Fires in Japan
+Category:Tsunamis in Japan|1923
+Category:Massacres in Japan
+Category:Korea under Japanese rule
+Category:Anti-Korean sentiment in Japan
+Category:Zainichi Korean history
+Category:20th-century tsunamis|1923
+Category:Landslides in Japan
+Category:Urban fires

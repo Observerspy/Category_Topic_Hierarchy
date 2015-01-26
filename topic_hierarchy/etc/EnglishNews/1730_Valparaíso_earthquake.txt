@@ -1,0 +1,53 @@
+{{Earthquake
+|title= 1730 Valparaíso earthquake
+|date= {{Start-date|July 8, 1730}}
+|map2 = {{Location map | Chile |relief=1
+| label=
+| lat=-32.5
+| long=-71.5
+| mark=Bullseye1.png
+| marksize=60
+| position=top
+| width= 150
+| float=center
+| caption=}}
+|magnitude = 8.7 Magnitude Surface wave magnitude|M<sub>s</sub>
+|depth=
+|location={{coord|-32.5|-71.5|type:event|display=inline,title}}
+|countries affected = Chile
+|tsunami = Yes
+|casualties = Unknown}}
+The '''1730 Valparaíso earthquake''' occurred at 03:45 Time in Chile|local time (08:45 UTC) on July 8. It had an estimated Surface wave magnitude|magnitude of 8.7 and triggered a major tsunami with an estimated Tsunami#Magnitude scales|magnitude of M<sub>t</sub>=8.75, that inundated the lower parts of Valparaíso. The earthquake caused severe damage from La Serena, Chile|La Serena to Chillan, while the tsunami affected more than {{convert|1000|km|abbr=on}} of Chile's coastline.
+
+==Tectonic setting==
+The earthquake took place along the boundary between the Nazca Plate|Nazca and South American Plate|South American tectonic plates, at a location where they convergent boundary|converge at a rate of seventy millimeters a year.
+
+Chile has been at a convergent plate boundary that generates megathrust earthquakes since the Paleozoic (500 million years ago). In historical times the Chilean coast has suffered many megathrust earthquakes along this plate boundary, including the 1960 Valdivia earthquake|strongest earthquake ever measured. Most recently, the boundary 2010 Chile earthquake|ruptured in 2010 in central Chile.
+
+==Damage==
+The earthquake caused severe damage over a wide area, Valparaíso, Coquimbo, Illapel, Petorca Province|Petorca and Tiltil were all affected. The parish church in La Serena was destroyed.
+
+Only a few deaths were recorded due to the earthquake, reportedly because a strong foreshock had caused people to leave their homes.
+
+==Characteristics==
+
+===Earthquake===
+At about 01:00 local time in Santiago, Chile|Santiago, there was a strong earthquake, followed by several smaller tremors. The main shock occurred at 4:45 local time.
+
+A {{convert|350|-|550|km|abbr=on}} long rupture has been estimated for this event, from the extent of severe damage.
+
+===Tsunami===
+The tsunami occurred immediately after the mainshock, with a maximum run-up height recorded at Concepción, Chile|Concepción of 16 m. It was also observed at Callao, Peru
+
+==See also==
+*List of earthquakes in Chile
+
+==References==
+{{Reflist}}
+
+{{Earthquakes in Chile}}
+
+{{DEFAULTSORT:1730 Valparaiso Earthquake}}
+Category:Megathrust earthquakes in Chile|1730
+Category:1730|Valparaiso earthquake
+Category:18th-century earthquakes

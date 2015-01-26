@@ -1,0 +1,69 @@
+{{Use mdy dates|date=November 2012}}
+{{Infobox earthquake
+| title              = 2012 Haida Gwaii earthquake
+| date               = {{start date|2012|10|27}}
+| origintime         = 8:04 p.m. (Pacific Daylight Time|PDT)
+| map2               = {{Location map | Canada British Columbia
+ | relief = 1
+ | label =
+ | lat = 52.769
+ | long = -131.927
+ | mark = Bullseye1.png
+ | marksize = 40
+ | position = top
+ | width = 250
+ | float = right
+ | caption = }}
+| magnitude          = 7.8 Moment magnitude scale|M<sub>w</sub>
+| depth              = 17.5 km
+| location           = {{coord|52.769|-131.927|type:event_elevation:-17500_source:usgsehz_scale:300000|display=inline,title}}
+| countries affected = Canada
+| tsunami            = Yes
+| aftershocks        = 94
+| intensity          = VI
+| casualties         = none
+}}
+The '''2012 Haida Gwaii earthquake''' was a 7.8 moment magnitude|M<sub>w,</sub> earthquake that occurred just after 8:04 p.m. Pacific Daylight Time|PDT on October 27, 2012 (3:04 a.m. Coordinated Universal Time|UTC October 28).  The earthquake's epicentre was on Moresby Island of the Haida Gwaii archipelago (formerly known as the Queen Charlotte Islands). This was the second largest Canadian earthquake ever recorded by a seismometer, after the 1949 Queen Charlotte Islands earthquake, about {{convert|135|km|mi}} away.
+
+== Extent ==
+File:2012 Queen Charlotte Islands earthquake intensity map.png |thumbnail|USGS intensity map for the event.
+
+Strong shaking was felt throughout Haida Gwaii where residents in Masset, Skidegate, Sandspit, and Queen Charlotte City were evacuated to higher ground.
+
+==Tectonic causation==
+Although the earthquake occurred on the Queen Charlotte Fault, a primarily strike-slip boundary between the Pacific plate|Pacific and North American plates where the Pacific Plate moves approximately north-northwest with respect to the North America plate at a rate of about 50&nbsp;mm/yr., the 2012 quake exhibited a thrust mechanism, more characteristic of the Cascadia Subduction Zone to the south.
+
+==Tsunami==
+A Tsunami warning system|tsunami warning was issued for the North American Coast from the Alaskan Panhandle to Vancouver Island, but later limited to the North Coast region of British Columbia.  Canadian authorities were questioned for issuing a tsunami warning nearly 40 minutes after the U.S. had issued their warning.  Tofino's tsunami warning system was activated after communication with the provincial coordinating centre was cut-off.
+
+In the U.S., Hawaii was also placed on alert, and over 100,000 Other warnings were issued for the states of Oregon and California, but were subsequently lifted.
+
+==Aftershocks==
+There were 94 aftershocks of magnitude 4.0 or greater lasting until November 7, as recorded by the USGS.
+
+The largest of these numerous aftershocks was a 6.3 magnitude earthquake that occurred {{convert|56|km|mi}} to the west of the main tremor on the morning of October 28.  This was followed on October 29 by a 6.2 aftershock {{convert|50|km|mi}} to the south of the original quake. In the U.S. television press coverage of the event, one minor earthquake (3.x) in Montana was attributed to having been caused by this earthquake.{{citation needed|date=November 2012}}
+
+==Damage==
+Despite the earthquake's large magnitude, no major structural damage was reported from any of the population centres in the vicinity.  As a result of the earthquake and its aftershocks, the famed hot springs in Gwaii Haanas National Park Reserve and Haida Heritage Site|Gwaii Haanas National Park on Hotspring Island dried up.
+
+==See also==
+* 1949 Queen Charlotte Islands earthquake
+
+==References==
+{{Reflist}}
+
+==External links==
+* USGS: http://earthquake.usgs.gov/earthquakes/eventpage/usb000df7n#summary M7.7 - 139km S of Masset, Canada 2012-10-28 03:04:10 UTC
+* Natural Resources Canada: http://www.earthquakescanada.nrcan.gc.ca/recent_eq/2012/20121028.0304/index-eng.php 2012-10-27: M=7.7 - 74 km SSW of Queen Charlotte City, BC Saturday October 27, 2012
+* West Coast and Alaska Tsunami Warning Center: http://wcatwc.arh.noaa.gov/events/PAAQ/2012/10/28/mcl1uw/ 2012-10-28
+* Pacific Tsunami Warning Center: http://ptwc.weather.gov/ptwc/archive.php?basin=pacific Pacific archive
+* Pacific Tsunami Warning Center: http://ptwc.weather.gov/ptwc/archive.php?basin=hawaii Hawaii archive
+
+{{Earthquakes in 2012}}
+{{Earthquakes in Canada}}
+
+Category:2012 earthquakes|Haida Gwaii earthquake
+Category:2012 disasters in Canada|earthquake
+Category:Earthquakes in British Columbia
+Category:Tsunamis in the United States
+Category:21st-century tsunamis

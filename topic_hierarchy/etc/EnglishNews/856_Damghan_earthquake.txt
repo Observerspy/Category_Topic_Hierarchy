@@ -1,0 +1,56 @@
+{{Earthquake
+| title = Damghan earthquake
+| date = {{Start date|856|12|22}}
+| map2 = {{Location map | Iran
+ | label=
+ | lat=36.2
+ | long=54.3
+ | mark=Bullseye1.png
+ | marksize=40
+ | position=top
+ | width= 250
+ | float=right
+ | caption=
+ | relief=yes}}
+| depth = 
+| location = Damghan, Iran
+| image name = 
+| magnitude = 7.9 Surface wave magnitude|M<sub>s</sub>
+| location ={{coord|36.2|54.3|display=inline,title}}
+| countries affected = Iran
+| casualties = Approx. 200,000
+}}
+File:856 Damghan setting.png|thumb|Map of meizoseismal area for the 856 earthquake and main fault structures|300px
+The '''856 Damghan Earthquake''' or the '''856 Qumis earthquake''' occurred on 22 December, 856 AD (242 A.H.). The earthquake had an estimated Surface wave magnitude|magnitude of 7.9, and a maximum intensity of X (''intense'') on the Mercalli intensity scale.  The meizoseismal area (area of maximum damage) extended for about {{convert|350|km|mi}} along the southern edge of the eastern Alborz mountains of present-day Iran including parts of Tabaristan and Gorgan. The earthquake's epicenter is estimated to be close to the city of Damghan, which was then the capital of the Persian province of Qumis. It caused approximately 200,000 deaths and is listed by the United States Geological Survey|USGS as the sixth deadliest earthquake in recorded history.
+
+==Tectonic setting==
+Iran lies within the complex zone of continental collision between the Arabian Plate and the Eurasian Plate, which extends from the Bitlis-Zagros fold and thrust belt|Zagros belt in the south to the Caucasus mountains|Greater Caucasus mountains, the Apsheron Sill|Apsheron-Balkan Sill and the Kopet Dag mountains in the north. The epicentral area is located in the Alborz mountain range, in which oblique north-south shortening is accommodated by a combination of thrust fault|thrusting and sinistral (left-lateral) Fault (geology)#Strike-slip faults|strike-slip faulting.
+
+The main active structure in the Qumis region is the Shahrud fault system, which extends for several hundred km. This zone of overall sinistral strike-slip consists of several fault strands, including the Damghan Fault, Northern Damghan Fault and the Astaneh Fault System, all of which lie within the epicentral area and show evidence of displacement during the Quaternary. The longest of these possible candidates for the source of the 856 earthquake is the 150&nbsp;km long Astaneh Fault System. Trenching along one of the segments of the Astaneh Fault System has provided evidence of a significant earthquake along the fault that occurred well after 600 BC and before 1300 AD, consistent with the 856 event.
+
+==Earthquake characteristics==
+Aftershocks affected the area for several years, probably including a damaging earthquake in western Khorasan Province|Khurasan.
+
+==Damage==
+The area of significant damage extended along the Alborz for about {{convert|350|km}}, including the towns of Ahevanu, Astan, Tash, Bastam and Shahrud, with almost all the villages in the area severely damaged. Hecatompylos, now called ?ahr-e Qumis, the former capital of Parthia, was destroyed. Half of Damghan and a third of the town of Bustam were also destroyed. The earthquake badly affected water supplies in the Qumis area, partly due to springs and qanats drying up, but also because of landslides damming streams. The total death toll for the earthquake is reported as 200,000, with 45,096 casualties in Damghan alone.
+
+==Aftermath==
+?ahr-e Qumis was so badly damaged that it appears to have been abandoned following the earthquake. The effects of the earthquake were still visible in the area between Bastam and Damghan many years later.
+
+==Future seismic hazard==
+From the results of trenching at a single site along the Astaneh Fault a repeat period of about 3,700 years has been estimated and no large earthquakes have been recorded in the Damghan area since 856. However, further trenching studies are needed to establish whether the entire length of the fault is typically involved in a rupture event, or whether shorter segments may be responsible for smaller (although damaging) earthquakes with a shorter recurrence period.
+
+== See also ==
+*List of natural disasters by death toll#Earthquakes|List of deadliest earthquakes
+
+==References==
+{{Reflist}}
+
+{{Earthquakes in Iran}}
+
+{{DEFAULTSORT:Damghan Earthquake}}
+Category:9th-century earthquakes
+Category:856 in Asia
+Category:History of Semnan Province
+Category:Earthquakes in Iran|0856 Damghan
+Category:9th century in Iran

@@ -1,0 +1,56 @@
+{{Infobox earthquake
+| title = 2013 Nantou earthquake
+| date = {{Start-date|March 27, 2013}}
+| image = 
+| image alt =
+| map =
+| map2 = {{Location map | Taiwan 
+| label =
+| lat = 23.90
+| long = 121.07
+| mark = Bullseye1.png
+| marksize = 40
+| position = top
+| width = 250
+| float = right
+| caption = 
+| relief = yes }}
+|caption = Quake epicenter
+| map_alt =
+| magnitude = 6.0 Moment magnitude scale|M<sub>w</sub>
+| depth = {{convert|20.7|km|mi|0}}
+| location = {{Coord|23.90|N|121.07|E|display =inline,title}}
+| countries affected = {{flagicon|Taiwan}} Taiwan (Nantou County, Taichung, Changhua County)
+| tsunami = No
+| casualties = 1 death, 97 injuries
+}}
+
+The '''2013 Nantou earthquake''' was a magnitude 6.0 Moment magnitude scale|M<sub>w</sub> earthquake which struck central Taiwan on Wednesday, March 27, 2013 at {{Tooltip|10:03 a.m.|UTC at 2:03 a.m.}} Chungyuan Standard Time|local time.
+
+==Cause==
+Kuo Kai-wen, director of the ROC Central Weather Bureau#Seismological Center|Central Weather Bureau Seismological Center (地震测报中心) said on 27 March 2013 that a 100-km long Blind thrust earthquake|blind fault probably exists at Ren-ai, Nantou|Ren-ai Township in Nantou County which caused the earthquake.
+
+==Reactions==
+
+===Inside Taiwan===
+President of the Republic of China|ROC President Ma Ying-jeou visited the Central Emergency Operation Center on 27 March 2013 urging the people to stay alert for any after shock and ready for any emergency situation.
+
+Premier of the Republic of China|ROC Premier Jiang Yi-huah initiated a cabinet emergency task force to work with the relevant agencies to respond to the earthquake situation. He also urged the relevant government agencies to reassess the safety standard for any local infrastructure buildings.
+
+===Outside Taiwan===
+*{{flag|PRC}}—Association for Relations Across the Taiwan Straits|ARATS expressed their concern to the earthquake damage and called for continued communication for any new development after the quake.
+*{{flag|Japan}}—Sumio Tarui, representative of Interchange Association, Japan|Japan's Interchange Association sent his sympathy, expressing his condolences to the deceased and best wishes to the injured.
+
+==See also==
+* List of earthquakes in Taiwan
+
+==References==
+{{reflist}}
+
+{{Earthquakes in 2013}}
+{{Taiwan earthquakes}}
+
+{{DEFAULTSORT:Nantou earthquake, 2013}}
+Category:Earthquakes in Taiwan|2013 03 Nantou
+Category:2013 earthquakes
+Category:2013 in Taiwan

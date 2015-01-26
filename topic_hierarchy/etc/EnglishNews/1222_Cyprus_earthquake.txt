@@ -1,0 +1,36 @@
+{{Earthquake
+|title= 1222 Cyprus earthquake
+|date= {{Start-date|11 May 1222}}
+|map2 = {{Location map+ | Cyprus
+ | places =
+{{Location map~|Cyprus|lat=34.77|long=32.42|label=Paphos|position=left|label_size=100|mark=Green pog.svg}}
+{{Location map~|Cyprus|lat=34.7|long=32.6|mark=Bullseye1.png|marksize=40}}
+ | float=right
+ | caption=
+ | relief=yes}}
+|magnitude = 7.0–7.5
+|intensity = IX
+|location={{coord|34.7|32.6|display=inline,title}}
+|countries affected = Cyprus
+|tsunami = yes
+|casualties = 
+}}
+The '''1222 Cyprus earthquake''' occurred at about 06:15 Coordinated Universal Time|UTC on 11 May. It had an estimated magnitude of 7.0&ndash;7.5 and triggered a tsunami that was recorded in Libya and Alexandria. The strongest shaking was felt in Nicosia, Limassol and Paphos.
+
+==Tectonic setting==
+The estimated location of the earthquake is on the southwestern coast of Cyprus and is thought to be associated with the Cyprus arc. The Cyprus arc is part of the plate boundary zone that accommodates the motion of the African Plate relative to the Anatolian Plate. The relative motion of the Anatolian Plate is almost entirely westwards relative to the African Plate.
+
+==Damage==
+Much damage was caused at Limassol and Nicosia and other parts of the island, but the greatest damage was done at Paphos, where there was great loss of life.
+
+==Characteristics==
+The estimated magnitude for this event is 7.0&ndash;7.5 with a maximum estimated felt intensity of IX.
+
+==References==
+{{Reflist}}
+
+Category:13th-century earthquakes
+Category:1222 in Europe|Cyprus Earthquake, 1222
+Category:Medieval Cyprus
+Category:Earthquakes in Cyprus
+Category:Paphos

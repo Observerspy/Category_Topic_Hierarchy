@@ -1,0 +1,62 @@
+{{Use dmy dates|date=December 2013}}
+{{Earthquake
+|title= 1964 Niigata earthquake
+|date= {{Start-date|June 16, 1964}}
+|map2 = {{Location map | Japan
+ | label=
+ | lat=38.37
+ | long=139.22
+ | mark=Bullseye1.png
+ | marksize=50
+ | position=top
+ | width= 250
+ | float=right
+ | caption=
+ | relief=yes}}
+|magnitude = 7.6 Moment magnitude scale|M<sub>w</sub>
+|depth= 34 km
+|location={{coord|38.37|139.22|display=inline,title}}
+|countries affected = Japan, Niigata Prefecture
+|tsunami = yes
+|casualties = 36 dead or missing (385 injured)
+}}
+File:Liquefaction at Niigata.JPG|thumb|250px|Effects of Soil liquefaction|liquefaction caused by the earthquake on apartment buildings in Niigata
+File:Showa bridge Niigata NGDC.JPG|thumb|250px|Collapse of the Showa bridge, Niigata caused by the earthquake
+The '''1964 Niigata earthquake''' struck at 13:01 local time (04:01 UTC) on June 16. with a magnitude of 7.5 or 7.6. The epicenter was on the continental shelf off the northwest coast of Honshu, Japan in Niigata Prefecture, about {{convert|50|km|mi}} north of the city of Niigata, Niigata|Niigata. The earthquake caused Soil liquefaction|liquefaction over large parts of the city.
+
+==Geology==
+The northwestern side of Honshu lies on the southeastern margin of the Sea of Japan, an area of oceanic crust created by back-arc spreading from the late Oligocene to middle Miocene. The extensional tectonics associated with the spreading formed a series of N-S trending extensional faults and associated sedimentary basin|basins. Currently the area is being deformed by thrust tectonics|contractional tectonics, causing Inversion (geology)|inversion of these earlier basins, forming Anticline|anticlinal structures.
+
+==Damage==
+There were 3,534 houses destroyed and a further 11,000 were damaged.
+
+=== Fire and Liquefaction ===
+Niigata City, which had just recovered from the Great Niigata Fire of 1955, sustained considerable damage from fire and liquefaction that resulted from the earthquake. Aside from the buildings destroyed by liquefaction on the left bank of the Shinano River there was also extensive damage on the right bank. The runway of the Niigata Airport was near the hypocenter and was flooded due to liquefaction and the tsunami and a fire broke out inside the airport. Most devastatingly, the pipes of a gasoline tank owned by Showa Shell Sekiyu, located between the airport and the harbor, were also damaged by the shaking. Gasoline from the tank was brought to the sea surface by the tsunami and underground water released by the liquefaction and ignited 5 hours after the earthquake. The fire spread to nearby tanks and induced explosions that fed the fire, allowing it to continue for 12 days. The fire spread to nearby residential areas leaving 1407 people displaced. This fire is said to be the worst industrial complex fire in the country's history. At the time the cause of the fire was said to be caused by the liquefaction, but later research into large earthquakes revealed that Long period ground motion also played a role.
+
+At the time of the fire the new specially designed fire truck for fighting chemical fires had not yet been deployed to Niigata City. A request was sent to the Fire and Disaster Management Agency and troops were dispatched from the Tokyo division. There was a danger of the fire spreading to an attached oxygen tank, but the troops from Tokyo managed to stop if from spreading to the tank in a 20 hour battle.
+
+===Showa bridge===
+The collapse of the Showa bridge in Niigata has been analysed in detail.
+
+==Characteristics==
+
+===Earthquake===
+The earthquake had a Seismic scales#Magnitude scales|magnitude of 7.6 on the moment magnitude scale, but the relatively deep hypocenter|focal depth of 34&nbsp;km meant that the perceived Seismic scales#Seismic intensity scales|intensities on the coast of Honshu were generally VIII (Destructive) or less on the Mercalli intensity scale, on consolidated ground.
+
+===Tsunami===
+The first wave of the tsunami hit Niigata City approximately 15 minutes after the earthquake. It caused flooding damage on Sado Island, Awa Island, and as far away as the Oki Islands in Shimane Prefecture. The wave reached heights of 3 m at Ryōtsu, Niigata|Ryōtsu Harbor, 4 m at Shiotani and near Iwafune Harbor, and between 1 and 2 m at Naoetsu. It was also reported that due to the run-up that occurs on sandy beaches the wave reached 6 m in some places. The first wave was the highest in many places, but the third was reportedly higher in others. The ensuing waves came at intervals of 20 and 50 minutes. Flooding caused by the tsunami persisted in some areas for up to a month.
+
+==Vestiges==
+Due to urbanization and modernization in Niigata City and the surrounding area, in order to extract water-soluble natural gas in the ground water, water pumping quickly increased in 1950. As a result land subsidence became a serious problem. Since 1959, thanks to restrictions on the extractions of natural gas and ground water in the Niigata city area, large scale land subsidence has lessened. However, in that period the ground was observed to settle an average of 20&nbsp;cm a year. This land subsidence, the liquefaction in the inner city, and the tsunami all contributed to the massive inundation damage during the earthquake.
+
+The Bandai Bridge, one of the commuter bridges spanning the Shinano River in the city, survived the earthquake intact, but not unscathed. The streets that cross under the bridge on each side and run parallel to the river are approximately 1 meter different in elevation. The bridge itself only sank about 10&nbsp;cm during the earthquake but coupled with the aforementioned land subsidence it has sank a total of 1.2 meters.
+
+New laws concerning earthquake insurance were enacted in June 1966 in response to this earthquake.
+
+==References==
+{{Reflist}}
+
+Category:Earthquakes in Japan|1864 Niigata earthquake
+Category:1964 earthquakes|Niigata earthquake
+Category:1964 in Japan|Niigata earthquake
+Category:20th-century tsunamis

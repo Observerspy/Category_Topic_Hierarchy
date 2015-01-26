@@ -1,0 +1,46 @@
+{{Infobox earthquake
+|title = February 4, 1998 Afghanistan earthquake
+|date = {{Start date|1998|2|4}}
+|map2 = {{Location map+ | Afghanistan
+ | relief = yes
+ | places =
+{{Location map~|Afghanistan|lat=37.14|long=69.8|label=Rostaq|position=left|label_size=100|mark=Green pog.svg}}
+{{Location map~|Afghanistan|lat=34.53|long=69.16|label=Kabul|label_size=100|mark=Green pog.svg}}
+{{Location map~|Afghanistan|lat=37.1|long=70.1|mark=Bullseye1.png|marksize=40}}
+ | width = 250
+ | float = right
+ | caption = }}
+|magnitude = 5.9 Moment magnitude scale|M<sub>w</sub> 
+|depth = {{convert|33|km|mi|0}}
+|location = {{coord|37.1|N|70.1|E}} 
+|countries affected = {{AFG}}
+|casualties = 2,323 dead  <br> 818 injured
+|damage = 8,094 houses destroyed
+}}
+
+The '''February 4, 1998 Afghanistan earthquake''' occurred in northern Afghanistan in the Afghanistan-Tajikistan border region. The magnitude of the quake was 5.9 on the moment magnitude scale. Aftershocks continued for the next seven days. The earthquake was also felt at Tashkent and Dushanbe.
+
+==Cause==
+Afghanistan is situated on a major plate boundary. The collision resulting from the movement of the plates has been under way for 50 million years. Due to this, Afghanistan is vulnerable to earthquakes. Both the Iranian Plate and the Eurasian Plate consists of continental crust, which can neither sink nor be destroyed.  As a result, the rocks between the two plates are forced upwards to form mountains. The constant movement of the Iranian Plate results in an increase in pressure. The earthquake on February 4, 1998 was caused by this increase in pressure.
+
+==Casualties and damage==
+A spokesman for the United Islamic Front for the Salvation of Afghanistan, which controlled certain area, told the Afghan Islamic Press that they removed more than 3,500 bodies. and dozens of villages were destroyed. Nearly 15,000 houses were destroyed primarily due to the landslides triggered by the quake. Approximately 10,000 people were injured and 6,725 livestock were killed in the earthquake.
+
+==Relief efforts==
+The Takhar Province was a remote area and road transport and telecommunication was poor. So it took three days for the news of the earthquake to reach Kabul. On February 7, reports of the quake began to reach the capital city. But relief work was hampered and delayed because of bad weather like fog, low cloud and snowfalls, blocked mountain tracks (due to snowfall and landslide) and the Civil war in Afghanistan (1996-2001)|civil war. Reports indicated that survivors were living without shelter in subzero temperature and many were starving. Several villagers were making their way down the mountain tracks along with their herds of goats.
+
+The International Red Cross and Red Crescent Movement sent a team from Dushanbe to the affected region for relief efforts. A convoy of the International Committee of the Red Cross (ICRC) reached the site on February 14 with 4,800 blankets, 800 quilts, 10 rolls of plastic sheeting and approximately 200 tents. Eleven days after the event, on February 16, helicopters were able to drop supplies to three isolated villages. The European Union (EU) offered ?1.3m of relief aid including blankets, medical equipment, water and tents. The Taliban ruled Islamic Emirate of Afghanistan offered 100 tonnes each of rice and wheat, and approximately ?40,000 to the affected region.
+
+==See also==
+*May 30, 1998 Afghanistan earthquake
+
+==References==
+{{reflist|refs=
+
+}}
+
+{{DEFAULTSORT:Afghanistan Earthquake Feb}}
+{{Earthquakes in 1998}}
+Category:Earthquakes in Afghanistan|1998 02
+Category:1998 in Afghanistan
+Category:1998 earthquakes

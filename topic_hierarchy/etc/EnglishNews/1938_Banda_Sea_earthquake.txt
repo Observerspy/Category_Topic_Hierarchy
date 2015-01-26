@@ -1,0 +1,52 @@
+{{Infobox earthquake
+|title              = 1938 Banda Sea earthquake
+|image              = 
+|imagecaption       = 
+|map2 = {{Location map | Indonesia
+ | relief = yes
+ | label =
+ | lat = -5.05
+ | long = 131.62
+ | mark = Bullseye1.png
+ | marksize = 40
+ | position = top
+ | width = 250
+ | float = right
+ | caption = }}
+|image name         = 
+|date               = {{Start-date|1 February 1938}}
+|origintime         = 19:04
+|duration           = 
+|magnitude          = 8.4 Moment magnitude scale|M<sub>w</sub> 
+|intensity = VII
+|depth              = {{convert|35|km|abbr=on}} 
+|location           = {{coord|-5.05|131.62|display=inline,title}} 
+|countries affected = 
+|tsunami            = yes
+|casualties         = no fatalities
+}}
+The '''1938 Banda Sea earthquake''' occurred in the Banda Sea region on February 1, 1938, and was the ninth largest earthquake in the 20th century. It had an estimated magnitude of 8.4 on the moment magnitude scale, and Mercalli intensity scale|intensities as high as VII (very strong). It generated Tsunamis of up to 1.5 metres, but no human lives appear to have been lost.
+
+==Location==
+* {{convert|300|km|mi|abbr=on}} WNW of Dobo, Aru Islands.
+* {{convert|325|km|mi|abbr=on}} N of Saumlaki, Tanimbar Islands.
+* {{convert|825|km|mi|abbr=on}} N of Darwin, Australia.
+* {{convert|2760|km|mi|abbr=on}} E of Jakarta, Java.
+
+==See also==
+*2006 Banda Sea earthquake
+
+==References==
+{{Reflist|refs=
+
+}}
+
+==External links==
+* http://earthquake.usgs.gov/regional/world/events/1938_02_01.php Historic Earthquakes
+{{Earthquake-stub}}
+
+{{DEFAULTSORT:1938 Banda Sea Earthquake}}
+Category:Megathrust earthquakes in Indonesia
+Category:1938 in Indonesia
+Category:1938 earthquakes|Banda Sea Earthquake, 1938
+Category:Banda Sea

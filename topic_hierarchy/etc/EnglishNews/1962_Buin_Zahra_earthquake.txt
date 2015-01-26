@@ -1,0 +1,74 @@
+{{Use mdy dates|date=March 2012}}
+{{Infobox earthquake
+|title=1962 Buin Zahra earthquake
+|date= {{Start-date|September 1, 1962}}
+|map2 = {{Location map many | Iran
+| relief = yes
+| label=
+| lat=35.63
+| long=49.87
+| mark=Bullseye1.png
+| marksize=40
+| position=top
+| width= 250
+| float=right
+| caption=}}
+|magnitude = 7.1 (Richter scale)
+|depth={{convert|10|km|mi|...}}{{sfn|Mostafazadeh|Mokhtari|2003|p=2}}
+|location={{Coord|35.63|N|49.87|E|display=inline,title}}
+|countries affected = File:Flag of Iran (1925).svg|22px Iran
+|tsunami = none
+|casualties = at least 12,225 dead, 2,776 injured
+}}
+
+The '''1962 Buin Zahra earthquake''' occurred on September 1, 1962, in the area of Buin Zahra County|Buin Zahra, Qazvin Province, Iran. 12,225 fatalities resulted from the massive, Richter scale|magnitude 7.1 earthquake.
+
+Qazvin Province lies in an area of Iran that experiences large earthquakes. The 1962 event originated on one of many faults in the area, called the Ipak Fault. Believed to have been reactivated multiple times, the fault is extensive and could still pose a threat to locals.
+
+Iran's building codes, renowned for performing poorly during earthquakes, were recently evaluated by multiple world organizations. Most hope that the Iranian government will implement a better quality of design, highlighting that Iran is among the most seismically active countries in the world.
+
+== Geology ==
+Iran is a seismically active zone, lying between the Convergent boundary|converging Eurasian Plate|Eurasian and Arabian Plates. Because it has both  Fault (geology)#Types|strike-slip and reverse faults, earthquakes often proceed so that if one fault is overwhelmed by movement, the movement will branch off to another fault, creating a separate earthquake.
+
+Buin Zahra County lies within a zone of active thrust faults, complemented by Fold (geology)|folds, that extends south from the Alborz mountains. Despite the presence of faults, Qazvin Province does not regularly experience earthquakes. However, the space between earthquakes allows pressure to build up on faults, increasing the power – and magnitude – of the earthquakes.
+
+Specifically, the 1962 event originated on the Ipak Fault of northern Iran, along which it and aftershocks cut roughly {{convert|64|mi|km|...}} of west-northwest trending surface faulting.{{sfn|Ambraseys|1963|pp=705–740}} A feature that extends for {{convert|64|mi|km|0}} with its connected, smaller faults, the fault runs from the village of Eypak|Ipak to Takhrijin. Iranian geologist Manuel Berberian's research indicates that the Ipak Fault is at least as old as the Carboniferous period, and has probably been reactivated several times since its formation. On the fault's south side, Carboniferous material is visible; this debris is not evident on the north side, which suggests that the fault was acting as a "dividing fault" while the area around it underwent Sedimentation#Geology|sedimentation. Berberian could find no trace of Upper Guadalopian or Julfian sediments north of the fault. Another possible reason for this anomaly could be erosion; Tectonic uplift|uplift could have exposed the northern portion of the fault but not the south.{{sfn|Berberian|1976|p=420}}
+
+== Damage and casualties ==
+12,225 fatalities resulted from the earthquake. An additional 2,776 people were injured, along with 21,310 houses either destroyed or too damaged to repair. 35 percent of domestic livestock was also killed, and several landslides and rock falls followed the rupture.{{sfn|Ambraseys|1963|pp=705–740}} 21,000 houses were destroyed, mainly because they were made up of mud and brick. Over 7,500 were buried in 31 individual villages, followed by reports from 60 additional villages. In these villages, however, 26,618 survived. One hospital in Tehran was "packed" with over 2,500 victims.
+
+Slight damage was experienced in Tehran, the nation's capital. Cities as far away as Tabriz, Esfahan and Yazd reported the tremor. Sand volcano|Sandblows also formed along the rupture zone. The earthquake was also declared the largest rupture in the region since approximately 1630. Multiple reports came from the  Rudak area of earthquake lights.
+
+== Relief efforts ==
+File:Pahlavan takhti meel.jpg|thumb|right|180px|Gholamreza Takhti and students organized relief efforts.
+Rescue operators suggested that an aerial and on-land search should be initiated to help victims. Officials expressed worries that people had gone for over a week with no aid.
+Iranian wrestling star Gholamreza Takhti gathered blankets, money, and food for victims and transported them by trucks. Because government response was slow, students at the University of Tehran took matters into their own hands. After gathering supplies, the students organized an effort to dispatch medical students and interns to the site of the disaster. Their teams were however blocked by Iranian National Guard members who had been commanded to kill any civilians who tried to help victims; writer Marcello di Cintio cites in ''Poets and Pahlevans: A Journey into the Heart of Iran'' that the "Shah was not about to let a crowd of students draw attention to his inept relief efforts".
+
+== Future threats ==
+Since roughly 90 percent of Iran lies within seismically active land, the threat from earthquakes is high. In 2002, an 2002 Bou'in-Zahra earthquake|earthquake in Buin Zahra killed more than 250 people and left roughly 25,000 without homes.
+
+In addition to its geological threat, Iran has poor earthquake engineering. In a 2004 report by ScienceDaily, it was listed as "the worst offender" globally for poor earthquake engineering. A Common Country Assessment by The United Nations for Iran has similar results, stating that, "While adequate building regulations exist for large cities, it is generally believed that they are not rigorously adhered to... most of those who have suffered in recent major earthquakes have lived in small towns and villages. Earthquake-proof construction is very rare in those areas and adequate building regulations are not yet in place".
+
+== See also ==
+* Earthquakes in Iran
+
+== Bibliography ==
+* {{cite journal |ref=harv |first=N. N.|last=Ambraseys |url=http://bssa.geoscienceworld.org/cgi/content/abstract/53/4/705 |title=The Buyin-Zara (Iran) earthquake of September, 1962 a field report |publisher=Seismological Society of America |journal=Bulletin of the Seismological Society of America |date=July 1, 1963 |volume=53 |issue=4 |page=705 |archiveurl=http://www.webcitation.org/607q5upO7 |archivedate=July 12, 2011 |deadurl=no}}
+
+* {{cite journal |ref=harv |last=Berberian |first=Manuel |url=http://www.manuelberberian.com/Berberian%201976d%20-%20Ipak.pdf |title=The 1962 Earthquake and Earlier Deformations Abong (sic) the Ipak Earthquake Fault |publisher=Geological Survey of Iran |journal=Geological Survey of Iran |volume=39 |pages=419–427 |year=1976 |format=PDF| accessdate=March 21, 2010 <!--DASHBot-->}}
+
+* {{cite book|author=di Cintio, Marcello|title=Poets and Pahlevans: A Journey into the Heart of Iran|publisher=Random House Digital, Inc.|year=2007}}
+
+* {{cite journal |ref=harv |url=http://www.iiees.ac.ir/english/images/stories/PDF/JSEE/V5N3_Fall03_2.pdf |title=Source Time Function of Caspian Basin and Surrounding Area Earthquakes |first=Mehrdad |last=Mostafazadeh |first2=Mohammad |last2=Mokhtari |publisher=International Institute of Earthquake Engineering and Seismology (IIEES) |year=2003 |volume=5 |issue=3 |format=PDF| accessdate=June 23, 2011 <!--DASHBot-->}}
+
+== References ==
+{{Reflist|30em}}
+
+{{Earthquakes in Iran}}
+
+{{DEFAULTSORT:1962 Bou'in-Zahra Earthquake}}
+Category:1962 earthquakes|Bouin-zahra Earthquake, 1962
+Category:Earthquakes in Iran|1962 Bou'in-Zahra
+Category:1962 in Iran|Bouin-zahra Earthquake, 1962
+Category:20th century in Iran
+Category:History of Qazvin Province

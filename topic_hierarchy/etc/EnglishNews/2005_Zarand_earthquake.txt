@@ -1,0 +1,134 @@
+{{coord|30.810|56.567|display=title}}
+{{Infobox earthquake
+|title = 2005 Zarand earthquake
+|date= {{Start date|2005|2|22}}
+|map2 = {{Location map | Iran
+ | relief = yes
+ | label =
+ | lat = 30.726 
+ | long = 56.817 
+ | mark = Bullseye1.png
+ | marksize = 40
+ | position = top
+ | width = 250
+ | float = right
+ | caption = }}
+|magnitude = 6.4 Richter magnitude scale|M<sub>w</sub>
+|PGA = 0.51 ''peak ground acceleration|g''
+|depth =
+|location = {{coord|30.726|N|56.817|E|type:event}}
+|aftershocks = 61
+|countries affected = Iran
+|casualties = 612 dead, 1,411 injured
+}}
+'''2005 Zarand earthquake''' hit the city of Zarand, Iran|Zarand and several villages in Kerman province|Kerman provinces of Iran|province of Iran on February 22, 2005. The earthquake happened at 5:55 local time (2:25 Coordinated Universal Time|UTC) and was measured at 6.4 on the Richter magnitude scale|Richter scale. The quake lasted for 11 seconds and at least 61 aftershocks were reported http://www.isna.ir/Main/NewsView.aspx?ID=News-499479 ranging in magnitude between 3.3 and 4.8. Zarand is located 740&nbsp;km southeast of Tehran.  The maximum recorded peak ground acceleration was 0.51 ''g'' at Shirinrud dam.
+
+==Damage and casualties==
+Though official reports by Iranian authorities indicate 612 dead and 990 injured, Iranian Students' News Agency|ISNA reports 790 dead and 1,423 injured according to officials in Kerman University of Medical Sciences http://www.isna.ir/Main/NewsView.aspx?ID=News-497356. Four villages, <!-- Douhan village|Douhan, Daghoyeh village|Daghoyeh and Houtkan village|Houtkan,--> each having around 1,000 inhabitants, were reported completely destroyed, and 30% to 70% of buildings in more than 40 villages were reported damaged.
+
+===Affected area===
+It is estimated that the population of the affected area exceeds 30,000. A great portion of population of several villages are severely affected because of poor condition of buildings. The epicenter of the quake was in a mountainous and sparsely inhabited area. It is believed that the death toll could have been much higher if the quake had stricken a more densely populated area like Bam, Iran|Bam. 
+
+According to governor of Kerman province http://www.isna.ir/Main/NewsView.aspx?ID=News-496796 and an independent investigation carried out by ISNA http://www.isna.ir/Main/NewsView.aspx?ID=News-498202 the following cities and villages are affected:
+:{|border="1" cellpadding="2"
+|+ '''Note:''' Spelling of names specially ''italicized'' ones may have alternative forms.
+!colspan=2 | City or village !! rowspan =2 |Population !! rowspan=2 | Damage !! rowspan=2 | Confirmed casualties
+|-
+| align=center | English language|English || align=center | Persian language|Persian
+|- align = center
+| align = left | Sarbagh || align=right | ????? || - || 100% || 50
+|- align = center
+| align = left | Dahuyeh (Dahouyeh)|| align=right | ?????? (???????) ? || 829 || 95-100% || 136
+|- align = center
+| align = left | Houtkan (Houdkan)|| align=right | ???? || ~1,000 || 90% || 337
+|- align = center
+| align = left | ''Katguiyeh'' || align=right | ??????? || 200 || 90% || -
+|- align = center
+| align = left | ''Sakoukan'' || align=right | ?????? || - || 90% || 22
+|- align = center
+| align = left | Reyhanshahr || align=right | ???????? || - || 85% || 60
+|- align = center
+| align = left | Baha-abad || align=right | ??????? || - || 80% || 55
+|- align = center
+| align = left | ''Amroudieh'' || align=right | ??????? || - || 80% || 13
+|- align = center
+| align = left | ''Madboun'' || align=right | ????? || - || 80% || 13
+|- align = center
+| align = left | Abdolabad || align=right | ???? ???? || - || 70% || 18
+|- align = center
+| align = left | Fathabad || align=right | ??? ???? || - || 70% || 12
+|- align = center
+| align = left | ''Aliabad-e Olia'' || align=right | ??? ???? ???? || - || 70% || 9
+|- align = center
+| align = left | Baharestan || align=right | ???????? || - || 70% || 5
+|- align = center
+| align = left | Motahharabad || align=right | ???????? || - || 60% || 5
+|- align = center
+| align = left | Sousefid || align=right | ?????? || - || 60% || 1
+|- align = center
+| align = left | Sarbanan || align=right | ?????? || 3,000 || 45% || -
+|- align = center
+| align = left | Vahdat villages || align=right | ?????? ???? || 11,000 || 45% || -
+|- align = center
+| align = left | Khanouk || align=right | ????? || 2,880 || 45% || -
+|- align = center
+| align = left | Zarand || align=right | ???? || ~15,000 || 30% || 23
+|- align = center
+| align = left | Reyhan-Dasht || align=right | ????? ??? || 10,000 || 30% || -
+|- align = center
+| align = left | ''Dastkavineh'' || align=right | ???????? || - || - || 30
+|- align = center
+| align = left | Kerman || align=right | ????? || - || - || 7
+|- align = center
+| align = left | Ravar || align=right | ????? || - || - || 3
+|- align = center
+| align = left | Kan || align=right | ?? || 490 || - || -
+|}
+
+==Previous quakes==
+The region of Zarand is close to an active Geological fault|fault, known as the ''Kuhbanan'' fault http://www.ngdir.ir/States/StateComment.asp?PStateCode=13&PID=161 in the north east of the city. Its trend is northwest-southeast and its length is 160&nbsp;km. 
+
+Zarand has been hit by several quakes in the last 70 years, with the oldest recorded one going back to 1933.
+
+On December 21, 1977, the area was hit by a 6.2-magnitude earthquake leaving 521 dead and 3 villages completely destroyed.
+On December 26, 2003, another devastating earthquake happened in Bam, Iran|Bam, 200&nbsp;km southwest of Zarand, which is in the same province.
+
+==See also==
+* 2003 Bam earthquake
+* 2004 Indian Ocean earthquake
+
+==References==
+{{Reflist}}
+
+==External links==
+{{wikinews|6.4 magnitude earthquake hits Iran}}
+* International Federation of Red Cross and Red Crescent bulletins on Zarand earthquake (Portable Document Format|PDF files): http://www.ifrc.org/docs/appeals/rpts05/iranearth01-2005.pdf No.1, http://www.ifrc.org/cgi/pdf_appeals.pl?rpts05/IRQK2.pdf No.2, http://www.ifrc.org/cgi/pdf_appeals.pl?rpts05/IRQK3.pdf No.3, and http://www.ifrc.org/cgi/pdf_appeals.pl?rpts05/IRQK4.pdf No.4.
+* http://www.disaster-management.net/iran_di.htm List of significant earthquakes in Iran since 1972.
+* http://uk.multimap.com/wi/13159.htm Map of Zarand on http://uk.multimap.com multimap.com.
+* http://www.ngdir.ir/Earthquake/CurrentEarthquake.asp Online database of earthquakes in Iran on web site of http://www.ngdir.ir/ National Geoscience Database of Iran.
+
+===Technical records===
+* http://earthquake.usgs.gov/eqcenter/eqinthenews/2005/usuvae/#details U.S. Geological Survey (United States Geological Survey|USGS)
+* http://www.iiees.ac.ir/English/bank/Zarand/zarand_e.html International Institute of Earthquake Engineering and Seismology (IIEES)
+* http://www.bhrc.gov.ir/Bhrc/D-StGrMo/SHABAKEH/accelerograms/earthquake/2005/zarand/zarand.htm Iran Strong Motion Network(ISMN)
+
+===News coverage===
+* BBC News:
+*# http://news.bbc.co.uk/2/hi/middle_east/4286129.stm  Hundreds killed in Iranian quake
+*# http://news.bbc.co.uk/2/hi/middle_east/4288709.stm  Race to reach Iran quake victims
+*# http://news.bbc.co.uk/2/hi/middle_east/4289647.stm  Rain slows Iran quake aid effort
+*# http://news.bbc.co.uk/2/hi/middle_east/4291009.stm 'No-one knew what to do'
+* Agence France-Presse|AFP: http://www.afp.com/english/news/stories/050223171947.n26ookgi.html Rescuers pull bodies from quake-hit Iran villages as toll tops 530.
+* Shargh newspaper (in Persian language|Persian):
+*# http://www.sharghnewspaper.com/831205/html/index.htm More than 450 victims of Zarand earthquake.
+*# http://www.sharghnewspaper.com/831206/html/disast.htm#s190485 700 killed, 1,200 injured.
+* Iranian Students' News Agency|ISNA photo reports on Zarand earthquake: http://www.isna.ir/Main/NewsView.aspx?ID=News-496797 1, http://www.isna.ir/Main/NewsView.aspx?ID=News-496840 2, http://www.isna.ir/Main/NewsView.aspx?ID=News-496866 3, http://www.isna.ir/Main/NewsView.aspx?ID=News-497073 4, http://www.isna.ir/Main/NewsView.aspx?ID=News-497075 5, http://www.isna.ir/Main/NewsView.aspx?ID=News-497454 6, http://www.isna.ir/Main/NewsView.aspx?ID=News-497455 7, http://www.isna.ir/Main/NewsView.aspx?ID=News-497457 8, http://www.isna.ir/Main/NewsView.aspx?ID=News-497459 9, http://www.isna.ir/Main/NewsView.aspx?ID=News-497460 10 and http://www.isna.ir/Main/NewsView.aspx?ID=News-497479 11.
+
+{{Earthquakes in 2005}}
+{{Earthquakes in Iran}}
+
+{{DEFAULTSORT:2005 Zarand Earthquake}}
+Category:Earthquakes in Iran|2005 Zarand
+Category:2005 earthquakes|Zarand earthquake
+Category:2005 in Iran|Zarand earthquake
+Category:Kerman Province

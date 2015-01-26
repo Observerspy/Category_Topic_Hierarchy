@@ -1,0 +1,891 @@
+{{Use dmy dates|date=August 2014}}
+{{Infobox election
+| election_name     = Turkish presidential election, 2014
+| country           = Turkey
+| type              = presidential
+| ongoing           = no
+| previous_election = Turkish presidential election, 2007
+| previous_year     = 2007
+| election_date     = 10 August 2014
+| next_election     = Turkish presidential election, 2019
+| next_year         = 2019
+| turnout           = 74.13%
+<!-- Recep Tayyip Erdoğan -->
+| image1            = [[File:Tayyip Erdoğan.JPG|160x150px]]
+| candidate1        = '''[[Recep Tayyip Erdoğan]]'''
+| colour1           = FDC400
+| party1            = Justice and Development Party (Turkey)
+| popular_vote1     = '''21,000,143'''
+| percentage1       = '''51.79%'''
+<!-- Ekmeleddin İhsanoğlu -->
+| image2            = [[File:Ekmeleddin İhsanoğlu (1) (cropped).jpg|160x150px]]
+| candidate2        = [[Ekmeleddin İhsanoğlu]]
+| colour2           = ED1C24
+| party2            = Independent (politician)^
+| popular_vote2     = 15,587,720
+| percentage2       = 38.44%
+<!-- Selahattin Demirtaş -->
+| image3            = [[File:Selahattin Demirtaş (cropped).jpg|160x150px]]
+| candidate3        = [[Selahattin Demirtaş]]
+| colour3           = 893D89
+| party3            = Peoples' Democratic Party (Turkey)
+| popular_vote3     = 3,958,048
+| percentage3       = 9.76%
+<!-- map -->
+| map_image         = Turkish presidential election 2014.png
+| map_size          = 450px
+| map_caption       = Maps showing the winners by [[Provinces of Turkey|province]] (top) and by [[List of districts of Turkey|district]] (bottom). <span style="color:#FDC400">'''Yellow'''</span> denotes those won by [[Recep Tayyip Erdoğan]], <span style="color:#D3212D">'''red'''</span> denotes those won by [[Ekmeleddin İhsanoğlu]], <span style="color:purple">'''purple'''</span> denotes those won by [[Selahattin Demirtaş]].<br><br>^ ''Candidate was initially nominated by the [[Republican People's Party (Turkey)|Republican People's Party]] (CHP) after being endorsed by the [[Nationalist Movement Party]] (MHP), futher receiving the support of 11 other opposition parties.''<ref>{{cite web |url=http://gundem.bugun.com.tr/iste-cati-aday-haberi/1146862 |title=CHP'nin Cumhurbaşkanı adayı Ekmeleddin İhsanoğlu |accessdate=1 September 2014 |publisher=Bugün}}</ref>
+<!-- bottom -->
+| title             = President
+| before_election   = [[Abdullah Gül]]
+| before_party      = Justice and Development Party (Turkey)
+| after_election    = [[Recep Tayyip Erdoğan]]
+| after_party       = Justice and Development Party (Turkey)
+}}
+
+'''Presidential elections''' were held in [[Turkey]] on 10 August 2014 in order to elect the [[List of Presidents of Turkey|12th]] [[President of Turkey]].<ref>{{cite web |url=http://www.reuters.com/article/2014/03/07/us-turkey-election-idUSBREA2610R20140307 |title=Turkey sets Aug 10 for presidential election: source |accessdate=21 March 2014 |publisher=}}</ref> The result was a victory for the incumbent Prime Minister [[Recep Tayyip Erdoğan]], who was elected outright by a simple majority of the vote in the first round. If no candidate had received more than 50% of the vote in the first round, a run-off election would have been held on 24 August between the two highest polling candidates. Three candidates ran for election.
+
+As a result of the [[Turkish constitutional referendum, 2007|2007 constitutional referendum]], the election is the first presidential election in Turkey to be held nationally rather than by MPs within [[Grand National Assembly|parliament]]. Over 55 million citizens were eligible to vote, both within Turkey and abroad. Recep Tayyip Erdoğan, the leader of the [[Justice and Development Party (Turkey)|AKP]] who was [[Turkish general election, 2002|elected]] Prime Minister in 2002, won the election with 51.79% of the vote and thus obviated the need for a run-off. Former [[Organisation of Islamic Cooperation]] General Secretary [[Ekmeleddin İhsanoğlu]], who ran as the joint candidate of 13 opposition parties including the [[Republican People's Party (Turkey)|Republican People's Party]] (CHP) and [[Nationalist Movement Party]] (MHP), came second with 38.44% of the vote. The co-leader of the [[Peoples' Democratic Party]] (HDP) [[Selahattin Demirtaş]], who received the backing of 8 other left-wing parties, came third with 9.76% of the vote.<ref>http://www.ysk.gov.tr/ysk/content/conn/YSKUCM/path/Contribution%20Folders/HaberDosya/2014CB-Gecici-416_d_Genel.pdf/</ref> Recep Tayyip Erdoğan took over over as President from [[Abdullah Gül]] on 28 August, while [[Ahmet Davutoğlu]], who was [[2014 Justice and Development Party Extraordinary Congress|elected]] leader of the AKP, succeeded Erdoğan as Prime Minister on the same date. It has been speculated that Erdoğan will continue to pursue his political agenda as president while Davutoğlu takes a docile approach as Prime Minister, breaking away from the ceremonial and neutral functions of the Presidency.<ref>http://www.foxnews.com/world/2014/08/21/turkey-davutoglu-expected-to-be-docile-prime-minister-with-erdogan-calling/</ref><ref>http://english.alarabiya.net/en/views/news/middle-east/2014/08/26/Davutoglu-Turkey-s-docile-prime-minister.html</ref><ref>http://www.dailymail.co.uk/wires/ap/article-2731052/Turkeys-Davutoglu-expected-docile-premier.html</ref>
+
+The election was criticised by both the political opposition and international observers for alleged media bias in favour of Recep Tayyip Erdoğan, [[2013 corruption scandal in Turkey|corruption allegations]], the inaccuracy of [[Opinion polls in Turkey|opinion polls]] and the misuse of official public resources during Erdoğan's campaign.<ref>{{cite web |url=http://www.birgun.net/news/view/anket-sirketleri-manipulasyon-mu-yapti/3547 |title=Anket şirketleri manipülasyon mu yaptı?: source=Bugün |accessdate=4 September 2014 |publisher=Bugün}}</ref><ref>{{cite web |url=http://www.cihan.com.tr/news/Kemal-Kilicdaroglu-Riza-Sarraf-in-comezleri-bizi-korkutamaz_6031-CHMTUxNjAzMS8x |title=Kemal Kılıçdaroğlu: Rıza Sarraf'ın çömezleri bizi korkutamaz: source=Cihan Haber Ajansı |accessdate=13 August 2014 |publisher=CHA}}</ref><ref>{{cite web |url=http://haberciniz.biz/katil-ve-hirsizdan-cumhurbaskani-olmaz-pankarti-3047747h.htm |title="Katil ve Hırsızdan Cumhurbaşkanı Olmaz" Pankartı: source=Haberciniz |accessdate=13 August 2014 |publisher=Haberciniz Haber}}</ref><ref>{{cite web |url=http://www.bbc.co.uk/turkce/haberler/2014/07/140731_erdogan_trt_times.shtml |title=Times: TRT'den Erdoğan'a 204, rakiplerine 3 dakika: source=The Times |accessdate=13 August 2014 |publisher=BBC Türkçe}}</ref> While praising the authorities for safeguarding the right to assembly as well as the peaceful electoral conduct, the [[Organization for Security and Co-operation in Europe]] (OSCE) voiced concerns over the unequal distribution of campaign resources and media intimidation.<ref>{{cite web |url=http://famagusta-gazette.com/osce-observers-note-biased-media-coverage-in-turkish-elections-p24840-69.htm |title=OSCE observers note biased media coverage in Turkish elections: source=OSCE |accessdate=13 August 2014 |publisher=Famagusta Gazette}}</ref><ref>{{cite web |url=http://www.hurriyetdailynews.com/osce-alarmed-over-turkish-pms-intimidation-of-female-journalist.aspx?PageID=238&NID=70236&NewsCatID=338 |title=OSCE alarmed over Turkish PM’s intimidation of female journalist: source=OSCE |accessdate=13 August 2014 |publisher=Hürriyet Daily News }}</ref> The historic 12-year low turnout of 74.13%, attributed to the fact that the election was held in summer while many citizens were on holiday, was seen by many politicians such as MHP leader [[Devlet Bahçeli]] as a significant factor in affecting the outcome.<ref>{{cite web |url=http://gundem.bugun.com.tr/son-12-yilin-en-dusugu-haberi/1218945 |title=Seçimlere katılım oranı 12 yılın en düşük oranında kaldı (SEÇİM 2014): source=Bugün |accessdate=13 August 2014 |publisher=Bugün }}</ref><ref>{{cite web |url=http://t24.com.tr/haber/kosk-secimine-katilim-orani-dusuk-oldu,267219 |title=Köşk seçiminde sonucu, oy kullanmayan 13 milyon seçmen belirledi: source=T24 |accessdate=13 August 2014 |publisher=T24 Haber }}</ref><ref>{{cite web |url=http://www.cnnturk.com/haber/turkiye/devlet-bahceliden-cok-sert-aciklama |title=Devlet Bahçeli'den çok sert açıklama: source=CNN Türk |accessdate=13 August 2014 |publisher=CNN Türk }}</ref> The election loss for the opposition CHP resulted in its leader [[Kemal Kılıçdaroğlu]] taking the decision to hold a [[2014 Republican People's Party Convention|party convention with a leadership election]] in response to growing dissatisfaction against his electoral performance.<ref>{{cite web |url=http://www.gercekgundem.com/siyaset/63981/iste-chp-kurultayinin-toplanacagi-tarih |title=İşte CHP Kurultayı'nın toplanacağı tarih: source=Gerçek Gündem |accessdate=17 August 2014 |publisher=Gerçek Gündem }}</ref><ref>{{cite web |url=http://www.cnnturk.com/2013/guncel/03/21/chp.olaganustu.kurultaya.gidiyor/700980.0/ |title=CHP olağanüstü kurultaya gidiyor: source=CNN Türk |accessdate=17 August 2014 |publisher=CNN Türk }}</ref>
+
+==Background==
+The Law on Presidential Elections accepted and put into effect on 20 January 2012 decided that presidential elections will be held in 2014 instead of 2012; within 60 days before the end of the seven-year term of incumbent [[President of Turkey]] [[Abdullah Gül]], who will be the last indirectly elected [[President of Turkey]]. As Gül took office on 28 August 2007, the first possible day could be 29 June, but a date between 10 and 17 August is considered more reasonable.<ref>{{cite web |url=http://www.turkiyegazetesi.com.tr/gundem/123967.aspx |language=Turkish |title=Cumhurbaşkanı seçimi ağustos başı yapılacak |accessdate=5 March 2014 |publisher=}}</ref>
+
+It was decided in the same law that former presidents [[Kenan Evren]], [[Süleyman Demirel]], [[Ahmet Necdet Sezer]] and incumbent [[Abdullah Gül]] could not be nominated for a second term, but this was ruled unconstitutional by the [[Constitutional Court of Turkey]], allowing them to run for a second term. Also, the [[Prime Minister of Turkey]] could be nominated for the presidency without having to resign from his post.
+
+The presidential-election campaigns were declared to be held in an "American manner", where candidates could accept personal donations for their campaigns; however, one person could not donate more than 8,259 TL (approximately US$4,500) to a campaign.<ref>{{cite web |url=http://siyaset.milliyet.com.tr/cankaya-yasasi-meclis-ten-gecti/siyaset/siyasetdetay/20.01.2012/1491396/default.htm |language=Turkish |title=Çankaya yasası Meclis'ten geçti |accessdate=2 September 2012 |publisher=}}</ref>
+
+==Official candidates==
+
+Three candidates were nominated to participate in the election. A more detailed list of parties that endorsed them can be found in the "List of parties by presidential candidates" section.
+
+<gallery perrow="8">
+File:Recep Tayyip Erdoğan, Poland (cropped).jpg|'''[[Recep Tayyip Erdoğan]]''', serving leader of the [[Justice and Development Party (Turkey)|Justice and Development Party]] (AKP) since 2001 and [[Prime Minister of Turkey]] since 2003, received 311 nominations.<ref name="haberturk.com">http://www.haberturk.com/gundem/haber/964273-basbakan-erdogan-resmen-aday</ref><br>{{List collapsed|title={{small|''supporting parties''}}|1={{small|[[Justice and Development Party (Turkey)|Justice and Development Party]]}}<br />{{small|[[Motherland Party (Turkey)|Motherland Party]]}}}}
+File:Prof. Ekmeleddin Ihsanoglu (8406391100) (cropped).jpg|'''[[Ekmeleddin İhsanoğlu]]''', former secretary general of the [[Organisation of Islamic Co-operation]] (OIC) between 2004 and 2014, received 163 nominations.<ref name="sozcu.com.tr">http://sozcu.com.tr/2014/gundem/ekmeleddin-ihsanoglu-resmen-aday-544405/</ref><br><br>{{List collapsed|title={{small|''supporting parties''}}|1={{small|[[Republican People's Party (Turkey)|Republican People's Party]]}}<br />{{small|[[Nationalist Movement Party]]}}<br />{{small|[[Democratic Party (Turkey, current)|Democrat Party]]}}<br />{{small|[[Democratic Left Party (Turkey)|Democratic Left Party]]}}<br />{{small|[[Independent Turkey Party]]}}<br />{{small|[[Liberal Democratic Party (Turkey)|Liberal Democratic Party]]}}<br />{{small|[[Great Union Party]]}}<br />{{small|Revolutionary People's Party}}<br />{{small|Socialist Workers' Party}}<br />{{small|[[True Path Party (2007)|True Path Party]]}}<br />{{small|Rights and Justice Party}}<br />{{small|Women's Party}}<br />{{small|[[Social Reconciliation Reform and Development Party]]}}<br />{{small|Great Anatolian Development Movement}}}}
+File:Selahattin Demirtaş (cropped).jpg|'''[[Selahattin Demirtaş]]''', co-leader of the [[Peoples' Democratic Party (Turkey)|Peoples' Democratic Party]] (HDP), received 30 nominations.<ref name="internethaber.com">http://www.internethaber.com/demirtas-resmen-aday-kac-imza-toplandi-692200h.htm</ref><br><br><br><br>{{List collapsed|title={{small|''supporting parties''}}|1={{small|[[Peoples' Democratic Party (Turkey)|Peoples' Democratic Party]]}}<br />{{small|[[Labour Party (Turkey)|Labour Party]]}}<br />{{small|[[Socialist Party of the Oppressed]]}}<br />{{small|Workers' Movement Party}}<br />{{small|[[Revolutionary Socialist Workers' Party (Turkey)|Revolutionary Socialist Workers' Party]]}}<br />{{small|[[Socialist Democracy Party]]}}<br />{{small|[[Greens and the Left Party of the Future]]}}<br />{{small|[[Socialist Party of Refoundation]]}}<br />{{small|[[Marxist–Leninist Communist Party (Turkey)|Marxist–Leninist Communist Party]]}}}}
+</gallery>
+
+===Parliamentary nomination process===
+To run for election, a candidate needs to be nominated by at least 20 [[Member of Parliament|Members of Parliament]] in the [[Grand National Assembly]], which constitutes to 3.73% of all sitting members. The parties represented in parliament are the [[Justice and Development Party (Turkey)|AKP]], [[Republican People's Party (Turkey)|CHP]], [[Nationalist Movement Party|MHP]], [[Peoples' Democratic Party (Turkey)|HDP]], [[Democratic Regions Party|DBP]] and 14 [[Independent (politician)|independents]], meaning that smaller parties such as the [[Felicity Party]] (SP) and the [[Great Union Party]] (BBP) could not nominate their own candidates due to the lack of parliamentary representation. Three candidates obtained sufficient endorsements from parliament in order to register with the [[Supreme Electoral Council of Turkey|Supreme Electoral Council]].<ref name="sozcu.com.tr"/>
+[[File:TBMM2014.svg|200px|thumbnail|left|Distribution of seats by party in the [[Grand National Assembly]]]]
+The Electoral Council forbids any potential candidate from nominating themselves, since this would give unfair advantage to prospective candidates who were sitting Members of Parliament. The AK Party began collecting signatures for an unnamed candidate from all 311 eligible MPs out of their 312 seat total, with Recep Tayyip Erdoğan being the only MP to not sign.<ref>http://t24.com.tr/haber/akp-isimsiz-cumhurbaskani-icin-imza-topladi,262323</ref> Due to the debate on whether the CHP's candidate [[Ekmeleddin İhsanoğlu]] adhered to [[Secularism|secular]] and [[Kemalism|Kemalist]] principles, 21 CHP MPs boycotted the nomination process. Six CHP MPs protested their leader's choice of candidate by attempting to nominate [[Emine Ülker Tarhan]] instead, though she herself stated that she would not stand as a candidate. Out of the 14 independent MPs, three supported İhsanoğlu while two supported Demirtaş, with the remaining 9 boycotting the process altogether. Only 536 seats out of the 550 are occupied, with many vacant MPs having resigned or serving prison sentences due to their roles in the [[PKK]], or the [[Sledgehammer (coup plan)|Sledgehammer]] and [[Ergenekon (organization)|Ergenekon]] coup trials.
+
+{| class=wikitable style=text-align:right
+!scope="col", colspan="2"|Candidate
+!Endorsing parties{{sup|''a''}}
+!Nomination date
+!Potential signatures{{sup|''b''}}
+!Actual signatures
+!% of potential
+!% of all MPs
+!Result
+|-
+|style="background:#fdc400; width:4px; text-align:center;"| || align=left|'''[[Recep Tayyip Erdoğan]]'''||[[Justice and Development Party (Turkey)|AKP]]||1 July 2014||312||'''311'''||99.68||58.02||style="background: #ccff99" |[[Image:Yes check.svg|14px|link=]] Nominated<ref name="haberturk.com"/>
+|-
+|style="background:#ed1c24; width:4px; text-align:center;"| || align=left|'''[[Ekmeleddin İhsanoğlu]]'''||[[Republican People's Party (Turkey)|CHP]], [[Nationalist Movement Party|MHP]] {{small|+ 3 [[Independent (politician)|independents]]}}||30 June 2014||182||'''163'''||89.56||30.41||style="background: #ccff99" |[[Image:Yes check.svg|14px|link=]] Nominated<ref>http://gundem.bugun.com.tr/ilk-resmi-aday-ekmeleddin-ihsanoglu-haberi/1164469</ref>
+|-
+|style="background:#893d89; width:4px; text-align:center;"| || align=left|'''[[Selahattin Demirtaş]]'''||[[Peoples' Democratic Party (Turkey)|HDP]], [[Democratic Regions Party|DBP]]{{sup|''c''}} {{small|+ 2 [[Independent (politician)|independents]]}}||3 July 2014||28||'''30'''||100.00||5.60||style="background: #ccff99" |[[Image:Yes check.svg|14px|link=]] Nominated<ref name="internethaber.com"/>
+|-
+|style="background:#ff0000; width:4px; text-align:center;"| || align=left|[[Emine Ülker Tarhan]]{{sup|''d''}}||[[Republican People's Party (Turkey)|CHP]]||1 July 2014||130||6||4.62||1.12||style="background: #ff9999" |[[Image:X mark.svg|14px|link=]] Eliminated<ref>http://www.cumhuriyet.com.tr/haber/siyaset/89173/Emine_Ulker_Tarhan_a_bir_imza_daha.html</ref>
+|-
+|style="background:#0099ff; width:4px; text-align:center;"| || align=left|[[Masum Türker]]||[[Democratic Left Party (Turkey)|DSP]]||2 May 2014||''N/A''{{sup|''e''}}||0||0.00||0.00||style="background: #ff9999" |[[Image:X mark.svg|14px|link=]] Eliminated<ref>http://gundem.bugun.com.tr/dspnin-cankaya-kosku-adayi-masum-turker-haberi/1087362</ref>
+|-
+|scope="col", colspan="4"|{{align|left|'''Total'''}}||'''536'''{{sup|''f''}}||'''510'''||-||'''92.73'''||'''3 candidates'''
+|}
+[[File:Turkish MP distribution by province 2014 presidential election.png|400px|thumbnail|right|A map showing the distribution of MPs in the 81 [[Provinces of Turkey|provinces]] in terms of which candidate they support<br>{{legend|#fdc400|denotes provinces in which most MPs support [[Recep Tayyip Erdoğan|Erdoğan]]}}{{legend|#ff0000|denotes provinces in which most MPs support [[Ekmeleddin İhsanoğlu|İhsanoğlu]]}}{{legend|#CC66FF|denotes provinces in which most MPs support [[Selahattin Demirtaş|Demirtaş]]}}{{legend|#CC7A00|an equal number of MPs supporting [[Recep Tayyip Erdoğan|Erdoğan]] and [[Ekmeleddin İhsanoğlu|İhsanoğlu]]}}{{legend|#009933|an equal number of MPs supporting [[Recep Tayyip Erdoğan|Erdoğan]] and [[Selahattin Demirtaş|Demirtaş]]}}{{legend|#0000FF|an equal number of MPs supporting [[Selahattin Demirtaş|Demirtaş]] and [[Ekmeleddin İhsanoğlu|İhsanoğlu]]}}]]
+{{sup|''a''}} Lists parties with parliamentary representation only<br>{{sup|''b''}} Number of MPs from the parties that support these candidates, discounting independents<br> {{sup|''c''}} Was named the Peace and Democracy Party (BDP), changed its name after the election<br>{{sup|''d''}} [[Emine Ülker Tarhan]] publicly stated that she did not want to stand as a candidate, but received nominations from CHP MPs opposed to İhsanoğlu<ref>http://www.hurriyet.com.tr/gundem/26712903.asp</ref><br>
+{{sup|''e''}} The [[Democratic Left Party (Turkey)|Democratic Left Party]] (DSP) fields joint parliamentary candidates with the CHP in some cases, meaning that some MPs can be aligned with both parties. There was thus a potential for some MPs to nominate the DSP's leader and preferred presidential candidate [[Masum Türker]], though this did not occur in practice<br>{{sup|''f''}} Out of 550 total seats, 536 are occupied, of which 14 are independent
+
+21 Members of Parliament from the CHP, including former leader [[Deniz Baykal]] as well as potential presidential candidate Emine Ülker Tarhan, boycotted the nomination process.
+
+===Candidate selection===
+
+====Justice and Development Party (AKP)====
+
+Turkish and international media speculated that Recep Tayyip Erdoğan would almost certainly be the AK Party's candidate for the Presidency.<ref name="Protothema News">{{cite news|title=Erdoşan's candidacy for presidency to be announced 1st July|url=http://en.protothema.gr/turkey-erdogans-candidacy-for-president-to-be-announced-on-1st-of-july/|accessdate=3 August 2014|work=Protothema News|agency=24 June 2014}}</ref> This was proven correct on 1 July when Erdoğan's candidacy was announced.<ref name="CNN Türk">{{cite news|title=AK Parti'nin cumhurbaşkanı adayı Recep Tayyip Erdoğan|url=http://www.cnnturk.com/haber/turkiye/ak-partinin-cumhurbaskani-adayi-recep-tayyip-erdogan|accessdate=3 August 2014|work=CNN Türk|agency=1 July 2014}}</ref> [[Abdullah Gül]], the outgoing President of Turkey elected in 2007 caused media speculation regarding a potential candidacy in January 2014.<ref name="Cumhuriyet">{{cite web|url=http://www.cumhuriyet.com.tr/haber/turkiye/25535/Abdullah_Gul_tekrar_aday_olacak_mi_.html |title=Abdullah Gül Tekrar Aday Olacak mı? |publisher=Cumhuriyet|accessdate=23 August 2014}}</ref> He announced that he would not stand on 29 June 2014.<ref>{{cite web|url=http://www.bbc.co.uk/turkce/haberler/2014/06/140629_abdullah_gul_adaylik.shtml |title=Abdullah Gül: Cumhurbaşkanı adayı olmayacağım |publisher=BBC Türkçe|accessdate=23 August 2014}}</ref> A full list of possible AK Party candidates which at one point showed intentions of running for election is as follows.
+
+<gallery perrow="2">
+File:Recep Tayyip Erdoğan, Poland (cropped).jpg|'''[[Recep Tayyip Erdoğan]]''', leader of the AK Party (2001-2014) and Prime Minister of Turkey (2003-2014).<ref name="CNN Türk"/>
+File:Abdullah Gül Senate of Poland.JPG|'''[[Abdullah Gül]]''', Prime Minister of Turkey (2002-2003), President of Turkey (2007-2014).<ref name="Cumhuriyet"/>
+</gallery>
+
+====Republican People's Party (CHP)====
+
+The two main opposition parties, the [[Republican People's Party (Turkey)|Republican People's Party]] (CHP) and the [[Nationalist Movement Party]] (MHP) had both expressed interest in fielding a joint candidate after the [[Turkish local elections, 2014|March 2014 local elections]].<ref>{{cite web|url=http://www.trtturk.com/video/detay/chp-ve-mhp-cati-aday-profilini-acikladi.html |title=CHP ve MHP Çatı Aday Profilini Açıkladı |publisher=TRT Türk|accessdate=23 August 2014}}</ref> In an unofficial vote of CHP MPs, [[Eskişehir]] mayor [[Yılmaz Büyükerşen]] was seen as a potential forerunner.<ref>{{cite web|url=http://www.haber7.com/partiler/haber/1161219-chpnin-yilmaz-buyukersen-korkusu |title=CHP'nin Yılmaz Büyükerşen Korkusu |publisher=Haber 7|accessdate=23 August 2014}}</ref> A list of potential candidates which had expressed interest in running, or had been recommended as a candidate of the CHP or its parliamentary sister party DSP ([[Democratic Left Party (Turkey)|Democratic Left Party]]) is as follows.
+
+<gallery perrow="8">
+File:Prof. Ekmeleddin Ihsanoglu (8406391100) (cropped).jpg|'''[[Ekmeleddin İhsanoğlu]]''', former Secretary General of the [[Organisation of Islamic Co-operation]], recommended by [[Kemal Derviş]].<ref name="BBC Türkçe">{{cite web|url=http://www.bbc.co.uk/turkce/haberler/2014/06/140616_catiaday_ihsanoglu_.shtml |title=CHP ve MHP'nin çatı adayı: Ekmeleddin İhsanoğlu|publisher=BBC Türkçe|accessdate=23 August 2014}}</ref><ref name="Çatının Mimarı Kemal Derviş">{{cite web|url=http://sozcu.com.tr/2014/gundem/catinin-mimari-kemal-dervis-534322/ |title=Çatının Mimarı Kemal Derviş|publisher=Sözcü|accessdate=23 August 2014}}</ref>
+File:Kemal Kılıçdaroğlu, VOA.jpg|'''[[Kemal Kılıçdaroğlu]]''', leader of the CHP since 2010, challenged by AKP MP [[Egemen Bağış]].<ref>{{cite web|url=http://www.aksam.com.tr/siyaset/chp-lideri-kilicdaroglu-cumhurbaskani-adayi-olacak-mi/haber-306040 |title=CHP lideri Kılıçdaroğlu Cumhurbaşkanı adayı olacak mı?|publisher=Akşam|accessdate=24 August 2014}}</ref><ref>{{cite web|url=http://www.cnnturk.com/video/turkiye/kilicdaroglu-cumhurbaskanligi-icin-aday-olacak-mi |title=Kılıçdaroğlu, Cumhurbaşkanlığı için aday olacak mı?|publisher=CNN Türk|accessdate=24 August 2014}}</ref><ref>{{cite web|url=http://m.ensonhaber.com/haber.php?id=215502 |title=Egemen Bağış'tan Kılıçdaroğlu'na: Cumhurbaşkanı adayı ol|publisher=En Son Haber|accessdate=24 August 2014}}</ref>
+File:Yılmaz Büyükerşen.jpg|'''[[Yılmaz Büyükerşen]]''', CHP Mayor of [[Eskişehir]].<ref>{{cite web|url=http://www.milliyet.com.tr/yilmaz-buyukersen-cumhurbaskani-teknoloji-1894792/ |title=Yılmaz Büyükerşen Cumhurbaşkanı adayı olacak mı? (Yılmaz Büyükerşen kimdir?)|publisher=Milliyet|accessdate=23 August 2014}}</ref><ref>{{cite web|url=http://www.haberturk.com/gundem/haber/950853-yilmaz-buyukersen-cumhurbaskani-adayi-olacak-mi |title=Yılmaz Büyükerşen Cumhurbaşkanı adayı olacak mı?|publisher=Haber Türk|accessdate=23 August 2014}}</ref>
+File:Kamer Genç crop.JPG|'''[[Kamer Genç]]''', CHP [[Member of Parliament]] for [[Tunceli]].<ref>{{cite web|url=http://www.cnnturk.com/haber/turkiye/kamer-genc-cumhurbaskanligi-adayligini-acikladi |title=Kamer Genç Cumhurbaşkanlığı Adaylığnı açıkladı|publisher=CNN Türk|accessdate=23 August 2014}}</ref><ref>{{cite web|url=http://www.hurriyet.com.tr/gundem/26264538.asp |title=Kamer Genç Cumhurbaşkanlığı adaylığını açıkladı|publisher=Hürriyet|accessdate=23 August 2014}}</ref>
+File:Kemal Dervis.jpg|'''[[Kemal Derviş]]''', former economy minister and [[United Nations]] Development Program Administrator.<ref name="Çatının Mimarı Kemal Derviş"/><ref>{{cite web|url=http://www.haberturk.com/yazarlar/durmus-odabasi/951648-kemal-dervis-aday-olursa |title=Kemal Derviş Aday Olursa|publisher=Haber Türk|accessdate=23 August 2014}}</ref>
+File:Ilker Basbug.jpg|'''[[İlker Başbuğ]]''', former [[Chief of the General Staff (Turkey)|Chief of the General Staff of Turkey]], released from prison in March 2014.<ref>{{cite web|url=http://www.turkiyegazetesi.com.tr/gundem/150677.aspx |title=İlker Başbuğ, Cumhurbaşkanı adayı olacak mı?|publisher=Türkiye Gazetesi|accessdate=23 August 2014}}</ref><ref>{{cite web|url=http://www.cumhuriyet.com.tr/haber/siyaset/62841/Basbug_Cumhurbaskani_adayi_olacak_mi_.html |title=Başbuğ Cumhurbaşkanı adayı olacak mı?|publisher=Cumhuriyet|accessdate=23 August 2014}}</ref><ref>{{cite web|url=http://www.milliyet.com.tr/ilker-basbug-icin-ilginc-iddia/siyaset/detay/1848924/default.htm |title=İlker Başbuğ için ilginç idaa|publisher=Milliyet|accessdate=23 August 2014}}</ref>
+File:Msc2011 Moe032 Cetin neu (cropped).jpg|'''[[Hikmet Çetin]]''', former Minister of Foreign Affairs, parliamentary speaker and CHP leader, recommended by [[Mustafa Sarıgül]].<ref>{{cite web|url=http://www.odatv.com/n.php?n=chpnin-cumhurbaskani-adayi-kim-olacak-2405141200 |title=CHP'nin Cumhurbaşkanı adayı kim olacak?|publisher=Oda TV|accessdate=24 August 2014}}</ref><ref>{{cite web|url=http://www.turkiyegazetesi.com.tr/politika/166705.aspx |title=''Hikmet Çetin'in aday gösterilmesini istedim ama...''|publisher=Türkiye Gazetesi|accessdate=24 August 2014}}</ref><ref name="Hürriyet">{{cite web|url=http://www.hurriyet.com.tr/gundem/26460450.asp |title=CHP'de 'Cumhurbaşkanı adayı kim olmalı' oylaması|publisher=Hürriyet|accessdate=24 August 2014}}</ref>
+File:Masum Turker (cropped).jpg|'''[[Masum Türker]]''', leader of the DSP.<ref>{{cite web|url=http://www.milliyet.com.tr/dsp-nin-cumhurbaskani-adayi-belli/siyaset/detay/1876167/default.htm |title=DSP'nin cumhurbaşkanı adayı belli oldu|publisher=Milliyet|accessdate=23 August 2014}}</ref>
+File:Ümit Boyner (cropped).jpg|'''[[Ümit Boyner]]''', former President of Turkish Industrialists' and Businessmen's Association ([[TÜSİAD]]).<ref>{{cite web|url=http://www.internethaber.com/umit-boynernbspcumhurbaskani-adayi-mi-net-yanit-659379h.htm|title=Ümit Boyner Cumhurbaşkanı adayı mı? Net yanıt!|publisher=İnternet Haber|accessdate=23 August 2014}}</ref>
+File:Mehmet Bekaroglu.jpg|'''[[Mehmet Bekaroğlu]]''', human rights activist, academic and former [[Welfare Party]] MP, recommended by CHP MP [[Muharrem İnce]].<ref>{{cite web|url=http://www.hurriyet.com.tr/gundem/27036695.asp |title=Muharrem İnce, Köşk için sürpriz bir isim önermiş|publisher=Hürriyet|accessdate=23 August 2014}}</ref>
+File:Mehmet Haberal (cropped).jpg|'''[[Mehmet Haberal]]''', CHP [[Zonguldak]] MP, surgeon and founder of [[Başkent University]].<ref>{{cite web|url=http://www.ilkelihaber.com/index.php?id=5580562 |title=Kılıçdaroğlu'nun Kafasındaki 3 Cumhurbaşkanı Adayı|publisher=İlkeli Haber|accessdate=1 September 2014}}</ref>
+File:Orhanpamuk2 cropped.jpg|'''[[Orhan Pamuk]]''', novelist, screenwriter, academic and recipient of the 2006 [[Nobel Prize in Literature]].<ref>{{cite web|url=http://www.aydinlikgazete.com/mansetler/43894-kemal-kilicdaroglu-gonlumden-gecen-aday-orhan-pamuktu.html |title=Kemal Kılıçdaroğlu: Gönlümden geçen aday Orhan Pamuk’tu|publisher=Aydınlık|accessdate=20 September 2014}}</ref><ref>{{cite web|url=http://www.takvim.com.tr/guncel/2014/06/21/orhan-pamuku-da-dusunduk|title=Orhan Pamuk'u da düşündük|publisher=Takvim|accessdate=20 September 2014}}</ref>
+</gallery>
+
+Other potential candidates included:
+
+*'''Adnan Menderes''' - grandson of former Prime Minister [[Adnan Menderes]], professor at [[Dokuz Eylül University]]<ref name="Hürriyet"/>
+*'''[[Deniz Baykal]]''' - former leader of the CHP<ref name="Sözcü">{{cite web|url=http://sozcu.com.tr/2014/gundem/chpde-cumhurbaskanligi-icin-ikinci-aday-543748/ |title=CHP’de Cumhurbaşkanlığı için ikinci aday!|publisher=Sözcü|accessdate=23 August 2014}}</ref><ref>{{cite web|url=http://www.aktifhaber.com/baykal-cumhurbaskani-adayi-olacak-mi-975529h.htm |title=BAYKAL CUMHURBAŞKANI ADAYI OLACAK MI?|publisher=Aktif Haber|accessdate=23 August 2014}}</ref>
+*'''[[Mansur Yavaş]]''' - CHP mayoral candidate for [[Ankara]] in the [[Turkish local elections, 2014|2014 local elections]]<ref name="Hürriyet"/>
+*'''[[Metin Feyizoğlu]]''' - President of the [[Turkish Bars Association]]<ref>{{cite web|url=http://www.radikal.com.tr/politika/metin_feyzioglu_cumhurbaskani_adayi_olacak_mi-1193310 |title=Metin Feyzioğlu Cumhurbaşkanı adayı olacak mı?|publisher=Radikal|accessdate=26 August 2014}}</ref><ref>{{cite web|url=http://www.cnnturk.com/haber/turkiye/metin-feyzioglu-cumhurbaskani-adayi-mi |title=Metin Feyzioğlu, cumhurbaşkanı adayı mı?|publisher=CNN Türk|accessdate=26 August 2014}}</ref>
+*'''[[Haşim Kılıç]]''' - President of the [[Constitutional Court of Turkey|Constitutional Court]]<ref name="Sözcü"/><ref>{{cite web|url=http://sozcu.com.tr/2014/gunun-icinden/chpnin-cumhurbaskani-adayi-kim-486161/ |title=CHP'nin Köşk adayı Anayasa Mahkemesi Başkanı Haşim Kılıç mı?|publisher=Sözcü|accessdate=24 August 2014}}</ref>
+*'''[[Emine Ülker Tarhan]]''' - CHP [[Member of Parliament]] for [[Ankara]]<ref name="Sözcü"/><ref>{{cite web|url=http://www.hurriyet.com.tr/gundem/26712903.asp |title=CHP'de Emine Ülker Tarhan 'aday değilim' dedi|publisher=Hürriyet|accessdate=23 August 2014}}</ref>
+*'''[[Meral Akşener]]''' - Vice speaker of the [[Grand National Assembly]] and former Interior Minister. MHP MP from [[İstanbul]] and supported by the CHP<ref>{{cite web|url=http://haber.rotahaber.com/chpnin-cumhurbaskani-adayi-meral-aksener-mi-olacak_445512.html|title=CHP'nin Cumhurbaşkanı adayı Meral Akşener mi olacak?|publisher=Rota Haber|accessdate=23 August 2014}}</ref>
+*'''[[Yaşar Kemal]]''' - writer of [[Kurdish people|Kurdish]] origin who has long been a candidate for the Nobel Prize in literature<ref>{{cite web|url=http://www.ahaber.com.tr/Gundem/2014/06/21/kilicdaroglu-orhan-pamuku-da-dusunduk|title=Kılıçdaroğlu: Orhan Pamuk'u da düşündük!|publisher=A Haber|accessdate=20 September 2014}}</ref><ref>{{cite web|url=http://www.yenieksen.com/kilicdaroglu-yasar-kemal-ve-orhan-pamuku-da-dusunduk/|title=Kılıçdaroğlu: Yaşar Kemal ve Orhan Pamuk'u da düşündük!|publisher=Yenieksen|accessdate=20 September 2014}}</ref>
+
+====Nationalist Movement Party (MHP)====
+
+Prior to joint attempts by the CHP and MHP to nominate a single candidate, the following list contains Nationalist Movement Party politicians who were speculated to be potential MHP presidential candidates, as well as the final agreed candidate Ekmeleddin İhsanoğlu.
+
+<gallery perrow="2">
+File:Prof. Ekmeleddin Ihsanoglu (8406391100) (cropped).jpg|'''[[Ekmeleddin İhsanoğlu]]''', former Secretary General of the [[Organisation of Islamic Co-operation]], recommended by [[Kemal Derviş]].<ref name="BBC Türkçe"/><ref name="Çatının Mimarı Kemal Derviş"/>
+File:Devlet Bahçeli TBMM.jpg|'''[[Devlet Bahçeli]]''', MHP leader since 1997.<ref>{{cite web|url=http://www.son.tv/haber-260685 |title=MHP Cumhurbaşkanı adayı - MHP Köşk adayı!|publisher=Son.tv|accessdate=23 August 2014}}</ref><ref>{{cite web|url=http://www.haberhergun.com/3-gundem/mhp-lideri-bahceli-cumhurbaskanligi-icin-aday-olacak-mi-h5991.html|title=MHP lideri Bahçeli Cumhurbaşkanlığı için aday olacak mı?|publisher=Haber Hergün|accessdate=23 August 2014}}</ref>
+</gallery>
+
+Other potential candidates included:
+
+*'''[[Meral Akşener]]''' - Vice speaker of the [[Grand National Assembly]] and former Interior Minister. MHP MP from [[İstanbul]] and supported by the CHP<ref>{{cite web|url=http://www.aydinlihaber.com/siyaset/mhpnin-cumhurbaskani-adayi-kim-bomba-bir-cevap-h53065.html|title=MHP'nin Cumhurbaşkanı adayı kim? Bomba bir cevap|publisher=Aydınlı Haber|accessdate=23 August 2014}}</ref>
+*'''[[Tuğrul Türkeş|Yıldırım Tuğrul Türkeş]]''' - eldest son of MHP founder [[Alparslan Türkeş]] and MP for [[Ankara]]<ref>{{cite web|url=http://www.milliyet.com.tr/muhalefetin-kosk-adayi-kim-iste/siyaset/detay/1861950/default.htm|title=Muhalefetin Köşk adayı kim? İşte aday listesi|publisher=Milliyet|accessdate=23 August 2014}}</ref>
+*'''[[Engin Alan]]''' - former general and MHP İstanbul MP charged for his role in the [[Sledgehammer (coup plan)|Sledgehammer Coup Plan]]<ref>{{cite web|url=http://www.hikayeler.net/yazilar/yazi-yazici.asp?id=181161|title=2014 Cumhurbaşkanı Adayları Kimler Olacak?|publisher=Hikayeler|accessdate=23 August 2014}}</ref>
+*'''[[Oktay Vural]]''' - MHP Member of Parliament from [[İzmir]] and MHP parliamentary group leader
+
+====Peoples' Democratic Party (HDP)====
+
+The [[Peoples' Democratic Party]] (HDP) nominated co-leader Selahattin Demirtaş as their presidential candidate on 30 June 2014.<ref name="ntvmsnbc.com">{{cite web|url=http://www.ntvmsnbc.com/id/25523738/ |title=HDP'nin adayı Selahattin Demirtaş – Türkiye |publisher=ntvmsnbc.com |date=1 January 1970}}</ref> [[Figen Yüksekdağ]], the HDP's other co-leader, was also seen as a potential candidate especially since the party was a strong supporter of women's and minority rights.<ref name="Voice of America">{{cite web|url=http://www.amerikaninsesi.com/content/selahattin-demirtas-resmen-hdp-nin-cumhurbaskani-adayi/1947009.html |title='İçimize Sinmeyen HDP Adayının Kadın Olmaması' |publisher=Voice of America}}</ref>
+
+<gallery perrow="2">
+File:Selahattin Demirtaş (cropped).jpg|'''[[Selahattin Demirtaş]]''', co-leader of the HDP.<ref>{{cite web|url=http://www.ntvmsnbc.com/id/25523738/ |title=HDP'nin adayı Selahattin Demirtaş – Türkiye |publisher=ntvmsnbc.com}}</ref>
+File:Figen Yüksekdağ.jpg|'''[[Figen Yüksekdağ]]''', co-leader of the HDP.<ref name="Voice of America"/><ref>{{cite web|url=http://www.habervaktim.com/haber/375112/hdpnin-cumhurbaskani-adayi-belli-oldu.html |title=HDP'nin Cumhurbaşkanı Adayı Belli Oldu |publisher=Haber Vaktim}}</ref>
+</gallery>
+
+===List of parties by presidential candidates===
+
+{|class="wikitable collapsible collapsed" style="border:none;width:60%"
+|-
+!scope="col"|List of parties by presidential candidates
+|-
+|style="padding:0;border:none"|
+{|class="wikitable sortable" style="margin:0;width:100%"
+|-
+! scope="col"|Abbreviation !! scope="col"|Party name in English !! scope="col"|Presidential candidate
+|-
+| AK Party || [[Justice and Development Party (Turkey)|Justice and Development Party]] || style="background:#ffd42a;" | Recep Tayyip Erdoğan<ref>{{cite news|title=Başbakan Erdoğan, AK Parti'nin Cumhurbaşkanı adayı|url=http://www.zaman.com.tr/politika_basbakan-erdogan-ak-partinin-cumhurbaskani-adayi_2228051.html|accessdate=21 July 2014|work=Zaman|agency=1 July 2014}}</ref>
+|-
+| ANAP || [[Motherland Party (Turkey)|Motherland Party]] || style="background:#ffd42a;" | Recep Tayyip Erdoğan<ref>{{cite web|url=http://www.haber7.com/ic-politika/haber/1184066-ozalin-partisi-hangi-ismi-destekleyecek |title=Özal'ın partisi hangi ismi destekleyecek? – İç Politika Haberleri |publisher=Haber7.com |date=}}</ref>
+|-
+| CHP || [[Republican People's Party (Turkey)|Republican People's Party]] || style="background:#ff6c6c;" | Ekmeleddin İhsanoğlu<ref name="ekmeleddin" >{{cite web|title=BBP announces its support for presidential candidate İhsanoğlu|url=http://www.todayszaman.com/newsDetail.action;jsessionid=StOugofUkzPYbwuMBAXvxWa4?newsId=353193&columnistId=0|publisher=Today's Zaman|accessdate=21 July 2014|date=16 July 2014}}</ref>
+|-
+| MHP || [[Nationalist Movement Party]] || style="background:#ff6c6c;" | Ekmeleddin İhsanoğlu<ref name="ekmeleddin" />
+|-
+| DP || [[Democratic Party (Turkey, current)|Democrat Party]] || style="background:#ff6c6c;" | Ekmeleddin İhsanoğlu<ref name="ekmeleddin" />
+|-
+| DSP || [[Democratic Left Party (Turkey)|Democratic Left Party]] || style="background:#ff6c6c;" | Ekmeleddin İhsanoğlu<ref name="ekmeleddin" />
+|-
+| BTP || [[Independent Turkey Party]] || style="background:#ff6c6c;" | Ekmeleddin İhsanoğlu<ref name="ekmeleddin" />
+|-
+| LDP || [[Liberal Democratic Party (Turkey)|Liberal Democratic Party]] || style="background:#ff6c6c;" | Ekmeleddin İhsanoğlu<ref>{{cite news|title=BBP becomes seventh party to lend support to İhsanoğlu|url=http://www.hurriyetdailynews.com/bbp-becomes-seventh-party-to-lend-support-to-ihsanoglu.aspx?pageID=238&nID=69227&NewsCatID=338|accessdate=21 July 2014|work=Hürriyet Daily News|date=16 July 2014}}</ref>
+|-
+| BBP || [[Great Union Party]] || style="background:#ff6c6c;" | Ekmeleddin İhsanoğlu<ref name="ekmeleddin" />
+|-
+| DEV-Parti || Revolutionary People's Party || style="background:#ff6c6c;" | Ekmeleddin İhsanoğlu<ref name=milliyet>{{cite news|title=İhsanoğlu'na iki partiden daha destek geldi|url=http://www.milliyet.com.tr/ihsanoglu-na-iki-partiden-daha/siyaset/detay/1913777/default.htm|accessdate=21 July 2014|agency=Milliyet|publisher=Milliyet|date=17 July 2014|language=Turkish}}</ref>
+|-
+| TSIP || Socialist Workers' Party of Turkey || style="background:#ff6c6c;" | Ekmeleddin İhsanoğlu<ref name="milliyet" />
+|-
+| DYP || [[True Path Party (2007)|True Path Party]] || style="background:#ff6c6c;" | Ekmeleddin İhsanoğlu<ref>{{cite news|title=Ekmel Bey'e bir parti daha desteğini açıkladı|url=http://www.odatv.com/n.php?n=ekmel-beye-bir-parti-daha-destegini-acikladi-2107141200|accessdate=21 July 2014|publisher=Odatv.com|date=21 July 2014|language=Turkish}}</ref>
+|-
+| HAP || Rights and Justice Party || style="background:#ff6c6c;" | Ekmeleddin İhsanoğlu<ref>{{cite news|title=http://www.hurriyet.com.tr/gundem/26873031.asp|publisher=Hurriyet.com.tr|date=23 July 2014|language=Turkish}}</ref>
+|-
+| KP || Women's Party || style="background:#ff6c6c;" | Ekmeleddin İhsanoğlu<ref>{{cite news|title=http://www.samanyoluhaber.com/politika/Iki-partiden-daha-Ihsanogluna-destek-geldi/1056972/|publisher=Samanyolu Haber|date=24 July 2014|language=Turkish}}</ref>
+|-
+| TURK Party || [[Social Reconciliation Reform and Development Party]] || style="background:#ff6c6c;" | Ekmeleddin İhsanoğlu<ref>{{cite news|title=http://www.todayszaman.com/son-dakika_turk-party-decides-to-support-presidential-candidate-ihsanoglu_353789.html|publisher=Today's Zaman|date=24 July 2014}}</ref>
+|-
+| BAK || Great Anatolian Development Movement || style="background:#ff6c6c;" | Ekmeleddin İhsanoğlu<ref>{{cite news|title=http://www.sondakika.com/haber/haber-ihsanoglu-na-destek-veren-parti-sayisi-14-e-6332267/|date=2 August 2014|language=Turkish}}</ref>
+|-
+| HDP || [[Peoples' Democratic Party]] || style="background:#F781F3;" | Selahattin Demirtaş<ref name=HDP>{{cite news|title=http://diclehaber.com/tr/news/content/view/408823?from=3672903013|url=http://diclehaber.com/tr/news/content/view/408823?from=3672903013|accessdate=21 July 2014|agency=Dicle Haber|date=2 July 2014}}</ref>
+|-
+| EMEP || [[Labour Party (Turkey)|Labour Party]] || style="background:#F781F3;" | Selahattin Demirtaş<ref name="HDP" />
+|-
+| ESP || [[Socialist Party of the Oppressed]] || style="background:#F781F3;" | Selahattin Demirtaş<ref>{{cite news|title=Selahatin Demirtaş yeniden aday|accessdate=22 July 2014|work=http://www.ahaber.com.tr/Gundem/2014/06/17/selahatin-demirtas-yeniden-aday|agency=17 June 2014|language=Turkish}}</ref>
+|-
+| EHP ||Workers' Movement Party || style="background:#F781F3;" | Selahattin Demirtaş<ref>{{cite web|title=EHP Cumhurbaşkanlığı siyasetini açıkladı|url=http://www.ehp.org.tr/aciklamalar/1206/ehp-cumhurbaskanligi-siyasetini-acikladi|accessdate=17 July 2014|language=Turkish}}</ref>
+|-
+| DSİP || [[Revolutionary Socialist Workers' Party (Turkey)|Revolutionary Socialist Workers' Party]] || style="background:#F781F3;" | Selahattin Demirtaş<ref>{{cite web|title=DSİP'in CHP ve MHP ile hiçbir ilişkisi yoktur: Adayımız Demirtaş!|url=http://www.marksist.org/haberler/15467-dsipin-chp-ve-mhp-ile-hicbir-iliskisi-yoktur-adayimiz-demirtas|website=21 July 2014|publisher=Marksist.org|accessdate=21 July 2014|language=Turkish}}</ref>
+|-
+| SDP || [[Socialist Democracy Party]]  || style="background:#F781F3;" | Selahattin Demirtaş<ref>{{cite web|url=http://www.radikal.com.tr/turkiye/selahattin_demirtas_sdpnin_hedef_alinmasi_tesaduf_degil-1137159 |title=Selahattin Demirtaş: SDP'nin hedef alınması tesadüf değil – Türkiye Haberleri |publisher=Radikal |date=}}</ref>
+|-
+| YSGP || [[Greens and the Left Party of the Future]] ||style="background:#F781F3;" | Selahattin Demirtaş<ref>{{cite web|url=http://www.yesillervesolgelecek.org/diyoruz-ki/basin-aciklamalari/2014-07-09#.U8pMyU2KCAQ |title=Cumhurbaşkanı Adayımız Bellidir – Basın Açıklamaları :: Yeşiller ve Sol Gelecek Partisi |publisher=Yesillervesolgelecek.org |date=}}</ref>
+|-
+| SYKP || [[Socialist Party of Refoundation]] ||style="background:#F781F3;" | Selahattin Demirtaş<ref>{{cite web|url=http://siyasihaber.org/dosya/demokratik-degisim-barisci-turkiye |title=Demokratik değişim, barışçı Türkiye |publisher=Siyasi Haber |date=}}</ref>
+|-
+| MLKP || [[Marxist–Leninist Communist Party (Turkey)|Marxist–Leninist Communist Party]] || style="background:#F781F3;" | Selahattin Demirtaş<ref>{{cite news|title=Köln'de binler Demirtaş için buluştu|url=http://www.etha.com.tr/Haber/2014/07/19/politika/kolnde-binler-demirtas-icin-bulustu/|accessdate=22 July 2014|agency=19 July 2014|language=Turkish}}</ref>
+|-
+| TKP || [[Communist Party of Turkey (current)|Communist Party of Turkey]] || None
+|-
+| SP || [[Felicity Party]] || None<ref>{{cite news|title=SP leader says his party will not vote for any presidential candidate|url=http://www.todayszaman.com/newsDetail.action?newsId=353788|accessdate=23 July 2014|agency=Today's Zaman|date=23 July 2014}}</ref>
+|-
+| HEPAR || [[Rights and Equality Party]] || None
+|-
+| ÖDP || [[Freedom and Solidarity Party]] || None<ref>{{cite web|author=Nainesh Vaid |url=http://www.birgun.net/news/view/odp-cumhurbaskanligi-secimindeki-tavrini-acikladi/1288 |title=BİRGUN |publisher=BİRGUN |date=}}</ref><ref>{{cite web|url=http://www.firatnews.com/news/guncel/odp-cumhurbaskanligi-secimlerinde-secenek-bulamadi.htm |title=ÖDP Cumhurbaşkanlığı seçimlerinde 'seçenek' bulamadı! &#124; ANF |publisher=Firatnews.com |date=}}</ref>
+|-
+| YURT-P || [[Homeland Party (Turkey)|Homeland Party]] || None
+|-
+| HAK-PAR || Rights and Freedoms Party || None
+|-
+| MP || [[Nation Party (Turkey, 1992)|Nation Party]] || None
+|-
+| HÜDA PAR || [[Free Cause Party]] || None
+|-
+| İP || [[Workers' Party (Turkey)|Workers' Party]] ||None
+|}
+|}
+
+==Campaigns==
+
+The [[Supreme Electoral Council of Turkey]] declared that the campaigning for the first round of the election would take place between 11 July and 9 August. For the run-off planned for 24 August, campaigning would have taken place between 11 and 23 August.<ref>http://cetinkaya.av.tr/1-Ajanda-yuksek-secim-kurulu-kararı-187</ref> The campaigns of all three candidates centred mainly on the [[Israel–Gaza conflict|2014 Israel–Gaza conflict]], the peace process with [[PKK]] rebels, the [[Gezi Park protests]] and 17 December 2013 [[2013 corruption scandal in Turkey|government corruption scandal]].
+
+===Erdoğan campaign===
+
+[[File:2014 Turkish Presidential Election campaign.jpg|thumb|left|Posters of candidates Erdoğan, Demirtaş and İhsanoğlu in [[Mecidiyeköy]], [[Istanbul]]]]
+{{main|Recep Tayyip Erdoğan Presidential Campaign, 2014}}
+
+Incumbent Prime Minister Recep Tayyip Erdoğan formally announced his candidacy for the Presidency on 1 July 2014 in a speech that lasted just over an hour.<ref name="CNN Türk"/><ref>{{cite news|title=AK Parti'nin cumhurbaşkanı adayı Recep Tayyip Erdoğan|url=http://www.hurriyet.com.tr/gundem/26719347.asp|accessdate=3 August 2014|work=Hürriyet|agency=1 July 2014}}</ref> Speculation that he would be the AK Party's candidate was widespread long before the announcement.<ref name="Protothema News"/><ref>[http://www.dailystar.com.lb/News/Middle-East/2014/Jun-22/261109-turkey-pm-erdogan-says-ak-party-is-not-one-mans-party ]{{Dead link|date=August 2014}}</ref> On the same day, the Erdoğan logo was unveiled, and received criticism for bearing resemblance to the [[Barack Obama|Obama]] [[United States presidential election, 2008|2008 presidential election]] campaign logo, as well as the ''Holiday Place'' logo.<ref>{{cite web|author=7 August 2014 5:56 pm EDT |url=http://www.huffingtonpost.com/alparslan-akku/erdogans-presidential-cam_b_5567633.html |title=Erdogan's Presidential Campaign Bears a Logo &#124; Alparslan Akkuş |publisher=Huffingtonpost.com |date=}}</ref> A tweet from the [[Ministry of Finance (Turkey)|finance minister]], [[Mehmet Şimşek]], which claimed that the logo has [[Islamic calligraphy|Arabic calligraphy]] of the [[Muhammad|Prophet Muhammad's]] name also sparked debate over the use of religion in the political campaign.<ref name="todayszaman2">{{cite web|url=http://www.todayszaman.com/news-352346-erdogans-logo-ignites-debate-over-political-abuses-of-religion.html |title=Erdoğan's logo ignites debate over political abuses of religion |publisher=Todayszaman.com |date=7 July 2014}}</ref> Erdoğan's campaign slogan is "''Milli İrade, Milli Güç, Hedef 2023''" (''National Will, National Strength, Target 2023''). On 11 July, Erdoğan unveiled a new campaign song and slogan, "''Yeni Türkiye Yolunda Demokrasi, Refah, İtibar''" (''Democracy, Prosperity and Prestige on the Road to a New Turkey'').<ref>{{cite web|url=http://www.internethaber.com/iste-erdoganin-secim-slogani-696355h.htm |title=İşte Erdoğan'ın seçim sloganı! haberi |publisher=Internethaber.com |date=}}</ref>
+
+Erdoğan's campaign has been dominated by electoral rallies, beginning in [[Samsun]] on 5 July and then moving to [[Erzurum]], mimicking [[Mustafa Kemal Atatürk]]'s route which he took at the start of the [[Turkish War of Independence]].<ref>{{cite web|url=http://www.beyazgazete.com/video/webtv/siyaset-3/cumhurbaskani-adayi-ve-basbakan-erdogan-in-samsun-mitingi-427047.html |title=Cumhurbaşkanı adayı ve Başbakan Erdoğan'ın Samsun Mitingi |publisher=Beyazgazete.com |date=}}</ref> His rally speeches mainly centred on his achievements as Prime Minister and also contained frequent attacks on both the opposition as well as [[Fethullah Gülen]], the leader of the [[Hizmet]] Movement living in [[Pennsylvania]]. During his [[Hatay]] rally on 21 July, he accused Gülen of not speaking out on behalf of the [[Palestinian people|Palestinians]] in [[Gaza Strip|Gaza]] and accused [[Israel]] of "following in the footsteps of [[Hitler]]".<ref>{{cite web|url=http://www.ajanskonya.net/siyaset/recep-tayyip-erdogan-hatay-mitingi-konusmasinda-h48196.html |title=Recep Tayyip Erdoğan Hatay Mitingi Konuşmasında |publisher=Ajanskonya.net |date=}}</ref><ref>{{cite web|url=http://www.ensonhaber.com/basbakan-erdoganin-hatay-mitingi-konusmasi-2014-03-22.html |title=Başbakan Erdoğan'ın Hatay mitingi konuşması İZLE |publisher=En son haber |date=22 March 2014}}</ref> During his [[Kahramanmaraş]] rally on 1 August, he claimed that the opposition CHP was supporting Israel during the Gaza crisis.<ref>{{cite web|url=http://www.aa.com.tr/tr/politika/367381--basbakan-erdogan-kahramanmarasta |title=CHP Hitler'in izinden giden İsrail'e sahip çıkıyor – Anadolu Ajansı |publisher=Aa.com.tr |date=}}</ref>
+
+During his electoral rally in [[Van (Turkey)|Van]], Erdoğan attacked his rival Ekmeleddin İhsanoğlu for allegedly mistaking the [[Independence March]], the Turkish [[National Anthem]], for a poem composed for the fallen soldiers at [[Çanakkale]] during the [[Gallipoli Campaign]]. In his [[Kahramanmaraş]] rally on 1 August, he showed the crowd a video of İhsanoğlu misreading the Independence March.<ref>{{cite web|url=http://www.milliyet.com.tr/basbakan-kahramanmaras-ta-konusuyor/siyaset/detay/1919657/default.htm |title=Erdoğan İhsanoğlu'nu bu görüntülerle vurdu – Milliyet Haber |publisher=Milliyet.com.tr |date=}}</ref>
+
+In addition to his electoral rallies, AK Party activists have also launched a door-to-door operation in order to gather support by delivering food, clothing and other items to families. According to the [[OSCE]], the Erdoğan campaign has also organised [[iftar]] tents during the month of [[Ramadan]] and has distributed toys and women's scarves at electoral rallies.<ref name="hurriyetdailynews.com">{{cite web|url=http://www.hurriyetdailynews.com/osce-slams-use-of-public-funds-for-turkish-pm-erdogans-presidential-campaign.aspx?pageID=238&nID=69880&NewsCatID=338 |title=OSCE slams use of public funds for Turkish PM Erdoğan's presidential campaign – POLITICS |publisher=Hurriyetdailynews.com |date=13 September 2011}}</ref> On 15 July 2014, the government began a huge distribution of free coal to families in [[İzmir]].<ref>{{cite web|url=http://gundem.bugun.com.tr/secim-oncesi-bedava-komur-dagitimi-haberi/1187562 |title=İzmir'de seçim öncesi bedava kömür dağıtımı |publisher=Gundem.bugun.com.tr |date=}}</ref>
+
+On 9 August, Erdoğan announced that he had received 1,350,796 donations, totaling [[Turkish Lira|₺]]55,260,798 (approximately [[US Dollar|US$]]25,560,037).<ref>{{cite web|url=http://www.aksam.com.tr/siyaset/iste-cumhurbaskani-adaylarina-yapilan-bagis-miktari/haber-330495 |title=İşte cumhurbaşkanı adaylarına yapılan bağış miktarı |publisher=Akşam |date=}}</ref> The scale of the donations and their magnitude in comparison with the other two candidates' funds resulted in several allegations of fraud being made by the political opposition.
+
+===İhsanoğlu campaign===
+[[Ekmeleddin İhsanoğlu]] was announced as the joint candidate of the [[Republican People's Party (Turkey)|Republican People's Party]] (CHP) and the [[Nationalist Movement Party]] (MHP) on 16 June 2014.<ref>[http://www.haberturk.com/polemik/haber/958500-chp-ve-mhpnin-cati-adayi-belli-oldu-ekmeleddin-ihsanoglu-kimdir ]{{Dead link|date=August 2014}}</ref><ref>{{cite web|url=http://www.sabah.com.tr/Gundem/2014/06/16/iste-muhalefetin-kosk-adayi |title=Muhafeletin "çatı adayı" belli oldu-Sabah – 16 Haziran 2014 |publisher=Sabah.com.tr |date=16 June 2014}}</ref> The decision drew criticism from many CHP supporters due to his former role as Secretary General of the [[Organisation of Islamic Cooperation]], which some members of the CHP saw as an organisation which lacked secular and [[Kemalist]] credentials.<ref>{{cite web|url=http://www.radikal.com.tr/politika/ekmeleddin_ihsanoglu_ataturk_ve_cumhuriyet_dusmani_mi-1197651 |title=Ekmeleddin İhsanoğlu, Atatürk ve Cumhuriyet düşmanı mı? – Politika Haberleri |publisher=Radikal |date=18 June 2014}}</ref> An opinion poll on show of 23 Juneed that only 32% of CHP supporters were happy with their party's choice of candidate, compared to 75% of MHP supporters. Meanwhile, 68% of CHP supporters were dissatisfied with the decision, compared to only 25% of MHP supporters.<ref>{{cite web|url=http://www.ilk-kursun.com/haber/186271/cati-adayli-ilk-secim-anketi/ |title="Çatı aday"lı ilk seçim anketi – İlk Kurşun Gazetesi |publisher=Ilk-kursun.com |date=}}</ref> In response to the controversy over his secular credentials, İhsanoğlu stated on 26 June that he thought of [[Mustafa Kemal Atatürk]] as a "national hero" and that he had defended secularism in many of his books.<ref>{{cite web|url=http://www.youtube.com/watch?v=QJDNG-CNCrg |title=Kemal Kılıçdaroğlu ve Ekmeleddin İhsanoğlu Ortak Basın Toplantısı Yaptı !!! (26.06.2014) |publisher=YouTube |date=}}</ref> On 4 July, he stated that he is "not an enemy of Atatürk," and that "incorporating religion into politics will lead to trouble."<ref>{{cite web|url=http://www.haber7.com/roportaj/haber/1176363-ekmeleddin-ihsanoglu-laikligi-savunuyorum |title=Ekmeleddin İhsanoğlu: Laikliği savunuyorum – RÖPORTAJ Haberleri |publisher=Haber7.com |date=}}</ref> Former CHP leader [[Deniz Baykal]], who was seen as a potential CHP nominee, criticised İhsanoğlu's candidacy, stating that the CHP and MHP should have held a vote amongst their members to chose a candidate.<ref>{{cite web|url=http://www.egedesonsoz.com/haber/Baykal-dan-cok-sert-cati-aday-aciklamalari/872174 |title=Baykal dan çok sert çatı aday açıklamaları |publisher=Egedesonsoz.com |date=23 June 2014}}</ref><ref>{{cite web|url=http://www.erkenhaberal.com/baykaldancati-aday-icin-ilk-tepki/ |title=Baykalâ€™danâ€™Ă§atÄą adayâ€™ iĂ§in ilk tepki |publisher=ErkenHaberAl |date=14 May 2014}}</ref>
+
+[[File:Ekmek İçin Ekmeleddin (2014 cumhurbaşkanlığı seçim sloganı).png|230px|thumbnail|right|"Ekmek İçin Ekmeleddin" logo]]
+On 7 July, İhsanoğlu stated that he would not base his campaign on election rallies, stating, "how right is it to force people outside under the heat in this holy month of [[Ramadan]]? When are we going to hold the rallies, before [[sahur]] or after [[iftar]]? We are visiting our provinces and districts, meeting local leaders and visiting our people." He also expressed his wish to hold a live televised debate with Erdoğan.<ref>{{cite web|author=Barış Yarkadaş |url=http://www.gercekgundem.com/siyaset/55278/iste-ihsanoglunun-miting-yapmama-nedeni |title=İşte İhsanoğlu'nun miting yapmama nedeni – Gerçek Gündem |publisher=Gercekgundem.com |date=}}</ref><ref>{{cite web|url=http://www.samanyoluhaber.com/politika/Ekmeleddin-Ihsanoglu-neden-miting-yapmadigini-acikladi/1056479/ |title=İhsanoğlu: Mübarek Ramazan'da insanlara mitingle neden zulmedelim? Haberleri, En Son Haber |publisher=Samanyolu Haber |date=}}</ref><ref>{{cite web|url=http://www.avrupagazete.com/mobile/turkiye/92903-ekmeleddin-ihsanoglu-nun-miting-yapmama-nedeni.html |title=Ekmeleddin İhsanoğlu'nun miting yapmama nedeni &#124; AVR |publisher=Avrupagazete.com |date=10 July 2014}}</ref> Following the conclusion of Ramadan, İhsanoğlu held his first election rally in [[Hatay]] on 2 August, reiterating his support for state secularism.<ref>{{cite web|url=http://videonuz.ensonhaber.com/izle/ekmeleddin-ihsanoglu-ilk-kez-hatay-da-miting-yapti |title=Ekmeleddin İhsanoğlu ilk kez Hatay'da miting yaptı |publisher=Videonuz.ensonhaber.com |date=2 August 2014}}</ref><ref>{{cite web|url=http://www.ensonhaber.com/ekmeleddin-ihsanoglu-ilk-kez-hatayda-miting-yapti-2014-08-02.html |title=Ekmeleddin İhsanoğlu ilk kez Hatay'da miting yaptı |publisher=En son haber |date=2 August 2014}}</ref> İhsanoğlu's campaign slogan is "''Ekmek için Ekmeleddin''" (''Ekmeleddin for bread''), other slogans which will be used for the campaign include "Ekmeleddin to cultivate love, to cultivate prosperity and for bread." "Ekmek" means "to cultivate" at the same time.<ref>{{cite web|url=http://www.dailysabah.com/politics/2014/07/10/ihsanoglu-announces-his-election-campaign-program |title=İhsanoğlu announces his election campaign program &#124; Politics |publisher=Daily Sabah |date=}}</ref>
+
+Following Erdoğan's accusation that İhsanoğlu did not know the [[Independence March]], İhsanoğlu responded by saying that since the author of the March, [[Mehmet Akif Ersoy]] was the best friend of his father, he had already learnt the anthem as a baby.<ref>{{cite web|url=http://www.zaman.com.tr/politika_ekmeleddin-ihsanoglu-istiklal-marsi-mevzuu-yanlis-yansitildi_2235160.html |title=Ekmeleddin İhsanoğlu: İstiklal Marşı mevzuu yanlış yansıtıldı |publisher=ZAMAN |date=}}</ref> In a statement, he claimed that the video that Erdoğan showed during his [[Kahramanmaraş]] rally was "doctored," and that he had "translated this unrivalled piece into [[Arabic]], how is it possible that I wouldn't know it?"<ref>http://www.cumhuriyet.com.tr/haber/turkiye/100717/ihsanoglu_ndan_istiklal_Marsi_aciklamasi.html</ref> On 2 August, the pro-opposition newspaper [[Sözcü]] published footage of Recep Tayyip Erdoğan himself misreading the Independence March.<ref>{{cite web|author=Ağustos 2, 2014 |url=http://sozcu.com.tr/2014/gundem/erdoganda-istiklal-marsini-yanlis-okumus-568963/ |title=Erdoğan'da istiklal Marşı'nı yanlış okumuş!- Sözcü Gazetesi |publisher=Sozcu.com.tr |date=2 August 2014}}</ref>
+
+On 16 July, İhsanoğlu visited the Palestinian embassy in [[Ankara]], denying reports that he had said on 4 July that [[Turkey]] should remain "neutral" in in the Israeli-Palestinian issue.<ref>{{cite web|url=http://www.haber7.com/televizyon/haber/1176287-ihsanoglundan-sok-filistin-ve-israil-yorumu |title=İhsanoğlu'ndan şok Filistin ve İsrail yorumu – Televizyon Haberleri |publisher=Haber7.com |date=}}</ref><ref>{{cite web|url=http://gundem.bugun.com.tr/noktayi-boyle-koydu-haberi/1187558 |title=Ekmeleddin İhsanoğlu'ndan Filistin açıklaması |publisher=Gundem.bugun.com.tr |date=}}</ref> In a statement, he said that "I have never advocated Turkish neutrality. You cannot be neutral between the cruel and the oppressed."<ref>{{cite web|url=http://hergunmedya.com/haber/ekmeleddin-ihsanoglu-filistin-devleti-buyukelciligini-ziyaret-etti/6439/ |title=Ekmeleddin İhsanoğlu Filistin Devleti Büyükelçiliği'ni ziyaret etti &#124; Haberler > SİYASET |publisher=Hergunmedya.com |date=16 July 2014}}</ref> On 19 July, he stated that Palestine should take their case to the [[International Criminal Court]].<ref>{{cite web|url=http://www.haberturk.com/gundem/haber/971519-ihsanoglu-filistin-uluslararasi-ceza-mahkemesine-gitmeli |title=İhsanoğlu: Filistin Uluslararası Ceza Mahkemesi'ne gitmeli |publisher=Haberturk.com |date=19 July 2014}}</ref>
+
+In his vision, İhsanoğlu vowed to protect democracy, the rule of law, the separation of powers, the principles of Atatürk and national unity. He also advocated waiving the debts of Turkey's poorest citizens. He further stressed the need for greater involvement of non-governmental organisations as well as local authorities in the decision making process in order to strengthen democracy. In addition, he stresses the importance of environmental protection, greater rights to women and educational assistance to the nation's poorest children in order to turn Turkey into a "nation of knowledge" such as [[South Korea]]. İhsanoğlu states that because he is not the candidate of a single party, he would be able to solve national tensions between the opposition and government as well as bring about peace and stability to both Turkey and to the world through foreign policy.<ref>{{cite web|url=http://ihsanoglu.com/vizyon/ |title=Vizyonu &#124; Ekmeleddin İhsanoğlu |publisher=Ihsanoglu.com |date=20 June 2014}}</ref>
+
+On 9 August, İhsanoğlu announced that he had received a total of ₺8.5 million (approximately US$3.93 million) in donations to his campaign.<ref>{{cite web|url=http://www.sondakika.com/haber/haber-ihsanoglu-na-secim-icin-8-5-milyon-toplandi-6358691/ |title=İhsanoğlu'na Seçim İçin Yapılan Bağış Miktarı 8,5 Milyon |publisher=Son Dakika |accessdate=30 August 2014}}</ref>
+
+===Demirtaş campaign===
+
+Selahattin Demirtaş was announced as a candidate for the Presidency on 30 June.<ref name="ntvmsnbc.com"/> In a campaign dominated by the "peace process" with Kurdish rebels, he claimed on 5 August in [[Van (Turkey)|Van]] that the government of Recep Tayyip Erdoğan had not done enough to bring forward promised legislation, and that the process would collapse immediately if the AKP did not do more to bring lasting peace in the southeast.<ref>{{cite web|url=http://www.milliyet.com.tr/demirtas-baris-surecinin/siyaset/detay/1921365/default.htm |title=Demirtaş: Barış sürecinin bozulmaması gerekir – Milliyet Haber |publisher=Milliyet.com.tr |date=}}</ref> He is the co-leader of the [[Peoples' Democratic Party (Turkey)|Peoples' Democratic Party]] (HDP), serving alongside [[Figen Yüksekdağ]].
+[[File:Demirtaş (2014 cumhurbaşkanlığı seçim logosu).png|230px|thumbnail|left|Selahattin Demirtaş's election campaign logo]]
+On 15 July, Demirtaş outlined his road-map for his presidency should he win the election. In a speech lasting just under an hour, he proposed that the [[Presidency of Religious Affairs]] (Diyanet) should be disbanded, that compulsory religion lessons in schools should be removed and that [[Cemevi]]s (the [[Alevi]] houses of worship) should receive national recognition.<ref name="yurtgazetesi1">{{cite web|url=http://www.yurtgazetesi.com.tr/politika/diyanet-kaldirilmali-cemevleri-yasal-statuye-kavusturulmali-h56640.html |title='Diyanet kaldırılmalı, cemevleri yasal statüye kavuşturulmalı' |publisher=Yurtgazetesi.com.tr |date=}}</ref> He also proposed the introduction of "People's Parliaments" ''(Cumhur meclisleri)'', which would also incorporate Youth Parliaments to increase representation of young citizens.<ref>{{cite web|author=Temmuz 15, 2014 |url=http://sozcu.com.tr/2014/gundem/demirtastan-turk-bayragi-mesaji-556375/ |title=Demirtaş'tan Türk bayrağı mesajı- Sözcü Gazetesi |publisher=Sozcu.com.tr |date=15 July 2014}}</ref> Pushing for a new constitution, Demirtaş outlined the need to end the non-representation of different cultures, languages, races and beliefs without delay to ensure national stability.<ref>{{cite web|author=ali |url=http://www.wanhaber.com/selahattin-demirtas-yol-haritasini-acikladi-193637h.htm |title=Selahattin Demirtaş Yol Haritasını Açıkladı |publisher=Wanhaber.com |date=15 July 2014}}</ref> Also in his speech, he praised the [[Gezi Park protests]] and displayed photos of himself during the events. He continued to direct applause to the mother of the murdered teenager [[Berkin Elvan]], who died 269 days after being hit by a tear gas canister during the protests and falling into a coma.<ref>{{cite web|url=http://www.dunya.com/demirtas-kosk-icin-yol-haritasini-acikladi-233457h.htm |title=Demirtaş Köşk için yol haritasını açıkladı |publisher=Dunya.com |date=15 July 2014}}</ref> On the issue of the lack of Turkish flags within the hall in which he was delivering his speech, Demirtaş stated that the Turkish flag represented all citizens of Turkey.<ref>{{cite web|url=http://www.turkiyegazetesi.com.tr/politika/171293.aspx |title=Demirtaş yol haritasını açıkladı – TG |publisher=Turkiyegazetesi.com.tr |date=15 July 2014}}</ref> His slogan is ''"Bir Cumhurbaşkanı Düşün" (Imagine a President...)'', which is followed by several different phrases, such as ''"Bir Cumhurbaşkanı Düşünün Ayrımcılık yapmıyor. Birleştiriyor, barıştırıyor." (Imagine a President who doesn't Discriminate, who Unites and makes Peace)'' or ''"Bir Cumhurbaşkanı Düşünün Herkese Demokrat" (Imagine a President who is Democratic to Everybody).''<ref name="yurtgazetesi1"/>
+
+On 18 July, Demirtaş visited Paris, France, and laid flowers at the scene where three Kurdish activists were shot dead on 9 January 2013.<ref>{{cite web|url=http://t24.com.tr/haber/selahattin-demirtas-pariste-3-pkklinin-olduruldugu-yere-cicek-birakti,264833 |title=Selahattin Demirtaş Paris'te 3 PKK'lının öldürüldüğü yere çiçek bıraktı – Politika |publisher=T24 |date=}}</ref>
+
+On 9 August, Demirtaş announced that he had received approximately ₺1,213,000 (US$561,055) in donations.<ref>{{cite web|url=http://www.aksam.com.tr/siyaset/iste-cumhurbaskani-adaylarina-yapilan-bagis-miktari/haber-330495 |title=İşte cumhurbaşkanı adaylarına yapılan bağış miktarı |publisher=Akşam |accessdate=30 August 2014}}</ref>
+
+==Controversies==
+
+===Constitutional issues===
+[[File:Ballot paper of 2014 Turkish Presidential Election.jpg|thumb|right|[[Ballot paper]] and envelope which includes the names and photos of candidates for Presidential Election.]]
+Upon the announcement of Recep Tayyip Erdoğan's candidacy, the [[Republican People's Party (Turkey)|CHP]], [[Liberal Democratic Party (Turkey)|LDP]] and [[Nationalist Movement Party|MHP]] contested his refusal to resign as Prime Minister during the campaign. The case was taken to the [[Supreme Electoral Council of Turkey|Supreme Electoral Council]] by both the MHP and [[Mahmut Tanal]], a CHP MP from [[İstanbul]] on 9 July.<ref>{{cite web|url=http://www.turkiyegazetesi.com.tr/politika/169774.aspx |title=CHP, Başbakan Erdoğan'ın adaylığına itiraz etti – TG |publisher=Turkiyegazetesi.com.tr |date=9 July 2014}}</ref> In a press statement, Tanal also attributed the case to the alleged incompatibility of Erdoğan's ideologies and the history of his premiership to the office of the Presidency and referred to the 2008 judicial verdict which curbed the AKP's state funding due to the "violations of democratic and secular principles."<ref>{{cite web|url=http://gundem.bugun.com.tr/chp-ve-mhp-itiraz-etti-haberi/1179529 |title=CHP'li Mahmut Tanal'dan Başbakan Erdoğan'ın adaylığına itiraz |publisher=Gundem.bugun.com.tr |date=}}</ref><ref>{{cite web|url=http://www.ajanshaber.com/basbakan-erdoganin-adayligina-itiraz-haberi/91302 |title=Başbakan Erdoğan'ın adaylığına itiraz! |publisher=AjansHaber.com |date=}}</ref> The [[Constitutional Court of Turkey|Constitutional Court]] affirmed Erdoğan's eligibility to remain as Prime Minister while standing as a presidential candidate on 24 July.<ref>{{cite web|url=http://www.dunyabulteni.net/erdoganin-adayligina-itiraz-reddedildi/304785/erdoganin-adayligina-itiraz-reddedildi |title=ErdoÄ&#x;an'Äąn adaylÄąÄ&#x;Äąna itiraz reddedildi &#124; Politika &#124; DĂźnya BĂźlteni Haber PortalÄą |publisher=Dunyabulteni.net |date=}}</ref>
+
+===Misuse of public funds===
+
+In a report released by the [[Office for Democratic Institutions and Human Rights]] (ODIHR) and the [[Organization for Security and Co-operation in Europe]] (OSCE) on 31 July, Erdoğan was criticised for the alleged use of public funds to finance his campaign. In addition to the distribution of free coal in [[İzmir]],<ref>{{cite web|url=http://www.yuksekovahaber.com/haber/izmirde-komur-yardimi-tartismasi-134423.htm |title=İzmir'de kömür yardımı tartışması haberi |publisher=Yuksekovahaber.com |date=26 January 2012}}</ref> the OSCE also noted that the campaign had begun an excessive distribution of food, clothing, toys, cups, mouse mats and scarves both at election rallies and during door-to-door canvassing.<ref>http://www.turkishweekly.net/news/169773/osce-worried-over-fairness-of-turkey-39-s-presidential-elections.html</ref> Both the rival candidates and the OSCE have called for greater transparency regarding the financing of Erdoğan's campaign, and the latter has decided to send a delegation to monitor the elections on 10 August.<ref name="hurriyetdailynews.com"/><ref>{{cite web|url=http://www.todayszaman.com/news-354237-osce-to-observe-presidential-elections-in-turkey.html |title=OSCE to observe presidential elections in Turkey |publisher=Todayszaman.com |date=31 July 2014}}</ref>
+
+Further accusation over the use of public resources in Erdoğan's campaign have been fueled by opposition journalists, who have accused Erdoğan of using a fake license plates to disguise his use of an official car during his campaign.<ref>http://www.cumhuriyet.com.tr/haber/turkiye/100483/Erdogan_in_Mercedes_inin_plakasi_Fiat_a_ait_cikti.html</ref> Journalists have also drawn attention to the alleged use of official helicopters and planes by the Prime Minister to fly between election rally destinations, despite the requirement by law which restricts the use of such transport for official duties only.<ref>{{cite web|author=Ağustos 1, 2014 |url=http://sozcu.com.tr/2014/gundem/erdogan-sahte-plakayi-degistirdi-568678/ |title=Erdoğan sahte plakayı değiştirdi- Sözcü Gazetesi |publisher=Sozcu.com.tr |date=1 August 2014}}</ref> Following the accusations, a CHP MP from İstanbul, [[Umut Oran]], brought claims of the misuse of public resources before the Supreme Electoral Council and requested an audit into donations to Erdoğan's campaign.<ref name="Cihan Haber Ajansı: Doğru ve hızlı haberin adresi">{{cite web|author=Cihan Haber Ajansı: Doğru ve hızlı haberin adresi |url=http://en.cihan.com.tr/news/Erdogan-uses-fake-license-plate-to-avoid-election-ban-daily-says_3974-CHMTUxMzk3NC8xMDA1 |title=Erdoğan uses 'fake' license plate to avoid election ban, daily says - CİHAN |publisher=En.cihan.com.tr |date= |accessdate=2014-08-14}}</ref> In response to the claims that Erdoğan used fake license plates, the Turkish Prime Ministry issued a statement on 1 August stating that all four cars used by Erdoğan during the campaign had been rented, and that one license plate (06 BV 8534) which had been accused of being fake had been accidentally misprinted and was in fact 06 BV 8543.<ref>{{cite web|url=http://www.sabah.com.tr/Gundem/2014/08/01/basbakanliktan-sahte-plaka-aciklamasi |title=Başbakanlık'tan 'sahte plaka' açıklaması-Sabah – 01 Ağustos 2014 |publisher=Sabah.com.tr |date=}}</ref>
+
+On 6 August, it emerged that the [[Ministry of National Education (Turkey)|Ministry of National Education]] (MEB) had printed an exam revision guide which included Recep Tayyip Erdoğan in the list of Turkish presidents four days before the election took place. The leader of the guide's distributor, Ahmet Gündoğdu, stated that "this is a known outcome. Even if he doesn't win on the first round, Recep Tayyip Erdoğan will definitely win on the second. If he doesn't, we'll only have misprinted the questions – but he will."<ref>{{cite web|url=http://www.haberturk.com/gundem/haber/977095-recep-tayyip-erdogani-12-cumhurbaskani-olarak-yazdilar |title=Recep Tayyip Erdoğan'ı, 12. Cumhurbaşkanı olarak yazdılar! |publisher=Haberturk.com |date=}}</ref> On the same day, the MEB issued a formal statement which denied the claims that they had assumed the election result before it had taken place, stating that the book in question was in fact a book about Atatürk's principles and history, and that no changes had been made to it since 2008.<ref>{{cite web|url=http://www.cnnturk.com/haber/turkiye/meb-erdogani-cumhurbaskani-yapti-iddialarina-yanit |title="MEB Erdoğan'ı Cumhurbaşkanı yaptı" iddialarına yanıt – CNN TÜRK |publisher=Cnnturk.com |date=}}</ref>
+
+===Media bias===
+
+On 1 August, several online newspapers reported that the [[Anadolu Agency|Anatolian Agency]] had used what seemed to be pre-determined election results while doing a practice run for their election night coverage. Leaked images of teleprompter text allegedly showed the Anatolian Agency using pre-determined election turnouts and results which placed Recep Tayyip Erdoğan firmly in first place in six provinces, with 73% in [[Bartın]], 82% in [[Rize]], 80% in [[Gümüşhane]], 70% in [[Kahramanmaraş]], 75% in [[Konya]] and 80% in [[Isparta]]. However, the authenticity of the leaked images have not been verified and newspapers which reported the news did not name a source.<ref>{{cite web|url=http://www.ulusalkanal.com.tr/gundem/anadolu-ajansi-secim-sonuclarini-acikladi-h33596.html |title=Anadolu Ajansı seçim sonuçlarını açıkladı |publisher=Ulusalkanal.com.tr |date=}}</ref><ref>{{cite web|url=http://www.muhalifgazete.com/haber/114382/anadolu-ajansi-secim-sonuclarini-simdiden-acikladi.html |title=Anadolu Ajansı seçim sonuçlarını şimdiden açıkladı |publisher=Muhalifgazete.com |date=1 August 2014}}</ref><ref>{{cite web|url=http://www.ajans32.com/anadolu-ajansi-secim-sonuclarini-simdiden-acikladi-23409h.htm |title=Anadolu Ajansı Seçim Sonuçlarını Şimdiden Açıkladı haberi |publisher=Ajans32.com |date=}}</ref><ref>{{cite web|url=http://www.odatv.com/n.php?n=anadolu-ajanssi-secim-sonuclarini-simdiden-acikladi-3107141200 |title=Anadolu Ajansı seçim sonuçlarını şimdiden açıkladı |publisher=Odatv.com |date=}}</ref><ref>{{cite web|url=http://www.muhalifbaski.com/anadolu-ajansi-secim-sonuclarini-simdiden-acikladi-15237h.htm |title=Anadolu Ajansı seçim sonuçlarını şimdiden açıkladı |publisher=Muhalifbaski.com |date=}}</ref>
+
+The British Newspaper ''[[The Times]]'' claimed that between 2 and 4 July, the state-owned media channel [[Turkish Radio and Television Corporation|TRT]] gave 204 minutes of coverage to Erdoğan's campaign and less than a total of 3 minutes to both his rivals.<ref>{{cite web|url=http://www.bbc.co.uk/turkce/haberler/2014/07/140731_erdogan_trt_times.shtml |title=Times: TRT'den Erdoğan'a 204, rakiplerine 3 dakika |publisher=BBC Türkçe |date=}}</ref>
+
+The OSCE drew attention to the fact that Erdoğan used the opening of the [[Ankara-Istanbul high-speed railway]] on 25 July to promote his candidacy, and has criticised the "limited public visibility of the other candidates" in contrast to Erdoğan's huge and widely broadcast electoral rallies.<ref>{{cite web|author=Cihan Haber Ajansı: Doğru ve hızlı haberin adresi |url=http://en.cihan.com.tr/news/OSCE-criticizes-unfair-competition-pressure-on-media-in-report_4036-CHMTUxNDAzNi80 |title=OSCE criticizes unfair competition, pressure on media in report - CİHAN |publisher=En.cihan.com.tr |date= |accessdate=2014-08-14}}</ref>
+
+Erdoğan was internationally criticised when he called Amberin Zaman from ''[[The Economist]]'' a 'shameless militant' and told her to 'know her place' on 8 August.<ref>http://www.independent.co.uk/news/world/europe/know-your-place-you-shameless-militant-turkish-prime-minister-tells-female-journalist-9656896.html</ref><ref>http://www.telegraph.co.uk/news/worldnews/europe/turkey/11022632/Turkish-PM-tells-female-reporter-to-know-your-place.html</ref>
+
+===Overprinting of ballot papers===
+
+The Supreme Electoral Council of Turkey (YSK) repeated its highly controversial decision which it initially took in the local elections to print a substantial amount of ballot papers more than necessary, totalling 75,708,180.<ref>{{cite web|url=http://www.cnnturk.com/haber/turkiye/18-milyon-fazla-oy-pusulasi-iddiasina-yanit |title="18 milyon fazla oy pusulası" iddiasına yanıt |publisher=CNN Türk |date= |accessdate=2014-09-10}}</ref> It was reported that the YSK had printed 18 million more ballot papers more than the total number of registered voters.<ref>{{cite web|url=http://www.internethaber.com/yskdan-ihsanogluna-18-milyon-yaniti-707354h.htm |title=YSK'dan İhsanoğlu'na '18 milyon' yanıtı |publisher=Internet Haber |date= |accessdate=2014-09-10}}</ref> The YSK responded to questions regarding its decision by stating that it was required by law to print extra ballot papers.<ref>{{cite web|url=http://sozcu.com.tr/2014/gundem/18-milyon-fazla-oy-pusulasi-basildi-571106/ |title=18 milyon fazla oy pusulası basıldı! |publisher=Sözcü |date= |accessdate=2014-09-10}}</ref> The YSK president Sadi Güven also stated that the uncertainty of how many people would vote at customs gates was also a factor behind the decision to send a disproportionately large number of ballot papers to national borders.<ref>{{cite web|url=http://haber.sol.org.tr/devlet-ve-siyaset/18-milyon-fazla-oy-pusulasi-iddiasina-yanit-haberi-95560 |title='18 milyon fazla oy pusulası' iddiasına yanıt |publisher=SoL |date= |accessdate=2014-09-10}}</ref> However, the OSCE stated that there was no legal basis for printing such a large amount of ballot papers.<ref name="amerikaninsesi.com">{{cite web|author=Cihan Haber Ajansı: Doğru ve hızlı haberin adresi |url=http://www.amerikaninsesi.com/content/ek-pusula-basilmasi-tartisma-yaratti/1973070.html |title=18 Milyon Ek Pusula Tartışma Yarattı |publisher=Voice of America |date= |accessdate=2014-09-10}}</ref>
+
+Presidential candidate Ekmeleddin İhsanoğlu raised concern over the high number of spare ballot papers, stating that "of course some might go to waste in rain, mud or a flood, but what does printing 18 million mean? How, for whom, are these ballot papers going to be used, and how will it be ensured that they will not fall into the wrong hands?" In retaliation, Deputy Prime Minister [[Emrullah İşler]] claimed that the opposition was trying to cover up its poor standing in the opinion polls.<ref name="amerikaninsesi.com"/>
+
+===Donations===
+
+The substantially larger amount of donations received by Erdoğan resulted in the political opposition requesting an audit into all donations made to his campaign.<ref name="Cihan Haber Ajansı: Doğru ve hızlı haberin adresi"/> On 6 August, a CHP Member of Parliament from [[Konya]], [[Atilla Kart]], claimed that the Konya Industrial Board had begun a fundraising campaign for Erdoğan, placing the nature of donations, their source and their transparency under scrutiny.<ref>{{cite web|author=Ajans 34|url=http://www.ajans34.com/guncel/chp-li-kart-sanayi-odasi-erdogan-icin-bagis-kampanyasi-h142392.html |title=CHP li Kart: Sanayi Odası, Erdoğan İçin Bağış Kampanyası ...|publisher=Ajans 34 |date= |accessdate=2014-08-30}}</ref>
+ 
+===Campaigning irregularities===
+
+Controversy surrounded the role and use of the [[Turkish flag]] by the candidates for their election campaigns. The Supreme Electoral Council had controversially regulated its use previously for the local elections.<ref>{{cite web|url=http://www.hurriyet.com.tr/gundem/25283330.asp |title=YSK seçim yasaklarını açıkladı – Hürriyet GÜNDEM |publisher=Hurriyet.com.tr |date=}}</ref> In İhsanoğlu's earlier election adverts, subtitles notified viewers that they had been banned from including the Turkish flag in the advert by the Electoral Council.
+
+[[File:2014 cumhurbaşkanlığı seçimi için oy veren vatandaş.jpg|thumb|left|A citizen who voted 2014 presidential election in [[Istanbul]]]]
+The use of religion in the campaigns also fuelled controversy. Erdoğan's campaign logo, which had already generated controversy due to its resemblance of [[Barack Obama]]'s [[United States presidential election, 2008|2008 presidential campaign]] logo, had been claimed to have [[Islamic calligraphy|Arabic calligraphy]] of the [[Muhammad|Prophet Muhammad's]] name by the [[Ministry of Finance (Turkey)|finance minister]] [[Mehmet Şimşek]].<ref name="todayszaman2"/> On 5 August, the Supreme Electoral Council banned an Erdoğan campaign advertisement on the grounds that it "abused religious feelings by depicting the [[Adhan|Azan]], a prayer mat and a woman performing [[Namaz]]."<ref>{{cite web|url=http://www.milliyet.com.tr/ysk-erdogan-in-reklam-filmini/siyaset/detay/1921327/default.htm |title=YSK, Erdoğan'ın reklam filmini yasakladı – Milliyet Haber |publisher=Milliyet.com.tr |date=}}</ref>
+
+On 7 August, it was reported that security forces prevented citizens attending Erdoğan's [[Gaziantep]] rally from leaving early. One person was detained at the scene.<ref>{{cite web|author=Ağustos 7, 2014 |url=http://sozcu.com.tr/2014/gundem/erdoganin-mitinginden-ayrilmak-isteyen-vatandaslara-engel-573052/ |title=Erdoğan'ın mitinginden ayrılmak isteyen vatandaşlara engel- Sözcü Gazetesi |publisher=Sozcu.com.tr |date=7 August 2014}}</ref>
+
+===Voter data irregularities===
+
+On 8 August, a voter from [[Didim]], [[Aydın]] claimed that four unknown voters were recorded to have been living in his household according to the Supreme Electoral Council.<ref>{{cite web|author=Siyaset |url=http://www.ulkucumedya.com/secim-hileleri-basladi.html |title=Seçim Hileleri Başladi ! &#124; Ülkücü Medya |publisher=Ulkucumedya.com |date=}}</ref> The lack of up-to-date voter data, which listed dead persons as voters as well as addresses that did not exist had previously resulted in huge controversy in the [[Turkish local elections, 2014|2014 local elections]].
+
+===Election day===
+Presidential candidate Ekmeleddin İhsanoğlu expressed his concern about voters taking pictures of ballot papers on polling day.<ref>{{cite web|url=http://en.ria.ru/world/20140810/191887576/Turkey-Presidential-Candidate-Plans-to-Look-Into-Every-Fraud.html |title=Turkey Presidential Candidate Plans to Look Into Every Fraud Case &#124; World &#124; RIA Novosti |publisher=En.ria.ru |date= |accessdate=2014-08-14}}</ref> Despite this, the OSCE and other international observers praised the peaceful voting and counting process.<ref>{{cite web|url=http://www.dailynews.com/general-news/20140811/even-without-any-voting-fraud-turkeys-elections-arent-a-fair-fight |title=Even without any voting fraud, Turkey’s elections aren’t a fair fight |publisher=Dailynews.com |date= |accessdate=2014-08-14}}</ref>
+
+==Opinion polls==
+{{see also|Opinion polls in Turkey}}
+[[Opinion polls in Turkey]] are highly controversial since several of them have links with political establishments, thus making them heavily subject to bias in some cases. SONAR and Gezici are known to be close with the opposition [[Republican People's Party (Turkey)|CHP]], while POLLMARK and ANAR are associated with the [[Justice and Development Party (Turkey)|AKP]].<ref>http://m2.samanyoluhaber.com/Hangi-ANKET-sirketi-KIMIN-haberi-165261.html</ref> A&G is a polling company from social democratic origins, however its ownership is heavily critical of the CHP and MHP.<ref>http://metrosfer.com/hangi-anket-sirketi-hangi-partiye-yakin/</ref>
+
+Despite their political affiliations both in favour and against [[Recep Tayyip Erdoğan]], all opinion polls conducted throughout the campaigning process put Erdoğan in the lead by wide margins. This even included a poll by the CHP itself, which also put Erdoğan marginally ahead of [[Ekmeleddin İhsanoğlu]].<ref>http://www.cnnturk.com/haber/turkiye/chpden-cumhurbaskanligi-anketi</ref> Opinion polls have also been criticised for inaccurate predictions.<ref name="tgrthaber1">{{cite web |url=http://www.tgrthaber.com.tr/gundem/32617.html |title=İşte seçim sonuçlarını bire bir bilen tek anket şirketi!: source=TGRT |accessdate=13 August 2014 |publisher=TGRT Haber}}</ref><ref>http://www.samanyoluhaber.com/gundem/Anket-sirketleri-anket-sonuclariyla-fena-cuvalladi/1058450/</ref><ref>http://nediyor.com/2014/08/15/anket-sirketi-konda-kamuoyundan-ozur-diledi/</ref><ref>http://www.birgun.net/news/view/anket-sirketleri-manipulasyon-mu-yapti/3547</ref><ref>http://www.gercekgundem.com/guncel/64179/mhpden-anket-sirketlerine-tepki</ref> After the election, the polling company KONDA publicly apologised for vast inaccuracies in its polls when compared with the actual results.<ref>http://t24.com.tr/haber/konda-kamuoyundan-ozur-dileriz,267723</ref>
+
+{| class="wikitable sortable"
+|-
+! Date !! Company !! [[File:Recep Tayyip Erdogan.PNG|120x110px]]<br>[[Recep Tayyip Erdogan|Erdoğan]] !! [[File:Ekmeleddin İhsanoğlu (1) (cropped).jpg|120x110px]]<br>[[Ekmeleddin İhsanoğlu|İhsanoğlu]] !! [[File:Selahattin Demirtaş (cropped).jpg|120x110px]]<br>[[Selahattin Demirtaş|Demirtaş]] !! Lead
+|-
+| 23 June 2014 || ORC<ref>[http://www.ilk-kursun.com/haber/186271/cati-adayli-ilk-secim-anketi/], ''İlk Kurşun website'', 23 June 2014.</ref> || style="background:#ffe889; text-align:center;"|'''54.0''' || style="text-align:center;"|39.4 || style="text-align:center;"|6.6 || style="background:#ff8000; text-align:center; color:white;"|'''14.6'''
+|-
+| 24 June 2014 || SONAR<ref>[http://www.aydinlikgazete.com/mansetler/44243-sonarin-son-anketi-ihsanoglu-tayyipe-ilk-turda-kazandiriyor.html], ''Aydınlık website'', 24 June 2014.</ref> || style="background:#ffe889; text-align:center;"|'''52.6''' || style="text-align:center;"|40.3 || style="text-align:center;"|7.1 || style="background:#ff8000; text-align:center; color:white;"|'''12.3'''
+|-
+| 26 June 2014 || MAK<ref>[http://www.ilk-kursun.com/haber/186731/ekmeleddinle-daha-1-turda-tayyip-kazaniyor/], ''İlk Kurşun'', 26 June 2014.</ref> || style="background:#ffe889; text-align:center;"|'''56.1''' || style="text-align:center;"|34.2 || style="text-align:center;"|9.5 || style="background:#ff8000; text-align:center; color:white;"|'''21.9'''
+|-
+| 30 June 2014 || MetroPOLL<ref>[http://www.metropoll.com.tr/], ''MetroPOLL Website'', 30 June 2014.</ref> || style="background:#ffe889; text-align:center;"|'''42.2''' || style="text-align:center;"|32.9 || style="text-align:center;"|6.7 || style="background:#ff8000; text-align:center; color:white;"|'''9.3'''
+|-
+| 2 July 2014 || Gezici<ref>[http://www.46medya.com/gallery.php?id=182&page=2#topgallery], ''Gezici Website'', 2 July 2014.</ref> || style="background:#ffe889; text-align:center;"|'''47.2''' || style="text-align:center;"|45.5 || style="text-align:center;"|7.3 || style="background:#ff8000; text-align:center; color:white;"|'''1.7'''
+|-
+| 7 July 2014 || DESAV<ref>[http://desav.org/gundem/cumhurbaskanligi-secimi-anket-sonuclari-113.html], ''DESAV Website'', 7 July 2014.</ref> || style="background:#ffe889; text-align:center;"|'''58.4''' || style="text-align:center;"|33.5 || style="text-align:center;"|8.1 || style="background:#ff8000; text-align:center; color:white;"|'''24.9'''
+|-
+| 7 July 2014 || Pollmark<ref>[http://www.sorusuna.com/2014-cumhurbaskanligi-secim-anketleri.html], ''Sorusuna Website'', 7 July 2014.</ref> || style="background:#ffe889; text-align:center;"|'''51.0''' || style="text-align:center;"|38.0 || style="text-align:center;"|7.0 || style="background:#ff8000; text-align:center; color:white;"|'''13.0'''
+|-
+| 9 July 2014 || Konsensus<ref>[http://www.beyazgazete.com/haber/2014/7/9/konsensus-un-cumhurbaskani-kim-olsun-anketi-2297791.html], ''Konsensus Website'', 9 July 2014.</ref> || style="background:#ffe889; text-align:center;"|'''58.2''' || style="text-align:center;"|30.3 || style="text-align:center;"|11.5 || style="background:#ff8000; text-align:center; color:white;"|'''27.9'''
+|-
+| 9 July 2014 || GENAR<ref>[http://www.genar.com.tr/files/CUMHURBASKANLIGI_SECIMI_2014_YARIS_BASLARKEN.pdf], ''GENAR Website'', 9 July 2014.</ref> || style="background:#ffe889; text-align:center;"|'''55.2''' || style="text-align:center;"|35.8 || style="text-align:center;"|9.0 || style="background:#ff8000; text-align:center; color:white;"|'''19.4'''
+|-
+| 12 July 2014 || ORC<ref>[http://www.orcarastirma.com.tr/wp-content/uploads/2014/07/cumhurba%C5%9Fkanl%C4%B1%C4%9F%C4%B1-se%C3%A7imi-ara%C5%9Ft%C4%B1rmas%C4%B1-temmuz.compressed.pdf], ''ORC Website'', 12 July 2014.</ref> || style="background:#ffe889; text-align:center;"|'''54.6''' || style="text-align:center;"|37.0 || style="text-align:center;"|8.4 || style="background:#ff8000; text-align:center; color:white;"|'''17.6'''
+|-
+| 14 July 2014 || [[Republican People's Party (Turkey)|CHP]]<ref>[http://www.cnnturk.com/haber/turkiye/chpden-cumhurbaskanligi-anketi], ''CNN Türk'', 2 August 2014.</ref> || style="background:#ffe889; text-align:center;"|'''39.8''' || style="text-align:center;"|38.1 || style="text-align:center;"|N/A || style="background:#ff8000; text-align:center; color:white;"|'''1.7'''
+|-
+| 17 July 2014 || Andy-Ar<ref>[http://www.ensonhaber.com/andy-arin-cumhurbaskanligi-secimi-anketi-2014-07-17.html], ''En Son Haber'', 15 August 2014.</ref> || style="background:#ffe889; text-align:center;"|'''55.5''' || style="text-align:center;"|34.9 || style="text-align:center;"|9.6 || style="background:#ff8000; text-align:center; color:white;"|'''20.6'''
+|-
+| 20 July 2014 || Optimar<ref>[http://www.haber7.com/partiler/haber/1182434-optimar-anketinde-erdoganin-rakiplerinden-farki], ''Haber 7'', 2 August 2014.</ref> || style="background:#ffe889; text-align:center;"|'''53.8''' || style="text-align:center;"|38.4 || style="text-align:center;"|7.8 || style="background:#ff8000; text-align:center; color:white;"|'''15.4'''
+|-
+| 21 July 2014 || Gezici<ref>[http://www.ensonhaber.com/gezici-arastirmanin-kosk-anketi-2014-07-21.html], ''En Son Haber'', 2 August 2014.</ref> || style="background:#ffe889; text-align:center;"|'''53.4''' || style="text-align:center;"|38.4 || style="text-align:center;"|8.2 || style="background:#ff8000; text-align:center; color:white;"|'''15.0'''
+|-
+| 27 July 2014 || ORC<ref name="milliyet.com.tr">[http://www.milliyet.com.tr/secime-12-gun-kala-son-anket/siyaset/detay/1918250/default.htm], ''Milliyet'', 2 August 2014.</ref> || style="background:#ffe889; text-align:center;"|'''54.3''' || style="text-align:center;"|38.0 || style="text-align:center;"|7.7 || style="background:#ff8000; text-align:center; color:white;"|'''16.3'''
+|-
+| 27 July 2014 || Ajans Press<ref>[http://www.bucagundem.com/siyaset/genar-cumhurbaskanligi-secimi-son-anketi-yayinlandi--bugun-secim-olsa--h8588.html], ''Buca Gündem'', 2 August 2014.</ref> || style="background:#ffe889; text-align:center;"|'''57.82''' || style="text-align:center;"|33.82 || style="text-align:center;"|9.04 || style="background:#ff8000; text-align:center; color:white;"|'''24.00'''
+|-
+| 29 July 2014 || Konda<ref name="milliyet.com.tr"/> || style="background:#ffe889; text-align:center;"|'''55.0''' || style="text-align:center;"|38.0 || style="text-align:center;"|7.5 || style="background:#ff8000; text-align:center; color:white;"|'''17.0'''
+|-
+| 30 July 2014 || SONAR<ref>[http://www.mynet.com/haber/politika/sonar-son-secim-anketini-acikladi-1377063-1], ''MyNet'', 2 August 2014.</ref> || style="background:#ffe889; text-align:center;"|'''53.3''' || style="text-align:center;"|38.4 || style="text-align:center;"|8.3 || style="background:#ff8000; text-align:center; color:white;"|'''14.9'''
+|-
+| 3 August 2014 || Konda<ref>[http://www.muhalifgazete.com/haber/116707/son-ankette-dengeler-degisti.html], ''Muahlif Gazete'', 6 August 2014.</ref> || style="background:#ffe889; text-align:center;"|'''57.0''' || style="text-align:center;"|34.0 || style="text-align:center;"|11.6 || style="background:#ff8000; text-align:center; color:white;"|'''23.0'''
+|-
+| 6 August 2014 || A&G<ref>[http://www.internethaber.com/cumhurbaskanligi-secim-sonuclari-ag-en-son-anket-707244h.htm], ''Intarnet Haber'', 6 August 2014.</ref> || style="background:#ffe889; text-align:center;"|'''55.1''' || style="text-align:center;"|33.3 || style="text-align:center;"|9.0 || style="background:#ff8000; text-align:center; color:white;"|'''21.8'''
+|-
+| 8 August 2014 || Andy-Ar<ref>[http://www.cnnturk.com/haber/turkiye/cumhurbaskanligi-secimlerinde-en-iyi-tahmini-yapan-anket-sirketi-andy-ar], ''CNN Türk'', 15 August 2014.</ref> || style="background:#ffe889; text-align:center;"|'''53.0''' || style="text-align:center;"|37.9 || style="text-align:center;"|9.1 || style="background:#ff8000; text-align:center; color:white;"|'''15.1'''
+|- style="text-align:center;"
+| colspan="2;"|''Average'' || style="background:#ffe889; text-align:center;"|'''53.11''' || style="text-align:center;"|36.71 || style="text-align:center;"|8.35 || style="background:#ff8000; text-align:center; color:white;"|'''16.40'''
+|-
+| '''10 August 2014''' || '''Election results''' || style="background:#ffe889; text-align:center;"|'''51.79''' || style="text-align:center;"|38.44 || style="text-align:center;"|9.76 || style="background:#ff8000; text-align:center; color:white;"|'''13.35'''
+|}
+
+==Conduct==
+
+===Overseas voting===
+[[File:2014 Turkish presidential election ballot box.JPG|230px|thumbnail|left|An example of a ballot box and voting area during the election]]
+Voting overseas began on 31 July and ended on 3 August. 2,783,660 overseas citizens were eligible to vote in 54 countries, and voting took place in 103 consulates.<ref>{{cite web|url=http://gundem.bugun.com.tr/sandiklar-bos-kaldi-haberi/1211193 |title=Yurt dışındaki 10 seçmenden sadece 1'i sandığa gitti |publisher=Gundem.bugun.com.tr |date=}}</ref> Voting at borders and customs started on 26 July and continued until 10 August.<ref>{{cite web|url=http://www.hurriyet.com.tr/avrupa/26944847.asp |title=İşte yurt dışında kullanılan oy sayısı – Hürriyet Avrupa |publisher=Hurriyet.com.tr |date=}}</ref> On 4 August, Deputy Prime Minister [[Emrullah İşler]] announced that 232,000 overseas voters cast their votes, with a turnout of 8.5%, while votes cast at borders and customs had reached 152,000.<ref>{{cite web|url=http://www.mansettv.com/haber/isler-kesin-rakam-veriyorum-133370.html |title=İşler: Kesin rakam veriyorum |publisher=Mansettv.com |date=}}</ref> With the low turnout being attributed to the requirement to book an appointment to vote, it had previously emerged on 30 July that only 248,285 voters booked an appointment.<ref>{{cite web|url=http://www.hurriyet.com.tr/dunya/26909626.asp |title=Gurbetçi oyunda randevu şoku – Hürriyet DÜNYA |publisher=Hurriyet.com.tr |date=30 July 2014}}</ref><ref>{{cite web|url=http://www.haberler.com/yurtdisindaki-secmene-randevu-soku-6320913-haberi/ |title=Yurtdışındaki Seçmene Randevu Şoku |publisher=Haberler.com |date=30 July 2014}}</ref> It was seen as a setback for Recep Tayyip Erdoğan, who had been predicted half of the overseas vote.<ref name="todayszaman1">{{cite news|url=http://www.todayszaman.com/news-350260-pm-as-candidate-for-president-may-receive-half-of-overseas-vote.html|title=PM as candidate for president may receive half of overseas vote|work=[[Today's Zaman]]|date=14 June 2014|accessdate=21 June 2014}}</ref> On 5 August, the owner of A&G research company Adil Gür stated that the overseas vote would not affect Erdoğan's chances of success.<ref>{{cite web|url=http://www.internethaber.com/kazanmak-icin-yurtdisi-oylarina-gerek-yok-706860h.htm |title=Kazanmak için yurtdışı oylarına gerek yok! haberi |publisher=Internethaber.com |date=}}</ref>
+
+==Results==
+
+The distribution of the votes for the three candidates is as follows:
+
+{| style="color:black"
+|-
+| colspan=3 style="text-align: center; line-height: 80%;" | '''▼'''
+|-
+| style="width:51.79%; background:#fdc400;"|<div style="text-align: center;">'''[[Recep Tayyip Erdoğan|Erdoğan]]'''</div> || style="width:38.44%; background:#ff0000;"|<div style="text-align: center;">'''[[Ekmeleddin İhsanoğlu|İhsanoğlu]]'''</div>
+| style="width:9.76%; background:#b27fb2;"|<div style="text-align: center;">'''[[Selahattin Demirtaş|Demirtaş]]'''</div>
+|-
+| colspan=3 style="text-align: center; line-height: 80%;" | '''▲'''
+|-
+| colspan=3 style="text-align: center; line-height: 80%;" | '''50%'''
+|}
+
+===Overall results===
+{| class=wikitable style=text-align:right
+|-
+!scope="col", colspan="2"|Candidate
+!Nationwide votes
+!%
+!Overseas votes
+!%
+!Customs votes
+!%
+!Total votes
+!%
+|-
+|style="background:#ffd42a; width:4px; text-align:center;"| || align=left|[[Recep Tayyip Erdoğan]]||20,670,826||51.65||143,873||62.30||185,444||62.73||21,000,143||51.79
+|-
+|style="background:#ff0000; width:4px; text-align:center;"| || align=left|[[Ekmeleddin İhsanoğlu|Ekmeleddin Mehmet İhsanoğlu]]||15,434,167||38.57||64,483||27.92||89,070||30.13||15,587,720||38.44
+|-
+|style="background:#B53389; width:4px; text-align:center;"| || align=left|[[Selahattin Demirtaş]]||3,914,359||9.78||22,582||9.78||21,107||7.14||3,958,048||9.76
+|-
+|scope="col", colspan="2"|{{align|left|Invalid/blank votes}}||734,140||-||1,857||-||1,719||-||737,716||–
+|-
+|scope="col", colspan="2"|{{align|left|'''Total'''}}||'''40,019,352'''||'''100'''||'''230,938'''||'''100'''||'''297,340'''||'''100'''||'''41,283,627'''||'''100'''
+|-
+|scope="col", colspan="2"|{{align|left|Registered voters/turnout}}||52,894,115||77.05||2,798,726||8.32||-||-||55,692,841||74.13
+|-
+|align=left colspan=10|Source: [http://www.ysk.gov.tr/ysk/content/conn/YSKUCM/path/Contribution%20Folders/HaberDosya/2014CB-Kesin-416_a_Yurtici.pdf YSK nationwide results], [http://www.ysk.gov.tr/ysk/content/conn/YSKUCM/path/Contribution%20Folders/HaberDosya/2014CB-Kesin-416_b_Yurtdisi.pdf YSK overseas results], [http://www.ysk.gov.tr/ysk/content/conn/YSKUCM/path/Contribution%20Folders/HaberDosya/2014CB-Kesin-416_c_Gumruk.pdf YSK customs results], [http://www.ysk.gov.tr/ysk/content/conn/YSKUCM/path/Contribution%20Folders/HaberDosya/2014CB-Kesin-416_d_Genel.pdf YSK overall results]
+|}
+
+===Results by province===
+{{stack begin | float=left}}
+[[File:2014 Turkish Presidential Election-Erdoğan.PNG|thumb|315px|Results obtained by [[Recep Tayyip Erdoğan]] by province.]] {{stack end}}
+{{stack begin | float=left}}
+[[File:2014 Turkish Presidential Election-İhsanoğlu.PNG|thumb|315px|Results obtained by [[Ekmeleddin İhsanoğlu]] by province.]] {{stack end}}
+{{stack begin | float=left}}
+[[File:2014 Turkish Presidential Election-Demirtaş.PNG|thumb|315px|Results obtained by [[Selahattin Demirtaş]] by province.]]{{stack end}}
+{{-}}
+
+Provinces are listed in order of license plate code.<ref>{{cite web|url=http://secim.haberler.com/cumhurbaskanligi-secimi/recep-tayyip-erdogan/ |title=Recep Tayyip Erdoğan - Cumhurbaşkanliği Seçimi |publisher=Secim.haberler.com |date= |accessdate=2014-08-14}}</ref><ref>{{cite web|url=http://secim.haberler.com/cumhurbaskanligi-secimi/ekmeleddin-ihsanoglu/ |title=Ekmeleddin İhsanoğlu - Cumhurbaşkanliği Seçimi |publisher=Secim.haberler.com |date= |accessdate=2014-08-14}}</ref><ref>{{cite web|url=http://secim.haberler.com/cumhurbaskanligi-secimi/selahattin-demirtas/ |title=Selahattin Demirtaş - Cumhurbaşkanliği Seçimi |publisher=Secim.haberler.com |date= |accessdate=2014-08-14}}</ref> Metropolitan provinces are listed in '''bold'''. Erdoğan's family originated from [[Rize]], but he himself was born in [[İstanbul]]. İhsanoğlu's family originated from [[Yozgat]], but he himself was born in [[Cairo]]. Demirtaş is of [[Zaza people|Zaza]] origin and was born in [[Palu, Elazığ|Palu]], [[Elazığ]]. The voting intentions of the candidates' provinces of origin are considered electorally significant in Turkish politics, yet Rize, Yozgat and Elazığ were all won by Erdoğan.
+{|
+| style="vertical-align:top" |
+
+{| class="wikitable"
+|-
+! Province !! Erdoğan !! İhsanoğlu !! Demirtaş
+|-
+| '''[[Adana]]''' || style="background:#fc0; text-align:center;"|38.91% || style="background:#FF5050; text-align:center;"|'''50.43%''' || style="background:#f9f; text-align:center;"|10.66%
+|-
+| [[Adıyaman]] || style="background:#fc0; text-align:center;"|'''69.30%''' || style="background:#FF5050; text-align:center;"|15.44% || style="background:#f9f; text-align:center;"|15.26%
+|-
+| [[Afyonkarahisar]] || style="background:#fc0; text-align:center;"|'''64.25%''' || style="background:#FF5050; text-align:center;"|34.40% || style="background:#f9f; text-align:center;"|1.36%
+|-
+| [[Ağrı]] || style="background:#fc0; text-align:center;"|36.44% || style="background:#FF5050; text-align:center;"|2.27% || style="background:#f9f; text-align:center;"|'''61.28%'''
+|-
+| [[Amasya]] || style="background:#fc0; text-align:center;"|'''56.66%''' || style="background:#FF5050; text-align:center;"|42.17% || style="background:#f9f; text-align:center;"|1.16%
+|-
+| '''[[Ankara]]''' || style="background:#fc0; text-align:center;"|'''51.31%''' || style="background:#FF5050; text-align:center;"|45.22% || style="background:#f9f; text-align:center;"|3.47%
+|-
+| '''[[Antalya]]''' || style="background:#fc0; text-align:center;"|41.62% || style="background:#FF5050; text-align:center;"|'''53.08%''' || style="background:#f9f; text-align:center;"|5.30%
+|-
+| [[Artvin]] || style="background:#fc0; text-align:center;"|'''52.62%''' || style="background:#FF5050; text-align:center;"|44.94% || style="background:#f9f; text-align:center;"|2.44%
+|-
+| '''[[Aydın]]''' || style="background:#fc0; text-align:center;"|36.75% || style="background:#FF5050; text-align:center;"|'''56.28%''' || style="background:#f9f; text-align:center;"|6.96%
+|-
+| '''[[Balıkesir]]''' || style="background:#fc0; text-align:center;"|47.80% || style="background:#FF5050; text-align:center;"|'''49.36%''' || style="background:#f9f; text-align:center;"|2.85%
+|-
+| [[Bilecik]] || style="background:#fc0; text-align:center;"|'''50.90%''' || style="background:#FF5050; text-align:center;"|46.05% || style="background:#f9f; text-align:center;"|3.04%
+|-
+| [[Bingöl]] || style="background:#fc0; text-align:center;"|'''65.05%''' || style="background:#FF5050; text-align:center;"|4.40% || style="background:#f9f; text-align:center;"|30.55%
+|-
+| [[Bitlis]] || style="background:#fc0; text-align:center;"|'''52.06%''' || style="background:#FF5050; text-align:center;"|4.22% || style="background:#f9f; text-align:center;"|43.72%
+|-
+| [[Bolu]] || style="background:#fc0; text-align:center;"|'''66.13%''' || style="background:#FF5050; text-align:center;"|32.26% || style="background:#f9f; text-align:center;"|1.61%
+|-
+| [[Burdur]] || style="background:#fc0; text-align:center;"|'''54.00%''' || style="background:#FF5050; text-align:center;"|43.91% || style="background:#f9f; text-align:center;"|2.09%
+|-
+| '''[[Bursa]]''' || style="background:#fc0; text-align:center;"|'''54.88%''' || style="background:#FF5050; text-align:center;"|40.96% || style="background:#f9f; text-align:center;"|4.16%
+|-
+| [[Çanakkale]] || style="background:#fc0; text-align:center;"|41.90% || style="background:#FF5050; text-align:center;"|'''55.37%''' || style="background:#f9f; text-align:center;"|2.73%
+|-
+| [[Çankırı]] || style="background:#fc0; text-align:center;"|'''73.69%''' || style="background:#FF5050; text-align:center;"|25.30% || style="background:#f9f; text-align:center;"|1.00%
+|-
+| [[Çorum]] || style="background:#fc0; text-align:center;"|'''63.76%''' || style="background:#FF5050; text-align:center;"|34.71% || style="background:#f9f; text-align:center;"|1.52%
+|-
+| '''[[Denizli]]''' || style="background:#fc0; text-align:center;"|47.09% || style="background:#FF5050; text-align:center;"|'''49.63%''' || style="background:#f9f; text-align:center;"|3.28%
+|-
+| '''[[Diyarbakır]]''' || style="background:#fc0; text-align:center;"|33.48% || style="background:#FF5050; text-align:center;"|2.35% || style="background:#f9f; text-align:center;"|'''64.17%'''
+|-
+| [[Edirne]] || style="background:#fc0; text-align:center;"|32.18% || style="background:#FF5050; text-align:center;"|'''64.96%''' || style="background:#f9f; text-align:center;"|2.86%
+|-
+| [[Elazığ]] || style="background:#fc0; text-align:center;"|'''70.56%''' || style="background:#FF5050; text-align:center;"|18.55% || style="background:#f9f; text-align:center;"|10.88%
+|-
+| [[Erzincan]] || style="background:#fc0; text-align:center;"|'''58.74%''' || style="background:#FF5050; text-align:center;"|37.19% || style="background:#f9f; text-align:center;"|4.07%
+|-
+| '''[[Erzurum]]''' || style="background:#fc0; text-align:center;"|'''68.80%''' || style="background:#FF5050; text-align:center;"|18.13% || style="background:#f9f; text-align:center;"|13.07%
+|-
+| '''[[Eskişehir]]''' || style="background:#fc0; text-align:center;"|45.42% || style="background:#FF5050; text-align:center;"|'''51.95%''' || style="background:#f9f; text-align:center;"|2.64%
+|-
+| '''[[Gaziantep]]''' || style="background:#fc0; text-align:center;"|'''60.44%''' || style="background:#FF5050; text-align:center;"|29.00% || style="background:#f9f; text-align:center;"|10.56%
+|}
+
+| colwidth=2em | &nbsp;
+| style="vertical-align:top" |
+
+{| class="wikitable"
+|-
+! Province !! Erdoğan !! İhsanoğlu !! Demirtaş
+|-
+| [[Giresun]] || style="background:#fc0; text-align:center;"|'''66.64%''' || style="background:#FF5050; text-align:center;"|31.94% || style="background:#f9f; text-align:center;"|1.41%
+|-
+| [[Gümüşhane]] || style="background:#fc0; text-align:center;"|'''75.06%''' || style="background:#FF5050; text-align:center;"|23.81% || style="background:#f9f; text-align:center;"|1.14%
+|-
+| [[Hakkâri]] || style="background:#fc0; text-align:center;"|16.36% || style="background:#FF5050; text-align:center;"|2.05% || style="background:#f9f; text-align:center;"|'''81.59%'''
+|-
+| '''[[Hatay]]''' || style="background:#fc0; text-align:center;"|44.11% || style="background:#FF5050; text-align:center;"|'''52.29%''' || style="background:#f9f; text-align:center;"|3.60%
+|-
+| [[Isparta]] || style="background:#fc0; text-align:center;"|'''55.46%''' || style="background:#FF5050; text-align:center;"|42.86% || style="background:#f9f; text-align:center;"|1.68%
+|-
+| '''[[Mersin]]''' || style="background:#fc0; text-align:center;"|31.98% || style="background:#FF5050; text-align:center;"|'''54.56%''' || style="background:#f9f; text-align:center;"|13.46%
+|-
+| '''[[İstanbul]]''' || style="background:#fc0; text-align:center;"|'''49.83%''' || style="background:#FF5050; text-align:center;"|41.08% || style="background:#f9f; text-align:center;"|9.09%
+|-
+| '''[[İzmir]]''' || style="background:#fc0; text-align:center;"|33.38% || style="background:#FF5050; text-align:center;"|'''58.64%''' || style="background:#f9f; text-align:center;"|7.98%
+|-
+| [[Kars]] || style="background:#fc0; text-align:center;"|'''42.52%''' || style="background:#FF5050; text-align:center;"|24.59% || style="background:#f9f; text-align:center;"|32.89%
+|-
+| [[Kastamonu]] || style="background:#fc0; text-align:center;"|'''65.83%''' || style="background:#FF5050; text-align:center;"|32.77% || style="background:#f9f; text-align:center;"|1.40%
+|-
+| '''[[Kayseri]]''' || style="background:#fc0; text-align:center;"|'''66.13%''' || style="background:#FF5050; text-align:center;"|32.02% || style="background:#f9f; text-align:center;"|1.85%
+|-
+| [[Kırklareli]] || style="background:#fc0; text-align:center;"|29.77% || style="background:#FF5050; text-align:center;"|'''67.95%''' || style="background:#f9f; text-align:center;"|2.28%
+|-
+| [[Kırşehir]] || style="background:#fc0; text-align:center;"|'''52.82%''' || style="background:#FF5050; text-align:center;"|42.21% || style="background:#f9f; text-align:center;"|4.97%
+|-
+| '''[[Kocaeli Province|Kocaeli]]''' || style="background:#fc0; text-align:center;"|'''58.54%''' || style="background:#FF5050; text-align:center;"|35.98% || style="background:#f9f; text-align:center;"|5.49%
+|-
+| '''[[Konya]]''' || style="background:#fc0; text-align:center;"|'''74.62%''' || style="background:#FF5050; text-align:center;"|22.33% || style="background:#f9f; text-align:center;"|3.06%
+|-
+| [[Kütahya]] || style="background:#fc0; text-align:center;"|'''69.31%''' || style="background:#FF5050; text-align:center;"|29.54% || style="background:#f9f; text-align:center;"|1.15%
+|-
+| '''[[Malatya]]''' || style="background:#fc0; text-align:center;"|'''70.27%''' || style="background:#FF5050; text-align:center;"|24.42% || style="background:#f9f; text-align:center;"|5.31%
+|-
+| '''[[Manisa]]''' || style="background:#fc0; text-align:center;"|46.13% || style="background:#FF5050; text-align:center;"|'''48.27%''' || style="background:#f9f; text-align:center;"|5.60%
+|-
+| '''[[Kahramanmaraş]]''' || style="background:#fc0; text-align:center;"|'''71.48%''' || style="background:#FF5050; text-align:center;"|24.22% || style="background:#f9f; text-align:center;"|4.29%
+|-
+| '''[[Mardin]]''' || style="background:#fc0; text-align:center;"|36.67% || style="background:#FF5050; text-align:center;"|2.33% || style="background:#f9f; text-align:center;"|'''61.00%'''
+|-
+| '''[[Muğla]]''' || style="background:#fc0; text-align:center;"|32.26% || style="background:#FF5050; text-align:center;"|'''63.31%''' || style="background:#f9f; text-align:center;"|4.13%
+|-
+| [[Muş]] || style="background:#fc0; text-align:center;"|35.57% || style="background:#FF5050; text-align:center;"|3.18% || style="background:#f9f; text-align:center;"|'''61.24%'''
+|-
+| [[Nevşehir]] || style="background:#fc0; text-align:center;"|'''64.42%''' || style="background:#FF5050; text-align:center;"|34.18% || style="background:#f9f; text-align:center;"|1.40%
+|-
+| [[Niğde]] || style="background:#fc0; text-align:center;"|'''58.92%''' || style="background:#FF5050; text-align:center;"|39.70% || style="background:#f9f; text-align:center;"|1.38%
+|-
+| '''[[Ordu]]''' || style="background:#fc0; text-align:center;"|'''66.98%''' || style="background:#FF5050; text-align:center;"|31.61% || style="background:#f9f; text-align:center;"|1.41%
+|-
+| [[Rize]] || style="background:#fc0; text-align:center;"|'''80.57%''' || style="background:#FF5050; text-align:center;"|18.27% || style="background:#f9f; text-align:center;"|1.16%
+|-
+| '''[[Sakarya Province|Sakarya]]''' || style="background:#fc0; text-align:center;"|'''69.08%''' || style="background:#FF5050; text-align:center;"|28.65% || style="background:#f9f; text-align:center;"|2.27%
+|-
+|}
+
+| colwidth=2em | &nbsp;
+| style="vertical-align:top" |
+
+{| class="wikitable"
+|-
+! Province !! Erdoğan !! İhsanoğlu !! Demirtaş
+|-
+| '''[[Samsun]]''' || style="background:#fc0; text-align:center;"|'''65.87%''' || style="background:#FF5050; text-align:center;"|32.79% || style="background:#f9f; text-align:center;"|1.34%
+|-
+| [[Siirt]] || style="background:#fc0; text-align:center;"|42.45% || style="background:#FF5050; text-align:center;"|3.47% || style="background:#f9f; text-align:center;"|'''54.09%'''
+|-
+| [[Sinop Province|Sinop]] || style="background:#fc0; text-align:center;"|'''61.19%''' || style="background:#FF5050; text-align:center;"|36.99% || style="background:#f9f; text-align:center;"|1.81%
+|-
+| [[Sivas]] || style="background:#fc0; text-align:center;"|'''69.99%''' || style="background:#FF5050; text-align:center;"|28.79% || style="background:#f9f; text-align:center;"|1.22%
+|-
+| '''[[Tekirdağ]]''' || style="background:#fc0; text-align:center;"|38.22% || style="background:#FF5050; text-align:center;"|'''57.37%''' || style="background:#f9f; text-align:center;"|4.41%
+|-
+| [[Tokat]] || style="background:#fc0; text-align:center;"|'''62.29%''' || style="background:#FF5050; text-align:center;"|36.51% || style="background:#f9f; text-align:center;"|1.20%
+|-
+| '''[[Trabzon]]''' || style="background:#fc0; text-align:center;"|'''70.08%''' || style="background:#FF5050; text-align:center;"|28.74% || style="background:#f9f; text-align:center;"|1.18%
+|-
+| [[Tunceli]] || style="background:#fc0; text-align:center;"|14.36% || style="background:#FF5050; text-align:center;"|33.39% || style="background:#f9f; text-align:center;"|'''52.25%'''
+|-
+| '''[[Şanlıurfa]]''' || style="background:#fc0; text-align:center;"|'''68.60%''' || style="background:#FF5050; text-align:center;"|5.16% || style="background:#f9f; text-align:center;"|26.24%
+|-
+| [[Uşak]] || style="background:#fc0; text-align:center;"|'''50.55%''' || style="background:#FF5050; text-align:center;"|46.91% || style="background:#f9f; text-align:center;"|2.54%
+|-
+| '''[[Van]]''' || style="background:#fc0; text-align:center;"|42.60% || style="background:#FF5050; text-align:center;"|2.85% || style="background:#f9f; text-align:center;"|'''54.55%'''
+|-
+| [[Yozgat]] || style="background:#fc0; text-align:center;"|'''65.84%''' || style="background:#FF5050; text-align:center;"|33.22% || style="background:#f9f; text-align:center;"|0.95%
+|-
+| [[Zonguldak]] || style="background:#fc0; text-align:center;"|'''52.97%''' || style="background:#FF5050; text-align:center;"|45.04% || style="background:#f9f; text-align:center;"|1.99%
+|-
+| [[Aksaray]] || style="background:#fc0; text-align:center;"|'''74.00%''' || style="background:#FF5050; text-align:center;"|24.54% || style="background:#f9f; text-align:center;"|1.46%
+|-
+| [[Bayburt]] || style="background:#fc0; text-align:center;"|'''80.20%''' || style="background:#FF5050; text-align:center;"|19.05% || style="background:#f9f; text-align:center;"|0.75%
+|-
+| [[Karaman]] || style="background:#fc0; text-align:center;"|'''66.22%''' || style="background:#FF5050; text-align:center;"|32.13% || style="background:#f9f; text-align:center;"|1.65%
+|-
+| [[Kırıkkale]] || style="background:#fc0; text-align:center;"|'''63.96%''' || style="background:#FF5050; text-align:center;"|34.80% || style="background:#f9f; text-align:center;"|1.24%
+|-
+| [[Batman Province|Batman]] || style="background:#fc0; text-align:center;"|38.02% || style="background:#FF5050; text-align:center;"|1.98% || style="background:#f9f; text-align:center;"|'''60.00%'''
+|-
+| [[Şırnak]] || style="background:#fc0; text-align:center;"|14.79% || style="background:#FF5050; text-align:center;"|2.04% || style="background:#f9f; text-align:center;"|'''83.17%'''
+|-
+| [[Bartın]] || style="background:#fc0; text-align:center;"|'''57.71%''' || style="background:#FF5050; text-align:center;"|39.95% || style="background:#f9f; text-align:center;"|2.35%
+|-
+| [[Ardahan]] || style="background:#fc0; text-align:center;"|'''40.69%''' || style="background:#FF5050; text-align:center;"|36.23% || style="background:#f9f; text-align:center;"|23.09%
+|-
+| [[Iğdır]] || style="background:#fc0; text-align:center;"|26.89% || style="background:#FF5050; text-align:center;"|30.17% || style="background:#f9f; text-align:center;"|'''42.94%'''
+|-
+| [[Yalova]] || style="background:#fc0; text-align:center;"|'''50.20%''' || style="background:#FF5050; text-align:center;"|43.95% || style="background:#f9f; text-align:center;"|5.85%
+|-
+| [[Karabük]] || style="background:#fc0; text-align:center;"|'''64.57%''' || style="background:#FF5050; text-align:center;"|34.03% || style="background:#f9f; text-align:center;"|1.39%
+|-
+| [[Kilis]] || style="background:#fc0; text-align:center;"|'''64.98%''' || style="background:#FF5050; text-align:center;"|31.24% || style="background:#f9f; text-align:center;"|3.79%
+|-
+| [[Osmaniye]] || style="background:#fc0; text-align:center;"|48.57% || style="background:#FF5050; text-align:center;"|'''48.59%''' || style="background:#f9f; text-align:center;"|2.84%
+|-
+| [[Düzce]] || style="background:#fc0; text-align:center;"|'''73.57%''' || style="background:#FF5050; text-align:center;"|24.60% || style="background:#f9f; text-align:center;"|1.83%
+|}
+|}
+
+A summary of the numbers of provinces won by each candidate is shown below.
+
+{| class=wikitable style=text-align:right
+!scope="col", colspan="2"|Candidate
+!Provinces with pluralities (<50%)
+!Provinces with majorities (>50%)
+!Combined
+!Proportion
+|-
+|style="background:#ffd42a; width:4px; text-align:center;"| || align=left|[[Recep Tayyip Erdoğan]]||3||51||54||66.67%
+|-
+|style="background:#ff0000; width:4px; text-align:center;"| || align=left|[[Ekmeleddin İhsanoğlu|Ekmeleddin Mehmet İhsanoğlu]]||4||12||16||19.75%
+|-
+|style="background:#B53389; width:4px; text-align:center;"| || align=left|[[Selahattin Demirtaş]]||1||10||11||13.58%
+|-
+|scope="col", colspan="2"|{{align|left|'''Total'''}}||'''8'''||'''73'''||'''81'''||'''100.00%'''
+|}
+
+===Overseas results===
+{{stack begin | float=left}}
+[[File:2014 Turkish presidential election - Erdoğan global.png|thumb|315px|Results obtained by [[Recep Tayyip Erdoğan]] by country]] {{stack end}}
+{{stack begin | float=left}}
+[[File:2014 Turkish presidential election - İhsanoğlu global.png|thumb|315px|Results obtained by [[Ekmeleddin İhsanoğlu]] by country]] {{stack end}}
+{{stack begin | float=left}}
+[[File:2014 Turkish presidential election - Demirtaş global.png|thumb|315px|Results obtained by [[Selahattin Demirtaş]] by country]]{{stack end}}
+{{-}}
+
+Results are listed in alphabetical order.<ref>http://secim.haberler.com/cumhurbaskanligi-secimi/yurtdisi-sonuclari/</ref> Although Ekmeleddin İhsanoğlu won the most pluralities and majorities, the significantly larger Turkish electorate in countries that heavily voted for Erdoğan resulted in Erdoğan breaking many predictions by receiving nearly two thirds of the overseas vote. In [[Cairo]], the city in which İhsanoğlu was born, 53.73% voted for İhsanoğlu with 44.03% voting for Erdoğan. Regardless, İhsanoğlu won in [[Egypt]] by just one vote, due to large support for Erdoğan in [[Alexandria]].<ref>http://secim.haberler.com/cumhurbaskanligi-secimi/misir/</ref> Note that in the maps, [[Greenland]] is considered part of [[Denmark]], despite the fact that no voting took place in Greenland.
+{|
+| style="vertical-align:top" |
+
+{| class="wikitable"
+|-
+! Country !! Erdoğan !! İhsanoğlu !! Demirtaş
+|-
+| [[Albania]] || style="background:#fc0; text-align:center;"|35.81% || style="background:#FF5050; text-align:center;"|'''61.49%''' || style="background:#f9f; text-align:center;"|2.70%
+|-
+| [[Algeria]] || style="background:#fc0; text-align:center;"|'''42.41%''' || style="background:#FF5050; text-align:center;"|37.59% || style="background:#f9f; text-align:center;"|20.00%
+|-
+| [[Australia]] || style="background:#fc0; text-align:center;"|'''56.35%''' || style="background:#FF5050; text-align:center;"|34.53% || style="background:#f9f; text-align:center;"|9.12%
+|-
+| [[Austria]] || style="background:#fc0; text-align:center;"|'''80.17%''' || style="background:#FF5050; text-align:center;"|14.93% || style="background:#f9f; text-align:center;"|4.90%
+|-
+| [[Azerbaijan]] || style="background:#fc0; text-align:center;"|39.06% || style="background:#FF5050; text-align:center;"|'''53.86%''' || style="background:#f9f; text-align:center;"|7.08%
+|-
+| [[Bahrain]] || style="background:#fc0; text-align:center;"|25.00% || style="background:#FF5050; text-align:center;"|'''71.88%''' || style="background:#f9f; text-align:center;"|3.12%
+|-
+| [[Belgium]] || style="background:#fc0; text-align:center;"|'''69.85%''' || style="background:#FF5050; text-align:center;"|21.07% || style="background:#f9f; text-align:center;"|9.09%
+|-
+| [[Bosnia and Herzegovina]] || style="background:#fc0; text-align:center;"|'''52.59%''' || style="background:#FF5050; text-align:center;"|46.67% || style="background:#f9f; text-align:center;"|0.74%
+|-
+| [[Bulgaria]] || style="background:#fc0; text-align:center;"|35.31% || style="background:#FF5050; text-align:center;"|'''58.42%''' || style="background:#f9f; text-align:center;"|6.27%
+|-
+| [[Canada]] || style="background:#fc0; text-align:center;"|33.35% || style="background:#FF5050; text-align:center;"|'''51.62%''' || style="background:#f9f; text-align:center;"|15.02%
+|-
+| [[China]] || style="background:#fc0; text-align:center;"|25.27% || style="background:#FF5050; text-align:center;"|'''68.86%''' || style="background:#f9f; text-align:center;"|5.86%
+|-
+| [[Czech Republic]] || style="background:#fc0; text-align:center;"|19.88% || style="background:#FF5050; text-align:center;"|'''73.49%''' || style="background:#f9f; text-align:center;"|6.63%
+|-
+| [[Denmark]] || style="background:#fc0; text-align:center;"|'''62.65%''' || style="background:#FF5050; text-align:center;"|27.01% || style="background:#f9f; text-align:center;"|10.33%
+|-
+| [[Egypt]] || style="background:#fc0; text-align:center;"|48.59% || style="background:#FF5050; text-align:center;"|'''49.15%''' || style="background:#f9f; text-align:center;"|2.26%
+|-
+| [[Finland]] || style="background:#fc0; text-align:center;"|28.89% || style="background:#FF5050; text-align:center;"|'''43.70%''' || style="background:#f9f; text-align:center;"|27.41%
+|-
+| [[France]] || style="background:#fc0; text-align:center;"|'''66.02%''' || style="background:#FF5050; text-align:center;"|15.27% || style="background:#f9f; text-align:center;"|18.71%
+|-
+| [[Georgia (country)|Georgia]] || style="background:#fc0; text-align:center;"|46.51% || style="background:#FF5050; text-align:center;"|'''48.37%''' || style="background:#f9f; text-align:center;"|5.12%
+|-
+| [[Germany]] || style="background:#fc0; text-align:center;"|'''68.63%''' || style="background:#FF5050; text-align:center;"|23.74% || style="background:#f9f; text-align:center;"|7.63%
+|}
+
+| colwidth=2em | &nbsp;
+| style="vertical-align:top" |
+
+{| class="wikitable"
+|-
+! Country !! Erdoğan !! İhsanoğlu !! Demirtaş
+|-
+| [[Greece]] || style="background:#fc0; text-align:center;"|43.95% || style="background:#FF5050; text-align:center;"|'''44.44%''' || style="background:#f9f; text-align:center;"|11.60%
+|-
+| [[Hungary]] || style="background:#fc0; text-align:center;"|'''52.57%''' || style="background:#FF5050; text-align:center;"|35.29% || style="background:#f9f; text-align:center;"|12.13%
+|-
+| [[Iran]] || style="background:#fc0; text-align:center;"|47.89% || style="background:#FF5050; text-align:center;"|'''49.30%''' || style="background:#f9f; text-align:center;"|2.82%
+|-
+| [[Ireland]] || style="background:#fc0; text-align:center;"|24.56% || style="background:#FF5050; text-align:center;"|'''64.91%''' || style="background:#f9f; text-align:center;"|10.53%
+|-
+| [[Israel]] || style="background:#fc0; text-align:center;"|31.87% || style="background:#FF5050; text-align:center;"|'''58.24%''' || style="background:#f9f; text-align:center;"|9.89%
+|-
+| [[Italy]] || style="background:#fc0; text-align:center;"|'''45.82%''' || style="background:#FF5050; text-align:center;"|45.22% || style="background:#f9f; text-align:center;"|8.96%
+|-
+| [[Japan]] || style="background:#fc0; text-align:center;"|46.01% || style="background:#FF5050; text-align:center;"|'''47.85%''' || style="background:#f9f; text-align:center;"|6.13%
+|-
+| [[Jordan]] || style="background:#fc0; text-align:center;"|'''78.90%''' || style="background:#FF5050; text-align:center;"|20.45% || style="background:#f9f; text-align:center;"|0.65%
+|-
+| [[Khazakhstan]] || style="background:#fc0; text-align:center;"|36.50% || style="background:#FF5050; text-align:center;"|'''56.70%''' || style="background:#f9f; text-align:center;"|6.80%
+|-
+| [[Kosovo]] || style="background:#fc0; text-align:center;"|'''56.65%''' || style="background:#FF5050; text-align:center;"|37.64% || style="background:#f9f; text-align:center;"|5.70%
+|-
+| [[Kuwait]] || style="background:#fc0; text-align:center;"|31.47% || style="background:#FF5050; text-align:center;"|'''66.81%''' || style="background:#f9f; text-align:center;"|1.72%
+|-
+| [[Kyrgyzstan]] || style="background:#fc0; text-align:center;"|'''56.65%''' || style="background:#FF5050; text-align:center;"|37.64% || style="background:#f9f; text-align:center;"|5.70%
+|-
+| [[Lebanon]] || style="background:#fc0; text-align:center;"|'''85.93%''' || style="background:#FF5050; text-align:center;"|14.07% || style="background:#f9f; text-align:center;"|0.00%
+|-
+| [[Republic of Macedonia|Macedonia]] || style="background:#fc0; text-align:center;"|45.08% || style="background:#FF5050; text-align:center;"|'''54.10%''' || style="background:#f9f; text-align:center;"|0.82%
+|-
+| [[Netherlands]] || style="background:#fc0; text-align:center;"|'''77.95%''' || style="background:#FF5050; text-align:center;"|18.09% || style="background:#f9f; text-align:center;"|3.96%
+|-
+| [[New Zealand]] || style="background:#fc0; text-align:center;"|15.91% || style="background:#FF5050; text-align:center;"|'''72.73%''' || style="background:#f9f; text-align:center;"|11.36%
+|-
+| [[Turkish Republic of Northern Cyprus|Northern Cyprus]] || style="background:#fc0; text-align:center;"|'''54.85%''' || style="background:#FF5050; text-align:center;"|37.02% || style="background:#f9f; text-align:center;"|8.12%
+|-
+| [[Norway]] || style="background:#fc0; text-align:center;"|'''50.99%''' || style="background:#FF5050; text-align:center;"|33.44% || style="background:#f9f; text-align:center;"|15.56%
+|}
+
+| colwidth=2em | &nbsp;
+| style="vertical-align:top" |
+
+{| class="wikitable"
+|-
+! Country !! Erdoğan !! İhsanoğlu !! Demirtaş
+|-
+| [[Oman]] || style="background:#fc0; text-align:center;"|29.03% || style="background:#FF5050; text-align:center;"|'''69.35%''' || style="background:#f9f; text-align:center;"|1.61%
+|-
+| [[Poland]] || style="background:#fc0; text-align:center;"|32.17% || style="background:#FF5050; text-align:center;"|'''50.00%''' || style="background:#f9f; text-align:center;"|17.83%
+|-
+| [[Qatar]] || style="background:#fc0; text-align:center;"|24.51% || style="background:#FF5050; text-align:center;"|'''61.76%''' || style="background:#f9f; text-align:center;"|13.73%
+|-
+| [[Romania]] || style="background:#fc0; text-align:center;"|38.27% || style="background:#FF5050; text-align:center;"|'''42.65%''' || style="background:#f9f; text-align:center;"|19.08%
+|-
+| [[Russia]] || style="background:#fc0; text-align:center;"|28.74% || style="background:#FF5050; text-align:center;"|'''64.10%''' || style="background:#f9f; text-align:center;"|7.16%
+|-
+| [[Saudi Arabia]] || style="background:#fc0; text-align:center;"|'''80.55%''' || style="background:#FF5050; text-align:center;"|18.38% || style="background:#f9f; text-align:center;"|1.07%
+|-
+| [[South Africa]] || style="background:#fc0; text-align:center;"|33.33% || style="background:#FF5050; text-align:center;"|'''66.06%''' || style="background:#f9f; text-align:center;"|0.61%
+|-
+| [[Spain]] || style="background:#fc0; text-align:center;"|11.00% || style="background:#FF5050; text-align:center;"|'''76.98%''' || style="background:#f9f; text-align:center;"|12.03%
+|-
+| [[Sudan]] || style="background:#fc0; text-align:center;"|'''53.94%''' || style="background:#FF5050; text-align:center;"|44.24% || style="background:#f9f; text-align:center;"|1.82%
+|-
+| [[Sweden]] || style="background:#fc0; text-align:center;"|'''51.11%''' || style="background:#FF5050; text-align:center;"|32.64% || style="background:#f9f; text-align:center;"|16.25%
+|-
+| [[Switzerland]] || style="background:#fc0; text-align:center;"|'''39.62%''' || style="background:#FF5050; text-align:center;"|31.89% || style="background:#f9f; text-align:center;"|28.49%
+|-
+| [[Tunisia]] || style="background:#fc0; text-align:center;"|32.14% || style="background:#FF5050; text-align:center;"|'''61.90%''' || style="background:#f9f; text-align:center;"|5.95%
+|-
+| [[Turkmenistan]] || style="background:#fc0; text-align:center;"|39.57% || style="background:#FF5050; text-align:center;"|'''55.00%''' || style="background:#f9f; text-align:center;"|5.43%
+|-
+| [[Ukraine]] || style="background:#fc0; text-align:center;"|'''48.17%''' || style="background:#FF5050; text-align:center;"|44.04% || style="background:#f9f; text-align:center;"|7.80%
+|-
+| [[United Arab Emirates]] || style="background:#fc0; text-align:center;"|18.75% || style="background:#FF5050; text-align:center;"|'''75.47%''' || style="background:#f9f; text-align:center;"|5.78%
+|-
+| [[United Kingdom]] || style="background:#fc0; text-align:center;"|23.53% || style="background:#FF5050; text-align:center;"|'''49.72%''' || style="background:#f9f; text-align:center;"|26.74%
+|-
+| [[United States of America]] || style="background:#fc0; text-align:center;"|15.91% || style="background:#FF5050; text-align:center;"|'''77.88%''' || style="background:#f9f; text-align:center;"|6.21%
+|-
+| [[Uzbekistan]] || style="background:#fc0; text-align:center;"|'''65.57%''' || style="background:#FF5050; text-align:center;"|32.79% || style="background:#f9f; text-align:center;"|1.64%
+|}
+|}
+
+A summary of the numbers of countries won by each candidate is shown below.
+
+{| class=wikitable style=text-align:right
+!scope="col", colspan="2"|Candidate
+!Countries with pluralities (<50%)
+!Countries with majorities (>50%)
+!Combined
+!Proportion
+|-
+|style="background:#ffd42a; width:4px; text-align:center;"| || align=left|[[Recep Tayyip Erdoğan]]||4||19||23||42.59%
+|-
+|style="background:#ff0000; width:4px; text-align:center;"| || align=left|[[Ekmeleddin İhsanoğlu|Ekmeleddin Mehmet İhsanoğlu]]||8||23||31||57.41%
+|-
+|style="background:#B53389; width:4px; text-align:center;"| || align=left|[[Selahattin Demirtaş]]||0||0||0||0.00%
+|-
+|scope="col", colspan="2"|{{align|left|'''Total'''}}||'''12'''||'''42'''||'''54'''||'''100.00%'''
+|}
+
+==Aftermath==
+[[File:Gül-Erdoğan cumhurbaşkanlığı devir teslim.jpg|230px|thumbnail|left|Recep Tayyip Erdoğan taking over as President from [[Abdullah Gül]] in a handover ceremony on 28 August 2014]]
+Recep Tayyip Erdoğan, by virtue of winning more than half of the vote, was formally inaugurated as the [[List of Presidents of Turkey|12th]] [[President of Turkey]] and took over from [[Abdullah Gül]] in a handover ceremony on 28 August 2014.<ref>http://www.cnnturk.com/haber/turkiye/erdogan-gorevi-bugun-devraliyor</ref><ref>http://www.hurriyet.com.tr/gundem/27096257.asp</ref> The ceremony was boycotted by the opposition CHP.<ref>http://sozcu.com.tr/2014/gundem/yemin-toreninde-chplilerden-protesto-588298/</ref> A day before the presidential handover, the AKP held its [[2014 Justice and Development Party Extraordinary Congress|first extraordinary congress]] in order to elect a leader to succeed Erdoğan.<ref>http://sozcu.com.tr/2014/gundem/akpde-kongre-heyecani-586967/</ref> Previously on 21 August, a 3 hour AKP Central Executive Committee meeting chaired by Erdoğan formally nominated former foreign minister [[Ahmet Davutoğlu]] for the party leadership.<ref>http://t24.com.tr/konular/akpde-yeni-lider-kim-olacak</ref> No other candidate expressed any intention of running, and Davutoğlu was unanimously elected as leader unopposed with 100% of the vote.<ref>http://www.radikal.com.tr/politika/davutoglu_1382_oyla_ak_partinin_yeni_genel_baskani-1209401</ref> As he was elected as the leader of a party which commanded a parliamentary majority, Davutoğlu was invited by President Erdoğan to form a government on 28 August.<ref>http://www.ntvmsnbc.com/id/25534300/</ref> As a consequence, the [[Cabinet Davutoğlu|62nd government of the Turkish Republic]] was sworn in by Erdoğan on 29 August, with Davutoğlu leading it as [[Prime Minister of Turkey|Prime Minister]].<ref>http://www.cnnturk.com/haber/turkiye/ahmet-davutoglu-yeni-kabineyi-acikladi</ref>
+
+===Domestic reactions===
+[[File:AK Party fans celebrating victory of Recep Tayyip Erdoğan.jpg|thumb|[[AK Party]] fans celebrating victory of Erdoğan after the election, [[Ankara]]]]
+[[Recep Tayyip Erdoğan]] made a victory speech on the balcony of the AK Party office in [[Ankara]] after his victory was confirmed. In his speech, he thanked his supporters for their help during his campaign and stated that the only losers of the election was "dirty politics" and stressed the need to leave hatred and rivalries in the "old Turkey." He further stated that he would be the President of all 77 million citizens of Turkey, and that he would not discriminate or marginalise minorities or political opponents. His speech drew criticism for not containing any mention of [[Mustafa Kemal Atatürk]], the first President of Turkey.<ref>http://sozcu.com.tr/2014/gunun-icinden/erdogandan-balkon-konusmasi-574975/</ref>
+
+[[Ekmeleddin İhsanoğlu]] conceded defeat and congratulated Erdoğan, wishing him well in his new role.<ref>http://www.hurriyet.com.tr/gundem/26980190.asp</ref> He stated that he had won approximately 40% of the vote, which was "by no means" an insignificant amount. He thanked his campaign team and supporters for their help during the campaign.<ref>http://www.aa.com.tr/tr/politika/371537--demokrasimiz-icin-hayirli-olsun</ref>
+
+[[Selahattin Demirtaş]] also conceded defeat but did not congratulate Erdoğan, claiming that the election had not been held in a fair manner. He stated that his campaign had reached its goal of obtaining nearly 10% of the vote, which is a threshold for obtaining parliamentary seats in general elections. He stated that he would be filing a formal complaint of results in some areas to the Supreme Electoral Council.<ref>http://www.sabah.com.tr/Gundem/2014/08/10/selahattin-demirtastan-ilk-aciklama</ref>
+[[File:Ekmeleddin İhsanoğlu, 2014.jpg|thumbnail|left|230px|Ekmeleddin İhsanoğlu waiting for the election results to be announced]]
+Former President and Prime Minister [[Süleyman Demirel]], outgoing President [[Abdullah Gül]] and parliamentary speaker [[Cemil Çiçek]] all congratulated Erdoğan on his election victory.<ref>http://www.cnnturk.com/haber/turkiye/demirelden-erdogana-tebrik-telefonu</ref>
+
+MHP leader [[Devlet Bahçeli]] and deputy leader of the [[Republican People's Party (Turkey)|CHP]] [[Haluk Koç]] both criticised the lack of fairness during the campaigning period, with Bahçeli blaming "boycotters and holidaymakers" for not voting and guaranteeing Erdoğan's victory in the first round. Regardless, Koç thanked the 12 other political parties that supported İhsanoğlu as well as all the supporters that helped during his campaign.<ref>http://www.hurriyet.com.tr/gundem/26980254.asp</ref><ref>http://www.cnnturk.com/haber/turkiye/devlet-bahceliden-cok-sert-aciklama</ref>
+
+The election loss for the CHP resulted in many MPs such as [[Emine Ülker Tarhan]], [[Muharrem İnce]] and [[Süheyl Batum]] losing confidence in the leadership of [[Kemal Kılıçdaroğlu]].<ref>http://www.aksam.com.tr/siyaset/muharrem-inceden-istifa-aciklamasi/haber-331646</ref> İnce resigned as parliamentary group leader in protest, calling for a party convention with a leadership election to be held. The call for a new leadership vote was mainly attributed to Kılıçdaroğlu taking the "risky" decision to support İhsanoğlu without consulting MPs.<ref>http://www.gercekgundem.com/siyaset/63522/muharrem-ince-riskin-bedeli-kurultaydir</ref> Despite initially accusing rebellious MPs of not contributing to the election campaign and thus helping Erdoğan win, Kılıçdaroğlu eventually announced that there would be an [[2014 Republican People's Party Convention|extraordinary party convention with a leadership election]] held in September.<ref>http://www.haberler.com/chp-kurultay-karari-aldi-kilicdaroglu-acikladi-6380225-haberi/</ref>
+
+==International reactions==
+
+===Countries===
+* {{flag|Afghanistan}} – [[President of Afghanistan|President]] [[Hamid Karzai]], wished Erdoğan every success in his new role as President and hoped that Turkish-Afghan relations would develop further in his new role.<ref>http://www.konhaber.com/yeni/haber-178003-GUNCEL-Afganistan-Devlet-Baskani-Karzai-Erdogani-tebrik-etti.html</ref>
+* {{flag|Azerbaijan}} – The [[President of Azerbaijan]] [[Ilham Aliyev]] hoped that the Turkey would continue to prosper under Erdoğan's new role. He also congratulated Erdoğan by phone.<ref>http://www.trtturk.com/haber/ilham-aliyev-erdogani-kutladi.html</ref>
+* {{flag|Bosnia and Herzegovina}} – [[Bakir Izetbegović]], the [[Chairmen of the Presidency of Bosnia and Herzegovina|President of Bosnia and Herzegovina]] congratulated Erdoğan in a written message. Izetbegović said, "Every success to brother Turkey we experience as our own"<ref>http://www.oslobodjenje.ba/vijesti/bih/izetbegovic-cestitao-erdoganu-turski-narod-je-napravio-najbolji-izbor</ref> 
+*{{flag|Egypt}} – The deposed [[Egypt]]ian president [[Muhammad Morsi]], who was overthrown in a [[2013 Egyptian coup d'état|military coup in 2013]], congratulated Erdoğan and wished him well in his role as president. The message from Morsi was displayed on the website of his [[Freedom and Justice Party (Egypt)|Freedom and Justice Party]].<ref>http://www.aa.com.tr/tr/rss/372021--mursi-erdogani-tebrik-etti</ref>
+* {{flag|Georgia}} – The [[Prime Minister of Georgia|Georgian Prime Minister]] [[Irakli Garibashvili]] and President [[Giorgi Margvelashvili]] both congratulated Erdoğan on becoming the first directly elected President of Turkey.<ref name="aa.com.tr">http://www.aa.com.tr/tr/haberler/372458--erdogana-tebrik-telefonlari-devam-ediyor</ref>
+* {{flag|Germany}} – German Chancellor [[Angela Merkel]] congratulated Erdoğan in a written message, wishing him success in his new role as President. She also stressed the need to preserve close relations between [[Germany]] and Turkey.<ref>http://www.dw.de/merkelden-erdo%C4%9Fana-kutlama/a-17845570</ref> In a phone call on 14 August, Merkel again congratulated Erdoğan and also discussed regional issues.<ref>http://www.trthaber.com/haber/gundem/merkelden-erdogana-tebrik-telefonu-140313.html</ref>
+* {{flag|Iran}} - President [[Hassan Rouhani]] congratulated Erdoğan on his victory in Turkey’s first presidential election in a telephone conversation. Rouhani also underscored the need for increased cooperation between Tehran and Ankara on Iraq, Syria, and Palestine and said, “The campaign against terrorism in the region, especially in Iraq, requires cooperation between the two countries.”<ref>http://www.tehrantimes.com/politics/117591-rouhani-congratulates-erdogan-on-election-victory</ref> 
+* {{flag|Jordan}} – The [[King of Jordan]], [[Abdullah II]] congratulated Erdoğan on becoming Turkey's first directly elected President by written message.<ref name="sondevir.com">http://www.sondevir.com/?aType=haber&ArticleID=194875</ref>
+* {{flag|Kosovo}} – [[Hashim Thaçi]], the [[Prime Minister of Kosovo]] congratulated Erdoğan in a written message and hoped that Turkish-Kosovan relations would continue to develop in his new role.<ref>http://www.haberler.com/kosova-basbakani-hasim-taci-den-erdogan-a-kutlama-6370530-haberi/</ref>
+* {{flag|Kyrgyzstan}} – The [[President of Kyrgyzstan]], [[Almazbek Atambayev]], attended as a surprise guest speaker at Erdoğan's balcony speech on the eve of the elections, praising his premiership and congratulating him and Turkey on his election as President.<ref>http://www.haber7.com/ic-politika/haber/1189633-balkon-konusmasina-damga-vuran-surpriz</ref>
+* {{flag|Lebanon}} – The [[Prime Minister of Lebanon]] [[Tammam Salam]] congratulated Erodoğan and hoped to work together in strengthening relations and developing a mutual policy against the latest regional developments.<ref>http://www.sondakika.com/haber/haber-erdogan-in-cumhurbaskani-secilmesi-6375684/</ref> Former Lebanese President [[Amine Gemayel]] and former Prime Minister [[Saad Hariri]] also congratulated Erodoğan.<ref>http://www.ajans34.com/guncel/misir-tunus-ve-lubnan-dan-erdogan-a-tebrik-mesajlari-h151955.html</ref>
+* {{flag|Mauritania}} – [[Mohamed Ould Abdel Aziz]], the [[President of Mauritania]], congratulated Erdoğan and wished that his victory would bring both welfare and development to Turkey as well as stronger ties between Mauritania and Turkey.<ref name="sondevir.com"/>
+* {{flag|Morocco}} – The [[King of Morocco]], [[Mohammed VI of Morocco|Mohammed VI]], congratulated Erdoğan and hoped that the economic development in Turkey would continue under his presidency.<ref name="aa.com.tr"/>
+* {{flag|Northern Cyprus}} The [[President of the Turkish Republic of Northern Cyprus]], [[Derviş Eroğlu]], wished Erdoğan every success in his new role, hoping that it would contribute to closer relations between Northern Cyprus and the motherland.<ref>http://www.iha.com.tr/haber-eroglu-erdogani-tebrik-etti-381368/</ref>
+* {{flag|Pakistan}} – [[Nawaz Sharif]], the [[Prime Minister of Pakistan]], congratulated Erdoğan by phone and wished him well in his new role.<ref name="sondakika.com">http://www.sondakika.com/haber/haber-erdogan-a-tebrik-telefonlari-6379269/</ref>
+* {{flag|Russia}} – A spokesperson from the [[Kremlin]] announced that [[Russian President]] [[Vladimir Putin]] had phoned and congratulated Erdoğan on becoming the first directly elected president of Turkey.<ref>[http://www.radikal.com.tr/dunya/dunya_liderlerinden_erdogana_tebrik_mesaj_yagdi-1206298 Dünya liderlerinden Erdoğan'a tebrik mesaj yağdı] Radikal.</ref>
+* {{flag|Tunisia}} – The leader of the [[Tunisia]]n political [[Ennahda Movement]] [[Rashid Al-Ghannushi]] congratulated Erodoğan via social media. The party's spokesperson Ziyad el-Uzari stated that the victory showed that democracy was a viable option in the [[Arab Spring]]. [[President of Tunisia|Tunisian President]] [[Moncef Marzouki]] also congratulated Erdoğan by phone.<ref>http://www.haksozhaber.net/mursi-ve-nahda-erdogani-tebrik-etti-50941h.htm</ref>
+* {{flag|Turkmenistan}} – The President of [[Turkmenistan]], [[Gurbanguly Berdimuhamedow]], congratulated Erdoğan on his success by phone.<ref name="sondakika.com"/>
+* {{flag|United Kingdom}} - British Prime Minister [[David Cameron]] phoned Erdoğan and congratulated him on his electoral success.<ref name="sondakika.com"/>
+* {{flag|United States}} – U.S. President [[Barack Obama]] congratulated Erdoğan by phone, praising him for his victory speech and adding that being the first directly elected President of Turkey was a "historical opportunity." Previously, [[United States National Security Council|National Security Council]] spokesperson Caitlin Hayden stated that President Obama had seen the election results and was prepared to work with Erdoğan and the new Prime Minister in their new roles.<ref>http://www.hurriyet.com.tr/dunya/26992543.asp</ref>
+
+===International Organizations===
+* {{flag|European Union}} – [[European Commission President]] [[José Manuel Barroso]] and [[European Council]] President [[Herman Van Rompuy]] congratulated Erdoğan and hoped to pursue closer relations with Turkey. They also stressed the need for a solution to the [[Cyprus dispute]] and the need for social reconciliation within Turkey.<ref>http://www.euractiv.com.tr/ab-ve-turkiye/article/erdogandan-yeni-bir-toplumsal-uzlasma-cagrisi-030086</ref>
+* The leader of the [[International Union of Muslim Scholars]], [[Yusuf al-Qaradawi]], congratulated Erdoğan and stated that he had been elected as the "right man for the right job."<ref>http://www.dunyavegercekler.com/haber/3422-karadavi39den-erdogan39a-tebrik-mesaji.html</ref>
+
+==See also==
+
+*[[Turkish constitutional referendum, 2007]]
+*[[Supreme Electoral Council of Turkey]]
+*[[Elections in Turkey]]
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{Commons category|Turkey presidential election, 2014}}
+*[http://www.english.rfi.fr/europe/20140730-turkey-presidential-election-2014 Radio France Internationale in English on Turkey's 2014 presidential election]
+*[https://egiuliani.wordpress.com/2013/11/10/turkeys-difficult-balancing-act/ Turkey's Difficult Balancing Act (Midwest Diplomacy)]
+
+{{Turkish presidential elections}}
+{{Turkish elections}}
+{{Recep Tayyip Erdoğan}}
+
+[[Category:2014 elections in Turkey]]
+[[Category:Presidential elections in Turkey|2014]]

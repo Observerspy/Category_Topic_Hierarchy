@@ -1,0 +1,101 @@
+{{Infobox Election
+| election_name = Russian presidential election, 2000
+| country = Russia
+| type = presidential
+| ongoing = no
+| previous_election = Russian presidential election, 1996
+| previous_year = 1996
+| next_election = Russian presidential election, 2004
+| next_year = 2004
+| election_date = 26 March 2000
+| image1 = [[File:Vladimir Putin-5 edit.jpg|128px]]
+| nominee1 = '''[[Vladimir Putin]]'''
+| party1 = Independent (politician)
+| popular_vote1 = '''39,740,467'''
+| percentage1 = 53.4%
+| image2 = [[File:Gennady Zyuganov 2012-05-01.jpg|108px]]
+| nominee2 = [[Gennady Zyuganov]]
+| party2 = Communist Party of the Russian Federation
+| popular_vote2 = 21,928,468
+| percentage2 = 29.5%
+| image3 = [[File:GAYavlinskiy.jpg|112px]]
+| nominee3 = [[Grigory Yavlinsky]]
+| party3 = Yabloko
+| popular_vote3 = 4,351,450
+| percentage3 = 5.9%
+| title = President
+| before_election = [[Boris Yeltsin]]
+| after_election = [[Vladimir Putin]]
+| before_party = Independent (politician)
+| after_party = Independent (politician)
+}}
+
+'''Presidential elections''' were held in [[Russia]] on 26 March 2000.<ref name=NS>[[Dieter Nohlen|Nohlen, D]] & Stöver, P (2010) ''Elections in Europe: A data handbook'', p1642 ISBN 978-3-8329-5609-7</ref> Incumbent Prime Minister and acting President [[Vladimir Putin]], who had succeeded [[Boris Yeltsin]] on his resignation on 31 December 1999, was seeking a four-year term in his own right and won the elections in the first round. Polling stations were opened from 8:00 a.m. to 8:00 p.m.
+
+==Candidates==
+A total of 33 candidates were nominated; 15 submitted the application forms to the [[Central Electoral Committee of Russia|Central Electoral Committee]], and ultimately 12 candidates were registered. One of them withdrew shortly before the deadline, so 11 candidates took part in the elections: [[Vladimir Putin]], [[Gennady Zyuganov]], [[Grigory Yavlinsky]], [[Aman Tuleyev|Amangeldy Tuleyev]], [[Vladimir Zhirinovsky]], [[Konstantin Titov]],  [[Ella Pamfilova]], [[Stanislav Govorukhin]], [[Yury Skuratov]], [[Alexey Podberezkin]], and [[Umar Dzhabrailov]].
+
+==Campaign==
+Putin's campaign press service announced that he decided not to use the free radio and television time provided to all candidates and not to take part in TV debates. A number of other candidates explained this as a refusal to clarify his position on various controversial issues. However, during the campaign Putin excessively often appeared on TV screens as a newsmaker.<ref name="assembly.coe.int"/>
+
+==Conduct==
+The decision to conduct the presidential elections also in [[Chechnya]] was perceived as controversial by many observers due to the [[Second Chechen War|military campaign]] and security concerns.<ref>[http://www.osce.org/odihr/elections/russia/16275 OSCE final report on the presidential election in the Russian Federation, 26 March 2000] OCSE</ref> The [[Russian legislative election, 1999|legislative elections]] held on 19 December 1999 had been suspended in Chechnya for these reasons.
+
+The [[Parliamentary Assembly of the Council of Europe|PACE]] observers delegation concluded that "the unequal access to television was one of the main reasons for a degree of unfairness of the campaign" and that "independent media have come under increasing pressure and that media in general, be they State-owned or private, failed to a large extent to provide impartial information about the election campaign and candidates."<ref name="assembly.coe.int">[http://assembly.coe.int/main.asp?Link=/documents/workingdocs/doc00/edoc8693.htm Ad hoc Committee to observe the Russian presidential election (26 March 2000)] [[Parliamentary Assembly of the Council of Europe|PACE]], 3 April 2000</ref>
+
+The PACE delegation also reported that the media got more and more dominated by politically influential owners. The [[Channel One (Russia)|TV channel ORT]] launched a slanderous campaign against Yavlinsky's image as his ratings started to rise sharply, and broadcasters generally nearly ignored candidates who did not fulfil interests of their owners. One of the main independent broadcasters, [[NTV Russia|NTV]], was subject to increasing financial and administrative pressure during the electoral campaign.
+
+There were also  many allegedly serious forgeries reported that could affect Putin's victory in the first round.<ref>[http://www.themoscowtimes.com/election_fraud.html Election Fraud Reports] [[The Moscow Times]]</ref><ref>[http://www.lib.ru/HISTORY/FELSHTINSKY/naslednik.txt The Operation "Successor"] [[Vladimir Pribylovsky]] and [[Yuriy Felshtinsky]] {{ru icon}}</ref>
+
+==Results==
+{| class=wikitable style=text-align:right
+!Candidate
+!Party
+!Votes
+!%
+|-
+|align=left|[[Vladimir Putin]]||align=left|[[Independent (politician)|Independent]]<ref>{{Wayback |date=20070716142445 |url=http://ww.fci.ru/way/326418/obj/202303.html |title=Субъект выдвижения - "Инициативная группа избирателей по выдвижению В.В.Путина" }}</ref>||39,740,467||53.4
+|-
+|align=left|[[Gennady Zyuganov]]||align=left|[[Communist Party of the Russian Federation|Communist Party]]||21,928,468||29.5
+|-
+|align=left|[[Grigory Yavlinsky]]||align=left|[[Yabloko]]||4,351,450||5.9
+|-
+|align=left|[[Aman Tuleyev]]||align=left|Independent||2,217,364||3.0
+|-
+|align=left|[[Vladimir Zhirinovsky]]||align=left|[[Liberal Democratic Party of Russia|Liberal Democratic Party]]||2,026,509||2.7
+|-
+|align=left|[[Konstantin Titov]]||align=left|Independent{{ref label|reference_name_A|a|a}}||1,107,269||1.5
+|-
+|align=left|[[Ella Pamfilova]]||align=left|For Civic Dignity||758,967||1.0
+|-
+|align=left|[[Stanislav Govorukhin]]||align=left|Independent||328,723||0.4
+|-
+|align=left|[[Yury Skuratov]]||align=left|Independent||319,189||0.4
+|-
+|align=left|[[Alexey Podberezkin]]||align=left|Spiritual Heritage||98,177||0.1
+|-
+|align=left|[[Umar Dzhabrailov]]||align=left|Independent||78,498||0.1
+|-
+|align=left colspan=2|Against all||1,414,673||1.9
+|-
+|align=left colspan=2|Invalid/blank votes||701,016||–
+|-
+|align=left colspan=2|'''Total'''||'''75,070,770'''||'''100'''
+|-
+|align=left colspan=2|Registered voters/turnout||109,372,043||68.6
+|-
+|align=left colspan=4|Source: Nohlen & Stöver, [http://www2.essex.ac.uk/elect/database/indexElections.asp?country=RUSSIA&election=ru2000presidential University of Essex]
+|}
+
+{{note label|reference_name_A|a|a}} Titov was unofficially aligned with the [[Union of Rightist Forces]].<ref>[http://www2.essex.ac.uk/elect/database/indexElections.asp?country=RUSSIA&election=ru2000presidential 2000 Presidential elections] University of Essex</ref>
+
+Putin’s highest official result was in [[Ingushetia]] - 85.42%, his lowest achievement was in neighbouring [[Chechnya]]&nbsp;– 29.65%, Zyuganov’s results ranged from 47.41% in the [[Lipetsk Oblast|Lipetsk region]] to 4.63% in Ingushetia, Yavlinsky’s results ranged from 18.56% in [[Moscow]] to 0.42% in [[Dagestan]], Zhirinovsky’s results ranged from 6.13% in the [[Kamchatka Oblast|Kamchatka region]] to 0.29% in Ingushetia.<ref>[http://www.electoralgeography.com/en/countries/r/russia/2000-president-elections-russia.html Electoral Geography. Russia, Presidential Elections, 2000] Electoral Geography</ref>
+
+==References==
+{{reflist}}
+
+{{Russian elections}}
+
+[[Category:Presidential elections in Russia|2000]]
+[[Category:2000 elections in Russia]]
+[[Category:2000 in Russia|Presidential election]]

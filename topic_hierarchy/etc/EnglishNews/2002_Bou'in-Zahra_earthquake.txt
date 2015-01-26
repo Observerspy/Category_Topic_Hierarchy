@@ -1,0 +1,82 @@
+{{pp-move-indef}}
+{{Earthquake
+|title=2002 Bou'in–Zahra earthquake
+|date= {{Start date|2002|6|22}}
+|origintime = 02:58&nbsp;UTC (7:28&nbsp;a.m. Iran Standard Time)
+|duration = 7 seconds
+|map = 2002 Iran earthquake.jpg
+|caption = Star indicates epicenter of the earthquake
+|magnitude = 6.3 Moment magnitude scale|M<sub>w</sub>
+|depth={{convert|10|km|mi|6}}
+|location={{coord|35.626|N|49.047|E|region:IR_type:event|display=inline,title}}
+|countries affected = {{flag|Iran}}
+|aftershocks = more than 20
+|landslide = 59
+|casualties = 261 dead, 1,500 injured, and 50,000 homeless
+}}
+
+The '''2002 Bou'in-Zahra earthquake''' (also known as the '''2002 Avaj earthquake''' or the '''2002 Changureh earthquake'''{{Ref|art5|a}}) occurred on June 22, 2002 in a region of northwestern Iran which is crossed by several major fault lines. The earthquake's epicenter was near the city{{Ref|art6|b}} of Bou'in-Zahra{{Ref|art7|c}} in Qazvin Province, an area known for destructive earthquakes. Measuring 6.5 on the Richter scale and 6.3 on the moment magnitude scale, the earthquake killed at least 261 people and injured 1,500 more. Over 20 aftershocks followed the earthquake.
+
+According to the International Institute of Earthquake Engineering and Seismology (IIEES), the earthquake was felt as far away as the capital city of Tehran, approximately {{convert|290|km|mi|0}} east of the epicenter, although no damage was reported there. Most houses in the region were single-story masonry buildings, and virtually all of these collapsed. The public became angry due to the slow official response to victims who needed supplies. Residents of the town of Avaj resorted to throwing stones at the car of a government minister.
+
+==Background and tectonics==
+The northeastern part of Iran lies across part of the belt of active continental collision between the Arabian Plate and the Eurasian Plate. Qazvin Province, which is located between these two zones, suffers less earthquakes, but these may be more powerful because stresses have longer to build.
+
+The Bou'in-Zahra earthquake was located in an area of active thrust faulting and Fold (geology)|folding, parallel and south of the southern edge of the Alborz mountain range, The rupture's focal mechanism|mechanism of faulting was reverse.
+
+Multiple-event relocation of the main shock and aftershock epicenters and discontinuous surface ruptures recorded after the earthquake are compatible with northeastward movement on a southwest-dipping thrust, although maximum recorded displacements were less than would have been expected from the observed magnitude. This suggests that most of the slip did not actually reach the Earth's surface but caused folding at the surface. In 1990 a 1990 Manjil-Rudbar earthquake|rupture killed over 40,000 people, injured 60,000, and left more than 500,000 homeless.
+
+==Damage and casualties==
+Image:Kharaghan.jpg|thumb|left|275px|The Kharraqan towers|Kharāghān twin towers before the earthquake
+The earthquake occurred at 02:58&nbsp;UTC (7:28&nbsp;a.m. Iran Standard Time), and the epicenter was near the settlement of Bou'in-Zahra a mountainous farming region The greatest damage was across an area best known for its seedless grape harvesting, a getaway for wealthy residents of Tehran. An earlier death toll was reported as 500, but this number was believed to be inflated once it became known that some of the severely injured had been mistaken for dead. as many of the men were working in local vineyards. with magnitudes up to 5.1 on the moment magnitude scale. most of which were within a {{convert|25|km|mi|0}} radius of the main shock.
+
+An estimated 5,000 buildings were damaged beyond repair. As non-engineered structures, these could not withstand seismic forces, with structural failure and collapse resulting from wall-to-wall separation and the lack of structural integrity and of a proper lateral system of resisting. Damage to the historic Kharraqan towers|Kharaqan tomb towers, which were in a good state of preservation before the event, suggests that the earthquake was possibly one of the most powerful in the region for approximately 900 years.
+
+At a station {{convert|28|km|mi|0}} from the epicenter, the maximum horizontal and vertical accelerations were recorded to be roughly 0.5&nbsp;Standard gravity|g and 0.26&nbsp;g. Surface cracks were observed in Ab Darreh, Qazvin|Ab Darreh and Changureh, Buin Zahra|Changureh, the villages that suffered the heaviest damage, being roughly {{convert|25|km|mi|0}} from the epicenter.
+
+The relatively low levels of damage in the towns of Avaj or Ab-e-Garm in comparison to Changureh and Ab Darreh suggest a focus of damage to the northwest of the epicenter due to northwest propagation. In Changureh, only two buildings were left standing and over 120 casualties occurred. Ab Darreh also fared poorly; the disaster destroyed the town's only mosque, toppled 40 homes and killed at least 20 people. North of Avaj, in the village of Esmailabad, Buin Zahra|Esmailabad, survivors recovered 38 corpses, a ninth of the total population, while searching for the missing, feared trapped in the ruins. In another village in the vicinity, Aliabad, Avaj|Aliabad, two shepherds were the only known survivors. In the small village of Kisse-Jin, roughly 80 corpses were recovered following the rupture. Survivors crying and beating their heads and faces over loved ones were a common sight on Iranian state television.
+
+The cost of the damage was estimated at US$91&nbsp;million.{{Ref|art8|d}} The quake was felt across a wide area, including the provinces of Qazvin, Gīlān Province|Gilan, Kurdistan province (Iran)|Kurdistan, Zanjan Province|Zanjan, and Hamadān Province|Hamedan. Of all these, Qazvin was the most heavily damaged, with an unnamed Qazvin official reporting that 177 had died in the province. It was also felt in the capital of Tehran, roughly {{convert|290|km|mi|0}} east of the epicenter, although no serious damage was reported. However, Iranian journalist Borzou Daragahi reported that in Tehran he saw buildings sway and glass objects shatter.
+
+===Landslides===
+The Bou'in-Zahra earthquake triggered 59 landslides over an area of about {{convert|3600|km2|sqmi|0}}. Landslides formed due to the quake included 47 Landslide classification#Falls|falls and Landslide classification#Topples|topples, nine Landslide classification#Slides|slides, and three lateral Landslide classification#Spreads|spreads. The largest of these slides was a rockslide, 150 × 100 m (490 × 330&nbsp;ft), which occurred southeast of Changureh. Landslides triggered by the quake occurred more often in the geologic areas most susceptible to damage, where there were many landslides before.
+
+==Relief efforts and aftermath==
+The Red Crescent Society sent relief workers, detection dogs, 100&nbsp;tons of food, The United Nations' Office for the Coordination of Humanitarian Affairs (OCHA) mobilised a United Nations Disaster Assessment and Coordination (UNDAC) team, deploying five members.
+
+United States President George W. Bush offered aid to Iran, which he had previously called part of an "axis of evil". According to him, "human suffering knows no political boundaries" and he stood "ready to assist the people of Iran as needed and as desired". However, the Iranian government refused his help, though it called for the help of non-governmental agencies.
+
+According to Hossein Rahnema, head of the Red Crescent in Changureh, the society "levelled an area to put up tents but most people wanted to stay next to their houses to look after their property". Hospitals struggled to cope with the surplus of patients, discharging non-critical ones from their wards. A bank account was started to handle public donations for the families of the dead.
+
+Often armed with no more than shovels and spades, soldiers and civilians dug for bodies in the rubble. Other than this, rescue workers were faced with a number of obstacles, including the temperatures of the villages damaged. They were warm during the day, although the villages grew colder at night, making rescue work harder and threatening the health of the homeless and anyone alive and trapped under the debris. Many civilians were discouraged from helping due to fear of aftershocks. According to Gary Oshea of International Rescue, the volunteers did not have enough technical equipment, and the religious leaders seemed unwilling to contribute much. Official rescue work ended on June 24, 2002, when rescue workers said there were no more survivors.
+
+===Public reaction===
+Of the roughly 80 villages that suffered heavy damage, the Iranian government claimed that relief work was mostly complete. In protest at Iran's slow response to the tragedy, some 300 people blocked the main road through Avaj. They also claimed that the death toll was higher than official reports said it was.
+
+===Reconstruction===
+Electricity was restored to affected areas by June 25.
+On November 9, 2002, the World Bank granted $225&nbsp;million towards the reconstruction and economic rehabilitation of the area devastated by the quake.
+
+==Notes==
+* a {{note|art5}} Several sources call the earthquake the 2002 Changureh or Avaj earthquake, as reports differ as to the quake's location. The official Islamic Republic News Agency report names Bou'in-Zahra the nearest town to the epicenter.
+* b {{note|art6}} Buin Zahra County|Bou'in-Zahra is a county,
+* c {{note|art7}} The name of this city and county has sometimes been transliterated as Bouynzahra, and Buyin Zahra.
+* d {{note|art8}} This would cost roughly US$513,125,000 today. See http://data.bls.gov/cgi-bin/cpicalc.pl Inflation Calculator.
+
+==References==
+{{reflist|colwidth=30em}}
+
+==External links==
+* {{cite web |url=http://www.iiees.ac.ir/English/index.php?option=com_content&view=article&id=694%3Areport-of-surface-faulting-and-morphotectonics-of-avaj-region-earthquake-on-june-22-2002&catid=35%3Aearthquake-report&Itemid=71 |title=Report of Surface Faulting and Morphotectonics of "Avaj Region" Earthquake on June 22, 2002 |accessdate=2008-07-17 |last=Shahryar |first=Solaymani |author2=KhalilAllah, Feghhi |date= |work=Institute for International Economic Studies|IIES |publisher=}}
+
+{{featured article}}
+
+{{Earthquakes in Iran}}
+{{Earthquakes in 2002}}
+
+{{DEFAULTSORT:2002 Bou'in-Zahra Earthquake}}
+Category:2002 earthquakes|Iran
+Category:2002 in Iran|Bou'in-Zahra earthquake
+Category:Earthquakes in Iran|2002 Bou'in-Zahra
+Category:History of Qazvin Province
+{{Link FA|zh}}

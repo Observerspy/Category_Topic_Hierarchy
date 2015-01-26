@@ -1,0 +1,511 @@
+{{redirect|Christchurch earthquake}}
+{{for|13 June 2011 aftershock|June 2011 Christchurch earthquake}}
+{{EngvarB|date=April 2014}}
+{{Use dmy dates|date=April 2014}}
+{{Earthquake
+| title = February 2011 Christchurch earthquake
+| date = {{Start date|2011|02|22|df=yes}}, 12:51 pm Time in New Zealand|NZDT
+| image = Cathedral Square 2402.jpg
+| image alt =
+| imagecaption = ChristChurch Cathedral, Christchurch|ChristChurch Cathedral and the Cathedral Square, Christchurch|Cathedral Square <!-- Do not feel tempted to change the capital C in the middle of the word ChristChurch. It's deliberate and it's the way they call it themselves. Check their website. -->
+| map2 =
+ {{Location map| New Zealand
+ | AlternativeMap =
+ | label =
+ | lat = -43.5834
+ | long = 172.7012
+ | mark = Bullseye1.png
+ | marksize = 50
+ | position = top
+ | width = 250
+ | float = center
+ | caption =
+ | relief=yes
+ }}
+| caption =
+| magnitude = 6.3 richter magnitude scale|M<sub>L</sub>
+| depth = {{convert|5|km|mi|abbr=on}}
+| location = {{coord|43.5834|S|172.7012|E|display=inline,title}} <br> near Lyttelton, New Zealand|Lyttelton, Canterbury Region|Canterbury, New Zealand
+| countries affected = New Zealand
+| landslide = Sumner, New Zealand|Sumner and Redcliffs
+| tsunami = 3.5 m (11 ft) tsunami waves in Tasman Lake, following quake-triggered glacier calving from Tasman Glacier
+|casualties= 185 deaths<br/>1500–2000 injuries, 164 serious
+| intensity = Modified Mercalli intensity|MM IX – Violent
+| PGA = 1.88''Peak ground acceleration|g'' (city); 2.2''g'' (epicentre)
+}}
+
+The '''February 2011 Christchurch earthquake''' was a powerful natural event that severely damaged New Zealand's second-largest city, killing 185 people in one of List of New Zealand disasters by death toll|the nation's deadliest peacetime disasters.
+
+The richter magnitude scale|magnitude 6.3 (M<sub>L</sub>) earthquake It followed nearly six months after the magnitude 7.1 2010 Canterbury earthquake|Canterbury earthquake of 4 September 2010, which caused significant damage to Christchurch and the central Canterbury region, but no direct fatalities.
+
+The earthquake caused widespread damage across Christchurch, especially in the central city and eastern suburbs, with damage exacerbated by buildings and infrastructure already being weakened by 4 September 2010 earthquake and its aftershocks. Significant soil liquefaction|liquefaction affected the eastern suburbs, producing around 400,000 tonnes of silt. The shallow earthquake was reported to be felt across the South Island and the lower and central North Island. While the initial quake only lasted around 10 seconds, the vicinity and depth of its location to Christchurch in addition to the previous quakes were the reason for so much destruction.
+
+In total, 185 people were killed in the earthquake, Over half of the deaths occurred in the six-storey CTV Building|Canterbury Television (CTV) Building, which collapsed and caught fire in the quake. The New Zealand Government|government declared a state of emergency|state of national emergency, which stayed in force until 30 April 2011.
+
+The total cost to insurers of rebuilding was originally estimated at NZ$15&nbsp;billion. But by April 2013, the total estimated cost had ballooned to $40 billion. Some economists have estimated it will take the New Zealand economy 50 to 100 years to completely recover.
+The earthquake was the most damaging in a year-long earthquake swarm affecting the Christchurch area. It was followed by a large June 2011 Christchurch earthquake|aftershock on 13 June (which caused considerable additional damage) and a series of large shocks on 23 December 2011.
+
+==Geology==
+File:2011 Canterbury earthquake intensity.jpg|thumb|left|Earthquake intensity map
+{{Location map| New Zealand Christchurch| float= right | caption = Location of the 12:51pm quake epicentre within Christchurch
+| background = 
+| mark       = Bullseye1.png
+| marksize   = 50
+| lat_deg    = -43.5834
+| lon_deg    = 172.7012
+}}
+The 6.3 quake was probably an aftershock of the 7.1-magnitude 4 September 2010 2010 Canterbury earthquake|Canterbury earthquake. While New Zealand's GNS Science describe it as "technically an aftershock" of the earlier event, other seismologists, including those from USA and Geoscience Australia, consider it a separate event, given its location on a separate fault system. The earthquake has generated a significant series of its own aftershocks, many of which are considered big for a 6.3 quake. 361+ aftershocks (magnitude 3+ foreshocks incl) were experienced in the first week, the largest measuring magnitude 5.9, which occurred just under 2 hours after the main shock. A 5.3-magnitude aftershock on 16 April, the largest for several weeks, caused further damage, including power cuts and several large rock falls. Another aftershock hit the Christchurch region on 10 May 2011 from the Greendale fault measuring 5.3 magnitude. It cut power for a few minutes and caused further damage to buildings in the city centre. No deaths or injuries were reported. It was felt as far away as Dunedin and Greymouth.
+
+A series of aftershocks occurred on 13 June. A tremor of 5.7 was felt at 1&nbsp;pm NZT, with depth of 9&nbsp;km and an epicentre at Taylors Mistake, followed by a 6.3 tremor just over an hour later, with a depth of 6&nbsp;km, located 10&nbsp;km east of the city. Power was cut to around 54,000 homes, with further damage and liquefaction in already weakened areas. The Lyttelton Timeball Station collapsed and Christchurch Cathedral sustained more damage. At least 46 people were reported injured.
+
+Initial reports suggest the earthquake occurred at a depth of {{convert|5|km|mi|0}}; further analysis of seismic data might result in a revision of that depth. but the Institute of Professional Engineers have since stated that "GNS Science believe that the earthquake arose from the rupture of an 8&nbsp;×&nbsp;8 km fault running east-northeast at a depth of 1–2 km depth beneath the southern edge of the Avon-Heathcote Estuary and dipping southwards at an angle of about 65 degrees from the horizontal beneath the Port Hills." Land movement is varied around the area horizontally—in both east and west directions—and vertically; the Port Hills have been raised by 40&nbsp;cm.
+
+File:Christchurch from space, 4 March 2011, showing quake shaking strength, with key.png|thumb|Satellite picture showing shaking strength<br/>(''click to enlarge'')
+
+The quake was a "strike-slip event with oblique motion"—mostly horizontal movement with some vertical movement The vertical acceleration was far greater than the horizontal acceleration.
+The intensity felt in Christchurch was Mercalli intensity scale#Modified Mercalli Intensity scale|MM VIII. with the highest recording 2.2''g'', at Heathcote Valley Primary School, and the highest in a vertical direction. The acceleration occurred mainly in a vertical direction, New Zealand building codes require a building with a 50-year design life to withstand predicted loads of a 500-year event; initial reports by GNS Science suggest ground motion "considerably exceeded even 2500-year design motions", The acceleration experienced in February 2011 would "totally flatten" most world cities, causing massive loss of life; in Christchurch, New Zealand's stringent building codes limited the disaster. However, the most severe shaking lasted only 12 seconds, which perhaps prevented more extensive damage.
+
+It is also possible that "seismic lensing" contributed to the ground effect, with the seismic waves rebounding off the hard basalt of the Port Hills back into the city. Geologists reported soil liquefaction|liquefaction was worse than the 2010 quake. The quake also caused significant landslips and rockfalls on the Port Hills.
+
+Although smaller in magnitude than the 2010 quake, the earthquake was more damaging and deadly for a number of reasons. The epicentre was closer to Christchurch, and shallower at {{convert|5|km|mi|0}} underground, whereas the September quake was measured at {{convert|10|km|mi|0}} deep. The February earthquake occurred during lunchtime on a weekday when the CBD was busy, and many buildings were already weakened from the previous quakes. The PGA was extremely high, and simultaneous vertical and horizontal ground movement was "almost impossible" for buildings to survive intact.
+
+While both the 2010 and 2011 earthquakes occurred on "blind" or unknown faults, New Zealand's Earthquake Commission had, in a 1991 report, predicted moderate earthquakes in Canterbury with the likelihood of associated liquefaction.
+
+According to GNS Science seismologists, the energy released in Christchurch was equivalent to a magnitude 6.7 earthquake.
+
+On 13 June 2011, two major aftershocks measuring 5.7 and 6.3 struck the region, causing further damage, liquefaction and 10 injuries in and around Christchurch. These were followed by a magnitude 5.4 quake at a depth of 8&nbsp;km and centred 10&nbsp;km south-west of Christchurch at 10:34&nbsp;pm on 21 June 2011.
+
+===Main aftershocks since 22 February 2011===
+Below is a list of all aftershocks of Richter,Moment & Body-wave Magnitudes 5.0 and above that have hit Christchurch since 22 February 2011 earthquake.
+
+{| class="wikitable sortable"
+|+
+! Date !! Time !! Richter magnitude scale|Richter Magnitude !! Moment magnitude scale|Moment Magnitude !! Body wave magnitude|Body-wave Magnitude !! Epicentre|Earthquake Epicentre !! Depth (km) !! Depth (miles) !! Mercalli intensity scale|Modified Mercalli 
+|-
+| 22 February 2011 || 12:51&nbsp;pm || 6.3 || 6.2 || 6.3 ||10&nbsp;km south of Christchurch || 5.0&nbsp;km || 3.1 miles||X. Intense 
+|- 
+| 22 February 2011 || 1:04&nbsp;pm || 5.8 || 5.5 || 5.5 ||10&nbsp;km south of Christchurch || 5.9&nbsp;km || 3.6 miles||VII. Very Strong 
+|- 
+| 22 February 2011 || 2:50&nbsp;pm || 5.9 || 5.6 || 5.6 ||Within 5&nbsp;km of Lyttelton || 6.72&nbsp;km || 4.1 miles||VII. Very Strong  
+|-
+| 22 February 2011 || 2:51&nbsp;pm || 5.1 || 4.5 || 4.4||Within 5&nbsp;km of Lyttelton || 7.3&nbsp;km || 4.5 miles||VI. Strong 
+|-
+| 22 February 2011 || 4:04&nbsp;pm || 5.0 || 4.5 || 4.4||Within 5&nbsp;km of Christchurch || 12.0&nbsp;km || 7.4 miles ||VI. Strong 
+|-
+| 22 February 2011 || 7:43&nbsp;pm || 5.0 || 4.4 || 4.5 ||20&nbsp;km south-east of Christchurch || 12.0&nbsp;km || 7.4 miles||VI. Strong 
+|-
+| 5 March 2011 || 7:34&nbsp;pm || 5.0 || 4.6 || 4.5 ||10&nbsp;km south-east of Christchurch || 9.5&nbsp;km || 5.9 miles ||VI. Strong 
+|-
+| 20 March 2011 || 9:47&nbsp;pm || 5.1 || 4.5 || 4.5 ||10&nbsp;km east of Christchurch || 11.83&nbsp;km || 7.3 miles||VI. Strong 
+|-
+| 16 April 2011 || 5:49&nbsp;pm || 5.3 || 5.0 || 5.2 ||20&nbsp;km south-east of Christchurch || 10.6&nbsp;km || 6.5 miles||VI. Strong 
+|-
+| 30 April 2011 || 7:04&nbsp;am || 5.2 || 4.9 || 4.7 ||60&nbsp;km north-east of Christchurch || 8.7&nbsp;km || 5.4 miles||VI. Strong 
+|-
+| 10 May 2011 || 3:04&nbsp;am || 5.2 || 4.9 || 5.0 ||20&nbsp;km west of Christchurch || 14.4&nbsp;km || 8.9 miles||VI. Strong
+|- 
+| 6 June 2011 || 9:09&nbsp;am || 5.5 || 5.1 || 5.1 ||20&nbsp;km south-west of Christchurch || 8.1&nbsp;km || 5.0 miles ||VI. Strong
+|- 
+|+
+! Date !! Time !! Richter Magnitude (''M<sub>L</sub>'') !! Moment Magnitude (''M<sub>w</sub>'') !! Body-wave Magnitude (''M<sub>b</sub>'') !! Earthquake Epicentre !!  Depth (km) !! Depth (miles) !! Modified Mercalli
+|-
+| 13 June 2011 || 1:00&nbsp;pm || 5.9 || 5.3 || 5.0 ||10&nbsp;km south-east of Christchurch || 8.9&nbsp;km || 5.5 miles ||VIII. Destructive 
+|-
+| 13 June 2011 || 2:20&nbsp;pm || 6.4 || 5.9 || 6.0 ||10&nbsp;km south-east of Christchurch || 6.9&nbsp;km || 4.2 miles||IX. Violent 
+|-
+| 13 June 2011 || 2:21&nbsp;pm || 5.1 || 4.8 || 4.8 ||10&nbsp;km south-east of Christchurch || 10.2&nbsp;km || 6.4 miles|| VI. Strong
+|-
+| 15 June 2011 || 6:27&nbsp;am || 5.2 || 4.8 || 5.0 ||20&nbsp;km south-east of Christchurch || 5.8&nbsp;km || 3.5 miles ||VI. Strong 
+|-
+| 21 June 2011 || 10:34&nbsp;pm || 5.4 || 5.2 || 5.2 ||10&nbsp;km south-west of Christchurch || 8.3&nbsp;km || 5.2 miles ||VI. Strong 
+|-
+| 22 July 2011 || 5:39&nbsp;am || 5.3 || 4.7 || 4.7 ||40&nbsp;km west of Christchurch || 12&nbsp;km ||7.4 miles ||VI. Strong 
+|-
+| 2 September 2011 || 3:29&nbsp;am || 5.0 || 4.6 || 4.5 ||10&nbsp;km east of Lyttelton || 7.6&nbsp;km ||4.7 miles||VI. Strong 
+|-
+| 9 October 2011 || 8:34&nbsp;pm || 5.5 || 4.9 || 5.0 ||10&nbsp;km north-east of Diamond Harbour || 12.0&nbsp;km || 7.4 miles||VI. Strong 
+|- 
+|+
+! Date !! Time !! Richter Magnitude (''M<sub>L</sub>'') !! Moment Magnitude (''M<sub>w</sub>'') !! Body-wave Magnitude (''M<sub>b</sub>'') !! Earthquake Epicentre !! Depth (km) !! Depth (miles) !! Modified Mercalli
+|-
+| 23 December 2011 || 1:58&nbsp;pm || 5.9 ||  5.8 || 5.8 ||20&nbsp;km north-east of Lyttelton || 8&nbsp;km ||4.9 miles ||VIII. Destructive 
+|- 
+| 23 December 2011 || 2:06&nbsp;pm || 5.3 || 5.4 || 5.4 ||21&nbsp;km east-north-east of Christchurch || 10.1&nbsp;km ||6.2 miles ||VII. Very Strong 
+|- 
+| 23 December 2011 || 3:18&nbsp;pm || 6.2 || 6.0 || 5.9 ||10&nbsp;km north of Lyttelton || 6&nbsp;km ||3.7 miles ||VIII. Destructive 
+|-
+| 23 December 2011 || 4:50&nbsp;pm || 5.1 || 4.7 || 4.8 ||20&nbsp;km east of Christchurch || 10&nbsp;km ||6.2 miles ||VI. Strong 
+|- 
+| 24 December 2011 || 6:37&nbsp;am || 5.1 || 4.9 || 5.1 ||10&nbsp;km east of Akaroa || 9&nbsp;km ||5.5 miles ||VI. Strong 
+|- 
+| 2 January 2012 || 1:27&nbsp;am || 5.1 || 4.8 || 4.9 ||20&nbsp;km north-east of Lyttelton || 13.3&nbsp;km ||8.2 miles ||VI. Strong  
+|- 
+| 2 January 2012 || 5:45&nbsp;am || 5.3 ||  || ||20&nbsp;km north-east of Lyttelton || 13.5&nbsp;km ||8.3 miles ||VII. Very Strong 
+|-
+| 2 January 2012 || 5:45&nbsp;am || 5.6 || 5.1 || 5.1 ||20&nbsp;km north-east of Lyttelton || 13.5&nbsp;km ||8.3 miles ||VII. Very Strong 
+|-
+| 6 January 2012 || 2:22&nbsp;am || 5.0 || 4.5 || 4.6 ||20&nbsp;km north-east of Lyttelton || 6.7&nbsp;km ||4.0 miles ||VI. Very Strong 
+|-
+| 7 January 2012 || 1:21&nbsp;am || 5.3 || 4.8 || 5.0 ||20&nbsp;km east of Christchurch || 8.4&nbsp;km ||5.2 miles ||VI. Strong 
+|-
+| 15 January 2012 || 2:47&nbsp;am || 5.1 || 4.6 || 4.5 ||10&nbsp;km east of Christchurch || 5.8&nbsp;km&nbsp; ||3.6 miles ||VI. Strong 
+|}
+
+This table is being constantly updated, and upgrades and downgrades may happen.
+
+===Canterbury region long-term probabilities===
+
+{| class="wikitable sortable"
+|+     One month: 9 November 2012 – 8 December 2012            
+! Magnitude Range !! Expected Range !! Expected Average !! Probability
+|-
+| 5.0 – 5.4 ||  0–1  ||  0.12  ||  11%
+|-
+| 5.5 – 5.9 ||  0–1  ||  0.033  ||  3%   
+|-
+| 6.0 – 6.4 ||  0–1  ||  0.009  ||  1%   
+|-
+| 6.5 – 6.9 ||  0–1  ||  0.0025  ||  <1%  
+|-
+| 7.0 - 7.9 ||  0 - 1  ||  0.0009  ||  <1%  
+|}
+{| class="wikitable sortable"
+|+    One year: 9 November 2012 – 8 November 2013              
+! Magnitude Range !! Expected Range !! Expected Average !! Probability 
+|-
+| 5.0 - 5.4 ||   0 - 4  ||  1.2  ||  69%  
+|-
+| 5.5 - 5.9 ||    0 - 2  ||  0.34   ||  29%   
+|-
+| 6.0 – 6.4 ||  0–1  ||  0.093   ||  9%   
+|-
+| 6.5 – 6.9 ||  0–1  ||  0.025   ||  2%   
+|-
+| 7.0 – 7.9 ||  0–1  ||  0.009   ||  1%   
+|}
+''This table was last updated on 14 November 2012''
+
+Information in the tables above is sourced from GNS Science, New Zealand.
+
+==Emergency management==
+In the immediate moments following the quake, ordinary citizens and those emergency services on duty responded and initiated rescues. Although communications proved difficult initially (it took many hours to obtain a full picture of the devastation) a full emergency management structure was in place within two hours, with national co-ordination operating from the National Crisis Management Centre bunker in the Beehive (New Zealand)|Beehive in Wellington. Regional emergency operations command was established in the Christchurch Art Gallery, a modern earthquake-proofed building in the centre of the city which had sustained only minor damage. On 23 February the Minister of Civil Defence, John Carter (New Zealand politician)|John Carter declared the situation a state of emergency|state of national emergency, the country's first for a civil defence emergency (the only other one was for the 1951 New Zealand waterfront dispute|1951 waterfront dispute). As per the protocols of New Zealand's Coordinated Incident Management System and the Civil Defence Emergency Management Act, the Ministry of Civil Defence & Emergency Management (New Zealand)|Civil Defence became lead agency—with Air Vice Marshal John Hamilton (RNZAF officer)|John Hamilton as Coordinated Incident Management System#Incident Control|National Controller. His alternate was Steve Brazier, Director of the Security and Risk Group at the Department of the Prime Minister and Cabinet. They were supported by New Zealand Police, Fire Service, Defence Force and many other agencies and organisations. One experienced international Urban search and rescue|USAR team member described the response as "the best-organised emergency" he had witnessed.
+
+The Government response was immediate and significant, with many departments and ministries involved. Cabinet of New Zealand|Cabinet Minister Gerry Brownlee's regular portfolios were distributed amongst other cabinet ministers, so he could focus solely on earthquake recovery. After a brief sitting, when a National Emergency was declared, Parliament was adjourned until 8 March so cabinet could work on earthquake recovery. Prime Minister John Key and other ministers regularly visited Christchurch, supporting Christchurch mayor Bob Parker (mayor)|Bob Parker, who was heavily involved in the emergency management and became the face of the city, despite his own injuries and family concerns.
+
+Both COGIC (French Civil Protection) and the American USGS requested the activation of the International Charter on Space and Major Disasters on the behalf of MCDEM New Zealand, thus readily providing satellite imagery for aid and rescue services.
+
+===Police===
+Christchurch Police were supplemented by staff and resources from around the country, along with a 300-strong contingent of Australian Police, who were sworn in as New Zealand Police on their arrival, bringing the total officers in the city to 1200. They were aided by DVI teams from Australia, UK, Thailand Taiwan and Israel. They follow international best practice for victim identification after disasters—which is extremely thorough to ensure correct identification—and have assistance from the Interpol DVI chair.
+
+New Zealand Police requested 300 police from Australia for non-rescue tasks such as traffic control, general policing duties and to prevent looting. The contingent was formed by 200 from the New South Wales Police Force, In total, 323 Australian police, including DVI officers, were sent. Many of them received standing ovations from appreciative locals as they walked through Christchurch Airport upon arrival. While serving in New Zealand, the Australian officers did not carry guns, since New Zealand police are a routinely unarmed force; the officers were instead equipped with standard New Zealand issue batons and capsicum spray. It was the first time in 170 years that Australian police have patrolled in New Zealand. Following a rotation of staff, police were present from all Australian states and territories as well as Federal Police, the first time representatives from all Australian forces have worked together on a single operation.
+
+===Search and rescue===
+File:Japanese urban search and rescue team in Christchurch, 24 February 2011 b.jpg|thumb|A Japanese search and rescue team approaches the ruins of the CTV building.
+
+The New Zealand Fire Service coordinated search and rescue, particularly the Urban Search and Rescue (USAR) teams from New Zealand and Australia, UK, USA, Japan, Taiwan, China and Singapore, totalling 150 personnel from New Zealand and 429 from overseas. They also responded to fires, serious structural damage reports, and land slips working with structural engineers, seismologists and geologists, as well as construction workers, crane and digger operators and demolition experts.
+
+NSW Task Force 1, a team of 72 urban search and rescue specialists from New South Wales, Australia was sent to Christchurch on two Royal Australian Air Force|RAAF C-130 Hercules, arriving 12 hours after the quake. A second team of 70 from Queensland, Queensland Task Force 1, (including three sniffer dogs),was sent the following day on board a Royal Australian Air Force|RAAF C-17 . The United States sent Urban Search and Rescue California Task Force 2, a 74-member heavy rescue team consisting of firefighters and paramedics from the Los Angeles County Fire Department, doctors, engineers and 26 tons of pre-packaged rescue equipment.
+Japan sent 70 search-and-rescue personnel including specialists from the coastguard, police and fire fighting service, as well as three sniffer dogs. The team left New Zealand earlier than planned due to the 2011 Tōhoku earthquake and tsunami|9.0 earthquake which struck their homeland on 11 March. The United Kingdom sent a 53 strong search and rescue team including 9 Welsh firefighters who had assisted the rescue effort during the 2010 Haiti Earthquake. Taiwan sent a 22-member team from the National Fire Agency, along with 2 tons of specialist search and rescue equipment. China sent a 10-member specialist rescue team.
+
+===Defence forces===
+The New Zealand Defence Force—staging their largest operation on New Zealand soil— provided logistics, equipment, transport, airbridges, evacuations, supply and equipment shipments, survey of the Port and harbour, and support to the agencies, including meals; they assisted the Police with security, and provided humanitarian aid particularly to Lyttelton, which was isolated from the city in the first days. Over 1400 Army, Navy and Air Force personnel were involved, and New Zealand Army#Army Reserve|Territorials (Army Reserve) were called up. They were supplemented by 116 soldiers from the Singapore Army, in Christchurch for a training exercise at the time of the earthquake, who assisted in the cordon of the city.
+
+File:LAVS lined up at Lyttelton Port, HMNZS Canterbury at pier.jpg|thumb|left|''HMNZS Canterbury (L421)|HMNZS Canterbury'' provided aid to Lyttelton residents isolated by the quake.
+
+The Royal New Zealand Air Force provided an Airbridge (logistics)|air bridge between Christchurch and Wellington using a Boeing 757 and two C-130 Hercules,and bringing in emergency crews and equipment and evacuating North Island residents and tourists out of Christchurch. Three RNZAF Bell UH-1 Iroquois helicopters were also used to transport Police, VIP's and aid to locations around Christchurch. RNZAF Beech King Air aircraft were also used to evacuate people from Christchurch.
+The crew of the Navy ship HMNZS Canterbury (L421)|''Canterbury'', in Lyttelton harbour at the time of the earthquake, provided meals for 1,000 people left homeless in that town, and accommodation for a small number of locals. The Royal Australian Air Force also assisted with air lifts. On one of their journeys, an RAAF Hercules sustained minor damage in an aftershock.
+
+The army also operated desalination plants to provide water to the eastern suburbs.
+
+===Medical response===
+Australia's foreign minister Kevin Rudd told ''Sky News'' that New Zealand's Minister of Foreign Affairs (New Zealand)|Foreign Affairs Minister Murray McCully had asked for further help from Australia. He said Australia would send counsellors over and a disaster medical assistance team comprising 23 emergency and surgical personnel. Set up in the badly affected eastern suburbs, it was equipped to provide triage, emergency care, maternity, dentistry and isolation tents for gastroenteritis, and also provide primary care since most general practices in the area were unable to open.
+
+===Humanitarian and welfare===
+Humanitarian support and welfare were provided by various agencies, in particular the New Zealand Red Cross and the Salvation Army. Welfare Centres and support networks were established throughout the city. Government Departments, such as Ministry of Social Development (New Zealand)|WINZ and Housing New Zealand established contact with as many people as possible and provided grants and assistance. Many church and community-led projects also became established. The scale of the disaster meant many people went some days without official contact, so neighbourhoods and streets were encouraged to attend to those around them. Official visitation teams were organised by Civil Defence, with aim of visiting every household; the teams, which assessed homes and welfare needs, and passed on official information, included structural engineers or assessors from EQC. The primarily wilderness all-volunteer search and rescue organisation, LandSAR, deployed 530 people to the city to perform welfare checks. Over the course of a week, LandSAR teams visited 67,000 premisis.
+
+File:Repairing earthquake damage to valve, Parkview School well, Christchurch.jpg|thumb|left|Workers try to restore water service
+
+===Infrastructure and support===
+Businesses and organisations contributed massively to the initial rescue, recovery and emergency infrastructure. Orion New Zealand Limited|Orion, Christchurch's electricity distribution lines company, assisted by other lines companies from New Zealand, worked constantly to restore power. The 66&nbsp;kV subtransmission cables supplying Dallington and New Brighton zone substations from Transpower New Zealand|Transpower's Bromley substation were damaged beyond repair, which necessitated the erection of temporary 66&nbsp;Volt|kV overhead lines from Bromley to Dallington and Bromley to New Brighton to get power into the eastern suburbs. Such a project would usually take six or seven weeks but was completed in 2? days, with the resource consent process taking only 20 minutes. Community laundries were set up in affected suburbs by Fisher and Paykel
+
+Many companies assisted with transport, particularly Air New Zealand, which operated extra flights of Boeing 747 aircraft to/from Auckland and Boeing 737/Airbus A320/Boeing 777 aircraft to/from Wellington to move people and supplies in and out of Christchurch. The airline also offered flights for Christchurch residents to and from Christchurch for NZ$50 one-way from any New Zealand, Australian and Pacific Island airport, and for NZ$400 one way from other international destinations for affected family-members.
+
+Fundraising and support efforts were established throughout the country, with many individuals, community groups and companies providing food and services to the city, for welfare and clean-up. Many impromptu initiatives gained significant traction. Thousands of people helped with the clean-up efforts—involving the removal of over 200,000 tonnes of liquefaction silt—including Canterbury University's Student Volunteer Army (created after the September quake but significantly enlarged) and the Federated Farmers' "Farmy Army". The "Rangiora Earthquake Express" provided over 250 tonnes of water, medical supplies, and food, including hot meals, from nearby Rangiora by helicopter and truck.
+
+==Casualties, damage, and other effects==
+File:Sink holes and liquefaction North New Brighton Feb 2011.jpg|thumb|right|The effect of Soil liquefaction|liquefaction in North New Brighton, Christchurch
+
+A Central City Red Zone was established on the day of the earthquake as a public exclusion zone in the Christchurch Central City. Since February 2013, it was officially renamed the CBD Rebuild Zone by government agencies, but remained to be known as the Red Zone. It gradually shrank in size and the last cordons were removed on 30 June 2013, 859 days after the earthquake.
+
+As of 3 May 2011, the New Zealand Police believed 181 people had died as a result of the earthquake, but a further four deaths were later judged by the coroner to have been due to the earthquake.
+File:Christchurch quake cars, 2011-02-22.jpg|thumb|left|upright|Results of liquefaction. The fine washed-up sand solidifies after the water has run off. Rescue efforts continued for over a week, then shifted into recovery mode. The last survivor was pulled from the rubble the day after the quake.
+
+At 5&nbsp;pm local time on the day of the earthquake, Radio New Zealand reported that 80% of the city had no power. Water and wastewater services have been disrupted throughout the city, with authorities urging residents to conserve water and collect rainwater. It was expected that the State of Emergency Level 3, the highest possible in a regional disaster, would last for at least five days. Medical staff from the New Zealand Army|army were deployed.
+
+Road and bridge damage occurred and hampered rescue efforts. Soil liquefaction and surface flooding also occurred. Road surfaces were forced up by liquefaction, and water and sand were spewing out of cracks. A number of cars were crushed by falling debris. In the central city, two buses were crushed by falling buildings. As the earthquake hit at the lunch hour, some people on the pavements were buried by collapsed buildings.
+{{clear}}
+
+===Casualties===
+As of 8 September 2011, New Zealand Police had formally identified 177 deceased, and released the names of all 181 victims. In the list are people from fifteen different nationalities, including New Zealand, and the ages of the victims range from 5 weeks to 87 years. Four victims could not be formally identified all of whom were recovered from the CTV Building. Coroner Matenga said, "Any traces of DNA have been destroyed by the extremely high temperatures caused by the fire in the CTV building."
+
+The nationalities of the deceased are as follows. Note some non-New Zealand citizens did have New Zealand residency:-
+{| class="wikitable"
+|-
+! Country !! Casualties
+|-
+| '''{{flagu|New Zealand}}''' <br> – Christchurch <br> – Waimakariri District|Waimakariri & Selwyn District|Selwyn <br> – rest of NZ || '''97''' <br> 87 <br> 8 <br> 2
+|-
+| {{flagu|Japan}} || 28
+|-
+| {{flagu|China}} || 23
+|-
+| {{flagu|Philippines}} || 11
+|-
+| {{flagu|Thailand}} || 6
+|-
+| {{flagu|Israel}} || 3
+|-
+| {{flagu|South Korea}} || 2
+|-
+| {{flagu|Canada}} <br> {{flagu|Ireland}} <br> {{flagu|Malaysia}} <br> {{flagu|Peru}} <br> {{flagu|Romania}} <br> {{flagu|Russia}}<br> {{flagu|Serbia}} <br> {{flagu|Taiwan}} <br> {{flagu|Turkey}} <br> {{flagu|United States}} || 1 each
+|-
+| '''Total''' || '''180'''
+|}
+
+====Animal casualties====
+Animal welfare agencies reported that many pets were lost or distressed following the earthquake. SPCA rescue manager Blair Hillyard said his 12-strong team assisted urban search and rescue teams that encountered aggressive dogs while conducting house-to-house checks. The team also worked with animals in areas where humans had been evacuated and distributed animal food and veterinary supplies to families in need.
+
+Hillyard said that the situation for animals had been "deteriorating because of time issues" and was forcing concerned animal owners to break through police cordons to search for their pets. "That is really one of the common problems of why people break the cordon. It's not to go and do burglaries ... it's to go and retrieve their pets."
+
+===Buildings affected===
+{{See also|List of tallest buildings in Christchurch}}
+File:Ruins of the Canterbury Television (CTV) building, 24 February 2011.jpg|thumb|upright|94 bodies were recovered from the CTV Building, which collapsed during the quake.
+
+Of the 3,000 buildings inspected within the Four Avenues of the central city by 3 March 45% had been given red or yellow stickers to restrict access because of the safety problems. Many heritage buildings were given red stickers after inspections. One thousand of the 4000 buildings within the Four Avenues were expected to be demolished. Of 220 buildings more than five storeys tall, 110 are being, or have been, demolished at May 2012. New aerial photographs of Christchurch were produced for Google Maps in April 2012, but it was not until January 2013 that the imagery was put online.  By that time, many of the photos were already outdated, with a significant number of buildings since having been demolished. Notable central city buildings still shown on the images include Implosion of Radio Network House|Radio Network House, the Westpac Canterbury Centre in City Mall, Christchurch|City Mall, and the Farmers Trading Company|Farmers store in Gloucester Street.
+
+ChristChurch Cathedral, Christchurch|ChristChurch Cathedral<!--The unusual spelling of ChristChurch here is correct - See the note on the discussion page--> lost its spire. The spire's tip had also fallen in earthquakes in 1888 and 1901, but much more fell during 22 February earthquake. Although police initially believed up to 22 people died in the collapse of the cathedral's tower, a thorough search of the rubble confirmed no fatalities occurred there.
+
+Christchurch Hospital was partly evacuated due to damage in some areas, but remained open throughout to treat the injured. The New Zealand defence forces were called in to assist in evacuating the central business district.
+
+The six-storey CTV Building|Canterbury Television (CTV) building collapsed leaving only its lift shaft standing, which caught fire. The building housed the TV station, a medical clinic and an English language school. The King's Education School catered to students from Japan, China, the Philippines, Thailand, Saudi Arabia, Taiwan and Korea. Fire-fighting and recovery operations resumed that night, later joined by a Japanese search and rescue squad. Thirteen Japanese students from the Toyama College of Foreign Languages were missing, with some feared trapped in the rubble. Of the 166 confirmed dead by 12 March 2011, 94 were recovered from the CTV building. A government report later found that the building's construction was faulty and never should have been approved.
+
+File:Pine Gould Building, 24 February 2011.jpg|thumb|left|PGC House, following the February 2011 quake
+
+The four-storey PGC House on Cambridge Terrace, headquarters of List of South Island companies|Pyne Gould Corporation, collapsed, and thirty of the building's two hundred workers were still believed to be trapped within as night fell. On Wednesday morning, 22 hours after the quake, a survivor was pulled from the rubble. The reinforced concrete building had been constructed in 1963–1964.
+
+The Forsyth Barr building survived the earthquake structurally, but many occupants were trapped after the collapse of the stairwells, forcing some to abseil out after the quake. Search of the building was technically difficult for USAR teams, requiring the deconstruction of 4-tonne stair sets, but the building was cleared with no victims discovered.
+
+File:Grand Chancellor-2.jpg|thumb|upright|The Hotel Grand Chancellor, Christchurch|Grand Chancellor has been demolished
+On 23 February, Hotel Grand Chancellor, Christchurch|Hotel Grand Chancellor, Christchurch's tallest hotel, was reported to be on the verge of collapse. The building was thought to be irreparably damaged and have the potential to bring down other buildings if it fell; an area of a two-block radius around the hotel was thus evacuated. The building was eventually stabilised and, on 4 March it was decided the building would be demolished over the following six months, so that further work could be done with the buildings nearby. Demolition was completed in May 2012. The 21-storey PricewaterhouseCoopers building, the city's tallest office tower, is among the office buildings to be demolished.
+File:25 Feb 2011 Oxford Tce Baptist Church.jpg|thumb|left|Oxford Terrace Baptist Church was one of many churches damaged by the quake
+
+The historic Canterbury Provincial Council Buildings were severely damaged, with the Stone Chamber completely collapsing.
+
+Our City, Christchurch|Our City, the second civic offices of Christchurch City Council, was already damaged in the September earthquake and is heavily braced following the February event. The Civic, Christchurch|Civic, the council's third home, was heavily damaged in February and is due to be demolished. Both buildings are on the register of the New Zealand Historic Places Trust.
+
+The Cathedral of the Blessed Sacrament, Christchurch|Cathedral of the Blessed Sacrament was also severely damaged, with the towers falling. A decision was made to remove the dome because the supporting structure was weakened, although at 30 March the eventual fate of the overall building remained uncertain. Several other churches have been seriously damaged, including: Knox Presbyterian Church, St Luke's Church, Christchurch|St Luke's Anglican Church, Durham Street Methodist Church, St Paul's Church, Christchurch|St Paul's-Trinity-Pacific Presbyterian Church, Oxford Terrace Baptist Church, Holy Trinity Avonside and Holy Trinity, Lyttelton. Sydenham Heritage Church and the Beckenham Baptist Church were heavily damaged, and then demolished days after the earthquake. Concrete block construction fared badly, leaving many modern iconic buildings damaged.
+
+Carlton Hotel, Christchurch|Carlton Hotel, a listed heritage building, was undergoing repairs from September 2010 earthquake damage when the February 2011 earthquake damaged the building further. It was deemed unstable and demolished in April 2011. St Elmo Courts has been damaged in the September 2010 earthquake and the owner intended to repair the building, but further damage caused by the February 2011 event resulted in a decision to demolish, which was done the following month.
+
+While damage occurred to many older buildings, particularly those with Unreinforced masonry building|unreinforced masonry and those built before stringent earthquakes codes were introduced, high rises built within the past twenty to thirty years performed well. On 28 February 2011, the Prime Minister announced that there would be an inquiry into the collapse of buildings that had been signed off as safe after 4 September earthquake, "to provide answers to people about why so many people lost their lives."
+
+In August 2012, Implosion of Radio Network House|Radio Network House was the first building in New Zealand to be Building implosion|demolished by implosion. With the implosion having gone without a hitch, it is expected that this method will be used for many other buildings.
+
+===Suburbs===
+On 7 March, Prime Minister John Key said that around 10,000 houses would need to be demolished, and liquefaction damage meant that some parts of Christchurch could not be rebuilt on.
+
+;Lyttelton
+Buildings in Lyttelton, New Zealand|Lyttelton sustained widespread damage, with a fire officer reporting that 60% of the buildings in the main street had been severely damaged. Initially no lives were believed to have been lost in the town, but two people died on local walking tracks after being hit by rockfalls. The town's historic Lyttelton Timeball Station|Timeball Station was extensively damaged, adding to damage from the preceding 2010 Canterbury earthquake|earthquake in September 2010. The New Zealand Historic Places Trust made plans to dismantle it, with the possibility of reconstruction. Before this plan could be implemented the tower collapsed during an aftershock on June 2011 Christchurch earthquake|13 June 2011.
+
+File:54 Raekura Place, Redcliffs.JPG|thumb|54 Raekura Place in Redcliffs was destroyed by rockfall.
+;Sumner
+Landslides occurred in Sumner, New Zealand|Sumner, crushing buildings. Parts of Sumner were evacuated during the night of 22 February after cracks were noticed on a nearby hillside. Three deaths were reported in the Sumner area, according to the Sumner Chief Fire Officer. The Rapanui Rock|Shag Rock, a notable landmark, was reduced to half of its former height.
+
+;Redcliffs
+In contrast to the September 2010 earthquake, Redcliffs and the surrounding hills suffered severe damage. The cliff behind Redcliffs School collapsed on to the houses below. Large boulders were found on the lawns of damaged houses.
+
+Twelve streets in Redcliffs were evacuated on Thursday night (24 February) after some cliffs and hills surrounding Redcliffs were deemed unstable. However, the cordon actually in place the following morning only included parts of six streets, so many residents outside the reduced cordon returned home immediately. The remaining cordon was removed twelve days later.
+
+===Beyond Christchurch===
+The quake was felt as far north as Tauranga and as far south as Invercargill, where the 111 (emergency telephone number)|111 emergency network was rendered out of service.
+
+File:Tasman glacier 2011 CHCH quake.jpg|thumb|Satellite image showing icebergs calved from Tasman Glacier by earthquake
+At the Tasman Glacier some {{convert|200|km|abbr=off}} from the epicentre, around 30 million tonnes (33 ST) of ice tumbled off the glacier into Tasman Lake, hitting tour boats with tsunami waves {{convert|3.5|m|0}} high.
+
+KiwiRail reported that the TranzAlpine service was terminating at Greymouth and the TranzCoastal terminating at Picton, New Zealand|Picton. KiwiRail also delayed 14 March departure of its Interislander ferry {{ship|DEV|Aratere||2}} to Singapore for a {{convert|30|m|sing=on}} extension and refit prior to the 2011 Rugby World Cup. With extra passenger and freight movements over Cook Strait following the earthquake, the company would have been unable to cope with just two ships operating on a reduced schedule so soon after the earthquake, so pushed back the departure to the end of April.
+
+The earthquake combined with the urgency created by the unseasonably early break-up of sea ice on the Ross Ice Shelf caused logistical problems with the return of Antarctic summer season research operations from Scott Base and McMurdo Station in Antarctica to Christchurch.
+
+===Christchurch International Airport===
+File:Wellington 777 quake evacuees.jpg|thumb|left|An Air New Zealand Boeing 777|Boeing 777-200ER at Wellington International Airport carrying quake evacuees.
+Christchurch International Airport, located {{convert|12|km|mi|0|abbr=on}} northwest of the city centre was largely unaffected by the earthquake. Flight crews from the US Air National Guard were at the airport in support of "Operation Deep Freeze" when the quake struck and reported to their Wing (military aviation unit)|Air Wing commander that they were safe and unharmed, and that the airport had water and electricity.
+
+The Christchurch-based national air traffic control organisation, Airways New Zealand, closed New Zealand airspace for a short time while they inspected their facilities.{{citation needed|date=December 2011}} Christchurch International Airport was closed to all but military and emergency traffic.
+
+===Sport===
+New Zealand Cricket's offices were damaged by the earthquake. Some matches needed to be rescheduled.
+
+The Super Rugby Round 2 match between the Crusaders (rugby)|Crusaders and Hurricanes (Super Rugby)|Hurricanes scheduled for 26 February 2011 at Westpac Stadium in Wellington was abandoned by agreement of both sides and SANZAR due to the earthquake. The match was declared a draw, with both sides earning 2 competition points. The Crusaders' first two home matches of the season, originally to be played in Christchurch, were moved to Trafalgar Park, Nelson|Trafalgar Park in Nelson, New Zealand|Nelson. Ultimately, the Crusaders were forced to play their entire home schedule away from Christchurch, including one game against the Sharks (Super Rugby)|Sharks moved to Twickenham Stadium|Twickenham in London and the return match against the Hurricanes moved to Westpac Stadium.
+
+In the ANZ Championship|ANZ Netball Championship, the earthquake caused significant damage to the Canterbury Tactix's main home venue, CBS Canterbury Arena, and the franchise's head office at Queen Elizabeth II Park. while their round 4 home match against the Waikato Bay of Plenty Magic was moved to the Energy Events Centre in Rotorua.
+
+Lancaster Park|AMI Stadium was going to host the rugby league ANZAC Test; however, on 4 March it was announced the match would be moved to Robina Stadium|Skilled Park on the Gold Coast, Queensland|Gold Coast. The Canterbury Rugby League cancelled their pre-season competition. The CRL's headquarters, Rugby League Park, was damaged during the earthquake and is currently closed.
+
+Christchurch was set to host five pool matches and two quarter finals of the 2011 Rugby World Cup. However, damage to AMI Stadium, as well as infrastructure, hotels and training grounds put this in doubt. The International Rugby Board and the New Zealand Rugby World Cup organisers quickly confirmed all matches will still be held in New Zealand, but required structural reports and assessments of Christchurch facilities before deciding whether the games could go ahead in Christchurch. An announcement was made on 16 March that the city would be unable to host the cup matches; the quarter finals would be moved to Auckland, while other South Island locations would be considered for the pool games.
+
+==Response==
+File:Christchurch - 2011 earthquake damage 001.jpg|thumb|left|Royal New Zealand Air Force|RNZAF aerial survey of damage, showing flooding due to soil liquefaction in Christchurch
+
+On the day of the quake, Prime Minister John Key said that 22 February "may well be New Zealand's darkest day", and Mayor of Christchurch Bob Parker (mayor)|Bob Parker warned that New Zealanders are "going to be presented with statistics that are going to be bleak". Key added that "All Ministry of Civil Defence & Emergency Management (New Zealand)|Civil Defence procedures have now been activated; the National Crisis Management Centre|Civil Defence bunker at parliament is in operation here in Wellington." The New Zealand Red Cross launched an appeal to raise funds to help victims.
+
+Elizabeth II|The Queen said she was "utterly shocked" and her "thoughts were with all those affected". Her son and heir to the New Zealand throne, Charles, Prince of Wales|The Prince of Wales, also said to Governor-General of New Zealand|New Zealand's governor-general and prime minister: "My wife and I were horrified when we heard the news early this morning... The scale of the destruction all but defies belief when we can appreciate only too well how difficult it must have been struggling to come to terms with last year's horror ... Our deepest sympathy and constant thoughts are with you and all New Zealanders." Other members of the Royal Family signed the condolence book at High Commission of New Zealand, London|New Zealand House in London.
+
+===International===
+{{Quotebox
+| quote = "I know that Australians' thoughts are with the people of New Zealand as they grapple with this enormous tragedy in Christchurch. ... We will be doing everything we can to work with our New Zealand family, with Prime Minister Key and his emergency services personnel, his military officers, his medical people, his search and rescue teams. We will be working alongside them to give as much relief and assistance to New Zealand as we possibly can."
+| source = Australian Prime Minister Julia Gillard on the earthquake.
+| width = 26em
+| align = right
+}}
+
+Australian Prime Minister Julia Gillard offered John Key any assistance he may request.
+The Australian Government has also pledged Australian dollar|A$5&nbsp;million (New Zealand Dollar|NZ$6.7&nbsp;million On 1 March, it was announced that the Government of New South Wales|New South Wales Government would be donating A$1&nbsp;million (NZ$1.3&nbsp;million
+
+The UN and the European Union offered assistance.
+
+Canadian Prime Minister Stephen Harper released a statement saying: "The thoughts and prayers of Canadians are with all those affected by the earthquake. Canada is standing by to offer any possible assistance to New Zealand in responding to this natural disaster."
+
+David Cameron, Prime Minister of the United Kingdom, issued a statement as well as his texting his fellow Commonwealth of Nations|Commonwealth prime ministers. In his formal statement, he commented that the loss of life was "dreadful" and the "thoughts and prayers of the British people were with them".
+
+Ban Ki-Moon, Secretary-General of the United Nations, issued a statement on behalf of the UN expressing his "deep sadness" and stressed the "readiness of the United Nations to contribute to its efforts in any way needed".
+
+China gave US$500,000 to the earthquake appeal, and Premier of the People's Republic of China|Chinese Premier Wen Jiabao expressed his deep condolences to New Zealand. Twenty Chinese students were reported missing following the quake.
+
+Barack Obama, President of the United States, issued a statement from the White House Press Office on the disaster by way of an official announcement that "On behalf of the American people, Michelle and I extend our deepest condolences to the people of New Zealand and to the families and friends of the victims in Christchurch, which has suffered its second major earthquake in just six months... As our New Zealand friends move forward, may they find some comfort and strength in knowing that they will have the enduring friendship and support of many partners around the world, including the United States." The President also made a call to Prime Minister Key.
+
+Pope Benedict XVI issued an announcement on the earthquake in a statement during his Wednesday audience on 23 February, stating that he was praying for the dead and the injured victims of the devastating earthquake, and encouraging those involved in the rescue efforts.
+
+===Fundraising and charity events===
+Various sporting events were set up to raise money for those affected, such as the "Fill the Basin" cricket match at the Basin Reserve, featuring List of New Zealand cricketers|ex-New Zealand internationals, All Blacks and actors from ''The Hobbit (film series)|The Hobbit'', which raised more than $500,000.
+
+New Zealand cricket team captain Daniel Vettori put his personal memorabilia up for auction.
+
+All Black Sonny Bill Williams and Sky (disambiguation)#News Corporation|Sky both made large donations from Williams' fourth boxing bout which was dubbed "The Clash For Canterbury".
+
+Numerous musical concerts were performed, both in New Zealand and overseas, to raise money for the affected. Notable events of this nature include a previously unscheduled visit to New Zealand by American rock group Foo Fighters, who performed a Christchurch benefit concert in Auckland on 22 March 2011. The group returned on their following tour and used Western Springs Stadium. This was largely in part to "6.3 Christchurch Charity Concert" which was due to break records in New Zealand for the amount of time it was organised and the estimated sums of donation. The event itself did not receive enough press coverage in time to go ahead as scheduled as the grounds were required for the 2011 Rugby World Cup. The event was cancelled just prior to the press release. Many New Zealand Acts agreed to play at the event which was going to be an all day event, these included: The Feelers, Avalanche City, November Zulu, Black River Drive, Lisa Crawly, Luger Boa. Also rumoured during this time was Blacklistt/Blindspott and many other international acts.<!--add details of other major concerts-->
+
+===Memorial services===
+A national memorial service was held on 18 March at Hagley Park|North Hagley Park, coinciding with a one-off Public holidays in New Zealand|provincial holiday for Canterbury, which required the passing of the http://www.legislation.govt.nz/act/public/2011/0001/latest/versions.aspx Canterbury Earthquake Commemoration Day Act 2011 to legislate. Prince William, Duke of Cambridge|Prince William, making a two-day trip to the country to tour the areas affected by the earthquake, attended on the Queen's behalf and made an address during the service. New Zealand's governor-general, Sir Anand Satyanand, attended, along with John Key, Bob Parker, and a number of local and international dignitaries. Australia's official delegation included Governor-General of Australia|Governor-General Quentin Bryce, Prime Minister Julia Gillard, and Leader of the Opposition (Australia)|Opposition Leader Tony Abbott.
+
+===Commission of Inquiry===
+On 14 March, Prime Minister John Key announced a Royal Commission#New Zealand|Royal Commission of Inquiry would be held into the earthquake devastation, covering the building collapses and consequent loss of life, damage to key buildings, and general building standards and codes. It would complement the investigations by the Department of Building and Housing. The commission would be chaired by High Court of New Zealand|High Court judge Mark Cooper, for a report back in twelve months; a preliminary report would be required in six months.
+
+==Recovery==
+
+===Canterbury Earthquake Recovery Authority===
+{{main|Canterbury Earthquake Recovery Authority}}
+On 29 March 2011, John Key and Bob Parker announced the creation of the Canterbury Earthquake Recovery Authority (CERA), which would lead the earthquake recovery, co-operating with the government, local councils and residents, under chief executive John Ombler. Anticipated to last five years, the authority's operations would be reviewed annually.
+
+===Housing===
+File:Temp housing in Linwood Park.jpg|thumb|Temporary housing in Linwood Park
+With an estimated 10,000 houses requiring demolition and over 100,000 damaged, plans were developed for moderate-term temporary housing. Approximately 450 fully serviced mobile homes would be located on sites across the city including Canterbury Agricultural Park and Riccarton Racecourse. The Department of Building and Housing also released a plan for the construction of 500 modular homes. While emergency repairs were performed on damaged houses by Fletcher Construction, rebuilding would be delayed by the need for full land assessments, with the possibility that some of the worst-affected areas in the eastern suburbs might need to be abandoned due to land depression and severe liquefaction, with the residents offered relocation to new subdivisions under their EQC insurance policies.
+
+===Schools and universities===
+On the day of the earthquake, the main secondary school teachers' union, the Post Primary Teachers Association, had arranged a paid union meeting to be held that afternoon for members in the Christchurch area. This meant most secondary schools in the city had closed early that day and most students had returned home before the earthquake hit, by coincidence limiting potential casualties.
+
+Canterbury University partially reopened on 14 March, with many lectures held in tents and marquees while work was carried out on university buildings. All courses expected to resume by 28 March, with plans for the April break to be shortened by two weeks to make up for lost time. 
+
+The UC CEISMIC Canterbury Earthquakes Digital Archive programme was established in 2011 by University of Canterbury Professor Paul Millar.
+
+163 primary and secondary schools were affected by the earthquake, most of which were closed for three weeks; 90 had full structural clearance and were able to reopen, 24 had reports indicating further assessment and 11 were seriously damaged. Site-sharing plans were made to enable affected schools to relocate, while 9 "learning hubs" were established throughout the city to provide resources and support for students needing to work from home. Some students relocated to other centres – by 5 March, a total of 4879 Christchurch students had enrolled in other schools across New Zealand. Wanaka Primary School alone had received 115 new enrolments as Christchurch families moved to their holiday homes in the town.
+
+Due to the extensive damage of a number of secondary schools, many were forced to share with others, allowing one school to use the ground in the morning and the other in the afternoon. This included Shirley Boys High School sharing with Papanui High School, Linwood College sharing with Cashmere High School and Avonside Girls High School sharing with Burnside High School and Marian College sharing with St Bedes College and Unlimited Paenga Tawhiti sharing with Halswell Residential College.  Linwood College and Shirley Boys' High School moved back to their original sites on 1 August (the first day of Academic term#New Zealand|Term 3), and 13 September 2011 respectively. Avonside Girls' High School returned to its original site at the start of 2012. Marian College did not return to the original site in Shirley but instead moved to a site at Cathedral College on Barbadoes Street. Unlimited Paenga Tawhiti could not return to its central city buildings due to demolitions and it has no long term site.
+
+In September 2012, Minister of Education Hekia Parata announced plans to permanently close and/or merge a number of schools due to falling roll numbers and quake damage. The proposals were heavily criticised for relying on incorrect information, leading one school, Phillipstown School|Phillipstown Primary, to seek a judicial review over its proposed merger with Woolston Primary. The court subsequently ruled in favour of Phillipstown and overturned the merger. The plans were confirmed in February 2013, with seven schools closing, 10 schools merging into five (not including the overturned Phillipstown-Woolston merger), and three high schools taking on additional year levels.
+
+==Economic impact==
+
+In April 2013 the Government estimated the total cost of the rebuild would be as much as $40 billion, up from an earlier estimate of $30 billion. Former National Party and ACT leader Don Brash promptly called on the government to cut interest-free student loans and superannuation to help pay for the rebuild.
+
+Some economists have estimated it will take the New Zealand economy 50 to 100 years to completely recover.
+
+New Zealand Finance Minister, Bill English, advised that the effects of the 2011 quake were likely to be more costly than the September 2010 quake. His advice was that the 2011 earthquake was a "new event" and that EQC's reinsurance cover was already in place after the previous 2010 event. New Zealand's Earthquake Commission (EQC), a government organisation, levies policyholders to cover a major part of the earthquake risk. The EQC further limits its own risk by taking out cover with a number of large reinsurance companies, for example Munich Re.
+
+The EQC pays out the first NZ$1.5&nbsp;billion in claims, and the reinsurance companies are liable for all amounts between NZ$1.5&nbsp;billion and NZ$4&nbsp;billion. The EQC again covers all amounts above NZ$4&nbsp;billion. EQC chief executive Ian Simpson said that the $4&nbsp;billion cap for each earthquake is unlikely to be exceeded by the costs of residential building and land repairs, so $3&nbsp;billion would be left in the EQC's Natural Disaster Fund after payouts.
+
+Claims from the 2010 shock were estimated at NZ$2.75–3.5&nbsp;billion. Prior to the 2010 quake, the EQC had a fund of NZ$5.93&nbsp;billion according to the EQC 2010 Annual Report, with NZ$4.43&nbsp;billion left prior to the 2011 quake, after taking off the NZ$1.5&nbsp;billion cost.
+
+EQC cover for domestic premises entitles the holder to up to NZ$100,000 plus tax (GST) for each dwelling, with any further amount above that being paid by the policyholder's insurance company. For personal effects, EQC pays out the first NZ$20,000 plus tax. It also covers land damage within 8 metres of a home; this coverage is uncapped.
+
+Commercial properties are not insured by the EQC, but by private insurance companies. These insurers underwrite their commercial losses to reinsurers, who will again bear the brunt of these claims. JPMorgan Chase|JPMorgan Chase & Co say the total overall losses related to this earthquake may be US$12&nbsp;billion. That would make it the third most costly earthquake event in history, after the 2011 Tōhoku earthquake and tsunami|2011 Japan and 1994 Northridge earthquake|1994 California earthquakes.
+
+Earthquake Recovery Minister Gerry Brownlee echoed that fewer claims were expected through the EQC than for 2010. In the 2010 earthquake, 180,000 claims were processed as opposed to the expected 130,000 claims for the 2011 aftershock. The total number of claims for the two events was expected to be 250,000, as Brownlee explained that many of the claims were "overlapping".
+
+The Accident Compensation Corporation (ACC) announced it would be the largest single event they had paid out for, with an estimated 7,500 injury claims costing over $200&nbsp;million.
+
+On 2 March, John Key said he expected an interest rate cut to deal with the earthquake. The reaction to the statement sent the New Zealand dollar down.
+
+On January 2013 Earthquake Recovery Minister Gerry Brownlee said repairs to damaged homes to date had totalled more than $1 billion.
+
+A KPMG survey in March 2013 suggested as much as $1.5 billion could be sucked from the rebuild in fraud.
+
+In March 2013 a researcher at the University of Canterbury said after the quake, residents – particularly women – turned to comfort food and began eating unhealthily.
+
+==Cancellation of 2011 census==
+The chief executive of Statistics New Zealand, Geoff Bascand, announced on 25 February that the national census planned for 8 March 2011 would not take place due to the disruption and displacement of people in the Canterbury region, and also the damage sustained by Statistics New Zealand's buildings in Christchurch, which was scheduled to process much of the census. The cancellation required an amendment to the Statistics Act 1975, which legally requires a census to be taken every five years. The Governor-General also had to revoke his previous proclamation of the date of the census. It is the third time the census has been cancelled in New Zealand; the other occasions occurred in 1931, due to the Great Depression, and in 1941 due to World War II. Much of the NZ$90&nbsp;million cost of the 2011 census was written off. The census was ultimately deferred to 5 March 2013.
+
+==See also==
+* 2010 Canterbury earthquake
+* Earthquakes in New Zealand
+* List of earthquakes in New Zealand
+* Geology of the Canterbury Region
+* June 2011 Christchurch earthquake
+* List of disasters in New Zealand by death toll
+{{clear}}
+
+==References==
+{{reflist|colwidth=30em}}
+
+==Further reading==
+* {{cite web|url=http://www.royalsociety.org.nz/media/Information-paperThe-Canterbury-Earthquakes-Scientific-answers-to-critical-questions3.pdf|title=The Canterbury Earthquakes: Scientific answers to critical questions|year=2011|publisher=Royal Society of New Zealand}}
+** http://www.front.blendnz.com/2011/04/19/creusons-plus/ Creusons plus! " CHCH earthquake updates and stories in French from http://www.front.blendnz.com the French Blend
+* Martin Van Beynen, ''Trapped: Remarkable Stories of Survival from the 2011 Canterbury Earthquake'', Penguin, 2012.
+
+==External links==
+{{commons category|2011 Canterbury earthquake}}
+
+'''Official response and recovery'''
+* http://canterburyearthquake.org.nz/ Canterbury Earthquake – information for affected residents
+* http://www.canterburyearthquake.govt.nz/ Canterbury earthquake recovery – New Zealand Government website
+* http://police.govt.nz/christchurch-earthquake Christchurch earthquake official statements at the New Zealand Police
+* http://www.christchurchquakemap.co.nz/ Christchurch Quake Map
+* http://eqstreetcam.co.nz/ Red zone streetcam from Terralink
+* http://www.canterburyquakelive.co.nz/ Christchurch Quake Live
+
+'''Scientific and engineering reports'''
+* http://www.eorc.jaxa.jp/ALOS/en/img_up/dis_pal_nzleq_110225.htm Satellite radar images of earth deformation
+* http://www.geonet.org.nz/news/feb-2011-christchurch-badly-damaged-by-magnitude-6-3-earthquake.html Earthquake information at Geonet (GNS Science)
+* http://earthquake.usgs.gov/earthquakes/eqinthenews/2011/usb0001igm/ United States Geological Survey: Magnitude 6.3 – South Island of New Zealand
+* http://wikieducator.org/Earthquake:_Christchurch_2011 Wikieducator learning resource . An inquiry into the earthquake developed for students aged 13–17.
+* {{PDFlink|http://db.nzsee.org.nz:8080/documents/43301/b274721e-d91a-424c-b8bb-fd51a99d0954 Preliminary Report from the Christchurch 22 Feb 2011 6.3mw Earthquake: Pre-1970s RC(reinforced concrete) and RCM(reinforced concrete blocks masonry) Buildings, and Precast Staircase Damage}}. (1.04 MB) Retrieved 5 March 2011
+
+;News
+* http://www.stuff.co.nz/the-press/news/canterbury-earthquake/ Earthquake news at ''The Press'' (Christchurch newspaper)
+* http://www.stuff.co.nz/national/photos/4688271/Christchurch-aftershock-Feb-22 Earthquake photos at Stuff.co.nz
+* http://www.3news.co.nz/National/ChristchurchEarthquake/tabid/1438/Default.aspx Christchurch earthquake page at TV3 (New Zealand)|TV3
+* http://www.radiolive.co.nz/News/ChristchurchEarthquake.aspx Christchurch earthquake page at Radio Live
+* http://www.christchurchquakemap.co.nz/ Visual representation of Christchurch earthquakes since 4 September 2010
+* http://video.news.com.au/1808403836/Earthquake-in-New-Zealand Earthquake footage
+* http://www.educatedearth.net/video.php?id=4650 Videos at Educated Earth
+
+{{Earthquakes in 2011}}
+{{Earthquakes in New Zealand}}
+{{Christchurch earthquakes}}
+{{Seismic faults of New Zealand}}
+{{Use dmy dates|date=April 2014}}
+
+<!-- generally -->
+
+{{DEFAULTSORT:2011 Christchurch Earthquake}}
+Category:2011 Christchurch earthquake|*
+Category:2011 earthquakes|Christchurch

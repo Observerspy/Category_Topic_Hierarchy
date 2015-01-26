@@ -1,0 +1,142 @@
+{{Use dmy dates|date=May 2012}}
+{{earthquake
+|title= The 1960 Earthquake of Valdivia
+|map= 1960 Valdivia earthquake.jpg
+|date= {{start-date|df=yes|22 May 1960|22 May 1960}}
+|magnitude=9.5 Moment magnitude scale|M<sub>w</sub> |depth= 33&nbsp;km
+|location=Lumaco, Chile<br />{{Coord|38.235|S|73.047|W|region:CL_type:event|display=inline,title}}
+|countries affected=Chile, Argentina, United States, Japan, Philippines
+|casualties=2,230 – 6,000
+}}
+
+The '''1960 Valdivia earthquake''' or '''Great Chilean Earthquake''' ({{lang-es|link=no|Terremoto de Valdivia/Gran terremoto de Chile}}) of Sunday, 22 May 1960 was the List of earthquakes#Largest earthquakes by magnitude|most powerful earthquake ever recorded, rating 9.5 on the moment magnitude scale. It occurred in the afternoon (19:11 GMT, 15:11 local time), and the resulting tsunami affected southern Chile, Hawaii, Japan, the Philippines, eastern New Zealand, southeast Australia, and the Aleutian Islands.
+
+The epicenter was near Lumaco (see map), approximately {{convert|570|km}} south of Santiago, Chile|Santiago, with Valdivia being the most affected city. The tremor caused localised tsunamis that severely battered the Chilean coast, with waves up to {{convert|25|m}}. The main tsunami raced across the Pacific Ocean and devastated Hilo, Hawaii. Waves as high as {{convert|10.7|m}} were recorded {{convert|10000|km|mi}} from the epicenter, and as far away as Japan and the Philippines.
+
+The death toll and monetary losses arising from such a widespread disaster are not certain.
+Various estimates of the total number of fatalities from the earthquake and tsunamis have been published, with the United States Geological Survey citing studies with figures of 2,231, 3,000, or 5,700 killed (or 2.9 to 5.8 billion in 2011 dollars, adjusted for inflation).
+
+==Earthquake development==
+File:Graph of largest earthquakes 1906-2005.png|thumb|right|Global seismic release from 1906 to 2005, the graph shows that almost 25% of the world earthquake energy in a century was concentrated in the Great Chilean Earthquake alone.
+File:Valdivia after earthquake, 1960.jpg|thumb|250px|A Valdivia, Chile|Valdivia street after the earthquake of 22 May 1960
+
+The 1960 Chilean earthquake swarm was a series of strong earthquakes that affected Chile between 21 May and 6 June 1960. The first was the Concepción earthquake, and the strongest was the Valdivia earthquake.
+
+===Concepción earthquakes===
+{{Main | 1960 Concepción earthquake}}
+The first 1960 Concepción earthquake|Concepción earthquake was at 06:02 UTC-4 on 21 May 1960. Its epicenter was near Curanilahue. Telecommunications to southern Chile were cut off and President Jorge Alessandri cancelled the traditional ceremony of the Battle of Iquique memorial holiday to oversee the emergency assistance efforts. The second and third Concepción earthquakes occurred the next day at 06:32 UTC-4 and 14:55 UTC-4, on 22 May.
+
+===Valdivia earthquake===
+The Valdivia earthquake occurred at 15:11 UTC-4 on 22 May, and affected all of Chile between Talca and Chiloé Island, more than {{convert|400000|km2|sqmi}}. Coastal villages, such as Toltén, disappeared. At Corral (Chile)|Corral, the main port of Valdivia, the water level rose {{convert|4|m|ft|abbr=on}} before it began to recede. At 16:20 UTC-4, a wave of {{convert|8|m|ft|abbr=on}} struck the Chilean coast, mainly between Concepción and Chiloé. Another wave measuring {{convert|10|m|ft|abbr=on}} was reported ten minutes later.
+
+Hundreds of people were already reported dead by the time the tsunami struck. One ship, ''Canelos'', starting at the mouth of Valdivia River, sank after being moved {{convert|1.5|km|mi|abbr=on}} backward and forward in the river; its mast is still visible from the road to Niebla, Chile|Niebla.
+
+A number of Spanish-colonial Valdivian fort system|fortifications were completely destroyed. Soil subsidence also destroyed buildings, deepened local rivers, and created wetlands in places like the Río Cruces and Chorocomayo, a new aquatic park north of the city. Extensive areas of the city were flooded. The electricity and water systems of Valdivia were totally destroyed. Witnesses reported underground water flowing up through the soil. Despite the heavy rains of 21 May, the city was without a water supply. The river turned brown with sediment from landslides and was full of floating debris, including entire houses. The lack of potable water became a serious problem in one of Chile's rainiest regions.{{citation needed|date = May 2012}}
+
+The earthquake did not strike all the territory with the same strength; measured with the Mercalli intensity scale|Mercalli scale, tectonically depressed areas suffered heavier damage. The two most affected areas were Valdivia and Puerto Octay, near the northwest corner of Llanquihue Lake. Puerto Octay was the center of a north-south elliptical area in the Chilean Central Valley|Central Valley, where the intensity was at the highest outside the Valdivia Basin.
+
+Two days after the earthquake Cordón Caulle, a volcanic vent close to Puyehue volcano, erupted. Other volcanoes may also have erupted, but none was recorded due to the lack of communication in Chile at the time. The relatively low death toll in Chile (estimated at 6,000) is explained in part by the low population density in the region, and by building practices that took into account the area's high geological activity.
+
+===Tectonic interpretation===
+The earthquake was a megathrust earthquake resulting from the release of mechanical stress between the subducting Nazca Plate and the South American Plate, on the Peru-Chile Trench. The focus was relatively shallow at {{convert|33|km|abbr=on}}, considering that earthquakes in Norte Grande|northern Chile and Argentina may reach depths of {{convert|70|km|abbr=on}}. Subduction zones are known to produce the strongest earthquakes on earth, as their particular structure allows more stress to build up before energy is released. Geophysicists consider it a matter of time before this earthquake will be surpassed in magnitude by another. The earthquake's rupture zone was {{convert|800|km|abbr=on}} long, stretching from Arauco, Chile|Arauco (37° S) to Chiloé Archipelago (43° S). The rupture velocity has been estimated as {{convert|3.5|km|abbr=on}} per second.
+
+==Natural disasters triggered==
+
+===Landslides===
+The earthquake triggered numerous landslides, mainly in the steep glacial valleys of the southern Andes. Within the Andes, most landslides occurred on forested mountain slopes around the Liqui?e-Ofqui Fault. Some of these areas remain sparsely vegetated while others have naturally developed more or less pure stands of Nothofagus dombeyi. These landslides did not cause many fatalities nor significant economical losses because most of the areas were uninhabited, with only minor roads.
+
+One landslide caused destruction and alarm following its Ri?ihuazo|blockage of the outflow of Ri?ihue Lake. About {{convert|100|km|abbr=on}} south of Ri?ihue Lake, landslides in the mountains around Golgol River caused this river to dam up; when it burst through the earthen dam, it created a flood down to Puyehue Lake. The Golgol landslides destroyed parts of international Route 215-CH, which connects to Bariloche in Argentina through Cardenal Antonio Samoré Pass.
+
+===Tsunami===
+File:Great Chilean Earthquake damage at Kamaishi.jpg|thumb|left|Effect of the tsunami at Kamaishi, Japan
+File:Hilo after Tsunami 1960.jpg|thumb|left|Hilo, Hawaii, after tsunami
+File:Tsunami travel time Valdivia 1960.jpg|thumb|right|Map showing the travel time of the tsunami across the Pacific ocean|Pacific and beyond. Contours are at one hour intervals.
+Earthquake-induced tsunamis affected southern Chile, Hawaii, Japan, the Philippines, Hong Kong, eastern New Zealand, southeast Australia and the Aleutian Islands. Some localised tsunamis severely battered the Chilean coast, with waves up to {{convert|25|m|abbr=on}}. The main tsunami crossed the Pacific Ocean at a speed of several hundred km/h and devastated Hilo, Hawaii, killing 61 people. Hilo's position in the bay caused a cumulative bounce of tsunami waves far more destructive to Hilo than to other more exposed areas of Hawaii. In Japan, the tsunami arrived about 22 hours after the earthquake and killed 142 people. Tsunami waves as high as {{convert|10.7|m|abbr=on}} were recorded {{convert|10000|km|abbr=on}} from the epicentre, several as far away as Japan and the Philippines.
+
+At the coastal town of Queule a Carabineros de Chile|carabinero reported hundreds of people to be dead or missing some days after the tsunami. Historians Yoselin Jaramillo and Ismael Basso report that people in Queule decades later know about 50 people to have died because of the earthquake and tsunami.
+
+On 22 May, a seiche occurred also in Nahuel Huapi Lake, on the Argentinean side of the Andes, more than 200&nbsp;km away from Valdivia. The wave, most likely produced by an earthquake-triggered sediment slide at the lake bottom, killed two people and destroyed a pier in San Carlos de Bariloche city.
+
+===Ri?ihuazo flood===
+{{Main|Ri?ihuazo}}
+
+During the Great Chilean Earthquake, several landslides west of Tralcán Mountain blocked the outflow of Rinihue Lake ({{Coord|39|45|00|S|72|30|00|W|region:CL_type:waterbody}}). Ri?ihue Lake is the lowest of the Seven Lakes, Chile|Seven Lakes chain and receives a constant inflow from the Enco River. The blocked San Pedro River, Chile|San Pedro River, which drains the lake, passes through several towns before reaching the city of Valdivia (city)|Valdivia near the coast.
+
+Because the San Pedro River was blocked, the water level of Ri?ihue Lake started to rise quickly. Each meter the water level rose was equivalent to 20 million cubic meters, which meant that 4,800 million cubic meters of water would release into the San Pedro River (easily overpowering its flow capacity of {{convert|400|m3|cuft}} per second if it rose above the final, 24-meter-high dam. This potential disaster would have violently flooded all the settlements along the course of the river in less than five hours, with more dire consequences if the dam suddenly broke.
+
+About 100,000 people lived in the affected zone. Plans were made to evacuate Valdivia, and many people left. To avoid the destruction of the city, several military units and hundreds of workers from ENDESA (Chile)|ENDESA, CORFO, and MOP, Chile|MOP started an effort to control the lake. Twenty-seven bulldozers were put into service, but they had severe difficulties moving in the mud near the dams, so dyke (construction)|dykes had to be constructed with shovels from June onwards. The work was not restricted to the lake; drainages from other parts of the Seven Lakes were dammed to minimize additional flow into Ri?ihue Lake. These dams were removed later, with the exception of Calafquén Lake, which still retains its dam.
+
+By 23 June, the main dam had been lowered from {{convert|24|to|15|m|ft|abbr=on}}, allowing 3,000 million cubic meters of water to leave the lake gradually, but still with considerable destructive power. The team was led by ENDESA engineer Raúl Sáez.
+
+===Cordón Caulle eruption===
+{{Further2|Puyehue-Cordón Caulle}}
+File:Cordon Caulle eruption 1960.jpg|thumb|250px|Eruption of Cordón Caulle following the 1960 Valdivia earthquake
+On 24 May, 38 hours after the main shock of the 1960 Valdivia earthquake, Cordón Caulle began a rhyodacite|rhyodacitic volcanic fissure|fissure eruption. Being located between two sparsely populated and isolated Andean valleys, the eruption had few eyewitnesses and received little attention by local media, which was preoccupied with the severe and widespread damage and losses caused by the earthquake.
+
+==Consequences and response==
+
+===Impacts in Valdivia===
+It has been estimated that about 40% of the houses in Valdivia were destroyed, leaving 20,000 people homeless.
+File:The center of Corral was almost completely destroyed by a tsunami - Autumn 1960.png|thumb|left|The destroyed center of Corral, Chile|Corral in Autum 1960.
+In terms of urban development, Valdivia suffered the loss of the minor but significant Cau-Cau bridge, a bridge that has not been rebuilt. The other bridges suffered only minor damage. Land subsidence in Corral Bay improved navigability as shoal banks, produced earlier by sediments from Madre de Dios Mine|Madre de Dios and other nearby gold mines, sank and were compacted.
+
+The United States quickly set up a field hospital following the earthquake.
+
+The earthquakes damaged an area that had suffered a long period of economic decline, which began with shifts in trade routes, due to the expansion of railroads in southern Chile and the opening of the Panama Canal in 1911.
+
+===Impact in the countryside===
+File:Destroyed steel factory near Corral - Photo from the autumn of 1960.png|thumb|A destroyed steel factory near Corral, Chile|Corral - Photo from autumn 1960. 
+The tsunami that struck the coast of southern Chile destroyed seaside farms, killing numerous livestock and people. The dairy industry was among the few industries of the affected zone that received subsidies and investment after the earthquake. It received state support through a long-term policy after the earthquake.
+
+As a result of the earthquake, an international technological cooperation programme was established in the dairy sector. More specifically, the German and Danish governments helped to create the ''Centro Tecnológico de la Leche'' (the Milk Technological Centre) in the Southern University of Chile. The scholar Erik Dahmén believes that the earthquake resulted in a "creative destruction" for farmers of Southern Chile.
+
+The economy of the coastal town of Queule had during the 1950s developed significantly. Its economy based on fishing, agriculture and industry had grown. Quele was connected by road in 1957 to the rest of the country and the town had developed into a balneario. This era of prosperity ended with the 1960 earthquake.
+
+===Creation of emergency committee===
+{{See also|ONEMI}}
+After the 1960 Valdivia earthquake, a committee was formed to solve problems caused by the earthquake. It continued to operate, to develop approaches for national emergencies. In 1974 it was named ONEMI (Spanish acronym for National Emergency and Information Office) when it was authorized by law as an independent governmental office.
+
+===Human sacrifice===
+In the coastal village Collileufu, native Mapuche|Lafkenches carried out a ritual human sacrifice during the days following the main earthquake. Collileufu, located in the Budi Lake area, south of Puerto Saavedra, was in 1960 highly isolated. The Mapuche spoke primarily Mapudungun. The community had gathered in Cerro La Mesa, while the lowlands were struck by successive tsunamis. Juana Namuncura A?en, a local Machi (Shaman)|machi, demanded the sacrifice of the grandson of Juan Painecur, a neighbor, in order to calm the earth and the ocean.
+
+The sacrifice was learned about by authorities after a boy in the commune of Nueva Imperial denounced to local leaders the theft of two horses; these were allegedly eaten during the sacrifice ritual.
+
+== Previous and later earthquakes ==
+There is evidence that a similar 1575 Valdivia earthquake|earthquake and landslide occurred in 1575 in Valdivia.
+
+On 27 February 2010 at 03:34 local time an 2010 Chile earthquake|8.8 magnitude earthquake occurred just to the north (off the coast of the Maule region of Chile, between Concepción and Santiago). This quake was reported to be centered approximately {{convert|35|km|mi}} deep and several miles off shore. This 2010 Chile earthquake may be related or consequential to the 1960 tremor.
+
+==See also==
+* Villarrica (volcano)#1964 eruption|1964 Villarrica eruption
+* Drought in Chile#Great Drought of 1968–1969|Great Chilean drought of 1968–1969
+* List of earthquakes in Chile
+* List of earthquakes#Largest earthquakes by magnitude|List of largest earthquakes by magnitude
+* Seismicity of the Chilean coast
+
+==References==
+{{reflist|30em}}
+
+'''Bibliography'''
+*{{cite book |last1=Jaramillo |first1=Yoselin |last2=Basso |first2=Ismael |year=2013 |title=Queule, Entre Mar y Tierra 1950-2012  |trans_title= |url= |language=Spanish |location=Valdivia |publisher=Arte Sonoro Austral Ediciones |isbn=978-956-8716-04-2}}
+*{{cite book |last1=Urrutia de Hazbún |first1=Rosa |last2=Lanza Lazcano |first2=Carlos |title=Catástrofes en Chile 1541 - 1992 |url= |accessdate= |year=1993 |edition= |language=Spanish |publisher=Editorial La Noria |location=Santiago, Chile|Santiago |isbn= |page=}}
+
+==External links==
+{{commons category|Great Chilean Earthquake}}
+* http://www.geophys.washington.edu/tsunami/general/historic/chilean60.html Chilean earthquake and tsunami – University of Washington
+* http://www.drgeorgepc.com/Tsunami1960.html Tsunami of 1960 – George Pararas-Carayannis
+* http://www.pdc.org/iweb/tsunami_history.jsp Hawaii Events – Pacific Disaster Center
+* http://oldwcatwc.arh.noaa.gov/web_tsus/19600522/runups.htm 22 May 1960 South Central Chile Tsunami Amplitudes – National Oceanic and Atmospheric Administration
+
+{{Earthquakes in Chile}}
+
+{{DEFAULTSORT:1960 Valdivia Earthquake}}
+Category:Megathrust earthquakes in Chile|1960 Valdivia
+Category:1960 in Chile|Valdivia earthquake
+Category:1960 earthquakes|Valdivia earthquake
+Category:History of Los Ríos Region
+Category:20th-century tsunamis
+Category:Tsunamis in Chile
+Category:Tsunamis in the United States
+Category:Landslides in Chile
+
+{{Link GA|de}}

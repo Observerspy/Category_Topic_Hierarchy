@@ -1,0 +1,133 @@
+{{Use dmy dates|date=January 2014}}
+
+{{Use Indian English|date=November 2013}}
+
+{{Infobox earthquake
+|title = 2011 Sikkim earthquake
+|image =
+|image alt =
+|imagecaption =
+|map =
+|map alt =
+|image name =
+|map2 = {{Location map | India|relief=1
+| label = 
+| lat = 27.723
+| long = 88.064
+| mark = Bullseye1.png
+| marksize = 40
+| position = bottom
+| width = 250
+| float = none
+| caption = }}
+|date = 18 September 2011
+|origintime = 18:10 India Standard Time|IST (UTC+05:30)<br>18:25 Nepal Time|NPT (UTC+05:45)<br>18:40 Bhutan Time|BTT (UTC+06:00)<br>20:40 China Standard Time|CST (UTC+08:00)
+|duration = 30–40 seconds
+|magnitude = 6.9 Moment magnitude scale|(M<sub>w</sub>)
+|depth = 19.7&nbsp;km (12.1 mi)
+|location = {{Coord|27.723|N|88.064|E|type:event_scale:50000000|display=inline,title}}
+|epicenter = Taplejung, Nepal
+|type = Intraplate earthquake|Intraplate
+|countries affected = {{IND}} <br>{{BAN}}<br>{{NEP}}<br>{{BHU}}<br>{{China}}
+|damage =
+|intensity = Mercalli intensity scale|MM VII
+|PGA = <!-- NN''Peak ground acceleration|g'' -->
+|tsunami = No
+|landslide = Yes <!-- http://www.ndtv.com/article/india/many-injured-in-north-bengal-power-supply-disrupted-134563 -->
+|aftershocks = Yes
+|casualties = At least 111 killed
+}}
+
+The '''2011 Sikkim earthquake''', also known as the '''2011 Himalayan earthquake''', was a Moment magnitude scale|magnitude 6.9 (M<sub>w</sub>) earthquake centered within the Kanchenjunga Conservation Area, near the border of Nepal and the Indian state of Sikkim, at 18:10 IST (12:40 UTC) on Sunday, 18 September 2011. The earthquake was felt across northeastern India, Nepal, Bhutan, Bangladesh and southern Tibet.
+
+At least 111 people were killed in the earthquake. Most of the deaths occurred in Sikkim, with reports of fatalities in and near Singtam in the East Sikkim district. Several buildings collapsed in Gangtok. Eleven are reported dead in Nepal, including three killed when a wall collapsed in the British Embassy in Kathmandu. Elsewhere, structural damage occurred in Bangladesh, Bhutan, and across Tibet; another seven fatalities were confirmed in the latter region.
+
+The quake came just a few days after an earthquake of 4.2 magnitude hit Haryana|Haryana's Sonipat district, sending tremors in New Delhi. The earthquake was the fourth significant earthquake in India of September 2011.
+
+It is interesting to note that exactly a year after the original earthquake at 5:55 pm on 18 September 2012, another earthquake of magnitude 4.1 struck Sikkim, sparking panic among the people observing the anniversary of the original quake.
+
+==Earthquake==
+
+===Geology===
+The Moment magnitude scale|magnitude 6.9 (M<sub>w</sub>) earthquake occurred inland at 18:10 IST on 18 September 2011, about 68&nbsp;km (42&nbsp;mi) northwest of Gangtok, Sikkim at a shallow Hypocenter|depth of 19.7&nbsp;km (12.2&nbsp;mi). At its location, the continental Indian Plate|Indian and Eurasian Plates converge with one another along a Convergent boundary|tectonic boundary beneath the mountainous region of northeast India near the Nepalese border. Although earthquakes in this region are usually Interplate earthquake|interplate in nature, preliminary data suggests the Sikkim earthquake was triggered by shallow strike-slip faulting from an Intraplate earthquake|intraplate source within the over-riding Eurasian Plate. Initial analyses also indicate a complex origin, with the perceived tremor likely being a result of two separate events occurring close together in time at similar focal depths.
+
+File:2011-Sikkim earthquake Shakemap.jpg|thumb|right|United States Geological Survey|USGS shake map
+Located at a shallow depth beneath the surface, the earthquake caused strong shaking in many areas adjacent to its epicenter reportedly lasting 30&ndash;40 seconds. In all, the earthquake was felt in Nepal, India, Bhutan, Bangladesh and China. Tremors were felt in Assam, Meghalaya, Tripura, parts of West Bengal, Bihar, Jharkhand, Uttar Pradesh, Rajasthan, Chandigarh and Delhi states of India.
+
+===Aftershocks===
+Sikkim experienced three aftershocks since the earthquake, occurring at magnitudes of 5.7, 5.1, and 4.6 (M<sub>w</sub>) within 30 minutes of the initial earthquake. Kathmandu experienced two aftershocks that both had a magnitude of 4.8 M<sub>w</sub>. The aftershocks had no serious impact in the region.
+ On 19 September, tremors shook some parts of Maharashtra measuring 3.9 (Mw) at around 06:30 IST including Latur, Osmanabad and Solapur districts, all of which had already suffered the 1993 Latur earthquake|1993 earthquake. However, no loss of life or property was reported.
+
+==Impact==
+{| class="wikitable" style="float:right"
+|+ Casualties by country
+|-
+! Country !! Deaths
+|-
+| '''{{Flag|India}}''' || 97
+|-
+| {{Flag|China}} || 7
+|-
+| {{Flag|Nepal}} || 6
+|-
+| {{BHU}} || 1
+|-
+| {{Flag|Bangladesh}} || 0 
+|-
+| '''Total''' || '''111'''
+|}
+The earthquake struck near a mountainous, albeit very populous region near the Sikkim&ndash;Nepal border; most of the structures were reported to be highly vulnerable to earthquake shaking.
+
+=== India ===
+Northern India suffered the most from the earthquake, with at least 75 people killed. Ten of the dead were workers at a hydroelectric project on the Teesta River.
+
+In India, property damage is estimated to be around {{INRConvert|1000|b}} with the actual report yet to come.
+
+==== Sikkim ====
+Two buildings of the Indo-Tibetan Border Police in the Pegong areas of North Sikkim collapsed. In Gangtok, many government offices and hospitals were left unusable. The heavy shaking destroyed the villages of Lingzya, Sakyong, Pentong, Bay and Tholong.
+
+=== Nepal ===
+In the capital city of Nepal, Kathmandu, damage from the earthquake was comparatively limited. Sunsari District|Sunsari experienced power and telephone communication outages. Overall, in Nepal 6 people died due to the earthquake.
+
+===Bangladesh===
+The earthquake was felt most strongly in northern Bangladesh. The quake was also felt in Dhaka, Sylhet, Barisal, Faridpur Sadar Upazila|Faridpur, Jessore, Khulna, Pabna, Bogra, Comilla, Noakhali, and as far as Chittagong. Cell phone lines were also down for a few minutes during the quake.
+
+=== China ===
+In Tibet, building collapse was reported in Yadong County|Yadong, Dinggyê County|Dinggyê and Gamba County|Gamba. At least seven people were reported dead in Yadong. Telephone service was interrupted in the seat of Yadong County.
+
+=== Bhutan ===
+There were no reports of casualties in Bhutan, although cracks on walls and ceilings of houses were reported in Wangthangkha village, Lango and the town area in Paro. There were also reports of a landslide right after crossing the Isuna Bridge from Paro, Bhutan|Paro towards Thimphu, and falling boulders after crossing Chundzom Bridge. Citizens were asked to avoid traveling on the Paro-Thimphu highway. Telecommunications networks were disrupted, with cellular networks unavailable after the quake.
+
+Prime Minister of Bhutan Jigmi Thinley updated in his status as "Phone lines remains clogged reflecting our caring and close knit society. No damage reported from East Bhutan. Four road blocks caused by falling debris are reported on the Chukha - Phuntsholing road. Two homes in Haa report damage with 3-4 people having suffered minor injury. Thimphu Dzong has sustained some cracks in the Utse and one of the four corner towers. Occupants have been moved out to safer parts. Please remain calm and alert."
+
+== Rescue operations and compensation ==
+
+=== India ===
+Early rescue operations included four teams of National Disaster Response Force (NDRF)|National Disaster Response Force been rushed to Sikkim and five more teams were being sent from Kolkata.
+
+Indian Prime Minister of India|Prime Minister Dr. Manmohan Singh, on 19 September, announced {{INRConvert|200000}} as ex-gratia to a family member of those killed in the earthquake and {{INRConvert|100000}} for seriously injured. {{INRConvert|50|k}} for those grievously injured and {{INRConvert|25|k}} for those with minor injuries was announced by List of Chief Ministers of Sikkim|Sikkim chief minister Pawan Chamling.
+
+==See also==
+* List of earthquakes in India
+* List of earthquakes
+
+== References ==
+<!--- See Wikipedia:Footnotes on how to create references using tags which will then appear here automatically -->
+{{reflist|30em}}
+
+== External links ==
+* http://www.rediff.com/news/slide-show/slide-show-1-sikkim-quake-toll-rises-to-40-releif-ops-hit-by-landslides/20110919.htm Rediff.com: 40 killed in Sikkim quake; relief ops hit by landslides (slideshow)
+* http://cdrn.org.in/blog/index.php/himalayan-earthquake-north-east-india/ Himalayan Earthquake, North East India 2011 Collaboration and Information Aggregation 
+
+{{Earthquakes in 2011}}
+{{Himalayan_quakes}}
+
+<!--- Categories --->
+
+Category:2011 earthquakes
+Category:Earthquakes in India
+Category:Earthquakes in Nepal
+Category:Earthquakes in Bhutan
+Category:Earthquakes in Bangladesh
+Category:2011 disasters in India
+Category:History of Sikkim

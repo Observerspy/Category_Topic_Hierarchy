@@ -1,0 +1,160 @@
+{{Infobox election
+| election_name      = Georgian presidential election, 2008
+| country            = Georgia
+| type               = presidential
+| ongoing            = no
+| previous_election  = Georgian presidential election, 2004
+| previous_year      = 2004
+| next_election      = Georgian presidential election, 2013
+| next_year          = 2013
+| election_date      = 5 January 2008
+| image1             = [[File:Saakashvili76589.jpg|133px]]
+| nominee1           = [[Mikheil Saakashvili]]
+| colour1            = B22222
+| party1             = United National Movement
+| popular_vote1      = 1,060,042
+| percentage1        = 53.73%
+| image2             = [[File:Levan Gachechiladze (July 4, 2008).jpg|133px]]
+| nominee2           = [[Levan Gachechiladze]]
+| colour2            = FFFF00
+| party2             = National Council (Georgia)
+| popular_vote2      = 509,234 	
+| percentage2        = 26.29%
+| title              = President
+| before_election    = [[Mikheil Saakashvili]]
+| before_party       = United National Movement
+| after_election     = [[Mikheil Saakashvili]]
+| after_party        = United National Movement
+}}
+{{Politics of Georgia (country)}}
+
+'''Presidential elections''' were held in [[Georgia (country)|Georgia]] on 5 January 2008,<ref>[http://www.itar-tass.com/eng/level2.html?NewsID=12050251&PageNum=0 Georgia to hold presidential election on Jan 5, 2008] [[Itar-Tass]]. November 8, 2007.</ref> having been brought forward by [[President of Georgia|President]] [[Mikheil Saakashvili]] after the [[2007 Georgian demonstrations|2007 demonstrations]] from the original date in autumn 2008.<ref>[http://news.bbc.co.uk/1/hi/world/europe/7085097.stm Georgia to hold early elections]. [[BBC News]]. November 8, 2007.</ref>
+
+A [[Georgian legislative election date referendum, 2008|referendum]] on when to hold the [[Georgian legislative election, 2008|legislative elections]] was held at the same date. On 26 November 2007 the President's office announced that Georgia would hold [[Georgian NATO membership referendum, 2008|another simultaneous referendum]] on [[NATO]] membership.<ref>[http://www.civil.ge/eng/article.php?id=16434 Georgia to Hold Plebiscite on NATO Membership]. Civil Georgia. 2007-11-26.</ref> 
+
+Saakashvili was declared a winner with 53.7% of the votes amid the accusation of [[electoral fraud]] by the Georgian opposition.<ref>{{cite web
+  | title = Saakashvili officially declared winner in Georgian presidential election
+  | publisher = [[Interfax]]
+  | date = 2008-01-13
+  | url = http://www.interfax.ru/e/B/politics/28.html?id_issue=11944114
+  | accessdate = 2008-01-13}} {{Dead link|date=October 2010|bot=H3llBot}}</ref> International observers welcomed the elections as "the first genuinely competitive presidential election" in the history of Georgia, and said, albeit irregularities were observed, the polls generally met the democratic standards.{{Citation needed|date=January 2012}}
+
+==Background==
+In the earliest pre-election poll held by the weekly ''Mteli Kvira'' in November 2007, the opposition candidate Gachechiladze defeated Saakashvili by 2% (18% to 16%).<ref>[http://www.interfax.ru/e/B/politics/28.html?id_issue=11912685 Interfax > Politics<!-- Bot generated title -->]</ref><ref>[http://www.angus-reid.com/polls/view/29127/low_numbers_for_candidates_in_georgia Low Numbers for Candidates in Georgia: Angus Reid Global Monitor<!-- Bot generated title -->]</ref> 
+
+In December 2007, in a poll commissioned by Saakashvili's party, the BCG company surveyed of 13,000 respondents throughout Georgia showed that 29.5% of voters were still undecided. 36.7% said they would vote for Saakashvili, followed by Gachechiladze with 9.7%; Patarkatsishvili – 4.7%; Gamkrelidze - 3%; Natelashvili – 2.5%; Maisashvili and Sarishvili had less than 1% each. One percent said they would vote for none of the candidates. The survey showed that 63.5% of those who have decided to vote for one of the candidates will vote for Saakashvili, followed by Gachechiladze and Patarkatsishvili with 16.7% and 8.1%, respectively.<ref name="survey">[http://www.civil.ge/eng/article.php?id=16652 Imedi TV Plans Exit Polls]. Civil Georgia. 2007-12-23.</ref>
+
+According to another survey, also commission by Saakashvili's party, was overseen by the U.S. base [[Greenberg Quinlan Rosner Research]] but conducted by the Georgian ACT group.  This survey involved 1,500 respondents, 41% will vote for Saakashvili, followed by Gachechiladze – 11.1%; Patarkatsishvili – 6.5%; Natelashvili – 3.5%; Gamkrelidze – 2.1%; Maisashvili and Sarishvili - less than 1% each. 20.6% were undecided and 2.3% said they wouldn’t vote for any candidate. Of those who have decided to vote for one of the candidates, 64% said they would vote for Saakashvili, followed by Gachechiladze and Patarkatsishvili with 17% and 10%, respectively.<ref name="survey"/> 
+
+On December 23, 2007, the pro-opposition [[Imedi TV]] announced that the organization called Dialogue for Development of Democracy conducted public opinion research between December 17 and December 21. The survey showed, Imedi TV said, that 22.1% of the 2,100 surveyed would support Levan Gachechiladze, a presidential candidate backed by the nine-party opposition coalition, followed by Mikheil Saakashvili with 20.3%; Badri Patarkatsishvili (co-owner of Imedi TV) – 19.1%; Shalva Natelashvili, the leader of the Labor Party – 6.5%; Davit Gamkrelidze, the leader of the New Rights Party – 4.9%; Giorgi Maisashvili, leader of Party of Future – 1.1% and Irina Sarishvili, leader of Party of Hope – 0.2%. The survey was reported to have shown that 21.7% still remain undecided.<ref name="survey"/> The latest survey, commissioned by the Saakashvili’s campaign from the U.S.-based Greenberg Quinlan Rosner, was published on January 3, 2008. It showed that Saakashvili had the support of 42 percent among all Georgian adults, compared to 19 percent for Levan Gachechiladze, 11 percent for Badri Patarkatsishvili, 5 percent for Shalva Natelashvili, 4 percent for David Gamkrelidze, and 1 percent for Gia Maisashvili; 2 percent would not vote or vote blank, and 16 percent are undecided. It also showed that only a minority of Georgian voters feel the presidential elections will not be free and fair.<ref>[http://www.greenbergresearch.com/index.php?ID=2121 Survey Shows Saakashvili with Strong Lead in Presidential Ballot]. Greenberg Quinlan Rosner, January 3, 2008.</ref>   
+
+Meanwhile, all major national television broadcasters plan to conduct their own exit polls and have commissioned seven local research groups.<ref name="survey"/>
+
+In late December, Patarkatsishvili, who had pledged his financial support to the November rallies, became embroiled in a major controversy. The authorities accused him of trying to bribe an election official to claim voting fraud, released a series of audio and video recordings of the two separate meetings of the high-ranking Georgian Interior Ministry official Erekle Kodua with Patarkatsishvili and the head of his pre-election campaign Valeri Gelbakhiani. According to these materials, Patarkatsishvili was trying to bribe Kodua to take part in what the Georgian officilas described as an attempted coup d'état on January 6, 2008, the next of the scheduled presidential elections. The plan included to stage a mass manifestation against the government and to "neutralize" the Interior Minister [[Vano Merabishvili]]. The accusations forced Patarkatsishvili onto defensive. He confirmed that he met with Kedua in London, but denied that the bribe was in connection to an alleged coup plot and claimed instead that his intention was to uncover what he said were official plans to rig the election. He also confirmed that he offered Kedua "a huge amount of money" in exchange for defecting from the authorities allegedly to avert a possible use of force by the government against the planned January rallies.<ref>[http://www.civil.ge/eng/article.php?id=16653 Patarkatsishvili Ally a Suspect in Coup Plot]. Civil Georgia / 2007-12-24 13:22:55.</ref><ref>[http://www.civil.ge/eng/article.php?id=16668 More ‘Coup Plot’ Tapes Released]. Civil Georgia, Tbilisi / 2007-12-25 20:33:27.</ref><ref>[http://www.geotimes.ge/index.php?m=home&newsid=8395 Patarkatsishvili Forced onto Defensive]. Georgian Times [Civil Georgia]. 2007.12.26 12:52.</ref> On December 26, 2007, several leading journalists defected from [[Imedi TV]], co-owned by Patarkatsishvili. Later that day, the television station’s management announced that Imedi TV temporarily suspended broadcasts until the station's "legal status in respect of ownership is not clarified." "By doing so we are distancing from dirty political games", said Giorgi Targamadze, head of the Imedi TV's political programs.<ref>[http://www.civil.ge/eng/article.php?id=16679 Imedi TV Suspends Broadcasts].  Civil Georgia, Tbilisi. 2007-12-26.</ref> The opposition politicians who were formerly allied with him also made attempts to distance for Patarkatsishvili and condemned what they described as illegal methods used by both the authorities and "other forces," apparently referring to Patarkatsishvili.<ref>[http://www.civil.ge/eng/article.php?id=16699 Authorities Attack Nine-Party Coalition over Patarkatsishvili Ties]. Civil Georgia, 2007-12-27.</ref>  
+
+On December 28, 2007, Patarkatsishvili announced that he would withdraw his bid for presidency, but would nominally remain a candidate until January 4, 2008.<ref>[http://www.civil.ge/eng/detail.php?id=16704 Patarkatsishvili Nominally Remains in Race]. Civil Georgia. 2007-12-28.</ref> On January 3, 2008, he reversed himself, however, and decided to run in presidential elections. In response, his top campaign official Giorgi Zhvania (brother of the late Prime Minister [[Zurab Zhvania]]) resigned, declaring that Patarkasishvili does not have the unquestionable reputation one would expect of a country's president.<ref>[http://www.voanews.com/english/2008-01-03-voa70.cfm Georgian Media Tycoon Returns to Presidential Race]. [[Voice of America]]. January 03, 2008.</ref>
+
+Meanwhile, the [[Organization for Security and Co-operation in Europe]] (OSCE) has released two interim reports on election campaign, saying that the "legal framework [was] generally favorable to the conduct of democratic elections in Georgia, if implemented in good faith." However, they express concerns about "a highly polarized political environment" within the country's political spectrum, the allegations of use by Saakashvili of administrative resources and the lack of balance in [[Georgian media]].<ref>[http://www.civil.ge/eng_/article.php?id=16642 OSCE Interim Report on Election Campaign]. Civil Georgia, December 21, 2007.</ref><ref>[http://www.osce.org/documents/odihr/2007/12/29149_en.pdf Interim Report No 2]. The OSCE Observer Mission. December 28, 2007.</ref>
+ 
+On December 28, 2007, Saakashvili vowed to lead Georgia into NATO and to restore its territorial integrity in his second term if reelected, stating he would hand over a united Georgia to his successor after the end of his second term.<ref>[http://english.people.com.cn/90001/90777/6329507.html Georgian president vows to join NATO if reelected - People's Daily Online<!-- Bot generated title -->]</ref>
+
+The pre-election period in Georgia was also marked with the rising tension in breakaway [[Abkhazia]]. Early in January 2008, the Georgian media reported attacks on ethnic Georgians in the [[Gali District, Abkhazia|Gali district]] controlled by the de facto Abkhaz administration. The reports said that the Georgians living in Abkhazia were being intimidated by local Abkhaz officials in order to prevent them from participating in Georgia's presidential election and at least seven houses owned by ethnic Georgians had been burnt down. Although Abkhaz officials rejected the accusations,<ref>[http://www.civil.ge/eng/article.php?id=16753 Sokhumi Denies Reported Attacks on Georgians in Gali]. Civil Georgia. January 4, 2008.</ref> the acting Georgian president [[Nino Burjanadze]] warned that the certain attempts were being made to complicate the situation in the conflict zone on the eve of the election.<ref>[http://www.civil.ge/eng/article.php?id=16755 Attempts Made to Raise Tension in Conflict Zones – Burjanadze]. Civil Georgia. January 4, 2008.</ref>
+
+==Candidates==
+[[Badri Patarkatsishvili]], a [[business oligarch]] who made a fortune in [[Russia]], announced he would be a candidate on 10 November 2007; the government accused Patarkatsishvili of plotting a Russia-backed coup against Saakashvili.<ref>[http://www.anatoliantimes.com/hbr2.asp?id=&s=int&a=071110131405.sh2u8tvh The Anatolian Times<!-- Bot generated title -->]</ref> The opposition parties stated they would nominate a single candidate for the election, which would be a "big surprise" for everyone, would have a "great chance of winning the election" and that it would not be Patarkatsishvili, former Defence Minister [[Irakli Okruashvili]] or the activist [[Tina Khidasheli]].<ref>[http://eng.primenewsonline.com/news/121/ARTICLE/16760/2007-11-09.html Zurabishvili: Opposition To Nominate One Candidate For Presidential Elections<!-- Bot generated title -->]</ref> On November 12, the opposition parties nominated MP [[Levan Gachechiladze]], who was at the forefront of the [[2007 Georgian demonstrations]], as their common candidate for the election.<ref>[http://news.bbc.co.uk/2/hi/europe/7091159.stm "Georgia poll challenger nominated"], BBC News, November 12, 2007.</ref> The [[Georgian Labour Party]] will support its leader [[Shalva Natelashvili]] as a candidate instead of Gachechiladze, and the [[New Right (Georgia)|New Right]] nominated MP [[Davit Gamkrelidze]] as their candidate instead.
+
+Saakashvili was nominated as his party's candidate on 23 November.<ref>[http://www.africasia.com/services/news/newsitem.php?area=mideast&item=071123150308.s61i9m60.php IC Publications<!-- Bot generated title -->]</ref>
+
+Twenty-two citizens of Georgia expressed willingness to run for th elections. According to the Georgian election code each of them had to submit at least 50,000 signatures of supporters in order to be registered by the Central Election Commission as official candidates.<ref>[http://www.civil.ge/eng/article.php?id=16433 22 Bid for Presidency – CEC]. Civil Georgia. 2007-11-26.</ref> 
+
+In total, thirteen candidates submitted signatures, but only seven were recognized by the Central Election Commission (CEC) as eligible to run for the presidency:  
+*[[Levan Gachechiladze]], nominated by the nine-party opposition coalition
+*[[Davit Gamkrelidze]], leader of the [[New Right (Georgia)|New Right]]
+*[[Gia Maisashvili]], leader of the [[Party of the Future (Georgia)|Party of the Future]]
+*[[Shalva Natelashvili]], leader of the [[Georgian Labour Party]]
+*[[Badri Patarkatsishvili]], a business and media tycoon
+*[[Mikheil Saakashvili]], the ex-president and the leader of ruling [[United National Movement]]
+*[[Irina Sarishvili-Chanturia]], the only female presidential candidate and the leader of the Russian-leaning [[Hope Party]].<ref>[http://www.civil.ge/eng/article.php?id=16557 Seven Remain in Presidential Race]. Civil Georgia. 2007-12-11.</ref>
+
+==Conduct==
+In addition to local watchdogs, 29 international or foreign organizations (including OSCE, [[Parliamentary Assembly of the Council of Europe]], and [[International Crisis Group]]) observe the elections.<ref>[http://www.civil.ge/eng_/article.php?id=16689 International Observers]. Civil Georgia.</ref> 
+
+Early on election day all polling stations were opened with the exception of the highland village of [[Shatili]] where heavy snow thwarted the process.<ref>[http://www.civil.ge/eng_/article.php?id=16763 All Polling Stations Opened, Except of One in Shatili]. Civil Georgia, January 5, 2008.</ref>
+
+==Results==
+{| class=wikitable style=text-align:right
+!Candidate
+!Votes
+!%
+|-
+|align=left|[[Mikheil Saakashvili]]||1,060,042||54.73
+|-
+|align=left|[[Levan Gachechiladze]]||509,234||26.29
+|-
+|align=left|[[Badri Patarkatsishvili]]||140,826||7.27
+|-
+|align=left|[[Shalva Natelashvili]]||128,589||6.64
+|-
+|align=left|[[Davit Gamkrelidze]]||79,747||4.12
+|-
+|align=left|[[Gia Maisashvili]]||15,249||0.79
+|-
+|align=left|[[Irina Sarishvili-Chanturia]]||3,242||0.17
+|-
+|align=left|Repealed ballots||30,751||–
+|-
+|align=left|Invalid ballots||33,129||–
+|-
+|align=left|'''Total'''||'''1,982,318'''||'''100'''
+|-
+|align=left|Registered voters/turnout||3,527,964||56.19
+|-
+|align=left colspan=4|Source: [http://www.electionguide.org/elections/id/2060/ IFES]
+|}
+
+===Exit polls===
+The first [[exit poll]] results were conflicting. According to a survey commissioned by 4 TV stations ([[Georgian Public Broadcaster]], [[Rustavi 2]], Mze, and Achara TV) from the Georgian Institute of Public Affairs (GIPA), [[Ilia Chavchavadze State University]] and two think-tanks - the [[Caucasus Institute for Peace, Democracy and Development]] (CIPDD) and the Georgian Foundation for Strategic and International Studies (GFSIS) (consulted by the Ukrainian Democratic Initiatives’ Foundation), Mikhail Saakashvili is to win with a narrow absolute majority of 53.5% of the votes, with Levan Gachechiladze coming second with 29.1%.<ref>[http://www.archevnebi.ge/index.php?lang=eng Exitpoll 2008<!-- Bot generated title -->]</ref>
+Turnout was 46.4%, according to the latest data.<ref>[http://eng.primenewsonline.com/news/121/ARTICLE/17969/2008-01-05.html] Prime News Agency statement</ref> Twenty-three percent of respondents, however, refused to say for whom they had voted. The poll had a [[margin of error]] of 2%. They also stressed that the figures were provisional, with final results not expected for another few hours.<ref>[http://www.civil.ge/eng_/article.php?id=16788 Early Exit Poll Results Show Saakashvili in Lead]. Civil Georgia. January 5, 2008.</ref>
+
+According to an obscure and hitherto unknown<ref>[http://www.civil.ge/eng_/article.php?id=16738 'Do not Trust Exit Polls’ - Nine-Party Opposition Coalition]. Civil Georgia. January 3, 2008.</ref> Ukrainian think tank "Common European Cause", which claimed to have interviewed 10,000 people at 200 polling stations, Gachechiladze won the most votes (31%), followed by Saakashvili (24.4%) and Patarkatsishvili (20.3%).<ref>{{cite web
+  | title = Ukrainian think-tank: None of presidential contenders in Georgia obtained more than 50% of votes
+  | publisher = [[REGNUM News Agency]]
+  | date = 2008-01-05
+  | url = http://www.regnum.ru/english/939470.html
+  | accessdate = 2008-01-05}}</ref>
+
+==Reactions==
+The opposition candidates claimed the polls to be rigged and the exit-polls to be false. Supporters for Levan Gachechiladze are waiting for official results,<ref>[http://www.newsgeorgia.ru/geo1/20080105/42131406.html Новости - Грузия - Новости Грузии - Празднование победы на выборах сторонниками Саакашвили является провокацией – Саломе Зурабишвили<!-- Bot generated title -->]</ref> but the candidate himself called for a January 6 meeting in Tbilisi to protect the true results of the election.<ref>[http://www.newsgeorgia.ru/geo1/20080106/42131494.html Новости - Грузия - Новости Грузии - Леван Гачечиладзе объявил, что его сторонники начнут массовую акцию протеста против итогов выборов<!-- Bot generated title -->]</ref> On the 6th January about 7-9.000 supporters of the opposition did go to the Rike Square in Tbilisi. Opposition leaders claimed their adherents to come again on 8 January and to celebrate the victory of Levan Gachechiladze.<ref>[http://www.newsgeorgia.ru/geo1/20080106/42131964.html Новости - Грузия - Новости Грузии - В центре Тбилиси прошел многотысячный митинг в поддержку оппозиционного кандидата Левана Гачечиладзе<!-- Bot generated title -->]</ref>
+Meanwhile, the OSCE and [[European Union|EU]] election observers stated that the election all in all met the democratic standards, but they said that there had been problems that must be addressed.<ref>[http://www.pr-inside.com/osce-says-georgian-election-showed-problems-r372839.htm] PR Inside: OSCE says Georgian election showed problems that must be addressed urgently</ref> The Western observers also hailed it as "the first genuinely competitive presidential election, which enabled the Georgian people to express their political choice."{{Citation needed|date=January 2012}}<ref>[http://www.osce.org/documents/odihr/2008/01/29182_en.pdf Georgia — Extraordinary Presidential Election, 5 January 2008. STATEMENT OF PRELIMINARY FINDINGS AND CONCLUSIONS]. INTERNATIONAL ELECTION OBSERVATION MISSION. January 6, 2008.</ref> In an interview to the German newspaper [[Frankfurter Rundschau]] the German diplomat Dieter Boden who was an OSCE observer in Georgia was quoted to have said that the elections were massively falsificated and that there were "rude, negligent and intentional manipulations during the vote count that were detected by our observers". He spoke of a "chaotic situation" within the electoral commission.<ref>[http://www.fr-online.de/in_und_ausland/politik/aktuell/?em_cnt=1269374 Massive falsifications during the election in Georgia]. [[Frankfurter Rundschau]]. January 9, 2008.</ref> On January 10, however,  representative of the OSCE Office for Democratic Institutions and Human Rights mission in Georgia, Rasto Kuzel, declared that the OSCE has not changed its generally positive evaluation of the January 5 presidential election in the country, and explained "Mr. Boden's published statements do not quite reflect what he really said, and we shall look into how that happened."<ref>[http://www.itar-tass.com/eng/level2.html?NewsID=12243954&PageNum=0 OSCE mission has not changed opinion of Georgian election-official]. Itar-Tass. 10.01.2008.</ref> He also added that "the interview was not published completely. Some definitions were cut from the interview."<ref>[http://eng.primenewsonline.com/news/121/ARTICLE/18080/2008-01-10.html OSCE Does Not Change Position Related To Evaluation Of Presidential Elections]. Prime Times. January 10, 2008.</ref> On January 11, Boden himself stated that "it was the result of the journalist's misinterpretation" and said the final report would be published in February 2008.<ref>[http://www.geotimes.ge/index.php?m=home&newsid=8676 Dieter Boden summoned to Foreign Ministry]. The Georgian Times. 2008.01.11.</ref>
+
+The Central Election Committee also stated the turnout was 56,17%, or 1.912.943 voters. As announced by the Central Election Committee by 20.00 (16.00 GMT), January 6, the data from 2,605  precincts (of 3,512) has been worked out. Saakashvili is in the lead with 51.95% of the votes, and Gachechiladze is second with 25.14%.<ref>http://www.civil.ge/eng_/category.php?id=32</ref> In common Saakashvili has won in regions and 
+Gachechiladze in Tbilisi.<ref>[http://www.newsgeorgia.ru/geo1/20080106/42132338.html Новости - Грузия - Новости Грузии - После обработки данных с 819 участков, процент проголосовавших за Саакашвили составил 48,55 - ЦИК<!-- Bot generated title -->]</ref> According to Georgian Central Electoral Commission, as of 8 January 2007, which already included the votes from more polling stations than the earlier reports, Saakashvili was leading with 52.21%,<ref name=autogenerated1>[http://www.results.cec.gov.ge/ Results 2008<!-- Bot generated title -->]</ref> Gachechiladze following him with only 25.26% of the votes.<ref name=autogenerated1 /> On 9 January 2007, with 98.8% of the ballot counted, Saakashvili had 52.21% meaning he could not fall below the 50% which would result in a run-off.<ref>[http://www.afp.com/english/news/stories/080109074406.g2egp1zx.html AFP.com | Agence France-Presse, a global news agency<!-- Bot generated title -->]</ref> However the opposition continued to protest the result, claiming vote-rigging had taken place and demanding a run-off, also asking for the resignation of the head of the CEC.<ref>[http://english.aljazeera.net/NR/exeres/2F7B35CB-BCF7-494F-B766-80AB397BBC10.htm Al Jazeera English - News - Georgia Parties Demand Run-Off Vote<!-- Bot generated title -->]</ref> [[Badri Patarkatsishvili]] an opposition candidate was later charged with attempting to organise a terrorist attack and plotting a coup.<ref>[http://english.aljazeera.net/NR/exeres/D0FB8167-D0E2-4BE7-ABDE-B08AA1CB9A86.htm Al Jazeera English - News - Coup Charge Against Georgian Tycoon<!-- Bot generated title -->]</ref>
+
+On 13 January 2008, most opposition parties united in a large rally in downtown Tbilisi demanding run-off of the elections.<ref>[http://www.civil.ge/eng_/article.php?id=16886 Protest Rally Demands Run-Off]. Civil Georgia. January 13, 2008.</ref>
+
+==Conclusions of the OSCE and Georgian human rights ombudsman==
+The [[Organization for Security and Co-operation in Europe]] (OSCE) final report was highly critical of the conduct of the election.
+
+{{Quote|text=Election day was generally peaceful. Overall, voting was assessed positively by a large majority of IEOM observers, although it was at times disorganized and chaotic in a considerable number of precincts. Organizational and procedural shortcomings were observed, especially with regard to inconsistent application of inking procedures intended as a safeguard against multiple voting. Observers also reported a limited number of serious violations, including ballot box stuffing. The vote count and tabulation was evaluated less positively. Many PECs had problems completing the results protocols, which were often not posted for public scrutiny. IEOM observers reported cases of tampering with voter lists, results and protocols. The tabulation process at DEC level was slow and often chaotic. Some PEC protocols given to the OSCE/ODIHR EOM differed from those provided by DECs, and many PEC protocols were incomplete or inconsistent. A significant number of PECs reported unusually high turnout in the last three hours of voting, and several DECs reported a turnout considerably higher than the national average.
+
+Only a limited number of official complaints were filed during the pre-electoral period, almost all against the ruling party and its candidate. Although courts generally carried out open hearings in a professional and thorough manner, some complaints were ruled inadmissible without sound legal basis, and some written judgments did not set out sufficient reasoning. In addition, the CEC and courts tended to stretch the law beyond reasonable interpretation and without regard to its spirit in favour of the ruling party candidate and public officials. After election day, the election administration and the courts did not fully and adequately consider and investigate a considerable number of complaints regarding irregularities, some of which were of a serious nature. A large number of complaints were also ruled inadmissible or dismissed on technical grounds.<ref>{{cite web |url=http://www.osce.org/odihr/elections/georgia/30959 |title=EXTRAORDINARY PRESIDENTIAL ELECTION 5 January 2008 - OSCE/ODIHR Election Observation Mission Final Report |authorlink=Organization for Security and Co-operation in Europe |date=4 March 2008 |work= |publisher= |accessdate=4 January 2012}}</ref>|sign=OSCE|source=EXTRAORDINARY PRESIDENTIAL ELECTION 5 January 2008 - OSCE/ODIHR Election Observation Mission Final Report}}
+
+The Georgian Human Rights Ombudsman, [[Sozar Subari]], was also highly critical of the election proceedings. In addition to identifying breaches of the law, his report stated:
+
+{{Quote|text=[T]he pre-election environment was not equal and fair. This time, as usual, the alarming tendency of blurring the distinction between the presidential candidate of the ruling party and the state authority occurred, which was expressed through the direct political involvement of the different agencies (especially law enforcement agencies) of the executive branch in the electoral processes. One of the proofs of the involvement of the mentioned agencies is that the electoral headquarters of the ruling party's candidate was in reality led by the Minister of Internal Affairs, who was conducting meetings and assigning local party leaders, heads of police departments, employees of the Constitutional Security and Special Operative Departments, prosecutors, and governors with particular election-related tasks.<ref>{{cite web |url=http://www.ombudsman.ge/uploads/reports/annualreport2007part2.pdf |title=Human Rights in Georgia - Report of the Public Defender of Georgia, Second half of 2007 |author=Office of the Ombudsman of Georgia |year=2008 |work= |publisher= |accessdate=4 January 2012}}</ref>|sign=Office of the Ombudsman of Georgia|source=Human Rights in Georgia - Report of the Public Defender of Georgia, Second half of 2007}}
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.electoralgeography.com/new/en/countries/g/georgia/georgia-presidential-election-2008.html Georgian presidential election, 2008], Electoral Geography 2.0
+*[http://www.eurasianet.org/geovote08/ Georgia Vote 2008], EurasiaNet
+*[http://www.civil.ge/eng_/category.php?id=32 Elections 2008]. Civil Georgia
+*[http://www.cec.gov.ge/index.php?lang_id=GEO&sec_id=1&lang_id=ENG Central Election Commission of Georgia]
+
+{{Georgian elections}}
+
+[[Category:2008 in Georgia (country)|Presidential election]]
+[[Category:Elections in Georgia (country)]]
+[[Category:2008 elections in Asia]]
+[[Category:2008 elections in Europe]]

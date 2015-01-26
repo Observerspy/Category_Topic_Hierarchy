@@ -1,0 +1,53 @@
+{{Use New Zealand English|date=April 2012}}
+{{Use dmy dates|date=July 2011}}
+{{Earthquake
+|title= 1929 Murchison earthquake
+|map2= {{Location map| New Zealand |relief=1
+ |position=none
+ |lat =-41.55
+ |long =172.25
+ |width= 250
+ |float=center
+ |mark=Bullseye1.svg
+ |marksize=40
+ |caption=
+}}
+|date= {{start-date|17 June 1929|17 June 1929}}
+|magnitude=Surface wave magnitude|M<sub>s</sub> 7.8
+|depth= 12km
+|location={{coord|-41.55|172.25|display=inline,title|region:NZ}}
+|countries affected=South Island New Zealand
+|casualties=17
+}}
+The '''1929 Murchison earthquake''' occurred at 10:17 AM on 17 June. It struck the Murchison, New Zealand|Murchison region of South Island, with an estimated Surface wave magnitude|magnitude of 7.8, and was felt throughout New Zealand. There were 17 casualties, mostly as a result of landslides triggered by the earthquake. The rumbling sound of the earthquake was loud enough to be heard at New Plymouth, more than 250&nbsp;km away.
+
+==Tectonic setting==
+File:NZ faults .png|thumb|250px|Major active fault zones of New Zealand showing variation in displacement vector of Pacific Plate relative to Indo-Australian Plate|Australian Plate along the boundary
+New Zealand sits astride the boundary between the Indo-Australian Plate and the Pacific Plate. In the South Island most of the displacement is taken up on the Alpine Fault passing to the north onto a set of Fault (geology)#Strike-slip faults|strike-slip faults, the Marlborough Fault System. The sense of displacement across the plate boundary is oblique and most of the faults have a reverse component of slip. Some of the resulting deformation is accommodated within the plates themselves away from the boundary.
+
+==Damage==
+Although the epicenter was in a sparsely populated area about 65&nbsp;km north of Murchison, the shaking in the surrounding region was sufficiently intense to cause damage over a wide area. The towns of Nelson, New Zealand|Nelson, Greymouth and Westport, New Zealand|Westport were all affected and roads, buildings and bridges were severely damaged throughout an area estimated at 26,000&nbsp;km<sup>2</sup>. The worst damage was caused by landslides triggered by the shaking, destroying several homes and killing 14 out of the 17 that died in the earthquake. Most of the buildings in the Murchison area were built of wood and were warped and moved from their piles, but many brick buildings and chimneys were damaged in Nelson, Greymouth and Westport.
+
+==Characteristics==
+The earthquake was preceded by several foreshocks before the mainshock, accompanied by booming sounds in the mountains around Murchison. There was a large surface fault rupture visible in the Buller River, indicating about 4.5 m of vertical movement and 2.5 m of lateral movement. The earthquake triggered many landslides and these created 38 new lakes, of which 21 still exist, including Lake Stanley. The earthquake was accompanied by unusually loud rumbling noises that were heard as far away as New Plymouth. A maximum Seismic scales#Seismic intensity scales|intensity of X on the Mercalli scale has been estimated for Murchison. Most of the northern part of South Island suffered an intensity of VII or greater.
+
+==Aftermath==
+The landslides blocked many roads causing food supplies to run out in some areas near the epicenter. This and the risk from aftershocks and flooding from the landslides blocking rivers caused many residents to evacuate the area, mostly on foot. Karamea was completely cut off and received no outside help for two weeks, until a de Havilland Tiger Moth plane landed on the beach. Some of the blocked roads took months to clear.
+
+==See also==
+*1929 Arthur's Pass earthquake
+
+==References==
+{{Reflist}}
+
+==External links==
+*http://blogs.agu.org/landslideblog/2012/01/19/the-1929-murchison-earthquake-in-new-zealand/ Landslide blog about the earthquake by Professor Dave Petley, Durham University, UK
+
+{{Earthquakes in New Zealand}}
+
+Category:Earthquakes in New Zealand|1929 Murchison
+Category:1929 earthquakes|New Zealand – Murchison
+Category:1929 in New Zealand|Murchison
+Category:History of the West Coast Region
+Category:History of the Tasman Region
+Category:Landslides in New Zealand

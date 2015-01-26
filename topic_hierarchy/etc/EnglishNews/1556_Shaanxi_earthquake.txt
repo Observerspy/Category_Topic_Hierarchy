@@ -1,0 +1,68 @@
+{{refimprove|date=January 2013}}
+{{chinesetext}}
+{{Use dmy dates|date=March 2012}}
+{{Earthquake
+| title = Shaanxi earthquake in 1556
+| date = {{Start date|df=yes|1556|1|23}}
+| map = Shaangxi 1556 earthquake map of provinces.PNG
+| map2 = {{Location map | China|relief=1
+  | caption = 
+  | marksize = 61
+  | mark = bullseye1.png
+  | lat_dir = N | lat_deg = 34 | lat_min = 30 | lat_sec = 01
+  | lon_dir = E | lon_deg = 109 | lon_min = 18 | lon_sec = 00
+  }}
+| depth = Unknown
+| location = Shaanxi
+| image name = <small>Map of China showing modern-day Shaanxi province (red) and the other provinces affected by the earthquake (orange).</small>
+| magnitude = 8.0 M
+| width = 250
+| position = center
+| countries affected = Ming Dynasty
+| casualties = 820,000 – 830,000 (est.) List of natural disasters by death toll#Earthquakes|Deadliest earthquake of all time
+}}
+
+The '''1556 Shaanxi earthquake''' ({{zh|s=华县大地震|p=Huàxiàn Dàdìzhèn}}) or '''Jiajing earthquake''' ({{zh|c=嘉靖大地震|p=Jiājìng Dàdìzhèn}}) was a catastrophic earthquake and is also the Lists of earthquakes#Deadliest earthquakes on record|deadliest earthquake on record, killing approximately 830,000 people. An {{convert|840|km|mi|adj=mid|-wide}} area was destroyed, and in some counties 60% of the population was killed. Most of the population in the area at the time lived in yaodongs, artificial caves in loess cliffs, many of which collapsed with catastrophic loss of life.
+
+==Geography==
+The Shaanxi earthquake's epicenter was in the Wei River Valley in Shaanxi Province, near the cities of Hua County, Shaanxi|Huaxian, Weinan and Huayin. In Huaxian, every single building and home was demolished, killing more than half the residents of the city, with a death toll estimated in the hundreds of thousands. The situation in Weinan and Huayin was similar. In certain areas, {{convert|20|m|ft|adj=on}} deep crevices opened in the earth. Destruction and death were everywhere, affecting places as far as {{convert|500|km|mi}} from the epicenter. The earthquake also triggered landslides, which contributed to the massive death toll.
+The rupture occurred during the reign of the Jiajing Emperor of the Ming Dynasty. Therefore, in Chinese historical record, this earthquake is often referred to as the '''Jiajing Great Earthquake'''. 
+
+Modern estimates, based on geological data, give the earthquake a magnitude of approximately 8 on the moment magnitude scale or XI on the Mercalli intensity scale|Mercalli scale, though more recent discoveries have shown that it was 7.9.
+
+In the annals of China it was described in this manner:
+{{bquote|In the winter of 1556, an earthquake catastrophe occurred in the Shaanxi and Shanxi Provinces. In our Hua County, Shaanxi|Hua County, various misfortunes took place. Mountains and rivers changed places and roads were destroyed. In some places, the ground suddenly rose up and formed new hills, or it sank abruptly and became new valleys. In other areas, a stream burst out in an instant, or the ground broke and new gullies appeared. Huts, official houses, temples and city walls collapsed all of a sudden.}}
+
+The earthquake damaged many of the Stele Forest|Forest of Stone steles badly. Of the 114 Kaicheng Stone Classics, 40 were broken in the earthquake.
+
+The scholar Qin Keda lived through the earthquake and recorded details. One conclusion he drew was that "at the very beginning of an earthquake, people indoors should not go out immediately. Just crouch down and wait. Even if the nest has collapsed, some eggs may remain intact." This may indicate that many people were killed trying to flee while some who stayed put may have survived. The shaking reduced the height of the Small Wild Goose Pagoda in Xi'an from 45 meters to 43.4 meters.
+
+==Loess caves==
+Millions of people at the time lived in artificial Loess caves on high cliffs in the area of the Loess Plateau. Loess is the name for the silty soil that Storm|windstorms deposited on the plateau over the ages. The soft loess clay had formed over thousands of years due to wind blowing silt into the area from the Gobi Desert. Loess is a highly erosion-prone soil that is susceptible to the forces of wind and water. The Loess Plateau and its dusty soil cover almost all of Shanxi, Shaanxi, and Gansu provinces and parts of others. Much of the population lived in dwellings called yaodongs in these cliffs. This was the major contributing factor to the huge death toll. The earthquake caused landslides, which destroyed the caves.{{Citation needed|date=January 2013}}
+
+==Cost==
+The cost of damage done by the earthquake is almost impossible to measure in modern terms.  The death toll, however, has been traditionally given as 820,000 to 830,000.  The accompanying property damage would have been incalculable – an entire region of inner China had been destroyed and an estimated 60% of the region’s population died.
+
+==Foreign reaction==
+The Portuguese  Dominican Order|Dominican friar Gaspar da Cruz, who visited Guangzhou later in 1556, heard about the earthquake, and later reported about it in the last chapter of his book, ''A Treatise of China'' (1569). He viewed the earthquake as a possible punishment for people's sins, and the Great Comet of 1556 as, possibly, the sign of this calamity (as well as perhaps the sign of the birth of the Antichrist).
+
+==See also==
+* List of earthquakes in China
+
+==References==
+{{reflist|30em}}
+
+==Further reading==
+*{{Citation |first=Jian-Jun |last=Houa |first2=Mu-Kang |last2=Hanb |first3=Bao-Long |last3=Chaib |first4=Heng-Yue |last4=Hanc |title=Geomorphological observations of active faults in the epicentral region of the Huaxian large earthquake in 1556 in Shaanxi Province, China |journal=Journal of Structural Geology |volume=20 |issue=5 |year=1998 |pages=549–557 |doi=10.1016/S0191-8141(97)00112-0 |bibcode = 1998JSG....20..549H }}.
+
+==External links==
+* http://www.kepu.ac.cn/english/quake/ruins/rns03.html Ruins of Hua County Earthquake
+
+{{Earthquakes in China}}
+
+{{DEFAULTSORT:1556 Shaanxi Earthquake}}
+Category:Earthquakes in China|1556 Shaanxi
+Category:History of Shaanxi
+Category:1556 in China|Shaanxi Earthquake, 1556
+Category:1556 natural disasters|Shaanxi Earthquake, 1556
+Category:16th-century earthquakes|Shanxi earthquake, 1556

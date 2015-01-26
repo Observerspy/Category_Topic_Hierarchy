@@ -1,0 +1,169 @@
+{{DISPLAYTITLE:2013 Bohol-Cebu earthquake}}
+{{Infobox earthquake
+|title              = 2013 Bohol earthquake
+|image              = Loon 2 earthquake.JPG
+|imagecaption       = <small>The rubble of the Church of Our Lady of Light in Loon, Bohol, the oldest and one of the largest in the province</small>
+|map2               = {{Location map
+  | Philippines
+  | caption = 
+  | lat = 9.880
+  | long = 124.117
+  | mark = Bullseye1.png
+  | marksize = 30
+  | label =
+  | caption =
+  | float = center
+  | width = 250px
+  | alt = Epicentre
+  | relief=yes
+}}
+|caption            = Location in the Philippines
+|date               = {{Start date|2013|10|15}}
+|origintime         = 0:12:32 UTC<br>8:12:32 Philippine Standard Time|PST
+|duration           = 34 seconds
+|magnitude          = Moment magnitude scale|M<sub>w</sub> 7.2
+|depth              = {{convert|12.0|km|mi|abbr=on}}
+|location           = {{coord|9.880|124.117|region:PH_type:event_dim:30000|display=inline,title}}
+|type               = Tectonic
+|countries affected = Philippines
+|damage             = 
+|intensity          = {{nowrap|Intensity VII <small>(Bohol and Cebu provinces)</small>}}
+|PGA                = <!-- NN''Peak ground acceleration|g'' -->
+|tsunami            = 
+|landslide          = 
+{{plainlist|
+* '''Cebu''': Aloguinsan, Argao, Boljoon
+* '''Bohol''': Alicia, Antequera, Balilihan, Bilar, Carmen, Clarin, Corella, Cortes, Danao, Dimiao, Lila, Loboc, Loon
+}}
+|aftershocks        = 4,465 <small>(122 felt)</small> (as of December 31, 2013) </small>
+|casualties         = 222 dead; 8 missing; 976 injured
+}}
+The '''2013 Bohol earthquake''' occurred on October 15, 2013, at {{Tooltip|8:12 a.m.|UTC at 12:12 a.m.}} (Philippine Standard Time|PST) in Bohol, an island province located in Central Visayas, Philippines. It affected the whole Central Visayas region, particularly Bohol and Cebu. The quake was felt in the whole Visayas area and as far as Masbate island in the north and Cotabato provinces in southern Mindanao.
+
+According to official reports by the National Disaster Risk Reduction and Management Council (NDRRMC), 222 were reported dead, 8 were missing, and 976 people were injured. In all, more than 73,000 structures were damaged, of which more than 14,500 were totally destroyed.
+
+It was the deadliest earthquake in the Philippines in 23 years. The energy released by the quake was equivalent to 32 Little Boy|Hiroshima bombs. Previously, Bohol was also hit by an earthquake on February 8, 1990 that damaged several buildings and caused a tsunami.
+
+On November 7, just 3 weeks after the quake, Super Typhoon Haiyan (Yolanda) struck the region. Although the storm's eye missed the area affected by the earthquake, it sent some 40,000 Boholanos still living in temporary shelters back to evacuation centers and disrupted relief efforts in the province.
+
+==Intensities==
+File:2013BoholCebuEarthquakeIntensityMap.png|thumb|Intensity map during the Bohol Quake
+The quake was felt several parts of Visayas and Mindanao. The strongest intensity was reported in Sagbayan Bohol which is the epicenter of the quake which measured Intensity 8 to 9 classified by Phvilocs as devastating. Intensity 7 to 8 was reported in Metro Cebu and Southern Cebu and the rest of Bohol. Intensity 6 over Northern Cebu and some parts of Negros Oriental. Intensity 5 over the rest of Negros Oriental and Camotes Island. Intensity 4 over Negros Occidental and Iloilo in Visayas Misamis Oriental specifically Cagayan De Oro City in Mindanao Masbate in Luzon.
+
+==Geology==
+File:7.2 Bohol, Philippines quake.jpg|200px|thumbnail|left|wikt:shakemap|Shakemap of the Visayas islands, showing location and strength of quake. Star marks the epicenter (Sagbayan, Bohol).
+Initially it was thought that the epicenter was {{convert|2|km}} east of Carmen, Bohol, triggered by the East Bohol Fault. This was apparent in the pattern of epicenters of the subsequent aftershocks.
+
+On October 20, a team of state volcanologists led by Dr. Teresito Bacolcol had discovered the theorized new fault (now named North Bohol Fault) in Inabanga, Bohol|Inabanga, a town {{convert|20|km}} north of the epicenter. Vertical displacement, as much {{convert|10|ft}}, was noted in the landscape of the town. According to experts, the fault may be as much as {{convert|100|km}} long. It was also noted that Bohol gained around 500 meters more of shoreline due to the quake and shifted {{convert|55|cm}} west towards Cebu Island.
+
+===North Bohol Fault===
+File:Loon 7 earthquake.JPG|thumbnail|right|Raised sea bottom at Loon (the water used to extend to the mangroves at right)
+PHIVOLCS reported that the North Bohol Fault (NBF), which generated the Moment magnitude scale|M<sub>w</sub> 7.2 earthquake, is a northeast-southwest trending reverse fault along the western sector of Bohol (island)|Bohol island. Surface ruptures ranging from {{convert|0.10|m}} to as high as {{convert|5|m}} in vertical displacements were exposed in Barangay Anonang in Inabanga, Bohol. The mapped surface of NBF is {{convert|6|km}} long from Barangay New Anonang in Buenavista, Bohol|Buenavista to Barangay Napo in Inabanga and generally trends 40 degrees northeast and dips at at 50 degrees southeast. The team continues to map its probable extension of NBF northeast of Inabanga towards Getafe and southwest towards Loon and Maribojoc.
+
+The longest, continuous individual trace mapped by the team is approximately {{convert|2|km}} in Barangay Anonang. In this barangay, surface rupture trends 40 degrees northeast. The surface rupture manifested as prominent fault scarps, which range from {{convert|2|m}} to {{convert|5|m}} of vertical displacements. Other geomorphic manifestations observed in Barangay Anonang include {{convert|2.5|m}} vertical displacement of Cawasan Creek in Sitio Calubian, producing a small waterfall at the point where the fault transects the creek. Other typical features associated with reverse faulting, such as scallops, bulges and warps, were also observed in the deformation zone, which extended as wide as {{convert|30|m}} in some places.
+
+===Aftershocks===
+Aftershocks continue to rattle Bohol and Cebu. As of December 6, 4,026 aftershocks were recorded, 114 of which were felt. and another 4.8 magnitude quake at 1:28 p.m. on November 12, centered at San Isidro, Bohol.
+
+==Warnings==
+The Pacific Tsunami Warning Center did not issue a Pacific-wide tsunami threat. The United States Geological Survey issued a yellow warning, saying "some casualties and damage are possible and the impact should be relatively localised. Past yellow alerts have required a local or regional level response." SHOA, of the Chilean Navy, stated the earthquake would not affect national or South American coasts.
+
+==Casualties and infrastructure damage==
+The earthquake struck as the Philippines was observing the Islam in the Philippines|Muslim holiday of Eid-al-Adha. The public holiday had closed schools, some businesses, and offices which helped reduce the number of casualties.
+
+A total of Philippine peso|?2.25 billion worth of damages to public buildings, roads, bridges, and flood controls was reported in Bohol and Cebu. A total of 671,103 families or more than 3.2 million people were affected by the quake. Out of the total number of affected, 71,822 families or more than 348 thousand people were displaced.
+
+===Bohol===
+By far the most casualties and damages occurred in Bohol. A total of 209 people were confirmed dead, 877 people were confirmed injured, and 8 confirmed missing. A rough estimate of the damages is expected to be at least at ?2.2 billion. The town of Loon, Bohol|Loon had the largest number fatalities (67). Also, a total of 1,255,128 people (the province's entire population) were affected by the quake. Nearly 71,900 residential houses were damaged (out of which 14,480 were totally destroyed), with the towns of Loon, Tubigon, Bohol|Tubigon, Carmen, Bohol|Carmen, and Calape, Bohol|Calape among the worst affected.
+
+A building at the Tagbilaran Port Terminal and a ceiling of the second floor. The Churches in Bohol#Loboc|Church of San Pedro Apostol in Loboc, Bohol|Loboc, the Churches in Bohol#Loon|Church of Our Lady of Light in Loon and Churches in Bohol#Maribojoc Church|Santa Cruz Parish Church in Maribojoc, Bohol|Maribojoc collapsed; in Baclayon, Bohol|Baclayon, the facade of Churches in Bohol#Baclayon|Church of Our Lady of the Immaculate Conception and its bell tower were totally damaged. Other churches, such as in Loay, Bohol|Loay, Dauis, Bohol|Dauis, Dimiao, Bohol|Dimiao, and Tubigon, Bohol|Tubigon were also heavily damaged. In Carmen, a freestanding bell tower and an observation deck in the island's renowned Chocolate Hills were destroyed, with some of the hills themselves damaged by landslides.
+
+Several government buildings and numerous schools in the province were also partially or totally damaged, including the municipal halls of twelve towns. Some 32 bridges, including many along the National Road, and 13 road sections were damaged and impassable, hampering aid efforts. Energy services in the province were also cut off.
+
+<center><gallery caption="Damage in Bohol">
+Loon 6 earthquake.JPG|Destroyed houses in Loon
+Tubigon 1 earthquake.JPG|Destroyed town hall of Tubigon
+Tubigon 2 earthquake.JPG|Destroyed house in Tubigon
+Clarin 1 earthquake.JPG|Destroyed church in Clarin
+Catigbian 2 earthquake.JPG|Ground rupture and destroyed home in Catigbian
+</gallery>,</center>
+
+===Cebu===
+File:Basilica of the Holy Child after 2013 Bohol earthquake.jpg|thumb|Basilica of the Holy Child|Basilica Minore del Santo Ni?o
+Intensity 7 to 8 was experienced at Metro and Southern Cebu, while the rest of Cebu experience Intensity 6 to 7. 12 people were confirmed dead, 96 people injured, and a total of 404,107 families or more than 1.9 million people were affected by the quake.
+
+Several structures in Cebu City incurred total and partial damages. A building in Pasil Fish Port in Cebu City collapsed killing five people and injuring seven people. The Basilica of the Holy Child|Basilica Minore del Santo Ni?o's bell tower also collapsed. A part of Mandaue City Public Market also collapsed and killed 1 meat vendor.
+
+===Other Visayas islands===
+Intensity VI was recorded in Hinigaran, Negros Occidental; Intensity V in Iloilo, La Carlota, Negros Occidental|La Carlota, Guimaras, Abuyog, Leyte|Abuyog in Leyte, and Sibulan, Negros Oriental|Sibulan in Negros Oriental; Intensity IV in Roxas City, Masbate, Bacolod, Bulusan, Sorsogon|Bulusan in Sorsogon, Patnongon and San Jose de Buenavista, Antique|San Jose in Antique, Tacloban, Hinunangan, Baybay, Bato, Leyte|Bato and Tabon Island (Philippines)|Tabon in Leyte, and Saint Bernard,Maasin and Macrohon in Southern Leyte; Intensity II in Borongan in Samar, Laon in Antique; Intensity I and II at various towns in Aklan.
+
+In Negros Occidental, several private buildings incurred damages. In Iloilo, the administration office of Iloilo Airport was slightly damaged. In Siquijor, one person had died and three people were injured from the quake. Two people, one from Negros Oriental and one from Iloilo, were also injured.
+
+===Mindanao===
+The quake was felt in Intensity V in Cagayan de Oro and Gingoog in Misamis Oriental; Intensity IV in Butuan; Intensity III in Davao City, Cotabato, Zamboanga City|Zamboanga, Surigao, Bukidnon, and in Zamboanga del Norte; Intensity II in Tacurong but no people were reported dead. There were no casualties, and damages to properties and infrastructures in Mindanao.
+
+==Effects==
+
+===Transportation===
+Several flights from Cebu and Bohol airports and the airport operations itself were put on hold as response to check the safety status of the airport buildings. Mactan International Airport in Mactan was later opened before midday;,
+
+===Health===
+File:Loon 3 earthquake.JPG|thumbnail|right|Field hospital, Loon
+Many Bohol residents were left without adequate safe drinking water and sanitary facilities after the quake. Consequently serious public health issues arose such as cases of diarrhea and water-borne diseases. Worst affected were the municipalities closest to the epicenter, such as Sagbayan, San Isidro, Calape, Tubigon, Clarin and Catigbian.
+
+There are also other threads to public health. Community health centers and hospitals were rendered uninhabitable, resulting in makeshift wards outside. The food supply was disrupted with many markets not operating for a week after the quake. Furthermore, the prolonged period of aftershocks forced the population to reside outside in makeshift shelters, afraid to be inside weakened buildings, and causing psychological trauma.
+
+===Power and water supply===
+One in every five households in Bohol had no electrical power a week after the earthquake hit. In terms of number of barangays, according to the Department of Energy (Philippines)|Department of Energy, 91 percent of 602 villages have their power been restored.
+
+By October 20, water supply in 42 towns of Bohol had also been restored but the towns of Calape, Cortes, Loon, Maribojoc, and Sagbayan were still out of water supply.
+
+As a result of Super Typhoon Haiyan (Yolanda), the province of Bohol suffered renewed power outages since the province’s main source of electricity is from a power plant in Leyte, which was, along with transmission lines, damaged by the storm. Massive brownouts and blackouts lasted for several weeks, even affecting the water supply. Electrical power was restored to all municipalities by November 23.
+
+===Other===
+
+====Postponement of 2013 barangay elections in Bohol====
+{{main|Philippine barangay elections, 2013}}
+
+On October 16, the provincial government of Bohol asked to the Commission on Elections (Philippines)|Commission on Elections (COMELEC) to postpone the Philippine barangay elections, 2013|barangay elections after the province was heavily devastated by the quake. The next day, Bohol governor Edgar Chatto announced during the visit of the President that the provincial board will submit a resolution to the COMELEC postponing the October 28 elections. On the same day, COMELEC visited the province and evaluated the safety conditions of the polling centers. On October 22, COMELEC officially announced that they will postpone the elections in Bohol citing safety issues on the integrity of the buildings used as polling centers. The elections in the province will be held on November 25, and will be synchronized together with the affected barangays of Zamboanga City, which was affected by the 2013 Zamboanga City crisis|armed conflict against the Moro National Liberation Front on September 9 to 28, 2013.
+
+==Response==
+
+===Government response and aid===
+File:Loon 4 earthquake.JPG|thumbnail|left|Camp of temporary shelters with displaced people in Loon
+State of calamity|States of calamity were issued by Cebu and Bohol provincial governments on October 15. On October 16, the regional consular office of the Department of Foreign Affairs (Philippines)|Department of Foreign Affairs in Cebu suspended its operations in order to inspect for damages in its office. All services will resume once public safety is ensured.
+
+Presidents of the Philippines|Philippine President Benigno Aquino III visited the provinces of Cebu and Bohol on October 16, and assessed the damages caused by the quake. Minutes upon his arrival in Tagbilaran, Bohol, a 5.1 magnitude aftershock occurred.
+
+The Department of Social Welfare and Development (Philippines)|Department of Social Welfare and Development has released Philippine peso|?10 million for purchase of relief goods for the displaced families. The Department is planning to distribute two thousand family packs and 100 rolls of laminated sacks which will be airlifted by the Philippine Air Force's C-130 Hercules|C130. It has allocated ?98 million (US dollars|$2.2 million) in standby funds.
+
+The city government of Davao City also pledged at least ?3 million of cash assistance. Cities of Ormoc and Baybay, Leyte will donate ?2.1 million.
+
+===International response and aid===
+The Spanish government sent messages of sympathy and solidarity to the government. Spain also cited the damages and destruction of the churches, of whom they considered as part of their historical heritage during Spanish period of the Philippines. Prime Minister of New Zealand|New Zealand's Prime Minister John Key also sent a letter to President Aquino expressing their heartfelt sympathies to the people affected by the disaster. Canada, through Foreign Minister John Baird (Canadian politician)|John Baird, also offered sympathies and stated that his country is ready to help the Philippines. Japan, through ambassador Toshinao Urabe, wrote a letter to the President extending the people's  and government's sympathies to the quake hit victims.
+
+Japan delivered emergency relief goods (150 tents and 485 plastic sheets) worth approximately $383,000 for the victims, Malaysia donated Malaysian Ringgit|RM100,000 for the children affected by the disaster. On October 21, the German government extended their sympathies to the people of the Philippines affected by the disaster. The German government also pledged ?13.7 million and will be coursed through German humanitarian organization Johanniter-Unfall-Hilfe. On October 25, the Australia|Australian Government will provide of ?124 million funds to the quake hit areas for humanitarian needs. ?44 million will be funded for family survival kits containing sleeping mats, mosquito nets and water containers direct from the Philippine Red Cross, rice direct from the World Food Programme, and kits for women direct from United Nations Population Fund.
+
+===Aid from organizations===
+The United Nations' World Food Programme has prepositioned a thousand metric tons of rice, 15 metric tons of high energy biscuits and other non-food items to the affected areas in the provinces of Bohol and Cebu. The Association of Southeast Asian Nations' Coordinating Center for Humanitarian Assistance has also delivered relief supplies to Bohol. On October 18, Oxfam International deployed a team of experts in order to assess the health and sanitation conditions in Bohol, and donated 400 water treatment solutions which will be distributed to various health centers of the said province. On October 25, the United Nations called to the international community to raise a $46.8 million of aid to the quake affected areas.
+
+===Other charity and fundraising activities===
+GMA Network's Kapuso Foundation and ABS-CBN's Sagip Kapamilya Foundation aided the victims of the quake by providing relief items such as food and bottled water. A benefit concert called #BangonSugBohol was also held in Cebu. Some private individuals from the least affected Tagbilaran City mobilised and provided aid by distributing relief goods and used clothing.Different local and foreign companies also donated different relief items. Different local religious, civic, and humanitarian groups also conducted relief operations in Bohol.
+
+==See also==
+{{Commons category|2013 Bohol earthquake}}
+* 2012 Visayas earthquake
+* List of earthquakes in the Philippines
+* Typhoon Haiyan
+{{Clear right}}
+
+==References==
+{{reflist|30em}}
+
+{{Earthquakes in the Philippines}}
+{{Earthquakes in 2013}}
+
+Category:2013 earthquakes
+Category:2013 disasters in the Philippines
+Category:Bohol
+Category:Earthquakes in the Philippines

@@ -1,0 +1,60 @@
+{{Earthquake
+|title = 1976 Friuli Earthquake
+|date = {{Start-date|May 6, 1976}}
+|origintime = 20:00
+|map2 ={{Location map |Alps|relief=1
+| AlternativeMap =
+| label =
+| lat = 46.28
+| long = 13.13
+| mark = Bullseye1.png
+| marksize = 50
+| position = top
+| width = 240
+| float = center
+| caption = }}
+|magnitude = 6.5 M<sub>s</sub> 
+|depth =
+|location = {{coord|46.28|N|13.13|E|display=inline,title}}
+|countries affected = {{ITA}} <br/> {{YUG}}
+|intensity = X
+|PGA = 
+|foreshocks = {{nowrap|4.5 Body wave magnitude|M<sub>b</sub> May 6 at 19:59 }}
+|aftershocks = 
+|casualties = 939 dead  <br> 2400 injured 
+}}
+
+File:USGS Shakemap - 1976 Friuli earthquake.jpg|thumb|USGS ShakeMap showing the intensity of the 1976 Friuli earthquake
+
+The '''1976 Friuli earthquake''', also known in Italy as '''Terremoto del Friuli''' (''Friulian earthquake''), took place in the Friuli-Venezia Giulia|Friuli region in northeast Italy on Thursday, May 6, 1976.  The quake was centered on the town of Gemona del Friuli, measured 6.5 on the surface wave magnitude scale, and  killed 939 people, injured 2400, and left 157,000 homeless.
+
+==Earthquake==
+{{see also|Periadriatic Seam}}
+
+The quake struck at 21:00:12 (20:00:12 Coordinated Universal Time|UTC). Seventy seven villages in the Friuli region were affected. Gemona del Friuli was greatly damaged and despite extensive emergency measures and Aid|international aid by the end of 1976 15000 people were still living in camping trailers, 1000 in tents and 25000 in evacuation centres. The damage was estimated at $4.25 million. Much of the town has since been reconstructed. The tremor was felt in Venice as well as neighboring Austria, Switzerland and Slovenia (at the time SFR Yugoslavia). In Slovenia, the upper So?a valley and the Brda, Slovenia|Brda area was particularly affected, with the village of Breginj nearly completely demolished. The earthquake damaged several buildings in Nova Gorica and was felt also in the Slovenian capital, Ljubljana.
+
+The Italian Government nominated Chamber of Deputies member Giuseppe Zamberletti as coordinator of aid efforts on behalf of the regional administration. The national funds were assigned to the reconstruction of the damaged buildings by Zamberletti and the regional council of Friuli Venezia Giulia. From September to December 1976 all the earthquake victims were accommodated into prefabricated buildings, in order to better cope with the winter. After Zamberletti's mandate the regional government of Friuli Venezia Giulia was able to completely rebuild many towns, thanks to an accurate resource management. Nowadays, many years after the tragedy, the State's intervention in Friuli Venezia Giuia is seen as a great example of efficiency and reliability. 
+
+== Aftershocks ==
+There were many aftershocks with the two sets of strong shocks on 11 September (16:31, 5.5 M<sub>s</sub>and 16:35, 5.4 M<sub>s</sub>) and again on 15 September (3:15, 6.0 M<sub>s</sub> and 9:21, 5.9 M<sub>s</sub>) 1976.
+
+== Aftermath ==
+This event also spurred the foundation of the Protezione Civile (the Italian Civil Defense body that deals with nationwide prevention and management of emergencies and catastrophic events).
+
+==References==
+{{Commons category|1976 Friuli earthquake}}
+{{Reflist|refs=
+
+}}
+
+== External links ==
+* http://news.bbc.co.uk/onthisday/hi/dates/stories/may/7/newsid_2518000/2518519.stm 1976: More bodies found after Italy quake — BBC
+
+
+{{DEFAULTSORT:Friuli Earthquake, 1976}}
+Category:Earthquakes in Italy|1976 Friuli
+Category:Earthquakes in Slovenia|1976 Friuli
+Category:1976 earthquakes
+Category:1976 in Italy
+Category:History of Friuli-Venezia Giulia|1976 Earthquake
+Category:1976 in Yugoslavia

@@ -1,0 +1,56 @@
+Image:Beben1590.jpg|thumb|400px|Contemporary illustration of the 1590 Neulengbach temblor damage in Vienna
+
+The '''Neulengbach earthquake of 1590''' occurred on September 15, 1590 shortly before midnight amidst a long series of much weaker seismic activity starting on June 29, 1590 and with aftershocks reported until November 12. It was the strongest historically documented earthquake in what today is Northeastern Austria.
+
+==Epicenter and seismology==
+{| align=right border=1 width=250px
+|-
+| colspan=2 align=center bgcolor=#abcdef| '''Earthquake Facts'''
+|-
+| bgcolor=#fffacd | Date
+| September 15, 1590
+|-
+| bgcolor=#fffacd | Epicenter
+| SE of Neulengbach
+|-
+| bgcolor=#fffacd | Magnitude Richter Scale|Richter
+| align=center | 5.5-6.0
+|-
+| bgcolor=#fffacd | Magnitude Mercalli Scale|Mercalli
+| align=center | VII-IX
+|-
+| bgcolor=#fffacd | Deaths
+| align=center | unknown
+|}
+
+The epicenter is believed to have been located southeast of Neulengbach, about 30–40&nbsp;km west of Vienna, in a flat dipping and North-South striking thrust fault that is part of the Vienna Transform fault zone. This moderately active fault system extends over a distance of some 300&nbsp;km from the Northern Limestone Alps through the Vienna Basin into the West Carpathian Mountains. The temblor's energy release is estimated at 5.5-6.0 on the Richter magnitude scale and it had class VII intensity on the modified Mercalli intensity scale in most of Lower Austria.
+
+==Damage==
+Image:Poland Zabkowice Slaskie - Krzywa Wieza.jpg|thumb|widthpx|The city tower of Z?bkowice ?l?skie, damaged by the 1590 Neulengbach earthquake
+Significant destruction occurred in Vienna, which at this time had about 50,000 inhabitants living within a fortified and densely urban area that covered what today is the innermost city center. The upper half of Michaelerkirche (Vienna)|St. Michael's church tower collapsed in spite of its steel reinforcements, the Schottenstift, Vienna|Scottish Abbey was severely damaged, and the Southern tower of St. Stephen's Cathedral, Vienna|St. Stephen's Cathedral suffered as well. At this time it was not customary to document damage to property that did not serve sacral purposes or was directly used by the aristocracy, and very little information has survived concerning the destruction and harm inflicted on ordinary citizens. Therefore, the fact that the death of nine people in a collapsing traveller's hostel was specifically mentioned in the chronicles suggests that the number of urban casualties cannot have been significant.
+
+At Zwentendorf, 40&nbsp;km to the North of the presumed epicenter, the local parish church was so heavily damaged that it became unusable. (Exposure of this particular area to seismic risk played a significant role in the public debate that erupted in the 1970s concerning plans for a nuclear power plant near Zwentendorf.) Vaults and roofs collapsed at the Mauerbach Charterhouse West of Vienna, and many fortifications in Lower Austria (e.g., at Sieghartskirchen and Altlengbach) needed substantial repair.
+
+Apparently the seismic event propagated far along the Vienna Transform fault but did not extend southward of the Alps. Strong shocks were reported from up to 300&nbsp;km to the North of the epicenter, at places such as Abertamy|Abertham in the westernmost part of Bohemia and Z?bkowice ?l?skie|Frankenstein in Silesia where the slightly disfigured city tower can still be seen.
+
+==Implications for current seismic risk==
+Today the area that was most heavily affected by the 1590 Neulengbach earthquake has a population of over 2.5 million and accounts for almost half of Austria's economic output. A 2007 study by the reinsurance company Munich Re has estimated a damage potential of EUR 10-15 bn. in private property alone should a comparable event occur again.
+
+==Notes==
+{{reflist}}
+
+==References==
+* Hammerl C: An example of historical research and methodology of earthquake sources applied to the event of 15 September 1590, in: Workshop of historical seismicity of central-eastern mediterranean region. ENEA CRE Casaccia (Rome 1987) p.&nbsp;95-112
+* Gutdeutsch R, Hammerl C, Mayer I, Vocelka K: Erdbeben als historisches Ereignis. Die Rekonstruktion des Bebens von 1590 in Nieder?sterreich. Ed.: Springer Verlag Wien, Heidelberg, New York, 1987, ISBN 3-540-18048-6
+
+{{coord missing|Austria}}
+
+{{DEFAULTSORT:Neulengbach earthquake, 1590}}
+Category:Earthquakes in Europe
+Category:16th-century earthquakes
+Category:Natural disasters in Austria|1590
+Category:1590 in Europe
+Category:1590 in science
+Category:1590 natural disasters
+Category:16th century in Austria
+Category:1590 in Austria

@@ -1,0 +1,70 @@
+{{Use dmy dates|date=December 2013}}
+{{Infobox earthquake
+|title              = 1965 Olympia earthquake
+|date               = {{Start-date|April 29, 1965}}
+|image              =
+|image alt          =
+|imagecaption       =
+|map                =
+|map alt            =
+|image name         =
+|map2               = {{Location map+ | Washington
+ | places =
+{{Location map~|Washington|lat=47.04|long=-122.89|label=Olympia|position=left|mark=Green pog.svg}}
+{{Location map~|Washington|lat=47.61|long=-122.33|label=Seattle|position=left|mark=Green pog.svg}}
+{{Location map~|Washington|lat=47.4|long=-122.3|mark=Bullseye1.png|marksize=40}}
+ | relief = 1
+ | width = 250
+ | float = right
+ | caption = }}
+|magnitude = 6.7 Moment magnitude scale|M<sub>w</sub> 
+|depth = 59 km 
+|location = {{coord|47.4|-122.3|display=inline,title}}
+|countries affected = (Washington (state)|Washington) <br> United States 
+|aftershocks = None
+|damage             = 12.5 million 
+|intensity          = VIII (''Destructive'')
+|PGA                = .204''Peak ground acceleration|g'' at Olympia
+|casualties = 7 dead
+}}
+
+The '''1965 Olympia earthquake''' occurred at 08:29 Pacific Time Zone|PDT (15:29 Coordinated universal time|UTC) on April 29 within the Puget Sound region of Washington (state)|Washington State. It had a magnitude of 6.7 on the moment magnitude scale and a maximum perceived intensity of VIII (''Destructive'') on the Mercalli intensity scale. It caused the deaths of seven people and about United States dollar|$12.5 million in damage. There were no recorded aftershocks.
+
+==Tectonic setting==
+{{see also|Puget Sound faults}}
+
+The western part of Washington State lies above the Cascadia subduction zone, where the Juan de Fuca Plate is being subducted beneath the North American Plate. The seismicity of this region consists of rare great megathrust earthquakes, like the 1700 Cascadia earthquake and more common earthquakes originating from within the subducting slab. These events relate to Fault (geology)#Dip-slip faults|normal faulting, associated with the bending of the slab, possibly related to a phase change below about 40&nbsp;km from basalt/gabbro to eclogite.
+
+==Earthquake==
+{{see also|List of earthquakes in Washington (state)}}
+
+The earthquake had an estimated magnitude of 6.6 surface wave magnitude|M<sub>s</sub>, 6.5 body wave magnitude|M<sub>b</sub> and 6.7 M<sub>w</sub>.
+
+The earthquake's focal mechanism indicates that it resulted from normal faulting within the Juan de Fuca slab. There were no recorded aftershocks, similar to observations from the 1949 Olympia earthquake|1949 Olympia and 2001 Nisqually earthquakes and a characteristic of such intraslab events.
+
+File:1965 Seattle EQ damage.tif|thumb|Damage to the Union Pacific Railway occurred when fill slid away from beneath part of a branch line just outside Olympia, Washington|Olympia
+
+The pattern of shaking intensity was somewhat variable, with a large region with an intensity of VII containing localized areas of intensity VIII. These variations generally relate closely to the underlying geology, with higher intensities recorded where there was either artificial fill or alluvium, although there were some exceptions. The observed pattern of intensities was very similar to those from the 1949 Olympia and 2001 Nisqually earthquakes.
+
+===Damage===
+
+There was minor damage recorded over a large area, including fallen chimneys and cracked mortar. The two Boeing plants at Renton, Washington|Renton and Seattle, both built on artificial fill and mudflats, suffered major damage. Single-story unreinforced brick buildings performed the worst in the earthquake with wood-framed structures generally performing very well.
+
+Three people were killed by falling debris in the Duwamish River|Duwamish valley floor area of Seattle,
+
+===Ground acceleration===
+
+A peak ground acceleration of 0.204 g was measured at Olympia.
+
+==Legacy==
+The damage and deaths in the 1965 earthquake helped bring about the installation of the Pacific Northwest Seismic Network in 1969.
+
+== References ==
+{{Reflist|colwidth=33em|refs=
+
+}}
+
+{{DEFAULTSORT:1965 Olympia Earthquake}}
+Category:Earthquakes in Washington (state)
+Category:1965 earthquakes
+Category:1965 in Washington (state)

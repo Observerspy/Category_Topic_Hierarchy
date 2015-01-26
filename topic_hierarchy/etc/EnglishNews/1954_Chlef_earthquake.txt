@@ -1,0 +1,57 @@
+{{Infobox earthquake
+|title = 1954 Chlef earthquake
+|date = {{Start-date|September 9, 1954}} 
+|origintime =  
+|map2 = {{Location map | Algeria
+ | relief = 1
+ | label =
+ | lat = 36.285
+ | long = 1.566
+ | mark = Bullseye1.png
+ | marksize = 40
+ | position = top
+ | width = 250
+ | float = right
+ | caption = }} 
+|magnitude = 
+|depth =
+|location = {{coord|36.285|N|1.566|E|region:DZ_type:event|display=inline,title}} 
+|countries affected = Algeria
+|tsunami =
+|casualties = 1,250 dead 
+}}
+
+The '''1954 Chlef earthquake''' struck Chlef Province in Algeria on September 9. Measuring 6.8 on the Richter scale, it killed 1,250 people and injured 3,000, destroying Chlef, then named Orléansville. It was followed by multiple aftershocks.
+
+Algeria faces annual earthquakes and has undergone several changes to its earthquake building codes since its first earthquake engineering regulations from 1717.
+== Geology ==
+Powerful earthquakes strike Algeria annually, ranging in Mercalli scale intensity from VI (Strong) to XI (Extreme). Both Chlef earthquakes originated from the same fault (geology)#Dip-slip_faults|reverse fault zone.
+
+The 1954 earthquake measured 6.8 on the Richter scale according to the United States Geological Survey There is evidence of Shear (geology)#Microstructures_of_shear_zones|crustal shortening along a NW-SE trend near the epicenter, but the structure of any faults is poorly understood. During the 1954 earthquake, five underwater telephone cables in the Mediterranean Sea were cut by an avalanche, three recording the exact time of impact.
+
+== Damage and casualties ==
+The earthquake hit Chlef Province but this was revised to 1,250 people. The earthquake injured 3,000 and devastated the province. Some victims were buried while in bed. 
+
+Shaking extended west to Mostaganem, south to Tiaret, and east to Tizi Ouzou, and many aftershocks followed the earthquake, including a major tremor at 22:18 UTC on September 16 which further damaged Orleansville.
+
+The United States Geological Survey lists the 1954 quake among the deadliest earthquakes in history.
+
+== Aftermath ==
+Chlef#Orl.C3.A9ansville|Orléansville was devastated by the earthquake; a fifth of it wholly destroyed, it was rebuilt and renamed El Asnam and later Chlef. 
+
+While Algeria had set earthquake resistance regulations as early as 1717, it was the 1954 earthquake that ushered in fully comprehensive reforms for seismic-resistant design.
+
+== See also ==
+*List of earthquakes in Algeria
+
+== References ==
+{{reflist}}
+=== Sources ===
+*{{citation|url=http://bssa.geoscienceworld.org/content/81/2/446.abstract|last=Dewey|first=James W.|volume=81|issue=2|pages=446–467|date=1991|journal=Bulletin of the Seismological Society of America|title=The 1954 and 1980 Algerian earthquakes: Implications for the characteristic-displacement model of fault behavior|publisher=Seismological Society of America}}
+*{{cite journal|last1=El-Robrini|first1=M.|last2=Gennesseaux|first2= M.|last3= Mauffret|first3= A.|title=Consequences of the El-Asnam earthquakes: Turbidity currents and slumps on the Algerian margin (Western Mediterranean)|journal=Geo-Marine Letters|year=1985|volume=5|issue=3|pages=171–176|doi=10.1007/BF02281635}}
+
+Category:1954 earthquakes
+Category:1954 in Algeria
+Category:1954 in science
+Category:Earthquakes in Algeria|1954
+Category:Chlef Province

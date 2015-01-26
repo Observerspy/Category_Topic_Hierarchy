@@ -1,0 +1,132 @@
+{{Location map many | Italy Calabria
+ | relief = yes
+ | label=February 5
+ | lat=38.30
+ | long=15.97
+ | mark=Bullseye1.png
+ | marksize=30
+ | position=right
+ | label2=February 6
+ | lat2=38.22
+ | long2=15.63
+ | mark2=Bullseye1.png
+ | mark2size=25
+ | position2=left
+ | label3=February 7
+ | lat3=38.58
+ | long3=16.2
+ | mark3=Bullseye1.png
+ | mark3size=25
+ | position3=left
+ | label4=March 1
+ | lat4=38.77
+ | long4=16.3
+ | mark4=Bullseye1.png
+ | mark4size=20
+ | position4=left
+ | label5=March 28
+ | lat5=38.78
+ | long5=16.47
+ | mark5=Bullseye1.png
+ | mark5size=30
+ | position5=right
+ | width= 300
+ | float=right
+ | caption=Epicentres of the 1783 Calabrian earthquakes}}
+The '''1783 Calabrian earthquakes''' were a sequence of five strong earthquakes that hit the region of Calabria in southern Italy (then part of the Kingdom of Naples), the first two of which produced significant tsunamis. The epicenters form a clear alignment extending nearly 100&nbsp;km from the Straits of Messina to about 18&nbsp;km SSW of Catanzaro. The epicenter of the first earthquake occurred in the plain of Palmi. The earthquakes occurred over a period of nearly two months, all with estimated Seismic scales#Magnitude scales|magnitudes of 5.9 or greater. Estimates of the total number of deaths lie in the range 32,000 to 50,000.
+
+==Tectonic setting==
+File:Siculo-Calabrian Rift.png|thumb|Main faults of the Siculo-Calabrian rift zone
+The southwestern part of Calabria and the eastern part of Sicily are areas of active Crust (geology)|crustal Extensional tectonics|extension within the ''Siculo–Calabrian Rift Zone''. This 350&nbsp;km long zone developed within the Apennine chain during the Pleistocene and takes up WNW-ESE directed extension.
+
+==The events==
+
+===February 5===
+File:Reggio and Messina earthquake 1783.jpg|thumb|240px|Contemporary print of the February 5 earthquake
+This earthquake, with an estimated magnitude of 7.0, affected a large area including most of the southern Italian peninsula and shook the whole island of Sicily. Many villages were damaged and as many as 180 almost completely destroyed, with more than 25,000 casualties. A tsunami affected the coastline on both sides of the Straits of Messina, destroying the harbour walls at Messina.
+
+Near the epicenter the ground shaking was so intense that people were knocked off their feet and heavy stones were found to be dislodged and upturned. Large landslides caused major destruction at Terranova and Molochio but even well-constructed buildings not thus affected were almost completely destroyed, such as in Oppido Mamertina and Casalnuovo.
+
+The earthquake is thought to have involved rupturing of the Galatro, Cittanova and Sant'Eufemia Fault (geology)|faults, which form the southeastern boundary to the Gioia Basin.
+
+===February 6===
+This magnitude 6.2 event occurred during the night following the first event and struck the area just to the southwest. Most of the damage and casualties appear to have been caused by a tsunami that was set off by a major collapse of Monte Pací into the sea near Scilla, Calabria|Scilla shortly after the earthquake. Many of Scilla's residents, frightened by the tremors of the previous day had moved onto the open beach for the night, where they were overwhelmed by the waves. The tsunami caused severe flooding in the town, reaching as far as 200 m inland, and there were more than 1500 deaths.
+
+The earthquake is thought to have involved rupturing of the Scilla fault, which defines the coast around Scilla.
+
+===February 7===
+This event occurred at about midday 40&nbsp;km NE of the first mainshock on the 5th. Severe damage extended 15&nbsp;km along the front of the Serre Mountains, levelling  all the villages between Acquaro and Soriano Calabro.
+
+The earthquake is thought to have involved rupturing of the southern segment of the Serre fault that bounds the Mesima Basin.
+
+===March 1===
+This earthquake was the weakest of the sequence and caused relatively little damage.
+
+The earthquake is thought to have involved rupturing of the northern segment of the Serre fault.
+
+===March 28===
+The final event of the sequence was of similar magnitude to the first and had an epicenter about 20&nbsp;km east of the fourth, near Borgia in the Catanzaro Basin.
+
+This earthquake has not been tied to a particular fault, but a recent re-evaluation of the intensity data indicates that the Isoseismal map|isoseismal areas are elongated NE-SW, suggesting faulting of similar trend to that observed for the other earthquakes in the sequence.
+
+==Summary of earthquakes==
+{{GeoGroupTemplate|section=Summary of earthquakes}}
+The earthquake parameters shown below are taken from the CFTI4 online catalogue, the epicentral locations are here related to the nearest large village or town.
+ {| class=wikitable
+! Location!! Date!! Time!! Coordinates !! Magnitude!! Intensity
+|-
+| near Oppido Mamertina
+| February 5
+| 12:00
+| {{coord|38.30|15.97|display=inline, title}}
+| 7.0
+| XI
+|-
+| 7&nbsp;km NE of Messina
+| February 6
+| 00:20
+| {{coord|38.22|15.63}}
+| 6.2
+| VIII&ndash;IX
+|-
+| 3&nbsp;km SW of Soriano Calabro
+| February 7
+| 13:10
+| {{coord|38.58|16.20}}
+| 6.6
+| X
+|-
+| 2&nbsp;km SE of Filadelfia, Vibo Valentia|Filadelfia
+| March 1
+| 01:40
+| {{coord|38.77|16.30}}
+| 5.9
+| IX
+|-
+| near Vallefiorita
+| March 28
+| 18:55
+| {{coord|38.78|16.47}}
+| 7.0
+| X
+|-
+|}
+
+==Relationship between earthquakes==
+All the earthquakes in this sequence are thought to be linked by a process of triggering caused by Coulomb stress transfer|stress redistribution following each individual event.
+
+==See also==
+*List of earthquakes in Italy
+
+==References==
+{{Reflist}}
+
+==External links==
+*http://hal.archives-ouvertes.fr/docs/00/29/93/95/PDF/nhess-6-1053-2006.pdf A revision of the 1783–1784 Calabrian (southern Italy) tsunamis, L. Graziani et al., Natural Hazards Earth Syste Sciences Nr. 6, 1053–1060, 2006
+
+{{DEFAULTSORT:1783 Calabrian Earthquakes}}
+Category:Earthquakes in Italy|1783 Calabrian earthquakes
+Category:1783 in Italy|Calabrian earthquakes
+Category:1783 earthquakes|Calabrian Earthquakes, 1783
+Category:History of Calabria
+Category:Palmi

@@ -1,0 +1,48 @@
+{{Infobox earthquake
+|title = 1930 Salmas earthquake
+|date = {{Start-date|6 May 1930}}
+|origintime = 22:34 UTC 
+| map2 = {{Location map | Iran
+| relief = yes
+| label =
+| lat = 38.0
+| long = 44.7
+| mark = Bullseye1.png
+| marksize = 40
+| position = top
+| width = 250
+| float = right
+| caption = }}
+|magnitude = 7.2 (Richter scale)
+|depth =
+|location = {{coord|38.0|44.7|display=inline, title}} 
+|countries affected = File:Flag of Iran (1925).svg|22px Iran
+|casualties = at least 2,500 dead 
+}}
+The '''1930 Salmas earthquake''' occurred on May 6, 1930 in Salmas, West Azerbaijan Province (Iran). Occurring about a year after the 1929 Baghan-Gifan earthquake, the earthquake measured 7.2 on the Richter scale and 7.4 surface wave magnitude and resulted in 2,500 direct fatalities. One foreshock occurred prior to the rupture, and multiple aftershocks also occurred. The earthquake is also listed within the strongest eight earthquakes to occur in Iran since 1900.
+
+== Background ==
+The epicentral area (Salmas Plain) is {{convert|300|km2|sqmi|...}} and is positioned northwest of Lake Urmia. This area is extremely isolated and villages are spread apart. The houses mainly consist of mud and adobe brick.
+
+Two faults (Salmas and Derik) experienced faulting due to the rupture. The Salmas Fault showed offsets of {{convert|4|m|ft|...}} horizontally and vertically {{convert|5|m|ft|...}}.
+
+==Damage and casualties ==
+Around 60 villages within the epicentral region (the Salmas Plain) were demolished. Within these, approximately 40 churches were also destroyed.
+
+The most damaged villages were Haftavan, Dilman, Kuche Mashk and Kalashan. Primarily these towns shared the same effects&mdash;collapsed buildings, falling walls, and similar damage. Some of these areas even experienced fissures. One town, Salmas|Dilman, was ultimately destroyed. However, due to a foreshock (in which 25 died) the residents were able to evacuate the area prior to the main shock, eventually saving several-thousand lives.  A total of 1,100 died in the town from the actual earthquake.
+
+== See also ==
+*List of earthquakes in Iran
+
+== Notes ==
+{{reflist|refs=
+
+}}
+
+{{Earthquakes in Iran}}
+
+Category:Earthquakes in Iran|1930 Salmas
+Category:1930 in Iran|Salmas Earthquake, 1930
+Category:1930 earthquakes|Salmas Earthquake, 1930
+Category:20th century in Iran
+Category:History of West Azerbaijan Province

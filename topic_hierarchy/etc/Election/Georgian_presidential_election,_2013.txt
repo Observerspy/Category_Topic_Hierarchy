@@ -1,0 +1,156 @@
+{{Use dmy dates|date=October 2013}}
+{{Infobox Election
+| election_name      = Georgian presidential election, 2013
+| country            = Georgia
+| type               = presidential
+| ongoing            = no
+| previous_election  = Georgian presidential election, 2008
+| previous_year      = 2008
+| next_election      = Georgian presidential election, 2018
+| next_year          = 2018
+| election_date      = {{Start date|2013|10|27|df=y}}
+| turnout            =
+
+<!--Candidate1-->
+| image1             = [[File:Giorgi Margvelashvili cropped.jpg|125px]]
+| nominee1           = [[Giorgi Margvelashvili]]
+| party1             = Georgian Dream
+| popular_vote1      = 1,012,569
+| percentage1        = 62.12%
+
+<!--Candidate2-->
+| image2             = [[File:David Bakradze.jpg|105px]]
+| nominee2           = [[David Bakradze]]
+| party2             = United National Movement
+| popular_vote2      = 354,103
+| percentage2        = 21.72%
+
+<!--Candidate3-->
+| image3             = [[File:Nino Burjanadze (Tbilisi, December 5, 2003).jpg|118px]]
+| nominee3           = [[Nino Burjanadze]]
+| party3             = Democratic Movement – United Georgia
+| popular_vote3      = 166,061
+| percentage3        = 10.19%
+| color3             = 1E53B9
+
+| title              = [[President of Georgia|President]]
+| before_election    = [[Mikheil Saakashvili]]
+| before_party       = United National Movement
+| after_election     = [[Giorgi Margvelashvili]]
+| after_party        = Georgian Dream
+<!-- map -->
+| map_image         = 
+| map_size          = 280px
+| map_caption       =
+}}{{Politics of Georgia (country)}}
+
+'''Presidential elections''' were held in [[Georgia (country)|Georgia]] on 27 October 2013,<ref>[http://www.globaltimes.cn/content/793192.shtml#.UdUvTR3O2gM Georgia to hold presidential election in late October] Xinhua, 2 July 2013</ref> the [[Elections in Georgia (country)|sixth presidential elections]] since the country's restoration of independence from the [[Soviet Union]] in 1991. The [[Georgian presidential election, 2008|last elections in January 2008]] resulted in the re-election of [[Mikheil Saakashvili]] for his second and final [[President of Georgia|presidential]] term.<ref name="CEC">[http://www.cec.gov.ge/files/TEA/archevnebisistoria/eng.pdf History of elections, 1990–2010]. Central Electoral Commission of Georgia. Retrieved on 27 November 2011.</ref> Saakashvili was [[Constitution of Georgia (country)|constitutionally barred]] from running for a third consecutive term.
+
+The elections were held under a [[two-round system]]. [[Giorgi Margvelashvili]] was elected with a majority of votes in the first round.<ref name=R_result>{{cite news|title=Ally of Georgia's billionaire PM to be president: exit polls|url=http://www.reuters.com/article/2013/10/27/us-georgia-election-idUSBRE99Q02Q20131027|accessdate=27 October 2013|newspaper=[[Reuters]]|date=27 October 2013}}</ref><ref name=observers />
+
+==Background==
+The [[Georgian presidential election, 2008|previous presidential elections]] were held on 5 January 2008 in a polarised political environment following the [[2007 Georgian demonstrations|November 2007 crisis]], in response to which President Mikheil Saakashvili, then serving his first term in office, brought forward the elections from the original date in autumn 2008. Saakashvili won the election with 53.47% of the votes in an election described in the [[Organization for Security and Co-operation in Europe]] (OSCE) election observation mission report as "the first genuinely competitive post-independence presidential election", which "was in essence consistent with most OSCE and Council of Europe commitments and standards for democratic elections". At the same time, the mission "revealed significant challenges which need to be addressed urgently."<ref name="OSCE">[http://www.osce.org/odihr/elections/georgia/66641 Georgia. Extraordinary Presidential Election, 5 January 2008]. OSCE/[[ODIHR]] Election Observation Mission Final Report (4 March 2008). Retrieved on 27 November 2011.</ref>
+
+In the October 2012 [[Georgian parliamentary election, 2012|parliamentary elections]], the former ruling party [[United National Movement]] (ENM) lost power to the [[Georgian Dream]] coalition led by [[Bidzina Ivanishvili]], who became the new Prime Minister.
+
+Upon the inauguration of a new president in 2013, a series of [[Constitution of Georgia (country)|constitutional]] amendments passed in the [[Parliament of Georgia]] from 2010 to 2013 will enter into force. The amendments envisage significant reduction of the president's powers in favour of the [[Prime Minister of Georgia|Prime Minister]].<ref>[http://civil.ge/eng/article.php?id=22757 Key Points of Newly Adopted Constitution]. Civil Georgia. 15 October 2010.</ref>
+
+==Candidates==
+The Georgian Dream coalition named [[Giorgi Margvelashvili]], minister of education and science and deputy prime minister, as their presidential candidate on 11 May.<ref>[http://www.reuters.com/article/2013/05/11/us-georgia-presidency-idUSBRE94A0CE20130511 Georgian PM names pro-Western ally presidential candidate]. [[Reuters]]. 11 May 2013.</ref>
+
+The candidates for the ENM presidential primaries, announced in June 2013, were former parliamentary speaker [[David Bakradze]], veteran lawmaker and former cabinet minister [[Giorgi Baramidze]], [[Shota Malashkhia]] and [[Zurab Japaridze]].<ref>{{cite news|title=Candidates for UNM Presidential Primaries Named|url=http://civil.ge/eng/article.php?id=26224|accessdate=11 October 2013|newspaper=Civil Georgia|date=29 June 2013}}</ref> All the primaries were won by Bakradze who was announced the presidential candidate.<ref>{{cite news|title=Bakradze Becomes UNM Presidential Candidate|url=http://civil.ge/eng/article.php?id=26312|accessdate=11 October 2013|newspaper=Civil Georgia|date=13 July 2013}}</ref>
+
+On 12 June, [[Nino Burjanadze]] announced that she would run for president as the nominee of [[Democratic Movement – United Georgia]].<ref>{{cite news|title=Burjanadze Runs for President|url=http://civil.ge/eng/article.php?id=26172|accessdate=11 October 2013|newspaper=[[Civil Georgia]]|date=13 June 2013}}</ref>
+
+In total, 23 candidates contested the election.<ref name=CECresults>{{cite web|title=October 27, 2013 Presidential Elections of Georgia|url=http://www.results.cec.gov.ge/eng/|work=Election Administration of Georgia|accessdate=28 October 2013}}</ref>
+
+==Opinion polls==
+Opinion polls in the run-up to the election showed Margvelashvili to be the frontrunner. Polls varied between showing over 50% support for Margvelashvili and figures indicating the election would go to a second round.<ref>[http://www.civil.ge/eng/article.php?id=26493 Poll: GD's Margvelashvili Leads, Followed by UNM's Bakradze]. Retrieved 26 September 2013.</ref><ref>{{cite news|title=57.6% of respondents support Margvelashvili, 11.8% – Bakradze and 7,1% – Burjanadze|url=http://www.pirweli.com.ge/en/?menuid=8&id=2701|accessdate=26 October 2013|newspaper=Pirweli|date=24 October 2013}}</ref><ref>{{cite news|title=Who becomes President of Georgia?|url=http://top.rbc.ru/politics/25/10/2013/884932.shtml|accessdate=26 October 2013|newspaper=Rbk|date=25 October 2013}}</ref>
+
+==Results==
+The result of the election was a clear first-round majority for Margvelashvili with 62% of the vote. Bakradze, his nearest rival, polled 22%.<ref name=observers/> Burjanadze came third, with 10% of the vote. No other candidate received more than 3% of the vote.<ref name=CECresults/> The inauguration of Margvelashvili will be on 17 November.<ref name=Guard_1>{{cite news|last=Walker|first=Shaun|title=Georgia elects oligarch PM Bidzina Ivanishvili's candidate as president|url=http://www.theguardian.com/world/2013/oct/28/georgia-elects-ivanishvili-margvelashvili-saakashvili|accessdate=28 October 2013|newspaper=The Guardian|date=28 October 2013}}</ref>
+
+The election saw 47% of eligible voters cast a ballot; this is lower than the [[Georgian parliamentary election, 2012|2012 parliamentary election]], which saw 61% vote, and the [[Georgian presidential election, 2008|2008 presidential election]], where 54% of voters participated.<ref>{{cite web|url=http://www.eurasianet.org/node/67685|title=Georgia: Low Turnout Overshadows Presidential Election|last=Corso|first=Molly|date=27 October 2013|publisher=Eurasianet.org|accessdate=28 October 2013}}</ref>
+
+{| class=wikitable style=text-align:right
+!Candidate
+!Nominating party
+!Votes
+!%
+|-
+|align=left|[[Giorgi Margvelashvili]]||align=left|[[Georgian Dream|Georgian Dream–Democratic Georgia]]||1,012,569||62.12
+|-
+|align=left|[[Davit Bakradze]]||align=left|[[United National Movement]]||354,103||21.72
+|-
+|align=left|[[Nino Burjanadze]]||align=left|[[Democratic Movement – United Georgia]]||166,061||10.19
+|-
+|align=left|[[Shalva Natelashvili]]||align=left|[[Georgian Labour Party|Labour Party]]||46,984||2.88
+|-
+|align=left|[[Giorgi Targamadze]]||align=left|[[Christian-Democratic Movement (Georgia)|Christian-Democratic Movement]]||17,354||1.06
+|-
+|align=left|[[Koba Davitashvili]]||align=left|People's Party||9,838||0.60
+|-
+|align=left|Zurab Kharatishvili||align=left|[[European Democrats (Georgia)|European Democrats]]||3,718||0.23
+|-
+|align=left|Levan Chachua||align=left|Initiative group||3,093||0.19
+|-
+|align=left|Nino Chanishvili||align=left|Initiative group||2,276||0.14
+|-
+|align=left|Sergo Javakhidze||align=left|Movement for a Fair Georgia||2,107||0.13
+|-
+|align=left|Giorgi Liluashvili||align=left|Initiative group||1,909||0.12
+|-
+|align=left|[[Akaki Asatiani]]||align=left|[[Union of Georgian Traditionalists]]||1,559||0.10
+|-
+|align=left|Mikheil Saluashvili||align=left|Initiative group||1,376||0.08
+|-
+|align=left|Teimuraz Mzhavia||align=left|Christian Democratic People's Party||1,285||0.08
+|-
+|align=left|Mamuka Melikishvili||align=left|Initiative group||995||0.06
+|-
+|align=left|Giorgi Chikhladze||align=left|Initiative group||820||0.05
+|-
+|align=left|Nestan Kirtadze||align=left|Initiative group||762||0.05
+|-
+|align=left|Tamaz Bibiluri||align=left|Initiative group||687||0.04
+|-
+|align=left|Nugzar Avaliani||align=left|Initiative group||664||0.04
+|-
+|align=left|Avtandil Margiani||align=left|Initiative group||627||0.04
+|-
+|align=left|Kartlos Gharibashvili||align=left|Initiative group||530||0.03
+|-
+|align=left|Teimuraz Bobokhidze||align=left|Initiative group||356||0.02
+|-
+|align=left|Mamuka Chokhonelidze||align=left|Initiative group||315||0.02
+|-
+|align=left colspan=2|Invalid/blank votes||30,988||–
+|-
+|align=left colspan=2|'''Total'''||'''1,660,976'''||'''100'''
+|-
+|align=left colspan=2|Registered voters/turnout||3,537,719||46.95
+|-
+|align=left colspan=4|Source: [http://www.results.cec.gov.ge/eng/ CEC]
+|}
+
+==Reactions==
+Margvelashvili is an ally of Prime Minister [[Bidzina Ivanishvili]], and the result was considered to be a consolidation of Ivanishvili's power.<ref name=observers/> With his appointee elected to the presidency, Ivanishvili has declared his intention to leave his role as Prime Minister, stating that his goals have been achieved.<ref name=BBC_1>{{cite news|title=Georgia PM ally Giorgi Margvelashvili 'wins presidency'|url=http://www.bbc.co.uk/news/world-europe-24696261|accessdate=28 October 2013|newspaper=BBC News|date=27 October 2013}}</ref>
+
+The election was declared as "clean" and "transparent" by international observers.<ref name=observers>{{cite news|last=Berry|first=Lynn|title=International Observers Praise Georgia's Election|url=http://abcnews.go.com/International/wireStory/georgian-president-elected-62-percent-20699954|accessdate=28 October 2013|newspaper=Associated Press|date=28 October 2013}}</ref> The [[OSCE]] observer mission preliminary stated that the election was "efficiently administered, transparent and took place in an amicable and constructive environment."<ref>{{cite web|title=Fundamental freedoms respected in well-administered presidential election in Georgia, international observers say|url=http://www.osce.org/odihr/elections/107512|publisher=OSCE|accessdate=29 October 2013|date=27 October 2013}}</ref> However, there were some issues noted by observers. International Society for Fair Elections and Democracy, a Georgian election observer group, found "significant shortcomings" regarding invalid ID and voter lists in [[Batumi]], filing 45 complaints. Another group, [[Transparency International]], filed 34 complaints.<ref>{{cite web|url=http://civil.ge/eng/article.php?id=26626|title=Margvelashvili Set for Outright Victory|author=Civil Georgia|date=28 October 2013|publisher=Civil.ge|accessdate=28 October 2013}}</ref>
+
+===International responses===
+;Supranational organizations 
+*{{flagu|European Union}} — [[Catherine Ashton]], the EU High Representative for Foreign Affairs, and [[Štefan Füle]], the Commissioner for Enlargement and European Neighbourhood Policy, released a statement where they congratulated "the Georgian people on this demonstration of their country's strong democratic credentials" and that they "look forward to continued close cooperation with Georgia on our ambitious mutual agenda of political association and economic integration."<ref>{{cite web|url=http://europa.eu/rapid/press-release_MEMO-13-940_en.htm?locale=en|title=Joint Statement by EU High Representative Catherine Ashton and Commissioner Štefan Füle on the results of Georgia's presidential election|author=European Commission|date=28 October 2013|publisher=Europa.eu|accessdate=28 October 2013}}</ref>
+;States
+*{{flagu|United States}} — US Department of State release said that they "witnessed another historic day for all Georgians" and an "important step in Georgia's democratic development and its embrace of Euro-Atlantic institutions."<ref>{{cite web|title=Georgian Presidential Election|url=http://www.state.gov/r/pa/prs/ps/2013/10/215929.htm|publisher=U.S. State Department|accessdate=28 October 2013|date=28 October 2013}}</ref>
+*{{flagu|Russia}} — Russian Foreign Minister [[Sergey Lavrov]] congratulated the Georgian people on the "free and fair election" and expressed his hope that the new government will "adopt a friendly policy toward Russia, one that will take into account the current situation in this complex region."<ref>{{cite news|last=Nechepurenko|first=Ivan|title=With Saakashvili Out, Russia-Georgia Ties Set to Improve, but Slowly|url=http://www.themoscowtimes.com/news/article/with-saakashvili-out-russia-georgia-ties-set-to-improve-but-slowly/488642.html|accessdate=28 October 2013|newspaper=[[The Moscow Times]]|date=28 October 2013}}</ref>
+*{{flagu|Sweden}} — Foreign Minister [[Carl Bildt]] congratulated Georgia on "its well-run presidential election and Giorgi Margvelashvili on clearly being the winner."<ref>{{cite web|title=Carl Bildt|url=https://twitter.com/carlbildt/status/394776064456945664|publisher=Twitter|accessdate=28 October 2013}}</ref>
+
+==References==
+{{Reflist|30em}}
+
+{{Georgian elections}}
+
+[[Category:2013 elections in Europe]]
+[[Category:2013 in Georgia (country)|Presidential election]]
+[[Category:Elections in Georgia (country)|2013 Presidential election]]

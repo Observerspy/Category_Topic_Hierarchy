@@ -1,0 +1,48 @@
+{{Earthquake
+| title = Shantou earthquake
+| date = {{start-date| February 13, 1918}}
+| map2 = {{Location map | China Guangdong
+ | label =
+ | lat = 23.35
+ | long = 116.67
+ | mark = Bullseye1.png
+ | marksize = 40
+ | position = top
+ | width = 250
+ | float = right
+ | caption = }}
+| depth = {{convert|15|km|abbr=on}} 
+| location = {{coord|23.54|117.24|display=inline, title}} 
+| magnitude = 7.2 M<sub>w</sub> 
+| countries affected = Republic of China (1912–1949)|Republic of China, British Hong Kong
+| casualties = 1,000 in Shantou
+}}
+
+The '''1918 Shantou earthquake''' is an earthquake that occurred in Shantou, Guangdong|Kwangtung, Republic of China (1912–1949)|Republic of China.  It also caused some damage in British Hong Kong.
+
+==Shantou==
+The quake was centred near Shantou, about 300&nbsp;km northeast of the territory of Hong Kong.  The quake caused minor damage and cracks to buildings in the territory.
+
+==British Hong Kong==
+It is also the only earthquake to have caused any damage to Hong Kong.  It was estimated to reach intensity VII on the Mercalli intensity scale|Modified Mercalli Scale.  As the Hong Kong Observatory|Royal Observatory, Hong Kong did not start operating long-period seismographs until 1921 to detect distant earthquakes.  According to'' Hong Kong Telegraph ''the quake threw the whole Central District, Hong Kong|Central District into a state of panic.  The shock lasted about half a minute and was felt all over Hong Kong Island and Kowloon.
+
+==References==
+{{reflist|refs=
+
+}}
+
+==External links==
+* http://www.hko.gov.hk/publica/tn/tn033.pdf hko.gov.hk
+* http://www.archive.org/stream/contentsofpublic02shinrich/contentsofpublic02shinrich_djvu.txt archive.org
+* http://www.ydtz.com/news/shownews.asp?id=32336 ydtz.com
+* http://www.zgdazxw.com.cn/NewsView.asp?ID=2305 zgdazxw.com.cn
+
+{{Earthquakes in China}}
+
+{{DEFAULTSORT:1918 Shantou Earthquake}}
+Category:Shantou
+Category:Earthquakes in China|1918 Shantou
+Category:History of Guangdong
+Category:1918 in China|Shantou Earthquake, 1918
+Category:1918 in Hong Kong|Shantou Earthquake, 1918
+Category:1918 earthquakes|Shantou

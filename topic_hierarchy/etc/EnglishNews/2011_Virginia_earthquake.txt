@@ -1,0 +1,160 @@
+{{good article}}
+{{Use mdy dates|date=March 2012}}
+{{Infobox earthquake
+| title = 2011 Virginia earthquake
+| image = Virginia earthquake, Aug 23.jpg
+| image alt =Shake map showing the epicenter of the earthquake in Virginia
+| imagecaption =Shake map
+| caption =
+|map2 = {{Location map | United States
+| relief = 1
+| label = Epicenter
+| lat = 37.875
+| long = -77.908
+| mark = Bullseye1.png
+| marksize = 45
+| position = bottom
+| width = 250
+| float = right
+| caption = }}
+| date = 17:51:04 UTC, August&nbsp;23, 2011
+| magnitude = 5.8
+|depth = {{convert|6|km|mi|0|abbr=on}}
+|location = {{Coord|37.936|N|77.933|W |format=dms |type:event_dim:200km |display=inline,title}}
+|type = Intraplate earthquake
+|countries affected = Canada, United States
+|damage =
+|intensity = Mercalli intensity scale|VII (very strong)
+|PGA =
+|casualties =
+}}
+
+The '''2011 Virginia Earthquake''' occurred on August&nbsp;23, 2011, at 13:51:04 EDT (17:51:04&nbsp;UTC) in the Piedmont (United States)|Piedmont region of the US state of Virginia. The epicenter, in Louisa County, Virginia|Louisa County, was {{convert|61|km|mi|0|abbr=on}} northwest of Richmond, Virginia|Richmond and {{convert|8|km|mi|0|abbr=on}} south-southwest of the town of Mineral, Virginia|Mineral. It was an intraplate earthquake with a moment magnitude scale|magnitude of 5.8 and a maximum perceived intensity of VII (very strong) on the Mercalli intensity scale. Several aftershocks, ranging up to 4.5 M<sub>w</sub> in magnitude, occurred after the main tremor.
+
+The earthquake, along with a magnitude–5.8 1944 Cornwall-Massena earthquake|quake on the New York–Ontario border during 1944, is the largest to have occurred in the U.S. east of the Rocky Mountains since an earthquake centered in Giles County, Virginia|Giles County in western Virginia occurred during 1897, with an estimated Body wave magnitude|magnitude of 5.8.
+
+The quake was felt across more than a dozen U.S. states and in several Canadian provinces, and was felt by more people than any other quake in U.S. history. No deaths and only minor injuries were reported. Minor damage to buildings was widespread and was estimated by one risk-modeling company at $200&nbsp;million to $300&nbsp;million, of which about $100&nbsp;million was insured.
+
+The earthquake prompted research that revealed that the farthest landslide from the epicenter was {{convert|150|mi|km}}, by far the greatest landslide distance recorded from any other earthquake of similar magnitude. Previous studies of worldwide earthquakes indicated that landslides occurred no farther than {{convert|36|mi|km}} from the epicenter of a magnitude 5.8 earthquake. The Virginia earthquake study suggested that the added information about East Coast earthquakes may prompt a revision of equations that predict ground shaking.
+
+==Geology==
+File:Nor rev.png|thumb|left|155px|Cross-sectional illustration of normal and reverse dip-slip faults.
+File:Central VA Quakemap by CMBailey.jpg|thumb|right|325px|Generalized geologic map of the central Virginia Piedmont with faults and earthquakes (M>2, 1973–2011).
+The earthquake occurred in the Virginia Seismic Zone, located in the Piedmont (United States)|Piedmont region. The Virginia Piedmont area was formed originally as part of a zone of repeated continental collision that created the ancestral Appalachian Mountains, a process that started during the Ordovician period with the Taconic orogeny and finished during the Carboniferous Period with the Alleghenian orogeny. The reverse faults formed during the various orogenies were partly reactivated as normal faults in Extensional tectonics|extension during the Mesozoic Era as the supercontinent Pangaea broke apart. During the Cenozoic Era, compression from the opening and spreading of the Atlantic has caused some of these structures to be reactivated in a reverse sense.
+
+The earthquake's epicenter and most of the aftershocks lie between the surface traces of two structures, the Spotsylvania Fault, a southeast dipping zone of high ductile strain, and the Chopawamsic Fault, a thrust fault.
+
+After the earthquake, several websites speculated about whether hydraulic fracturing|hydraulic fracturing (fracking) for natural gas production could have caused or contributed to the quake.
+
+==Aftershocks==
+Numerous aftershocks occurred after the main tremor. The first four (of magnitude 2.8, 2.2, 4.2 and 3.4) occurred within 12&nbsp;hours of the main shock. A 2.5-magnitude shock occurred just after midnight on August 25, followed at 05:07 UTC by the strongest, a magnitude 4.5 aftershock that woke many residents in Northern Virginia and Washington, D.C., and was felt as far away as New England, Georgia, and Illinois.
+
+==Research==
+Scientists have known that the difference between seismic shaking in the East versus the West is due in part to the geologic structure and rock properties that allow seismic waves in the East to travel farther without weakening, but during November 2012, the USGS announced that recent research showed that earthquake shaking in the eastern United States can travel much farther and cause damage over larger areas than previously thought.  USGS  scientists found that the Virginia earthquake caused landslides at distances four times farther—- and over an area 20 times larger—- than previous research had shown. USGS Director Marcia McNutt said, "Scientists are confirming with empirical data what more than 50 million people in the eastern U.S. experienced firsthand: this was one powerful earthquake. Calibrating the distance over which landslides occur may also help us reach back into the geologic record to look for evidence of past history of major earthquakes from the Virginia seismic zone."
+
+The USGS found that the farthest landslide from the 2011 Virginia earthquake was {{convert|150|mi|km}} from the epicenter. This is by far the greatest landslide distance recorded from any other earthquake of similar magnitude. Previous studies of worldwide earthquakes indicated that landslides occurred no farther than {{convert|36|mi|km}} from the epicenter of a magnitude 5.8 earthquake. The study suggested that the added information about East Coast earthquakes may prompt a revision of equations that predict ground shaking. "What makes this new study so unique is that it provides direct observational evidence from the largest earthquake to occur in more than 100 years in the eastern U.S. Now that we know more about the power of East Coast earthquakes, equations that predict ground shaking might need to be revised."
+
+In addition to the great landslide distances recorded, the landslides from the 2011 Virginia earthquake occurred in an area 20 times larger than expected from studies of worldwide earthquakes. Scientists plotted the landslide locations that were farthest out and then calculated the area enclosed by those landslides. The observed landslides from the Virginia earthquake enclose an area of about 33,400 km2, while previous studies indicated an expected area of about 1,500 km2 from an earthquake of similar magnitude.
+
+==Effect==
+It is estimated that approximately one-third of the U.S. population could have felt the earthquake, more than any earthquake in U.S. history. About 148,000 people reported their ground-shaking experiences caused by the earthquake on the USGS "Did You Feel It?" website. Tremors from the Virginia earthquake were felt as far south as Atlanta, Georgia; as far north as Quebec City, Quebec; as far west as Illinois and as far east as Fredericton, New Brunswick, with damage reported as far away as Brooklyn, New York.
+
+Although earthquakes in the central and eastern U.S. are tens of times less frequent than in the western U.S., they are typically felt over a much broader region. East of the Rocky Mountains, an earthquake can be felt over an area as much as ten times larger than a similar magnitude earthquake on the west coast. Western rock is relatively young, therefore it absorbs much of the shaking caused by earthquakes. Thus, western earthquakes result in intense shaking close to the epicenter, but fade more quickly the farther the earthquakes travel. In the eastern United States the rock is much older, and the earthquake energy can therefore spread farther and have a greater impact. A magnitude 5.5 eastern U.S. earthquake can usually be felt as far as {{convert|300|mi|km|0|abbr=on}} from where it occurred, and sometimes causes damage as far away as {{convert|25|mi|km|0|abbr=on}}. The relatively shallow depth of this earthquake also contributed to its widespread effects.
+
+===United States===
+Soon after the earthquake, the U.S. Federal Aviation Administration ordered a ground stop along the East Coast, causing some flight delays. The Air Traffic Control tower at John F. Kennedy International Airport was evacuated. Flights were delayed at several airports, including John F. Kennedy International Airport, Newark Liberty International Airport, Ronald Reagan Washington National Airport, Dulles International Airport, and Philadelphia International Airport. At Ronald Reagan National Airport, ceiling tiles fell in one terminal, and flights were halted.
+
+A huge increase of cell-phone calls immediately after the event congested the AT&T, Verizon Wireless, Sprint Nextel, T-Mobile USA, and Frontier Communications networks in the Mid-Atlantic states|Mid-Atlantic region, causing disruptions and loss of service for as much as an hour after the earthquake.
+
+====Virginia====
+The epicenter of the earthquake was in Louisa County, Virginia, where damage was greatest and several minor injuries occurred. The town of Mineral, Virginia|Mineral, located {{convert|5|mi|km|0|abbr=on}} south-southwest from the earthquake's epicenter, reported the collapse of two buildings, as well as minor damage to several other structures, including the collapse of the ceiling in its Town Hall. Only minor injuries were reported, including the hospitalization of several people reporting chest pains related to the stress of the experience. The high school and Thomas Jefferson Elementary were closed for the remainder of the school year. Damage in Louisa County was estimated at $80.6&nbsp;million, of which $63.8&nbsp;million was from damage to public school buildings and $14.7&nbsp;million was from damage to residences. On August 25, county officials declared a state of local emergency in order to allow them to request state aid.
+
+Multiple reactor sensors at the North Anna Nuclear Generating Station, located {{convert|10|mi|km|0|abbr=on}} northeast of the epicenter, detected a slight power reduction as a result of vibrations in the reactor or monitoring devices. This caused the two nuclear reactors to shut down automatically seconds before off-site power was lost. The Nuclear Regulatory Commission sent additional inspectors to the Virginia plant after preliminary measurements suggested that the ground shook more than the two reactors were designed to handle. The damage was minimal and the NRC advised that further inspections should not be interpreted to mean that the plant was not safe. After a $21 million inspection, engineers stated that they only found cosmetic damage. On November 11, 2011, the NRC gave its approval for restarting the reactors.
+
+In Charlottesville, Virginia|Charlottesville, about {{convert|27|mi|km|0|abbr=on}} west of the epicenter, a gas leak closed several streets, including West Main Street.
+File:Evacuating the Pentagon after Earthquake.jpg|thumb|right|Some employees evacuated the Pentagon moments after the earthquake.
+
+In Spotsylvania County, Virginia|Spotsylvania County, the August 24 opening of Spotsylvania County Public Schools|public schools was delayed while damage to buildings was assessed.
+
+Several buildings in Culpeper, Virginia|Culpeper, about {{convert|37|mi|km|0|abbr=on}} north of the epicenter, sustained structural damage. The brick fa?ade of the Levy Building, built during 1848, collapsed and the building was condemned and demolished. Damage in Culpeper was estimated at $10&nbsp;million.
+
+In Fredericksburg, Virginia|Fredericksburg, about {{convert|37|mi|km|0|abbr=on}} northeast of the epicenter, the Dickinson Building on the campus of Germanna Community College was deemed unusable for the rest of the semester, and the whole college was closed until alternative classrooms could be found, re-opening on September 6. Officials estimated the damage total at around $711,000.
+
+In Arlington County, Virginia|Arlington County, a burst pipe flooded two corridors at the Pentagon. Employees, many of whom left the building when the earthquake was felt, were alerted to the flooding by an alarm system that was installed after the September 11 attacks. Nearby Alexandria, Virginia|Alexandria also reported structual damages, though not any injuries.
+
+In Prince William County, Virginia|Prince William County, approximately {{convert|59|mi|km}} north of the epicenter, damage to the dam for Lake Jackson, Virginia|Lake Jackson was documented by officials in May 2012 though local residents had noticed lower water levels in the lake in 2011.
+
+====Washington, D.C.====
+File:Washington Monument 2011 Earthquake security 1.ogv|thumbtime=125|thumb|200px|Security video in the Washington Monument during the earthquake. The earthquake occurs at the 1:44 mark.
+The White House, the United States Capitol|Capitol, and various other buildings were evacuated. The afternoon traffic rush hour was affected, with some traffic lights inoperative, and the Washington Metro|Washington Metro system's trains operated at reduced speeds while tracks and tunnels were inspected.
+
+A National Park Service spokesperson reported that surveys revealed cracks near the top of the Washington Monument, the world's tallest stone structure, which was closed indefinitely. The earthquake damaged three of the four pinnacle|pinnacles (corner spires) on the central tower of the Washington National Cathedral, cracked some of its flying buttresses, and caused additional damage.
+File:DC Cathedral repair 10 2011 zoom 3384.jpg|thumb|Repair work at the central tower of the Washington National Cathedral due to damage caused by the earthquake.
+File:DC Earthquake Damage to Embassy of Ecuador.jpg|upright|thumb|right|Damage to the Embassy of Ecuador in Washington, D.C.|Embassy of Ecuador.
+The Smithsonian Castle incurred damage to five decorative turrets, and fifty jars of preserved specimens fell from shelves at the Smithsonian's National Museum of Natural History. The Embassy of Ecuador in Washington, D.C.|Embassy of Ecuador suffered structural damage, including three collapsed chimneys and cracked internal walls. The Treasury Building (Washington, D.C.)|Treasury Building suffered minor damage to exterior railings, some of which fell to the ground and caused closure of a sidewalk. Fire department officials in Washington reported numerous minor injuries as a result of the earthquake.
+
+====Maryland, Delaware, and West Virginia====
+'''Maryland:''' In Temple Hills, Maryland|Temple Hills, residents were evacuated from two damaged apartment buildings. The 1740 Mt. Calvert Mansion, a historic site and museum located on the Patuxent River in Upper Marlboro, Maryland|Upper Marlboro, received substantial structural damage and was closed indefinitely to the public.
+
+'''Delaware:''' In Wilmington, Delaware|Wilmington, blocks fell to the street from the steeple of St. Thomas the Apostle Church, and the New Castle County Courthouse was evacuated, as was the air traffic control tower of the New Castle County Airport in nearby Wilmington Manor. Fire marshals and building inspectors were called to assess structures throughout Dover, Delaware|Dover, the capital city, where the city hall was evacuated. Numerous buildings in Georgetown, Delaware|Georgetown, the Sussex County seat, were evacuated while crews checked for damage; the Emergency Operations Center there reported 200 calls to 9-1-1. Delaware Department of Transportation crews were dispatched statewide to inspect interstate highways, the under-construction replacement Indian River Inlet Bridge, the Delaware Memorial Bridge on Interstate 295 (Delaware – New Jersey)|I-295, and other bridges and roads.
+
+'''West Virginia: ''' In Martinsburg, West Virginia|Martinsburg, several government buildings were evacuated, and multiple citizens reported feeling their homes shaking violently enough to rattle picture frames off the walls. In Charleston, West Virginia|Charleston, the Kanawha County Courthouse, the West Virginia State Capitol campus, and several other downtown buildings were evacuated; Kanawha County, West Virginia|Kanawha County dispatchers received more than 350 telephone calls in 45 minutes, but there were not any reports of damage to buildings and infrastructure other than minor plaster cracking in the old courthouse. In Philippi, West Virginia|Philippi, part of a chimney collapsed at the Barbour County, West Virginia|Barbour County courthouse. The West Virginia Office of Miners' Health, Safety and Training stated that West Virginia coal mining|coal mines were safe following the tremors. A roof collapse in Patriot Coal|Patriot Coal Company's Big Mountain Complex forced the closure of the mine.
+
+====Pennsylvania, New Jersey, and New York====
+File:40 Wall Street Earthquake Evacuees.jpg|thumb|right|People gather outside 40 Wall Street in New York City after the earthquake.
+'''Pennsylvania:''' Trembling was felt in buildings in Philadelphia, Pittsburgh and Pennsylvania|across the state. In Center City Philadelphia, a window shattered on a lower floor at the G. Fred DiBona Jr. Building|Independence Blue Cross building, and the company sent its 3,000 employees home for the day. Workers at the PPL (utility)|PPL Corporation in Allentown, Pennsylvania|Allentown evacuated the building. The Bucks County, Pennsylvania|Bucks County Courthouse in Doylestown, Pennsylvania|Doylestown was evacuated after the earthquake. In Philadelphia, SEPTA Regional Rail trains were restricted to a speed of {{convert|25|mph|km/h|0|abbr=on}} while tracks were inspected for damage, and PATCO Speedline trains were briefly suspended, with no damage reported. The Pennsylvania Department of Transportation inspected bridges across the state for damage. The Delaware River Port Authority reported no damage to its four bridges across the Delaware River. Minor damage was also reported in the Pittsburgh area.
+
+'''New Jersey:''' Damage in New Jersey was minor. The state Emergency Management office reported two gas leaks in Gloucester County, New Jersey|Gloucester County. In Burlington, New Jersey|Burlington, Temple B'nai Israel's synagogue building, built during 1801, sustained some water damage when tremor-caused openings in the roof allowed standing water to leak in, and about 20 bricks fell, damaging a congregant's car. No other infrastructure damage was reported in the state.
+
+'''New York:''' Tremors were felt to varying degrees throughout New York|New York State. Physical damage occurred in Brooklyn.
+
+====New England====
+The earthquake was felt throughout much of the six New England states. In Boston, the Massachusetts Emergency Management Agency reported tremors and swaying buildings but no damage. The United States District Court for the District of Massachusetts|U.S. District Court in South Boston was evacuated and the University of Massachusetts Boston closed early. In Maine, the earthquake was felt as far north as Augusta, Maine|Augusta and Portland, Maine|Portland, but no damage was reported in the state.
+
+====Midwestern states====
+In Columbus, Ohio the Huntington Center (Columbus)|Huntington Center was briefly evacuated, and occupants on the upper floors of the Rhodes State Office Tower and the Vern Riffe State Office Tower reported feeling strong shaking. Evacuations also occurred in Canton, Ohio|Canton and Akron, Ohio|Akron. In Cleveland, the press box at Progressive Field shook during the third inning of a Cleveland Indians baseball game.
+
+Tremors from the earthquake were felt as far north as Saginaw, Michigan, USGS also listed reports of tremors from as far west as Illinois, Indiana, Wisconsin, and Minnesota.
+
+====Southern states====
+The earthquake was felt in several southern states as far from the epicenter as Alabama and Georgia (U.S. state)|Georgia, but no damage was reported.
+
+===Canada===
+Tremors from the earthquake were also felt in eastern Canada, mostly in Southern Ontario, as well as in parts of southern Quebec and the Maritimes|Maritime provinces. In Ontario, a few buildings in Toronto were evacuated, and roads were closed as a precautionary measure in case of building collapse in Sudbury, Ontario|Sudbury and Windsor, Ontario|Windsor. The year 2011 is the second consecutive year in which an earthquake was widely felt in Southern Ontario and Quebec, the previous being the 2010 Central Canada Earthquake|June 2010 Central Canada Earthquake that also affected that region.
+
+==Internet activity and social media==
+The USGS "Did you feel it?" citizen science|citizen-based earthquake intensity website received about 60,000 reports in the first two hours after the quake, and over 100,000 responses within four hours.
+
+According to Facebook, the word "earthquake" appeared in the status updates of 3&nbsp;million users within four minutes of the quake. Twitter said users were sending as many as 5,500 messages ("tweets") per second, which exceeds the maximum rate immediately after the death of Osama bin Laden and was "on par with" the rate after the 2011 Tōhoku earthquake and tsunami|Tōhoku earthquake and tsunami.
+
+Due to the significantly slower propagation of seismic waves compared to the near-speed-of-light transmission of internet traffic, some Twitter users read about the earthquake seconds before feeling the tremors. For example, Twitter users in such cities as New York City and Boston reported reading tweets about the earthquake from users in Washington, D.C., or Richmond, Virginia, 15 to 30&nbsp;seconds before feeling the quake itself.
+
+Wikipedia had an article dedicated to the earthquake by 2:03&nbsp;PM, 12 minutes after the event, and it was mentioned in two other Wikipedia articles even earlier.
+
+==Zoo animal reactions==
+
+Staff at the Smithsonian National Zoological Park in Washington, D.C., reported that some of the animals in the park appeared to show behavior suggesting that they Earthquake prediction#Animal behavior|anticipated the earthquake from seconds to minutes before it was felt in the area. The earthquake was felt at the great ape exhibits during afternoon feeding time. About three to ten seconds before the quake, many of the apes abandoned their food and climbed to the top of a tree-like structure in the exhibit. The red-ruffed lemurs sounded an alarm call about 15 minutes before the quake, and the flock of 64 flamingos rushed about and grouped themselves together just before the quake. During the quake, some animals vocalized, some ran or dove for cover, and some stood up and stared at the walls of their enclosures. Some of the animals remained agitated for the rest of the day, while others calmed quickly. This reaction was similar to that of the 5.8 Wabash Quake in 2008, which struck during early-morning feeding at the St. Louis Zoo.
+
+==See also==
+{{commons}}
+* List of earthquakes and tsunamis in the United States
+
+{{Clear}}
+
+==References==
+{{reflist|colwidth=30em}}
+
+==External links==
+* http://www.nbc29.com/story/15371474/earthquake-video-from-louisa-county-high-school-security-camera Louisa County High School security camera footage of the quake and evacuation
+
+{{Earthquakes in 2011}}
+
+{{DEFAULTSORT:2011 Virginia earthquake}}
+Category:2011 earthquakes
+Category:2011 in Virginia
+Category:2011 in Washington, D.C.
+Category:Earthquakes in Virginia
+Category:Geology of Virginia
+Category:Louisa County, Virginia
+Category:2011 natural disasters in the United States|earthquake
+Category:Landslides in the United States

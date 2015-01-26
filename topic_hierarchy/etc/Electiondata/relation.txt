@@ -1,0 +1,619 @@
+relation:
+speech plagiarism -AND- issues: 1
+cap on credit card interest rates -AND- government regulations: 1
+books -AND- sources: 1
+notional election, 2001 -AND- root: 1
+presidential candidates -AND- root: 1
+criticisms and reactions -AND- root: 1
+leadership elections of 2003 and 2004 -AND- root: 1
+iraq -AND- issues: 1
+voter identification -AND- vote and seat summaries: 1
+debates -AND- second round: 1
+close states -AND- election results: 1
+ballots -AND- root: 1
+international reaction -AND- results: 1
+voting -AND- second election attempt august 2007: 1
+press influence on race -AND- aftermath: 1
+opinion polls -AND- root: 23
+independent candidacy -AND- root: 1
+campaigning -AND- root: 1
+recounts -AND- post-election: 1
+other candidates -AND- candidates: 2
+dead -AND- candidates: 2
+progressive opinion polls table -AND- opinion polls: 1
+criticism of the election -AND- root: 1
+international observers -AND- root: 2
+political honesty -AND- electoral reform and political honesty: 1
+françois bayrou -AND- campaign: 1
+effect of the expenses scandal -AND- root: 1
+new democratic party surge -AND- opinion polls: 1
+bush's unpopularity -AND- issues: 1
+candidates -AND- republican party: 1
+procedure -AND- second election attempt august 2007: 1
+electors -AND- first election attempt april–may 2007: 1
+others -AND- party positions: 1
+new hampshire primary -AND- democratic party nomination: 1
+reactions -AND- results: 5
+campaign law changes -AND- new during this campaign: 1
+election campaign -AND- conduct: 1
+law on presidential elections -AND- root: 1
+candidates -AND- first round: 1
+russian reaction -AND- background: 1
+south carolina primary -AND- democratic party nomination: 1
+campaign spending -AND- election campaign: 1
+preliminary vote -AND- root: 1
+newspaper endorsements -AND- endorsements: 1
+apportionment -AND- overview: 4
+health care -AND- issues: 2
+bloc québécois -AND- major political parties: 1
+liberal party of canada -AND- major political parties: 1
+[[brinkmanship]] in the spring of 2005 -AND- events during the 38th parliament: 1
+withdrawn -AND- candidates: 2
+canadian alliance -AND- political parties: 1
+calls for electoral reform -AND- presidential election: 1
+independent -AND- candidates: 1
+philippe poutou -AND- campaign: 1
+issues -AND- general election campaign: 1
+electoral maps -AND- summary: 1
+chronology -AND- root: 1
+speeches -AND- putin's campaign: 1
+democratic party nomination -AND- nominations: 2
+oldham east and saddleworth -AND- election petitions: 1
+abstention and spoilt votes -AND- root: 1
+preliminary results -AND- presidential election: 1
+electoral vote error in new york -AND- election results: 1
+osama bin laden videotape -AND- general election campaign: 1
+chamber of deputies -AND- congress of the union: 1
+small parties public forum -AND- election campaign: 1
+liberal party -AND- political parties: 1
+international responses -AND- reactions: 1
+romney's concession -AND- results: 1
+indiana and north carolina -AND- democratic party nomination: 1
+campaign -AND- first round: 1
+independents -AND- defeated incumbents: 1
+fall of the cabinet -AND- background: 1
+voting in overseas departments and territories -AND- results: 1
+claims of electoral irregularities -AND- root: 1
+controversies -AND- election campaign: 1
+people's party -AND- candidates and coalitions: 1
+democratic party -AND- nominations: 1
+potential fall of government -AND- root: 1
+european union -AND- international influence and reaction: 1
+election results -AND- root: 1
+turnout -AND- conduct: 1
+notes on results -AND- election results: 1
+may -AND- campaign: 1
+presidential election -AND- root: 2
+convergence and union -AND- candidates and coalitions: 1
+institutional revolutionary party (pri) nomination -AND- presidential candidates: 1
+leadership -AND- issues: 1
+psoe -AND- campaigns: 1
+notable expressions, phrases, and statements -AND- campaigns: 1
+other parties -AND- contesting parties: 1
+ballot access -AND- results: 1
+candidates -AND- democratic party: 1
+regional votes -AND- first round and analysis: 1
+personal taxation -AND- economy and fiscal policy: 1
+putin's campaign -AND- campaigning: 1
+seats that changed hands -AND- root: 1
+demirtaş campaign -AND- campaigns: 1
+conservatives -AND- incumbent mps who did not run for re-election: 1
+colorado's amendment 36 -AND- new during this campaign: 1
+social democrats v. people's party -AND- opinion polls: 1
+recount -AND- results: 1
+new democrats -AND- defeated incumbents: 1
+[[alliance for the future of austria]] -AND- candidates: 1
+electoral college changes from 2000 -AND- election results: 1
+news of possible mistreatment of iraqi prisoners in 2003 -AND- background: 1
+news -AND- internet campaigns: 1
+campaign -AND- second round: 1
+conservatives -AND- defeated incumbents: 1
+second round -AND- results: 1
+election forecasts -AND- opinion polls: 1
+long gun registry -AND- crime and law enforcement: 1
+senate -AND- electoral reform and political honesty: 1
+national summary of votes -AND- root: 1
+political context -AND- root: 2
+voter statistics -AND- root: 1
+eva joly -AND- campaign: 1
+candidates -AND- party of the democratic revolution (prd) nomination: 1
+exit polls second round -AND- opinion polling: 1
+ballot -AND- root: 1
+seats changing hands -AND- results: 1
+international reactions -AND- root: 1
+opinion polling -AND- root: 4
+sinn féin -AND- nomination campaign: 1
+boundary changes -AND- background: 1
+results -AND- fourth ballot (may 10): 1
+timeline -AND- root: 4
+exit poll -AND- opinion polls: 1
+run-off -AND- root: 1
+results by province -AND- results: 1
+equalization -AND- issues: 1
+national results -AND- results: 1
+riding of vaughan -AND- controversies: 1
+price -AND- root: 1
+votes by state -AND- election results: 1
+social democrats v. freedom party v. christian party -AND- opinion polls: 1
+voting tools -AND- background: 1
+sinn féin -AND- party positions: 1
+bloc québécois -AND- defeated incumbents: 1
+republican nomination -AND- nominations: 1
+сandidates -AND- root: 1
+first round -AND- results: 1
+notable expressions and phrases -AND- general election campaign: 3
+second round ballot -AND- root: 1
+{{no more links}}=--> -AND- expense summary: 1
+first round -AND- root: 1
+comparison -AND- senate: 1
+liberals -AND- incumbent mps who did not run for re-election: 1
+balanced budget and recession -AND- economy and fiscal policy: 1
+splintered fortuynists -AND- background: 1
+campaign budgets -AND- root: 1
+natural law party nomination -AND- other nominations: 1
+new democrats -AND- incumbent mps not running for re-election: 1
+succession controversy -AND- interim period: 1
+international organizations -AND- international reactions: 1
+jean-luc mélenchon -AND- campaign: 1
+northern ireland -AND- analysis: 1
+conduct -AND- root: 7
+candidates and coalitions -AND- root: 1
+manifestos -AND- root: 1
+the union -AND- proposed candidates: 1
+results by state -AND- presidential election: 2
+corporate tax cuts and job creation strategy -AND- economy and fiscal policy: 1
+major political parties -AND- root: 1
+prior to the rescheduling of the election -AND- background: 1
+conclusions of the osce and georgian human rights ombudsman -AND- root: 1
+close states/districts -AND- results: 1
+post-election -AND- root: 3
+environment -AND- issues: 1
+ballot access -AND- campaigns: 1
+events since the 2006 election -AND- background: 1
+iowa caucus -AND- democratic party nomination: 1
+nicolas dupont-aignan -AND- campaign: 1
+requirements -AND- candidates: 1
+target seats -AND- root: 1
+[[social democratic party of austria]] -AND- candidates: 1
+party of the democratic revolution (prd) nomination -AND- presidential candidates: 1
+results by state -AND- results: 1
+simultaneous mayoral elections -AND- background: 1
+10 closest ridings -AND- vote and seat summaries: 1
+[[the greens – the green alternative]] -AND- candidates: 1
+polls -AND- root: 2
+conservative -AND- candidates: 1
+registered candidates -AND- candidates: 2
+cause of the election -AND- root: 1
+europe écologie–the greens -AND- primaries: 1
+exodus of prominent politicians -AND- background: 1
+socialist party -AND- primaries: 1
+withdrawn candidates -AND- candidates: 1
+chamber of deputies -AND- congressional election: 1
+french debate -AND- debates: 1
+russia and the cis -AND- international influence and reaction: 1
+post recount -AND- aftermath: 1
+scheduling -AND- early 2014 elections: 1
+the economy -AND- campaign issues: 1
+nominated candidates -AND- root: 1
+finance -AND- election results: 1
+second round -AND- opinion polls: 1
+national action party (pan) nomination -AND- presidential candidates: 1
+overseas voting -AND- conduct: 1
+debates -AND- root: 2
+president -AND- results: 1
+demographics -AND- analysis: 1
+crime and law enforcement -AND- issues: 1
+external links and references -AND- root: 1
+voter suppression scandal -AND- controversies: 1
+justice party -AND- other nominations: 1
+results -AND- third ballot (may 9): 1
+chancellor-candidates -AND- root: 1
+constituency results -AND- results: 1
+eligibility -AND- overview: 4
+main parties -AND- contesting parties: 1
+participating parties -AND- root: 1
+post-electoral protests and claims of fraud -AND- root: 1
+republican party nomination -AND- nominations: 1
+grand total -AND- election results: 1
+first round and analysis -AND- root: 1
+campaign issues -AND- root: 1
+party conventions -AND- nominations: 1
+voter demographics -AND- root: 2
+super tuesday -AND- democratic party nomination: 2
+first round ballot -AND- root: 1
+republican party nomination -AND- root: 1
+controversies -AND- root: 2
+maps -AND- root: 1
+nominations -AND- root: 3
+vandalism -AND- controversies: 1
+issues and campaign -AND- root: 1
+proposed candidates -AND- root: 1
+council nominations -AND- independent: 1
+post-election events -AND- root: 1
+marine le pen -AND- campaign: 1
+super tuesday -AND- republican party nomination: 1
+fermanagh and south tyrone -AND- election petitions: 1
+protests -AND- root: 1
+[[christian party of austria]] -AND- candidates: 1
+primaries -AND- democratic party: 1
+escalation of pro-russian unrest -AND- early 2014 elections: 1
+clinching the nomination -AND- democratic party nomination: 1
+candidates gallery -AND- new alliance party (pna) nomination: 1
+change of the method to popular vote -AND- interim period: 1
+internet surveillance and warrant-less wiretapping -AND- crime and law enforcement: 1
+international observers -AND- new during this campaign: 1
+candidates by party -AND- root: 2
+strategy -AND- liberal party: 1
+debates -AND- general election campaign: 2
+de stemming 2006 -AND- background: 1
+internal elections -AND- background: 1
+republican party -AND- nominations: 1
+internet campaigns -AND- root: 1
+unsuccessful candidacies -AND- candidates: 2
+turkish-dutch candidates and the armenian genocide -AND- background: 1
+hst referendum in bc -AND- economy and fiscal policy: 1
+official candidates -AND- root: 1
+aftermath -AND- root: 4
+labour party -AND- nomination campaign: 1
+nikolay kharitonov -AND- candidates: 1
+notable endorsements -AND- republican party nomination: 1
+events during the 38th parliament -AND- root: 1
+summary -AND- chamber of deputies: 1
+turnout -AND- results: 1
+conservatives -AND- incumbent mps not running for re-election: 1
+endorsements -AND- root: 4
+candidates -AND- root: 17
+sergey mironov -AND- candidates: 1
+rtl 4 debate -AND- public debates: 1
+before first round of vote -AND- opinion polling: 1
+comparison -AND- chamber of deputies: 1
+preliminary electoral results program -AND- preliminary results: 1
+background -AND- general election: 1
+electoral system -AND- overview: 4
+state changes to voter registration and electoral rules -AND- root: 1
+exit polls -AND- results: 1
+social-economic issues -AND- campaign: 1
+{{no more links}} -AND- root: 1
+footnotes -AND- root: 2
+did not get enough endorsements -AND- candidates: 1
+new democratic party -AND- political parties: 1
+new democrats -AND- incumbent mps who did not run for re-election: 1
+constitution party -AND- other nominations: 1
+seat by seat results -AND- vote and seat summaries: 1
+exit polls first round -AND- opinion polling: 1
+withdrawn nominations -AND- results: 1
+results by province -AND- root: 2
+greens -AND- defeated incumbents: 1
+party positions -AND- root: 1
+iu -AND- campaigns: 1
+democratic party nomination -AND- root: 1
+strategic voting -AND- vote and seat summaries: 1
+the environment -AND- campaign: 1
+conservative party of canada -AND- major political parties: 1
+schedule for the election -AND- root: 1
+irina khakamada -AND- candidates: 1
+summary of results -AND- root: 1
+platforms -AND- root: 1
+contesting parties -AND- root: 1
+reallocation of seats -AND- root: 1
+results by region -AND- root: 4
+democratic national convention -AND- democratic party nomination: 1
+arts -AND- issues: 1
+candidate selection -AND- official candidates: 1
+demographic breakdown of the first-round vote -AND- first round and analysis: 1
+the general election -AND- interim period: 1
+social democrats v. freedom party -AND- opinion polls: 1
+format change -AND- leaders' debates: 1
+candidates gallery -AND- other nominations: 1
+voting machines -AND- aftermath: 1
+constitutional issues -AND- controversies: 1
+presidential debates -AND- general election campaign: 1
+international influence and reaction -AND- root: 1
+general election -AND- root: 1
+voting machine controversy -AND- voting issues: 1
+congressional election -AND- root: 1
+pre-candidates gallery -AND- national action party (pan) nomination: 1
+expense summary -AND- campaign costs: 1
+green party -AND- other nominations: 1
+gender breakdown of candidates -AND- candidates: 1
+libertarian party -AND- other nominations: 1
+mps declining re-election -AND- background: 1
+faithless elector in minnesota -AND- election results: 1
+televised debates -AND- campaign: 1
+maine and nebraska district results -AND- votes by state: 2
+congress of the union -AND- root: 1
+nationalist movement party (mhp) -AND- candidate selection: 1
+accusations of stephen harper trying to form a coalition government -AND- root: 1
+all parties -AND- opinion polls: 1
+media -AND- conduct: 1
+immigration and integration -AND- campaign: 1
+summary -AND- presidential election: 1
+2004 united states electoral college -AND- election results: 1
+electoral maps -AND- results: 1
+voter suppression -AND- controversies: 1
+new democratic party -AND- major political parties: 1
+cities and infrastructure -AND- issues: 1
+post election events -AND- root: 1
+independent -AND- nomination campaign: 1
+officially proposed policies -AND- root: 1
+vladimir putin -AND- candidates: 1
+it electoral monitoring framework "elections 2014" -AND- electoral system: 1
+immigration fairness commissioner -AND- promised government programs: 1
+presidential candidates -AND- presidential election: 1
+seat by seat results -AND- root: 1
+vote -AND- root: 2
+controversies -AND- post-election: 1
+debates -AND- election campaign: 1
+experiments -AND- voting issues: 1
+nos debates -AND- public debates: 1
+vote and seat summaries -AND- root: 4
+international support -AND- position of third parties: 1
+aftermath of the first gomery report -AND- events during the 38th parliament: 1
+quick count -AND- preliminary results: 1
+official candidates -AND- candidates: 2
+early primaries/caucuses -AND- republican party nomination: 1
+first election attempt april–may 2007 -AND- root: 1
+crime strategies -AND- crime and law enforcement: 1
+exit polls -AND- second round ballot: 1
+opposition party leadership changes -AND- post-election: 1
+analysis -AND- election results: 1
+bloc québécois -AND- incumbent mps not running for re-election: 1
+target ridings -AND- root: 1
+improved internet and usage based billing -AND- government regulations: 1
+electoral reform -AND- root: 1
+background -AND- root: 20
+parties -AND- root: 1
+votes by state -AND- results: 2
+primaries -AND- republican party: 1
+change vs. experience -AND- issues: 1
+english debate -AND- debates: 1
+polling -AND- root: 1
+voter turnout -AND- vote and seat summaries: 1
+reaction -AND- results: 1
+national results -AND- root: 1
+electoral system -AND- root: 2
+summary -AND- root: 3
+debates -AND- leaders' debates: 1
+nathalie arthaud -AND- campaign: 1
+libertarian party nomination -AND- other nominations: 1
+issues -AND- root: 4
+green party of canada -AND- major political parties: 1
+election campaign -AND- root: 3
+inauguration -AND- protests: 1
+other nominations -AND- root: 1
+non-candidates -AND- сandidates: 1
+policy positions of minor political parties -AND- root: 1
+first round -AND- opinion polls: 2
+electoral reform and political honesty -AND- issues: 1
+candidates -AND- democratic party nomination: 1
+bloc québécois -AND- political parties: 1
+candidates -AND- republican party nomination: 1
+timetable -AND- root: 1
+overview of results -AND- post-election: 2
+procedure -AND- root: 6
+financing and advertising -AND- campaigns: 1
+bloquistes -AND- incumbent mps who did not run for re-election: 1
+vacancies upon dissolution -AND- seats that changed hands: 1
+primaries -AND- root: 1
+first ballot (may 8) -AND- ballots: 1
+mps who lost their seats -AND- analysis: 1
+senate -AND- congressional election: 1
+controversies and gaffes -AND- election campaign: 1
+leaks -AND- results: 1
+10 closest ridings -AND- results by province: 1
+progressive conservative party -AND- political parties: 1
+ohio, texas, and pennsylvania -AND- democratic party nomination: 1
+campaign -AND- root: 13
+date -AND- root: 1
+political parties -AND- general election: 1
+position of third parties -AND- root: 1
+candidates gallery -AND- institutional revolutionary party (pri) nomination: 1
+after deadline -AND- withdrawn candidates: 1
+public opinion -AND- summary: 1
+riots -AND- root: 1
+constitution party nomination -AND- other nominations: 1
+domestic reactions -AND- aftermath: 1
+voting issues -AND- root: 1
+dismissed candidates -AND- сandidates: 1
+electronic voting -AND- new during this campaign: 1
+donations -AND- controversies: 1
+erdoğan campaign -AND- campaigns: 1
+ihsanoğlu campaign -AND- campaigns: 1
+economy -AND- issues: 2
+before the primaries -AND- republican party nomination: 1
+second ballot (may 9) -AND- ballots: 1
+spanish socialist workers' party -AND- candidates and coalitions: 1
+list of parties by presidential candidates -AND- official candidates: 1
+overall results -AND- results: 2
+misuse of public funds -AND- controversies: 1
+general election campaign -AND- root: 3
+liberals -AND- incumbent mps not running for re-election: 1
+republican people's party (chp) -AND- candidate selection: 1
+new during this campaign -AND- root: 1
+radio debate -AND- public debates: 1
+government formation -AND- root: 3
+overseas results -AND- results: 1
+fundraising -AND- internet campaigns: 1
+overprinting of ballot papers -AND- controversies: 1
+senate -AND- congress of the union: 1
+public debates -AND- root: 1
+points of controversy -AND- election controversy: 1
+republic protests -AND- candidates: 1
+minor parties in congress -AND- candidates and coalitions: 1
+candidates gallery -AND- republican nomination: 1
+bibliography -AND- root: 1
+incumbent mps who did not run for re-election -AND- root: 1
+results -AND- first ballot (may 8): 1
+battleground states -AND- root: 1
+defence policy -AND- issues: 1
+legal issues and freedom of speech -AND- root: 1
+assets, liabilities and annual expenses -AND- presidential election: 1
+chamber of deputies -AND- results: 1
+fraud suspicions and accusations -AND- issues: 1
+second election attempt august 2007 -AND- root: 1
+excluded candidates -AND- nominated candidates: 1
+campaigns -AND- root: 4
+economy and fiscal policy -AND- issues: 1
+legality of the election -AND- controversies: 1
+nomination campaign -AND- root: 1
+prokhorov's campaign -AND- campaigning: 1
+newfoundland hydroelectric project and quebec's hst -AND- promised government programs: 1
+electors -AND- second election attempt august 2007: 1
+results -AND- root: 48
+candidates -AND- second election attempt august 2007: 1
+early 2014 elections -AND- background: 1
+results -AND- second ballot (may 9): 1
+candidates -AND- second round: 1
+fine gael -AND- party positions: 1
+fianna fáil -AND- nomination campaign: 1
+fianna fáil -AND- nomination campaign: 1
+green party -AND- party positions: 1
+basque nationalist party -AND- candidates and coalitions: 1
+debates -AND- campaigns: 1
+before the primaries -AND- democratic party nomination: 2
+exit polling and declaration of vote winners -AND- aftermath: 1
+allegations of media bias and ''yo soy 132'' student protests -AND- root: 1
+post-secondary education -AND- promised government programs: 1
+polls -AND- presidential election: 1
+april -AND- campaign: 1
+reactions -AND- root: 6
+republican left of catalonia -AND- candidates and coalitions: 1
+ndp -AND- candidates: 1
+presidential debates -AND- presidential election: 1
+election controversy -AND- root: 1
+voting on april 27 and may 6 -AND- first election attempt april–may 2007: 1
+senate -AND- results: 5
+votes by electoral college -AND- results: 1
+oireachtas nominations -AND- independent: 1
+green party -AND- political parties: 1
+united left -AND- candidates and coalitions: 1
+reform party nomination -AND- other nominations: 1
+e-memorandum -AND- candidates: 1
+controversy -AND- root: 1
+candidates gallery -AND- democratic party nomination: 2
+florida recount -AND- results: 1
+incumbent mps not running for re-election -AND- seats that changed hands: 1
+mironov's campaign -AND- campaigning: 1
+promotion -AND- internet campaigns: 1
+pp -AND- campaigns: 1
+fourth ballot (may 10) -AND- ballots: 1
+international media coverage -AND- root: 1
+bigotgate -AND- april: 1
+increasing canada pension plan -AND- economy and fiscal policy: 1
+open survey -AND- opinion polls: 1
+liberals -AND- defeated incumbents: 1
+alleged cadman bribe attempt -AND- issues: 1
+missing ballot boxes -AND- vote and seat summaries: 1
+fianna fáil -AND- party positions: 1
+house of freedoms -AND- proposed candidates: 1
+zhirinovsky's campaign -AND- campaigning: 1
+florida and michigan -AND- democratic party nomination: 1
+defeated incumbents -AND- seats that changed hands: 1
+second round -AND- root: 2
+nos jeugdjournaal debate -AND- public debates: 1
+canadian involvement in afghanistan -AND- issues: 1
+justice and development party (akp) -AND- candidate selection: 1
+2006 election -AND- background: 1
+voter data irregularities -AND- controversies: 1
+state results -AND- results: 1
+costs -AND- root: 1
+liberal -AND- candidates: 1
+race -AND- issues: 1
+endorsements -AND- second round: 1
+ballot access -AND- election results: 1
+peoples' democratic party (hdp) -AND- candidate selection: 1
+re-run -AND- root: 1
+congress of deputies -AND- results: 4
+analysis -AND- root: 5
+government regulations -AND- issues: 1
+sources -AND- root: 3
+mps who lost their seats -AND- results: 2
+fine gael -AND- nomination campaign: 1
+campaigning irregularities -AND- controversies: 1
+promised government programs -AND- issues: 1
+official count -AND- presidential election: 1
+rejected candidates -AND- candidates: 2
+general -AND- issues: 1
+election petitions -AND- results: 1
+parliamentary nomination process -AND- official candidates: 1
+leaders' debates -AND- election campaign: 2
+party conventions -AND- campaigns: 1
+candidates gallery -AND- republican party nomination: 1
+leading candidates -AND- candidates: 1
+united states -AND- international influence and reaction: 1
+request to invalidate election -AND- results: 1
+zyuganov's campaign -AND- campaigning: 1
+judicial recounts -AND- vote and seat summaries: 1
+association of state green parties nomination -AND- other nominations: 1
+countries -AND- international reactions: 1
+pre-election -AND- root: 1
+more consequences -AND- aftermath: 1
+result -AND- root: 2
+issues -AND- election campaign: 1
+electoral college changes -AND- root: 1
+political financing -AND- electoral reform and political honesty: 1
+gallery -AND- root: 1
+results by state -AND- root: 1
+new party leaders -AND- post election events: 1
+close races -AND- results: 1
+green -AND- candidates: 1
+voting problems -AND- root: 1
+formation of government -AND- post election events: 1
+before the second round of vote -AND- opinion polling: 1
+investiture voting -AND- post-election: 1
+pre-election agreements -AND- root: 1
+electoral campaign -AND- root: 1
+eenvandaag debate -AND- public debates: 1
+oleg malyshkin -AND- candidates: 1
+overview -AND- root: 6
+candidates gallery -AND- candidates: 1
+media bias -AND- controversies: 2
+table of results -AND- root: 1
+election day -AND- controversies: 1
+seat allocation -AND- root: 1
+confirmed non-candidates -AND- candidates: 1
+sergey glazyev -AND- candidates: 1
+summary -AND- senate: 1
+labour party -AND- party positions: 1
+ballot access -AND- conduct: 1
+end of the term -AND- post election events: 1
+campaign costs -AND- general election campaign: 1
+jacques cheminade -AND- campaign: 1
+registered candidates -AND- сandidates: 1
+investiture voting -AND- root: 3
+before deadline -AND- withdrawn candidates: 1
+spending limits -AND- root: 1
+nicolas sarkozy -AND- campaign: 1
+third ballot (may 9) -AND- ballots: 1
+other pre-candidates -AND- candidates gallery: 1
+targeted cabinet ministers -AND- target seats: 1
+participation -AND- leaders' debates: 1
+cabinet formation -AND- root: 1
+early primaries/caucuses -AND- democratic party nomination: 1
+poll results -AND- root: 1
+campaign slogans -AND- root: 4
+results by province -AND- vote and seat summaries: 3
+french personalities -AND- position of third parties: 1
+general comments -AND- conduct: 1
+listeriosis outbreak -AND- issues: 1
+political parties -AND- root: 1
+trivia -AND- root: 1
+new alliance party (pna) nomination -AND- presidential candidates: 1
+campaign issues -AND- general election campaign: 1
+notable results -AND- analysis: 1
+[[freedom party of austria]] -AND- candidates: 1
+independents -AND- incumbent mps who did not run for re-election: 1
+[[austrian people's party]] -AND- candidates: 1
+urban votes -AND- first round and analysis: 1
+candidates -AND- controversies: 1
+candidates -AND- first election attempt april–may 2007: 1
+electoral issues -AND- root: 1
+françois hollande -AND- campaign: 1
+candidates and campaign -AND- root: 1
+other nominations -AND- nominations: 3
+post-election controversy -AND- presidential election: 1
+rejected -AND- candidates: 1
+results by electoral district -AND- vote and seat summaries: 1
+interim period -AND- root: 1
+power question -AND- campaign: 1
+electronic voting -AND- root: 1

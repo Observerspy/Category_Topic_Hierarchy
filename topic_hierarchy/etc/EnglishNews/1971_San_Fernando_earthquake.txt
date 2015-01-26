@@ -1,0 +1,289 @@
+{{Use mdy dates|date=February 2012}}
+{{Earthquake
+|title = 1971 San Fernando earthquake
+|image = USGS - 1971 San Fernando earthquake - San Gabriel Mountains - Veterans Hospital.jpg
+|imagecaption = The San Gabriel Mountains with the Veterans Hospital complex in center
+|date = {{start date|1971|02|09}}
+|origintime = 14:00:41 UTC
+|map2 = {{Location map+ |USA California |relief=1
+| places =
+{{Location map~|California|lat=34.05|long=-118.25|label=Los Angeles|position=right|mark=Green pog.svg}}
+{{Location map~|California|lat=34.42|long=-118.37|mark=Bullseye1.png|marksize=40}}
+|label =
+|position = top
+|width = 250
+|float = right
+|caption = }}
+|duration = 12 seconds 
+|magnitude = 6.6 Richter magnitude scale|M<sub>L</sub> 
+|depth = {{convert|13|km|mi|abbr=on}} 
+|location = {{nowrap|{{Coord|34.41|N|118.40|W|region:US|display=inline,title}} }}
+|type = Thrust fault|Thrust
+|countries affected = Southern California <br> United States
+|damage = $553 million 
+|intensity = XI (''Extreme'') 
+|PGA = 1.25''g'' at Pacoima Dam 
+|landslide = Yes
+|casualties = 64 killed 
+}}
+
+The '''1971 San Fernando earthquake''' (also known as the '''Sylmar earthquake''') occurred in the early morning of February 9 in the foothills of the San Gabriel Mountains at the northern edge of the San Fernando Valley in southern California. The unanticipated thrust earthquake measured 6.6 on the Richter magnitude scale and had a maximum perceived intensity of XI (''Extreme'') on the Mercalli intensity scale|Modified Mercalli intensity scale. Damage was locally severe in the northern San Fernando Valley, and other effects were strongest to the south of the epicenter where the earthquake produced extensive surface faulting in the mountains as well as urban settings along city streets and neighborhoods, where uplift and other effects affected private homes and businesses. The San Fernando earthquake was one in a series of thrust earthquakes that affected the Los Angeles area and a study of the Sierra Madre Fault indicated more substantial thrust earthquakes had previously occurred in the San Gabriel Mountains region.
+
+The event impacted a number of health care facilities in Sylmar, Los Angeles|Sylmar, San Fernando, California|San Fernando, and other densely populated areas north of Los Angeles. The Olive View – UCLA Medical Center|Olive View Medical Center and Veterans Hospital both experienced very heavy damage and buildings collapsed at both sites, causing the majority of deaths that occurred. The buildings at both facilities were put together with mixed construction styles, but engineers were unable to thoroughly study the buildings' responses because they were not outfitted with instruments for recording strong ground motion, and this prompted the United States Department of Veterans Affairs|Veterans Administration to install seismometer<nowiki/>s at all of its high-risk sites. Other sites throughout the Los Angeles area had been instrumented as a result of local ordinances and an extraordinary amount of strong motion data was recorded, more so than any other event up until that time, and the success in this area spurred the initiation of California's Strong Motion Instrumentation Program.
+
+Transportation around the Los Angeles area was severely afflicted with roadway failures and the collapse of several major freeway interchanges. The near total failure of the Van Norman Dam resulted in the evacuation of tens of thousands of downstream residents, though an earlier decision to maintain the water at a lower level may have contributed to saving the dam from being overtopped. Schools were strongly affected, as they had been during a previous earthquake in Long Beach, California|Long Beach, but this time amended construction styles greatly improved the outcome for the thousands of school buildings in the Los Angeles area. Other aspects of the event included a methane seep that emanated from the floor of the Pacific Ocean near Malibu, California|Malibu for several days following the earthquake, and hundreds of various types of landslides that were photographically documented and visually surveyed in the San Gabriel mountains. As had happened following other earthquakes in California, legislation related to building codes were once again revised, with laws that specifically addressed the construction of homes or businesses near known active fault zones.
+
+== Earthquake ==
+File:February 1971 San Fernando earthquake intensity USGS.jpg|thumb|USGS ShakeMap of the San Fernando earthquake mainshock
+{{see also|California earthquake forecast|List of earthquakes in California}}
+
+The magnitude 6.6 San Fernando earthquake occurred on February 9 at 6:00:41&nbsp;am Pacific time zone|Pacific Standard Time (14:00:41 Coordinated universal time|UTC) and had a duration of about 12 seconds. The origin of faulting was located five miles north of the San Fernando Valley and considerable damage was seen in localized portions of the valley and also in the foothills of the San Gabriel mountains above the fault block. The fault that was responsible for the movement was not one that had been considered a threat, and this highlighted the urgency to identify other similar faults in the Los Angeles metropolitan area. The shaking surpassed building code requirements and exceeded what engineers had prepared for and although most dwellings in the valley were built in the prior two decades, even modern earthquake resistant structures sustained serious damage.
+
+Several key attributes of the event were shared with the 1994 Northridge earthquake considering both were brought about by slip of steeply dipping thrust faults in the mountains north of Los Angeles (though no ground rupture occurred in 1994) and the resulting earthquakes were similar in magnitude. Since both occurred in urban and industrial areas and resulted in significant economic impairment, each event has drawn critical observation from planning authorities and has been thoroughly studied in the scientific communities.
+
+=== Surface faulting ===
+{{details|Fault (geology)}}
+
+Prominent surface faulting trending N.72°W was observed along the San Fernando Fault Zone from a point south of Sylmar stretching nearly continuously for {{convert|10|km|sp=us}} east to the Little Tujunga Canyon. Additional breaks occurred farther to the east, but were in a more scattered fashion, while the western portion of the most affected area saw scarps (especially the detached Mission Wells segment) that were less pronounced. Although the complete Sierra Madre Fault Zone had previously been mapped and classified by name into its constituent faults, the clusters of fault breaks provided a natural way to identify and refer to the areas. As categorized during the intensive studies immediately following the earthquake, the sections were labeled the Mission Wells segment, Sylmar segment, Tujunga segment, Foothills area, and the Veterans fault.
+
+{{multiple image
+ | align = left
+ | image1 = USGS - 1971 San Fernando earthquake - Scarp at Foothill Nursing Home - Street level view.jpg
+ | caption1 = Uplift of street in front of the Foothill Nursing Home
+ | image2 = USGS - 1971 San Fernando earthquake - Scarp at Foothill Nursing Home - Overhead view.jpg
+ | caption2 = Overhead view of the scarp at the Foothill Nursing Home
+ }}
+
+All of the segments shared the common elements of thrust faulting with a component of left-lateral slip, a general east-west strike and a northward dip, but they were not unified with regard to their connection to the associated underlying bedrock. The initial surveyors of the extensive faulting in the valley, foothills, and mountains reported only tectonic faulting while excluding fissures and other features that arose from the effects of compaction and landsliding. In the vicinity of the Sylmar fault segment there was a low possibility of landslides due to a lack of elevation change, but in the foothills and mountainous area a large amount of landsliding occurred and more work was necessary to eliminate the possibility of misidentifying a feature. Along the hill fronts of the Tujunga segment some ambiguous formations were present because some scarps may have had influence from downhill motion, but for the most part they were tectonic in nature.
+
+In repeated measurements of the different fault breaks at locations following the earthquake, the results remained consistent, leading to the belief that most of the slip had occurred during the mainshock. While lateral, transverse, and vertical motions were all observed after the earthquake, the largest individual component of movement was {{convert|1.6|m|abbr=on}} of left lateral slip near the middle of the Sylmar segment. The largest cumulative amount of slip of {{convert|2|m|sp=us}} occurred along the Sylmar and Tujunga segments, and the overall fault displacement was summarized by geologist Barclay Kamb and others as "nearly equal amounts of north-south compression, vertical uplift (north side up), and left lateral slip and hence may be described as a thrusting of a northern block to the southwest over a southern block, along a fault surface dipping about 45° north."{{clr}}
+
+=== Aftershocks ===
+{| style="float: right;" border="3" 
+|-
+| colspan="3" style="text-align: center;" | Aftershocks
+|-
+! Mag !! Date (UTC) !! Mercalli intensity scale|MMI
+|-
+| 5.8 M<sub>L</sub>
+| Feb 9 at 14:01
+| 
+|-
+| 4.5 M<sub>L</sub>
+| Feb 9 at 14:01
+| 
+|-
+| 4.7 M<sub>L</sub>
+| Feb 9 at 14:02
+| 
+|-
+| 5.8 M<sub>L</sub>
+| Feb 9 at 14:02
+| 
+|-
+| 4.5 M<sub>L</sub>
+| Feb 9 at 14:07
+| 
+|-
+| 4.5 M<sub>L</sub>
+| Feb 9 at 14:08
+| 
+|-
+| 4.6 M<sub>L</sub>
+| Feb 9 at 14:08
+| 
+|-
+| 4.7 M<sub>L</sub>
+| Feb 9 at 14:10
+| 
+|-
+| 5.3 M<sub>L</sub>
+| Feb 9 at 14:10
+| V
+|-
+| 4.9 M<sub>L</sub>
+| Feb 9 at 14:34
+| 
+|-
+| 5.2 M<sub>L</sub>
+| Feb 9 at 14:43
+| Felt
+|-
+| 4.8 M<sub>L</sub>
+| Feb 9 at 15:58
+| IV
+|-
+| 4.5 M<sub>L</sub>
+| Feb 10 at 05:18
+| Felt
+|-
+| 4.7 M<sub>L</sub>
+| Feb 21 at 05:50
+| IV
+|-
+| 4.5 M<sub>L</sub>
+| Feb 21 at 07:15
+| IV
+|-
+| 4.5 M<sub>L</sub>
+| March 7 at 01:33
+| IV
+|-
+| 4.7 M<sub>L</sub>
+| March 31 at 14:52
+| VII
+|-	
+| colspan="3" style="text-align: center;" | <small>Stover & Coffman 1993, pp.&nbsp;92, 157, 158</small>
+|}
+
+A three week inspection of the aftershock activity was undertaken that included events that were recorded by an array of permanent stations that were operated by the California Institute of Technology, a USGS instrument stationed at Point Mugu, California|Point Mugu, and California Department of Water Resources seismometers at Pyramid Springs and Cedar Springs. Temporary seismometers that were set up in response to the mainshock were up and running from as soon as several hours to several days after the main event and provided additional data until March&nbsp;1. The catalog of items that were recorded included 200 shocks of magnitude 3.0 or greater and four shocks of magnitude 5.0 or greater and was mostly complete, with the exception of the first hour of activity, when the larger aftershocks were overshadowing the smaller events.
+
+The overall pattern of aftershock activity appeared in the shape of a symmetrical inverted "U" but with slightly more concentrated activity on the southwest flank. Several of the smaller shocks approached the area of surface faulting, but for the most part, the area that experienced the heaviest shaking and damage (as a result of the mainshock) lacked aftershock activity. The Pacoima Dam, with its unusually high peak ground acceleration reading, laid very close to the center of that aftershock-free zone.
+
+=== Landslides ===
+{{see also|Landslide classification}}
+
+Analysis of Aerial photography|aerial photographs taken for the USGS by a private company and the United States Air Force over 250 square kilometers of the mountainous areas north of the San Fernando Valley revealed that the earthquake triggered over 1,000 landslides. Also documented was the occurrence of highly shattered rock along the ridge tops, and rockfalls that were the result of both the initial shock and the aftershocks, which continued for several days, but few of the slides that were logged from the air were also observed from the ground. The greatest number of slides were centered to the southwest of the mainshock epicenter and close to the areas where surface faulting took place. The extent of the slides ranged from {{convert|15|-|300|m|sp=us}} in length, and could be further categorized as rock falls, soil falls, debris slides, avalanches, and slumps. The most frequently-encountered type of slide was the surficial (less than one meter thick) debris slides and were most often encountered on terrain consisting of sedimentary rock.
+
+=== Ground acceleration ===
+In early 1971 the San Fernando Valley was the scene of a congested network of strong-motion seismometers, which provided a total of 241 seismograms (by comparison, the 1964 Alaska earthquake did not provide any strong motion records) and this made the earthquake the most documented event (at the time) in terms of strong-motion seismology. Part of the reason there had been so many stations that recorded the event was due to a 1965 Local ordinance|ordinance that was passed that required newly constructed buildings in Beverly Hills and Los Angeles over six stories in height to be outfitted with three of the instruments. This stipulation ultimately found its way into the Uniform Building Code as an appendix several years later. One hundred and seventy five of the recordings came from these buildings, another 30 were on hydraulic structures, and  the remainder were from ground-based installations near faults, including an array of the units across the San Andreas Fault.
+
+The instrument that was installed at the Pacoima Dam recorded a Peak ground acceleration|peak acceleration of 1.25''g''. That value was twice as large as any previously seen from an earthquake, though the extraordinarily high acceleration was just part one part of the picture, considering that duration and frequency of shaking also play a role in how much damage can occur. The accelerometer at that location was firmly mounted on a concrete platform on a granite ridge just above one of the arch dam's abutments. Cracks formed in the rocks and a rock slide came within 15 feet of the apparatus, and the foundation remained undamaged, but a small (half-degree) tilt of the unit was discovered that was apparently responsible for closing the horizontal pendulum contacts.  As a result of what was considered a fortunate accident, the machine kept recording for six minutes (until the unit's paper ran out) and the scientists were left with additional data on 30 of the initial aftershocks.
+
+== Natural gas emission ==
+{{see also|Petroleum seep|Sedimentary organic matter}}
+
+At eight o'clock on the morning of February 9 eyewitnesses noticed abundant natural gas escaping the ocean surface near Malibu Point, which is situated about {{convert|50|km|abbr=on}} to the southwest from the earthquake's epicenter, and where some homes suffered minor structural damage. The gas had probably been escaping since the time of the mainshock, but had not been noticed because fog had reduced the visibility close to the coast. The seep originated on the ocean floor under {{convert|6|-|8|m|abbr=on}} of water about {{convert|500|m|abbr=on}} from the mouth of Malibu Creek. The location was within the Malibu Coast deformation zone that is underlain by a number of north-dipping faults. Samples of the gas were obtained by teams from the United States Geological Survey and Los Angeles County from near the sea floor, where the stratum consists of marine shale, mudstone, siltstone, and sandstone.
+
+The bubbles rose from an area on the sea floor that contained profuse organic material and were found to contain mostly methane, with smaller portions of nitrogen, carbon dioxide, oxygen, and argon. The bubbles escaped the ocean's surface over an area that covered {{convert|120|m|abbr=on}} by {{convert|12|m|abbr=on}} at a rate of one to five per second on February 11, but two days earlier they were emanating at a higher rate, and this is also when an additional zone of bubbles was seen closer to the shore. The gas was coming from small holes and craters on the sea floor that were several millimeters to as large as {{convert|40|cm|sp=us}} in diameter. The craters contained abundant grass and other organic debris, and the greatest concentration of gas appeared to be coming from the areas with the most organic material and from the larger craters, which were arranged in groups that were several centimeters to several meters apart and were somewhat aligned with the N.78°E orientation of the emanation at the surface.
+
+No ruptures were seen on the sea floor during the exploration dives, and because the cohesive nature of the sediment inhibited its movement on the sea floor, any scarps or fissures that were generated at the time of the earthquake would still have been present since the earthquake had occurred two days prior. It was determined that the composition of the gas had characteristics of marsh gas and had been released after having been formed in the decaying material in the sediment or having been trapped in the bedrock, but neither proposal could be eliminated at the time of the analysis.
+
+== Previous seismicity ==
+File:USGS - Sierra Madre Fault Zone.gif|thumb|The Sierra Madre Fault Zone highlighted in red
+{{see also|Paleoseismology}}
+
+The San Fernando earthquake was the first in a series (1987 Whittier Narrows earthquake|1987 Whittier Narrows, 1991 Sierra Madre) of damaging earthquakes on reverse faults in the Los Angeles area that culminated with the 1994 Northridge event. The events triggered discussions concerning the largest magnitude earthquake that could be generated by one of the faults, especially in the Transverse Ranges, but the focal point of earthquake hazard assessments in California are often the San Andreas Fault and other associated Sinistral and dextral|dextral faults. Although there is a lack of paleoseismic data on reverse faults in the Los Angeles area, a trench excavation at a site on the Sierra Madre-Cucamonga fault revealed that two large historic earthquakes occurred in the last 15,000 years.
+
+Situated at the boundary to the San Gabriel Valley and San Fernando Valley, the Sierra Madre-Cucamonga fault runs along the southern edge of the San Gabriel Mountains for a total of {{convert|95|km|sp=us}} where the northwesternmost {{convert|19|km|abbr=on}} comprises the San Fernando fault (the section responsible for the February 9 earthquake). A 1980s fault study including mappings and a trench excavation determined that a major earthquake had most likely not occurred to the east of the San Fernando rupture area for at least the last several thousand, and possibly the last 11,000 years.
+
+File:Wpdms shdrlfi020l santa susana mountains.jpg|thumb|left|The central Transverse Ranges
+
+The fault was studied again in the late 1990s in the Loma Alta Park near Millard Canyon where a fault scarp larger than {{convert|2|m|abbr=on}} was accessible along a (late quaternary) elevated stream terrace. The clearly defined fault was exposed in the trench and emerged as a {{convert|.5|m|abbr=on}} band of course gravels lining the Fault_(geology)#Dip-slip_faults|hanging wall. By studying the truncated rocks and a wedge-shaped accumulation of gravel and soil, it was possible to visually reconstruct the original geometry of the rock prior to the thrust and eventual and partial collapse of the hanging wall back onto the footwall, and an estimate for the maximum slip of the event was {{convert|3.8|-|4|m|sp=us}}.
+
+The evidence found at the Loma Alta trench investigation site brought new information into the deliberation regarding the maximum size of earthquakes near Los Angeles. The large amount of slip observed there did not correspond with a short {{convert|15|-|20|km|abbr=on}} rupture length of the Sierra Madre Fault Zone, and instead suggested that the historical thrust earthquakes were much larger in magnitude than what was seen with the 1971 event, given its smaller {{convert|2|m|sp=us}} of maximum observed displacement. Two methods were employed to infer the scope of the events at the site (one regression-based and the other based on the seismic moment) and produced a maximum magnitude of 7.5 or 7.6 for the most recent movement of the fault. The results supported an earlier hypothesis that seismic energy release on the Sierra Madre Fault Zone is characterized by infrequent but large earthquakes. A duplicate event in modern times would rupture to the south towards populated areas and would produce strong ground motion capable of damaging modern buildings and other critical infrastructure.{{clr}}
+
+== Damage ==
+{{see also|Convento Building (Mission San Fernando)|Mission San Fernando Rey de Espa?a}}
+
+The areas that were affected by the strongest shaking were the outlying communities north of Los Angeles bounded by the northern edge of the San Fernando Valley at the base of the San Gabriel Mountains, with the exception of the unincorporated districts of Newhall, Santa Clarita, California|Newhall, Saugus, Santa Clarita, California|Saugus, and Solemint Junction, where moderate damage was also present, even to newer buildings. The area where the heaviest effects were present was limited by geographical features on the three remaining margins, with the Santa Susana Mountains on the west, the Santa Monica Mountains and the Los Angeles River to the south, and along the Verdugo Mountains to the east. Loss of life that was directly attributable to the earthquake amounted to 58, but a number of heart attack and other health-related deaths were not included in this figure. Most deaths occurred at the Veterans and Olive View hospital complexes, and the rest were spread between private residences, the highway overpass collapses, and a ceiling collapse at the Midnight Mission in downtown Los Angeles.
+
+File:USGS - 1971 San Fernando earthquake - Olive View Hospital - Partially detached stairway.jpg|thumb|Partially detached stairway and severely damaged building at Olive View
+
+The damage was greatest both near and well north of the surface faulting as well as at the foot of the mountains. The hospital buildings, the freeway overpasses, and the Sylmar Juvenile Hall facility were situated on coarse alluvium that overlaid thousands of feet of loosely consolidated sedimentary material. Underground water, sewer, and gas systems did not fare well in the city of San Fernando where the breaks were too numerous to count and some sections were so badly damaged that they were abandoned. Ground displacement damaged sidewalks and roadways with cracks in the more rigid asphalt and concrete often exceeding the width of the shift in the underlying soil. Accentuated damage near alluvium had been documented previously during the investigation of the effects of the 1969 Santa Rosa earthquakes. A band of similarly intense damage further away near Ventura Boulevard at the southern end of the valley was also identified as having been related to soil type.
+
+A number of federal, county, and private hospitals suffered varying degrees of damage, with four major facilities in the San Fernando Valley experiencing structural damage and two of those experiencing collapse. The Indian Hills Medical Center, Foothill Medical Building, and the Pacoima Lutheran Professional building were all heavily damaged, but nursing homes were also affected. One facility in particular, the one-story Foothill Nursing Home, sat very close to a section of the fault that broke the surface and was raised up three feet relative to the street where surface faulting ran along the sidewalk and across the property, but the building was not in use at the time and remained standing. Though the reinforced Concrete masonry unit|concrete block structure was afflicted by the shock and uplift, the relatively good performance was in stark contrast to the Olive View and Veterans Hospital complexes.
+
+=== Olive View Hospital ===
+{{main|Olive View – UCLA Medical Center}}
+
+The majority of the buildings at the Los Angeles County, California|Los Angeles County-owned, 880-bed hospital complex had been built prior to the adoption of new construction techniques that had been put in place following the 1933 Long Beach earthquake. Some of the buildings at the large facility escaped damage, like the set of one-story structures 300 feet west of the new facility, but those that did have damage consisted of either wood frame or masonry structures. The five-story reinforced concrete Medical Treatment and Care Building was one of three new additions to the complex (all three sustained damage) and was assembled with Earthquake resistant structures|earthquake-resistant construction techniques and was completed in 1970. The hospital was staffed with 98 employees and had 606 patients at the time of the earthquake and all three of the deaths that occurred at the Olive View complex were in this building. Two were due to power failure of life support systems and one, an employee who was struck by a portion of the collapsing building as they attempted to exit the building, was a direct result of the destruction.
+
+File:USGS - 1971 San Fernando earthquake - Olive View Hospital - Detached stairways alternate.jpg|thumb|left|Fallen stair towers and damaged basement level at the Olive View Hospital
+
+The Medical Treatment and Care Building included a basement level that was exposed (above grade) on the east and south sides, mixed (above and below grade) on the west side, and below grade on the north side of the building, due to the shallow slope at the site. The complete structure, including the four external stairways, could be considered five separate buildings, since the stair towers were detached from the main building by about four inches. Earthquake bracing used in the building's second through fifth floors consisted of shear walls, but a rarely used slip joint technique used with the concrete walls at the first floor level excluded them from being used as shear walls. Damage to the building was described as excessive at the basement and first floor levels (including ceiling tiles, telephone equipment, and elevator doors) with little damage further up, and the difference in rigidity at the second floor was proposed as a cause of the considerable damage to the lower levels. As a result of the first floor nearly collapsing, the building was leaning to the north by nearly two feet, and three of the four concrete stair towers fell away from the main building.
+
+On the grounds of the facility, cracks in the pavement and soil were present (though no surface faulting was present) plus power and communications failures affected the hospital at the time of the earthquake. In addition to the collapse of the stairways, the elevators were out of commission. Very few people occupied the lower floors and the stairways at the early hour and casualties in these highly affected areas may have increased had the shock occurred later in the day. The duration of strong ground motion was probably similar to the 12 seconds that was observed at the Pacoima Dam and an additional length of shaking may have been enough to bring the building to collapse.{{clr}}
+
+=== Veterans Hospital ===
+File:USGS - 1971 San Fernando earthquake - Collapse of four buildings at the Veterans Hospital.jpg|thumb|Collapse of four buildings at the Veterans Hospital complex
+{{see also|List of Veterans Affairs medical facilities}}
+
+The Veterans Hospital entered into service as a tuberculosis hospital in 1926 and became a general hospital in the 1960s. By 1971 the facility comprised 45 individual buildings, all lying within {{convert|5|km|abbr=on}} of the fault rupture in Sylmar, but the structural damage was found to have occurred as a result of the shaking and not from ground displacement or faulting. Twenty six buildings that were built prior to 1933 had been constructed following the local building codes and did not require seismic-resistant designs. These buildings suffered the most damage, with four buildings totally collapsing, and resulted in a large loss of life at the facility. Most of the masonry and reinforced concrete buildings constructed after 1933 withstood the shaking and most did not collapse, but in 1972 a resolution came forth to abandon the site and since that time the remaining structures were demolished.
+
+Few Seismometer#Strong-motion_seismometers|strong motion seismometer installations were present outside of the western United States prior to the San Fernando earthquake but, upon a recommendation by the Earthquake and Wind Forces Committee, the United States Department of Veterans Affairs|Veterans Administration entered into an agreement with the Seismological Field Service (then associated with National Oceanic and Atmospheric Administration|NOAA) to install the instruments at all VA sites in Uniform Building Code zones two and three. It had been established that these zones had a higher likelihood of experiencing strong ground acceleration and the plan was made to furnish the selected VA hospitals with two instruments where one unit would be installed within the structure and the second would be set up as a free-field unit located a short distance away from the facility. As of 1973 a few of the highest risk (26 were completed in zone 3 alone) sites that had been completed were in Seattle, Washington|Seattle, Memphis, Tennessee|Memphis, Charleston, South Carolina|Charleston, and Boston, Massachusetts|Boston.
+
+=== Van Norman Dam ===
+File:Lower Van Norman Dam Damage 1971.jpg|thumb|left|Damage to the Lower Van Norman Dam
+{{see also|Baldwin Hills Reservoir|Bull Creek (Los Angeles County)}}
+
+Both the Upper and Lower Van Norman dams were severely damaged as a result of the earthquake. The lower dam was very close to overflowing and approximately 80,000 people were evacuated for four days while the water height in the reservoir was lowered. This was done as a precaution to accommodate further collapse due to a strong aftershock. Some canals in the area of the dams were damaged and not usable, and dikes experienced slumping but these did not present a hazard. The damage at the lower dam consisted of a landslide that dislocated a section of the embankment. The earthen lip of the dam fell into the reservoir and brought with it the concrete lining while what remained of the dam was just {{convert|1.5|m|sp=us}} above the water level. The upper lake Subsidence|subsided {{convert|.9|m|abbr=on}} and was displaced about {{convert|1.5|m|abbr=on}} as a result of the ground movement, and the dam's concrete lining cracked and slumped.
+
+The upper dam was constructed in 1921 with the hydraulic fill process, three years after the larger lower dam, which was fabricated the same way. An inspection of the lower dam in 1964 paved the way towards an arrangement between the State of California and the Los Angeles Department of Water and Power that would maintain the reservoir's water level that was reduced 10 feet lower than was typical. Since the collapse of the dam lowered its overall height the decision to reduce its capacity proved to be a valuable bit of insurance.
+
+Differential ground motion and strong shaking (MM VIII) was responsible for severe damage to the Sylmar Juvenile Hall facility and the Sylmar Converter Station (both located close to the Upper Van Norman lake). The Los Angeles Department of Water and Power, as well as the County of Los Angeles, investigated and verified that local soil conditions were the cause of the ground displacement and resulting destruction. The area of surface breaks on the ground at the site was {{convert|900|ft|abbr=on}} (at its widest) and stretched {{convert|4000|ft|abbr=on}} down a 1% grade slope towards the southwest. As much as {{convert|5|ft|abbr=on}} of lateral motion was observed on either end of the slide, and trenches that were excavated during the examination at the site revealed that some of the cracks were found as deep as {{convert|15|ft|abbr=on}}. The two facilities, located near Grapevine and Weldon canyons that channel water and debris off the Sierra Madre mountains, are lined by steep ridges and have formed alluvial fans at their mouths. The narrow band of ground disturbances were found to have been the result of settling of the soft soil in a downhill motion. Soil liquefaction played a role within confined areas of the slide, but it could not be responsible for all of the motion at the site, and tectonic slip of faults in the area was also excluded as a cause.{{clr}}
+
+=== Transportation ===
+{{see also|Southern California freeways}}
+
+Substantial disruption to about 10 miles of the freeways in the northern San Fernando Valley took place with most of the damage occurring at the Foothill Freeway / Golden State Freeway interchange and along a five mile stretch of Interstate 210. On Interstate 5, the most significant damage was between the Newhall Pass interchange on the north end and the Interstate 5 in California|I-5 / Interstate 405 (California)|I-405 interchange in the south, where subsidence at the bridge approaches and cracking and buckling of the roadway made it unusable. Several landslides occurred between Balboa Boulevard and California State Route 14, but the most significant damage occurred at the two major interchanges. The Antelope Valley Freeway had damage from Newhall Pass to the northeast, primarily with settling and alignment issues, and splintering and cracking at the Santa Clara River (California)|Santa Clara River and Solemint bridges.
+
+;Golden State Freeway - Antelope Valley Freeway Interchange
+File:NOAA - NGDC - 1971 San Fernando Earthquake - Collapse of Newhall Pass interchange.tif|thumb|The Newhall Pass interchange
+{{main|Newhall Pass interchange}}
+
+While the Newhall Pass interchange was still under construction at the time of the earthquake, the requisite components of the overpass were complete. Two of the bridge's 191-foot sections fell from a maximum height of {{convert|140|ft|abbr=on}} at the site, along with one of the supporting pillars, when vibration caused the spans to slip off of their supports at either end due to lack of proper ties and insufficient space (a {{convert|14|in|abbr=on}} seat was provided) on the support columns. Ground displacement at the site was ruled out as a major cause of the failure, and in addition to the fallen sections and a crane that was struck during the collapse, other portions of the overpass were also damaged. Shear cracking occurred at the column closest to the western abutment, and  the ground at the same column's base exhibited evidence of rotation.
+
+;Golden State Freeway - Foothill Freeway Interchange
+File:1971 San Fernando highway overpass collapse.jpg|thumb|Interstate 210 / Interstate 5 overpass collapsed onto San Fernando Road
+{{main|Interstate 5 in California|Interstate 210 and State Route 210 (California)}}
+
+This interchange is a broad complex of overpasses and bridges that was nearly complete at the time of the earthquake and not all portions were open to traffic. Several instances of failure or collapse at the site took place and two men were killed while driving in a pickup truck as a result. The westbound I-210 to southbound I-5, which was complete with the exception of paving at the ramp section, collapsed to the north, likely because of vibration that moved the overpass off its supports due to a seat that was too short. Unlike the situation at the Antelope Valley Interchange, permanent ground movement (defined as several inches of left-lateral displacement with possibly an element of thrusting) was observed in the area. The movement contributed to heavy damage at the Sylmar Juvenile Hall facility, Sylmar Converter Station, and the Metropolitan Water District Treatment Plant, but its effects on the interchange was not completely understood as of a 1971 report from the California Institute of Technology.
+
+=== Schools ===
+{{see also|Atwater Avenue Elementary School (Los Angeles)|Bishop Alemany High School|John Marshall High School (Los Angeles, California)|Patrick Henry Middle School (Los Angeles, California)}}
+
+The large number of public school buildings in the Los Angeles area displayed mixed responses, and those that were built after the enforcement of the Field Act clearly showed the results of the reformed construction styles. The Field Act was put into effect just one month following the destructive March 1933 Long Beach earthquake that heavily damaged many public school buildings in Long Beach, Compton, California|Compton, and Whittier, California|Whittier. The Los Angeles Unified School District had 660 schools consisting of 9,200 buildings at the time of the earthquake with 110 masonry buildings that had not been reinforced to meet the new standards. Also in use were more than 400 Portable classroom|portables and 53 Timber framing|wood frame pre-Field Act buildings. All of these buildings had been previously inspected with regard to the requirements of the Act, and many were reinforced or rebuilt at that time, but earthquake engineering experts recommended further immediate refurbishment or demolition after a separate evaluation was done after the February 1971 earthquake, and within a year and a half the district followed through with the direction with regard to about 100 structures.
+
+At Los Angeles High School ({{convert|20|mi|abbr=on}} from Pacoima Dam) where the exterior walls of the main pre-Field Act building (constructed 1917) were Unreinforced masonry building|unreinforced brick masonry, long portions of the parapet and the associated brick veneer broke off and some of the fragments fell through the roof to a lower floor, while other material landed on an exit stariway and into a courtyard area. The main building was demolished at a cost of $127,000, and none of the various post-Field Act buildings were damaged at the site. With the exception of the concrete gymnasium, all of the buildings at Sylmar High School ({{convert|3.75|mi|abbr=on}} from Pacoima Dam) were post-Field Act, one-story, wood construction. Abundant cracks formed in the ground at the site, and some foundations and many sidewalks were also cracked. The estimate for repairs at the site was $485,000. At {{convert|2|mi|abbr=on}}, Hubbard Street Elementary School was the closest school to Pacoima dam, and was also less than a mile from the Veterans Hospital complex. The wood frame buildings (classrooms, a multipurpose building, and some bungalows) were built after the Field Act, and damage and cleanup costs there totaled $42,000. Gas lines were broken and separation of the buildings' porches was due to lateral displacement of up to six inches.
+
+== Aftermath ==
+Following many of California's major earthquakes, lawmakers have acted quickly to develop legislation that has been focused on public outreach and funding research, but some of the directives that related to seismic retrofits were left incomplete, partly due to the passage of time following the disasters, when the drive to follow through with improvements to regulation often subsided. Legislation was drafted following other damaging California earthquakes including the 1933 Long Beach earthquake (Field Act, Garrison Act) and the  1984 Morgan Hill earthquake (Unreinforced Masonry Building Law). One of the laws that arose after the San Fernando earthquake that focused on health care facilities was The Hospital Seismic Safety Act that called for the application of medical facility safety standards to all new hospital construction.
+
+;California Strong Motion Instrumentation Program
+{{see also|1940 El Centro earthquake}}
+
+Earthquake engineers in Southern California were exposed to a small number of compelling seismograms in the 1930s and 1940s, but strong-motion seismology was not specifically sought until later events occurred. The San Fernando earthquake made evident the need for strong-motion data for improvements in earthquake engineering applications, and the California Strong Motion Instrumentation Program originated with the goal of maximizing the volume of data by furnishing and maintaining instruments at selected buildings, structures, and ground response stations.
+
+;Alquist-Priolo Special Studies Zone Act
+{{see also|Al Alquist}}
+
+Introduced as Senate Bill 520 and signed into law in December 1972, the AP Act was originally known as the Alquist Priolo Special Studies Zone Act|Alquist-Priolo Geologic Hazard Zones Act, and the legislation had the goal of reducing damage and losses due to surface fault ruptures. The act restricts construction of buildings designed for human occupancy across a fault that is known to be active. The state geologist is responsible for mapping well-defined faults that have evidence of surface faulting within the last 11,000 years and creating regulatory zones with relation to the potentially active faults. The State Mining and Geology Board then holds public hearings concerning the worthiness of the zone in the wake of a 90 day review period. State, county, and city agencies are then responsible for enforcing the building restrictions within their jurisdiction.
+
+== See also ==
+{{Portal|Los Angeles}}
+* California State Route 126
+* Earthquake (film)|''Earthquake'' (film)
+* Interstate 105 (California)
+* Long Beach Search and Rescue
+* San Gabriel Fault
+* Wadsworth Chapel
+
+== References ==
+{{reflist|colwidth=30em|refs=
+
+
+
+}}
+
+;Sources
+{{refbegin}}
+* {{citation|title=San Fernando, California, earthquake of 9 February 1971|url=http://archive.org/details/sanfernandocalif00oakerich|first=C.|last=Allen|authorlink=Clarence Allen (geologist)|first2=T. C.|last2=Hanks|authorlink2=Thomas C. Hanks|first3=J. H.|last3=Whitcomb|year=1975|chapter=Seismological studies of the San Fernando earthquake and their tectonic implications|series=Bulletin 196|publisher=California Geological Survey|California Division of Mines and Geology|pages=257–262}}
+* {{citation|title=San Fernando, California, earthquake of 9 February 1971|url=http://archive.org/details/sanfernandocalif00oakerich|first=W.K.|last=Cloud|first2=D. E.|last2=Hudson|year=1975|chapter=Strong motion data from the San Fernando, California, earthquake of February 9, 1971|series=Bulletin 196|publisher=California Geological Survey|California Division of Mines and Geology|pages=273–303}}
+* {{citation|title=The San Fernando, California, earthquake of February 9, 1971; a preliminary report published jointly by the U.S. Geological Survey and the National Oceanic and Atmospheric Administration|chapter=Pattern of faulting and nature of fault movement in the San Fernando earthquake|series=Geological Survey Professional Paper 733|year=1971|publisher=United States Government Printing Office|first=B.|last=Kamb|authorlink=Barclay Kamb|first2=L.T.|last2=Silver|first3=M.J.|last3=Abrams|first4=B.A.|last4=Carter|first5=T.H.|last5=Jordan|authorlink5=Thomas H. Jordan|first6=J.B.|last6=Minister|url=http://pubs.er.usgs.gov/publication/pp733|pages=41–54}}
+* {{citation|title=San Fernando, California, earthquake of 9 February 1971|url=http://archive.org/details/sanfernandocalif00oakerich|first=K. V.|last=Steinbrugge|first2=E. E.|last2=Schader|first3=D. F.|last3=Moran|year=1975|chapter=Building damage in the San Fernando Valley|series=Bulletin 196|publisher=California Geological Survey|California Division of Mines and Geology|pages=323–353}}
+{{refend}}
+
+== External links ==
+* http://www.data.scec.org/significant/sanfernando1971.html San Fernando Earthquake — Southern California Earthquake Center
+* http://earthquake.usgs.gov/earthquakes/states/events/1971_02_09.php Historic Earthquakes - San Fernando, California — United States Geological Survey
+* http://www.conservation.ca.gov/cgs/smip/Pages/about.aspx California Geological Survey - About CSMIP — California Department of Conservation
+
+{{Significant earthquakes in California}}
+
+{{DEFAULTSORT:San Fernando Earthquake}}
+Category:Earthquakes in California
+Category:History of Los Angeles, California
+Category:San Fernando Valley
+Category:1971 earthquakes
+Category:1971 in California|San Fernando earthquake

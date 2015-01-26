@@ -1,0 +1,131 @@
+{{Infobox earthquake
+| title= 2010 Yushu earthquake
+| map2 = {{Location map many| China Qinghai
+ | label= 
+ | lat=32.271
+ | long=96.629
+ | mark=Bullseye1.png
+ | marksize=40
+ | position=top
+ | label2=Gyêgu
+ | lat2=33.003
+ | long2=97.01
+ | mark2=
+ | mark2size=10
+ | position2=top
+ | width= 250
+ | float=right
+ | caption=Map of Qinghai region, showing epicenter and location of Gyêgu
+ }}
+| date               = {{Start-date|14 April 2010}}
+| magnitude          = 6.9Moment magnitude scale|M<sub>w</sub> or 7.1 Surface wave magnitude|M<sub>s</sub>
+| depth              = {{convert|10|km|mi|0|abbr=on}}
+| location           = {{coord|33.271|N|96.629|E|region:CN-63_type:event|display=inline,title}}
+| countries affected = People's Republic of China
+| intensity          =
+| casualties         = 2,698 confirmed dead<br />12,135 injured<br />270 missing
+}}
+{{wikinews|6.9 magnitude earthquake hits western China}}
+File:TibetanPlateauTectonics.png|thumb|250px|Tectonic map of the Tibetan Plateau showing location of the Xianshuihe fault zone
+The '''2010 Yushu earthquake''' struck on April 14, 2010, and registered a Seismic scale#Magnitude scales|magnitude of 6.9Moment magnitude scale|M<sub>w</sub> (USGS, European Alert System|EMSC) or 7.1Surface wave magnitude|M<sub>s</sub> (China Earthquake Administration|CEA, CENC). It originated in Yushu Tibetan Autonomous Prefecture|Yushu, Qinghai, People's Republic of China|China, at {{Nowrap|7:49 am}} local time. The epicenter was in a sparsely populated area on the Tibetan plateau that is regularly hit by earthquakes.
+
+The 12th century Thrangu Monastery and surrounding villages were severely damaged and many monks and villagers were killed.
+
+== Geology ==
+
+File:Gyegu Gruschke.jpg|thumb|250px|right|Panorama of Gyegu town (2005) and monastery, is the cultural, economic and political center of Yushu.
+Qinghai lies in the northeastern part of the Tibetan Plateau, which formed due to the ongoing Continental collision|collision of the Indian Plate with the Eurasian Plate. The main deformation in this area is crust (geology)|crustal Thrust tectonics|shortening, but there is also a component of left lateral Fault (geology)#Strike-slip faults|strike-slip faulting on major west–east trending structures such as the Kunlun fault|Kunlun and Altyn Tagh fault systems that accommodate southeastward translation of the Tibetan area.
+
+The earthquake occurred on the Yushu fault, The Yushu fault forms part of the Xianshuihe fault system|Yushu-Garzê-Xianshuihe fault zone (玉树-甘孜-鲜水河断裂带), for example, the magnitude 1923 Luhuo earthquake|7.25 earthquake in the Luhuo area on March 24, 1923, and the 1973 Luhuo earthquake|M<sub>s</sub> 7.6 earthquake on February 6, 1973 in Luhuo.
+
+== Damage ==
+File:Neic vacp cy.png|thumb|right|Quake epicenter in relation to China
+In Qinghai, building damage was reported with no casualties in the counties of Zadoi, Nangqên, and Qumarleb County|Qumarleb of Yushu Prefecture. A vocational school collapsed and trapped many students.
+
+In Sichuan, strong shaking could be felt in the counties of Sêrxü County|Sêrxü, Dêgê County|Dêgê, and Baiyü County|Baiyü, Garzê Tibetan Autonomous Prefecture. Road damage was reported in Sêrxü County.
+File:Yushuquake-Gruschke.jpg|thumb|left|200px|Earthquake cleft in the grassland
+Due to the rough terrain and the fact that landslides have destroyed the local infrastructure, the initial rescue operations were undertaken by the People's Armed Police and People's Liberation Army soldiers of Lanzhou Military Region. The Qinghai provincial government said in a public statement that five thousand tents, 100,000 thick, cotton coats, and heavy blankets were being sent to help survivors cope with the strong winds and near-freezing temperatures of around {{convert|6|°C|°F}}.
+
+The Yushu Batang Airport was re-opened at noon on Wednesday, April 14, and the first flight with personnel and supplies of the China International Earthquake Rescue Team landed there  at 8 pm.
+
+The Changu (禅古) Dam, located on the Batang River (巴塘河; a right tributary of the Tongtian River|upper Yangtze River) some 15&nbsp;km upstream from the Yushu County seat (apparently at {{coord|32|54|40|N|97|02|50|E|region:CN-62_type:landmark}}<!-- from the location description in the article and Google maps-->), was damaged by the earthquake. Chinese language news reports as translated in a press release from the International Rivers stated that it is "at the risk of collapse at any time."
+
+== Response ==
+{{wikinews|Rescue efforts underway after China earthquake}}
+Chinese President Hu Jintao and Premier Wen Jiabao urged all-out efforts to help rescue those affected by the earthquake. Several hours after news of the quake broke, Vice Premier Hui Liangyu was sent to the region to oversee rescue efforts. Some 3,700 personnel from the Qinghai division of the People's Armed Police was sent to the region to aid in rescue efforts. Specialty personnel also arrived from neighbouring provinces Gansu, Shaanxi, and Ningxia, as well as the Tibet Autonomous Region.
+
+President Hu Jintao was in Brazil at the time and decided to cut short a state visit and BRIC summit and rush back to China to co-ordinate rescue efforts. He also postponed his upcoming tour to Venezuela and Chile. Premier Wen Jiabao arrived in Yushu Tibetan Autonomous Prefecture|Yushu on April 15 to lead rescue work, and postponed his trip to southeast Asia. Hu arrived in Yushu three days after Wen, to help guide the relief efforts and console victims.
+
+===Tribute and Day of Mourning===
+On the evening of April 20, a national evening gala was hosted on China Central Television. Qiang Wei, CPC Party chief of Qinghai, led a large ceremony in Xining; a minute of silence was observed across the entire province, when police sirens and horns sounded.
+
+During the National Day of Mourning, all public entertainment activities were cancelled, and all state-run networks as well as some provincial networks redirected their regular programming to non-stop earthquake coverage.
+
+City University of Hong Kong professor Zheng Yutou opined that the "Day of Mourning" reflected China's political values - that collective interests and values outweigh those of individuals. Zheng said that this was diametrically opposed to the emphasis on individualism in Western countries. Zheng believed that a top-down public directive for the country is a reflection that without democracy, a formal Day of Mourning is one of a few ways to show that the leadership is concerned about the welfare of the people. A ''South China Morning Post'' article said the event was an attempt to distract the public from other ongoing social problems. Yuan Weishi, retired professor at Sun Yat-sen University, disagreed with the assessment that the Day of Mourning should be seen as a political event. He said that the event is not at all surprising given the circumstances, and that there is no real threat to civil liberties. Yuan said that "politicizing the situation makes it needlessly tense". ''Duowei'' added that National Days of Mourning have been held in many countries for large natural disasters and emerging as the "international norm".
+
+===Role of monks and victims' rites===
+
+According to television reports filed by  Chen Xiaonan of Hong Kong's Phoenix Television, and the Associated Press, thousands of Tibetan monks were active in the search and rescue for quake victims  buried in the rubble, and were successful in the retrieving of buried yet still alive victims, as well as the retrieving of dead bodies and the subsequent conducting of traditional Tibetan  sky burial or mass cremation.
+
+Monks provided spiritual services and consoling for families of the victims, and performed burial rites. Due to the great number of ethnic Tibetan victims in the quake, local clergy from monasteries said that the traditional sky burial funeral rites would be too difficult to manage, and that the unsanitary conditions meant that the souls of the departed may not reach heaven. A local monk said that it was determined a mass cremation, presided over by local Buddhist monks, would be the most appropriate funeral rite for the victims.
+
+Reports later surfaced in Western media that groups of monks were also asked to leave the disaster area via telephone by local authorities. One monk said that the government may have been concerned about their safety.
+
+===External aid===
+On April 18, the Republic of China (Taiwan) Red Cross Society send a 20-member medical team, composed of volunteers who have extensive experience with first aid and emergency procedures in earthquake and flooding rescue missions, to Qinghai province earthquake area, together with  one tonne of medicine and equipment. “We tried to send more supplies but there was not sufficient airlift capacity in the disaster area,” an ROC Red Cross Society spokesman said.
+
+The American Red Cross has sent an initial sum of $50 000 in relief funds to help affected families in the Qinghai Province. Many countries and organizations around the world sent condolences and pledged assistance if necessary.  The Artistes 414 Fund Raising Campaign was held at the Hong Kong Coliseum on April 26, 2010.
+
+===High altitude sickness===
+
+Since Yushu is located at 4000 meter high altitude when concentration of oxygen is much thinner than that at sea level, many rescuers who come from low land have fallen ill due to  Altitude sickness|high altitude sickness, as 300 Guangdong rescuers were forced to be evacuated into lower altitude area, and one Chinese reporter was confirmed dead due to pulmonary complications caused by lack of oxygen.
+
+===Political issues===
+The earthquake occurred in a Tibetan region in Qinghai province, where 93% of the local population is of Tibetan ethnicity, and many locals do not speak or understand Mandarin Chinese, and the community was home to large numbers of Tibetan Buddhists. A ''New York Times'' editorial wrote that while the death toll was small compared to the Sichuan earthquake in 2008, the rapid mobilization and highly organized relief effort  "underscored the Communist Party’s determination to rally the nation and transform the disaster into a showcase of its benevolence and resolve", as well as an opportunity to showcase ethnic unity and a "softer side" of the government, who is often seen as being at odds with the Tibetan population. In addition, state media avoided mention of schools that may have collapsed during the quake, with fresh memories of the public and foreign media backlash from a Sichuan schools corruption scandal|school construction scandal in Sichuan.
+
+There were earlier rumours that the authorities were attempting to hide the extent of the damage caused by the earthquake. In response, Guo Weimin of the State Council Information Office responded that "all the information coming out of the disaster zone has been accurate, timely, transparent... we will not, have not, and have no reason to alter any of the statistics regarding fatalities." Tibetan activist Woeser acknowledged that the government's relief efforts have been robust, but remarked that relief funds risk embezzlement from local officials.
+
+==List of aftershocks==
+File:Qinghai April2010 ShakeMap.jpg|thumb|right|USGS intensity map
+The initial earthquake was preceded by a foreshock and followed by several aftershocks, four above magnitude 5, including a M5.8 aftershock at a {{convert|4|km|mi|abbr=on}} depth on April 14.
+
+Officials have warned that aftershocks above magnitude 5.5 are likely to continue, and the China Earthquake Networks Center warned that further aftershocks above magnitude 6 are likely for several days following the main earthquake.
+
+Only shocks with magnitude 4.0 or higher are listed. Shocks with magnitude 5.5 or higher are highlighted in light blue. The main shock with moment magnitude 6.9 Moment magnitude scale|M<sub>w</sub> is highlighted in dark blue.
+
+{| class="wikitable sortable" border="1"
+! Date <br />(YYYY-MM-DD) !! Time <br />(UTC) !! Latitude !! Longitude !! Depth !! Magnitude
+|- 
+| 2010-04-13 || 21:40:00 || 33.183° N || 96.623° E || {{convert|18.9|km|mi|0|abbr=on}} || 5.0 (M<sub>w</sub>)
+|- style="background: #9999ff"
+| 2010-04-13 || 23:49:39 || 33.224° N || 96.666° E || {{convert|17.0|km|mi|0|abbr=on}} || 6.9 (M<sub>w</sub>)
+|- 
+| 2010-04-14 || 00:01:17 || 32.875° N || 96.999° E || {{convert|10.0|km|mi|0|abbr=on}} || 5.3 (M<sub>w</sub>)
+|- 
+| 2010-04-14 || 00:12:25 || 33.159° N || 96.580° E || {{convert|10.0|km|mi|0|abbr=on}} || 5.2 (M<sub>w</sub>)
+|- style="background: #ccccff"
+| 2010-04-14 || 01:25:15 || 33.179° N || 96.448° E || {{convert|4.0|km|mi|0|abbr=on}}  || 5.8 (M<sub>w</sub>)
+|- 
+| 2010-04-14 || 03:15:46 || 33.151° N || 96.701° E || {{convert|10.0|km|mi|0|abbr=on}} || 4.7 (M<sub>w</sub>)
+|- 
+| 2010-04-14 || 12:19:36 || 33.077° N || 96.846° E || {{convert|10.0|km|mi|0|abbr=on}} || 4.1 (M<sub>w</sub>)
+|-
+| 2010-04-17 || 00:59:01 || 32.588° N || 92.743°E  || {{convert|40.6|km|mi|0|abbr=on}} || 5.1 (M<sub>w</sub>)
+|}<!--update depths of new aftershocks as neccesary-->
+{{clear}}
+
+== References ==
+{{reflist|30em}}
+
+== External links ==
+{{commons category|2010 Yushu earthquake}}
+{{wikinews-inline|Rescue efforts underway after China earthquake}}
+{{wikinews-inline|6.9 magnitude earthquake hits western China}}
+* http://yushuearthquake.org/ Yushu Earthquake Relief
+
+{{Earthquakes in 2010}}
+{{Earthquakes in China}}
+
+Category:2010 disasters in China|Yushu
+Category:2010 earthquakes|Yushu
+Category:Earthquakes in China|2010 Yushu

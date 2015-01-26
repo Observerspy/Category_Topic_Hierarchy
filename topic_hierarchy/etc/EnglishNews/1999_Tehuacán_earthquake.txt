@@ -1,0 +1,43 @@
+{{Earthquake
+|title =1999 Tehuacán Earthquake
+|date = {{Start date|1999|06|15|df=y}}
+|map2 = {{Location map | Mexico
+ | label =
+ | lat = 18.386
+ | long = -97.436
+ | mark = Bullseye1.png
+ | marksize = 30
+ | position = top
+ | width = 250
+ | float = right
+ | caption = 
+ | relief=yes}} 
+|magnitude = M<sub>w</sub> 7.0 
+|depth = 70 km
+|location = {{coord|18.386|N|97.436|W}} 
+|countries affected =
+|landslide = Yes 
+|casualties = 14 
+}}
+
+The '''1999 Tehuacán earthquake''', or the '''1999 Central Mexico earthquake''', occurred on June 15 at 15:42 local time (20:42 UTC) near Tehuacán, Puebla, Mexico, close to the state of Oaxaca. The earthquake measured 7.0 on the moment magnitude scale.
+
+==Damage==
+Fourteen people were reported dead, and many historic buildings and monuments were damaged. 5,306 houses were destroyed, 15,688 partially damaged, and 9,682 slightly damaged. Many houses collapsed in the state of Puebla, including parts of the Puebla City Hall. The state of Puebla was declared a disaster area.
+
+==Geology==
+The Cocos Plate is subducting beneath the North American Plate in the Middle America Trench. This earthquake was an inslab earthquake, and the epicenter had some distance from the Middle American Trench. This temblor was the tenth earthquake since 1864 with magnitude larger than 6.5 and similar location of epicenter.
+
+== References ==
+{{reflist}}
+
+==External links==
+* http://earthquake.usgs.gov/earthquakes/eqarchives/year/1999/1999_06_15.php Magnitude 7.0 Central Mexico — United States Geological Survey
+
+{{Earthquakes in 1999}}
+{{Earthquakes in Mexico}}
+
+{{DEFAULTSORT:Tehuacan earthquake}}
+Category:Earthquakes in Mexico|1999 Tehuacán
+Category:1999 earthquakes
+Category:1999 in Mexico

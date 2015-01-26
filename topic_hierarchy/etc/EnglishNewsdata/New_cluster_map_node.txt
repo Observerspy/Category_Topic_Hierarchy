@@ -1,0 +1,156 @@
+ID:1 #Earthquake development#Post-earthquake development#Development#Recent developments
+ID:10 #Seismology and geology#Tectonic setting#Geology#Tectonic summary#Geological setting#Tectonics and background#Tectonic interpretation#Summary of earthquakes#Geological and structural engineering issues#Development of seismology#Background#Epicenter and seismology#Background and tectonics#Location#Tectonic plates#Geographic Information#Geological origins#Magnitude and geology#Geologic setting#Fault zones within tectonic plates#Seismology#Background and geology#Geography#Tectonics and previous activity#Tectonics#Earthquakes magnitudes#Earthquake epicenter#Epicenter#Magnitude#Magnitude and earth movement#Earthquake activity#Strong motion
+ID:100 #Vestiges
+ID:101 #Foreshocks and aftershocks#List of foreshocks and aftershocks#Previous and later earthquakes
+ID:102 #Research#Scientific and research response#Scientific study#Scientific Framework#Science of the earthquake
+ID:103 #Sewing factory
+ID:105 #Impact in the countryside
+ID:106 #State funeral
+ID:107 #Government data#Government and organization affected
+ID:108 #Theories
+ID:109 #Eyewitness accounts
+ID:11 #Building code changes#Building damage in the city#Causes of building collapse and public reaction
+ID:110 #Building standards
+ID:111 #Films on the earthquake
+ID:112 #Gallery
+ID:113 #Surface rupture#Transformational faulting or anticrack faulting#Surface faulting
+ID:114 #Peak acceleration#Humanitarian, economic and environmental impact#Ground acceleration
+ID:115 #Kashiwazaki-Kariwa Nuclear Power Plant incidents#Nuclear power plants
+ID:117 #Humanitarian and welfare
+ID:119 #Aid agencies#Essential services
+ID:12 #Seismic intensity#Modified Mercalli intensities for some localities
+ID:121 #Space center
+ID:122 #Data on magnetic disturbances#Seismic data#Data#Technical data#Technical records
+ID:123 #Energy released#Energy
+ID:124 #Automotive production
+ID:125 #Remarks
+ID:126 #Population with destroyed or severely damaged homes
+ID:127 #Property damage
+ID:128 #News coverage
+ID:129 #Public anger
+ID:13 #Extent of tremors
+ID:130 #Success and benefits of redevelopment#Problems of redevelopment
+ID:131 #Dams and water problems
+ID:132 #Areas affected#Affected area
+ID:133 #Defence forces
+ID:134 #Structural effects
+ID:135 #Preparedness and response
+ID:136 #Other buildings affected#Countries affected#Buildings affected#hospitals affected
+ID:137 #Implementation
+ID:138 #Emergency relief funds for donations
+ID:139 #Response from other countries#Foreign reaction#External aid#List of countries that sent aid#Foreign and domestic aid#International response and aid
+ID:14 #Era of Disaster
+ID:140 #Postquake violence#Chaos and disorder
+ID:141 #Health
+ID:142 #Electricity#Electric power supply#Blackouts#Power and water supply#Wind power
+ID:143 #Air crash
+ID:145 #Animal casualties#Zoo animal reactions
+ID:146 #Duration#Extent
+ID:147 #Rise of drugs
+ID:149 #Prosecutions
+ID:15 #Overview#Outline#Timeline#Panoramas
+ID:150 #Food scarcity
+ID:152 #Defense#Japan Self-Defense Forces
+ID:153 #The Red Crescent
+ID:154 #Oceania
+ID:155 #Commission of Inquiry
+ID:156 #General infrastructure#Damage to infrastructure#Infrastructure and support#Infrastructure
+ID:157 #Radar imagery
+ID:158 #Iranian earthquake education
+ID:159 #Police
+ID:160 #Media#Media coverage
+ID:161 #Honors
+ID:162 #Land subsidence
+ID:163 #Scientific preparedness
+ID:164 #Oil, gas and coal#Natural gas emission
+ID:165 #Luminous phenomena
+ID:166 #Government reactions#Criticism of Iranian government response#Government response and aid#Government response#Emergency response#Early response#International response#Local response#Community response#Aid response#Humanitarian response
+ID:167 #Cost
+ID:168 #Anchorage area
+ID:169 #Dehydration embrittlement
+ID:17 #Earthquake and damage#Damage outside Cheviot#Damage and effects#Other effects#Localization of the damage#Effects#Impact#Primary effects#Damage evaluation#Damage from the earthquake#Patterns of damage#Effects of earthquake in other parts of Mexico#Damage#Ground effects#Long-term effects#Effect#Spread of effect#Effect on disaster prevention planning#Influence#Effect on society and philosophy#Damage in cities and the suburbs
+ID:170 #Post-quake analysis#Analysis
+ID:18 #Sequence of shocks#Sequence of earthquakes#List of shocks#Shaking#Earthquake sequence#Subsequent earthquakes
+ID:19 #Ri?ihuazo flood
+ID:2 #Emergency and reconstruction aid#Aid and reconstruction#Rebuilding#Relief and reconstruction#Aftermath and reconstruction#Reconstruction#Clean-up and reconstruction#Controversy on reconstruction and criminality#Relief and reconstruction efforts
+ID:20 #Showa bridge
+ID:21 #Significance
+ID:22 #Causes#Sources#Possible causes#Meteorological causes#Cause#Tectonic causation
+ID:23 #Response in China#Response#Consequences and response#Responses#Response and relief efforts#Reaction#Public reaction#Reactions
+ID:24 #Radio and television affected#Television, movie, and music productions affected#Televisa studios
+ID:25 #Landslides#Landslide
+ID:26 #Medical impact#Medical response
+ID:27 #Transport#Ports#Transportation#Transportation affected#Effects on transportation#Metro service#Transportation infrastructure damage#Expressways and railways
+ID:28 #Legacy
+ID:29 #Sport#Entertainment and sports affected
+ID:3 #Aftershocks#List of aftershocks#Aftershock#Aftershocks and related quakes#Aftershocks and other earthquakes
+ID:30 #Solid-solid phase transitions
+ID:31 #Details#Earthquake Details#Technical details#Seismologic details
+ID:32 #Schools and universities#Universities, colleges, and schools affected#Schools#Collapse of schoolhouses
+ID:33 #Warning#Warnings#Warning from agencies in other areas#Early warnings and predictions#Signs and warnings#Prior warning#Tsunami warning#Tsunami warnings
+ID:34 #Discovery#Rediscovery
+ID:35 #Popular culture#In popular culture
+ID:36 #Elsewhere across the Pacific
+ID:37 #Evacuations#Evacuation
+ID:38 #Other charity and fundraising activities#Fundraising and charity events
+ID:39 #Internet activity and social media#Internet video
+ID:4 #Legislative changes
+ID:40 #Memorable sites#Memorials#Centennial commemorations#Remembrance#Memorial services#Memory#First anniversary
+ID:41 #List of major submarine earthquakes#The seismic event#The Montereale earthquake
+ID:42 #The events#Incidents#Incidents elsewhere#Previous events#Event#Other events#Prior events#Past events
+ID:43 #Planning
+ID:44 #Consequences#Earthquake's results
+ID:45 #Immediate aftermath#Conditions in the aftermath#Aftermath
+ID:47 #Regional seismicity
+ID:48 #Prison escape
+ID:49 #Liquefaction#Fire and Liquefaction
+ID:5 #Main Earthquake#Main Shock#First shock
+ID:50 #Stress triggering#Stress-induced melting and shear thermal instability
+ID:51 #Economic recovery
+ID:52 #Convergent plate boundary#Tectonic plate boundaries#Divergent plate boundary#Transform plate boundary
+ID:53 #Subsequent fires
+ID:55 #Geophysical effects#Geophysical Effects#Geophysical impact
+ID:56 #Role of monks and victims' rites
+ID:57 #Focal Mechanisms#Earthquake mechanisms#Mechanism of the earthquake
+ID:58 #Casualties and infrastructure damage#Victims#Death toll and damage#Death toll and casualties#Human toll in the city#Response, casualties, and intensities#Death toll, damage, and casualties#Injuries and fatalities#Casualties, intensities, and damage areas#Damage and casualties by country#Casualties, damage, and other effects#Death toll and damage to buildings#Human sacrifice#Later casualties#Estimated casualties#Damage and casualties#Damage & casualties#Human casualties#Damage, casualties and effects#Casualties#Casualties and damage#Victims and damage#Damage and deaths#Identified fatalities#Death toll#Damage and fatalities#Damages and casualties
+ID:59 #Native and Japanese accounts
+ID:6 #Historic examples#Compared with past earthquakes#Related earthquakes#History#Relationship between the events#Comparison#Historical context#Relationship between earthquakes#Event in historical context#Similar megathrust earthquakes#Relation to other major earthquakes#Relation to other earthquakes
+ID:60 #Marina District
+ID:61 #Earthquake prediction#Precursors and foreshocks#Precursors#Evidence of the earthquake#Reported portents#Prediction#Predictions, precursors, and postmortems
+ID:63 #International assistance and insurance payments
+ID:64 #Suburbs
+ID:65 #Recording#Description in public archives#Description
+ID:66 #Controversial statistics#Statistics
+ID:67 #Previous seismicity#Foreshock#Previous quakes
+ID:68 #Canterbury Earthquake Recovery Authority#Recovery#Long-term recovery#Status of the recovery
+ID:69 #The "quake lake"#Quake Lake
+ID:7 #Domestic#Domestic reactions#National#Reactions of authorities#National effort#National aid
+ID:70 #Damage to hospitals
+ID:71 #Tsunami#Earthquake and tsunami#Localised tsunami#Tsunamis#Tsunami characteristics
+ID:72 #Certifications
+ID:73 #Personnel
+ID:74 #Veterans Hospital#Olive View Hospital
+ID:75 #Impact on natural area#Natural disasters triggered
+ID:78 #Environmental impact
+ID:79 #Valley fever outbreak
+ID:8 #Cordón Caulle eruption#Telecommunications#Disruption in communications#Central Communications Center#Link to eruption of Etna#Link to eruption of Mount Fuji
+ID:80 #International#International aid#International reaction
+ID:82 #Housing#Homeless camps#Relocation and housing
+ID:83 #Intensities and damage area#Intensities
+ID:84 #Completion of works
+ID:85 #Rescue efforts#Relief efforts and aftermath#Efforts#Relief efforts and response#Disaster relief#Rescue and relief efforts#Relief#Relief efforts#Rescue operations and compensation#Search and rescue#Aid and relief#Aftermath and relief efforts#Aid from organizations#Assistance and reporting
+ID:86 #Disaster Management#Emergency management
+ID:87 #Tsunami-related aid given
+ID:88 #Political aftermath#Political#Political reaction#Political consequences#Political issues
+ID:89 #Economic impact#Economic impacts#Effect on businesses#Socioeconomic impact#Economic damage
+ID:9 #Future threats#Threat#Current hazards#Future seismic hazard#Future earthquake hazard#Future risk#Current situation#Implications for current seismic risk#Predicted earthquake hazard#Analysis and current situation#Future threat#Seismic hazard implications
+ID:90 #Tribute and Day of Mourning#Day of mourning
+ID:92 #Governments
+ID:93 #The earthquake and volunteerism
+ID:95 #Repair work
+ID:96 #Mission
+ID:97 #Nuclear blast
+ID:99 #Seismic Characteristics#Earthquake characteristics#Characteristics
+ID:100 #Cultural references
+ID:101 #Cultural properties
+ID:0 #root

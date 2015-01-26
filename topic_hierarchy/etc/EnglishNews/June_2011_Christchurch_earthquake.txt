@@ -1,0 +1,95 @@
+{{good article}}
+{{Use dmy dates|date=July 2011}}
+{{Infobox earthquake
+| title = June 2011 Christchurch earthquake
+| image = 13 June 2011 Christchurch earthquake damage.png
+| image alt =
+| imagecaption = Structural damage from the earthquake
+| map2 =
+ {{Location map
+ | New Zealand
+ | AlternativeMap =
+ | label =
+ | lat = -43.56
+ | long = 172.74
+ | mark = Bullseye1.png
+ | marksize = 30
+ | position = top
+ | width = 200
+ | float = center
+ | caption =
+ | relief=yes
+ }}
+| caption = Map showing the epicentre of the earthquake
+| date = 14:20:50, 13 June 2011 (+12:00)
+| magnitude = 6.3 M<sub>L</sub>
+|depth = {{convert|6|km|mi|0|abbr=on}}
+|location = {{Coord|43.56|S|172.74|E|type:event_scale:50000000|display=inline,title}}
+|type = Aftershock
+|countries affected = New Zealand
+|tsunami = No
+|damage = Building collapse, power outages, broken water pipes, soil liquefaction, rockfall
+|intensity = Mercalli intensity scale|MM VIII - Destructive
+|PGA = 0.78''Peak ground acceleration|g'' (city); 2.13''g'' (epicentre)
+|casualties = 1 dead,
+}}
+The '''June 2011 Christchurch earthquake''' was a shallow Richter magnitude scale|magnitude 6.3 M<sub>L</sub> earthquake that occurred on 13 June 2011 at 14:20 NZST (02:20 UTC). It was centred at a Hypocenter|depth of 6&nbsp;km (3.8&nbsp;mi), about 10&nbsp;km (6&nbsp;mi) from Christchurch, which had previously been devastated by another February 2011 Christchurch earthquake|magnitude 6.3 M<sub>L</sub> earthquake in February 2011. The June quake was preceded by a magnitude 5.9 M<sub>L</sub> tremor that struck the region at a slightly deeper 8.9&nbsp;km (5.5&nbsp;mi). The United States Geological Survey reported a magnitude of 6.0 Moment magnitude scale|M<sub>w</sub> at a depth of about 9&nbsp;km (5.6&nbsp;mi).
+
+The earthquake produced severe shaking that registered VIII on the Mercalli intensity scale|Mercalli scale in and around the city of Christchurch, destroying some buildings and causing additional damage to many structures affected by previous earthquakes. The damaged tower of the historic Lyttelton Timeball Station collapsed before dismantling work could be completed. The earthquake downed phone lines and triggered widespread outages, which left around 54,000 households without power. Rebuilding costs in Christchurch increased by NZ$6 billion (US$4.8 billion) owing to the additional damage from the quake. Forty-six people suffered injuries, and one elderly man died after being knocked unconscious.
+
+==Background==
+New Zealand in its entirety, particularly the North Island, is located along the Seismology|seismically volatile Pacific Ring of Fire, and has a long history of earthquakes. Since the History of New Zealand#European settlement|European settlement, the largest on record was a 1855 Wairarapa earthquake|magnitude 8.2 M<sub>L</sub> major earthquake that occurred on 23 January 1855 near the Wairarapa plains of the North Island. Another 1931 Hawke's Bay earthquake|destructive magnitude 7.8 M<sub>L</sub> earthquake struck the region near Hawke's Bay region|Hawke's Bay on 3 February 1931; it is the deadliest earthquake recorded on the island to date, greatly affecting much of Napier, New Zealand|Napier and Hastings, New Zealand|Hastings.
+
+In comparison, the South Island has experienced fewer large earthquakes. The 2010 Canterbury earthquake|magnitude 7.1 M<sub>w</sub> event of 4 September 2010 produced by far the strongest ground motions ever recorded in the Canterbury Region, triggering a large number of aftershocks. Although similar aftershock sequences have historically occurred around world, such occurrences were extremely unusual in the region, which had shown low levels of seismic activity for thousands of years. The event has led to the discovery of previously dormant Fault (geology)|geological faults across central-eastern South Island, in particular beneath regional plains and the adjacent seabed.
+
+==Geology==
+File:13 June 2011 Christchurch earthquake.png|thumb|left|USGS shake map
+The Richter magnitude scale|magnitude 6.3 M<sub>L</sub> earthquake occurred inland on 13 June 2011 at 14:20 NZST, (02:20 UTC) at a shallow Hypocenter|depth of 6.0&nbsp;km (4&nbsp;mi), about 10&nbsp;km (6&nbsp;mi) to the east-southeast of Christchurch, New Zealand. The June earthquake was preceded by a magnitude 5.9 M<sub>L</sub> tremor with a similar focal mechanism that struck 1 hour and 20 minutes earlier. Experts believe the quakes were triggered by a previously undiscovered fault in the region, located several kilometres south of the Port Hills Fault. The United States Geological Survey reported a magnitude of 6.0 M<sub>w</sub> and a focal depth of 9&nbsp;km (5.6&nbsp;mi) for the earthquake, while the precursor tremor was assigned a magnitude of 5.2 M<sub>w</sub> at a similar depth.
+
+Seismologists reported that the earthquakes were part of a prolonged aftershock sequence associated with the major magnitude 7.1 earthquake of September 2010, which includes the February 2011 event. Despite significant energy release, the earthquakes were believed to have increased the risk of an additional aftershock of similar magnitude; calculations from GNS Science indicated a 23 percent probability of a magnitude 6.0–6.9 M<sub>L</sub> earthquake occurring in the Canterbury Region|Canterbury aftershock zone within the 12 months following the event.
+
+Focused only several kilometres below the surface, the earthquake resulted in significant shaking over a large portion of central-eastern South Island. Maximum ground motions registered at VIII (severe) on the Mercalli intensity scale in Christchurch, while strong shaking (MM VI) was felt in adjacent populated areas such as Rolleston, New Zealand|Rolleston and Lincoln, New Zealand|Lincoln. The landforms of Sumner recorded intensified shaking due to the effects of its topographic setting. with slight property damage reported from as far afield as Dunedin. The earthquake was felt as far away as New Plymouth and Invercargill.
+
+==Damage, casualties and effects==
+File:Soil liquefaction from the M 6.0 13 June 2011 Christchurch earthquake.png|thumb|Soil liquefaction caused by the earthquake
+The earthquake and its precursor tremor struck during the afternoon near an extremely populated area, with most buildings in the area already left in precarious conditions by previous earthquakes. It affected roughly 400,000 people directly, most of which were estimated to have experienced at least strong (MM VI) shaking. Mass casualties were avoided owing to a combination of building evacuations prompted by the weaker shock and an epicentre removed from populous areas.
+
+In the wake of the earthquake, multiple phone lines were down, and scattered power outages affected about 54,000 households. Moreover, at least 70 underground 11,000 volt cables sustained some degree of damage, contributing to the outages. Days after its occurrence, a small electrical fire ignited in a control panel at Christchurch Hospital due to dislodged wiring as a result of ongoing aftershocks.
+
+Strong ground motions caused many secondary effects, including gas leaks and widespread soil liquefaction. Several houses in the hill suburbs of Sumner, New Zealand|Sumner and Redcliffs were affected by falling boulders from hillsides. Following its occurrence, much of Christchurch lost water pressure; residents were thus urged to conserve water use. In some parts of the Heathcote Valley, previously dormant or non-existent natural spring (water)|springs surfaced as a consequence of the sudden rise in the water table, flooding some properties.
+
+===Socioeconomic impact===
+The NZX 50 Index fell by 0.4 percent to its lowest level since 20 April; within the index, a total of 24 stocks fell, while six rose and 20 remained unchanged. In addition, the New Zealand dollar declined in the wake of the disaster, reportedly dropping by nearly 0.01 United States dollar|US dollar, or about 1.3 percent. Following a dramatic decline in event numbers, Vbase, a council-owned venue management company, announced the disemployment of 151 of its full-time staff workers. Nationwide, building Consent#Planning law|consents tumbled considerably, dropping by 4.5 percent in the wake of the aftershock. The disaster's impact extended beyond national grounds; in light of its occurrence, Insurance Australia Group reported an estimated net claim loss of Australian dollar|A$65 million (US$61.5 million).
+
+===Damage evaluation===
+Though the exact extent of losses was unclear, the earthquake caused further damage to many structures in Christchurch; approximately half of the buildings in the centre of the city were already damaged or destroyed by previous strong earthquakes. Preliminary assessments indicate over 100 additional buildings were rendered beyond repair in the area. Despite its moderate magnitude, the preceding magnitude 5.6 M<sub>L</sub> tremor caused several two-story buildings at a road intersection in the city to collapse. Multiple hospitals and residential care facilities in Christchurch were left without essential services, and some reported considerable damage to infrastructure.
+
+In spite of earlier renovation attempts, authorities were considering the complete demolition of the 130-year-old ChristChurch Cathedral, Christchurch|Christchurch Cathedral. The building had become structurally compromised due to the collapse of its western wall, and the strong vibration had shattered its stained glass rose window. In all, experts believed the earthquake would increase reconstruction costs in Christchurch by approximately NZ$6 billion (US$4.83 billion).
+
+==Response==
+In light of the possibility of aftershocks, police evacuated shopping malls and office buildings around the city. Essential organisations in the area were evacuated as a safety precaution, including the police headquarters and offices of the Canterbury Earthquake Recovery Authority.
+
+===Relief efforts===
+In the immediate aftermath of the earthquakes, the National Crisis Management Centre was activated through The Ministry of Civil Defence & Emergency Management (New Zealand)|Ministry of Civil Defence and Emergency Management to manage public response to the disaster; The Student Volunteer Army — which partook in silt shifting after the February 2011 quake — again prepared the recruitment of participants to initiate street clearing actions. At Westpac|Westpac Bank, a public donation account was opened in order to provide financial assistance for earthquake victims. Chief executives from the Commonwealth Bank sponsored an exclusive dinner in Sydney to raise money for rebuilding costs; an initial Australian dollar|A$700,000 (US$660,000) was allocated prior to the event, with entry costs of A$10,000 (US$9,500) per ticket.
+
+==See also==
+* Earthquakes in New Zealand
+* Port Hills Fault
+* UC CEISMIC Canterbury Earthquakes Digital Archive
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+* http://earthquake.usgs.gov/earthquakes/recenteqsww/Quakes/usc000466f.php USGS earthquake report
+* http://www.telegraph.co.uk/news/worldnews/australiaandthepacific/newzealand/8571896/New-Zealand-earthquake-Christchurch-hit-by-magnitude-6.0-shock.html News report on the earthquake (video)
+
+{{earthquakes in 2011}}
+{{Earthquakes in New Zealand}}
+{{Christchurch earthquakes}}
+
+{{DEFAULTSORT:Christchurch earthquake, June 2011}}
+Category:2011 Christchurch earthquake|*June
+Category:2011 earthquakes
+
+{{Link GA|es}}

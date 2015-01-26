@@ -1,0 +1,49 @@
+{{Earthquake
+|title=2001 Bhuj (Gujarat) earthquake
+|date= {{Start date|2001|1|26}}
+|map = 2001 Gujarat earthquake.jpg
+|magnitude = 7.7 moment magnitude scale|M<sub>w</sub>
+|intensity= X (''Intense'')
+|depth= {{Convert|16|km|mi|0}}
+|location= Yellow star marks epicentre {{Coord|23.419|N|70.232|E|}}
+|countries affected = {{IND}}, {{PAK}}
+|casualties = approximately 20,000 believed dead, 166,001 injured
+}}
+The '''2001 Gujarat earthquake''' occurred on January 26, 2001, India's 52nd Republic Day (India)|Republic Day, at 08:46 AM local time (3:16 Coordinated universal time|UTC) and lasted for over two minutes. The epicentre was about 9&nbsp;km south-southwest of the village of Chobari The earthquake reached a Seismic scale#Magnitude scales|magnitude of between 7.6 and 7.7 on the moment magnitude scale and had a maximum felt intensity of X (''Intense'') on the Mercalli intensity scale. The quake killed around 20,000 people (including 18 in South eastern Pakistan), injured another 167,000 and destroyed nearly 400,000 homes.
+
+This was an intraplate earthquake, one that occurred at a distance from an active plate boundary, so the area was not well prepared. The shock waves spread 700&nbsp;km. 21 districts were affected and 600,000 people left homeless.
+
+==Tectonic setting==
+{{See also|Geology of India}}
+Gujarat lies about 400&nbsp;km from the plate boundary between the Indian Plate and the Eurasian Plate, but the current tectonics is still governed by the effects of the continuing continental collision along this boundary. During the break-up of Gondwana in the Jurassic, this area was affected by rifting with a roughly west-east trend. During the collision with Eurasia the area has undergone shortening, involving both reactivation of the original rift faults and development of new low-angle thrust faults. The related folding has formed a series of ranges, particularly in central Kutch. The focal mechanism of most earthquakes is consistent with reverse faulting on reactivated rift faults. The pattern of uplift and subsidence associated with the 1819 Rann of Kutch earthquake is consistent with reactivation of such a fault. The 2001 Gujarat earthquake was caused by movement on a previously unknown south-dipping fault, trending parallel to the inferred rift structures.
+
+==Effects==
+The final death toll in Kutch District|Kutch was 12,300. Bhuj, situated only {{convert|20|km|mi}} from the epicenter, was devastated. Considerable damage also occurred in Bhachau and Anjar, India|Anjar with hundreds of villages flattened in Taluka of Anjar, Bhuj & Bhachau. Over a million structures were damaged or destroyed, including many historic buildings and tourist attractions. The quake destroyed around 40% of homes, eight schools, two hospitals and 4&nbsp;km of road in Bhuj and partly destroyed the city's historic Shri Swaminarayan Mandir, Bhuj|Swaminarayan temple and historic fort as well Prag Mahal and Aina Mahal. In Ahmedabad, Gujarat's commercial capital with a population of 5.6 million, as many as 50 multi-storied buildings collapsed and several hundred people were killed. Total property damage was estimated at $5.5 billion and rising. In Kutch, the quake destroyed about 60% of food and water supplies and around 258,000 houses - 90% of the district's housing stock. The biggest setback was the total demolition of the Bhuj Civil hospital. The Indian military provided emergency support which was later augmented by the International Federation of Red Cross and Red Crescent Society. A temporary Red Cross hospital remained in Bhuj to provide care while a replacement hospital was built.
+
+==See also==
+* Earthquake hazard zoning of India
+* List of earthquakes in India
+
+==References==
+{{Reflist}}
+*http://www.currentscience.ac.in/Volumes/100/05/0754.pdf
+
+==External links==
+{{Commons category|2001 Gujarat earthquake}}
+*http://www.bhujada.com/  Bhuj Area Development Authority
+*http://asc-india.org/lib/20010126-kachchh.htm Special Event Page, Amateur Seismic Centre, India
+*http://cires.colorado.edu/~bilham/Gujarat2001.html Bhuj earthquake, University of Colorado
+*http://home.iitk.ac.in/~ramesh/gujrat/gujarat.htm Gujarat Earthquake, Pictures and Analysis
+*http://www.currentscience.ac.in/Volumes/100/05/0754.pdf
+{{Coord|23.6|N|69.8|E|source:enwiki-plaintext-parser|display=title}}
+
+{{Earthquakes in 2001}}
+
+{{DEFAULTSORT:2001 Gujarat Earthquake}}
+Category:2001 earthquakes|Gujarat Earthquake
+Category:2001 disasters in India|Gujarat earthquake
+Category:Earthquakes in Gujarat|2001 Gujarat
+Category:History of Gujarat (1947–present)
+Category:History of Ahmedabad|Gujarat Earthquake, 2001
+Category:History of Kutch
+Category:Earthquakes in India|2001 Gujarat

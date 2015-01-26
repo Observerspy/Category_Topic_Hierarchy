@@ -1,0 +1,2229 @@
+{{Use mdy dates|date=November 2013}}
+{{Infobox election
+| election_name = United States Presidential Election, 2000
+| country = United States
+| type = presidential
+| ongoing = no
+| previous_election = United States presidential election, 1996
+| previous_year = 1996
+| next_election = United States presidential election, 2004
+| next_year = 2004
+| election_date = November 7, 2000
+| votes_for_election         = [[List of United States presidential electors, 2000|537/538 electoral votes]] of the [[Electoral College (United States)|Electoral College]]
+| needed_votes               = 270 electoral
+| turnout                    = 54.2% (voting eligible)<ref name=turnout>{{cite web |url=http://elections.gmu.edu/Turnout_2000G.html |title=2000 General Election Turnout Rates |publisher=[[George Mason University]] |accessdate=December 13, 2012}}</ref>
+<!-- George W. Bush -->
+| image1 = [[File:GeorgeWBush.jpg|160px|border]]
+| nominee1 = '''[[George W. Bush]]'''
+| party1 = Republican Party (United States)
+| home_state1 = [[Texas]]
+| running_mate1 = '''[[Dick Cheney]]'''
+| electoral_vote1 = '''271'''
+| states_carried1 = '''30'''
+| popular_vote1 = 50,456,002
+| percentage1 = 47.9%
+<!-- Al Gore -->
+| image2 = [[File:Al Gore, Vice President of the United States, official portrait 1994.jpg|160px|border]]
+| nominee2 = [[Al Gore]]
+| party2 = Democratic Party (United States)
+| home_state2 = [[Tennessee]]
+| running_mate2 = [[Joe Lieberman]]
+| electoral_vote2 = 266<ref>One [[List of United States presidential electors, 2000|elector]] abstained in the official tally</ref>
+| states_carried2 = 20 + [[Washington, D.C.|DC]]
+| popular_vote2 = '''50,999,897'''
+| percentage2 = '''48.4%'''
+| map = {{United States presidential election, 2000 imagemap}}        
+| map_size = 349px
+| map_caption = Presidential election results map. <span style="color:#C20;">Red</span> denotes states won by Bush/Cheney,
+<span style="color:darkblue;">Blue</span> denotes those won by Gore/Lieberman.
+| title = President
+| before_election =  [[Bill Clinton]]
+| before_party = Democratic Party (United States)
+| after_election = [[George W. Bush]]
+| after_party = Republican Party (United States)
+}}
+The '''United States presidential election of 2000''' was the 54th quadrennial [[United States presidential election|presidential election]]. It was held on Tuesday, November 7, 2000. The contest was between [[Republican Party (United States)|Republican]] candidate [[George W. Bush]], the incumbent [[governor of Texas]] and son of former president [[George H. W. Bush]], and [[Democratic Party (United States)|Democratic]] candidate [[Al Gore]], the incumbent [[Vice President of the United States|Vice President]].
+
+Incumbent Democratic [[President of the United States|President]] [[Bill Clinton]] was not eligible to serve a third term, and Vice President Gore was able to secure the Democratic nomination with relative ease. Bush was seen as the early favorite for the Republican nomination, and despite a contentious primary battle with Senator [[John McCain]] and other candidates, secured the nomination by [[Super Tuesday]]. Many third party candidates also ran, most prominently [[Ralph Nader]]. Bush chose former [[United States Secretary of Defense|Secretary of Defense]] Dick Cheney as his running mate, and Gore chose Senator [[Joe Lieberman]] as his. Both major party candidates focused primarily on domestic issues, such as the budget, tax relief, and reforms for federal [[social insurance]] programs, though foreign policy was not ignored. Clinton and Gore did not often campaign together, a deliberate decision resulting from the [[Lewinsky scandal|Lewinsky sex scandal]] two years prior.
+
+Election results hinged on [[United States presidential election in Florida, 2000|Florida]], where the margin of victory triggered a mandatory recount. Litigation in select counties started additional recounts, and this litigation ultimately reached the [[Supreme Court of the United States|United States Supreme Court]]. The Court's contentious decision in ''[[Bush v. Gore]]'' (in contrast to an equally contentious decision by the Florida State Supreme Court), announced on December 12, 2000, ended the recounts, effectively awarding Florida's votes to Bush and granting him the victory. This marked the fourth election in U.S. history in which the eventual winner failed to win a plurality of the [[popular vote]] (after the elections of [[United States presidential election, 1824|1824]], [[United States presidential election, 1876|1876]], and [[United States presidential election, 1888|1888]]). Later studies have [[#Aftermath|reached conflicting opinions]] on who would have won the recount had it been allowed to proceed.
+
+==Democratic Party nomination==
+{{Main|Democratic Party presidential primaries, 2000}}
+
+Democratic candidates
+*[[Al Gore]], Vice President of the United States from [[Tennessee]]
+*[[Bill Bradley]], former U.S. Senator from [[New Jersey]] (withdrew on March 9, 2000 and endorsed Al Gore)
+
+===Candidates gallery===
+<gallery perrow="4">
+File:Al Gore, Vice President of the United States, official portrait 1994.jpg|[[U.S. Vice President|Vice President]] '''[[Al Gore]]''' of [[Tennessee]] ([[Al Gore presidential campaign, 2000|campaign]])
+File:Senator Bill Bradley (D-NJ).jpg|Former [[United States Senate|Senator]] '''[[Bill Bradley]]''' of [[New Jersey]] (Withdrew on March 9, 2000)
+</gallery>
+
+[[Al Gore]] of [[Tennessee]] was a consistent front-runner for the  nomination. Other prominent Democrats mentioned as possible contenders included [[Bob Kerrey]],<ref>{{cite news | url = http://www.cnn.com/ALLPOLITICS/stories/1998/12/13/kerrey/ | title = Nebraska's Kerrey bows out of 2000 presidential race | publisher = CNN | date = December 13, 1998 }}</ref> [[Missouri]] Congressman [[Dick Gephardt]], [[Minnesota]] Senator [[Paul Wellstone]], and famous actor and director [[Warren Beatty]], who declined to run.<ref>York, Anthony (September 2, 1999) [http://www.salon.com/news/feature/1999/09/02/beatty/index.html "Life of the Party?"] ''Salon News''.</ref> Of these, only Wellstone formed an [[exploratory committee]].<ref>{{cite news | url = http://www.cnn.com/ALLPOLITICS/1998/04/08/wellstone/index.html | title = Wellstone Launches Presidential Exploratory Committee | publisher = CNN | first = Carin | last = Dessauer | date = April 8, 1998 }}</ref>
+
+In addition to Gore's advantage as the incumbent Vice President, Bradley was not the candidate of a major faction or coalition of blocs. Running an insurgency campaign, Bradley positioned himself as the alternative to Gore, who was a founding member of the centrist [[Democratic Leadership Council]]. While former basketball star [[Michael Jordan]] campaigned for him in the early primary states, Bradley announced his intention to campaign "in a different way" by conducting a positive campaign of "big ideas". The focus of his campaign was a plan to spend the record-breaking budget surplus on a variety of social welfare programs to help the poor and the middle-class, along with campaign finance reform and [[gun control]].
+
+Gore easily defeated Bradley in the primaries, largely because of support from the Democratic Party establishment and Bradley's poor showing in the Iowa caucus, where Gore successfully painted Bradley as aloof and indifferent to the plight of farmers. The closest Bradley came to a victory was his 50–46 loss to Gore in the New Hampshire primary. On March 14, Al Gore won the Democratic nomination.
+
+None of Bradley's delegates were allowed to vote for him, so Gore won the nomination unanimously at the [[2000 Democratic National Convention|Democratic National Convention]]. [[Connecticut]] Senator [[Joe Lieberman]] was nominated for Vice President by voice vote. Lieberman became the first [[American Jews|Jewish American]] ever to be chosen for this position by a major party. Gore chose Lieberman over five finalists.<ref name = GoreLiebermanCNN>{{cite news | url = http://archives.cnn.com/2000/ALLPOLITICS/stories/08/07/gore.lieberman/index.html | title = Gore, Lieberman prepare for public debut of Democratic ticket | publisher = CNN | date = August 8, 2000 }} {{Dead link|date=August 2010|bot=RjwilmsiBot}}</ref>
+
+Delegate totals:
+
+*Vice President Albert Gore Jr. 4328
+*[[Abstentions]]                   9
+
+==Republican Party nomination==
+{{Main|Republican Party presidential primaries, 2000}}
+;Republican candidates:
+*[[George W. Bush]], [[Governor of Texas|Governor]] of [[Texas]]
+*[[John McCain]], [[United States Senate|Senator]] from [[Arizona]] (withdrew on March 9, 2000 and endorsed George W. Bush)
+*[[Alan Keyes]], former U.S. [[ECOSOC]] Ambassador from [[Maryland]] (withdrew on July 25, 2000 and endorsed George W. Bush)
+*[[Steve Forbes]], [[Businessperson|businessman]] from New Jersey (withdrew on February 10, 2000 and endorsed John McCain. He then endorsed George W. Bush)
+*[[Gary Bauer]], former [[United States Secretary of Education|Undersecretary of Education]] from [[Kentucky]] (withdrew on February 4, 2000 and endorsed John McCain. He then endorsed George W. Bush)
+*[[Orrin Hatch]], Senator from [[Utah]] (withdrew on January 26, 2000 and endorsed George W. Bush)
+*[[Elizabeth Dole]], former [[United States Secretary of Labor|Secretary of Labor]]  from [[North Carolina]] (withdrew on October 20, 1999 and endorsed George W. Bush)
+*[[Pat Buchanan]], publisher and author from [[Virginia]] (withdrew on October 25, 1999 to run for the Reform Party nomination)
+*[[Dan Quayle]], former [[Vice President of the United States|Vice President]] from [[Indiana]] (withdrew on September 27, 1999 and endorsed George W. Bush)
+*[[Lamar Alexander]], former [[Governor of Tennessee|Governor]] of [[Tennessee]] (withdrew on August 22, 1999 and endorsed George W. Bush)
+*[[Bob Smith (American politician)|Bob Smith]], Senator from [[New Hampshire]] (withdrew in October 1999 and endorsed George W. Bush)
+*[[John Kasich]], [[United States House of Representatives|Representative]] from [[Ohio]] (withdrew in July 1999 and endorsed George W. Bush)
+*[[Herman Cain]], CEO of [[Godfather's Pizza]] from [[Nebraska]]<ref>{{cite web|url=http://images.nictusa.com/cgi-bin/fecimg/?_99034384099+0|title=Statement of Candidacy|work=Federal Election Commission|accessdate=October 5, 2011}}</ref> (withdrew and endorsed Steve Forbes. He then endorsed George W. Bush)
+
+===Candidates gallery===
+<gallery perrow="7">
+File:GeorgeWBush.jpg|[[Governor of Texas|Governor]] '''[[George W. Bush]]''' of [[Texas]] ([[George W. Bush presidential campaign, 2000|campaign]])
+File:John McCain.jpg|Senator '''[[John McCain]]''' of [[Arizona]] ([[John McCain presidential campaign, 2000|campaign]]) (Withdrew on March 9, 2000)
+File:Alan Keyes.jpg|Former U.S. [[ECOSOC]] Ambassador '''[[Alan Keyes]]''' of [[Maryland]] (Withdrew on July 25, 2000)
+File:Steve_Forbes.jpg|[[Businessperson|Businessman]] '''[[Steve Forbes]]''' of New Jersey (Withdrew on February 10, 2000)
+File:Barybauerconcord.jpg|Former [[United States Secretary of Education|Undersecretary of Education]] '''[[Gary Bauer]]''' of [[Kentucky]] (Withdrew on February 4, 2000)
+File:Orrin Hatch official photo.jpg|[[United States Senate|Senator]] '''[[Orrin Hatch]]''' of [[Utah]] (Withdrew on January 26, 2000)
+File:Elizabeth Dole official photo.jpg|Former [[United States Secretary of Labor|Secretary of Labor]] '''[[Elizabeth Dole]]''' of [[North Carolina]] (Withdrew on October 20, 1999)
+File:Patrickjbuchanan.JPG|Publisher and author '''[[Pat Buchanan]]''' of [[Virginia]] (Withdrew on October 25, 1999)
+File:Dan Quayle, official DoD photo.JPEG|Former [[Vice President of the United States|Vice President]] '''[[Dan Quayle]]''' of [[Indiana]] (Withdrew on September 27, 1999)
+File:Lamar Alexander black and white photo.jpg|Former [[Governor of Tennessee|Governor]] '''[[Lamar Alexander]]''' of [[Tennessee]] (Withdrew on August 22, 1999)
+File:Robert C Smith.jpg|Senator '''[[Bob Smith (American politician)|Bob Smith]]''' of [[New Hampshire]] (Withdrew in October 1999)
+File:John Kasich.jpg|[[United States House of Representatives|Representative]] '''[[John Kasich]]''' of [[Ohio]] (Withdrew in July 1999)
+File: Herman Cain by Gage Skidmore 4.jpg|Businessman '''[[Herman Cain]]''' of [[Nebraska]] (Withdrew early in campaign)
+</gallery>
+
+Several Republican candidates appeared on the national scene to challenge Gore's candidacy.
+
+George W. Bush became the early front-runner, acquiring unprecedented funding and a broad base of leadership support based on his governorship of Texas and the name recognition and connections of the Bush family. Former cabinet member [[George Shultz]] played an important early role in securing establishment Republican support for Bush. In April 1998, he invited Bush to discuss policy issues with experts including [[Michael Boskin]], [[John B. Taylor|John Taylor]], and [[Condoleezza Rice]]. The group, which was "looking for a candidate for 2000 with good political instincts, someone they could work with", was impressed, and Shultz encouraged him to enter the race.<ref>{{Cite episode |title= The Choice 2004|series=Frontline|serieslink=Frontline (U.S. TV series)|network=PBS|station=[[WGBH-TV]]|city=Boston|airdate=October 12, 2004|transcripturl= http://www.pbs.org/wgbh/pages/frontline/shows/choice2004/etc/script.html|accessdate=February 28, 2011}}</ref> Several aspirants withdrew before the [[Iowa Republican caucuses, 2000|Iowa Caucus]] because they were unable to secure funding and endorsements sufficient to remain competitive with Bush. These included [[Elizabeth Dole]], [[Dan Quayle]], [[Lamar Alexander]], and [[Bob Smith (American politician)|Bob Smith]]. [[Pat Buchanan]] dropped out to run for the Reform Party nomination. That left Bush, [[John McCain]], [[Alan Keyes]], [[Steve Forbes]], [[Gary Bauer]], and [[Orrin Hatch]] as the only candidates still in the race.
+
+On January 24, Bush won the Iowa caucus with 41% of the vote. Forbes came in second with 30% of the vote. Keyes received 14%, Bauer 9%, McCain 5%, and Hatch 1%. Hatch dropped out. On the national stage, Bush was portrayed in the media as the establishment candidate. McCain, with the support of many moderate Republicans and Independents, portrayed himself as a crusading insurgent who focused on [[Electoral reform|campaign reform]].
+
+On February 1, McCain won a 49–30% victory over Bush in the [[New Hampshire Presidential primary|New Hampshire primary]]. Gary Bauer dropped out. After coming in third in Delaware Forbes dropped out, leaving three candidates. In the [[South Carolina Republican primary, 2000|South Carolina primary]], Bush soundly defeated McCain. Some McCain supporters blamed it on the Bush campaign, accusing them of mudslinging and dirty tricks, such as [[push poll]]ing that implied that McCain's adopted Bangladeshi-born daughter was an African-American child he fathered out of wedlock.<ref name=pushpolling>{{cite web|url=http://www.dadmag.com/archive/060400jmccain.php |title=Interview with John McCain|publisher=Dadmag.com |date=June 4, 2000 |accessdate=November 16, 2008}}</ref> While McCain's loss in South Carolina damaged his campaign, he won both Michigan and his home state of Arizona on February 22.
+
+On February 24, McCain criticized Bush for accepting the endorsement of [[Bob Jones University]] despite its policy banning interracial dating. On February 28, McCain also referred to Rev. [[Jerry Falwell]] and televangelist [[Pat Robertson]] as "agents of intolerance", a term he would later distance himself from during his [[John McCain presidential campaign, 2008|2008 bid]] for the party's nomination. He lost the state of Virginia to Bush on February 29. On [[Super Tuesday]], March 7, Bush won New York, Ohio, Georgia, Missouri, California, Maryland, and Maine. McCain won Rhode Island, Vermont, Connecticut, and Massachusetts, but dropped out of the race. On March 10, Alan Keyes got 21% of the vote in Utah. Bush took the majority of the remaining contests and won the Republican nomination on March 14, winning his home state of Texas and his brother [[Jeb Bush|Jeb's]] home state of Florida among others. At the Republican National Convention in Philadelphia George W. Bush accepted the nomination of the Republican party.
+
+;Delegate totals
+*Governor George W. Bush       1526
+*Senator John McCain            275
+*Ambassador Dr. Alan Keyes       23
+*Businessman Steve Forbes        10
+*Gary Bauer                       2
+*None of the Names Shown          2
+*Uncommitted                      1
+
+Bush asked former [[United States Secretary of Defense|Secretary of Defense]] [[Dick Cheney]] to head up a team to help select a running mate for him, but ultimately, Bush decided that Cheney himself should be the vice presidential nominee. While the U.S. Constitution does not specifically disallow a president and a vice president from the same state, it does prohibit electors from casting both of his or her votes for persons from his or her own state. Accordingly, Cheney—who had been a resident of [[Texas]] for nearly 10 years—changed his voting registration back to Wyoming. Had Cheney not done this, either he or Bush would have forfeited their electoral votes from the Texas electors.
+
+;Other mentioned candidates
+*Former Sen. [[John Danforth]] of Missouri<ref name = WashingtonMonthly>{{cite news | url = http://www.washingtonmonthly.com/features/1999/9907.starr.campaign.html | title = Running Mates: Who will be on the ticket in 2000? | first = Alexandra | last = Starr | work = [[The Washington Monthly]] | date = July–August 1999 }}</ref>
+*Gov. [[John Engler]] of Michigan<ref name=WashingtonMonthly/>
+*Sen. [[Bill Frist]] of Tennessee<ref name="cnn-03-05-10">{{cite news|url=http://politicalticker.blogs.cnn.com/2010/03/05/rove-cheney-squirmed-when-offered-vp-spot/|title=Rove: Cheney 'squirmed' when offered VP spot|date=March 5, 2010|accessdate=March 10, 2010|publisher=CNN|first1=Charles|last1=Riley|first2=Ed|last2=Hornick}}</ref>
+*Sen. [[Chuck Hagel]] of Nebraska<ref name=WashingtonMonthly/>
+*Gov. [[Frank Keating]] of Oklahoma<ref name=WashingtonMonthly/>
+*Sen. [[Jon Kyl]] of Arizona<ref name="cnn-03-05-10"/>
+*Sen. [[Connie Mack III|Connie Mack]] of Florida
+*Gov. [[George Pataki]] of New York
+*Gen. [[Colin Powell]] of New York<ref name=WashingtonMonthly/>
+*Gov. [[Tom Ridge]] of Pennsylvania<ref name=WashingtonMonthly/>
+*Sen. [[Fred Thompson]] of Tennessee<ref name=WashingtonMonthly/>
+
+===Notable endorsements===
+{{Cite check|date=September 2008}}
+
+Note: Some of the endorsers switched positions.
+
+;George W. Bush
+*[[Senate Majority Leader]] [[Trent Lott]] of [[Mississippi]]<ref>{{cite web|url=http://www.ourcampaigns.com/RaceDetail.html?RaceID=32218|title=Mississippi US President Republican Primary Race|date=March 14, 2000}}</ref>
+*Former [[HUD Secretary]] and 1996 V.P. nominee [[Jack Kemp]] of New York<ref name=2/1/2000primary>{{cite web|url=http://www.ourcampaigns.com/RaceDetail.html?RaceID=55218 |title=US President—Republican Primaries Race |publisher=Our Campaigns |date=February 1, 2000 |accessdate=November 16, 2008}}</ref>
+*Senator [[Bob Smith (American politician)|Bob Smith]] of [[New Hampshire]]<ref name=NHprimary>{{cite web|url=http://www.ourcampaigns.com/RaceDetail.html?RaceID=32108 |title=New Hampshire US President—Republican Primary Race |publisher=Our Campaigns |date=February 1, 2000 |accessdate=November 16, 2008}}</ref>
+*Former [[Governor of New Hampshire|Governor]] and [[White House Chief of Staff]] [[John H. Sununu]] of New Hampshire<ref name = NHprimary/>
+*[[Governor of Arizona|Governor]] [[Jane Dee Hull]] of [[Arizona]]<ref>
+{{cite news |first=Richard L. |last=Berke |title=McCain Having to Prove Himself Even in Arizona
+ |url=http://www.nytimes.com/1999/10/25/us/mccain-having-to-prove-himself-even-in-arizona.html?n=Top/Reference/Times%20Topics/People/H/Hull,%20Jane%20Dee&pagewanted=all
+ |work=[[New York Times]] |date=October 25, 1999 |accessdate=April 21, 2009
+ |publisher= |location= |id= |pages= |page= |language= |archiveurl= |archivedate= |quote=}}
+</ref><ref name="autogenerated1">{{cite web|url=http://www.ourcampaigns.com/RaceDetail.html?RaceID=32081|title=Arizona US President—Republican Primary Race—Feb 22, 2000}}</ref>
+*[[Governor of Michigan|Governor]] [[John Engler]] of [[Michigan]]
+*Senator [[John Warner]] of [[Virginia]]<ref name=VAprimary>{{cite web|url=http://www.ourcampaigns.com/RaceDetail.html?RaceID=34624 |title=Virginia US President—Republican Primary Race |publisher=Our Campaigns |date=February 29, 2000 |accessdate=November 16, 2008}}</ref>
+*[[Governor of Virginia|Governor]] [[Jim Gilmore]] of Virginia<ref name = VAprimary/>
+*Senator [[John Ashcroft]] of [[Missouri]]<ref>{{cite web|url=http://www.ourcampaigns.com/RaceDetail.html?RaceID=32448|title=Missouri US President Republican Primary Race—Mar 7, 2000}}</ref>
+*[[Governor of Massachusetts|Governor]] [[Paul Cellucci]] of [[Massachusetts]]<ref>{{cite web|url=http://www.ourcampaigns.com/RaceDetail.html?RaceID=32187|title=Massachusetts US President Republican Primary Race—Mar 7, 2000}}</ref>
+*[[Governor of Wisconsin|Governor]] [[Tommy Thompson]] of [[Wisconsin]]<ref>{{cite web|url=http://www.ourcampaigns.com/RaceDetail.html?RaceID=34642|title=Wisconsin US President—Republican Primary Race—Apr 4, 2000}}</ref>
+*Representative [[John Thune]] of [[South Dakota]]<ref>{{cite web|url=http://www.ourcampaigns.com/RaceDetail.html?RaceID=34611|title=South Dakota US President—Republican Primary Race—Jun 6, 2000}}</ref>
+
+;John McCain
+*Senator [[Jon Kyl]] of [[Arizona]]<ref name="autogenerated1" />
+*Senator [[Fred Thompson]] of [[Tennessee]]<ref>{{cite web|url=http://www.ourcampaigns.com/RaceDetail.html?RaceID=34613|title=Tennessee US President—Republican Primary Race—Mar 14, 2000}}</ref>
+*Senator [[Mike DeWine]] of [[Ohio]]<ref>{{cite web|url=http://www.ourcampaigns.com/RaceDetail.html?RaceID=32482|title=Ohio US President—Republican Primary Race—Mar 7, 2000}}</ref>
+*Senator [[Chuck Hagel]] of [[Nebraska]]<ref>{{cite web|url=http://www.ourcampaigns.com/RaceDetail.html?RaceID=32462|title=Nebraska US President Republican Primary Race—May 9, 2000}}</ref>
+*Representative [[Lindsey Graham]] of [[South Carolina]]<ref name=SCprimary>{{cite web|url=http://www.ourcampaigns.com/RaceDetail.html?RaceID=34610 |title=South Carolina US President—Republican Primary Race |publisher=Our Campaigns |date=February 19, 2000 |accessdate=November 16, 2008}}</ref>
+*Representative [[Mark Sanford]] of South Carolina<ref name=SCprimary>{{cite web|url=http://www.ourcampaigns.com/RaceDetail.html?RaceID=34610 |title=SC US President—Republican Primary Race |publisher=Our Campaigns |date=February 19, 2000 |accessdate=November 16, 2008}}</ref>
+*Representative [[Peter T. King]] of New York<ref>{{cite web|url=http://www.ourcampaigns.com/CandidateDetail.html?CandidateID=1964|title=Candidate—Peter T. King}}</ref>
+*[[Staten Island]] Borough President [[Guy Molinari]]<ref>{{cite web|url=http://www.ourcampaigns.com/CandidateDetail.html?CandidateID=15104|title=Candidate—Guy V. Molinari}}</ref>
+
+;Steve Forbes
+*Representative [[Roscoe Bartlett]] of [[Maryland]]<ref>{{cite web|url=http://www.ourcampaigns.com/CandidateDetail.html?CandidateID=1202|title=Candidate—Roscoe G. Bartlett}}</ref>
+*[[Ohio]] Secretary of State [[Ken Blackwell]]<ref>{{cite web|url=http://www.ourcampaigns.com/CandidateDetail.html?CandidateID=3696 |title=Candidate—J. Kenneth Blackwell}}</ref>
+*[[Sarah Palin]], mayor of [[Wasilla, Alaska]]<ref>[http://www.factcheck.org/elections-2008/sliming_palin.html Sliming Palin], ''[[FactCheck.org]]'' (September 8, 2008)</ref>
+
+;Alan Keyes
+*Representative [[Tom Coburn]] of [[Oklahoma]]<ref>{{cite web|url=http://www.ourcampaigns.com/RaceDetail.html?RaceID=32484 |title=OK US President—Republican Primary Race—Mar 14, 2000}}</ref>
+
+;Orrin Hatch
+*Senator [[Robert Foster Bennett]] of [[Utah]]<ref name="2/1/2000primary"/>
+
+;Lamar Alexander
+*[[Governor of Arkansas|Governor]] [[Mike Huckabee]] of [[Arkansas]]<ref name="2/1/2000primary"/>
+*Former [[Governor of Iowa|Governor]] [[Terry Branstad]] of [[Iowa]]<ref name="2/1/2000primary"/>
+
+;Dan Quayle
+*Former [[Governor of South Carolina|Governor]] [[Carroll A. Campbell]] of [[South Carolina]]<ref name="2/1/2000primary"/>
+
+;John Kasich
+*Mike DeWine (initially)<ref name="2/1/2000primary"/>
+*Senator [[George Voinovich]] of [[Ohio]]<ref name="2/1/2000primary"/>
+*Representative [[John Boehner]] of [[Ohio]]<ref name="2/1/2000primary"/>
+
+==Other nominations==
+
+===Reform Party nomination===
+{{Main|Reform Party presidential primaries, 2000}}
+*[[Reform Party of the United States of America|Reform Party]] candidates
+**[[John B. Anderson]] of [[Florida]], former U.S. Representative for the 16th Congressional District of [[Illinois]], former Independent Presidential candidate
+**[[David L. Boren]] of [[Oklahoma]], former U.S. Senator
+**[[Pat Buchanan]] of [[Virginia]], former speechwriter and Senior Advisor to President [[Richard Nixon]]
+**[[Charles E. Collins]] of Georgia, former school board chairman from [[Bay County, Florida]]
+**[[John Hagelin]] of [[Iowa]], Ph.D., past and then-current [[Natural Law Party]] candidate
+**[[Ross Perot]] of [[Texas]], 1996 presidential nominee
+**[[Donald Trump]] of [[New York]], left the Republican party due to conflicting ideas on key issues
+The nomination went to Pat Buchanan<ref name="indy weekly">{{cite news |date=October 8, 2008 |work=[[Independent Weekly]] |title=Q&A with Socialist Party presidential candidate Brian Moore |url=http://www.indyweek.com/gyrobase/Content?oid=oid%3A266409}}</ref> and running mate [[Ezola Foster]] of [[California]], over the objections of party founder [[Ross Perot]] and despite a rump convention nomination of [[John Hagelin]] by the Perot faction (see Other nominations below). In the end, the [[Federal Election Commission]] sided with Buchanan, and that ticket appeared on 49 of 51 possible ballots.
+
+===Association of State Green Parties nomination===
+[[Image:Nader at O17.jpg|thumb|right|Ralph Nader in 2000]]
+*[[Green Party (United States)|Green Party]] candidates:<ref>{{cite web|url=http://www.thegreenpapers.com/News/20000625-0.html |title=Green Party Presidential Ticket—President: Ralph Nader, Vice President: Winona LaDuke |publisher=Thegreenpapers.com |accessdate=January 15, 2011}}</ref>
+**[[Ralph Nader]] of [[Connecticut]]—295
+**[[Jello Biafra]] of [[California]]—10
+**[[Stephen Gaskin]] of [[Tennessee]]—11
+**[[Joel Kovel]] of New York—3
+**Abstain—1
+
+The [[Greens/Green Party USA]], the then-recognized national party organization, later endorsed Ralph Nader for president and he appeared on the ballots of 43 states and [[District of Columbia|DC]].
+
+===Libertarian Party nomination===
+<gallery perrow="5">
+File:HarryBrowneLPCon1998.jpg|Writer '''[[Harry Browne]]''' of [[Tennessee]]
+</gallery>
+*[[Libertarian Party (United States)|Libertarian Party]] candidates delegate totals:<ref>{{cite web|url=http://www.thegreenpapers.com/News/20000702-0.html |title=Libertarian Party Presidential Ticket—President: Harry Browne, Vice President: Art Olivier |publisher=Thegreenpapers.com |date=July 3, 2000 |accessdate=January 15, 2011}}</ref>
+**[[Harry Browne]] of [[Tennessee]]—493
+**[[Don Gorman]] of [[New Hampshire]]—166
+**[[Jacob Hornberger]] of [[Virginia]]—120
+**[[Barry Hess]] of [[Arizona]]	53
+**None of the Above—23
+**other write-ins—15
+**David Hollist of [[California]]—8
+
+The [[United States Libertarian Party|Libertarian Party's]] National Nominating Convention nominated [[Harry Browne]] of Tennessee and [[Art Olivier]] of California for Vice President. Browne was nominated on the first ballot and Olivier received the Vice Presidential nomination on the second ballot.<ref>{{cite web|url=http://www.thegreenpapers.com/News/20000702-0.html |title=Libertarian Party Presidential Ticket |publisher=The Green Papers |date=July 2, 2000 |accessdate=November 16, 2008}}</ref>  Browne appeared on every state ballot except for Arizona, due to a minor dispute between the [[Libertarian Party of Arizona]] (who instead nominated [[L. Neil Smith]]) and the national [[United States Libertarian Party|Libertarian Party]].
+
+===Constitution Party nomination===
+*[[Constitution Party (United States)|Constitution Party]] candidates
+**[[Howard Phillips (politics)|Howard Phillips]]
+**[[Herb Titus]]
+**Mathew Zupan
+
+The Constitution Party nominated [[Howard Phillips (politics)|Howard Phillips]] of [[Virginia]] for a third time and [[Curtis Frazier]] of [[Missouri]]. The Constitution Party was on the ballot in 41 states.<ref name="web.archive.org">{{cite web|url=http://ballot-access.org/2000/status.html |title=Bob Bickford "2000 Presidential Status Summary (table)" '&#39;Ballot Access News'&#39; June 29, 2000 |publisher=Web.archive.org |date=October 1, 2000 |accessdate=August 8, 2010 |archiveurl=http://web.archive.org/web/20020917230202/ballot-access.org/2000/status.html |archivedate=September 17, 2002}}</ref>
+
+===Natural Law Party nomination===
+*[[John Hagelin]] of Iowa and [[Nat Goldhaber]] of California
+
+The [[United States Natural Law Party|Natural Law Party]] held its national convention in [[Arlington, Virginia]], August 31 – September 2, nominating a ticket of Hagelin/Goldhaber via unanimous decision without a roll-call vote.<ref>[[Richard Winger]] {{Wayback |date=20020618140231 |url=http://ballot-access.org/2000/1001.html#17 |title="Natural Law Convention" ''Ballot Access News'' October 1, 2000 Volume 16, Number 7 }}</ref> The party was on 38 of the 51 ballots nationally.<ref name="web.archive.org"/>
+
+==General election campaign==
+Although the campaign focused mainly on domestic issues, such as the projected budget surplus, proposed reforms of [[Social Security (United States)|Social Security]] and [[Medicare (United States)|Medicare]], health care, and competing plans for tax relief, foreign policy was often an issue. Bush criticized [[Clinton administration]] policies in [[Somalia]], where 18 Americans died in 1993 trying to sort out warring factions, and in the Balkans, where United States peacekeeping troops perform a variety of functions. "I don't think our troops ought to be used for what's called [[nation-building]]," Bush said in the second [[American presidential debate|presidential debate]].<ref>{{cite web| year=2004| url=http://www.debates.org/pages/trans2000b.html| title=The Second Gore-Bush Presidential Debate| work=2000 Debate Transcript| publisher=Commission on Presidential Debates| accessdate=October 21, 2005 |archiveurl = http://web.archive.org/web/20050403122916/http://www.debates.org/pages/trans2000b.html |archivedate = April 3, 2005}}</ref> Bush also pledged to bridge partisan gaps in the nation's capital, claiming the atmosphere in Washington stood in the way of progress on necessary reforms.<ref>{{cite news|url=http://www.cnn.com/ELECTION/2000/ |title=Election 2000 Archive |publisher=CNN/AllPolitics.com |accessdate=November 16, 2008 |archiveurl = http://web.archive.org/web/20080730055332/http://www.cnn.com/ELECTION/2000/ |archivedate = July 30, 2008}}</ref> Gore, meanwhile, questioned Bush's fitness for the job, pointing to gaffes made by Bush in interviews and speeches and suggesting the Texas governor lacked the necessary experience to be president.
+
+[[Bill Clinton]]'s [[impeachment of Bill Clinton|impeachment]] and the [[Lewinsky scandal|sex scandal]] that led up to it cast a shadow on the campaign, particularly on his vice president's run to replace him. Republicans strongly denounced the Clinton scandals, particularly Bush, who made his repeated promise to restore "honor and dignity" to the White House a centerpiece of his campaign. Gore studiously avoided the Clinton scandals, as did Lieberman, even though Lieberman had been the first Democratic senator to denounce Clinton's misbehavior. In fact, some media observers theorized that Gore actually chose Lieberman in an attempt to separate himself from Clinton's past misdeeds, and help blunt the GOP's attempts to link him to his boss.<ref>[[Dan Rather|Rather, Dan]]. [[CBS News|CBSNews.com]]. [http://www.cbsnews.com/stories/2000/08/09/politics/main223151.shtml Out of the Shadows]. August 9, 2000.</ref> Others pointed to the passionate kiss Gore gave his wife during the [[2000 Democratic National Convention|Democratic Convention]], as a signal that despite the allegations against Clinton, Gore himself was a faithful husband.<ref>[[The New York Times]]. [http://query.nytimes.com/gst/fullpage.html?res=9C05E3D6123EF933A1575BC0A9669C8B63 When a Kiss Isn't Just a Kiss]. August 20, 2000.</ref> Gore avoided appearing with Clinton, who was shunted to low visibility appearances in areas where he was popular. Experts have argued that this cost Gore votes from some of Clinton's core supporters.<ref>{{cite web|url=http://www.greens.org/s-r/25/25-03.html |title=Greens.org |publisher=Greens.org |accessdate=May 28, 2010}}</ref><ref>{{cite web|author=Jacob Weisberg |url=http://www.slate.com/id/1006450/ |title=Slate.com |publisher=Slate.com |date=November 8, 2000 |accessdate=May 28, 2010}}</ref><ref>{{cite web|url=http://www.nigerdeltacongress.com/articles/an_anatomy_of_2000_usa_president.htm |title=Nigerdeltacongress.com |publisher=Nigerdeltacongress.com |accessdate=May 28, 2010}}</ref>
+
+[[Ralph Nader]] was the most successful of third-party candidates, drawing 2.74 percent of the popular vote. His campaign was marked by a traveling tour of large "super-rallies" held in sports arenas like [[Madison Square Garden]], with retired [[talk show host]] [[Phil Donahue]] as master of ceremonies. After initially ignoring Nader, the Gore campaign made a pitch to (potential) Nader supporters in the final weeks of the campaign, downplaying Gore's differences with Nader on the issues and arguing that Gore's ideas were more similar to Nader's than Bush's were, and noting that Gore had a better chance of winning than Nader. On the other side, the [[Republican Leadership Council]] ran pro-Nader ads in a few states in an effort to split the liberal vote.<ref>Meckler, Laura (October 27, 2000) [http://www.washingtonpost.com/wp-srv/aponline/20001027/aponline115918_000.htm "GOP Group to Air Pro-Nader TV Ads."] ''Washington Post''.</ref> In the aftermath of the campaign, many Gore supporters claimed that Nader acted as a [[spoiler effect|spoiler]] in the election, that Nader votes would have been cast for Gore, and that Nader threw the election outcome to Bush. Nader dismissed such concerns, claiming his objective in the campaign was to pass the 5-percent threshold so his Green Party would be eligible for matching funds in future races.
+
+Both vice presidential candidates [[Dick Cheney]] and [[Joe Lieberman]] campaigned aggressively in the 2000 presidential election. Both camps made numerous campaign stops nationwide, often just missing each other such as when Cheney, [[Hadassah Lieberman]], and [[Tipper Gore]] attended Chicago's [[Taste of Polonia]] over [[Labor Day Weekend]].<ref>{{cite news|url=http://query.nytimes.com/gst/fullpage.html?res=9901E2DB1F30F936A3575AC0A9669C8B63|work=The New York Times|title=The 2000 Campaign: Campaign Briefing Published|date=September 5, 2000|accessdate=March 25, 2008}}</ref>
+
+===Presidential debates===
+{{Main|United States presidential election debates, 2000}}
+There were three presidential debates:
+*October 3, 2000, at the [[University of Massachusetts]] in Boston<ref>{{cite web|url=http://www.debates.org/index.php?page=2000-debates#oct-3-2000 |title=Commission on Presidential Debates |publisher=Debates.org |accessdate=October 14, 2012}}</ref>
+*October 11, 2000, at [[Wake Forest University]] in Winston-Salem, North Carolina<ref>{{cite web|url=http://www.debates.org/index.php?page=2000-debates#oct-11-2000 |title=Commission on Presidential Debates |publisher=Debates.org |accessdate=October 14, 2012}}</ref>
+*October 17, 2000, at [[Washington University in Saint Louis]], Missouri<ref>{{cite web|url=http://www.debates.org/index.php?page=2000-debates#oct-17-2000 |title=Commission on Presidential Debates |publisher=Debates.org |accessdate=October 14, 2012}}</ref>
+
+There was also one vice-presidential debate:
+*October 5, 2000, at [[Centre College]] in Kentucky<ref>{{cite web|url=http://www.debates.org/index.php?page=2000-debates#oct-5-2000 |title=Commission on Presidential Debates |publisher=Debates.org |accessdate=October 14, 2012}}</ref>
+
+The [[Commission on Presidential Debates]], formed by Democratic and Republican party leaders, set rules that effectively excluded all but the two major party candidates.<ref>{{cite web |url= http://www.opendebates.org/theissue/2000.html |title=Open Debates &#124; What Happened in 2000? |work=opendebates.org |year=2011 |accessdate=August 13, 2012}}</ref> Ralph Nader was blocked from attending a closed circuit screening of the first debate in spite of his holding a ticket.<ref>{{cite news |url= http://www.nytimes.com/2000/10/05/us/2000-campaign-green-party-nader-wants-apology-debate-panel-for-turning-him-away.html |title=THE 2000 CAMPAIGN: THE GREEN PARTY; Nader Wants Apology From Debate Panel for Turning Him Away |first=Carey |last=Goldberg |work=[[The New York Times]] |date=October 5, 2000 |publisher=[[New York Times Company|NYTC]] |location=[[New York City|New York]] |issn=0362-4331 |accessdate=August 13, 2012}}</ref> He was barred from attending an interview near the site of the third debate in spite of having a "perimeter pass".<ref>{{cite web |url= http://www.naderlibrary.com/lit.crashparty.12.htm |title=Crashing the Party |first=Ralph |last=Nader |work=naderlibrary.com |year=2002 |accessdate=August 13, 2012}}</ref> Nader later sued the CPD for its role in the former incident.  A settlement was reached that included an apology to Nader.<ref>{{cite web |url= http://www.ballot-access.org/2002/0501.html#05 |archiveurl= http://web.archive.org/web/20030604163632/http://www.ballot-access.org/2002/0501.html#05 |archivedate= June 4, 2003 |title=Ballot Access News – May 1, 2002 |first=Richard |last=Winger |work=web.archive.org |year=2002 |accessdate=August 13, 2012}}</ref>
+
+===Notable expressions and phrases===
+*[[Lockbox]]/Rainy Day fund: Gore's description of what he would do with the federal budget surplus.
+*[[Al Gore and information technology#1999 CNN interview|Al Gore invented the Internet]]: an interpretation of a quote by Al Gore in which he said that he "took the initiative in creating the Internet", to say that he was on the committee that funded the research which led to the formation of the Internet.
+
+==Results==
+[[Image:pbc-fl-2000-recount-1.jpg|right|thumb|200px|Palm Beach County recount]]
+
+With the exceptions of [[Florida]] and Gore's home state of [[Tennessee]], Bush carried the Southern states by comfortable margins (including then-President Bill Clinton's home state of Arkansas) and also secured wins in [[Ohio]], [[Indiana]], most of the rural [[Midwestern United States|Midwester]]n farming states, most of the Rocky Mountain states, and Alaska. Gore balanced Bush by sweeping the [[Northeastern United States]] (with the sole exception of [[New Hampshire]], which Bush won narrowly), most of the [[Upper Midwest]], and all of the Pacific Coast states of [[Washington (U.S. state)|Washington]], [[Oregon]], and [[California]], and carried [[Hawaii]], as well.
+
+As the night wore on, the returns in a handful of small-to-medium sized states, including [[Wisconsin]] and [[Iowa]], were extremely close; however it was the state of Florida that would make clear the winner of the election. As the final national results were tallied the following morning, Bush had clearly won a total of 246 electoral votes, while Gore had won 255 votes. 270 votes were needed to win. Two smaller states—[[New Mexico]] (5 electoral votes) and Oregon (7 electoral votes)—were still too close to call. It was Florida (25 electoral votes), however, that the [[news media]] focused their attention on. Mathematically, Florida's 25 electoral votes became the key to an election win for either candidate. Although both New Mexico and Oregon were declared in favor of Gore over the next few days, Florida's statewide vote took center stage because that state's winner would ultimately win the election. The outcome of the election was not known for more than a month after the balloting ended because of the extended process of counting and then recounting Florida's presidential ballots.
+
+===Florida recount===
+{{Main|United States presidential election in Florida, 2000}}
+[[Image:TallahaseePalmBeachBallotBox1.jpg|left|thumb|upright|2000 Palm Beach County voting stand and ballot box]]
+
+Between 7:50&nbsp;p.m. and 8:00&nbsp;p.m. EST on election day, just as the polls closed in the largely Republican Florida panhandle, which is in the Central time zone, all major television news networks (CNN, NBC, FOX, CBS, MSNBC, and ABC) declared that Gore had carried Florida's 25 electoral votes. They based this prediction substantially on [[exit poll]]s. However, in the actual vote tally Bush began to take a wide lead early in Florida, and by 10 p.m. EST the networks had retracted that prediction and placed Florida back into the "undecided" column. At approximately 2:30&nbsp;a.m., with some 85% of the votes counted in Florida and Bush leading Gore by more than 100,000 votes, the networks declared that Bush had carried Florida and therefore had been elected President. However, most of the remaining votes to be counted in Florida were located in three heavily Democratic counties—[[Broward County, Florida|Broward]], [[Miami-Dade County|Miami-Dade]], and [[Palm Beach County|Palm Beach]]—and as their votes were reported Gore began to gain on Bush. By 4:30&nbsp;a.m., after all votes were counted, Gore had narrowed Bush's margin to just over 2,000 votes, and the networks retracted their predictions that Bush had won Florida and the presidency. Gore, who had privately conceded the election to Bush, withdrew his concession. The final result in Florida was slim enough to require a mandatory recount (by machine) under state law; Bush's lead had dwindled to about 300 votes by the time it was completed later that week. A count of overseas military ballots later boosted his margin to about 900 votes.
+[[File:FlaSupremeCrtBldgFeb08.JPG|thumb|right|Florida Supreme Court]]
+Most of the post-electoral controversy revolved around Gore's request for hand recounts in four counties (Broward, Miami Dade, Palm Beach, and [[Volusia County, Florida|Volusia]]), as provided under Florida state law. [[Florida Secretary of State]] [[Katherine Harris]] announced she would reject any revised totals from those counties if they were not turned in by November 14, the statutory deadline for amended returns. The [[Florida Supreme Court]] extended the deadline to November 26, a decision later [[vacated]] by the [[U.S. Supreme Court]]. Miami-Dade eventually halted its recount and resubmitted its original total to the state canvassing board, while Palm Beach County failed to meet the extended deadline. On November 26, the state canvassing board certified Bush the winner of Florida's electors by 537 votes. Gore formally contested the certified results, but a state court decision overruling Gore was reversed by the Florida Supreme Court, which ordered a recount of over 70,000 ballots previously rejected by machine counters. The U.S. Supreme Court quickly halted that order the next day with the concurring opinion that a recount of votes "of questionable legality does [...] threaten irreparable harm" to Bush as "each manual recount produces a degradation of the ballots."<ref>{{cite web
+| url=http://election2000.stanford.edu/00-949x.pdf
+| title=SUPREME COURT OF THE UNITED STATES. No. 00-949 (00A504) Bush v. Gore, On Application For Stay| date=December 9, 2000}}</ref>
+
+On December 12, the Supreme Court [[Bush v. Gore|ruled]] in a 7–2 vote that the Florida Supreme Court's ruling requiring a statewide recount of ballots was unconstitutional, and in a 5–4 vote that the Florida recounts could not be completed before a December 12 "safe harbor" deadline, and should therefore cease and the previously certified total should hold.
+
+===National results===
+Though Gore came in second in the electoral vote, he received 543,895 more popular votes than Bush.<ref name="autogenerated2000">http://www.fec.gov/pubrec/2000presgeresults.htm</ref> Gore failed to win the popular vote in his home state, [[Tennessee]], which both he and his father had represented in the Senate, making him the first major-party presidential candidate to have lost his home state since [[George McGovern]] lost [[South Dakota]] in [[United States presidential election, 1972|1972]]. Furthermore, Gore lost [[West Virginia]], a state that had voted Republican only once in the previous six presidential elections.<ref>http://uselectionatlas.org/RESULTS/compare.php?year=1980&fips=54&f=1&off=0&elect=0&type=state</ref> A victory in either of these two states would have given Gore enough Electoral Votes to win the Presidency.
+
+Bush lost in [[Connecticut]], the state of his birth. Bush is also the first Republican in American history to win the presidency without winning Vermont or Illinois, the second Republican to win the presidency without winning California ([[James A. Garfield]] in [[U.S. presidential election, 1880|1880]] was the first), and the only winning Republican not to receive any electoral votes from California (Garfield received one vote in 1880).
+
+{{start U.S. presidential ticket box| pv_footnote=| ev_footnote=}}
+{{U.S. presidential ticket box row| name=[[George W. Bush]]| party=[[United States Republican Party|Republican]]| state=[[Texas]]| pv=50,456,002| pv_pct=47.87%| ev=271| vp_name=[[Dick Cheney]]| vp_state=[[Wyoming]]}}
+{{U.S. presidential ticket box row| name=[[Al Gore]]| party=[[United States Democratic Party|Democratic]]| state=[[Tennessee]]| pv=50,999,897| pv_pct=48.38%| ev=266| vp_name=[[Joe Lieberman]]| vp_state=[[Connecticut]]}}
+{{U.S. presidential ticket box row| name=[[Ralph Nader]]| party=[[Green Party (United States)|Green]]| state=[[Connecticut]]| pv=2,882,955| pv_pct=2.74%| ev=0| vp_name=[[Winona LaDuke]]| vp_state=[[Minnesota]]}}
+{{U.S. presidential ticket box row| name=[[Pat Buchanan]]| party=[[Reform Party of the United States of America|Reform]]| state=[[Virginia]]| pv=448,895| pv_pct=0.43%| ev=0| vp_name=[[Ezola B. Foster]]| vp_state=[[California]]}}
+{{U.S. presidential ticket box row| name=[[Harry Browne]]| party=[[Libertarian Party (United States)|Libertarian]]| state=[[Tennessee]]| pv=384,431| pv_pct=0.36%| ev=0| vp_name=[[Art Olivier]]| vp_state=[[California]]}}
+{{U.S. presidential ticket box row| name=[[Howard Phillips (politics)|Howard Phillips]]| party=[[Constitution Party (United States)|Constitution]]| state=[[Virginia]]| pv=98,020| pv_pct=0.09%| ev=0| vp_name=[[Curtis Frazier]]| vp_state=[[Missouri]]| }}
+{{U.S. presidential ticket box row| name=[[John Hagelin]]| party=[[United States Natural Law Party|Natural Law]]| state=[[Iowa]]| pv=83,714| pv_pct=0.08%| ev=0| vp_name=[[Nat Goldhaber]]| vp_state=[[California]]| }}
+{{U.S. presidential ticket box other| footnote=<sup>(b)</sup>| pv=51,186| pv_pct=0.05%}}
+{{U.S. presidential ticket box row| name=''([[abstention]])''<sup>(a)</sup>| party=—| state=—| pv=—| pv_pct=—| ev=1| vp_name=''(abstention)''<sup>(a)</sup>| vp_state=—}}
+{{end U.S. presidential ticket box| pv=105,405,100| ev=538| to_win=270}}
+'''Source (Electoral and Popular Vote): [http://www.fec.gov/pubrec/fe2000/elecpop.htm Federal Elections Commission Electoral and Popular Vote Summary]
+
+<sup>(a)</sup> ''One [[faithless elector]] from the [[District of Columbia]], [[Barbara Lett-Simmons]], abstained from voting in [[protest]] of the District's lack of voting representation in the [[Congress of the United States|United States Congress]]. (D.C. has a [[Delegate (United States Congress)|non-voting delegate]] to Congress.) She had been expected to vote for Gore/Lieberman. <br />
+<sup>(b)</sup> results were Bush 18,075 (51.6%), Gore 16,549 (47.2%), and Browne 420 (1.2%).<ref name="guam">{{cite web |url=http://ballot-access.org/2000/1116.html#13 |archiveurl=http://web.archive.org/web/20020425113542/http://ballot-access.org/2000/1116.html#13 |archivedate=April 25, 2002 |title=Bush Carries Guam |publisher=Ballot-Access.org |date=November 16, 2000 |accessdate=September 17, 2008}}</ref>
+
+{{bar box
+|title=Popular vote
+|titlebar=#ddd
+|width=600px
+|barwidth=410px
+|bars=
+{{bar percent|'''Gore'''|{{Democratic Party (US)/meta/color}}|48.38}}
+{{bar percent|Bush|{{Republican Party (US)/meta/color}}|47.87}}
+{{bar percent|Nader|{{Green Party (US)/meta/color}}|2.74}}
+{{bar percent|Buchanan|{{Reform Party of the United States of America/meta/color}}|0.43}}
+{{bar percent|Browne|{{Libertarian Party (US)/meta/color}}|0.36}}
+{{bar percent|Others|#777777|0.22}}
+}}
+{{bar box
+|title=Electoral vote
+|titlebar=#ddd
+|width=600px
+|barwidth=410px
+|bars=
+{{bar percent|'''Bush'''|{{Republican Party (US)/meta/color}}|50.37}}
+{{bar percent|Gore|{{Democratic Party (US)/meta/color}}|49.44}}
+{{bar percent|Others|#777777|0.19}}
+}}
+
+<gallery perrow="3" widths="500px" heights="317px">
+Image:2000nationwidecountymapshadedbyvoteshare.svg|Results by county, shaded according to winning candidate's percentage of the vote.
+Image:Nader2000percentagebycounty.svg|Vote share by county for Green Party candidate Ralph Nader. Darker shades indicate a stronger Green performance. 
+Image:2000prescountymap2.PNG|Election results by county.
+Image:2000 Presidential Election, Results by Congressional District.png| Results by Congressional District 
+</gallery>
+
+===State results===
+{{legend|#1560BD|[[Al Gore]]|border=1px #AAAAAA solid}}
+{{legend|#E32636|[[George W. Bush]]|border=1px #AAAAAA solid}}
+
+States where the margin of victory was less than 5% (139 electoral votes):
+#<span style="color:red;">'''Florida''', 0.0092%</span>
+#<span style="color:darkblue;">'''New Mexico''', 0.06%</span>
+#<span style="color:darkblue;">'''Wisconsin''', 0.22%</span>
+#<span style="color:darkblue;">'''Iowa''', 0.31%</span>
+#<span style="color:darkblue;">'''Oregon''', 0.44%</span>
+#<span style="color:red;">'''New Hampshire''', 1.27%</span>
+#<span style="color:darkblue;">'''Minnesota''', 2.40%</span>
+#<span style="color:red;">'''Missouri''', 3.34%</span>
+#<span style="color:red;">'''Ohio''', 3.51%</span>
+#<span style="color:red;">'''Nevada''', 3.55%</span>
+#<span style="color:red;">'''Tennessee''', 3.86%</span>
+#<span style="color:darkblue;">'''Pennsylvania''', 4.17%</span>
+
+States where the margin of victory was more than 5% but less than 10% (85 electoral votes):
+#<span style="color:darkblue;">'''Maine''', 5.11%</span>
+#<span style="color:darkblue;">'''Michigan''', 5.13%</span>
+#<span style="color:red;">'''Arkansas''', 5.44%</span>
+#<span style="color:darkblue;">'''Washington''', 5.58%</span>
+#<span style="color:red;">'''Arizona''', 6.29%</span>
+#<span style="color:red;">'''West Virginia''', 6.32%</span>
+#<span style="color:red;">'''Louisiana''', 7.68%</span>
+#<span style="color:red;">'''Virginia''', 8.04%</span>
+#<span style="color:red;">'''Colorado''', 8.36%</span>
+#<span style="color:darkblue;">'''Vermont''', 9.94%</span>
+
+Data comes from [http://www.fec.gov/pubrec/2000presgeresults.htm http://www.fec.gov/pubrec/2000presgeresults.htm], a U.S. Government document.
+
+===Votes by state===
+{|class="wikitable"
+|-{{Party shading/Democratic}}
+|States/districts won by [[Al Gore|Gore]]/[[Joe Lieberman|Lieberman]]
+|-{{Party shading/Republican}}
+|States/districts won by [[George W. Bush|Bush]]/[[Dick Cheney|Cheney]]
+|}<div style="overflow:auto">
+{| class="wikitable sortable" style="text-align:right"
+! colspan=2 | 
+! align=center colspan=3 | George W. Bush<br>Republican
+! align=center colspan=3 | Al Gore<br>Democratic
+! align=center colspan=3 | Ralph Nader<br>Green
+! align=center colspan=3 | Pat Buchanan<br>Reform
+! align=center colspan=3 | Harry Browne<br>Libertarian
+! align=center colspan=3 | Howard Phillips<br>Constitution
+! align=center colspan=3 | John Hagelin<br>Natural Law
+! align=center colspan=3 | Others
+! align=center colspan=2 | Margin
+! align=center colspan=2 | State Total
+|-
+! align=center | State
+! style="text-align:center; font-size: 60%" data-sort-type="number" | electoral<br>votes
+! align=center data-sort-type="number" | #
+! align=center data-sort-type="number" | %
+! style="text-align:center; font-size: 60%" data-sort-type="number" | electoral<br>votes
+! align=center data-sort-type="number" | #
+! align=center data-sort-type="number" | %
+! style="text-align:center; font-size: 60%" data-sort-type="number" | electoral<br>votes
+! align=center data-sort-type="number" | #
+! align=center data-sort-type="number" | %
+! style="text-align:center; font-size: 60%" data-sort-type="number" | electoral<br>votes
+! align=center data-sort-type="number" | #
+! align=center data-sort-type="number" | %
+! style="text-align:center; font-size: 60%" data-sort-type="number" | electoral<br>votes
+! align=center data-sort-type="number" | #
+! align=center data-sort-type="number" | %
+! style="text-align:center; font-size: 60%" data-sort-type="number" | electoral<br>votes
+! align=center data-sort-type="number" | #
+! align=center data-sort-type="number" | %
+! style="text-align:center; font-size: 60%" data-sort-type="number" | electoral<br>votes
+! align=center data-sort-type="number" | #
+! align=center data-sort-type="number" | %
+! style="text-align:center; font-size: 60%" data-sort-type="number" | electoral<br>votes
+! align=center data-sort-type="number" | #
+! align=center data-sort-type="number" | %
+! style="text-align:center; font-size: 60%" data-sort-type="number" | electoral<br>votes
+! align=center data-sort-type="number" | #
+! align=center data-sort-type="number" | %
+! style="text-align:center; font-size: 60%" data-sort-type="number" | #
+!
+|-{{Party shading/Republican}}
+| scope="row" | [[United States presidential election in Alabama, 2000|Alabama]]
+| 9
+| 941,173
+| 56.48%
+| 9
+| 692,611
+| 41.57%
+| –
+| 18,323
+| 1.10%
+| –
+| 6,351
+| 0.38%
+| –
+| 5,893
+| 0.35%
+| –
+| 775
+| 0.05%
+| –
+| 447
+| 0.03%
+| –
+| 699
+| 0.04%
+| –
+| −248,562
+| −14.92%
+| 1,666,272
+| AL
+|-{{Party shading/Republican}}
+| scope="row" | [[United States presidential election in Alaska, 2000|Alaska]]
+| 3
+| 167,398
+| 58.62%
+| 3
+| 79,004
+| 27.67%
+| –
+| 28,747
+| 10.07%
+| – 
+| 5,192
+| 1.82%
+| –
+| 2,636
+| 0.92%
+| –
+| 596
+| 0.21%
+| –
+| 919
+| 0.32%
+| –
+| 1,068
+| 0.37%
+| –
+| −88,394
+| −30.95%
+| 285,560
+| AK
+|-{{Party shading/Republican}}
+| scope="row" | [[United States presidential election in Arizona, 2000|Arizona]]
+| 8
+| 781,652
+| 51.02%
+| 8
+| 685,341
+| 44.73%
+| –
+| 45,645
+| 2.98%
+| –
+| 12,373
+| 0.81%
+| –
+| –
+| –
+| –
+| 110
+| 0.01%
+| –
+| 1,120
+| 0.07%
+| –
+| 5,775
+| 0.38%
+| –
+| −96,311
+| −6.29%
+| 1,532,016
+| AZ
+|-{{Party shading/Republican}}
+| scope="row" | [[United States presidential election in Arkansas, 2000|Arkansas]]
+| 6
+| 472,940
+| 51.31%
+| 6
+| 422,768
+| 45.86%
+| –
+| 13,421
+| 1.46%
+| –
+| 7,358
+| 0.80%
+| –
+| 2,781
+| 0.30%
+| –
+| 1,415
+| 0.15%
+| –
+| 1,098
+| 0.12%
+| –
+| –
+| –
+| –
+| −50,172
+| −5.44%
+| 921,781
+| AR 
+|-{{Party shading/Democratic}}
+| scope="row" | [[United States presidential election in California, 2000|California]]
+| 54
+| 4,567,429
+| 41.65%
+| –
+| 5,861,203
+| 53.45%
+| 54
+| 418,707
+| 3.82%
+| –
+| 44,987
+| 0.41%
+| –
+| 45,520
+| 0.42%
+| –
+| 17,042
+| 0.16%
+| –
+| 10,934
+| 0.10%
+| –
+| 34
+| 0.00%
+| –
+| 1,293,774
+| 11.80%
+| 10,965,856
+| CA
+|-{{Party shading/Republican}}
+| scope="row" | [[United States presidential election in Colorado, 2000|Colorado]]
+| 8
+| 883,748
+| 50.75%
+| 8
+| 738,227
+| 42.39%
+| –
+| 91,434
+| 5.25%
+| –
+| 10,465
+| 0.60%
+| –
+| 12,799
+| 0.73%
+| –
+| 1,319
+| 0.08%
+| –
+| 2,240
+| 0.13%
+| –
+| 1,136
+| 0.07%
+| –
+| −145,521
+| −8.36%
+| 1,741,368
+| CO
+|-{{Party shading/Democratic}}
+| scope="row" | [[United States presidential election in Connecticut, 2000|Connecticut]]
+| 8
+| 561,094
+| 38.44%
+| –
+| 816,015
+| 55.91%
+| 8
+| 64,452
+| 4.42%
+| – 
+| 4,731
+| 0.32%
+| –
+| 3,484
+| 0.24%
+| –
+| 9,695
+| 0.66%
+| –
+| 40
+| 0.00%
+| –
+| 14
+| 0.00%
+| –
+| 254,921
+| 17.47%
+| 1,459,525
+| CT
+|-{{Party shading/Democratic}}
+| scope="row" | [[United States presidential election in Delaware, 2000|Delaware]]
+| 3
+| 137,288
+| 41.90%
+| –
+| 180,068
+| 54.96%
+| 3
+| 8,307
+| 2.54%
+| –
+| 777
+| 0.24%
+| –
+| 774
+| 0.24%
+| –
+| 208
+| 0.06%
+| –
+| 107
+| 0.03%
+| –
+| 93
+| 0.03%
+| –
+| 42,780
+| 13.06%
+| 327,622
+| DE
+|-{{Party shading/Democratic}}
+| scope="row" | [[United States presidential election in the District of Columbia, 2000|D.C.]]
+| 3
+| 18,073
+| 8.95%
+| –
+| 171,923
+| 85.16%
+| 3
+| 10,576
+| 5.24%
+| –
+| –
+| –
+| –
+| 669
+| 0.33%
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| 653
+| 0.32%
+| –
+| 153,850
+| 76.20%
+| 201,894
+| DC
+|-{{Party shading/Republican}}
+| scope="row" | [[United States presidential election in Florida, 2000|Florida]]
+| 25
+| 2,912,790
+| 48.85%
+| 25
+| 2,912,253
+| 48.84%
+| –
+| 97,488
+| 1.63%
+| –
+| 17,484
+| 0.29%
+| –
+| 16,415
+| 0.28%
+| –
+| 1,371
+| 0.02%
+| –
+| 2,281
+| 0.04%
+| –
+| 3,028
+| 0.05%
+| –
+| −537
+| −0.01%
+| 5,963,110
+| FL
+|-{{Party shading/Republican}}
+| scope="row" | [[United States presidential election in Georgia, 2000|Georgia]]
+| 13
+| 1,419,720
+| 54.67%
+| 13
+| 1,116,230
+| 42.98%
+| –
+| 13,432
+| 0.52%
+| –
+| 10,926
+| 0.42%
+| –
+| 36,332
+| 1.40%
+| –
+| 140
+| 0.01%
+| –
+| –
+| –
+| –
+| 24
+| 0.00%
+| –
+| −303,490
+| −11.69%
+| 2,596,804
+| GA
+|-{{Party shading/Democratic}}
+| scope="row" | [[United States presidential election in Hawaii, 2000|Hawaii]]
+| 4
+| 137,845
+| 37.46%
+| –
+| 205,286
+| 55.79%
+| 4
+| 21,623
+| 5.88%
+| –
+| 1,071
+| 0.29%
+| –
+| 1,477
+| 0.40%
+| –
+| 343
+| 0.09%
+| –
+| 306
+| 0.08%
+| –
+| –
+| –
+| –
+| 67,441
+| 18.33%
+| 367,951
+| HI
+|-{{Party shading/Republican}}
+| scope="row" | [[United States presidential election in Idaho, 2000|Idaho]]
+| 4
+| 336,937
+| 67.17%
+| 4
+| 138,637
+| 27.64%
+| –
+| 12,292
+| 2.45%
+| –
+| 7,615
+| 1.52%
+| –
+| 3,488
+| 0.70%
+| –
+| 1,469
+| 0.29%
+| –
+| 1,177
+| 0.23%
+| –
+| 6
+| 0.00%
+| –
+| −198,300
+| −39.53%
+| 501,621
+| ID
+|-{{Party shading/Democratic}}
+| scope="row" | [[United States presidential election in Illinois, 2000|Illinois]]
+| 22
+| 2,019,421
+| 42.58%
+| –
+| 2,589,026
+| 54.60%
+| 22
+| 103,759
+| 2.19%
+| –
+| 16,106
+| 0.34%
+| –
+| 11,623
+| 0.25%
+| –
+| 57
+| 0.00%
+| –
+| 2,127
+| 0.04%
+| –
+| 4
+| 0.00%
+| –
+| 569,605
+| 12.01%
+| 4,742,123
+| IL
+|-{{Party shading/Republican}}
+| scope="row" | [[United States presidential election in Indiana, 2000|Indiana]]
+| 12
+| 1,245,836
+| 56.65%
+| 12
+| 901,980
+| 41.01%
+| –
+| 18,531
+| 0.84%
+| –
+| 16,959
+| 0.77%
+| –
+| 15,530
+| 0.71%
+| –
+| 200
+| 0.01%
+| –
+| 167
+| 0.01%
+| –
+| 99
+| 0.00%
+| –
+| −343,856
+| −15.63%
+| 2,199,302
+| IN
+|-{{Party shading/Democratic}}
+| scope="row" | [[United States presidential election in Iowa, 2000|Iowa]]
+| 7
+| 634,373
+| 48.22%
+| –
+| 638,517
+| 48.54%
+| 7
+| 29,374
+| 2.23%
+| –
+| 5,731
+| 0.44%
+| –
+| 3,209
+| 0.24%
+| –
+| 613
+| 0.05%
+| –
+| 2,281
+| 0.17%
+| –
+| 1,465
+| 0.11%
+| –
+| 4,144
+| 0.31%
+| 1,315,563
+| IA
+|-{{Party shading/Republican}}
+| scope="row" | [[United States presidential election in Kansas, 2000|Kansas]]
+| 6
+| 622,332
+| 58.04%
+| 6
+| 399,276
+| 37.24%
+| –
+| 36,086
+| 3.37%
+| –
+| 7,370
+| 0.69%
+| –
+| 4,525
+| 0.42%
+| –
+| 1,254
+| 0.12%
+| –
+| 1,375
+| 0.13%
+| –
+| –
+| –
+| –
+| −223,056
+| −20.80%
+| 1,072,218
+| KS
+|-{{Party shading/Republican}}
+| scope="row" | [[United States presidential election in Kentucky, 2000|Kentucky]]
+| 8
+| 872,492
+| 56.50%
+| 8
+| 638,898
+| 41.37%
+| –
+| 23,192
+| 1.50%
+| –
+| 4,173
+| 0.27%
+| –
+| 2,896
+| 0.19%
+| –
+| 923
+| 0.06%
+| –
+| 1,533
+| 0.10%
+| –
+| 80
+| 0.01%
+| –
+| −233,594
+| −15.13%
+| 1,544,187
+| KY
+|-{{Party shading/Republican}}
+| scope="row" | [[United States presidential election in Louisiana, 2000|Louisiana]]
+| 9
+| 927,871
+| 52.55%
+| 9
+| 792,344
+| 44.88%
+| –
+| 20,473
+| 1.16%
+| –
+| 14,356
+| 0.81%
+| –
+| 2,951
+| 0.17%
+| –
+| 5,483
+| 0.31%
+| –
+| 1,075
+| 0.06%
+| –
+| 1,103
+| 0.06%
+| –
+| −135,527
+| −7.68%
+| 1,765,656
+| LA
+|-{{Party shading/Democratic}}
+| scope="row" | [[United States presidential election in Maine, 2000|Maine]]<sup>★</sup>
+| 4
+| 286,616
+| 43.97%
+| –
+| 319,951
+| 49.09%
+| 4
+| 37,127
+| 5.70%
+| –
+| 4,443
+| 0.68%
+| –
+| 3,074
+| 0.47%
+| –
+| 579
+| 0.09%
+| –
+| –
+| –
+| –
+| 27
+| 0.00%
+| –
+| 33,335
+| 5.11%
+| 651,817
+| ME
+|-{{Party shading/Democratic}}
+| scope="row" | [[United States presidential election in Maryland, 2000|Maryland]]
+| 10
+| 813,797
+| 40.18%
+| –
+| 1,145,782
+| 56.57%
+| 10
+| 53,768
+| 2.65%
+| –
+| 4,248
+| 0.21%
+| –
+| 5,310
+| 0.26%
+| –
+| 919
+| 0.05%
+| –
+| 176
+| 0.01%
+| –
+| 1,480
+| 0.07%
+| –
+| 331,985
+| 16.39%
+| 2,025,480
+| MD
+|-{{Party shading/Democratic}}
+| scope="row" | [[United States presidential election in Massachusetts, 2000|Massachusetts]]
+| 12
+| 878,502
+| 32.50%
+| –
+| 1,616,487
+| 59.80%
+| 12
+| 173,564
+| 6.42%
+| –
+| 11,149
+| 0.41%
+| –
+| 16,366
+| 0.61%
+| –
+| –
+| –
+| –
+| 2,884
+| 0.11%
+| –
+| 4,032
+| 0.15%
+| –
+| 737,985
+| 27.30%
+| 2,702,984
+| MA
+|-{{Party shading/Democratic}}
+| scope="row" | [[United States presidential election in Michigan, 2000|Michigan]]
+| 18
+| 1,953,139
+| 46.15%
+| –
+| 2,170,418
+| 51.28%
+| 18
+| 84,165
+| 1.99%
+| –
+| 1,851
+| 0.04%
+| –
+| 16,711
+| 0.39%
+| –
+| 3,791
+| 0.09%
+| –
+| 2,426
+| 0.06%
+| –
+| –
+| –
+| –
+| 217,279
+| 5.13%
+| 4,232,501
+| MI
+|-{{Party shading/Democratic}}
+| scope="row" | [[United States presidential election in Minnesota, 2000|Minnesota]]
+| 10
+| 1,109,659
+| 45.50%
+| –
+| 1,168,266
+| 47.91%
+| 10
+| 126,696
+| 5.20%
+| –
+| 22,166
+| 0.91%
+| –
+| 5,282
+| 0.22%
+| –
+| 3,272
+| 0.13%
+| –
+| 2,294
+| 0.09%
+| –
+| 1,050
+| 0.04%
+| –
+| 58,607
+| 2.40%
+| 2,438,685
+| MN
+|-{{Party shading/Republican}}
+| scope="row" | [[United States presidential election in Mississippi, 2000|Mississippi]]
+| 7
+| 572,844
+| 57.62%
+| 7
+| 404,614
+| 40.70%
+| –
+| 8,122
+| 0.82%
+| –
+| 2,265
+| 0.23%
+| –
+| 2,009
+| 0.20%
+| –
+| 3,267
+| 0.33%
+| –
+| 450
+| 0.05%
+| –
+| 613
+| 0.06%
+| –
+| −168,230
+| −16.92%
+| 994,184
+| MS
+|-{{Party shading/Republican}}
+| scope="row" | [[United States presidential election in Missouri, 2000|Missouri]]
+| 11
+| 1,189,924
+| 50.42%
+| 11
+| 1,111,138
+| 47.08%
+| –
+| 38,515
+| 1.63%
+| –
+| 9,818
+| 0.42%
+| –
+| 7,436
+| 0.32%
+| –
+| 1,957
+| 0.08%
+| –
+| 1,104
+| 0.05%
+| –
+| –
+| –
+| –
+| −78,786
+| −3.34%
+| 2,359,892
+| MO
+|-{{Party shading/Republican}}
+| scope="row" | [[United States presidential election in Montana, 2000|Montana]]
+| 3
+| 240,178
+| 58.44%
+| 3
+| 137,126
+| 33.36%
+| –
+| 24,437
+| 5.95%
+| –
+| 5,697
+| 1.39%
+| –
+| 1,718
+| 0.42%
+| –
+| 1,155
+| 0.28%
+| –
+| 675
+| 0.16%
+| –
+| 11
+| 0.00%
+| –
+| −103,052
+| −25.07%
+| 410,997
+| MT
+|-{{Party shading/Republican}}
+| scope="row" | [[United States presidential election in Nebraska, 2000|Nebraska]]<sup>★</sup>
+| 5
+| 433,862
+| 62.25%
+| 5
+| 231,780
+| 33.25%
+| –
+| 24,540
+| 3.52%
+| –
+| 3,646
+| 0.52%
+| –
+| 2,245
+| 0.32%
+| –
+| 468
+| 0.07%
+| –
+| 478
+| 0.07%
+| –
+| –
+| –
+| –
+| −202,082
+| −28.99%
+| 697,019
+| NE
+|-{{Party shading/Republican}}
+| scope="row" | [[United States presidential election in Nevada, 2000|Nevada]]
+| 4
+| 301,575
+| 49.52%
+| 4
+| 279,978
+| 45.98%
+| –
+| 15,008
+| 2.46%
+| –
+| 4,747
+| 0.78%
+| –
+| 3,311
+| 0.54%
+| –
+| 621
+| 0.10%
+| –
+| 415
+| 0.07%
+| –
+| 3,315
+| 0.54%
+| –
+| −21,597
+| −3.55%
+| 608,970
+| NV
+|-{{Party shading/Republican}}
+| scope="row" | [[United States presidential election in New Hampshire, 2000|New Hampshire]]
+| 4
+| 273,559
+| 48.07%
+| 4
+| 266,348
+| 46.80%
+| –
+| 22,198
+| 3.90%
+| –
+| 2,615
+| 0.46%
+| –
+| 2,757
+| 0.48%
+| –
+| 328
+| 0.06%
+| –
+| 55
+| 0.01%
+| –
+| 1,221
+| 0.21%
+| –
+| −7,211
+| −1.27%
+| 569,081
+| NH
+|-{{Party shading/Democratic}}
+| scope="row" | [[United States presidential election in New Jersey, 2000|New Jersey]]
+| 15
+| 1,284,173
+| 40.29%
+| –
+| 1,788,850
+| 56.13%
+| 15
+| 94,554
+| 2.97%
+| –
+| 6,989
+| 0.22%
+| –
+| 6,312
+| 0.20%
+| –
+| 1,409
+| 0.04%
+| –
+| 2,215
+| 0.07%
+| –
+| 2,724
+| 0.09%
+| –
+| 504,677
+| 15.83%
+| 3,187,226
+| NJ
+|-{{Party shading/Democratic}}
+| scope="row" | [[United States presidential election in New Mexico, 2000|New Mexico]]
+| 5
+| 286,417
+| 47.85%
+| –
+| 286,783
+| 47.91%
+| 5
+| 21,251
+| 3.55%
+| –
+| 1,392
+| 0.23%
+| –
+| 2,058
+| 0.34%
+| –
+| 343
+| 0.06%
+| –
+| 361
+| 0.06%
+| –
+| –
+| –
+| –
+| 366
+| 0.06%
+| 598,605
+| NM
+|-{{Party shading/Democratic}}
+| scope="row" | [[United States presidential election in New York, 2000|New York]]
+| 33
+| 2,403,374
+| 35.23%
+| –
+| 4,107,697
+| 60.21%
+| 33
+| 244,030
+| 3.58%
+| –
+| 31,599
+| 0.46%
+| –
+| 7,649
+| 0.11%
+| –
+| 1,498
+| 0.02%
+| –
+| 24,361
+| 0.36%
+| –
+| 1,791
+| 0.03%
+| –
+| 1,704,323
+| 24.98%
+| 6,821,999
+| NY
+|-{{Party shading/Republican}}
+| scope="row" | [[United States presidential election in North Carolina, 2000|North Carolina]]
+| 14
+| 1,631,163
+| 56.03%
+| 14
+| 1,257,692
+| 43.20%
+| –
+| –
+| –
+| –
+| 8,874
+| 0.30%
+| –
+| 12,307
+| 0.42%
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| 1,226
+| 0.04%
+| –
+| −373,471
+| −12.83%
+| 2,911,262
+| NC
+|-{{Party shading/Republican}}
+| scope="row" | [[United States presidential election in North Dakota, 2000|North Dakota]]
+| 3
+| 174,852
+| 60.66%
+| 3
+| 95,284
+| 33.06%
+| –
+| 9,486
+| 3.29%
+| –
+| 7,288
+| 2.53%
+| –
+| 660
+| 0.23%
+| –
+| 373
+| 0.13%
+| –
+| 313
+| 0.11%
+| –
+| –
+| –
+| –
+| −79,568
+| −27.60%
+| 288,256
+| ND
+|-{{Party shading/Republican}}
+| scope="row" | [[United States presidential election in Ohio, 2000|Ohio]]
+| 21
+| 2,351,209
+| 49.97%
+| 21
+| 2,186,190
+| 46.46%
+| –
+| 117,857
+| 2.50%
+| –
+| 26,724
+| 0.57%
+| –
+| 13,475
+| 0.29%
+| –
+| 3,823
+| 0.08%
+| –
+| 6,169
+| 0.13%
+| –
+| 10
+| 0.00%
+| –
+| −165,019
+| −3.51%
+| 4,705,457
+| OH
+|-{{Party shading/Republican}}
+| scope="row" | [[United States presidential election in Oklahoma, 2000|Oklahoma]]
+| 8
+| 744,337
+| 60.31%
+| 8
+| 474,276
+| 38.43%
+| –
+| –
+| –
+| –
+| 9,014
+| 0.73%
+| –
+| 6,602
+| 0.53%
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| −270,061
+| −21.88%
+| 1,234,229
+| OK
+|-{{Party shading/Democratic}}
+| scope="row" | [[United States presidential election in Oregon, 2000|Oregon]]
+| 7
+| 713,577
+| 46.52%
+| –
+| 720,342
+| 46.96%
+| 7
+| 77,357
+| 5.04%
+| –
+| 7,063
+| 0.46%
+| –
+| 7,447
+| 0.49%
+| –
+| 2,189
+| 0.14%
+| –
+| 2,574
+| 0.17%
+| –
+| 3,419
+| 0.22%
+| –
+| 6,765
+| 0.44%
+| 1,533,968
+| OR
+|-{{Party shading/Democratic}}
+| scope="row" | [[United States presidential election in Pennsylvania, 2000|Pennsylvania]]
+| 23
+| 2,281,127
+| 46.43%
+| –
+| 2,485,967
+| 50.60%
+| 23
+| 103,392
+| 2.10%
+| –
+| 16,023
+| 0.33%
+| –
+| 11,248
+| 0.23%
+| –
+| 14,428
+| 0.29%
+| –
+| –
+| –
+| –
+| 934
+| 0.02%
+| –
+| 204,840
+| 4.17%
+| 4,913,119
+| PA
+|-{{Party shading/Democratic}}
+| scope="row" | [[United States presidential election in Rhode Island, 2000|Rhode Island]]
+| 4
+| 130,555
+| 31.91%
+| –
+| 249,508
+| 60.99%
+| 4
+| 25,052
+| 6.12%
+| –
+| 2,273
+| 0.56%
+| –
+| 742
+| 0.18%
+| –
+| 97
+| 0.02%
+| –
+| 271
+| 0.07%
+| –
+| 614
+| 0.15%
+| –
+| 118,953
+| 29.08%
+| 409,112
+| RI
+|-{{Party shading/Republican}}
+| scope="row" | [[United States presidential election in South Carolina, 2000|South Carolina]]
+| 8
+| 785,937
+| 56.84%
+| 8
+| 565,561
+| 40.90%
+| –
+| 20,200
+| 1.46%
+| –
+| 3,519
+| 0.25%
+| –
+| 4,876
+| 0.35%
+| –
+| 1,682
+| 0.12%
+| –
+| 942
+| 0.07%
+| –
+| –
+| –
+| –
+| −220,376
+| −15.94%
+| 1,382,717
+| SC
+|-{{Party shading/Republican}}
+| scope="row" | [[United States presidential election in South Dakota, 2000|South Dakota]]
+| 3
+| 190,700
+| 60.30%
+| 3
+| 118,804
+| 37.56%
+| –
+| –
+| –
+| –
+| 3,322
+| 1.05%
+| –
+| 1,662
+| 0.53%
+| –
+| 1,781
+| 0.56%
+| –
+| –
+| –
+| –
+| –
+| –
+| –
+| −71,896
+| −22.73%
+| 316,269
+| SD
+|-{{Party shading/Republican}}
+| scope="row" | [[United States presidential election in Tennessee, 2000|Tennessee]]
+| 11
+| 1,061,949
+| 51.15%
+| 11
+| 981,720
+| 47.28%
+| –
+| 19,781
+| 0.95%
+| –
+| 4,250
+| 0.20%
+| –
+| 4,284
+| 0.21%
+| –
+| 1,015
+| 0.05%
+| –
+| 613
+| 0.03%
+| –
+| 2,569
+| 0.12%
+| –
+| −80,229
+| −3.86%
+| 2,076,181
+| TN
+|-{{Party shading/Republican}}
+| scope="row" | [[United States presidential election in Texas, 2000|Texas]]
+| 32
+| 3,799,639
+| 59.30%
+| 32
+| 2,433,746
+| 37.98%
+| –
+| 137,994
+| 2.15%
+| –
+| 12,394
+| 0.19%
+| –
+| 23,160
+| 0.36%
+| –
+| 567
+| 0.01%
+| –
+| –
+| –
+| –
+| 137
+| 0.00%
+| –
+| −1,365,893
+| −21.32%
+| 6,407,637
+| TX
+|-{{Party shading/Republican}}
+| scope="row" | [[United States presidential election in Utah, 2000|Utah]]
+| 5
+| 515,096
+| 66.83%
+| 5
+| 203,053
+| 26.34%
+| –
+| 35,850
+| 4.65%
+| –
+| 9,319
+| 1.21%
+| –
+| 3,616
+| 0.47%
+| –
+| 2,709
+| 0.35%
+| –
+| 763
+| 0.10%
+| –
+| 348
+| 0.05%
+| –
+| −312,043
+| −40.49%
+| 770,754
+| UT
+|-{{Party shading/Democratic}}
+| scope="row" | [[United States presidential election in Vermont, 2000|Vermont]]
+| 3
+| 119,775
+| 40.70%
+| –
+| 149,022
+| 50.63%
+| 3
+| 20,374
+| 6.92%
+| –
+| 2,192
+| 0.74%
+| –
+| 784
+| 0.27%
+| –
+| 153
+| 0.05%
+| –
+| 219
+| 0.07%
+| –
+| 1,789
+| 0.61%
+| –
+| 29,247
+| 9.94%
+| 294,308
+| VT
+|-{{Party shading/Republican}}
+| scope="row" | [[United States presidential election in Virginia, 2000|Virginia]]
+| 13
+| 1,437,490
+| 52.47%
+| 13
+| 1,217,290
+| 44.44%
+| –
+| 59,398
+| 2.17%
+| –
+| 5,455
+| 0.20%
+| –
+| 15,198
+| 0.55%
+| –
+| 1,809
+| 0.07%
+| –
+| 171
+| 0.01%
+| –
+| 2,636
+| 0.10%
+| –
+| −220,200
+| −8.04%
+| 2,739,447
+| VA
+|-{{Party shading/Democratic}}
+| scope="row" | [[United States presidential election in Washington, 2000|Washington]]
+| 11
+| 1,108,864
+| 44.58%
+| –
+| 1,247,652
+| 50.16%
+| 11
+| 103,002
+| 4.14%
+| –
+| 7,171
+| 0.29%
+| –
+| 13,135
+| 0.53%
+| –
+| 1,989
+| 0.08%
+| –
+| 2,927
+| 0.12%
+| –
+| 2,693
+| 0.11%
+| –
+| 138,788
+| 5.58%
+| 2,487,433
+| WA
+|-{{Party shading/Republican}}
+| scope="row" | [[United States presidential election in West Virginia, 2000|West Virginia]]
+| 5
+| 336,475
+| 51.92%
+| 5
+| 295,497
+| 45.59%
+| –
+| 10,680
+| 1.65%
+| –
+| 3,169
+| 0.49%
+| –
+| 1,912
+| 0.30%
+| –
+| 23
+| 0.00%
+| –
+| 367
+| 0.06%
+| –
+| 1
+| 0.00%
+| –
+| −40,978
+| −6.32%
+| 648,124
+| WV
+|-{{Party shading/Democratic}}
+| scope="row" | [[United States presidential election in Wisconsin, 2000|Wisconsin]]
+| 11
+| 1,237,279
+| 47.61%
+| –
+| 1,242,987
+| 47.83%
+| 11
+| 94,070
+| 3.62%
+| –
+| 11,471
+| 0.44%
+| –
+| 6,640
+| 0.26%
+| –
+| 2,042
+| 0.08%
+| –
+| 853
+| 0.03%
+| –
+| 3,265
+| 0.13%
+| –
+| 5,708
+| 0.22%
+| 2,598,607
+| WI
+|-{{Party shading/Republican}}
+| scope="row" | [[United States presidential election in Wyoming, 2000|Wyoming]]
+| 3
+| 147,947
+| 67.76%
+| 3
+| 60,481
+| 27.70%
+| –
+| 4,625
+| 2.12%
+| –
+| 2,724
+| 1.25%
+| –
+| 1,443
+| 0.66%
+| –
+| 720
+| 0.33%
+| –
+| 411
+| 0.19%
+| –
+| –
+| –
+| –
+| −87,466
+| −40.06%
+| 218,351
+| WY
+|- class="sortbottom"
+! scope="row" | Totals
+! 538
+! 50,456,002
+! 47.87%
+! 271
+! 50,999,897
+! 48.38%
+! 266
+! 2,882,955
+! 2.74%
+! –
+! 448,895
+! 0.42%
+! –
+! 384,431
+! 0.36%
+! –
+! 98,020
+! 0.09%
+! –
+! 83,714
+! 0.08%
+! –
+! 51,186
+! 0.05%
+! –
+! 543,895
+! 0.52%
+! 105,405,100
+! US
+|}</div>
+
+====Maine and Nebraska district results====
+<sup>★</sup>Maine and Nebraska each allow for their electoral votes to be split between candidates. In both states, two electoral votes are awarded to the winner of the statewide race and one electoral vote is awarded to the winner of each congressional district. The following table records the official presidential vote tallies for Maine and Nebraska's congressional districts.<ref>{{cite web|url=http://www.maine.gov/sos/cec/elec/2000g/gen00p-c.htm|title=Maine General Election Tabulations, President of the United States by Congressional District|date=November 7, 2000}}</ref><ref name=nebraska>{{cite web|url=http://www.sos.ne.gov/elec/prev_elec/2000/pdf/pres_cong_dist.pdf|title=Nebraska Statewide General Election 2000 Results - President by Congressional District|publisher=Nebraska Secretary of State}}</ref>
+{|class="wikitable sortable" style="text-align:right;"
+|-
+!District
+!<SMALL>[[Electoral College (United States)|Electors]]</SMALL>
+![[George W. Bush|Bush]]!!%
+![[Al Gore|Gore]]!!%
+![[Ralph Nader|Nader]]!!%
+![[Pat Buchanan|Buchanan]]!!%
+![[Harry Browne|Browne]]!!%
+![[Howard Phillips (politician)|Phillips]]!!%
+![[John Hagelin|Hagelin]]!!%
+!Other!!%
+!Margin
+!%
+!Total
+|-{{Party shading/Democratic}}
+|style="text-align:left;"|[[Maine's 1st congressional district]]
+|1||148,618||42.59%||176,293||50.52%||20,297||5.82%||1,994||0.57%||1,479||0.42%||253||0.07%||–||–||17||0.00%||–27,675||–7.93%||348,951
+|-{{Party shading/Democratic}}
+|style="text-align:left;"|[[Maine's 2nd congressional district]]
+|1||137,998||45.56%||143,658||47.43%||16,830||5.56%||2,449||0.81%||1,595||0.53%||326||0.11%||–||–||10||0.00%||–5,660||–1.87%||302,866
+|-{{Party shading/Republican}}
+|style="text-align:left;"|[[Nebraska's 1st congressional district]]
+|1||142,562||58.90%||86,946||35.92%||10,085||4.17%||1,324||0.55%||754||0.31%||167||0.07%||185||0.08%||–||–||55,616||22.98%||242,023
+|-{{Party shading/Republican}}
+|style="text-align:left;"|[[Nebraska's 2nd congressional district]]
+|1||131,485||56.92%||88,975||38.52%||8,495||3.68%||845||0.37%||925||0.40%||146||0.06%||141||0.06%||–||–||42,510||18.40%||231,012
+|-{{Party shading/Republican}}
+|style="text-align:left;"|[[Nebraska's 3rd congressional district]]
+|1||159,815||71.35%||55,859||24.94%||5,960||2.66%||1,477||0.66%||566||0.25%||155||0.07%||152||0.07%||–||–||103,956||46.41%||223,984
+|}
+
+===Ballot access===
+
+{| class="wikitable" style="background:#lightgrey"
+! Presidential ticket
+! Party
+! [[Ballot access]]
+! Votes
+|-{{Party shading/Republican}}
+|Bush / Cheney
+|Republican
+| 50+[[Washington, D.C.|DC]]
+| 50,456,002
+|-{{Party shading/Democratic}}
+|Gore / Lieberman
+|Democratic
+| 50+DC
+| 50,999,897
+|-{{Party shading/Green}}
+|Nader / LaDuke
+|Green
+| 43+DC
+| 2,882,955
+|-{{Party shading/Independent}}
+|Buchanan / Foster
+|Reform
+| 49
+| 448,895
+|-{{Party shading/Libertarian}}
+|Browne / Olivier
+|Libertarian
+| 49+DC
+| 384,431
+|-{{Party shading/Constitution}}
+|Phillips / Frazier
+|Constitution
+| 41
+| 98,020
+|-{{Party shading/Natural Law}}
+|Hagelin / Goldhaber
+|Natural Law
+| 38
+| 83,714
+|}
+
+==Aftermath==
+
+After Florida was decided and Gore conceded, [[Governor of Texas|Texas Governor]] [[George W. Bush]] became the [[President-elect of the United States|President-elect]] and began forming his [[Presidential transition|transition committee]].<ref>{{cite news|title=Bush, now president-elect, signals will to bridge partisan gaps|author=Ian Christopher McCaleb|date=December 13, 2000|url=http://archives.cnn.com/2000/ALLPOLITICS/stories/12/13/election.wrap/|publisher=[[CNN.com]]|accessdate=February 10, 2009}}</ref>  In a speech on December 13, in the Texas House of Representatives chamber,<ref>{{cite web|url=http://www.c-spanarchives.org/library/index.php?main_page=product_video_info&products_id=161267-1|title=Bush Acceptance—December 13, 2000}}</ref> Bush stated he was reaching across party lines to bridge a divided America, saying, "the President of the United States is the President of every single American, of every race, and every background."<ref>{{cite news|url=http://www.cnn.com/ELECTION/2000/transcripts/121300/bush.html|title=George W. Bush statement—December 13, 2000 | work=CNN}} {{Dead link|date=August 2010|bot=RjwilmsiBot}}</ref>
+
+===Post recount===
+On January 6, 2001, a [[Joint session of the United States Congress|joint session of Congress]] met to certify the [[Electoral College (United States)|electoral vote]]. Twenty members of the [[United States House of Representatives|House of Representatives]], most of them Democratic members of the [[Congressional Black Caucus]], rose one-by-one to file objections to the electoral votes of Florida. However, according to an [[Electoral Commission (United States)|1877]] law, any such objection had to be sponsored by both a representative and a [[United States Senate|senator]]. No senator would co-sponsor these objections, deferring to the Supreme Court's ruling. Therefore, Gore, who presided in his capacity as [[Vice President of the United States|President of the Senate]], ruled each of these objections out of order.<ref>[http://www.gpo.gov/fdsys/browse/collection.action?collectionCode=CREC&browsePath=2001%2F01%2F01-06\%2F7&isCollapsed=false&leafLevelBrowse=false&ycord=482 ''Congressional Record'' for January 6, 2001], retrieved March 17, 2012.</ref>
+
+Subsequently, the joint session of Congress certified the electoral votes from all 50 states and the District of Columbia. Bush took the oath of office on January 20, 2001. He would serve for the next eight years. Gore declined to run for president in 2004 and 2008.
+
+The first independent recount was conducted by the ''Miami Herald'' and ''USA Today''. The commission found that under most recount scenarios, Bush would have won the election, but Gore would have won using the most generous standards.<ref>{{cite news|url=http://www.pbs.org/newshour/media/media_watch/jan-june01/recount_4-3.html|title=Media Recount: Bush Won The 2000 election|publisher=PBS}}</ref>
+
+Ultimately, a media consortium—comprising the ''New York Times'', ''Washington Post'', ''Wall Street Journal'', Tribune Co. (parent of the ''Los Angeles Times''), Associated Press, CNN, ''Palm Beach Post'' and ''St. Petersburg Times''<ref name="fair2002">{{cite web|url=http://fair.org/extra-online-articles/who-won-the-election-who-cares/|title=Who Won the Election? Who Cares?|publisher=Fairness & Accuracy In Reporting|accessdate=October 30, 2012}}</ref>—hired the [[National Opinion Research Center]] at the [[University of Chicago]]<ref>{{cite web|url=http://www.norc.uchicago.edu/fl/index.asp|archiveurl=http://web.archive.org/web/20011217183836/http://www.norc.uchicago.edu/fl/index.asp|archivedate=December 17, 2001 |title=Florida Ballots Project |publisher=National Opinion Research Center|accessdate=May 28, 2010}}</ref>  to examine 175,010 ballots that were collected from the entire state, not just the disputed counties that were discounted; these ballots contained undervotes (votes with no choice made for president) and overvotes (votes made with more than one choice marked). Their goal was to determine the reliability and accuracy of the systems used for the voting process. The NORC concluded that if the disputes over the validity of all the ballots statewide in question had been consistently resolved and ''any'' uniform standard applied, the electoral result would have been reversed and Gore would have won by 107–115 votes if only two of the three coders had to agree on the ballot.  When counting ballots wherein all three coders agreed, Gore would have won the most restrictive scenario by 127 votes and Bush would have won the most inclusive scenario by 110 votes.  Inclusive in media reporting likely refers to including the undervotes (only) as these people were then included in the vote.  Whether overvotes were truly nullified in counts is not known.<ref>Wolter, K.M., Jergovic, D., Moore, W., Murphy, J. and O'Muirheartaigh, C. 2003. "Reliability of the Uncertified Ballots in the 2000 Presidential Election in Florida". ''American Statistician''. '''57'''(1):1–14.</ref>
+
+Subsequent analyses cast further doubt on conclusions that Bush likely would have won anyway, had the U.S. Supreme Court not intervened. An analysis of the NORC data by [[University of Pennsylvania]] researcher Steven F. Freeman and journalist [[Joel Bleifuss]] concluded that a recount of all uncounted votes using any standard (inclusive, strict, statewide or county by county), Gore would have been the victor.<ref name="freemanbleifuss">Freeman, Steven & Bleifuss, Joel. ''Was the 2004 presidential election stolen?: exit polls, election fraud, and the official count''. Seven Stories Press, 2006, pp. 41-47.</ref>  Such a statewide review including all uncounted votes was a very real possibility, as Leon County Circuit Court Judge [[Terry Lewis (Florida judge)|Terry Lewis]], whom the Florida Supreme Court had assigned to oversee the statewide recount, had scheduled a hearing for December 13 (mooted by the U.S. Supreme Court's final ruling on the 12th) to consider the question of including overvotes as well as undervotes, and subsequent statements by Judge Lewis and internal court documents support the likelihood of including overvotes in the recount.<ref name="newsweek2001">[http://www.newsweek.com/id/76207/page/1 "The Final Word? New Documents Raise Questions About News Media's Findings On The 2000 Presidential Election"]</ref> [[Florida State University]] professor of public policy Lance deHaven-Smith observed that, even considering only undervotes, "under any of the five most reasonable interpretations of the Florida Supreme Court ruling, Gore does, in fact, more than make up the deficit".<ref>deHaven-Smith, Lance. ''The Battle for Florida: An Annotated Compendium of Materials from the 2000 Presidential Election''. University Press of Florida, 2005, p. 39.</ref>  [[Fairness and Accuracy in Reporting]]'s analysis of the NORC study and media coverage of it supports these interpretations and criticizes the coverage of the study by media outlets such as the ''[[New York Times]]'' and the other media consortium members.<ref name="fair2002" />
+
+===Voting machines===
+Because the 2000 presidential election was so close in Florida, the United States government and state governments pushed for [[election reform]] to be prepared by the [[United States presidential election, 2004|2004 presidential election]]. Many of Florida's year 2000 election night problems stemmed from [[usability]] and ballot design factors with voting systems, including the potentially confusing "[[butterfly ballot]]". Many voters had difficulties with the paper-based [[Voting machine#Punch card|punch card]] voting machines and were either unable to understand the required process for voting or unable to perform the process. This resulted in an unusual amount of [[overvote]] (voting for more candidates than is allowed) and [[undervote]]s (voting for fewer than the minimum candidates, including none at all). Many undervotes were potentially caused by either voter error or errors with the punch card paper ballots resulting in hanging, dimpled, or pregnant [[Chad (paper)|chad]].
+
+A proposed solution to these problems was the installation of modern [[electronic voting]] machines. The United States Presidential Election of 2000 spurred the debate about election and voting reform, but it did not end it.
+
+===Exit polling and declaration of vote winners===
+The [[Voter News Service]]'s reputation was damaged by its treatment of Florida's presidential vote in 2000. Breaking its own guidelines, VNS called the state as a win for Gore 12 minutes before polls closed in the [[Florida Panhandle|Florida panhandle]]. Although most of the state is in the Eastern Time Zone, counties in the Florida panhandle, located in the Central Time Zone, had not yet closed their polls. More seriously, inconsistent polling results caused the VNS to change its call twice, first from Gore to Bush, and then to "too close to call".
+
+Also, charges of media bias were levied against the networks by Republicans. They claimed that the networks called states more quickly for Al Gore than for George W. Bush. Congress held hearings on this matter and the networks claimed to have no intentional bias in their election night reporting. However, a study of the calls made on election night 2000 indicated that states carried by Gore were called more quickly than states won by Bush; however, notable Bush states, like New Hampshire and Florida, were very close, and close Gore states like Iowa, Oregon, New Mexico and Wisconsin were called late as well.<ref>Uscinski, Joseph. 2007. "Too Close Too Call? Uncertainty and Bias in Election Night Reporting" Social Science Quarterly vol. 88,(1).</ref>
+
+===More consequences===
+In the aftermath of the election, the [[Help America Vote Act]] (HAVA) was passed to help states upgrade their election technology in the hopes of preventing similar problems in future elections. Unfortunately, the electronic voting systems that many states purchased to comply with HAVA actually caused problems in the presidential election of 2004.<ref>Freeman, Steven & Bleifuss, Joel. Was the 2004 election stolen?: exit polls, election fraud, and the official count. Seven Stories Press, 2006, p. 68-83.</ref>
+
+Many Democrats blame third party candidate [[Ralph Nader]], claiming he [[vote splitting|split votes]] with Gore. Nader received 97,000 votes in Florida (for comparison, there were 111,251 [[overvotes]]).<ref>{{cite news| url=http://www.usatoday.com/news/politics/2001-05-10-overvotetable.htm | work=USA Today | title=Overvote county summary | date=May 10, 2001}}</ref>  Additionally, Nader received 22,000 votes in New Hampshire, where Bush beat Gore by 7,000 votes.  Either state would have won the election for Gore.  Defenders of Nader, including [[Tom Tomorrow|Dan Perkins]], argued that the margin in Florida was small enough that Democrats could blame any number of third-party candidates for the defeat, including [[Workers World Party]] candidate [[Monica Moorehead]], who received 1,500 votes.<ref>{{cite web|url=http://archive.salon.com/comics/tomo/2000/11/13/tomo/index.html|title=This Modern World|publisher=Salon.com Comics}}</ref> But the controversy with Nader also drained energy from the Democratic party as divisive debate went on in the months leading up to the election. Nader's reputation was hurt by this perception, and may have hindered his goals as an activist. For example, ''[[Mother Jones (magazine)|Mother Jones]]'' wrote, "For evidence of how rank-and-file liberals have turned against Nader, one need look no further than the empire he created. [[Public Citizen]], the organization (Nader) founded in 1971, has a new fundraising problem—its founder. After the election, contributions dropped... When people inquire about Nader's relationship to the organization, Public Citizen sends out a letter that begins with a startling new disclaimer: 'Although Ralph Nader was our founder, he has not held an official position in the organization since 1980 and does not serve on the board. Public Citizen—and the other groups that Mr. Nader founded—act independently.'"<ref>Margolis, John (July/August 2001) [http://www.motherjones.com/news/feature/2001/07/nader.html Nader Unrepentant]. ''Mother Jones''.</ref>
+
+Democratic party strategist and [[Democratic Leadership Council]] (DLC) chair [[Al From]] expressed a different view. In the January 24, 2001, issue<ref>{{cite web|url=http://www.ndol.org/ndol_ci.cfm?kaid=86&subid=84&contentid=2919 |title=Building A New Progressive Majority by Al From |publisher=DLC |date=January 24, 2001 |accessdate=January 15, 2011}}</ref> of the DLC's ''Blueprint'' magazine,<ref>{{cite web|url=http://www.ndol.org/ndol_ka.cfm?kaid=132 |title=Democratic Leadership Council: Blueprint Magazine |publisher=Ndol.org |accessdate=January 15, 2011}}</ref> he wrote, "I think they're wrong on all counts. The assertion that Nader's marginal vote hurt Gore is not borne out by polling data. When exit pollers asked voters how they would have voted in a two-way race, Bush actually won by a point. That was better than he did with Nader in the race."
+
+===Press influence on race===
+
+In their 2007 book ''The Nightly News Nightmare: Network Television's Coverage of US Presidential Elections, 1988-2004,'' professors Stephen J. Farnsworth and S. Robert Lichter alleged most media outlets influenced the outcome of the election through the use of [[horse race journalism]].<ref>{{cite book|url=http://books.google.com/books?id=Ii9f5Y8O_z0C&pg=PA217&source=gbs_toc_r&cad=4#v=onepage&q&f=false.|author1=Farnsworth, S.J.|author2=Lichter, S.R.|title=The Nightly News Nightmare: Network Television's Coverage of US Presidential Elections, 1988-2004|pages=159–160|publisher=Rowman & Littlefield|year=2007|isbn=9780742553774}}</ref>  Peter Hart and Jim Naureckas, two commentators for [[Fairness and Accuracy in Reporting]] (FAIR), called the media "serial exaggerators" and noted how several media outlets were constantly exaggerating criticism of Gore,<ref name=ipqvzww>Peter Hart and Jim Naureckas. www.fair.org/extra/0101/gore-bush.html "Serial Exaggerators: Media's double standard on political lying"</ref> like falsely claiming that Gore lied when he claimed he spoke in an overcrowded science class in Sarasota, Florida,<ref name=ipqvzww /> and giving Bush a pass on certain issues, such as the fact that Bush wildly exaggerated how much money he signed into the annual Texas state budget to help the uninsured during his second debate with Gore in October 2000.<ref name=ipqvzww />  In the April 2000 issue of [[Washington Monthly]], columnist [[Robert Parry (journalist)|Robert Parry]] also noted how several media outlets exaggerated Gore's supposed claim that he "discovered" the [[Love Canal]] neighborhood in [[Niagara Falls, New York]] during a campaign speech in Concord, New Hampshire on November 30, 1999,<ref name=kqvz /> when he had only claimed he "found" it after it was already evacuated in 1978 because of chemical contamination.<ref name=kqvz>Robert Parry, www.washingtonmonthly.com/features/2000/0004.parry.html "He's No Pinocchio: How the press exaggerated Al Gores exaggerations"</ref>  [[Rolling Stone]] columnist Eric Boehlert also argued that media outlets exaggerated criticism of Gore as early as July 22, 1999,<ref name=ipqkva>The Rolling Stone, [[Eric Boehlert]], December 6, 2001, The Press v. Al Gore</ref> when Gore, known for being an environmentalist, had a friend release 500 million gallons of water into a drought stricken river to help keep his boat afloat for a photo shoot;<ref name=ipqkva /> media outlets, however, exaggerated the actual number of gallons that were released and claimed it was 4 billion.<ref name=ipqkva />
+
+==See also==
+{{Portal|United States|Politics|2000s}}
+*''[[Bush v. Gore]]''
+*[[Canada and the 2000 United States presidential election]]
+*[[History of the United States (1991–present)]]
+*[[List of close election results]]
+*[[Ralph Nader's presidential campaigns]]
+*[[United States presidential election, 1876]]
+*[[United States Senate elections, 2000]]
+*[[First inauguration of George W. Bush]]
+
+==References==
+{{Reflist|colwidth=30em}}
+
+==Further reading==
+
+===Books===
+* {{Cite book| last=Brinkley| first=Douglas| authorlink=Douglas Brinkley| title=36 Days: The Complete Chronicle of the 2000 Presidential Election Crisis| year=2001| isbn=0-8050-6850-3| publisher=Times Books}}
+* {{Cite book| editor=Steed, Robert P. (ed.)| title=The 2000 Presidential Election in the South: Partisanship and Southern Party Systems in the 21st Century| year=2002}}
+* {{Cite book| editor=de La Garza, Rodolfo O. (ed.)| title=Muted Voices: Latinos and the 2000 Elections| year=2004| isbn=0-7425-3590-8| publisher=Rowman & Littlefield| location=Lanham, MD}}
+* {{Cite book| last=Abramson| first=Paul R.|author2=Rohde, David W. |author3=Aldrich, John Herbert | title=Change and Continuity in the 2000 Elections| year=2002| isbn=1-56802-740-0| publisher=CQ Press| location=Washington, DC}}
+* {{Cite book| first=Vincent| last=Bugliosi| authorlink=Vincent Bugliosi| year=2001| title=[[The Betrayal of America|The Betrayal of America: How the Supreme Court Undermined the Constitution and Chose Our President]]| publisher=Thunder's Mouth Press| isbn=1-56025-355-X}}
+* {{Cite book| last=Corrado| first=Anthony|author2=et al. | title=Election of 2000: Reports and Interpretations| publisher=Chatham House Publishers| year=2001}}
+* {{Cite book| last=Denton| first=Robert E., Jr.| title=The 2000 Presidential Campaign: A Communication Perspective| publisher=Praeger| year=2002}}
+* {{Cite book| first=Alan M.| last=Dershowitz| authorlink=Alan M. Dershowitz| year=2001| title=Supreme Injustice: How the High Court Hijacked Election 2000| isbn=0-19-514827-4| publisher=Oxford Univ. Press| location=New York, NY}}
+* {{Cite book| last=Dover| first=E. D.| title=Missed Opportunity: Gore, Incumbency, and Television in Election 2000| year=2002| isbn=0-275-97638-6| publisher=Praeger| location=Westport, Conn.}}
+* {{Cite book| last=Dougherty| first=John E.| title=Election 2000: How the Military Vote Was Suppressed | year=2001| isbn=978-1-58939-065-2| publisher=WorldNetDaily.com, Inc.| location=Cave Junction, OR}}
+* {{Cite book| first=H.| last=Gillman| year=2001| title=The Votes That Counted: How the Court Decided the 2000 Presidential Election| isbn=0-226-29408-0| publisher=Univ. of Chicago Press| location=Chicago, Ill.}}
+* {{Cite book| last=Moore| first=David W. | title=How to Steal an Election: The Inside Story of How George Bush's Brother and FOX Network Miscalled the 2000 Election and Changed the Course of History| year=2006| isbn=1-56025-929-9| publisher=Nation Press| location=New York}}
+* {{Cite book| last=Jacobson| first=Arthur J.|author2=Rosenfeld, Michel | title=The Longest Night: Polemics and Perspectives on Election 2000| year=2002}}
+* {{Cite book| first=Greg| last=Palast| authorlink=Greg Palast| year=2002| title=[[The Best Democracy Money Can Buy]]| publisher=Pluto Press| isbn=0-7453-1846-0}}
+* {{Cite book| last=Posner| first=Richard A.| title=Breaking the Deadlock: The 2000 Election, the Constitution, and the Courts| year=2001| isbn=0-691-09073-4| publisher=Princeton Univ. Press| location=Princeton}}
+* {{Cite book| last=Rakove| first=Jack N.| title=The Unfinished Election of 2000| year=2002| isbn=0-465-06837-5| publisher=Basic Books| location=New York}}
+* {{Cite book| last=Sabato| first=Larry J.| title=Overtime! The Election 2000 Thriller| year=2001| isbn=0-321-10028-X| publisher=Longman| location=New York}}
+* {{Cite book| last=Sammon| first=Bill| authorlink=Bill Sammon| title=At Any Cost: How Al Gore Tried to Steal the Election| year=2001| publisher=Regnery Publishing, Inc.| isbn=0-89526-227-4}}
+* {{Cite book| last=Toobin| first=Jeffrey| authorlink=Jeffrey Toobin| title=Too Close To Call: The Thirty-Six-Day Battle to Decide the 2000 Election| year=2001| publisher=Random House| isbn=0-375-50708-6}}
+
+===Journal articles===
+* {{Cite journal| first=Arthur H.| last=Miller|author2=Thomas F. Klobucar | title=The Role of Issues in the 2000 U.S. Presidential Election| journal=Presidential Studies Quarterly| volume=33| issue=1| year=2003| pages=101+| doi=10.1111/j.1741-5705.2003.tb00018.x}}
+* {{Cite journal| last=Wattenberg| first=Martin P.| title=The Democrats' Decline in the House during the Clinton Presidency: An Analysis of Partisan Swings| journal=Presidential Studies Quarterly| volume=29| year=1999| doi=10.1111/j.0268-2141.2003.00057.x| page=685| issue=3}}
+* {{Cite journal| last=Wattier| first=Mark J.| title=The Clinton Factor: The Effects of Clinton's Personal Image in 2000 Presidential Primaries and in the General Election| journal=White House Studies| volume=4| year=2004}}
+* Tribe, Laurence H.: Erog .v Hsub and its Disguises: Freeing Bush v. Gore From its Hall of Mirrors, 115 Harvard Law Review 170 (November 2001).
+
+===Papers===
+* Keating, Dan (The Washington Post). [http://www.aei.org/docLib/20040526_KeatingPaper.pdf "Democracy Counts, The Florida ballot recount project"], paper prepared for presentation at the annual meeting of the American Political Science Association, Boston, 2002.
+
+==External links==
+{{Commons category|United States presidential election, 2000}}
+*[http://psephos.adam-carr.net/countries/u/usa/pres/2000.txt 2000 popular vote by states]
+*[http://uselectionatlas.org/RESULTS/datagraph.php?year=2000&fips=0&f=1&off=0&elect=0 2000 popular vote by states (with bar graphs)]
+*[http://www.livingroomcandidate.org/commercials/2000 Campaign commercials from the 2000 election]
+*[http://www.cbsnews.com/htdocs/c2k/pdf/REPFINAL.pdf CBS News Coverage of Election Night 2000: Investigation, Analysis, Recommendations] (231&nbsp;kB PDF).
+*[http://www.thegreenpapers.com/PCC/ChAll.html Presidential Primaries, Caucuses, and Conventions]
+*[http://www.usccr.gov/pubs/vote2000/main.htm Report from United States Commission on Civil Rights]
+*[http://frwebgate.access.gpo.gov/supremecourt/00-949_dec12.fdf Supreme Court Decisions of December 9, 2000]
+*[http://www.usnews.com/usnews/news/election/magtimeline.htm Timeline of the 2000 Presidential Election]
+*{{Wayback |date=20120825102042 |url=http://www.mit.edu/~mi22295/elections.html#2000 |title=How close was the 2000 election? }}&nbsp;— Michael Sheppard, Massachusetts Institute of Technology
+*[http://www.booknotes.org/Watch/165212-1/Jeff+Greenfield.aspx ''Booknotes'' interview with Jeff Greenfield on ''Oh, Waiter! One Order of Crow: Inside the Strangest Presidential Election Finish in American History'', July 22, 2001.]
+* [http://lcweb2.loc.gov/diglib/lcwa/html/elec2000/elec2000-overview.html United States Election 2000 Web Archive] from the U.S. [[Library of Congress]]
+
+{{USPresidentialElections}}
+{{United States presidential election, 2000}}
+{{State Results of the 2000 U.S. presidential election}}
+{{George W. Bush}}
+{{Al Gore}}
+
+{{DEFAULTSORT:United States Presidential Election, 2000}}
+[[Category:United States presidential election, 2000| ]]
+[[Category:History of the United States (1991–present)]]

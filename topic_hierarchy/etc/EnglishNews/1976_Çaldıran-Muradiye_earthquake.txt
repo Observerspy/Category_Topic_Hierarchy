@@ -1,0 +1,46 @@
+{{Use dmy dates|date=December 2013}}
+{{Earthquake|
+ | title= 1976 ?ald?ran-Muradiye earthquake
+ |date= {{Start date|1976|11|24|df=yes}}
+ | image              = 
+ | image alt          = 
+ | map2 = {{Location map | Turkey |relief=1
+ | label=
+ | lat=39.12
+ | long=44.03
+ | mark=Bullseye1.png
+ | marksize=40
+ | position=top
+ | width= 250
+ | float=right
+ | caption=}}
+ | depth = 36
+ | location = {{coord|39.12|44.03|display=inline,title}}
+ | magnitude = 7.3 Surface wave magnitude|M<sub>s</sub>
+ | countries affected = {{flag|Turkey}}
+ | casualties = 5,000 dead
+|}}
+File:1976 Caldiran earthquake surface rupture.png|thumb|260 px|Extent of surface faulting in the earthquake, epicentre shown by red star
+The '''1976 ?ald?ran-Muradiye earthquake''' occurred at 14:22 local time (12:22 Coordinated universal time|UTC) on 24 November. The epicenter was located near ?ald?ran (District), Van|?ald?ran, 20&nbsp;km northeast of Muradiye, in the Van Province of eastern Turkey. The earthquake had a Surface wave magnitude|magnitude of 7.3 with a maximum Seismic scales#Seismic intensity scales|intensity of X on the Mercalli intensity scale. The area of severe damage, where over 80% of the buildings were destroyed, covered an area of 2,000 square kilometres.
+
+==Tectonic setting==
+The easternmost part of Turkey lies within the complex zone of continuing continental collision between the Arabian Plate and the Eurasian Plate. The overall shortening that affects this area is accommodate partly by thrusting along the Zagros fold and thrust belt|Bitlis-Zagros fold and thrust belt and partly by a mixture of sinistral strike-slip on SW-NE trending faults and dextral strike-slip on NW-SE trending faults. No earthquakes with magnitudes of 6 or greater were recorded within 100&nbsp;km of ?ald?ran in the preceding 74 years, possibly explaining why it was considered an area of only intermediate seismic risk (zone 3 out of the five zone system of seismic risking used in Turkey at the time, with zone 1 being the highest).
+
+==Earthquake==
+The earthquake was associated with a 50–55&nbsp;km zone of surface faulting, extending from three kilometres west of Sarik?k in the west to just west of Baydo?an in the east. A maximum dextral offset of 3.5 m was recorded. The rupture width was estimated at 24&nbsp;km and the fault zone was found to Strike and dip|dip at 78° to the south. The duration of strong ground shaking is estimated at six seconds.
+
+==Damage==
+In ?ald?ran 95% of the houses were destroyed with all the others damaged to some extent and 615 of the 3,304 inhabitants were killed. In the villages around ?ald?ran over 80% of the houses were destroyed and most of the rest were damaged; 2,313 of the 27,587 inhabitants were killed. In Muradiye almost all the houses were either completely collapsed or damaged and 159 of the 6,753 inhabitants were killed.
+
+Most of the buildings in the epicentral area were constructed of thick walls made from rubble masonry cemented with mud mortar. The structures were typically finished with a heavy earth roof with wooden supports. The very low resistance to lateral loads of these structures explains why almost all the buildings in ?ald?ran collapsed in the earthquake, causing most of the deaths. Reinforced concrete structures generally performed well, with none suffering complete collapse. The performance of brick or stone masonry structures was mixed, with some collapsing and others being apparently unaffected.
+
+==References==
+{{Reflist}}
+
+{{Earthquakes in Turkey}}
+
+{{DEFAULTSORT:Caldiran Muradiye 1976}}
+Category:Earthquakes in Turkey|1976 ?ald?ran
+Category:1976 earthquakes
+Category:1976 in Turkey
+Category:History of Van Province|1976

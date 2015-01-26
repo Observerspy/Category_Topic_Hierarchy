@@ -1,0 +1,67 @@
+{{refimprove|date=January 2013}}
+{{Infobox earthquake
+|title = 1999 Armenia, Colombia earthquake
+|date = {{start-date|January 25, 1999|January 25, 1999}}
+|map2 = {{Location map many | Colombia 
+| relief = 1
+| label =
+| lat = 4.46
+| long = -75.72
+| mark = Bullseye1.png
+| marksize = 40
+| width = 250
+| float = right
+| caption = }}
+|caption = 
+|magnitude = 6.2 moment magnitude scale|M<sub>w</sub> 
+|PGA = 0.55 ''peak ground acceleration|g''
+|depth = {{convert|17|km|mi|0|abbr=on}}  
+|location = {{coord|4.5|N|75.7|W|display=inline,title}} 
+|countries affected = Colombia
+|casualties = 1,900 dead 
+}}
+
+The '''1999 Armenia, Colombia earthquake''' occurred on 25 January at {{Tooltip|13:19|18:19 UTC}} with an epicenter {{convert|25|mi|sp=us}} west south west of Ibagué, Colombia. The shock heavily affected the city of Armenia, Colombia in the Quindío department, and about 18 other towns and 28 additional villages in the Colombian Coffee-Growers Axis region  departments, and to a lesser degree, the cities of Pereira, Colombia|Pereira and Manizales. The earthquake had a magnitude of 6.2 on the moment magnitude scale and was the strongest earthquake to strike Colombia for 16 years.
+
+==Cause==
+This area has a well known high seismic risk, due to the triple junction that occurs at the northwest corner of the South American Plate where the Nazca, Cocos, and Pacific plates converge. About 60% of the existent Earthquake engineering|poorly engineered structures in Armenia collapsed, due to the high amount of old structures, built without technical requirements and the lack of urban planning and land studies.
+
+==Damage==
+
+The earthquake hit Colombia's coffee-growing region, and toppled tower blocks, hotels, and historic churches in Armenia. Most of these buildings that collapsed were old and poorly constructed, or were built on poor soil such as old landfill sites or steep slopes. The newer structures, for the most part, survived intact due to safety measures being established in 1984. 
+
+The worst hit part of the country were regional capitals of Armenia, Colombia|Armenia and Pereira, Colombia|Pereira. In Armenia, about 10 miles (17&nbsp;km) south of the epicentre, single-story homes were demolished by the seismological event.
+ 
+The initial earthquake produced a rough casualty estimate of about 1000 people.  The first (17:40) aftershock produced a still indeterminate number of victims among the people trying to remove their goods  from the semi-collapsed structures.  The corpses that were retrieved were carried to the local University of Quindío auditorium to be identified by their relatives.  Since the forensic services were out, many of them could not be recognized and were buried in common tombs.
+
+The structures of many hospitals were damaged, and the resources available for health care were insufficient even before the event. Furthermore, the area had limited  reaction plans case of disasters and little experience with triage. As a consequence, the attention of the victims was chaotic.  About 4,000 people with various degrees of lesions were attended in the remaining health care centers of the city.  An undetermined number of injured victims (many of them unidentified) were carried by airplane to different cities (mainly Bogotá, Medellín, and Cali), and out of the country.
+
+The amount of missing persons as a result of the earthquake is estimated near to 3900.  Some factors involved in the disappearance of this people are the security issues due to the riots, the collapse of communications and roads, the lack of coordination of the rescue forces, dispatch of the injured victims and identification of the corpses. Mainly the injuries in the earthquakes were made by collapsing buildings which broke bones, concussions, bruises, cuts and many more injuries. Some were very bad others were not.
+
+==Aftershocks==
+A shock occurred at 15:40 (22:40 UTC) with a magnitude of 5.4 on the Richter scale.  Other aftershocks that caused panic among the inhabitants were the 29th at 23:33 (M4.2) and the 31st at 03:03 (M3.5)
+
+==Economic impact==
+The main economic activity of the region, the Colombian coffee industry was heavily affected. About 8,000 coffee farms were completely or partially destroyed, and 13,000 structures of several kinds of enterprises and industries were damaged and went temporarily or permanently out of service.  The banks and financial entities could not dispense money for several weeks.
+
+==Aftermath==
+Colombian authorities imposed a dawn-till-dusk curfew after the earthquake, to allow rescue workers to work unhindered. Looting was widespread in Armenia after residents, disturbed by the slow movement of the relief effort, broke into food stores and stole supplies. Then Colombian president Andrés Pastrana postponed a trip to Germany to attend a World Bank meeting to view the destruction himself. He later had to send soldiers to the afflicted area to restore order.
+
+In January 2002, three years after the earthquake hit, the new community of El Cantaro was finished. An ecological park was created further down the eponymous stream.
+
+==References==
+{{Reflist|refs=
+
+}}
+
+*ARANGO, J. D. y QUINTERO, B. E. Dianóstico del Sismo del 25 de enero de 1999. In: Boletin de la Red Sismológica del Eje Cafetero. Vol.8 Manizales: 2000 46 – 53 p.
+*BAKER, V. R. Regional Landforms Analysis. NASA, Red mundial, 2001.
+*CARDONA, O. D. Lessons in Seismic Engineering and Disaster Prevention. Special Report. The Earthquake of Armenia, Colombia, January 25, 1999. Geohazards International. Red mundial, 2000. Www.geohaz.org/member/report/cardeng99.html
+
+{{Earthquakes in 1999}}
+
+{{DEFAULTSORT:1999 Armenia, Colombia Earthquake}}
+Category:1999 earthquakes|Armenia
+Category:Earthquakes in Colombia
+Category:1999 in Colombia|Armenia
+Category:Armenia, Colombia

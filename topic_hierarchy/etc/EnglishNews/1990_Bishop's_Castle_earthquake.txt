@@ -1,0 +1,59 @@
+{{Use dmy dates|date=June 2013}}
+{{Use British English|date=June 2013}}
+{{Earthquake
+| title      = Bishop's Castle earthquake
+| date       = {{start-date|02 April 1990|2 April 1990}}
+| map        =
+| image name =
+| magnitude  = 5.1 Richter magnitude scale|M<sub>L</sub>
+| depth = 14.1&nbsp;km
+| location = {{coord|52.43|N|3.03|W}}
+| countries affected = {{UK}}
+| intensity = 6 European Macroseismic Scale|EMS - Slightly damaging
+| casualties = 0
+}}
+
+The '''1990 Bishop's Castle earthquake''' was an earthquake that hit near the town of Bishop's Castle, Shropshire, England on 2 April 1990.
+
+==Location, date and time==
+
+On 2 April 1990, a powerful earth tremor was felt across much of England and Wales at 13:46 34.2s UTC. Early news reports in the immediate aftermath speculatively attributed the epicentre to places as far apart as Nottingham and a valley in the east of Wales and then settled on Wrexham, before geologists finally concluded that it had in fact been in the vicinity of the small town of Clun near the town of Bishop's Castle, Shropshire.
+
+== Cause ==
+
+Bishops Castle lies atop an ancient geological fault (geology)|fault line - the Pontesford Linley fault. A sudden movement in the fault sent shock waves through the rock. The local rocks are predominantly Jurassic Early Jurassic|Middle Lias.
+
+==Magnitude==
+
+The magnitude of the earthquake was originally measured as being between 4.9 and 5.4 on the Richter magnitude scale|Richter scale. Its final estimated magnitude was 5.1, which meant that it was the strongest earthquake to have struck the UK since the 1984 Lleyn Peninsula earthquake.
+
+==Impact==
+
+The earthquake was felt by people as far away as the east of the Republic of Ireland to the west, the city of Newcastle upon Tyne to the north-east, the county of Kent to the south-east, and the county of Cornwall to the south-west.
+
+In Shrewsbury, the county town of Shropshire, which lies some miles to the north of Bishop's Castle, there was damage to masonry, with a number of chimney stacks being broken off from roofs and collapsing partially or completely into gardens and streets. Some others were knocked askew. Several of the worst affected buildings, including shops, were evacuated. Police cordons were put up around houses at risk of chimney-collapse until they had been made safe, with at least fifty properties in the town reported as requiring emergency attention within the twenty-four hours immediately following the event, while others requiring less urgent treatment were tended to on subsequent days.
+
+There was also damage to ornamental features such as crosses and gargoyles built into the masonry of some of Shrewsbury's medieval churches, and to Clun Castle.
+
+Electrical power was lost from areas served by some substations situated approximately thirty kilometres (seventeen miles) from the epicentre after the earthquake caused transformers at the substations to trip offline.
+
+Residents of the worst affected areas, including parts of Shrewsbury, reported lateral shaking and swaying to the walls of their houses at the height of the tremor, which was preceded and then accompanied by a rumbling noise that gained strength over a period of 15 to 30&nbsp;seconds before reaching and sustaining peak intensity during the most severe shaking. Finally, the movement and accompanying sound tailed off much more rapidly than it had first built up, stopping altogether within just a few seconds from the peak activity.
+
+Damage to buildings was also reported in Wrexham, and some minor damage as far north as Liverpool and Manchester.
+
+No serious injuries were reported.
+
+An engineering consultant, using the 1990 Bishop's Castle earthquake specifications as a model, has estimated that a slightly weaker earthquake measuring 4.8 on the Richter magnitude scale|Richter scale which struck at Dudley in September 2002 would have caused structural damage of an order costing less than 5% of the cost of the complete reconstruction of an entire property to repair, to 1% of buildings situated in towns in the vicinity of the epicentre. While some indication of the typical percentage of homes damaged to a similarly minor extent by a slightly stronger earthquake measuring 5.1 on the Richter magnitude scale|Richter scale may be extrapolated from this estimation, a representative of the British Geological Survey has stated that 'numerous' but fewer than 20% of properties in Shrewsbury suffered the partial or total loss of their chimneys or damage of equivalent gravity ''(see below)''. Reliable, exact figures of the percentage of buildings damaged close to the epicentre of the 1990 Bishop's Castle earthquake are not readily available, but the aforesaid sources taken together appear clearly to indicate that between 1% and 20% of properties in towns near the epicentre suffered damage of European Macroseismic Scale Grade 7 severity.
+
+The Welsh Borders suffer frequent earthquakes by British standards. Over the last century, there have been sizeable shocks near Shrewsbury in 1932, near Ludlow in 1926 and near Hereford in 1896 and 1924.
+
+== References ==
+{{reflist|30em}}
+
+{{Earthquakes in 1990}}
+
+{{DEFAULTSORT:1990 Bishop's Castle Earthquake}}
+Category:Earthquakes in the United Kingdom|1990 Bishops
+Category:1990 earthquakes|Bish
+Category:History of Shropshire|Bishops
+Category:1990 in England|Bishops

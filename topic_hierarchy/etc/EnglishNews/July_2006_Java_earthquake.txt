@@ -1,0 +1,90 @@
+{{update|date=November 2010}}
+{{Earthquake|
+  | title= July 2006 Java earthquake
+  | date= {{Start date|2006|7|17|df=y}}
+  | map = NASAJuly2006JavaEarthquake.JPG
+  | magnitude = 7.7 Moment magnitude scale|M<sub>w</sub>
+  | countries affected = Indonesia
+  | casualties = At Least 659
+}}
+
+The '''July 2006 Java earthquake''' was a Moment magnitude scale|magnitude 7.7 earthquake off the southwestern coast of Java, Indonesia. It occurred on July 17, 2006, at 08:24 Coordinated Universal Time|UTC (15:24 local time).
+
+The U.S. Geological Survey placed the epicenter|epicentre of the quake at {{Coord|9.295|S|107.347|E}}, and its hypocenter|hypocentre at a depth of 48.6&nbsp;km below the seabed.  This is {{convert|225|km|mi|abbr=on}} NE of Christmas Island, {{convert|240|km|mi|abbr=on}} SSW of Tasikmalaya, Indonesia, and {{convert|358|km|mi|abbr=on}} S of Jakarta, the Capital (political)|capital and largest city of Indonesia.
+
+==Cause==
+
+According to the U.S. Geological Survey "The earthquake occurred as a result of thrust-faulting on the boundary between the Australia plate and the Sunda Plate. On this part of their mutual boundary, the Australia plate moves north-northeast with respect to the Sunda plate at about 59&nbsp;mm/year. The Australia plate thrusts beneath the Sunda plate at the Java Trench, south of Java, and is subducted to progressively greater depths beneath Java and north of Java. The earthquake occurred on the shallow part of the plate boundary, about 50&nbsp;km north of the Java trench."
+
+== Estimated casualties ==
+
+The Ministry of Health (MOH) reported on 03 August 2006 that approximately 668 people died, 65 were missing and 9,299 were being treated because of the disaster.
+
+At least three non-Indonesian nationals were among the dead, including travellers from the Netherlands, Pakistan and Sweden. The Swedish foreign ministry reported that two Swedish children on holiday in the region were missing the first day; they were later found at safe ground higher up in the community.
+{| class="wikitable"
+|- style="text-align: center; background: #eee"
+
+! rowspan="2" |
+! colspan="2" | Deaths
+! rowspan="2" | Injured
+! rowspan="2" | Missing
+! rowspan="2" | Displaced
+|- style="text-align: center; background: #eee"
+! Confirmed
+! Estimated
+|-
+! Total
+| 547
+| 550
+| 595
+| 275
+| 54,256
+|}
+
+== Aftershocks ==
+The USGS recorded at least 22 aftershocks south of Java ranging between magnitude 4.6 and 6.1. The two largest aftershocks measured 6.0 and 6.1 Moment magnitude scale|M<sub>w</sub>.
+
+== Tsunami ==
+File:Schade Zeebeving Java Juli 2006.jpg|thumb|500px|Satellite image of the Pangandaran coast on 19 July
+The July 2006 Java earthquake caused a three-meter-high tsunami which destroyed houses on the south coast of Java, killing at least 668 people
+
+The tsunami affected a {{convert|70|km|mi|abbr=on}} stretch of Java southern coast that was unaffected by the devastating 2004 Indian Ocean tsunami.  Waves more than {{convert|3|m|ft|abbr=on}} high reached {{convert|200|m|ft|abbr=on}} inland in some places, destroying scores of houses, restaurants, and hotels. Cars, motorbikes, and boats were left mangled amid fishing nets, furniture, and other debris.  The tsunami struck the southern Indonesian coastal villages of Cipatujah and Pangandaran  southeast of Bandung and Garut.  There was reportedly extensive damage at the West Java beach resort of Pangandaran.  Thousands of people at the resort fled to higher ground. {{Citation needed|date=April 2012}}
+
+=== Localised tsunami ===
+Following the earthquake, the Indonesian Meteorological and Geophysics Agency stated that “There is the possibility of a local tsunami that could affect coasts located usually no more than 100 kilometres from the earthquake epicentre”, indicating the improbability of a large-scale tsunami, like the one that affected Indonesia and other areas following the 2004 Indian Ocean earthquake on December 26, 2004.  Despite this, India still issued a tsunami warning for the Andaman Islands archipelago region, which is located in the Bay of Bengal.  This archipelago suffered severe damage in the December 26, 2004 tsunami.  A warning was also issued for Christmas Island, however police reports from the island say that no damage was caused.  A mere 60&nbsp;cm tsunami was recorded at the Bureau of Meteorology’s tide gauge on the island.  A warning was also issued for the Kimberley region of Western Australia|Kimberley region of Western Australia.
+
+=== Warning ===
+The Pacific Tsunami Warning Center in Hawaii issued a Tsunami bulletin 12 minutes after the earthquake alerting Indonesia (Java) and Australia (Christmas Island) to a possible local tsunami affecting coasts within a 100&nbsp;km radius from the quake epicentre. The bulletin gave an estimated tsunami impact time for Indonesia of 09:00 UTC, an advanced warning of 24 minutes. It suggested that based on historical data, the risk of a destructive widespread tsunami was non-existent. The second bulletin issued two and a half hours later confirmed the occurrence of local tsunami by the news media and the reiteration that a more widespread tsunami was non-existent.
+
+Kusmayanto Kadiman, the State Minister for Research and Technology confirmed that Indonesian officials had received bulletins from both the Pacific Tsunami Warning Center in Hawaii and the Japan Meteorological Agency
+twenty minutes before the first tsunami wave struck.  However, Kadiman indicated that the government did not publicise the bulletins because they did not want to cause unnecessary alarm. According to an Associated Press|AP report, he had stated the bulletins were received 45 minutes before the tsunami hit. He later stated that warnings were issued seven minutes before incident via text messaging but that it was not enough time to alert local communities.
+
+Edi Prihantoro, an official at Indonesia’s Ministry of Research and Technology that oversees a national warning project, said the southern Java area had no system to warn people of coming waves.
+
+As part of a five-year project to install Deep-ocean Assessment and Reporting of Tsunamis|tsunami buoys around the archipelago, Indonesia deployed two such devices off the island of Sumatra last year.  However, when asked how many of the deployed devices were operational, Prihantoro replied: “None.”  He continued, “We need at least 22 buoys to cover all of Indonesia. We have received two from Germany and they were deployed months ago. However, both of them are damaged now.”  Both devices have since been decommissioned and one of them is awaiting repairs.
+
+=== Evacuation ===
+At least 23,000 people did eventually evacuate the coast, either afraid that more tsunami were coming or because their homes had been destroyed.
+
+===History===
+South Java Beach, which was struck by 2006 tsunami, was hit 400 years before with a greater earthquake and tsunami. The methodology used was to search for paleotsunami deposits, which was done after 2006 tsunami at Cikembulan River Cliff, Pangandaran.  Based on the research, tsunamis have occurred several times before at Pangandaran.
+
+==References==
+{{Commons category|July 2006 Java earthquake}}
+{{Reflist|colwidth=40em}}
+
+==External links==
+{{Portal|Indonesia|Disasters|2000s}}
+{{Wikinews|Many killed by Indonesian tsunami}}
+*http://earthquake.usgs.gov/eqcenter/eqinthenews/2006/usqgaf/ U.S. Geological Survey
+* http://news.bbc.co.uk/1/hi/in_pictures/5189948.stm Photographs of the effect of the tsunami of 17 July 2006 on Pangandaran from BBC news
+*http://www.envirtech.org/envirtech_tsunameter.htm Envirtech Tsunami Warning System, based on real time seafloor observatories measuring seismic waves and sea levels
+
+{{JavaMegathrust}}
+{{Earthquakes in 2006}}
+
+{{DEFAULTSORT:July 17 2005 Java Earthquake}}
+Category:2006 earthquakes|Java, July
+Category:2006 in Indonesia
+Category:Megathrust earthquakes in Java|2006-07 Java earthquake
+Category:21st-century tsunamis|2006

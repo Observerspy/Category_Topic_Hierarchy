@@ -1,0 +1,647 @@
+topic times:
+national aid: 1
+technical data: 4
+casualties: 12
+g8 summit: 1
+threat: 1
+causes of building collapse and public reaction: 1
+surface rupture: 2
+centennial commemorations: 1
+science of the earthquake: 1
+government response and aid: 1
+assistance and reporting: 1
+el salvador: 1
+february 6: 1
+loess caves: 1
+february 7: 1
+preface: 1
+long-term recovery: 1
+collapse of schoolhouses: 1
+event: 2
+aid to kraljevo: 1
+2012: 1
+2011: 1
+legislative changes: 1
+critical reception: 1
+expressways and railways: 1
+february 5: 1
+films on the earthquake: 1
+economic damage: 1
+maryland, delaware, and west virginia: 1
+2013: 1
+effect on disaster prevention planning: 1
+mandatory palestine: 1
+memorials: 1
+scientific framework: 1
+completion of works: 1
+emirate of transjordan: 1
+effects: 17
+casualties, damage, and other effects: 1
+aid agencies: 1
+damage evaluation: 1
+year-by-year: 1
+northern taiwan: 1
+evacuations: 1
+building damage in the city: 1
+discovery: 1
+fukushima meltdowns: 1
+tsunamis: 1
+the norcia earthquake: 1
+modified mercalli intensities for some localities: 1
+reactions of authorities: 1
+prison escape: 1
+memorable sites: 1
+relief: 1
+infrastructure and support: 1
+bangladesh: 1
+bhutan: 1
+stress triggering: 1
+building standards: 1
+epicenter: 3
+sewing factory: 1
+relationship between earthquakes: 1
+warnings: 3
+affected area: 1
+mindanao: 1
+political issues: 1
+seismology: 1
+earthquake and damage: 1
+taiwan: 3
+hospitals affected: 1
+relief and reconstruction: 1
+history: 6
+charts: 1
+the march 3 earthquake: 1
+ports: 1
+background: 25
+"mistaken" earthquake: 1
+structural effects: 1
+the rest of the country: 1
+hong kong and macau: 1
+damage and casualties by country: 2
+tectonic interpretation: 1
+future threats: 5
+primary effects: 1
+status of the recovery: 1
+root: 294
+air crash: 1
+external aid: 1
+general references: 1
+transportation: 3
+effects on transportation: 1
+elsewhere in alaska: 1
+local response: 1
+tsunami warnings: 3
+yangtze river: 1
+damage in cities and the suburbs: 1
+personnel: 1
+facts: 2
+theories: 1
+previous seismicity: 1
+description: 5
+effect on society and philosophy: 1
+sikkim: 1
+transportation affected: 1
+peak acceleration: 1
+inside taiwan: 1
+earthquake development: 1
+united states: 3
+geological origins: 1
+death toll and casualties: 1
+aftermath and reconstruction: 1
+community response: 1
+television, movie, and music productions affected: 1
+magnitude and geology: 1
+iranian earthquake education: 1
+names: 1
+1989 world series: 1
+space center: 1
+iran–united states relations: 1
+the cabinet office: 1
+philippines: 1
+luminous phenomena: 1
+damage to hospitals: 1
+clean-up and reconstruction: 1
+olive view hospital: 1
+popular culture: 1
+remarks: 1
+frequency: 1
+analysis: 1
+spread of effect: 1
+effects of earthquake in other parts of mexico: 1
+turkish aid: 1
+statistics: 1
+response: 30
+the february 13 earthquake: 1
+dams and water problems: 1
+aftershocks and other earthquakes: 1
+name: 2
+baoxing: 1
+essential services: 1
+emergency management: 2
+vestiges: 1
+republic era (1930s–1940s): 1
+1959 earthquake: 1
+fire and liquefaction: 1
+extent of tremors: 1
+electric power supply: 1
+meteorological causes: 1
+public anger: 1
+san francisco – oakland bay bridge: 1
+event in historical context: 1
+defence forces: 1
+magnitude: 4
+prediction: 1
+automotive production: 1
+casualties and infrastructure damage: 1
+baguio city, benguet: 1
+ishikawa prefecure: 1
+evacuation: 1
+ri?ihuazo flood: 1
+response and relief efforts: 1
+localization of the damage: 1
+memory: 1
+success and benefits of redevelopment: 1
+human toll in the city: 1
+aftershocks: 43
+list of countries that sent aid: 1
+technical records: 1
+emergency relief funds for donations: 1
+mission: 1
+track listing: 1
+previous events: 2
+kashiwazaki-kariwa nuclear power plant incidents: 1
+damage and deaths: 2
+concepción earthquakes: 1
+damage outside cheviot: 1
+the seismic event: 1
+thailand: 1
+response, casualties, and intensities: 1
+death toll and damage to buildings: 1
+damage & casualties: 1
+oakland and interstate 880/cypress viaduct: 1
+buildings affected: 1
+entertainment and sports affected: 1
+energy released: 1
+zoo animal reactions: 1
+consequences: 1
+chon-kemin chilik rupture zone: 1
+link to eruption of mount fuji: 1
+other events: 5
+head coaches: 1
+esteco: 1
+media coverage: 3
+health: 1
+geological and structural engineering issues: 1
+memorial services: 1
+responses: 1
+damage and casualties: 41
+international assistance and insurance payments: 1
+metro service: 1
+apartment complexes in tlatelolco: 1
+main aftershocks since 22 february 2011: 1
+tectonic causation: 1
+commission of inquiry: 1
+national effort: 1
+manila: 1
+future threat: 1
+city of bam: 1
+christchurch international airport: 1
+native and japanese accounts: 1
+development: 1
+in literature: 1
+relief and reconstruction efforts: 1
+sequence of shocks: 1
+disaster relief: 1
+beyond christchurch: 1
+influence: 1
+cover versions by other artists: 1
+chon-aksu aksu rupture zone: 1
+recent developments: 1
+quake lake: 1
+casualties and damage: 3
+intensities: 1
+state funeral: 1
+the earthquake: 1
+government reactions: 1
+era of disaster: 1
+great kanto earthquake-related fiction: 1
+power and water supply: 1
+population with destroyed or severely damaged homes: 1
+american samoa: 1
+the makran region: 1
+gallery: 5
+current situation: 1
+precursors and foreshocks: 1
+magnitude and earth movement: 1
+damage and fatalities: 1
+6 june earthquake: 1
+search and rescue: 1
+earthquake prediction: 1
+post-earthquake development: 1
+implications for current seismic risk: 1
+domestic reactions: 1
+warning: 1
+creation of emergency committee: 1
+foreign and domestic aid: 1
+location, date and time: 1
+areas affected: 1
+rescue and relief efforts: 1
+jianchuan mirror museum & wenchuan earthquake memorial: 1
+cause: 11
+future risk: 1
+casualties, intensities, and damage areas: 1
+location: 3
+works cited: 1
+hotel regis: 1
+economic impact: 4
+north bohol fault: 1
+other visayas islands: 1
+past events: 2
+preparedness and response: 1
+conjunto pino suárez: 1
+schools: 1
+mexico city's vulnerability to earthquakes: 1
+tectonics and background: 2
+tectonic summary: 9
+rescue operations and compensation: 1
+universities, colleges, and schools affected: 1
+reported portents: 1
+tectonic setting: 69
+rescue efforts: 4
+aftermath and relief efforts: 1
+french polynesia: 1
+damage: 132
+humanitarian response: 3
+geophysical effects: 2
+possible causes: 1
+comparison: 1
+oceania: 1
+victims and damage: 1
+in popular culture: 2
+disaster management: 1
+other charity and fundraising activities: 1
+future earthquake hazard: 1
+tectonics and previous activity: 1
+economic recovery: 1
+earthquake mechanisms: 1
+international response: 3
+foreign reaction: 1
+subsequent earthquakes: 1
+televisa studios: 1
+causes: 1
+the "quake lakes": 1
+transformational faulting or anticrack faulting: 1
+the january 13 earthquake: 1
+day of mourning: 1
+the events: 1
+precursors: 1
+radio and television affected: 1
+cordón caulle eruption: 1
+reactions: 1
+british hong kong: 1
+tsunami warning: 1
+postseismic moment release: 1
+homeless camps: 1
+aid and relief: 1
+shaking: 1
+southern states: 1
+the l'aquila earthquake: 1
+japan: 1
+identified fatalities: 1
+extent: 4
+post-quake analysis: 1
+central communications center: 1
+tectonics: 8
+nasl and misl indoor soccer: 1
+pennsylvania, new jersey, and new york: 1
+prosecutions: 1
+analysis and current situation: 1
+the earthquake itself: 1
+political: 1
+damage and effects: 3
+veterans hospital: 1
+sport: 1
+medical response: 1
+impact on natural area: 1
+list of aftershocks: 2
+geological setting: 2
+the modern city: 1
+duration: 1
+internet activity and social media: 1
+quotes: 1
+current hazards: 1
+aid response: 2
+implementation: 1
+2011 aftershocks: 1
+conditions in the aftermath: 2
+relief efforts: 13
+localised tsunami: 1
+energy: 1
+scientific and research response: 1
+regional seismicity: 1
+list of major submarine earthquakes: 1
+honors: 1
+foreshock: 1
+damage, casualties and effects: 1
+focal mechanisms: 1
+medical impact: 1
+countries affected: 1
+29 may earthquake: 1
+stress-induced melting and shear thermal instability: 1
+earthquakes magnitudes: 1
+april 4 quake: 1
+virginia: 1
+japan self-defense forces: 1
+midwestern states: 1
+huai river: 1
+damage in fukui city: 1
+fort tejon earthquake: 1
+postponement of 2013 barangay elections in bohol: 1
+international: 4
+ground acceleration: 2
+sri lanka: 1
+impacts in valdivia: 1
+2011 tōhoku earthquake and tsunami: 1
+early response: 1
+fault zones within tectonic plates: 1
+damages and casualties: 2
+relation to wenchuan earthquake: 1
+2004 event: 1
+response from other countries: 1
+seismology and geology: 1
+public reaction: 1
+blackouts: 1
+first anniversary: 1
+data: 1
+background and tectonics: 5
+epicenter and seismology: 1
+land subsidence: 1
+human sacrifice: 1
+dagupan city, pangasinan: 1
+liquefaction: 1
+later casualties: 1
+geologic setting: 1
+artesian fountains: 1
+schools and universities: 1
+historical context: 2
+weakening of the partido revolucionario institucional|pri: 1
+political aftermath: 1
+property damage: 2
+1923 earthquakes: 1
+similar earthquakes: 2
+aftermath: 61
+valdivia earthquake: 1
+landslides: 8
+hospital juárez: 1
+strong motion: 2
+future seismic hazard: 5
+the prepared qinglong county: 1
+overview: 3
+quake: 2
+infrastructure: 1
+consequences and response: 1
+hong kong: 1
+recording: 1
+compared with past earthquakes: 1
+controversial statistics: 1
+problems of redevelopment: 1
+earthquake: 74
+earthquake activity: 1
+description in public archives: 1
+the earthquake and volunteerism: 1
+tribute and day of mourning: 1
+van norman dam: 1
+list of foreshocks and aftershocks: 2
+link to eruption of etna: 1
+predictions, precursors, and postmortems: 1
+consequence of the 1811–12 earthquakes: 1
+socioeconomic impact: 1
+electricity: 1
+image gallery: 1
+government and organization affected: 1
+wind power: 1
+relationship between the events: 1
+nepal: 1
+china: 3
+cabanatuan city: 1
+bohol: 1
+chaos and disorder: 1
+canada: 2
+damage to infrastructure: 1
+mexico: 2
+disruption in communications: 1
+long-term effects: 1
+divergent plate boundary: 1
+patterns of damage: 1
+sequence of earthquakes: 1
+international reaction: 1
+relationship to the chile earthquake: 1
+cost: 1
+footnotes: 3
+effect on businesses: 1
+cultural properties: 1
+the 1811–1812 earthquakes: 1
+outside taiwan: 1
+efforts: 1
+aftershock: 1
+canterbury earthquake recovery authority: 1
+other areas: 1
+controversy on reconstruction and criminality: 1
+the controversial role of geng qingguo: 1
+earthquake and tsunami: 1
+historic examples: 1
+anchorage area: 1
+other buildings affected: 1
+shantou: 1
+the four earthquakes: 1
+landslide: 1
+response in china: 1
+economic impacts: 1
+chile: 1
+earthquake characteristics: 8
+signs and warnings: 1
+mechanism of the earthquake: 1
+geography: 4
+fundraising and charity events: 1
+political consequences: 1
+earthquake sequence: 1
+1952 earthquake: 1
+aid and reconstruction: 1
+dehydration embrittlement: 1
+defense: 1
+government data: 1
+m5.8 aftershock on april 20: 1
+humanitarian and welfare: 1
+evidence of the earthquake: 1
+criticism of iranian government response: 1
+convergent plate boundary: 1
+other effects: 2
+recovery: 3
+general: 1
+mauna kea observatory: 1
+rise of drugs: 1
+list of shocks: 1
+humanitarian, economic and environmental impact: 1
+certifications: 1
+north america: 1
+effect: 1
+santa cruz and monterey counties: 1
+nuclear power plants: 1
+mainland china: 1
+related earthquakes: 1
+scientific study: 1
+tectonic plates: 1
+seismic intensity: 2
+aftershocks and related quakes: 1
+u.s. army: 1
+repair work: 1
+relation to other earthquakes: 2
+bibliography: 4
+elsewhere: 1
+previous and later earthquakes: 1
+development of seismology: 1
+significance: 2
+news coverage: 1
+data on magnetic disturbances: 1
+earthquake details: 2
+central taiwan: 1
+canterbury region long-term probabilities: 1
+animal casualties: 1
+housing: 1
+national: 1
+solid-solid phase transitions: 1
+surface faulting: 1
+la union: 1
+other structures: 1
+communist era (1949–present): 1
+seismologic details: 1
+jerusalem: 1
+elsewhere across the pacific: 1
+the red crescent: 1
+other dates: 1
+planning: 1
+foreshocks and aftershocks: 1
+3 june aftershock: 1
+cancellation of 2011 census: 1
+earthquakes: 1
+estimated casualties: 1
+death toll, damage, and casualties: 1
+legacy: 5
+reaction: 8
+natural disasters triggered: 1
+tsunami-related aid given: 1
+timeline: 2
+rebuilding: 3
+predicted earthquake hazard: 1
+role of monks and victims' rites: 1
+outline: 1
+tsunami: 53
+january 9 foreshock: 2
+telecommunications: 1
+main earthquake: 1
+transport: 1
+tectonic plate boundaries: 1
+human casualties: 1
+india: 3
+march 1: 1
+natural gas emission: 1
+1737 earthquake: 1
+background and geology: 1
+cebu: 1
+environmental impact: 1
+characteristics: 45
+documentary film: 1
+subduction: 1
+lushan: 1
+research: 2
+emergency response: 1
+geographic information: 1
+government response: 2
+suburbs: 1
+relocation and housing: 1
+historical tōkai earthquakes: 1
+showa bridge: 1
+incidents elsewhere: 1
+food scarcity: 1
+geophysical impact: 1
+international aid: 3
+death toll and damage: 1
+rediscovery: 1
+eyewitness accounts: 1
+nuclear blast: 1
+early warnings and predictions: 1
+subsequent fires: 1
+sources: 6
+impact: 9
+march 28: 1
+geology: 42
+incidents: 1
+emergency and reconstruction aid: 1
+internet video: 1
+police: 1
+building code changes: 1
+oil, gas and coal: 1
+remembrance: 1
+seismic movements and events before april 21: 1
+transform plate boundary: 1
+previous quakes: 1
+political reaction: 1
+aid from organizations: 1
+victims: 1
+main shock: 2
+warning from agencies in other areas: 1
+samoa: 1
+transportation infrastructure damage: 1
+tsunami videos: 1
+earthquake's results: 1
+the montereale earthquake: 1
+panoramas: 1
+injuries and fatalities: 1
+images: 2
+20 may earthquake: 1
+ground effects: 2
+the march 25 earthquake: 1
+media: 1
+january 11 mainshock: 2
+intensities and damage area: 1
+prior warning: 1
+death toll: 1
+other: 3
+radar imagery: 1
+summary of earthquakes: 2
+similar megathrust earthquakes: 1
+valley fever outbreak: 1
+immediate aftermath: 1
+technical details: 4
+tsunami characteristics: 1
+washington, d.c.: 1
+prior events: 1
+scientific preparedness: 1
+relief efforts and aftermath: 2
+details: 4
+guatemala: 1
+earthquake epicenter: 1
+seismic data: 1
+seismic hazard implications: 1
+relation to other major earthquakes: 1
+impact in the countryside: 1
+relief efforts and response: 1
+origin: 2
+nicaragua: 1
+first shock: 1
+domestic: 1
+general infrastructure: 1
+postquake violence: 1
+governments: 1
+international response and aid: 1
+new england: 1
+tonga: 1
+seismic characteristics: 1
+damage from the earthquake: 1
+9 november earthquake: 1
+high altitude sickness: 1
+notable deep-focus earthquakes: 1
+reconstruction: 4
+cultural references: 1
+marina district: 1

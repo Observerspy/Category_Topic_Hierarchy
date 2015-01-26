@@ -1,0 +1,66 @@
+{{Infobox earthquake
+|title= 1896 Sanriku earthquake
+|image              = Sanriku Great Tsunami.JPG
+|image alt          = 
+|imagecaption       = Devastation caused by the tsunami at Sanriku coast|Sanriku.
+|date= Sunday, {{Start-date|June 15, 1896}}
+|map2 = {{Location map | Japan
+ | label=
+ | lat=39.5
+ | long=144.0
+ | mark=Bullseye1.png
+ | marksize=50
+ | position=top
+ | width= 250
+ | float=right
+ | caption=
+ | relief=yes}}
+|magnitude = 8.5 Moment magnitude scale|M<sub>w</sub>, 7.2 Surface wave magnitude|M<sub>s</sub>
+|depth=shallow
+|location={{coord|39.5|144.0|display=inline,title}}
+|countries affected = Iwate Prefecture, Japan
+|tsunami = yes
+|casualties = 22,066
+}}
+The '''1896 Sanriku earthquake''' was one of the most destructive seismic events in Japanese history.
+
+Seismologists have discovered the Tsunami#Magnitude scales|tsunamis' magnitude (M<sub>t</sub> = 8.2) was much greater than expected for the estimated seismic magnitude. This earthquake is now regarded as being part of a distinct class of seismic events, the tsunami earthquake.
+
+==Geology==
+File:Meiji-Sanriku earthquake 02.jpg|thumb|left|Houses heavily damaged by the earthquake
+The epicenter of lies just to the west of the Japan Trench, the surface expression of the west-dipping subduction zone. The trench forms part of the convergent boundary between the Pacific Plate|Pacific and Eurasian Plate|Eurasian plates.
+
+===Magnitude===
+The unusual disparity between the magnitude of the earthquake and the subsequent tsunami may be due to a combination of forces:
+# the tsunami was caused by a slope failure triggered by the earthquake
+# the rupture velocity was unusually low
+Scientists believe the effect of subducted sediment beneath the accretionary wedge was responsible for a slow rupture velocity. The effects of a 20° dipping fault along the top of the subducting plate was found to match both the observed seismic response and tsunami, but required a displacement of 10.4 m. A magnitude of 8.5 on the moment magnitude scale has also been estimated for this event.
+
+==Tsunami==
+On the evening of June 15, 1896, communities along the Sanriku coast in northern Japan were celebrating a Shinto holiday and the return of soldiers from the First Sino-Japanese War. After a small earthquake, there was little concern because it was so weak and many small tremors had also been felt in previous few months. However 35 minutes later the first tsunami wave struck the coast followed by a second a few minutes later. Damage was particularly severe because the tsunamis had coincided with high tides. Most deaths occurred in Iwate and Miyagi Prefecture|Miyagi although casualties were also recorded from Aomori Prefecture|Aomori and Hokkaido.
+
+The power of the tsunami was great and large numbers of victims were found with broken bodies or missing limbs. As was their normal practice each evening, the local fishing fleets were all at sea when the tsunamis struck. In the deep water the wave went unnoticed. Only when they returned the next morning did they discover the debris and bodies.
+
+Wave heights of up to {{convert|9|m|ft|sp=us}} were also measured in Hawaii. They destroyed wharves and swept several houses away.
+
+===Legacy===
+Preventative coastal measures were not implemented until after another tsunami struck in 1933. Due to higher levels of tsunami awareness, fewer casualties were recorded following the 1933 Sanriku earthquake|Sanriku earthquake. Nevertheless the 2011 Tōhoku earthquake and tsunami|earthquake of 11 March 2011 caused a huge tsunami that resulted in thousands of deaths across the same region and a Fukushima Daiichi nuclear disaster|nuclear disaster.
+
+==See also==
+*Seismicity of the Sanriku coast
+**869 Jogan Sanriku earthquake
+**1933 Sanriku earthquake
+**2011 Tōhoku earthquake
+
+==References==
+{{Reflist}}
+
+{{JapanTrenchMegathrust}}
+{{Earthquakes in Japan}}
+
+Category:Megathrust earthquakes in Japan
+Category:Tsunamis in Japan
+Category:1896 in Japan|Meiji-Sanriku earthquake
+Category:1896 earthquakes|Meiji-Sanriku earthquake
+Category:19th-century tsunamis
+Category:Empire of Japan|1896

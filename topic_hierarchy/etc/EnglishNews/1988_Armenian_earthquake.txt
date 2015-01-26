@@ -1,0 +1,181 @@
+{{good article}}
+{{Earthquake
+| title = 1988 Armenian earthquake
+| date = {{start-date|December 7, 1988|December 7, 1988}}
+| origintime = 07:41 Coordinated Universal Time|UTC 
+|map2 = {{Location map+ | Armenia
+|places =
+{{Location map~|Armenia|lat=40.84|long=44.27|label=Spitak|label_size=100|mark=Green pog.svg}}
+{{Location map~|Armenia|lat=40.79|long=43.85|label=Gyumri|label_size=100|position=left|mark=Green pog.svg}}
+{{Location map~|Armenia|lat=40.18|long=44.52|label=Yerevan|label_size=100|mark=Green pog.svg}}
+{{Location map~|Armenia|lat=40.987|long=44.185|mark=Bullseye1.png|marksize=40}}
+| relief = yes
+| width= 250
+| float = right
+| caption = }}
+| duration = < 20 seconds 
+| magnitude = 6.8 surface wave magnitude|M<sub>s</sub> 
+| intensity = Mercalli intensity scale|MMI – X (''Intense'') 
+| depth = 5 km 
+| location = {{coord|40.987|N|44.185|E}} 
+| type = Thrust fault|Thrust
+| countries affected = Soviet Union
+| PGA = .6 – .7''Peak ground acceleration|g'' at Spitak (est) 
+| foreshocks = 3.0 Richter magnitude|M<sub>L</sub> December 6 at 15:27 
+| aftershocks = 5.8 Richter magnitude|M<sub>L</sub> December 7 at 07:45 
+| casualties = {{nowrap|25,000—50,000 dead}} {{nowrap|31,000—130,000 injured}}
+}}
+
+The '''1988 Armenian earthquake''', also known as the '''Spitak earthquake''' ({{lang-hy|??????? ?????????}} ''Spitaki yerkra?ar?'') occurred in the northern region of Armenia (then part of the Soviet Union) on Wednesday, December 7, 1988 at 11:41 local time (07:41 Coordinated Universal Time|UTC). The earthquake measured 6.8 on the surface wave magnitude scale and had a maximum perceived intensity of X (''Devastating'') on the Medvedev–Sponheuer–Karnik scale. The region that the earthquake occurred is vulnerable to occasional large and destructive earthquakes and is part of a larger active seismic belt that stretches from the Alps to the Himalayas. Activity in the area is associated with Plate tectonics|tectonic plate boundary interaction and the source of the event was a slip of a thrust fault just to the north of Spitak.
+
+Seismologists thoroughly studied the effects of the Spitak event, including the mainshock and aftershock fault rupture mechanisms and were on site setting up temporary seismometers before the end of 1988. Earthquake engineering experts scrutinized  building construction styles and found fault in the poorly constructed apartments and other buildings that were built during the Era of Stagnation under the rule of Leonid Brezhnev. The cities of Spitak, Leninakan (Gyumri), and Kirovakan (Vanadzor) were greatly affected with large losses of life and devastating effects to buildings and other structures. A number of the smaller outlying villages away from the larger population centers were also severely affected.
+
+Despite the tensions of the Cold War, Soviet leader Mikhail Gorbachev formally asked the United States for humanitarian help within a few days of the earthquake, the first such request since World War II. One hundred and thirteen countries sent substantial amounts of humanitarian aid to the Soviet Union in the form of rescue equipment, search teams and medical supplies, but private donations and assistance from non-governmental organizations also had a large part of the international effort. While transporting some of these supplies to the region, a Soviet aircraft carrying 78 relief workers from Azerbaijan and a transport plane from Yugoslavia were both destroyed in separate incidents. In support of the relief effort, recording artists united to produce several music-related contributions for the victims of the quake. A song was produced by a duo of French composers (including Charles Aznavour) and a studio album that featured songs donated by mainstream rock bands was released from the Rock Aid Armenia effort by the British music industry.
+
+==Preface==
+{{see also|History of Armenia||Karabakh movement|Nagorno-Karabakh War}}
+
+Beginning with late 1987 the Caucasus region was experiencing a surge in political turmoil with large and near constant demonstrations being held in the capital of Yerevan beginning in February 1988. For the fifteen months prior to the earthquake and at times up to hundreds of thousands of protesters, represented by the Karabakh Committee, were demanding both democracy and the unification of Nagorno-Karabakh (a disputed autonomous territory with an 80% Armenian majority, but administered by Soviet Azerbaijan) in the mountains of the Karabakh region. The unrest and the opposition movement began in September 1988 with negotiations between the Karabakh Committee and Gorbachev taking place throughout most of 1989. The relationship between the communist authorities and the Armenian society took a turn for the worse in March and the developments climaxed in November when a state of emergency was declared, along with a nighttime curfew, and a mass movement of up to 50,000 Armenians fleeing ethnic violence arrived from Azerbaijan.
+
+==Earthquake==
+File:1988 Spitak earthquake.jpg|thumb|United States Geological Survey|USGS shakemap showing the December 7 mainshock intensity
+
+The source of the event was a Fault (geology)|fault rupture {{convert|40|km|sp=us}} south of the Caucasus Mountains, a mountain range that has been produced by the Convergent boundary|convergence of the Arabian Plate|Arabian and the Eurasian Plate|Eurasian tectonic plates. The range is situated along an active seismic belt that stretches from the Alps in southern Europe to the Himalayas in Asia. The seismicity along this belt is marked by frequent major earthquakes from the Aegean Sea, through Turkey and Iran, and into Afghanistan. Though the recurrence of seismic events in Armenia does not reach the high frequency that is seen in other segments of this zone, rapid Crust (geology)|crustal deformation there is associated with active thrust faulting and Volcano|volcanic activity. Mount Ararat, a {{convert|5137|m|abbr=on}} dormant volcano, lies {{convert|100|km|sp=us}} to the south of the quake's epicenter in Turkey.
+
+The earthquake occurred along a known {{convert|60|km|abbr=on}} thrust fault  Strike and dip|striking parallel to the Caucasus range and dipping to the north-northeast. Bruce Bolt, a seismologist and a professor of earth and planetary science at the University of California, Berkeley, walked the length of the fault scarp in 1992 and found that the vertical displacement measured {{convert|1|m|abbr=on}} along most of the length with the southwest end reaching {{convert|1.6|m|abbr=on}}. During the earthquake, the northeast-facing side of the Spitak section rode up and over the southwest-facing side.
+
+Waveform modeling established that the faulting originated at a depth of {{convert|5|km|sp=us}} with the epicenter on the Alavar thrust fault on the slopes of the Lesser Caucasus mountains north of Mount Aragats. The mainshock produced surface rupture and propagated to the west with a separate Strike-slip tectonics|strike-slip sub-event occurring two seconds later that propagated to the southeast. Going westward the fault split into two branches, a north-dipping reverse fault (north branch) and a right slip fault (south branch), but neither produced surface rupture. A total of five sub-events occurred in the first eleven seconds and an aftershock measuring 5.8 (Richter magnitude scale|local magnitude) occurred four minutes and twenty seconds later.
+
+===Damage===
+{{see also|Earthquake resistant structures}}
+
+File:1988 Spitak earthquake - Collapse of Floors, Leninakan, Armenia.tif|thumb|left|Building damage in Leninakan
+Some of the strongest shaking occurred in industrial areas with chemical and food processing plants, electrical substations, and power plants. The Metsamor Nuclear Power Plant, around {{convert|75|km|sp=us}} from the epicenter, experienced only minor shaking and no damage occurred there, but was eventually closed for a period of six years due to vulnerability concerns. At that time the International Atomic Energy Agency's assistant director general Morris Rosen said of the situation  "...&nbsp;you would never build a plant in that area, that's for sure, with what's known now."
+
+Many buildings did not hold up to the shaking of the earthquake and those that did collapse often lacked any survival space, but lack of effective medical care and poor planning also contributed to the substantial scope of the disaster. Buildings that didn't collapse featured well-maintained masonry and Steel frame|skeletal components that were joined together adequately in a way that allowed for the building to resist seismic waves. Most bridges and tunnels and other public infrastructure withstood the earthquake but hospitals did not fare well. Most collapsed, killing two-thirds of the doctors, destroying equipment and medicine, and reducing the capacity to handle the critical medical needs in the region.
+
+The Soviet news media and government officials soon began to discuss the apparent substandard construction styles that had caused so many of Armenia's buildings to collapse. Gorbachev, in a TV interview several weeks after his expedited return from New York City, said that the concrete blocks had been built with more than enough sand but too little concrete, and suggested that the concrete had been stolen. :ru:Бибин, Леонид Алексеевич|Leonid Bibin, deputy chairman of the state building committee, stated that many newer homes collapsed as well and that he was beginning an investigation into the matter and that criminal charges would be brought. The official communist party newspaper ''Pravda'' said that poor construction, like other issues of neglect in the Soviet system, could be blamed on the Era of Stagnation from the era of Leonid Brezhnev.
+
+A team of earthquake and engineering experts from the United States spent a period of time in Armenia in December 1988 and January 1989. The group, including a structural engineer who specialized in seismic-resistant designs, agreed that building inadequacies were the primary reason why the strong (but not huge) earthquake was so damaging, although the freezing temperatures also played a role in the unusually high death toll. The engineers who scrutinized the damaged buildings and the rescue workers who had dismantled the buildings while extricating survivors ascribe both design shortcomings and improper construction methods for the failure of the buildings. The Soviets had modified their construction style to accommodate the known seismic risk in the area, but they acknowledged to the team that many of the buildings were not built to withstand an earthquake of that magnitude. An engineer with the team stated that the regulations for the area mandated that buildings be required to stand up against events measuring seven or eight on the twelve degree Medvedev–Sponheuer–Karnik scale. The earthquake's effects were assessed at ten on that seismic scale.
+
+File:1988 Spitak earthquake - Partial Collapse of Masonry Building, Spitak, Armenia.tif|thumb|right|Severely damaged masonry buildings in Spitak
+
+The three cities closest to the fault rupture experienced different levels of damage. Both Leninakan and Kirovakan were roughly equidistant from the shock, yet Leninakan had greater damage. This may be explained by a {{convert|300|-|400|m|abbr=on}} Sediment|sedimentary layer that is present beneath the city. The Earthquake Engineering Research Institute's team compared building damage in each city and observed similar results when comparing stone buildings four stories or less in height, but for taller frame-stone buildings, 62% were destroyed at Leninakan while only 23% collapsed at Kirovakan. While on site during aftershock monitoring, the US research team verified the presence of soil amplification effects when pronounced difference in readings were observed when compared with nearby rock sites. Uneven distribution of the Seismic wave|seismic energy may have also contributed to the fluctuation in damage.
+
+In late December the last of the survivors that were able to be extricated were pulled from the fallen buildings, rescue operations ceased, and the cleanup began, beginning with the destruction of buildings that were too heavily damaged to be repaired. Six friends were in the basement of a nine-story building relocating barrels when it came down around them on December 7. Their injuries were minor, but one person did suffer a broken arm. They sustained themselves on the food supplies — fruit salad, pickles, and smoked ham — that were available in the basement for 35 days before their rescue in January.
+
+===Aftershocks===
+{{see also|Seismic source}}
+
+The area where Armenia lies is of interest to seismologists and geologists because of the relatively early stage of continental collision occurring there and because the earthquake's strong aftershock sequence and significant surface faulting presented scientists with an environment to study reverse faulting. Twelve days after the mainshock a French-Soviet team installed a temporary seismic network in the epicentral area to record aftershock activity (a separate expedition from the United States also visited the site). The initial portion of work included nearly a full week setting up the seismometers and optimizing their operation and, with that complete, two full weeks of continuous operation was then completed with twenty six seismometers covering an area over 1500 square kilometers. The final stage concluded with seven weeks (through the end of February 1989) of continued monitoring with a reduced capacity of twenty units.
+
+The instrumentation included ten smoked paper analog seismometers that were configured to allow for 48 hours of continuous single-component data recording. Six digital recorders built by the Institut de Physique du Globe de Strasbourg were also used to record signals from three-component seismometers. Eight of the selected sites were equipped with a vertical component velocity transducer along with an Frequency modulation|FM telemetry link to transfer data back to a central station where a three-component unit was stationed. There the seismic signals were digitized, along with an internal time signal and an external DCF77 time signal, and stored on magnetic tape. The tapes were then played back and the P-wave and S-wave arrival times were used to automatically determine aftershock locations. Approximately two hundred aftershocks were recorded each day for the first several days of the expedition and at the end of the recording period in February the equipment was still picking up around 100 shocks per day. The team then set out to determine an accurate velocity model using data from the more accurate telemetry network. The soviet Geophysics|geophysicists detonated 100 kilograms of Trinitrotoluene|TNT in a hole drilled near the mainshock epicenter and the resulting shock waves were detected and used to help pinpoint a more accurate Crust (geology)|crustal velocity value of 5.3 to 5.4&nbsp;km/s.
+
+The epicenters of the recorded aftershocks formed a relatively narrow {{convert|50|km|abbr=on}} band. On the east end the events were shallow while the western side, where the majority of the larger aftershocks were concentrated, the hypocenters were up to {{convert|14|km|sp=us}} deep. The shocks at the southeastern segment indicated right-lateral Strike-slip tectonics|strike-slip movement along a nearly vertical fault, and may have been related to the Alavar fault. Moving westward closer to the central segments though, a transition of the fault type was becoming apparent, where an almost equal distribution of reverse fault mechanisms were observed as the strike-slip type. The east-central segment coincided with the surface breaks between Spitak and Gekhasar, while the west-central portion's break was concealed under an anticline and was not visible at the surface. Along the western segments the fault split into two branches with one to the southwest and the other to the northwest.
+
+===Liquefaction===
+{{see also|Soil mechanics|Slope stability}}
+
+Buildings and other structures were extensively damaged during the earthquake, but roadways and railways also experienced disturbances. Many case histories pertaining to liquefaction in sandy soil exist, but few exist with respect to gravel and gravelly sands. In certain situations gravelly sands may liquefy in similar fashion as saturated sands. The first well-documented case of liquefaction in gravelly sands was in regard to the 1983 Borah Peak earthquake in the United States. Several investigations of that event took place in the 1980s and early 1990s and the primary conclusions were that a critical condition for liquefaction to occur in that type of soil was the presence of a low permeable crust that did not allow pore water pressures to subside and that the assessment method and associated standard penetration test values used with sandy soils also applied to gravelly soils.
+
+Three locations between Spitak and Nalband, Armenia|Nalband (to the west) that were within several kilometers of the fault were examined for ground disturbances and each site was scrutinized for the effects of liquefaction. The first site was on the highway that linked the three most damaged cities and was adjacent to a tributary of the Pambak river where the water table was close to the surface. The highway's Embankment (transportation)|embankment failed, and though the site was repaired immediately, the resulting damage to the highway caused considerable delay in getting people and supplies into and out of the area following the disaster. Numerous sand boils were seen in the region northwest of Spitak including within {{convert|15|m|sp=us}} of the failed embankment. A second site that was close to the fault, also near the Pambak river and with similar soil deposits, did not experience liquefaction, though it would have experienced the same high peak ground accelerations as the failed highway embankment.
+
+===Nuclear blast===
+During the time of the earthquake, others believed that the destruction was a result of an underground nuclear explosion.
+
+==Response==
+File:RIAN archive 8968 Rescue squad.jpg|thumb|A French search and rescue worker searches for buried people with the aid of a detection dog
+{{see also|Fund for Armenian Relief}}
+
+Gorbachev set aside 5 billion rubles (about $8 billion U.S. dollars) in funds for a start on what would likely be a recovery cost that would exceed the cleanup bill for the 1986 Chernobyl disaster|nuclear and radiation accident in Ukraine. While foreign doctors did assist with the Chernobyl incident, the Soviet relief effort after the earthquake was augmented by the largest foreign cooperation since World War II. That deluge of western aid was a byproduct of the disaster that may have had a positive effect on Soviet Union–United States relations. The cost of rebuilding would be a severe obstacle for Perestroika, Gorbachev's plan for economic restructuring. Another adverse affect of the disaster was that the Armenians were already distrustful of Gorbachev's dismissal of their claims to the disputed territory of Nagorno-Karabakh, which the Armenians had been contesting with neighboring Azerbaijan.
+
+The world responded rapidly to the disaster in Leninakan and Spitak, with much of Europe sending cargo aircraft loaded with medical supplies, rescue equipment, and trained personnel to assist in the recovery, and even more reinforcement came in from Latin America and the Far East. Mikhail Gorbachev was in New York on his first day of visits with Ronald Reagan and George H. W. Bush at the time of the earthquake, and once the scale of the disaster was realized, a quick departure was made back to Armenia, with the Moscow Kremlin|Kremlin formally asking for American help. Washington, D.C.|Washington immediately responded with offers of doctors, medical equipment, and rescue teams, and by the first weekend the first US plane arrived in Yerevan with search and rescue teams and detection dogs.
+
+The French arrived in Armenia in the late evening on Friday, December 9 and relieved the exhausted Armenian workers who then returned to Yerevan.
+
+File:Gorbachev and Reagan 1988-11.jpg|thumb|left|Mikhail Gorbachev with Ronald Reagan and George H.W. Bush in New York on the day of the earthquake
+
+American businessman and philanthropist Armand Hammer, well known to the Soviet Union for his financial pursuits and humanitarian ties, left Los Angeles for Armenia on board a Boeing 727 loaded with 2,300 pounds of medical supplies that were provided by the American Red Cross. Hammer, known for his decades of work with the Occidental Petroleum|Occidental Petroleum Corporation, had spoken with Gorbachev prior to leaving and was carrying with him $1 million in relief funds. Half of those funds were from World Vision International, a California-based relief and development umbrella organization, and the other half were his own personal donation. The flight also carried Robert Seiple (president of World Vision) and a University of California, Los Angeles|UCLA doctor who had worked in the aftermath of the 1985 Mexico City earthquake.
+
+Red tape inevitably held up some of the rescue efforts and criticism of the perceived flawed processes soon followed. The newspaper ''Pravda'' complained that the lack of Crane (machine)|cranes meant that "seconds and hours are being lost -- that means lives." The paper also stated that too many Soviet personnel were giving advice and not enough people were actually searching. The daily newspaper ''Sotsialisticheskaya Industriya'' noted that there were families living out in the open even while there were an abundance of tents available. Health minister Yevgeniy Chazov urged the creation of a governmental body to assist with disaster management. Baxter International, an American health care company with headquarters in Deerfield, Illinois, designed and built a flying medical lab set up with 20 dialysis machines to be used with victims suffering from crush syndrome, but were unable to get started for four days until the Visa (document)|visas were available.
+
+==Aftermath==
+File:Surb Amenaprkitch.jpeg|thumb|240px|The Holy Saviour Church in Gyumri after the earthquake
+
+Avant-garde musician Pierre Schaeffer led a 498-member French rescue team to look for survivors in Leninakan, and worked there until all foreign personnel were asked to leave after the plan to bulldoze what was left of the ruins was formulated. The total number of volunteer rescue personnel in Leninakan totalled 2,000, with teams from Austria, Switzerland, the United States and Yugoslavia. Nikolai Ryzhkov, the then Premier of the Soviet Union|Chairman of the Council of Ministers (Soviet Union)|Council of Ministers, was awarded the National Hero of Armenia for his work in rebuilding the city following the earthquake.
+
+Seventy-eight people were killed while on a relief mission to Leninakan when a Soviet Ilyushin Il-76 crashed on approach to the airport there. Nine crew and 69 military personnel were on board the plane that struck a helicopter in foggy conditions at the small airport that was overrun with rescue flights. In the days following the earthquake, the normally quiet airstrip was receiving up to 180 flights per day carrying food, medical supplies, and disaster management experts. Those who were killed on the plane were planning to join an estimated 20,000 soldiers and 85,000 civil defence workers in rescue efforts by searching for survivors, supplying food and water, and setting up sanitation facilities in the region. At the Yerevan airport, western pilots reported a breakdown in air traffic control communications, with flight controllers not delivering the necessary flight navigation instructions, allowing for a critical lack of Separation (air traffic control)|separation as foreign planes made their way into the area.
+
+A second air transport incident occurred the following day at Yerevan (capital of the Armenian Soviet Socialist Republic) when an Antonov An-12 from Yugoslavia crashed killing all seven crew on board. The crash was blamed on the pilots' failure to properly adjust the altimeter following a miscommunication with the air traffic controllers.
+
+A group of French recording artists and actors came together with the French writer and composer Charles Aznavour to record the 1989 song "Pour toi Arménie" (For you Armenia). Aznavour, together with Armenian-French composer Georges Garvarentz, formed a foundation called "Aznavour for Armenia" and composed the song as a call for help for the Armenians. It took six weeks from the creation of the song to completion of the Compact Disc|disc and with almost two million copies sold, the foundation was able to build 47 schools and three orphanages for the victims of the disaster. Rock Aid Armenia, also known in earlier stages as Live Aid Armenia, was a humanitarian effort by the British music industry to raise money to help those affected by the earthquake.  A monument, ''Armenian Earthquake (Sogoyan)|Armenian Earthquake'', expressing the appreciation of the Armenian people for assistance from the U.S. was erected in Washington D.C. in 1990.
+
+===Rebuilding===
+{{see also|Urban planning in communist countries}}
+In February 1989 one hundred construction workers were assembling temporary housing for themselves in Leninakan with a plan to start on the local population's housing by the end of the month, though schools and factories were also on the list of facilities to be rebuilt. Deputy chairman of a city building and architecture council said that updated building codes like those in the United States were being drafted (along with a strict requirement that the new protocols be respected) and that the new buildings would be no taller than four stories and would be located away from areas with the highest seismic risk. Other officials decided that the town would be relocated several miles to the southwest.
+
+As of July 1989 about $500 million in donations had been delivered to the Armenians from 113 countries. Most of those funds went into the initial relief work and medical care plus the beginning portion of the rebuilding phase. Yuri S. Mkhitarian, an Armenian State Building Committee official, gave an updated damage report that included some of the outlying communities away from the population centers stating that 342 villages were damaged and another 58 were destroyed. The negative effect the earthquake had on the economy of Armenia was apparent. Mkhitarian said that 130 factories were destroyed and 170,000 people were out of work. Officials acknowledged that the work to complete the rebuilding may take up to five years or longer, a supposition that more than doubled Gorbachev's estimate of two years. At that time 20 projects had completed the planning process and some had been approved and construction started. In Leninakan there was a need for 18 new hospitals, 12 of which could be funded with the assistance of the republics of the Soviet Union, but foreign help would be required to build six additional facilities. Boris Karapetyan, director of earthquake studies at the Yerevan Polytechnical Institute, said of the difficult rebuilding process "Coordination is a major, major problem. This is a massive undertaking, and foreign involvement is both a necessary and a complicating factor. We need foreign assistance--and there is no doubt about that--but our friends do not know the local conditions and propose things that cannot or should not be built in an earthquake-prone region."
+
+The Soviets and an American group of architects each devised separate outlines for rebuilding the town of Spitak. Following an invitation by the Soviets for a critique of their plan, the American's proposal was ultimately accepted as the way forward. The new plan would deviate from Soviet styles that were found to be rigid and outdated, and would mirror characteristics of the local culture. For many years following World War II the Soviets practiced a methodical top-down approach to urban planning and building, constructing a large number of uniformly built row style apartment units, and the Soviets plan for rebuilding Spitak did not diverge from that approach. The Soviet's grid plan road scheme was found to not take into account the hillside at the new city's location, and the American's plan included finer details of how commercial centers and government facilities were grouped together in an open and communal style.
+
+==Other events==
+{{see also|1991 Racha earthquake}}
+
+The Tsakheadzhor earthquake on October 20, 1827 was centered about {{convert|50|km|sp=us}} southeast of Spitak and had a maximum intensity of VIII on the Medvedev–Sponheuer–Karnik scale. While that shock may have been related to the Pambak-Sevan fault, the October 22, 1926 Leninakan earthquake to the west of the 1988 event also had a maximum intensity of MSK VIII.
+
+==See also==
+* FEMA Urban Search and Rescue Task Force
+* Geography of Armenia
+* List of earthquakes in Armenia
+* Lord Byron School (Gyumri)
+* ''Out of the Ruins''
+* Urban Search and Rescue Virginia Task Force 1
+
+==References==
+{{Reflist|30em|refs=
+
+
+
+
+
+
+}}
+
+;Sources
+{{refbegin}}
+* {{citation|title=The Spitak (Armenia) earthquake of 7 December 1988: field observations, seismology and tectonics|url=http://horizon.documentation.ird.fr/exl-doc/pleins_textes/pleins_textes_5/b_fdi_20-21/27185.pdf|first=A.|last=Cisternas|first2=H.|last2=Philip|first3=J. C.|last3=Bousquet|first4=M.|last4=Cara|first5=A.|last5=Deschamps|first6=L.|last6=Dorbath|first7=C.|last7=Dorbath|first8=H.|last8=Haessler|first9=E.|last9=Jimenez|first10=A.|last10=Nercessian|first11=L.|last11=Rivera|first12=B.|last12=Romanowicz|first13=A.|last13=Gvishiani|first14=N. V.|last14=Shebalin|first15=I.|last15=Aptekman|first16=S.|last16=Arefiev|first17=B. A.|last17=Borisov|first18=A.|last18=Gorshkov|first19=V.|last19=Graizer|first20=A.|last20=Lander|first21=K.|last21=Pletnev|first22=A. I.|last22=Rogozhin|first23=R.|last23=Tatevossian|year=1989|journal=Nature (journal)|Nature|publisher=Nature Publishing Group|volume=339|pages=675–679|doi=10.1038/339675a0}}
+* {{citation|title=Geometry, segmentation and stress regime of the Spitak (Armenia) earthquake from the analysis of the aftershock sequence|url=http://www.gripweb.org/gripweb/sites/default/files/Geometry,%20segmentation%20and%20stress%20regime%20of%20the%20Spitak%20%28Armenia%29%20earthquake.pdf|date=January 1992|first=L.|last=Dorbath|first2=C.|last2=Dorbath|first3=L.|last3=Rivera|first4=A.|last4=Fuenzalida|first5=A.|last5=Cisternas|first6=R.|last6=Tatevossian|first7=J.|last7=Aptekman|first8=S.|last8=Arefiev|journal=Geophysical Journal International|publisher=John Wiley & Sons|volume=108|issue=1|pages=309–328|doi=10.1111/j.1365-246x.1992.tb00860.x}}
+* {{citation|title=Armenia in Crisis: The 1988 Earthquake|url=http://books.google.com/books?id=Y4kQUU_bpOsC&printsec=frontcover&source=gbs_atb#v=onepage&q&f=false|last=Verluise|first=Pierre|date=April 1995|publisher=Wayne State University Press|isbn=0-8143-2527-0}}
+* {{citation|title=Earthquake of 7 December 1988, Spitak, Armenia report of the NZNSEE team visit of 1989|url=http://www.nzsee.org.nz/db/Bulletin/Archive/26%283%290253.pdf|first=P.R.|last=Wood|first2=J.B.|last2=Berrill|first3=N.R.|last3=Gillon|first4=P.J.|last4=North|date=September 1993|journal=Bulletin of the New Zealand National Society for Earthquake Engineering|publisher=New Zealand Society for Earthquake Engineering|volume=26|number=3|pages=253–283}}
+* {{citation|title=Liquefaction and Embankment Failure Case Histories, 1988 Armenia Earthquake|url=http://ascelibrary.org/doi/abs/10.1061/%28ASCE%290733-9410%281994%29120%3A3%28581%29|last=Yegian|first=M.|last2=Ghahraman|first2=V.|last3=Harutiunyan|first3=R|date= March 1994|journal=Journal of Geotechnical Engineering|publisher=American Society of Civil Engineers|volume=120|number=3|pages=581–596|doi=10.1061/(ASCE)0733-9410(1994)120:3(581)}}
+{{refend}}
+
+==Further reading==
+* {{Citation |last=Najarian |first=L. M. |last2=Goenjian |first2=A. K. |last3=Pelcovitz |first3=D. |last4=''et al.'' |year=1996 |title=Relocation after a disaster: Posttraumatic stress disorder in Armenia after the earthquake |journal=Journal of the American Academy of Child and Adolescent Psychiatry |volume=35 |issue=3 |pages=374–383 |doi=10.1097/00004583-199603000-00020 }}
+* {{Citation |last=Pesola |first=G. |last2=Bayshtok |first2=V. |lastauthoramp=yes |last3=Kvetan |first3=V. |year=1989 |title=American critical care team at foreign disaster: The Armenian experience |journal=Critical Care Medicine |volume=17 |issue=6 |pages=582–585 |url=http://journals.lww.com/ccmjournal/Abstract/1989/06000/American_critical_care_team_at_a_foreign_disaster.21.aspx |doi=10.1097/00003246-198906000-00021}}
+* {{Citation |last=Grigorova |first=L. F. |last2=Gasparian |first2=A. A. |lastauthoramp=yes |last3=Manukian |first3=L. H. |year=1990 |title=Armenia, December, 88, Yerevan |location=Armenia |publisher=Hayastan }} {{ru icon}}
+*{{Citation |last=Goenjian |first=A. |year=1993 |title=A mental health relief programme in Armenia after the 1988 earthquake. Implementation and clinical observations |journal=British Journal of Psychiatry |volume=163 |issue=2 |pages=230–239 |doi=10.1192/bjp.163.2.230 }}
+* {{Citation |last=Giel |first=R. |year=1991 |title=The psychosocial aftermath of two major disasters in the Soviet Union |journal=Journal of Traumatic Stress |volume=4 |issue=3 |pages=381–392 |doi=10.1002/jts.2490040306 }}
+*{{Citation |last=Azarian |first=A. G. |last2=Skriptchenko-Gregorian |first2=V. G. |last3=Miller |first3=T. W. |lastauthoramp=yes |last4=Kraus |first4=R. F. |year=1994 |title=Childhood trauma in victims of the Armenian earthquake |journal=Journal of Contemporary Psychotherapy |volume=24 |issue=2 |pages=77–85 |doi=10.1007/BF02310246 }}
+* {{Citation |last=Allan |first=R. |year=1989 |title=The Armenian earthquake – The UK response |journal=Disaster Management |volume=1 |issue=4 |pages=10–17 |doi= }}
+* {{Citation |last=Abrams |first=J. I. |year=1989 |title=Detection and extrication in the Armenian earthquake |work=International workshop on earthquake injury epidemiology for mitigation and response |pages=435–449 |location=Baltimore, MD |publisher= |isbn= }}
+* {{Citation |last=Pynoos |first=R. S. |last2=Goenjian |first2=A. |last3=Tashjian |first3=M. |last4=''et al.'' |year=1993 |title=Post-traumatic stress reactions in children after the 1988 Armenian earthquake |journal=British Journal of Psychiatry |volume=163 |issue=2 |pages=239–247 |doi=10.1192/bjp.163.2.239 }}
+
+==External links==
+* http://earthquake.usgs.gov/regional/world/events/1988_12_07.php Historic Earthquakes – Spitak, Armenia from the United States Geological Survey
+* http://www.ngdc.noaa.gov/nndc/struts/results?eq_1=11&t=101634&s=0&d=4&d=44 Earthquake Damage, the Armenian SSR, December 7, 1988 – National Geophysical Data Center
+* http://news.bbc.co.uk/onthisday/hi/dates/stories/december/10/newsid_2544000/2544077.stm On this day – 1988: Death toll rises in Armenian earthquake – BBC
+* http://abcnews.go.com/Archives/video/dec-1988-earthquake-armenia-12325660 Rescue efforts underway after earthquake strikes the Soviet republic of Armenia – ABC News
+* http://www.dcmemorials.com/index_indiv0000880.htm Armenian Earthquake Memorial at the Red Cross Bldg in Washington, D.C. – dcmemorials.com
+* http://www.nssp-gov.am/spitak_eng.htm Spitak 1988 Earthquake – Armenian National Survey for Seismic Protection
+* http://www.bbc.co.uk/news/in-pictures-25262363 In pictures: 25th anniversary of Armenian earthquake – BBC
+
+{{Earthquakes in 1988}}
+
+Category:1988 earthquakes|Armenian Earthquake, 1988
+Category:1988 in Armenia|Earthquake, 1988
+Category:1988 in the Soviet Union|Armenian earthquake
+Category:Earthquakes in Armenia
+Category:Earthquakes in the Soviet Union
+Category:History of Soviet Armenia
+Category:Pierre Schaeffer

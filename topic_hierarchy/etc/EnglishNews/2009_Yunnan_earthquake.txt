@@ -1,0 +1,37 @@
+{{Earthquake
+|title=2009 Yunnan earthquake
+|image=
+|date= {{Start-date|9 July 2009}}
+|map = 2009 Yunnan earthquake location.gif
+|magnitude = 5.7 Moment magnitude scale|M<sub>w</sub>
+|depth={{convert|10|km|mi}}
+|location={{coord|25.619|N| 101.086|E|format=dms}}
+|countries affected = {{flag|China}}
+|casualties = 1 killed,
+}}
+
+The '''2009 Yunnan earthquake''' occurred with a Moment magnitude scale|moment magnitude of 5.7 in Yunnan province, People's Republic of China on 9 July.
+
+== Background and tectonics ==
+
+At 11:19:27 Coordinated Universal Time|UTC (19:19:27 China standard time|local time), a Moment magnitude scale|magnitude 5.7 earthquake with an epicentre at {{coord|25.619|N| 101.086|E|format=dms}} occurred. Eight aftershocks were recorded.
+
+== Damage and casualties ==
+The earthquake destroyed 10,000 houses and damaged a further 30,000. One person died
+
+==See also==
+* 1996 Lijiang earthquake
+* 2008 Yingjiang earthquakes
+* 2011 Yunnan earthquake
+
+==References==
+{{reflist}}
+
+{{Earthquakes in 2009}}
+{{Earthquakes in China}}
+
+{{DEFAULTSORT:Yunnan earthquake, 2009}}
+Category:Earthquakes in China|2009 Yunnan
+Category:History of Yunnan|2009
+Category:2009 earthquakes
+Category:2009 disasters in China

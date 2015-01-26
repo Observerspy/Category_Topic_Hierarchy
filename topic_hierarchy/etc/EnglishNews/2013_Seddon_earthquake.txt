@@ -1,0 +1,69 @@
+{{For|the earthquake of 16 August 2013|2013 Lake Grassmere earthquake}}
+{{use dmy dates|date=July 2013}}
+{{Earthquake
+|title = 2013 Cook Strait earthquakes
+|date = {{Start date|2013|07|21|df=yes}}
+|origintime = 5:09:30 pm Time in New Zealand|NZST
+|image =
+|map2 = {{Location map | New Zealand
+| label=
+| lat = -41.61
+| long  = 174.33
+| mark = Bullseye1.png
+| marksize = 40
+| position = top
+| width =
+| float = right
+| caption =
+| relief = yes}}
+|magnitude = 6.5 Moment magnitude scale|M<sub>w</sub>
+|depth = {{convert|17|km|mi|0}}
+|location = {{coord|41.61|S|174.33|E|display=inline,title}}
+|countries affected = {{NZL}}
+|tsunami = None
+|casualties = 4 people injured
+}}
+
+The '''2013 Seddon earthquake''' measured 6.5 on the moment magnitude scale and was centred in New Zealand's Cook Strait, around {{convert|20|km}} east of the town of Seddon, New Zealand|Seddon in Marlborough region|Marlborough. The earthquake struck at 5:09:30&nbsp;pm on 21 July 2013 (05:09 UTC) at a depth of {{convert|17|km}}, according to GNS Science|Geonet. The United States Geological Survey also measured the quake at 6.5, at an even shallower depth of {{convert|14|km}}. The quake caused moderate damage in the wider Marlborough area and Wellington, the nation's capital city {{convert|55|km}} north of the epicentre. Only minor injuries were reported. Several aftershocks occurred during 21–29 July.
+
+The Seddon earthquake is considered the first of an earthquake doublet, with a 2013 Lake Grassmere earthquake|second earthquake of similar magnitude occurred on 16 August 2013.
+
+==Quake==
+File:ShakemapEvent2013p543824.jpg|thumb|left|200px|alt=A ShakeMap is a representation of ground shaking produced by an earthquake. The information it presents is different from the earthquake magnitude and epicentre that are released after an earthquake because ShakeMap focuses on the ground shaking produced by the earthquake, rather than the parameters describing the earthquake source. So, while an earthquake has one magnitude and one epicentre, it produces a range of ground shaking levels at sites throughout the region depending on distance from the earthquake, the rock and soil conditions at sites, and variations in the propagation of seismic waves from the earthquake due to complexities in the structure of the Earth's crust|A "ShakeMap" showing the shaking intensity as determined by GeoNet instruments and modelled against ground conditions
+The mainshock followed a series of gradually increasing magnitude earthquakes from a sequence which began two days earlier:
+
+<ol type="I" style="margin-left: 20.2em;">
+    <li>Magnitude 5.7, 16&nbsp;km depth, 19/07/2013 </li>
+    <li> ''' Magnitude, 6.5 17&nbsp;km depth, 21/07/2013 ''' </li>
+    <li>Magnitude 5.8, 19&nbsp;km depth, 21/07/2013 </li>
+    <li>Magnitude 5.3, 16&nbsp;km depth, 21/07/2013</li>
+    <li>Magnitude 5.0, 16&nbsp;km depth, 21/07/2013</li>
+    <li>Magnitude 4.9, 16&nbsp;km depth, 21/07/2013</li>
+    <li>Magnitude 4.9, 18&nbsp;km depth, 21/07/2013</li>
+    <li>Magnitude 4.8, 10&nbsp;km depth, 22/07/2013</li>
+    <li>Magnitude 4.8, 17m depth, 21/07/2013</li>
+    <li>Magnitude 4.9, 10&nbsp;km depth, 22/07/2013</li> 
+</ol>
+
+The earthquake swarm may have occurred on an unmapped fault line. The source fault of the quake is under investigation but potential candidates are the Needles fault,  London Hill fault, and/or extensions of the larger faults in the Marlborough Fault System, the Awatere Fault|Awatere, Clarence Fault|Clarence, Hope Fault|Hope, and Wairau Faults. The geologic (and tectonic) complexity increases as the system moves off the South Island and into Cook Strait. The locations/interactions of the individual faults are not fully understood. There were about 24 known active faults in the Cook Strait and five in the area where the earthquakes occurred. However, the weekend's quakes could have occurred on a new fault yet to be mapped. The faults in Cook Strait are not large enough to generate magnitude-8 earthquakes, but are capable of magnitude 7-7.5 size earthquakes. The weekend's Cook Strait earthquakes would have needed to be at least a magnitude 7.5 to generate a tsunami. However, some coastline around Cook Strait had areas identified as potential landslide risk, and a smaller earthquake could cause a landslide which could then generate a tsunami. This type of tsunami could be quite devastating to the south coast of the North Island and north coast of the South Island.
+
+==Damage==
+The quake resulted in varying degrees of damage to thirty-five buildings within the Wellington CBD with glass from broken windows falling onto the main thoroughfare of Lambton Quay. Damage was also caused in Paraparaumu, Wainuiomata, Porirua and the Hutt Valley in the North Island.
+
+The Wellington Region emergency management office was activated on the evening of 21 July, as were those in the lower part of the North Island.
+
+Four people were injured in the quake, which lasted for 20 seconds, blowing out windows, cracking concrete and swaying buildings.
+
+==See also==
+*List of earthquakes in New Zealand
+
+==References==
+{{reflist|33em}}
+
+{{Earthquakes in 2013}}
+{{Earthquakes in New Zealand}}
+{{Seismic faults of New Zealand}}
+
+Category:2013 earthquakes
+Category:Earthquakes in New Zealand|2013 Seddon
+Category:2013 in New Zealand

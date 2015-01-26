@@ -1,0 +1,140 @@
+{{earthquake
+|title= Northridge earthquake of 1994
+|image=FEMA - 1681 - Photograph by FEMA News Photo taken on 01-17-1994 in California.jpg
+|imagecaption=Building collapsed as a result of the earthquake
+|map=
+|map2 ={{Location map | California
+| label=
+| lat=34.213
+| long=-118.537
+| mark=Bullseye1.png
+| marksize=50
+| position=top
+| width= 250
+| float=right
+| caption=
+| relief=yes}}
+|date={{Start-date|January 17, 1994}}
+|origintime= 04:31 Pacific Time Zone|PST (12:30 UTC)
+|magnitude= 6.7 Moment magnitude scale|M<sub>w</sub>
+|depth= {{convert|11.4|mi|abbr=on}}
+|location={{Coord|34.213|N|118.537|W|display=inline, title}}
+|countries affected=United States (Southern California)
+|intensity = Mercalli intensity scale|IX - Violent
+|PGA = 1.82g horizontal
+1.18g vertical
+|casualties=57 killed<br />more than 8,700 injured
+}}
+
+The '''Northridge earthquake''' occurred on January 17, 1994, at 04:31 a.m. Pacific Time Zone|Pacific Standard Time and was centered in Reseda, Los Angeles|Reseda, a neighborhood in the north-central San Fernando Valley region of Los Angeles, California. It had a duration of approximately 10–20 seconds.  The earthquake had a "strong" moment magnitude scale|moment magnitude (M<sub>w</sub>) of 6.7, but the Peak ground acceleration|ground acceleration was one of the highest ever instrumentally recorded in an urban area in North America, measuring 1.8''g'' (16.7&nbsp;m/s<sup>2</sup>) with strong ground motion felt as far away as Las Vegas Valley|Las Vegas, Nevada, about 220 miles (360&nbsp;km) from the epicenter. The peak ground velocity in this earthquake at the Rinaldi Receiving station was 183&nbsp;cm/s (4.09&nbsp;mph or 6.59&nbsp;km/h), the fastest peak ground velocity ever recorded.  In addition, two 6.0 M<sub>w</sub> aftershocks occurred, the first about one minute after the initial event and the second approximately 11 hours later, the strongest of several thousand aftershocks in all.  The death toll was 57, with more than 5,000 injured. In addition, earthquake-caused property damage was estimated to be more than $20 billion, making it one of the costliest natural disasters in U.S. history.
+
+==Epicenter==
+The earthquake struck in the San Fernando Valley about 20 miles (31&nbsp;km) northwest of downtown Los Angeles. Although given the name "Northridge", the epicenter was located in the community of Reseda; it took several days to pinpoint the epicenter in detail.
+
+The National Geophysical Data Center placed the hypocenter's geographical coordinates at {{Coord|34|12|47|N| 118|32|13|W|}} and at a depth of 11.4 miles (18.3&nbsp;km). This locates the epicenter between Arminta St. and Ingomar St. just west of Reseda Blvd. The earthquake occurred on a previously undiscovered fault, now named the  Northridge Thrust fault#Blind thrust faults|blind thrust fault (also known as the Pico thrust fault). Several other faults experienced minor rupture during the main shock and other ruptures occurred during large aftershocks, or triggered slip earthquakes.
+
+==Damage and fatalities==
+Image:FEMA - 13623 - Photograph by FEMA News Photo taken on 01-17-1994 in California.jpg|thumb|left|upright|A house damaged in Santa Monica.
+Image:Northridge earthquake 10 frwy.png|thumb|left|Interstate 10 in California|I-10 skyway after earthquake. Note that the collapsed section is near where the supporter beam is.
+Image:Northridge earthquake 10 frwy3.png|thumb|The freeway "bent" just before the collapsed section
+Image:Kaiser Permanente Building After Northridge Earthquake.jpg|thumb|Kaiser Permanente building
+Image:Collapsed Apartment After Northridge Earthquake.jpg|thumb|Collapsed apartment building
+Image:Street Damage After Northridge Earthquake.jpg|thumb|Street damage
+
+Damage occurred up to 85 miles (125&nbsp;km) away, with the most damage in the west San Fernando Valley, and the cities of Santa Monica, California|Santa Monica, Simi Valley, California|Simi Valley and Santa Clarita, California|Santa Clarita. The exact number of fatalities is unknown, with sources estimating it at 60 33 people died immediately or within a few days from injuries sustained in the earthquake,
+
+More than 8,700 were injured including 1,600 who required hospitalization. The Northridge Meadows apartment complex was one of the well-known affected areas in which sixteen people were killed as a result of the building's collapse. The Northridge Fashion Center and California State University, Northridge also sustained very heavy damage—most notably, the collapse of parking structures. The earthquake also gained worldwide attention because of damage to the vast freeway network, which serves millions of commuters every day. The most notable of this damage was to the Interstate 10 (California)|Santa Monica Freeway, Interstate 10, known as the busiest freeway in the United States, congesting nearby surface roads for three months while the freeway was repaired. Farther north, the Newhall Pass interchange of Interstate 5 (California)|Interstate 5 (the Golden State Freeway) and California State Route 14|State Route 14 (the Antelope Valley Freeway) collapsed as it had 23 years earlier in the 1971 Sylmar earthquake even though it had been rebuilt with improved structural components. One life was lost in the Newhall Pass interchange collapse: Los Angeles Police Department|LAPD motorcycle officer Clarence Wayne Dean fell 40 feet from the damaged connector from southbound 14 to southbound I-5 along with his motorcycle. Because of the early morning darkness, he did not realize that the elevated roadway below him had collapsed, and was unable to stop in time to miss the fall and died instantly. When the interchange was rebuilt again one year later, it was renamed the Clarence Wayne Dean Memorial Interchange in his honor.
+
+Additional damage occurred about 50 miles (80&nbsp;km) southeast in Anaheim, California|Anaheim as the scoreboard at Angel Stadium of Anaheim|Anaheim Stadium collapsed onto several hundred seats. The stadium was vacant at the time. Although several commercial buildings also collapsed, loss of life was minimized because of the early morning hour of the quake, and because it also occurred on a federal holiday (Martin Luther King, Jr. Day). Also, because of known seismic activity in California, area building codes dictate that buildings incorporate structural design intended to withstand earthquakes. However, the damage caused by the earthquake revealed that some structural specifications did not perform as intended. Because of these revelations, building codes were revised. Some structures were not Red-tagged structure|red-tagged until months after the earthquake, because damage was not immediately evident.
+
+The quake produced unusually strong ground accelerations in the range of 1.0 g-force|''g''. Damage was also caused by fire and landslides. The Northridge earthquake was notable for hitting almost the same exact area as the M<sub>W</sub> 6.6 San Fernando Earthquake|San Fernando (Sylmar) Earthquake. Some estimates of total damage range as high as $25 billion.
+
+Most casualties and damage occurred in multi-story wood frame buildings (e.g. the three-story Northridge Meadows apartment building). In particular, buildings with an unstable first floor (such as those with parking areas on the bottom) performed poorly. Numerous fires were also caused by broken gas lines from houses shifting off their foundations or unsecured water heaters tumbling. In the San Fernando Valley, several underground gas and water lines were severed, resulting in some streets experiencing simultaneous fires and floods. Damage to the system resulted in water pressure dropping to zero in some areas; this predictably affected success in fighting subsequent fires. Five days after the earthquake it was estimated that between 40,000 and 60,000 customers were still without public water service.  As is typical in earthquakes, unreinforced masonry buildings and houses on steep slopes suffered damage. However, school buildings (K-12), which are required by California law to be reinforced against earthquakes, in general survived fairly well.
+
+==Valley fever outbreak==
+An unusual effect of the Northridge earthquake was an outbreak of coccidioidomycosis (Valley fever), a respiratory disease caused by inhaling airborne spores of a species of fungus unique to the American southwest. The number of cases (203) in Ventura County, California|Ventura County was roughly 10 times the normal rate in the eight weeks following the earthquake and three people died. This was the first report of such an outbreak following an earthquake and it is believed that the spores were carried in large clouds of dust created by seismically triggered landslides. Most of the cases occurred immediately downwind of the landslides.
+
+==Hospitals affected==
+Eleven hospitals suffered structural damage and were damaged or unusable after the earthquake. Not only were they unable to serve their local neighborhoods, they also had to transfer out their inpatient populations, which further increased the burden on nearby hospitals that were still operational. As a result, the state legislature passed a law requiring all hospitals in California to ensure that their acute care units and emergency rooms would be in earthquake-resistant buildings by January 1, 2005. Most were unable to meet that deadline and only managed to achieve compliance in 2008 or 2009.{{citation needed|date=January 2014}}
+
+==Television, movie, and music productions affected==
+The earthquake disrupted production of movies and TV shows filming in the area at the time. The ''Star Trek: Deep Space Nine'' episode "Profit and Loss (Star Trek: Deep Space Nine)|Profit and Loss" was being filmed at the time, and actors Armin Shimerman and Edward Wiley left the Paramount Pictures lot in full Ferengi and Cardassian makeup respectively. The Seinfeld (season 5)|season five episode of ''Seinfeld'' entitled "The Pie" was due to begin shooting on the day of the earthquake before stage sets were damaged. NBC's ''The Tonight Show'', hosted by Jay Leno, took place in the NBC Studios in Burbank, close to the epicenter of the quake. Also, ABC's ''General Hospital'', which shoots in Los Angeles, was heavily affected by the Northridge earthquake. The set, which is at ABC Television Center, suffered major damage including partial structural collapse and water damage.
+
+All of the earthquake sequences in the Wes Craven film ''Wes Craven's New Nightmare|New Nightmare'' were filmed a month prior to the Northridge quake. The real quake struck only weeks before filming was completed. Subsequently, a team was sent out to film footage of the quake damaged areas of the city. The cast and crew had initially thought that the scenes that were filmed before the real quake struck were a bit overdone, but when viewed after the real quake hit, they were horrified by the realism of it.
+
+Michael Jackson had been due to begin recording of his new album ''HIStory'' on the day of the earthquake, but Jackson's entourage moved recording to New York City. They returned to the studio in Los Angeles some six months later.
+
+Some archives of film and entertainment programming were also affected. For example, the original 35&nbsp;mm master films for the 1960s sitcom ''My Living Doll'' were destroyed in the earthquake.
+
+On September 9, 1995, Animaniacs produced a segment parodying the quake to start their List of Animaniacs episodes#Season Three: 1995.E2.80.931996|third season (global episode number 70) in a sketch called "A Quake, a Quake!".
+
+==Transportation affected==
+Image:FEMA - 1807 - Photograph by Robert A. Eplett taken on 01-17-1994 in California.jpg|thumb|
+Damaged portion of the Golden State Freeway at Gavin Canyon.
+
+Portions of a number of major roads and freeways, including Interstate 10 in California|Interstate 10 over La Cienega Boulevard, and the interchanges of Interstate 5 with California State Route 14, California State Route 118|118, and Interstate 210 and State Route 210 (California)|Interstate 210, were closed because of structural failure or collapse. James E. Roberts was chief bridge engineer with Caltrans and was placed in charge of the seismic retrofit program for Caltrans until his death in 2006.
+
+Rail service was briefly interrupted, with full Amtrak and expanded Metrolink service resuming in stages in the days after the quake. Metrolink used the interruptions to road transport as a reason to experiment with service to Camarillo and Oxnard, which continues to the present. During the interruption, Metrolink leased equipment from Amtrak, San Francisco's Caltrain and Toronto, Canada's GO Transit to handle the sudden onslaught of passengers. All MTA bus lines operated service with detours and delays on the day of the quake. Los Angeles International Airport and other airports in the area were also shut down as a 2-hour precaution, including Burbank-Glendale-Pasadena Airport (now Bob Hope Airport) and Van Nuys Airport, which is near the epicenter, where the control tower suffered from radar failure and panel collapse. The airport was reopened in stages after the quake.
+
+==Universities, colleges, and schools affected==
+California State University, Northridge was the only major university near the epicenter. Many campus buildings were heavily damaged and a parking structure collapsed; as a result, many classes were moved to temporary structures. Los Angeles Unified School District closed local schools throughout the area, classes were rescheduled for a couple of days. University of California, Los Angeles and other universities were also shut down. The University of Southern California suffered some structural damage to several older campus buildings, but classes were conducted as scheduled.
+
+==Entertainment and sports affected==
+Universal Studios Hollywood shut down the Earthquake: The Big One|Earthquake attraction, based on the 1974 motion picture blockbuster, ''Earthquake (film)|Earthquake''. It was closed for the second time since the Loma Prieta Earthquake. Angel Stadium of Anaheim (then known as Anaheim Stadium), which is far away from the epicenter, suffered some damage, and the scoreboard fell into the seats. The theme parks Disneyland, Knott's Berry Farm and Six Flags Magic Mountain were shut down after the quake, but only for inspections, since all were designed with earthquakes in mind.{{citation needed|date=March 2014}} The Los Angeles Memorial Coliseum and Los Angeles Memorial Sports Arena suffered minor damage. The major Hollywood film studios including Warner Brothers, 20th Century Fox, Columbia Pictures, Paramount Pictures, Walt Disney Studios (Burbank)|Walt Disney Studios and Universal Studios were also shut down. The recording venues Capitol Records and Warner Bros. Records were shut down at the time of the quake, most notably Madonna (entertainer)|Madonna's ''Bedtime Stories'' and ''Ill Communication'' by Beastie Boys.
+
+The Los Angeles Clippers of the National Basketball Association|NBA had three home games postponed or moved to other venues. The game scheduled against the Sacramento Kings was postponed, the game against the Cleveland Cavaliers was relocated to The Forum (Inglewood, California)|The Forum (then the home arena of the Los Angeles Lakers), and the game against the New York Knicks was moved to the Arrowhead Pond (now Honda Center) in Anaheim, California|Anaheim.
+
+Prior to the quake, The World Wrestling Federation canceled 3 events in the Los Angeles area or moved to other cities in the country.
+
+==Other buildings affected==
+Many Los Angeles museums, including the Art Deco Building in Hollywood, were closed, as were many city shopping malls,  including the Sherman Oaks Galleria.
+
+Gazzarri's nightclub suffered irreparable damage and had to be torn down after the earthquake.
+
+Santa Monica, California|Santa Monica suffered significant damage. Many multifamily apartment buildings in Santa Monica were color-tagged structure|yellow-tagged and some color-tagged structure|red-tagged. Especially hard hit was a rough line between Santa Monica Canyon and Saint John's Hospital. Along this rough linear corridor was a significant amount of damage to property. The City of Santa Monica strove to assist landlords with repairs so tenants could return home as soon as possible.
+
+==Radio and television affected==
+The earthquake knocked Los Angeles' radio and television stations off the air.  However, they later came back on the air for earthquake coverage.
+
+NBC affiliate KNBC was the first television station to go off the air{{citation needed|date=December 2010}} while reporters and anchors Kent Shocknek, Colleen Williams and Chuck Henry were producing special reports{{clarify|date=December 2010}}<!-- grammar fail --> throughout the morning. Other stations KTLA, KCAL, KCBS and KABC were also knocked off the air. Afterward, anchors and reporters Stan Chambers and Hal Fishman of KTLA, Laura Diaz (TV anchor)|Laura Diaz and Harold Greene of KABC-TV|KABC, John Beard (news anchor)|John Beard of KTTV, and Tritia Toyota of KCBS-TV|KCBS were doing coverage throughout the morning. {{citation needed|date=March 2011}}
+
+Radio stations such as KFI, KFWB and KNX were on the air during the main tremor, causing severe static on the airwaves. KROQ-FM's Kevin and Bean morning show asked those people tuned in to stay out of their homes. .{{citation needed|date=March 2011}} Mark & Brian's morning show on KLOS was also affected. The duo spoke to Los Angeles-area residents about their situation.
+
+FM radio stations such as KRTH, KIIS-FM, KOST-FM and KCBS-FM were bringing special reports on the earthquake when morning show hosts Robert W. Morgan, Rick Dees and Charlie Tuna were calling Los Angeles residents and others from their sister stations to bring their belongings to the stations and advising people not to drink water.
+
+==Government and organization affected==
+The United States Postal Service suspended all mail service throughout the Los Angeles area for several days. The Los Angeles Public Library shut down most of its branches; books were knocked down after the quake. The Los Angeles City Hall suffered no damage. Los Angeles Mayor Richard Riordan declared a state of emergency and issued curfews in the area, while Governor Pete Wilson and President Bill Clinton visited Los Angeles to tour the earthquake area. The Archdiocese of Los Angeles's Cathedral of St. Vibiana suffered severe damage and canceled activities until a new cathedral was built in 2002. The Church on the Way, which is near the epicenter, suffered some damage to the church campus building. Jack Hayford also canceled his activities in the church. The Martin Luther King Jr. Parade, scheduled to take place on the day of the earthquake, was not held.
+
+==Legislative changes==
+The Northridge earthquake led to a number of legislative changes. Due to the large amount lost by insurance companies because of the earthquake, most insurance companies either stopped offering or severely restricted earthquake insurance in California (and elsewhere). In response, the California Legislature created the California Earthquake Authority (CEA), which is a publicly managed but privately funded organization that offers minimal coverage. A substantial effort was also made to reinforce freeway bridges against seismic shaking, and a law requiring water heaters to be properly strapped was passed in 1995.
+
+==Building code changes==
+{{Unreferenced section|date=June 2011}}
+With each major earthquake comes new understanding of the way in which buildings respond to them.  Advances in the technology associated with testing systems, design and seismic modeling software, structural connections, structural forms, and earthquake engineering|seismic force resisting systems have accelerated dramatically since Northridge.  The City of Los Angeles is stringent in its review of the seismic safety of everything built in the city.  There is an array of building forms and systems that are no longer legal to build.  An example is the previously popular "soft story building|soft-story" multifamily apartments.  These buildings typically look like a three-story box on a narrow lot, where the upper two floors overhang the lower floor and are supported on pipe columns so cars can be parked underneath.  Because the ground level is soft relative to the upper floors the upper portion can sway and fall onto the carport below.  Today, no wood floors are allowed to extend more than an additional 15% beyond the shear wall or other lateral-load resisting element of the floor below.  This typically results in overhangs of only up to three or four feet, compared to the 20 to 40 feet that was previously built.  If an architect still wants this type of design, the structural engineer may specify that the previously flimsy pipe columns be replaced with a laterally stiff steel "moment frame."  This can also mitigate the problem of the soft-story structure by stiffening the soft ground floor.
+
+==See also==
+{{Portal|Los Angeles}}
+*2008 California earthquake study
+*List of earthquakes in California
+*List of earthquakes and tsunamis in the United States|List of earthquakes in the United States
+
+==References==
+{{Reflist|1}}
+
+==External links==
+{{Commons category|1994 Northridge earthquake}}
+*http://www.data.scec.org/significant/northridge1994.html Southern California Earthquake Data Center
+*http://pasadena.wr.usgs.gov/office/hudnut/hudnut/nr_eq.html USGS Pasadena
+*http://www.usc.edu/dept/civil_eng/Earthquake_eng/North_res/ USC Earthquake Engineering-Strong Motion Group
+*http://www.sacsteel.org/ SAC Steel Project (Study of welded steel failures)
+*http://web.archive.org/web/20120401135948/http://www.educatedearth.net/video.php?id=2708 Helicopter Footage Filmed After The Quake<nowiki></nowiki>
+
+{{Significant earthquakes in California}}
+
+{{DEFAULTSORT:Northridge Earthquake, 1994}}
+Category:Earthquakes in California
+Category:History of Los Angeles, California
+Category:1994 in California
+Category:History of the San Fernando Valley
+Category:1994 earthquakes
+Category:1994 natural disasters in the United States

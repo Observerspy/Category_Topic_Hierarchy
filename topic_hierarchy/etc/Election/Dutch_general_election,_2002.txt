@@ -1,0 +1,247 @@
+{{Infobox Election
+| election_name      = Dutch general election, 2002
+| country            = Netherlands
+| type               = parliamentary
+| ongoing            = no
+| previous_election  = Dutch general election, 1998
+| previous_year      = 1998
+| next_election      = Dutch general election, 2003
+| next_year          = 2003
+| seats_for_election = All 150 seats to the [[House of Representatives of the Netherlands|House of Representatives]] <br> 76 seats were needed for a majority
+| election_date      = 15 May 2002
+
+<!--      Christian Democratic Appeal      -->
+| image1             = [[File:Jan Peter Balkenende 2006.jpg|150x150px|Jan Peter Balkenende]]
+| leader1            = [[Jan Peter Balkenende]]
+| leader_since1      = 2001
+| party1             = Christian Democratic Appeal
+| last_election1     = 29 seats, 18.3%
+| seats1             = 43
+| seat_change1       = {{increase}}14
+| popular_vote1      = 2.653.723
+| percentage1        = 27.9%
+
+<!--      Pim Fortuyn List      -->
+| image2             = [[File:Pim Fortuyn - May 4.jpg|150x150px|Pim Fortuyn]]
+| leader2            = [[Pim Fortuyn]] <small>(Assassinated)</small>
+| leader_since2      = 2002
+| party2             = Pim Fortuyn List
+| last_election2     = '''First Election'''
+| seats2             = 26
+| seat_change2       = {{increase}}26
+| popular_vote2      = 1.614.801
+| percentage2        = 17.0%
+
+<!--      People's Party for Freedom and Democracy      -->
+| image3             = [[File:Hans Dijkstal.JPG|150x150px|Hans Dijkstal]] 
+| leader3            = [[Hans Dijkstal]]
+| leader_since3      = 1998
+| party3             = People's Party for Freedom and Democracy
+| last_election3     = 38 seats, 24.7% 
+| seats3             = 24
+| seat_change3       = {{decrease}}14
+| popular_vote3      = 1.466.722
+| percentage3        = 15.5%
+
+<!--      Labour Party      -->
+| image4             = [[File:PvdA - Ad Melkert2002.jpg|150x150px|Ad Melkert]]
+| leader4            = [[Ad Melkert]]
+| leader_since4      = 2001
+| party4             = Labour Party (Netherlands)
+| last_election4     = 45 seats, 29.0%
+| seats4             = 23
+| seat_change4       = {{decrease}}22
+| popular_vote4      = 1.436.023
+| percentage4        = 15.1%
+
+<!--      GreenLeft      -->
+| image5             = [[File:Rotterdamse stakingsleider Paul Rosenmöller (staking in de stukgoed) - NL-HaNA Anefo 933-8684 WM598.jpg|150x150px|Paul Rosenmöller]]
+| leader5            = [[Paul Rosenmöller]]
+| leader_since5      = 1994
+| party5             = GreenLeft
+| last_election5     = 11 seats, 7.3%
+| seats5             = 10
+| seat_change5       = {{decrease}}1
+| popular_vote5      = 660.692
+| percentage5        = 7.0%
+
+<!--      Socialist Party      -->
+| image6             = [[File:Jan Marijnissen.jpg|150x150px|Jan Marijnissen]]
+| leader6            = [[Jan Marijnissen]]
+| leader_since6      = 1988
+| party6             = Socialist Party (Netherlands)
+| last_election6     = 5 seats, 3.5%
+| seats6             = 9
+| seat_change6       = {{increase}}4
+| popular_vote6      = 560.447
+| percentage6        = 5.9%
+
+<!--      Democrats 66      -->
+| image7             = [[File:Thom de Graaf 2009.jpg|150x150px|Thom de Graaf]]
+| leader7            = [[Thom de Graaf]]
+| leader_since7      = 1998
+| party7             = Democrats 66
+| last_election7     = 14 seats, 9.0%
+| seats7             = 7
+| seat_change7       = {{decrease}}7
+| popular_vote7      = 484,317
+| percentage7        = 5.1%
+
+<!--      ChristianUnion      -->
+| image8             =  
+| leader8            = [[Kars Veling]]
+| leader_since8      = 2001
+| party8             = ChristianUnion
+| last_election8     = 5 seats, 3.3%
+| seats8             = 4
+| seat_change8       = {{decrease}}1
+| popular_vote8      = 240,953
+| percentage8        = 2.5%
+
+<!--      Reformed Political Party      -->
+| image9             = [[File:Bas van der Vlies 1989.jpg|150x150px|Bas van der Vlies]]
+| leader9            = [[Bas van der Vlies]]
+| leader_since9      = 1986
+| party9             = Reformed Political Party
+| last_election9     = 3 seats, 1.8%
+| seats9             = 2
+| seat_change9       = {{decrease}}1
+| popular_vote9      = 163.562
+| percentage9        = 1.7%
+| map_image          =Tweede Kamerverkiezingen 2002.png
+| map_size           = 250px
+| map_caption        = 
+| title              = [[Prime Minister of the Netherlands|Prime Minister]]
+| posttitle          = [[Prime Minister of the Netherlands|Prime Minister]]
+| before_election    = [[Wim Kok]]
+| before_party       = Labour Party (Netherlands)
+| after_election     = [[Jan Peter Balkenende]]
+| after_party        = Christian Democratic Appeal
+}}
+
+'''General elections''' were held in the [[Netherlands]] on 15 May 2002.<ref name=NS>[[Dieter Nohlen|Nohlen, D]] & Stöver, P (2010) ''Elections in Europe: A data handbook'', p1396 ISBN 978-3-8329-5609-7</ref> The elections were amongst the most dramatic in Dutch history,<ref>{{cite news|last=Simons |first=Marlise |url=http://www.nytimes.com/2002/05/08/world/elections-to-proceed-in-the-netherlands-despite-killing.html |title=Elections to Proceed in the Netherlands, Despite Killing |publisher=Nytimes.com |date=2002-05-08 |accessdate=2010-06-13}}</ref> not just in terms of the electoral results, as they were completely overshadowed by the [[Assassination of Pim Fortuyn|assassination]] of politician [[Pim Fortuyn]] only nine days before election day.
+
+Fortuyn had led the [[Pim Fortuyn List]] (LPF) party, a [[Right wing populism|right-wing populist]] party that represented his political views. He had drawn controversy in the campaign with his views on [[Islam]], attacked the government's immigration policies and had also questioned many aspects of government by the previous [[purple (government)|'purple']] cabinets of [[Wim Kok]], which he blamed for everything from crime to waiting lists in health services. After his death, the LPF made their general election debut with 17% of the vote, coming in second place. The [[Christian Democratic Appeal]], who took a neutral stance towards Fortuyn, gained seats to become the country's largest political party. On the other hand, the three parties in the government all lost a significant number of seats.
+
+Two months after the election, [[Jan Peter Balkenende]] formed his [[First Balkenende cabinet|first cabinet]] in a coalition with the CDA, LPF and VVD. However, the LPF was unstable due to their lack of strong leadership and their members' lack of experience, resulting in the new cabinet resigning before the end of the year.
+
+==Background==
+Prime Minister [[Wim Kok]] had been in power since the [[Dutch general election, 1994|1994 general election]] in a coalition between his [[Labour Party (Netherlands)|Labour Party]] (PvdA), the [[People's Party of Freedom and Democracy]] (VVD) and [[Democrats 66]] (D66). The government, which won a second term in the [[Dutch general election, 1998|1998 general election]], was often referred to as a 'purple' coalition due to the participation of the 'red' Labour Party and the 'blue' VVD. During its time in power, the government had often enjoyed high approval ratings and presided over a strong economy.<ref>[http://articles.latimes.com/1997-01-26/business/fi-22263_1_dutch-economy-netherlands Once-Struggling Dutch Economy No Longer in the Nether Land]</ref> They had also introduced innovative social legislation, such as the introduction of [[same-sex marriage]] and [[euthanasia]]. Kok announced in December 2001 that he would retire from the premiership at the next election. [[Ad Melkert]] then replaced Kok as the party leader. The [[Christian Democratic Appeal]], the largest opposition party, was led by newly elected leader [[Jan Peter Balkenende]]. Balkenende was at the time considered to be an interim leader who lacked charisma or experience, but his campaign would ultimately prove relatively successful.<ref>[http://news.bbc.co.uk/1/hi/world/europe/1990620.stm Dutch Harry Potter on the way up]</ref>
+
+==Campaign==
+At the start of the year, Melkert and the VVD leader [[Hans Dijkstal]] appeared to be the frontrunners in the race to become Prime Minister. The situation changed with the arrival of the controversial politician [[Pim Fortuyn]]. Fortuyn was a critic of [[Islam]] and had questioned whether its culture was compatible with Western society even before the [[September 11 attacks]].<ref>''[http://www.amazon.com/dp/9022983382 Tegen de islamisering van onze cultuur: Nederlandse identiteit als fundament]'', A.W. Bruna, 1997, ISBN 90-229-8338-2</ref> He was elected the leader of [[Liveable Netherlands]] in November 2001, but he was expelled from the party after making controversial comments in an interview with [[De Volkskrant]] on 9 February 2002. Fortuyn had described Islam as a "backward culture", criticizing its [[Islam and homosexuality|attitude to homosexuality]] (he himself was openly gay). Part of the reason for the uproar was that the Dutch word for "backward" (''achterlijk'') can also be used in an insulting sense (with a similar meaning to the word "retarded"); Fortuyn stated he used the word in the former sense. Two days later, he formed his own party, the [[Pim Fortuyn List]] (LPF) in order to contest to the upcoming general election, while maintaining the leadership over the local [[Livable Rotterdam]] party.
+
+In the [[Dutch municipal elections, 2002|2002 municipal elections]], held on 6 March, Liveable Rotterdam took 35% of the vote in the city of [[Rotterdam]], a city with a high immigrant population. They formed the city's first non-Labour government since the Second World War. In the same month, he released the book [[De puinhopen van acht jaar Paars]] (''The Wreckage of eight purple years'') criticising the record of the governing coalition. ''[[The Economist]]'' described the rise in support for Fortuyn as a shock for the Dutch political establishment and their traditional system of consensus.<ref>[http://www.economist.com/node/1057039 Ad Melkert, meet Pim Fortuyn]</ref>
+
+The government resigned on 16 April - only a month before polling day - after the [[Netherlands Institute for War Documentation]] published the ''[[Srebrenica: a 'safe' area]]'' report, criticizing the Dutch government's handling of the events that led to the [[Srebenica massacre]] in 1995.<ref>[http://news.bbc.co.uk/1/hi/world/europe/1933144.stm Dutch government quits over Srebenica]</ref> However, the ministers remained in office as a [[caretaker government]] until after the elections and the formation of the next government, and the date of the election was not changed.
+
+On 6 May, Fortuyn was assassinated in [[Hilversum]] by [[Volkert van der Graaf]]. Months later, Van der Graaf stated his motivation was his belief that Fortuyn was exploiting Muslims as "scapegoats" and targeting "the weak members of society" in seeking political power.<ref name="telegraph">[http://www.telegraph.co.uk/news/worldnews/europe/netherlands/1425944/Fortuyn-killed-to-protect-Muslims.html Fortuyn killed 'to protect Muslims'], [[The Daily Telegraph]], 28 March 2003:[van der Graaf] said his goal was to stop Fortuyn exploiting Muslims as "scapegoats" and targeting "the weak parts of society to score points" to try to gain political power.</ref> The murder was a shock to the Netherlands; it was denounced by Kok and other Dutch politicians and other national leaders. It was the country's first political assassination in modern times.<ref>[http://www.theguardian.com/world/2002/may/06/3 Dutch politician Pim Fortuyn assassinated]</ref>
+
+==Result==
+The great losers of the election were [[Labour Party (Netherlands)|Labour Party]], [[People's Party for Freedom and Democracy]] and [[Democrats 66]], the [[coalition]] [[political party|parties]] of the 'purple' cabinets. Especially the Labour Party under the technocratic leadership of [[Ad Melkert]] suffered a landslide defeat.
+
+The [[Christian Democratic Appeal]] was the surprising winner of the election, gaining 14 seats (from 29 to 43) and becoming the largest party in the [[House of Representatives of the Netherlands|House of Representatives]]. This success is in part owed to its new leader [[Jan Peter Balkenende]], who went on to become [[prime minister]], and to its neutral attitude in the debate with Fortuyn, not having participated in the supposed ‘demonization’ by the political [[Left-wing politics|Left]].
+
+Fortuyn's former party [[Livable Netherlands]] also contested the election. While they had been overshadowed by Fortuyn, they also entered the House of Representatives, winning 2 seats.
+
+The 15 May 2002 election was the beginning of a year of political [[Civil disorder|chaos]] in the Netherlands following the LPF leader's assassination on 6 May the same year. The power vacuum resulted in violent internal conflicts in LPF, which eventually led to the fall of the [[first Balkenende cabinet]] (CDA-LPF-VVD), which governed from 22 July 2002 to 16 October 2002. The CDA once again became a coalition party after eight years in opposition (1994–2002) in a government which, however, became the shortest-ruling Dutch cabinet since the [[Second World War]], lasting less than five months.
+ 
+{| class=wikitable style=text-align:right
+!Party
+!Votes
+!%
+!Seats
+!+/–
+|-
+|align=left|[[Christian Democratic Appeal]]||2,653,723||27.9||43||+14
+|-
+|align=left|[[Pim Fortuyn List]]||1,614,801||17.0||26||New
+|-
+|align=left|[[People's Party for Freedom and Democracy]]||1,466,722||15.4||24||–14
+|-
+|align=left|[[Labour Party (Netherlands)|Labour Party]]||1,436,023||15.1||23||–22
+|-
+|align=left|[[GreenLeft]]||660,692||7.0||10||–1
+|-
+|align=left|[[Socialist Party (Netherlands)|Socialist Party]]||560,447||5.9||9||+4
+|-
+|align=left|[[Democrats 66]]||484,317||5.1||7||–7
+|-
+|align=left|[[ChristianUnion]]||240,953||2.5||4||–1
+|-
+|align=left|[[Reformed Political Party]]||163,562||1.7||2||–1
+|-
+|align=left|[[Livable Netherlands]]||153,055||1.6||2||New
+|-
+|align=left|[[Free Indian Party and Elderly Union]]||39,005||0.4||0||New
+|-
+|align=left|United Seniors Party||10,033||0.1||0||New
+|-
+|align=left|Durable Netherlands||9,058||0.1||0||New
+|-
+|align=left|Party for the Future||6,393||0.1||0||New
+|-
+|align=left|[[New Middle Party]]||2,305||0.0||0||New
+|-
+|align=left|Republican People's Party||63||0.0||0||New
+|-
+|align=left|Invalid/blank votes||15,074||–||–||–
+|-
+|align=left|'''Total'''||'''9,515,226'''||'''100'''||'''150'''||'''0'''
+|-
+|align=left|Registered voters/turnout||12,035,935||79.1||–||–
+|-
+|align=left colspan=5|Source: Nohlen & Stöver, [http://eed.nsd.uib.no/webview/index.jsp?study=http://129.177.90.166:80/obj/fStudy/NLPA1998_Display&node=0&mode=cube&v=2&cube=http://129.177.90.166:80/obj/fCube/NLPA1998_Display_C1&top=yes European Elections Database]
+|}
+{{bar box
+| title=Popular Vote
+| titlebar=#ddd
+| width=600px
+| barwidth=410px
+| bars=
+{{bar percent|CDA|{{Christian Democratic Appeal/meta/color}}|27.93}}
+{{bar percent|LPF|{{Pim Fortuyn List/meta/color}}|17.00}}
+{{bar percent|VVD|{{People's Party for Freedom and Democracy/meta/color}}|15.44}}
+{{bar percent|PvdA|{{Labour Party (Netherlands)/meta/color}}|15.11}}
+{{bar percent|GL|{{GreenLeft/meta/color}}|6.95}}
+{{bar percent|SP|{{Socialist Party (Netherlands)/meta/color}}|5.90}}
+{{bar percent|D66|{{Democrats 66/meta/color}}|5.10}}
+{{bar percent|CU|{{ChristianUnion/meta/color}}|2.54}}
+{{bar percent|SGP|{{Reformed Political Party/meta/color}}|1.72}}
+{{bar percent|LN|#9F7FFF|1.61}}
+{{bar percent|Other|#777777|0.70}}
+}}
+
+==References==
+{{reflist}}
+
+==Further reading==
+* {{cite journal
+ | quotes = 
+ | last = Van Holsteyn
+ | first = Joop J. M.
+ | authorlink = 
+ |author2=Galen A. Irwin
+ |date= April 2003
+ | title = Never a dull moment: Pim Fortuyn and the Dutch parliamentary election of 2002
+ | journal = [[West European Politics]]
+ | volume = 26
+ | issue = 2
+ | pages = 41–86
+ | pmid = 
+ | doi = 10.1080/01402380512331341101
+ | id = 
+ | url = 
+ | language = 
+ | format = 
+ | accessdate = 
+ | laysummary = 
+ | laysource = 
+ | laydate = 
+ | quote = 
+ }}
+
+{{Dutch general elections}}
+
+[[Category:General elections in the Netherlands|2002]]
+[[Category:2002 elections in the Netherlands]]

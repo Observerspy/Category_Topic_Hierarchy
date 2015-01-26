@@ -1,0 +1,38 @@
+{{Earthquake
+|title= 1946 Hsinhua Earthquake
+|date= {{Start-date|December 5, 1946}}
+|image=
+|map2               = {{Location map | Taiwan|relief=1
+ | label=
+ | lat=23.1
+ | long=120.3
+ | mark=Bullseye1.png
+ | marksize=40
+ | position=top
+ | width= 250
+ | float=right
+ | caption=}} = 
+|magnitude = 6.1 Richter magnitude scale|M<sub>L</sub>
+|depth = {{convert|5|km|mi|0}}
+|location = {{coord|23.1|N|120.3|E|display=inline,title}}
+|countries affected = Taiwan, Republic of China (1912–49)|Republic of China
+|tsunami =
+|casualties = 74 dead
+}}
+
+The '''1946 Hsinhua earthquake''' ({{zh|t=1946年新化大地震|p=1946 nián Xīnhuà dà dìzhèn}}), also referred to as the '''1946 Tainan earthquake''' ({{zh|t=1946年台南大地震|p=1946 nián Táinán dà dìzhèn}}) was a magnitude 6.1 earthquake which hit Tainan County (now part of Tainan City), Taiwan, on December 5, 1946 at 06:47. The quake claimed 74 lives and was the List of earthquakes in Taiwan|eighth deadliest earthquake in twentieth century Taiwan.
+
+==Technical details==
+The 6.1 Richter magnitude scale|M<sub>L</sub> earthquake struck at 06:47 Chungyuan Standard Time|CST on Thursday December 5, 1946, as people in the area were waking up and preparing breakfast. The epicentre was in Xinhua District, Tainan|Hsinhua in the centre of Tainan County at a relatively shallow depth of {{convert|5|km|mi|0}}; the rupture responsible was the Hsinhua fault ({{zh|t=新化断层|p=Xīnhuà duàncéng}}). Government geologists in Taiwan believe this fault may have been active a number of times during the (current) Holocene era. There was one major aftershock, on December 17, which measured 5.7 on the Richter scale but caused no additional casualties. 
+
+==Damage==
+According to Taiwan's Central Weather Bureau, there were 74 people killed by the quake, with 200 people seriously injured and 274 lightly injured. 1,971 dwellings were completely destroyed, while a further 2,084 dwellings were partially destroyed.
+==See also==
+*1964 Baihe earthquake - struck not far from the epicentre of the 1946 Hsinhua quake
+==References==
+{{reflist}}
+
+{{taiwan earthquakes}}
+
+Category:1946 in Taiwan|Hsinhua Earthquake, 1946
+Category:1946 earthquakes|Hsinhua

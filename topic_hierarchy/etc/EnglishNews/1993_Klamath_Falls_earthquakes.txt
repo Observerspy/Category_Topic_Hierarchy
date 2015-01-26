@@ -1,0 +1,70 @@
+{{Use dmy dates|date=March 2014}}
+{{Earthquake
+|title= 1993 Klamath Falls earthquakes
+|date= {{Start-date|September 20, 1993}}
+|map2 = {{Location map+ | Oregon
+ | width= 250
+ | float=none
+ | caption=Location of the strongest quake; the larger red dot marks the city of Klamath Falls
+ | places=
+  {{Location map~ | Oregon
+  | label=
+  | lat=42.2131
+  | long=-122.0661
+  | mark=Bullseye1.png
+  | marksize=40
+  | position=top}}
+  {{Location map~ | Oregon
+  | label=
+  | lat=42.224867
+  | long=-121.7816704
+  | mark=
+  | marksize=9
+  | position=left}}
+}}
+|magnitude = 6.0 Moment magnitude scale|M<sub>w</sub>
+|depth={{convert|9|km|disp=flip}}
+|intensity=Mercalli intensity scale|VII
+|location={{Coord|42.2131|-122.0661|display=inline,title}}
+|countries affected = Southern Oregon, Northern California
+|tsunami =
+|casualties =2
+|damage = $10 million
+}}
+
+The '''1993 Klamath Falls earthquakes''' were a series of earthquakes or seismic movements that took place in Klamath Falls, Oregon, beginning on <!-- see Talk: Tuesday, 21 September 1993 at 03:28 (UTC-7) (-->Monday, 20 September 1993 at 8:28&nbsp;p.m. The two major shocks registered respective magnitudes of 6.0 and 5.9 on the moment magnitude scale. The earthquakes were located at a depth of {{convert|9|km|disp=flip}} and tremors continued to be felt more than three months after the initial shocks.
+
+==Tectonics and previous activity==
+The tectonic structure of south-central Oregon is riddled with fault lines. The West Klamath Lake fault zone is capable of earthquakes up to Richter magnitude 7.3. The magnitude 5.4 Coos Bay earthquake which preceded a later 2002 Klamath Falls earthquake occurred along the northern segment of the Blanco Fracture Zone, which is separate from the inland Klamath Basin and Range geological province.
+
+These fault networks have caused several previous earthquakes in the Klamath Falls area. Records from 1945 indicate approximately fifteen seismic events, prior to the 1993 events, circulating within a {{convert|10|mi|km|adj=on}} radius of Klamath Falls. Previously most tremors measured less than 4&nbsp;M<sub>w</sub> with the strongest being 4.3&nbsp;M<sub>w</sub> in 1948.
+
+==Earthquake==
+The September 1993 earthquakes began striking at approximately 8:16&nbsp;p.m. local time. The first major quake registered 5.9 on the moment magnitude scale with a foreshock registering 4.2&nbsp;M<sub>w</sub> about twelve minutes before.
+
+The tremors during the September 1993 Klamath Falls earthquakes were some of the strongest felt in Oregon's history over the past 50 years. The two major quakes, which measured 5.9 and 6.0, were, up to that point in Oregon's history, the strongest recorded earthquakes and resulted in the most damage.
+
+The epicenter of both earthquakes was located northwest of Klamath Falls in the Mountain Lakes Wilderness. The epicenter of the second major shock was slightly more to the north than the previous tremors. The major shocks were felt as far north as Eugene, Oregon, and as far south as Redding, California.
+
+All of the shocks, from the first foreshock to the last aftershock some two months later, were clustered around latitude 42<sup>o</sup>20'N and longitude 122<sup>o</sup>05'W, west northwest of Klamath Falls.
+
+==Damage and casualties==
+The destructive force of the 1993 Klamath Falls earthquakes was measured at VII on the Mercalli intensity scale. There were only two recorded casualties, one of which involved a motorist who was crushed in a rock slide on U.S. Route 97 in Oregon|Route 97. The second death was a result of a heart attack.
+
+The tremors precipitated landslides and also caused structural damages to buildings, including the county courthouse, in addition to private residences and businesses. Damages were estimated at approximately $10&nbsp;million.
+
+==Aftermath==
+In the wake of the earthquakes, several damaged buildings in Klamath Falls and elsewhere in Klamath County, Oregon|Klamath County had to be repaired. The city of Klamath Falls obtained a Community Development Block Grant grant which was used to partially fund upgrades to local public buildings, including the courthouse annex.
+
+Within three weeks after the first major shocks four seismographs were installed in the area by the U.S. Geological Survey. These were helpful in recording subsequent seismic activity.
+
+==References==
+{{reflist|30em}}
+
+{{Earthquakes in 1993}}
+
+{{DEFAULTSORT:Klamath Falls earthquake, 1993}}
+Category:1993 earthquakes
+Category:1993 in Oregon
+Category:Earthquakes in Oregon
+Category:Klamath Falls, Oregon

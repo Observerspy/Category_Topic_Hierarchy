@@ -1,0 +1,247 @@
+{{Infobox Election
+| election_name = Mexican general election, 2000
+| country = Mexico
+| type = presidential
+| ongoing = no
+| previous_election = Mexican general election, 1994
+| previous_year = 1994
+| next_election = Mexican general election, 2006
+| next_year = 2006
+| election_date =  July 2, 2000
+
+<!--        Vicente Fox      -->
+| image1 = [[ File:Vicente Fox WEF 2003 cropped.jpg| 110px]]
+| nominee1 = [[Vicente Fox]]
+| party1 = National Action Party (Mexico)
+| home_state1 = [[ Guanajuato ]]
+| popular_vote1 = ''' 15,989,636 '''
+| percentage1 = '''42.52%'''
+
+<!--         Francisco Labastida -->
+| image2 = [[ File:PRI Party (Mexico).svg| 112px]]
+| nominee2 = [[Francisco Labastida ]]
+| party2 = Institutional Revolutionary Party 
+| home_state2 = [[ Sinaloa ]]
+| popular_vote2 = 13,579,718 
+| percentage2 = 36.11% 
+
+<!--          Cuauhtémoc Cárdenas     -->
+| image3 = [[ File:Cuauhtemoc Cardenas Solorzano.jpg|113px]]
+| nominee3 = [[ Cuauhtémoc Cárdenas]] 
+| party3 = Party of the Democratic Revolution 
+| home_state3 = [[Mexico City]]
+| popular_vote3 = 6,256,780 
+| percentage3 = 16.64%
+| map_image = Mexico-States-President-Election-2000.PNG
+| map_size = 350px
+| map_caption = States won by the presidential candidates (blue for Fox, green for  Labastida and yellow for Cárdenas)
+| title = President
+| before_election = [[ Ernesto Zedillo ]]
+| before_party = Institutional Revolutionary Party 
+| after_election = [[Vicente Fox]]
+| after_party = National Action Party (Mexico)
+}}
+
+A '''general election''' was held in [[Mexico]] on Sunday, July 2, 2000. Voters went to the polls to elect, on the federal level:
+*A new [[president of Mexico|President of the Republic]] to serve a six-year term, replacing then Mexican President [[Ernesto Zedillo Ponce de León]] (ineligible for re-election under the [[Constitution of Mexico|1917 Constitution]]).
+*500 members (300 by the [[first-past-the-post]] system and 200 by [[proportional representation]]) to serve for a three-year term in the [[Chamber of Deputies of Mexico|Chamber of Deputies]].
+*128 members (three per [[States of Mexico|state]] by first-past-the-post and 32 by proportional representation from [[List of political parties in Mexico|national party]] lists) to serve six-year terms in the [[Senate of Mexico|Senate]]. In each state, two first-past-the-post seats are allocated to the party with the largest share of the vote, and the remaining seat is given to the first runner-up.
+
+[[2006 Mexican elections|Several local ballots]] were also held on the same day, most notably:
+*The '''General elections''' were held in [[Mexico]] on 6 July 2000.<ref name=DN>[[Dieter Nohlen|Nohlen, D]] (2005) ''Elections in the Americas: A data handbook, Volume I'', p453 ISBN 978-0-19-928357-6</ref> The presidential elections were won by [[Vicente Fox]] of the [[Alliance for Change (Mexico)|Alliance for Change]], who received 43.4% of the vote,<ref>Nohlen, p475</ref> the first time the opposition had won an election since the [[Mexican Revolution]]. In the Congressional elections the [[Alliance for Change (Mexico)|Alliance for Change]] emerged as the largest faction in the Chamber of Deputies with 224 of the 500 seats, whilst the [[Institutional Revolutionary Party]] remained the largest faction in the Senate with 60 of the 128 seats in the Senate.<ref>Nohlen, p470</ref> Voter turnout was between 63 and 64% in the elections.<ref>Nohlen, p455</ref>
+
+This a historically significant election that made Fox the first president elected from an opposition party since [[Francisco I. Madero]] in 1910 and the first one in 71 years to defeat, with 42 percent of the vote, the then-dominant Institutional Revolutionary Party.
+
+{{Politics of Mexico}}
+
+==Presidential election==
+Despite some isolated incidents of irregularities and problems, such as one in the southern state of Campeche which involved the [[European Union]] electoral observer [[Rocco Buttiglione]] and which could have created problems for President [[Ernesto Zedillo]] had the PRI candidate won, there was little evidence that those incidents were centrally coordinated (as opposed to led by local PRI officials) and critics concluded that the irregularities that occurred did not alter the outcome of the presidential vote, which was more definitive than expected. Civic organizations fielded more than 80,000 trained electoral observers, foreign observers were invited to witness the process, and numerous "quick count" operations and exit polls (not all of them independent) validated the official vote tabulation. The largest exit poll was organized by the U.S. firm [[Penn, Schoen & Berland]], financed by a hitherto obscure outfit in [[Dallas]] called Democracy Watch (later it emerged that Democracy Watch was essentially set up by Fox campaign insiders to help prevent an expected [[election fraud]]).
+
+Numerous electoral reforms implemented since 1989 aided in the opening of the Mexican political system, and since then opposition parties made historic gains in elections at all levels. The chief electoral concerns shifted from outright fraud to campaign fairness issues and, between 1995 and 1996, the political parties negotiated constitutional amendments to address these issues. The legislation implemented included major points of consensus that had been worked out with the opposition parties. Under the new laws, public financing predominated over private contributions to political parties, procedures for auditing parties were tightened, and the authority and independence of the electoral institutions were strengthened. The court system was also given greatly expanded authority to hear civil rights cases on electoral matters brought by individuals or groups. In short, the extensive reform efforts of the 1990s "leveled the playing field" for the parties.
+
+{| class=wikitable style=text-align:right
+!Candidate
+!Party
+!Votes
+!%
+|-
+|align=left|[[Vicente Fox Quesada]]||align=left|[[Alliance for Change (Mexico)|Alliance for Change]]||15,989,636||42.52
+|-
+|align=left|[[Francisco Labastida Ochoa]]||align=left|[[Institutional Revolutionary Party]]||13,579,718||36.11
+|-
+|align=left|[[Cuauhtémoc Cárdenas|Cuauhtémoc Cárdenas Solórzano]]||align=left|[[Alliance for Mexico]]||6,256,780||16.64
+|-
+|align=left|[[Gilberto Rincón Gallardo]]||align=left|[[Social Democracy (Mexico)|Social Democracy]]||592,381||1.58
+|-
+|align=left|[[Manuel Camacho Solís]]||align=left|[[Party of the Democratic Center]]||206,589||0.55
+|-
+|align=left|[[Porfirio Muñoz Ledo]]||align=left|[[Authentic Party of the Mexican Revolution]]||156,896||0.42
+|-
+|align=left colspan=2|Other candidates||30,461||0.1
+|-
+|align=left colspan=2|Invalid/blank votes||788,157||–
+|-
+|align=left colspan=2|'''Total'''||'''37,601,618'''||'''100'''
+|-
+|align=left colspan=4|Source: Nohlen
+|}
+
+===Results by state===
+Based on the official results of the [[Federal Electoral Institute]]
+{| class=wikitable
+|- bgcolor=#cccccc
+! style="background: gold" width=19%| [[States of Mexico|State]]
+! style="background: gold" width=8%| [[Vicente Fox|Fox]]
+! style="background: gold" width=8%| [[Francisco Labastida|Labastida]]
+! style="background: gold" width=8%| [[Cuauhtémoc Cárdenas|Cárdenas]]
+! style="background: gold" width=8%| [[Gilberto Rincón Gallardo|Rincón]]
+! style="background: gold" width=8%| [[Manuel Camacho Solís|Camacho]]
+! style="background: gold" width=8%| [[Porfirio Muñoz Ledo|Muñoz]]
+! style="background: gold" width=8%| [[Write-in]]
+! style="background: gold" width=8%| None
+|-
+| [[Aguascalientes]]|| align=right|'''202,335'''||align=right|127,134||align=right|26,264||align=right|9,467||align=right|2,202||align=right|1,389||align=right|83 ||align=right|6,291
+|-
+| [[Baja California]]|| align=right|'''429,194'''||align=right|319,477||align=right|77,340||align=right|14,562||align=right|3,470||align=right|3,080||align=right|507 ||align=right|14,965
+|-
+| [[Baja California Sur]]|| align=right|'''60,834'''||align=right|56,230||align=right|45,229||align=right|2,107||align=right|460||align=right|364||align=right|17 ||align=right|2,804
+|-
+| [[Campeche]]|| align=right|104,498||align=right|'''106,347'''||align=right|35,090||align=right|2,485||align=right|1,406||align=right|1,247||align=right|559 ||align=right|9,309
+|-
+| [[Chiapas]]|| align=right|288,204||align=right|'''469,392'''||align=right|272,182||align=right|5,340||align=right|4,659||align=right|4,063||align=right|1,056||align=right|44,551
+|-
+| [[Chihuahua (state)|Chihuahua]]|| align=right|'''549,177'''||align=right|460,931||align=right|76,810||align=right|11,569||align=right|4,487||align=right|3,166||align=right|609||align=right|21,350
+|-
+| [[Coahuila]]|| align=right|'''398,800'''||align=right|311,480||align=right|77,393||align=right|10,392||align=right|2,111||align=right|1,880||align=right|1,454||align=right|12,464
+|-
+| [[Colima]]|| align=right|'''106,445'''||align=right|81,099||align=right|23,313||align=right|3,159||align=right|1,028||align=right|542||align=right|39||align=right|4,377
+|-
+| [[Mexican Federal District|Distrito Federal]]|| align=right|'''1,928,035'''||align=right|1,060,227||align=right|1,146,131||align=right|149,312||align=right|36,383||align=right|18,843||align=right|2,009||align=right|75,669 
+|-
+| [[Durango]]|| align=right|211,361||align=right|'''222,892'''||align=right|50,592||align=right|6,144||align=right|1,579||align=right|1,469||align=right|859||align=right|9,294
+|-
+| [[Guanajuato]]|| align=right|'''1,128,780'''||align=right|517,815||align=right|121,489||align=right|18,248||align=right|10,800||align=right|8,473||align=right|2,873||align=right|49,039
+|-
+| [[Guerrero]]|| align=right|174,962||align=right|'''402,091'''||align=right|332,091||align=right|6,179||align=right|2,913||align=right|3,003||align=right|954||align=right|20,180
+|-
+| [[Hidalgo (Mexico)|Hidalgo]]|| align=right|282,864||align=right|'''355,565'''||align=right|136,861||align=right|12,319||align=right|5,034||align=right|4,078||align=right|758||align=right|19,997
+|-
+| [[Jalisco]]|| align=right|'''1,392,535'''||align=right|941,962||align=right|163,269||align=right|45,494||align=right|17,567||align=right|11,110||align=right|3,287||align=right|48,736
+|-
+| [[México (state)|México]]|| align=right|'''2,239,750'''||align=right|1,637,714||align=right|961,876||align=right|121,137||align=right|40,733||align=right|27,203||align=right|3,416||align=right|92,743
+|-
+| [[Michoacán]]|| align=right|419,188||align=right|441,871||align=right|'''543,804'''||align=right|13,058||align=right|7,444||align=right|6,404||align=right|2,060||align=right|30,448
+|-
+| [[Morelos]]|| align=right|'''290,639'''||align=right|193,861||align=right|124,368||align=right|12,539||align=right|2,916||align=right|3,010||align=right|136||align=right|12,296
+|-
+| [[Nayarit]]|| align=right|107,417||align=right|'''173,479'''||align=right|63,121||align=right|3,092||align=right|1,175||align=right|1,024||align=right|351||align=right|7,043
+|-
+| [[Nuevo León]]|| align=right|'''760,093'''||align=right|615,907||align=right|96,637||align=right|20,448||align=right|7,478||align=right|2,658||align=right|1,519||align=right|27,201 
+|-
+| [[Oaxaca]]|| align=right|301,195||align=right|'''486,496'''||align=right|282,587||align=right|11,074||align=right|8,372||align=right|7,305||align=right|1,851||align=right|39,616
+|-
+| [[Puebla]]|| align=right|'''732,435'''||align=right|698,974||align=right|208,688||align=right|20,170||align=right|8,609||align=right|7,849||align=right|1,142||align=right|44,305
+|-
+| [[Querétaro]]|| align=right|'''290,977'''||align=right|192,622||align=right|39,629||align=right|10,585||align=right|3,768||align=right|8,670||align=right|170||align=right|13,849
+|-
+| [[Quintana Roo]]|| align=right|'''132,383'''||align=right|94,202||align=right|50,487||align=right|2,399||align=right|916||align=right|729||align=right|70||align=right|5,216
+|-
+| [[San Luis Potosí]]|| align=right|'''393,997'''||align=right|324,234||align=right|72,599||align=right|11,073||align=right|3,306||align=right|2,287||align=right|407||align=right|22,673
+|-
+| [[Sinaloa]]|| align=right|230,777||align=right|'''621,329'''||align=right|90,488||align=right|7,205||align=right|2,189||align=right|1,675||align=right|1,290||align=right|15,920
+|-
+| [[Sonora]]|| align=right|'''447,496'''||align=right|292,267||align=right|114,580||align=right|6,426||align=right|1,672||align=right|1,325||align=right|94||align=right|13,269
+|-
+| [[Tabasco]]|| align=right|174,840||align=right|'''269,519'''||align=right|213,983||align=right|5,817||align=right|2,599||align=right|1,732||align=right|655||align=right|14,036
+|-
+| [[Tamaulipas]]|| align=right|'''521,486'''||align=right|445,737||align=right|91,426||align=right|9,387||align=right|3,210||align=right|6,932||align=right|1,157||align=right|19,659
+|-
+| [[Tlaxcala]]|| align=right|123,880||align=right|'''127,163'''||align=right|82,073||align=right|5,185||align=right|2,508||align=right|1,450||align=right|53||align=right|6,639
+|-
+| [[Veracruz]]|| align=right|'''1,066,719'''||align=right|1,008,933||align=right|491,791||align=right|25,474||align=right|11,343||align=right|10,956||align=right|985||align=right|58,630
+|-
+| [[Yucatán]]|| align=right|'''328,503'''||align=right|321,392||align=right|27,214||align=right|4,258||align=right|1,344||align=right|987||align=right|602||align=right|13,127
+|-
+| [[Zacatecas]]|| align=right|169,837||align=right|'''197,336'''||align=right|117,375||align=right|6,277||align=right|2,908||align=right|1,993||align=right|439||align=right|12,461
+|-
+|style="background: #FFFFFF" align="center"|'''Total'''|| style="background: #FFFFFF" align="right"|'''15,989,636'''||style="background: #FFFFFF" align=right|13,579,718||style="background: #FFFFFF" align=right|6,256,780||style="background: #FFFFFF" align=right|592,381||style="background: #FFFFFF" align=right|206,589||style="background: #FFFFFF" align=right|156,896||style="background: #FFFFFF" align=right|31,461||style="background: #FFFFFF" align=right|788,157
+|}
+
+==Congress of the Union==
+===Senate===
+{| class=wikitable style=text-align:right
+!rowspan=2|Party
+!colspan=2|Constituency
+!colspan=2|[[Proportional representation|PR]]
+!rowspan=2|Seats
+!rowspan=2|+/-
+|-
+!Votes
+!%
+!Votes
+!%
+|-
+|align=left|[[Alliance for Change (Mexico)|Alliance for Change]]||14,208,973||38.1||14,339,963||38.2||60||-17
+|-
+|align=left|[[Institutional Revolutionary Party]]||13,699,799||36.7||13,755,787||36.7||51||+17
+|-
+|align=left|[[Alliance for Mexico]]||7,027,944||18.9||7,027,994||18.8||16||-1
+|-
+|align=left|[[Social Democracy (Mexico)|Social Democracy]]||669,725||1.8||676,388||1.8||0||New
+|-
+|align=left|[[Democratic Central Party]]||521,178||1.4||523,569||1.4||1||New
+|-
+|align=left|[[Authentic Party of the Mexican Revolution]]||275,051||0.7||276,109||0.7||0||New
+|-
+|align=left|Non-registered candidates||31,079||0.1||30,892||0.1||0||–
+|-
+|align=left|Invalid/blank votes||852,106||–||854,459||–||–||–
+|-
+|align=left|'''Total'''||'''37,285,855'''||'''100'''||'''37,534,641'''||'''100'''||'''128'''||'''0'''
+|-
+|align=left colspan=7|Source: Nohlen
+|}
+
+===Chamber of Deputies===
+{| class=wikitable style=text-align:right
+!rowspan=2|Party
+!colspan=2|Constituency
+!colspan=2|[[Proportional representation|PR]]
+!rowspan=2|Seats
+!rowspan=2|+/-
+|-
+!Votes
+!%
+!Votes
+!%
+|-
+|align=left|[[Alliance for Change (Mexico)|Alliance for Change]]||14,212,476||38.2||14,323,649||38.2||224||+95
+|-
+|align=left|[[Institutional Revolutionary Party]]||13,720,453||36.9||13,800,306||36.9||207||-31
+|-
+|align=left|[[Alliance for Mexico]]||6,948,204||18.7||6,990,143||18.7||67||-67
+|-
+|align=left|[[Social Democracy (Mexico)|Social Democracy]]||698,683||1.9||703,532||1.9||0||New
+|-
+|align=left|[[Democratic Central Party]]||428,577||1.2||430,812||1.2||0||New
+|-
+|align=left|[[Authentic Party of the Mexican Revolution]]||272,425||0.7||273,615||0.7||0||New
+|-
+|align=left|Other parties||30,380||0.1||30,452||0.1||0||–
+|-
+|align=left|Independents||-||-||-||-||2||New
+|-
+|align=left|Invalid/blank votes||863,262||–||868,516||–||–||–
+|-
+|align=left|'''Total'''||'''37,174,460'''||'''100'''||'''37,421,025'''||'''100'''||'''500'''||'''0'''
+|-
+|align=left colspan=7|Source: Nohlen
+|}
+
+==References==
+{{reflist}}
+
+{{Mexican elections}}
+
+[[Category:2000 elections in Mexico]]
+[[Category:Presidential elections in Mexico|2000]]

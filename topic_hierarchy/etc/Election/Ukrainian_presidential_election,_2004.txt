@@ -1,0 +1,336 @@
+{{Infobox Election
+| election_name      = Ukrainian presidential election, 2004
+| country            = Ukraine
+| type               = presidential
+| ongoing            = no
+| previous_election  = Ukrainian presidential election, 1999
+| previous_year      = 1999
+| next_election      = Ukrainian presidential election, 2010
+| next_year          = 2010
+| election_date      = October 31, November 21, December 26, 2004
+| image1             = [[File:Wiktor Juschtschenko, Präsident der Ukraine, in der Universität Zürich.jpg|140px|Viktor Yushchenko]]
+| nominee1           = '''[[Viktor Yushchenko]]'''
+| party1             = Independent (politician)
+| popular_vote1      = '''15,115,712'''
+| percentage1        = 51.99%
+| image2             = [[File:Viktor Yanukovych (2011).jpg|120px|Viktor Yanukovych]]
+| nominee2           = [[Viktor Yanukovych]]
+| party2             = Party of Regions
+| popular_vote2      = 12,848,528
+| percentage2        = 44.20%
+| map_image          = Ukraine Presidential Dec 2004 Vote (Highest vote)a.png
+| map_size           = 275px
+| map_caption        = Results of the December 26, 2004 repeated run-off presidential election. <span style="color:#FF8C00;">Orange</span> and <span style="color:blue;">Blue</span> denotes regions where Yushchenko and Yanukoych respectively were the highest polling candidates.
+| title              = President
+| before_election    = [[Leonid Kuchma]]
+| before_color       = Grey
+| after_election     = [[Viktor Yushchenko]]
+| before_color       = #FF8C00
+| before_party       = Nonpartisan
+| after_party        = Nonpartisan
+}}
+{{Politics of Ukraine}}
+
+The '''Ukrainian presidential election, 2004''' was held on October 31, November 21 and December 26, 2004. The election was the fourth [[President of Ukraine|presidential]] election to take place in [[Ukraine]] following independence from the [[Soviet Union]]. The last stages of the election was contested between the [[Our Ukraine (political party)|opposition leader]] [[Viktor Yushchenko]] and the incumbent [[Prime Minister of Ukraine|Prime Minister]] [[Viktor Yanukovych]] from the [[Party of Regions]]. The election was held in a highly charged political atmosphere, with allegations of media bias, [[voter intimidation]] and a poisoning of candidate Yushchenko with [[Polychlorinated dibenzodioxins|dioxin]].<ref>{{en icon}} [http://www.kyivpost.com/news/nation/detail/51514/ Dead End], [[Kyiv Post]] (October 29, 2009)</ref>
+
+According to Ukraine's electoral law, a [[two-round system]] is used to elect the President in which a candidate must win a majority (50% or more) of all ballots cast. The first round of voting was held on October 31, 2004. As no candidate had 50% or more of the votes cast a run-off ballot between the two-highest polling candidates, Viktor Yushchenko and Viktor Yanukovych, was held on November 21. According to official [[Central Election Commission of Ukraine|Central Election Commission]] results announced on November 23, the run-off election was won by Viktor Yanukovych. The election results were challenged by Viktor Yushchenko and his supporters with many international observers claiming that the election was rigged.<ref name=CEforIP>[[Anders Åslund]] and [[Michael McFaul]] (January 2006). ''Revolution in Orange: The Origins of Ukraine's Democratic Breakthrough'', [[Carnegie Endowment for International Peace]], ISBN 0-87003-221-6</ref><ref name=Wilson>Virtual Politics - Faking Democracy in the Post-Soviet World, [[Andrew Wilson (historian)|Andrew Wilson]], [[Yale University Press]], 2005, ISBN 0-300-09545-7</ref>
+
+The subsequent events led to a political crisis in Ukraine, with widespread peaceful protesters, dubbed the "[[Orange Revolution]]," calling for a re-run second round election. The [[Supreme Court of Ukraine|Ukrainian Supreme Court]] annulled the official run-off results and ordered a repeat of second round ballot.<ref name=CEforIP/><ref name=Wilson/>
+
+The final re-run ballot was held on December 26. Viktor Yushchenko was declared the winner with 52 percent of the vote to Yanukovych's 44 percent.
+
+International observers reported that the re-run ballot was considered overall fairer than the previous ballots.<ref name=CEforIP/><ref name=Wilson/>
+
+:''For a timeline of events that followed the runoff, see [[Post-election developments in Ukraine, 2004]].''
+
+==Candidates==
+All together 26 candidates had been nominated and participated in presidential elections.<ref>{{uk icon}} [http://www2.pravda.com.ua/news/2009/6/22/96993.htm Тіні технічних кандидатів], [[Ukrayinska Pravda]] (June 22, 2009)</ref>
+
+The two main contenders in the election were the incumbent Prime Minister and government-supported candidate [[Viktor Yanukovych]] and opposition leader [[Viktor Yushchenko]]. Viktor Yanukovych, who was the Prime Minister since 2002, was supported by the outgoing President [[Leonid Kuchma]], as well as by the [[Russia]]n government and then president [[Vladimir Putin]].<ref name=CEforIP/><ref name=Wilson/>
+
+Viktor Yushchenko was portrayed as being more [[pro-Western]] and had received support of the [[European Union]] states and the [[United States]].<ref name=CEforIP/><ref name=Wilson/><ref>[http://www.guardian.co.uk/world/2004/nov/26/ukraine.usa US campaign behind the turmoil in Kiev] by [[Ian Traynor]], [[The Guardian]] (November 26, 2004)</ref>
+
+==Summary==
+{{Ukrainian presidential election, 2004}}
+
+===Electoral Maps===
+{| class="wikitable"
+|-
+|+ Maps showing the top three Candidates support - percentage of total national vote  
+|-
+|[[File:Ukraine Presidential Oct 2004 Vote (Yushchenko).png|250px|center|Viktor Yushchenko (First round)]]
+|[[File:Ukraine Presidential Nov 2004 Vote (Yushchenko).png|250px|center|Viktor Yushchenko (Second round)]]
+|[[File:Ukraine Presidential Dec 2004 Vote (Yushchenko).png|250px|center|Viktor Yushchenko (Final round)]]
+|-
+|[[File:Ukraine Presidential Oct 2004 Vote (Yanukovych).png|250px|center|Viktor Yanukovych (First round)]]
+|[[File:Ukraine Presidential Nov 2004 Vote (Yanukovych).png|250px|center|Viktor Yanukovych (Second round)]]
+|[[File:Ukraine Presidential Dec 2004 Vote (Yanukovych).png|250px|center|Viktor Yanukovych (Final round)]]
+|-
+|[[File:Ukraine Presidential Oct 2004 Vote (Moroz).png|250px|center|Olexandr Moroz (First round) -]]
+|}
+
+==Preliminary vote==
+[[Image:Ukrainian election 2004 1 ubt.JPG|250px|thumb|First round voters in [[Kamianets-Podilskyi]] on October 31, 2004.]]
+[[Image:Ukraine Presidential Oct 2004 Vote (Yushchenko).png|250px|thumb|Viktor Yushchenko (First round) - percentage of total national vote]]
+[[Image:Ukraine Presidential Oct 2004 Vote (Yanukovych).png|250px|thumb|Viktor Yanukovych (First round) - percentage of total national vote]]
+[[Image:Ukraine Presidential Oct 2004 Vote (Moroz).png|250px|thumb|Olexandr Moroz (First round) - percentage of total national vote]]
+
+The preliminary ballot of the 2004 presidential election was held on October 31, 2004. The official results recorded Viktor Yushchenko with 39.87 percent and Victor Yanukovych 39.32 percent of the votes cast. As no candidate had secured 50% or more votes required for outright victory, a [[run-off election]] was scheduled for November 21. Although a 75 percent turnout was recorded in the initial vote, observers reported many irregularities, particularly in the regions where Yushchenko's support was seen to be strongest.<ref name=CEforIP/><ref name=Wilson/> It was unclear how much of an impact this had on the result.
+
+A total of 28,035,184 voters participated in the first round of voting. Results of the preliminary vote were as follows:
+
+{| class="wikitable"
+|- style="background:#ddd;"
+! align=left | candidate
+! align=left | nominated by
+! style="text-align:right;" | %
+! style="text-align:right;" | votes
+|-
+| [[Viktor Yushchenko]]
+| Independent
+| style="text-align:right;" | 39.90
+| style="text-align:right;" | 11,118,675
+|-
+| [[Viktor Yanukovych]]
+| [[Party of Regions]]
+| style="text-align:right;" | 39.26
+| style="text-align:right;" | 11,008,731
+|-
+| [[Oleksandr Moroz]]
+| [[Socialist Party of Ukraine]]
+| style="text-align:right;" | 5.82
+| style="text-align:right;" | 1,632,098
+|-
+| [[Petro Symonenko]]
+| [[Communist Party of Ukraine]]
+| style="text-align:right;" | 4.97
+| style="text-align:right;" | 1,396,135
+|-
+| [[Nataliya Vitrenko]]
+| [[Progressive Socialist Party of Ukraine]]
+| style="text-align:right;" | 1.53
+| style="text-align:right;" | 429,794
+|-
+| [[Anatoliy Kinakh]]
+| [[Party of Industrialists and Entrepreneurs of Ukraine]]
+| style="text-align:right;" | 0.93
+| style="text-align:right;" | 262,530
+|-
+| [[Oleksander Mykolayovych Yakovenko|Oleksandr Yakovenko]]
+| [[Communist Party of Workers and Peasants]]
+| style="text-align:right;" | 0.78
+| style="text-align:right;" | 219,191
+|-
+| [[Oleksandr Omelchenko]]
+| [[Unity Party (Ukraine)|Unity Party]]
+| style="text-align:right;" | 0.48
+| style="text-align:right;" | 136,830
+|-
+| [[Leonid Chernovetsky]]
+| self-nominated
+| style="text-align:right;" | 0.45
+| style="text-align:right;" | 129,066
+|-
+| [[Dmytro Korchynskyy]]
+| self-nominated
+| style="text-align:right;" | 0.17
+| style="text-align:right;" | 49,961
+|-
+| [[Andriy Chornovil]]
+| self-nominated
+| style="text-align:right;" | 0.12
+| style="text-align:right;" | 36,278
+|-
+| [[Mykola Hrabar]]
+| self-nominated
+| style="text-align:right;" | 0.07
+| style="text-align:right;" | 19,657
+|-
+| [[Mykhaylo Brodskyy]]
+| self-nominated
+| style="text-align:right;" | 0.05
+| style="text-align:right;" | 16,498
+|-
+| [[Yuriy Zbitnyev]]
+| [[New Power Party]]
+| style="text-align:right;" | 0.05
+| style="text-align:right;" | 16,321
+|-
+| [[Serhiy Komisarenko]]
+| self-nominated
+| style="text-align:right;" | 0.04
+| style="text-align:right;" | 13,754
+|-
+| [[Vasyl Volha]]
+| non-governmental organization "[[Public Control]]"
+| style="text-align:right;" | 0.04
+| style="text-align:right;" | 12,956
+|-
+| [[Bohdan Boyko]]
+| [[People's Movement of Ukraine for Unity]]
+| style="text-align:right;" | 0.04
+| style="text-align:right;" | 12,793
+|-
+| [[Oleksandr Rzhavskyy]]
+| [[United Family Party]]
+| style="text-align:right;" | 0.03
+| style="text-align:right;" | 10,714
+|-
+| [[Mykola Rohozhynskyy]]
+| self-nominated
+| style="text-align:right;" | 0.03
+| style="text-align:right;" | 10,289
+|-
+| [[Vladyslav Kryvobokov]]
+| [[People's Party of Depositors and Social Protection]]
+| style="text-align:right;" | 0.03
+| style="text-align:right;" | 9,340
+|-
+| [[Oleksandr Bazylyuk]]
+| [[Slavic Party of Ukraine]]
+| style="text-align:right;" | 0.03
+| style="text-align:right;" | 8,963
+|-
+| [[Ihor Dushyn]]
+| [[Liberal Democratic Party of Ukraine]]
+| style="text-align:right;" | 0.03
+| style="text-align:right;" | 8,623
+|-
+| [[Roman Mykolayovych Kozak|Roman Kozak]]
+| [[Organization of Ukrainian Nationalists]] in Ukraine
+| style="text-align:right;" | 0.02
+| style="text-align:right;" | 8,410
+|-
+| [[Volodymyr Nechyporuk]]
+| self-nominated
+| style="text-align:right;" | 0.02
+| style="text-align:right;" | 6,171
+|-
+| [[Hryhoriy Chernysh]]
+| [[Party of Rehabilitation of Infirm People]]
+| style="text-align:right;" | 
+| style="text-align:right;" | withdrew
+|-
+| [[Vitaliy Kononov]]
+| [[Party of Greens of Ukraine]]
+| style="text-align:right;" | 
+| style="text-align:right;" | withdrew
+|-
+|colspan="2" |Against All
+|style="text-align:right;" |1.98
+|style="text-align:right;" |556,962
+|-
+|colspan="2" |Informal
+|style="text-align:right;" |2.97
+|style="text-align:right;" |834,426
+|-
+|colspan="2" |Total
+|style="text-align:right;" |100.00
+|style="text-align:right;" |28,035,184
+|-
+|colspan="2" |Participation rate from 37,613,022
+|style="text-align:right;" |74.54
+|style="text-align:right;" |
+|}
+
+==Run-off==
+[[Image:Ukraine Presidential Nov 2004 Vote (Yushchenko).png|250px|thumb|Viktor Yushchenko (Second round) - percentage of total national vote]]
+[[Image:Ukraine Presidential Nov 2004 Vote (Yanukovych).png|250px|thumb|Viktor Yanukovych (Second round) - percentage of total national vote]]
+
+Following the November 21 run-off ballot, Ukraine's electoral commission declared Prime Minister Viktor Yanukovych with 49.42% of the vote the winner with Viktor Yushchenko receiving 46.69% of the ballots cast.<ref>http://www.cvk.gov.ua/postanovy/2004/p1265_2004_d.htm</ref> [[Observers for the Organization for Security and Cooperation in Europe]] (OSCE) said the run-off vote "did not meet international standards" and U.S. senior election observer, Senator [[Richard Lugar]], called it a "concerted and forceful program of election day fraud". 
+
+The geographic distribution of the votes showed a clear east-west division of Ukraine, which is rooted deeply in the [[History of Ukraine|country's history]]. The western and central parts roughly correspond with the former territories of the [[Polish-Lithuanian Commonwealth]] in the 17th century. They are considered more pro-Western, with the population mostly [[Ukrainian language|Ukrainian]]-speaking and [[Ukrainian Greek Catholic]] (Uniate) in the west or [[Ukrainian Orthodox]] in the center, and have voted predominantly for Yushchenko. The heavy-industrialized eastern part, including the [[Crimea|Autonomous Republic of Crimea]], where the links with [[Russia]] and the [[Russian Orthodox Church]] are much stronger, and which contains many ethnic Russians, is a Yanukovych stronghold.
+
+Between the two rounds of the election, dramatic increases in turnout were recorded in Yanukovych-supporting regions, while Yushchenko-supporting regions recorded the same turnout or lower than recorded in the first round. This effect was most marked in eastern Ukraine and especially in Yanukovych's stronghold of [[Donetsk Oblast]], where a turnout of 98.5% was reportedly claimed&mdash;more than 40% up from the first round.<ref name=CEforIP/><ref name=Wilson/> In some districts, turnout was recorded to be more than 100% than the previous ballot, with one district reported by observers to have recorded a 127% turnout.<ref name=CEforIP/><ref name=Wilson/> According to election observers and post-election investigations, pro-Yanukovych activists traveled around the country and voted many times as absentees.<ref name=CEforIP/><ref name=Wilson/> Some groups dependent on government assistance, such as students, hospital patients and prisoners, were told to vote for the government candidate.<ref>[http://www.smh.com.au/news/World/Invisible-ink-how-they-rigged-the-vote/2004/12/02/1101923247133.html Invisible ink: how they rigged the vote], [[The Sydney Morning Herald]] (December 2, 2004)</ref>
+
+Many other alleged irregularities were reported, including [[ballot stuffing]], intimidation at voting booths and huge numbers of new voters appearing on the electoral rolls&mdash;in [[Donetsk]] alone, half a million more voters were registered for the runoff election. Yanukovych won all but one of the regions where significant increases in turnout were noted. It was later determined by the [[Supreme Court of Ukraine|Ukrainian Supreme Court]] that this was in fact due to widespread falsification of the results.<ref name=CEforIP/><ref name=Wilson/>
+
+==International influence and reaction==
+
+Many commentators saw the elections as being influenced by outside powers, notably the [[United States]], the [[European Union]] and [[Russia]], with the US backing Yushchenko ([[United States Secretary of State|Secretary of State]] [[Henry Kissinger]], former [[National Security Advisor (United States)|National Security Advisor]] [[Zbigniew Brzezinski]] and [[United States Senate|Senator]] [[John McCain]] all visited Kiev, in official or private capacities), and Russian president [[Vladimir Putin]] publicly backing Yanukovych. In the media the two candidates were contrasted, with Yushchenko representing both the pro-Western [[Kiev]] residents as well as the rural Ukrainians, whereas Yanukovych represents the Eastern, pro-Russian industrial laborers.<ref name=CEforIP/><ref name=Wilson/>
+
+More specifically it was considered that a Yushchenko victory would represent a halt of Ukraine's integration with the rest of the [[Commonwealth of Independent States]], and possibly a cancellation of the [[Eurasian Economic Community#Common Economic Space|Common Economic Space]] between Russia, Ukraine, [[Belarus]] and [[Kazakhstan]] that had already been agreed to by the Ukrainian parliament; he would instead be likely to increase attempts at further integration with Europe and a possible membership in the EU and NATO. Viktor Yanukovych had promised to make Russian an official language for Ukraine, as is also the case in other CIS member states Belarus, Kazakhstan and [[Kyrgyzstan]].
+
+===European Union===
+[[Image:Ukrainian Round Table 2004.jpg|thumb|225px|Round table talks with Ukrainian and foreign representatives during the [[Orange Revolution]] on December 1 in [[Kiev]].]]
+
+The [[European Union]] made it clear that they would not recognize the results of the election. All 25 member countries of the EU summoned their ambassadors from Ukraine in order to register a sharp protest against what is seen as election fraud.<ref>[http://www.europarl.europa.eu/sides/getDoc.do;jsessionid=335ED3B0E938A20E30BDED4B98B2B687.node1?pubRef=-//EP//TEXT+TA+P6-TA-2004-0046+0+DOC+XML+V0//EN European Parliament resolution on the forthcoming presidential elections in Ukraine], [[The European Parliament]] (October 28, 2004)</ref>
+
+The [[European Union]] disputed the election process in Ukraine, with [[European Commission]] [[President of the European Commission|President]] [[José Manuel Barroso]] warning of consequences if there is no review of the election. During a meeting between Putin and EU officials in [[the Hague]], the Russian president opposed the EU reaction by saying that he was "deeply convinced that we have no moral right to push a big European state to any kind of massive disorder."
+
+Among EU member states, Ukraine's western neighbors were most concerned. In [[Poland]], Ukraine's largest western neighbor, politicians, the media and ordinary citizens enthusiastically supported Yushchenko and opposed the election fraud. Polish deputies to the [[European Parliament]] have called for giving Ukraine the prospect of future EU membership provided the country obeyed democratic standards. Western EU members are however more reluctant with the idea of Ukrainian membership in the EU, which results in Polish media accusing them of being more interested in the integration process with [[Turkey]] and maintaining good relations with Russia.
+
+On November 25, former Ukrainian foreign minister and a close collaborator of Yushchenko, [[Borys Tarasyuk]] delivered a speech before the Polish [[Sejm]], urging Poland not to recognize the election result and help solve the political crisis. On the same day former Polish President [[Lech Wałęsa]] went to Kiev to publicly express his support for Viktor Yushchenko. He was later followed by a number of Polish MPs from different parties.
+
+On November 26 the [[President of Poland]] [[Aleksander Kwaśniewski]] arrived in Kiev, followed on the same day by the [[Union Minister for Foreign Affairs|EU Minister for Foreign Affairs]] [[Javier Solana]] and the Lithuanian president [[Valdas Adamkus]].
+
+===United States===
+
+The [[United States government]] also decided not to recognize the election, and expressed dissatisfaction with the results; the outgoing [[United States Secretary of State|US Secretary of State]], [[Colin Powell]], quite unequivocally stated that the result announced could not be accepted as legitimate by the [[United States]]. [[President of the United States|President]] [[George W. Bush]] and various members of [[United States Congress|Congress]] made statements disclosing their concern over the legitimacy of the polling. Prominent former [[Cold War]] hawk [[Zbigniew Brzezinski]] cast the election as an opposition to renewed [[Imperial Russia|Russian imperialism]]:
+
+{{cquote|Russia is more likely to make a break with its imperial past if the newly independent post-Soviet states are vital and stable. Their vitality will temper any residual Russian imperial temptations. Political and economic support for the new states must be an integral part of a broader strategy for integrating Russia into a cooperative transcontinental system. A [[Sovereignty|sovereign]] Ukraine is a critically important component of such a policy, as is support for such strategically pivotal states as [[Azerbaijan]] and [[Uzbekistan]].<ref>[http://www.comw.org/pda/fulltext/9709brzezinski.html A geostrategy for Eurasia by Zbigniew Brzezinski<!-- Bot generated title -->]</ref>}}
+
+U.S. Senators [[John McCain]] and [[Hillary Clinton]] jointly wrote a letter nominating Victor Yushchenko along with Georgian President [[Mikhail Saakashvili]] for the [[Nobel Peace Prize]]. The nomination was unsuccessful.<ref>[http://www.voanews.com/english/archive/2005-02/McCain-intvu-4Feb2005.cfm?renderforprint=1&textonly=1&&TEXTMODE=1&CFID=325983691&CFTOKEN=32206922&jsessionid=de308c70569d672ad4905073587111252664 Senator McCain Tells Ukrainians of Nobel Nomination for Yushchenko], [[Voice of America]] (February 5, 2005)</ref><ref>[http://nobelprize.org/nobel_prizes/peace/laureates/2005/ The Nobel Peace Prize 2005], [[Nobel Foundation]]</ref>
+[[Image:Ukraine Presidential Dec 2004 Vote (Yushchenko).png|250px|thumb|Viktor Yushchenko (Final round) - percentage of total national vote]]
+[[Image:Ukraine Presidential Dec 2004 Vote (Yanukovych).png|250px|thumb|Viktor Yanukovych (Final round) - percentage of total national vote]]
+
+===Russia and the CIS===
+
+Russia's President, Vladimir Putin congratulated Viktor Yanukovych, which was followed shortly afterward by [[Belarus|Belorussian]] president [[Alexander Lukashenko]], on his victory before election results were officially declared.<ref>[http://www.kvali.com/kvali/index.asp?obiektivi=show&n=195 Kvali Online Magazine]</ref> [[CIS election observation missions|CIS election observers]] praised the second round of the elections as "legitimate and of a nature that reflected democratic standards", a view in direct contradiction to other monitoring organizations such as the [[European Network of Election Monitoring Organizations|ENEMO]], the [[Committee of Voters of Ukraine]] and the [[International Election Observation Mission|IEOM]].<ref>[http://www.jamestown.org/publications_details.php?volume_id=401&issue_id=3151&article_id=2368899 The Jamestown Foundation<!-- Bot generated title -->]</ref>
+
+Prominent hardliners in Russia cast the election as opposition to renewed Western [[imperialism]]. [[Communist Party of the Russian Federation|Russian Communist Party]] leader [[Gennady Zyuganov]], for example, blames the West for interfering in the situation in Ukraine in the run-up to the October 31 presidential election:
+
+{{cquote|I have been in Kiev for a third day and I see for myself that the numerous actions of local opposition bear the earmarks of those groups that at different times tried to destabilize Prague, Budapest and Bucharest — the earmarks of U.S. special services.}}
+
+On November 28, [[Yuriy Luzhkov]], the Mayor of Moscow, gave a speech denouncing the Ukrainian opposition, calling its members a "sabbath of witches" pretending to "represent the whole of the nation."<ref>[http://www.nytimes.com/2004/11/28/international/europe/28cnd-ukraine.html?ex=1102309200&en=ff2c4369fabe9ed3&ei=5040&partner=MOREOVER The New York Times International > Europe > Supporters of President-Elect in Ukraine Push Back<!-- Bot generated title -->]</ref> Russian newspapers have printed increasingly shrill warnings,<ref name=CEforIP/><ref name=Wilson/> with the Communist party paper ''[[Pravda]]'' claiming: "NATO troops in Hungary and Poland are preparing to move, and Romanian and Slovakian military units have been put on alert. Ukrainian towns are in their sights."<ref>[http://news.bbc.co.uk/2/hi/europe/4061315.stm Press elation and alarm at Ukraine events], [[BBC News]] (December 2, 2004)</ref>
+
+Several other CIS countries lined up with Russia in supporting Yanukovych. [[Belarus]]ian President [[Alexander Lukashenko]] phoned Yanukovych to offer his own congratulations before the results had been officially declared. [[Kazakhstan]]'s President [[Nursultan Nazarbayev]] wrote to Yanukovych that "Your victory shows that the Ukrainian people have made a choice in favour of the unity of the nation, of democratic development and economic progress."<ref name=ExSovietStates/> The presidents of [[Kyrgyzstan]] ([[Askar Akayev]]) and of [[Uzbekistan]] ([[Islam Karimov]]) likewise sent their congratulations. However, later Karimov criticized Russia's involvement in the Ukrainian election, saying that "Russia’s excessive demonstration of its willingness to see a certain outcome in the vote has done more harm than good."<ref>[http://www.mosnews.com/news/2004/12/02/karimov.shtml Mosnews.com<!-- Bot generated title -->]</ref>
+
+In contrast, the [[Georgia (country)|Georgian]] president [[Mikhail Saakashvili]] indicated his support for the supporters of Yushchenko, saying that "What is happening in Ukraine today clearly attests to the importance of Georgia's example for the rest of the world."<ref>[http://news.bbc.co.uk/2/hi/europe/4047661.stm BBC NEWS | Europe | Ex-Soviet bloc states mull election<!-- Bot generated title -->]</ref> This was a reference to the [[Rose Revolution]] of late 2003. Indeed, Georgians have been highly visible in the demonstrations in Kiev and the [[flag of Georgia (country)|flag of Georgia]] has been among those on display in the city's Independence Square, while Yushchenko himself held up a rose in a seeming reference to the Rose Revolution. [[Moldova's Foreign Ministry]] issued a statement late November 2004 that stated "basic democratic principles were distorted" and expressed regret that the poll "lacked the objective criteria necessary for their recognition by both the citizens of Ukraine and the international community".<ref name=ExSovietStates/>
+
+[[Armenia]] and [[Azerbaijan]] kept more cautious positions, supporting neither side but stressing the need for Ukrainian unity.<ref name=ExSovietStates>[http://news.bbc.co.uk/2/hi/europe/4047661.stm Ex-Soviet bloc states mull election ], [[BBC News]] (November 27, 2004)</ref>
+
+On December 2, one day before the Supreme Court ruled in favor of a repeat runoff ballot, President Kuchma visited Moscow to discuss the crisis with Russia's President Vladimir Putin. Putin supported Kuchma's position of desiring wholly new elections, rather than just a repeat of the second round.<ref name=CEforIP/><ref name=Wilson/>
+
+==Re-run==
+The final results of the rerun ballot recorded Viktor Yushchenko receiving 52.00% of the votes, with Viktor Yanukovych on 44.19% which represented a change in the vote by +5.39% to Yushchenko and -5.27% from Yanukovych. 
+
+Viktor Yanukovych conceded defeat on December 31, 2004 and subsequently resigned as Ukraine's Prime Minister the same day. Despite Yushchenko's victory in the second round of voting, the regional voting patterns remained largely unchanged between each round, with many southern and eastern provinces supporting Yanukovych, with the west and central regions favoring Yushchenko.
+
+Ukraine's supreme court rejected an appeal lodged by Viktor Yanukovych against the electoral commission's conduct of the election on January 6. 
+
+On January 10 the Ukrainian Electoral Commission officially declared Viktor Yushchenko the winner and on January 11 published the final election results,<ref>[http://www.cvk.gov.ua/postanovy/2005/p0015_2005.htm Постанова ЦВК від 10 січня 2005 року №15<!-- Bot generated title -->]</ref> clearing the way for Yushchenko to be inaugurated as Ukraine's fifth President. The official ceremonies took place on Sunday, January 23 at about noon, when Yushchenko undertook the constitutional oath was sworn in as President.
+
+In November 2009 Yanukovych stated that although his victory in the elections was "taken away" he gave up this victory in order to avoid bloodshed. "I didn't want mothers to lose their children and wives their husbands. I didn't want dead bodies from [[Kyiv]] to flow down the [[Dnieper River|Dnipro]]. I didn't want to assume power through bloodshed."<ref>[http://www.interfax.com.ua/eng/main/26340/ Yanukovych says presidential election scenario of 2004 won't be repeated in 2010], [[Interfax-Ukraine]] (November 27, 2009)</ref>
+
+==Aftermath==
+Despite alleged convincing evidence pointing to high-level involvement in the [[Leonid Kuchma|Kuchma]] administration and the [[Central Election Commission of Ukraine]]<ref>[http://books.google.nl/books?id=zWAEAAAAMBAJ&pg=PT20&dq=evidence+fraud+Ukraine&lr=&cd=7#v=onepage&q=evidence%20fraud%20Ukraine&f=false The Orange Revolution] by [[Taras Kuzio]], [[Democracy at Large]], [[ISSN]] 1552-9606, volume 1/number 2, 2005 (page 9)</ref> no criminal election fraud charges have been filed against any top officials. The prosecutor general did arrest several public figures on charges of election fraud in the first half of 2005, but no high-profile case was bought to court.<ref name=CoEar/> On 23 September 2005 Yushchenko announced a pact with the [[Party of Regions]] in which he promised to look into an amnesty for those convicted of vote rigging during the 2004 Ukrainian presidential elections.<ref name=CoEar>[http://books.google.nl/books?id=ebjEVjJ-DcAC&pg=PA580&dq=Borys+Kolesnykov&cd=2#v=onepage&q=Borys%20Kolesnykov&f=false Countries at the crossroads: a survey of democratic governance] by Sanja Tatic & Christopher Walker, [[Rowman & Littlefield Publishers]], 2006, ISBN 978-0-7425-5801-4 (page 580)</ref><ref>[http://www.rferl.org/content/article/1342327.html Corruption Watch: October 3, 2005], [[Radio Free Europe/Radio Liberty]] (October 3, 2005)</ref> One of the top election-fraud suspects, former CEC head Serhiy Kivalov, is a [[Party of Regions]] deputy who heads the [[Ukrainian Parliament]]’s Judiciary Committee.<ref>[http://www.kyivpost.com/news/nation/detail/54839/ Nation’s law enforcers have dismal track record], [[Kyiv Post]] (December 11, 2009)</ref>
+
+During the [[Ukrainian presidential election, 2010|2010 presidential election]]-campaign [[Viktor Yanukovych]] pledged to prevent electoral fraud during those elections: "We will properly respond to all provocations and attempts to fake election results”.<ref>[http://en.rian.ru/exsoviet/20091223/157329746.html Opposition leader pledges to prevent fraud at Ukraine election], [[RIA Novosti]] (December 23, 2009)</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons|Ukrainian presidential election, 2004}}
+<div class="references-small">
+* [http://www.cvk.gov.ua/postanovy/2005/p0015_2005.htm Central Election Commission of Ukraine] — Resolution on official final results {{uk icon}}
+*[http://vasylchenko.in.ua Serhiy Vasylchenko: Electoral Geography of Ukraine 1991 - 2010]
+* [http://www2.europarl.eu.int/omk/sipade2?SAME_LEVEL=1&LEVEL=4&NAV=S&LSTDOC=Y&DETAIL=&PUBREF=-//EP//TEXT+TA+P6-TA-2004-0046+0+DOC+XML+V0//EN European Parliament resolution]
+* [http://www.csmonitor.com/2004/1123/p05s01-woeu.html Christian Science Monitor: One election, two Viktors]
+* [http://www.pinr.com/report.php?ac=view_report&report_id=236 PINR - Ukrainian Presidential Elections: To East or West?]
+* [http://www.skubi.net/ukraine/ A description of the procedure by an international observer]
+* [http://www.skrobach.com/ukrel041.htm Complete 2004 Election Results]
+</div>
+
+{{2004 presidential election candidates, Ukraine}}
+{{Ukrainian Elections}}
+{{Presidency of Ukraine}}
+
+{{DEFAULTSORT:Ukrainian Presidential Election, 2004}}
+[[Category:Presidential elections in Ukraine|2004]]
+[[Category:2004 elections in Ukraine|Presidential election]]
+[[Category:Corruption in Ukraine]]
+[[Category:Political corruption]]
+[[Category:Electoral fraud]]
+[[Category:Orange Revolution]]

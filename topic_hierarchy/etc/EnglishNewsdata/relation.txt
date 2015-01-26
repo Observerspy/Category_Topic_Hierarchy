@@ -1,0 +1,720 @@
+relation:
+police -AND- emergency management: 1
+long-term recovery -AND- root: 1
+signs and warnings -AND- tsunami characteristics: 1
+aftermath and relief efforts -AND- root: 1
+previous quakes -AND- root: 1
+other effects -AND- humanitarian, economic and environmental impact: 1
+effect on disaster prevention planning -AND- other effects: 1
+rescue efforts -AND- root: 4
+tsunami -AND- geology: 1
+link to eruption of etna -AND- root: 1
+reported portents -AND- root: 1
+20 may earthquake -AND- root: 1
+predicted earthquake hazard -AND- root: 1
+main earthquake -AND- root: 1
+mexico -AND- impact: 1
+other structures -AND- memorable sites: 1
+first anniversary -AND- root: 1
+later casualties -AND- casualties: 1
+immediate aftermath -AND- root: 1
+aftershock -AND- geology: 1
+oil, gas and coal -AND- damage and effects: 1
+magnitude and geology -AND- root: 1
+death toll and damage to buildings -AND- root: 1
+international response -AND- efforts: 1
+health -AND- effects: 1
+san francisco – oakland bay bridge -AND- damage: 1
+nasl and misl indoor soccer -AND- year-by-year: 1
+casualties, damage, and other effects -AND- root: 1
+energy released -AND- earthquake characteristics: 1
+focal mechanisms -AND- root: 1
+baoxing -AND- effects: 1
+united states -AND- effect: 1
+implementation -AND- root: 1
+planning -AND- reconstruction: 1
+casualties and infrastructure damage -AND- root: 1
+similar megathrust earthquakes -AND- root: 1
+memorable sites -AND- root: 1
+building damage in the city -AND- damage from the earthquake: 1
+nepal -AND- impact: 1
+radio and television affected -AND- root: 1
+aid and reconstruction -AND- root: 1
+criticism of iranian government response -AND- reaction: 1
+patterns of damage -AND- root: 1
+geology -AND- earthquake: 2
+description -AND- geology: 1
+damage outside cheviot -AND- root: 1
+jianchuan mirror museum & wenchuan earthquake memorial -AND- root: 1
+february 6 -AND- the events: 1
+india -AND- rescue operations and compensation: 1
+threat -AND- root: 1
+international assistance and insurance payments -AND- root: 1
+international aid -AND- response: 1
+characteristics -AND- root: 45
+housing -AND- recovery: 1
+international aid -AND- root: 1
+february 7 -AND- the events: 1
+bangladesh -AND- impact: 1
+post-earthquake development -AND- root: 1
+stress triggering -AND- root: 1
+blackouts -AND- damage: 1
+mandatory palestine -AND- damage and casualties: 1
+commission of inquiry -AND- response: 1
+tectonic plates -AND- earthquake characteristics: 1
+main shock -AND- root: 2
+long-term effects -AND- root: 1
+prior warning -AND- root: 1
+previous seismicity -AND- root: 1
+subsequent fires -AND- root: 1
+the four earthquakes -AND- the 1811–1812 earthquakes: 1
+public anger -AND- relief efforts: 1
+kashiwazaki-kariwa nuclear power plant incidents -AND- root: 1
+rebuilding -AND- root: 2
+canada -AND- death toll, damage, and casualties: 1
+aid response -AND- response: 2
+humanitarian, economic and environmental impact -AND- root: 1
+structural effects -AND- root: 1
+india -AND- impact: 1
+relocation and housing -AND- root: 1
+tectonic plate boundaries -AND- root: 1
+effect on businesses -AND- root: 1
+sport -AND- casualties, damage, and other effects: 1
+iranian earthquake education -AND- background: 1
+republic era (1930s–1940s) -AND- government reactions: 1
+seismology and geology -AND- root: 1
+stress-induced melting and shear thermal instability -AND- focal mechanisms: 1
+tsunami characteristics -AND- root: 1
+entertainment and sports affected -AND- root: 1
+legacy -AND- tsunami: 1
+march 28 -AND- the events: 1
+van norman dam -AND- damage: 1
+tsunami -AND- damage and casualties: 1
+memorial services -AND- response: 1
+the rest of the country -AND- mandatory palestine: 1
+international reaction -AND- root: 1
+general infrastructure -AND- damage to infrastructure: 1
+homeless camps -AND- effects: 1
+elsewhere in alaska -AND- death toll, damage, and casualties: 1
+films on the earthquake -AND- aftermath: 1
+historic examples -AND- root: 1
+precursors -AND- root: 1
+the red crescent -AND- preparedness and response: 1
+magnitude -AND- geology: 1
+aftershocks -AND- geology: 2
+ground effects -AND- earthquake: 2
+tsunami -AND- root: 24
+aftershocks and related quakes -AND- timeline: 1
+building code changes -AND- root: 1
+recording -AND- root: 1
+relief efforts -AND- root: 12
+building standards -AND- effects: 1
+historical context -AND- root: 2
+consequence of the 1811–12 earthquakes -AND- root: 1
+technical details -AND- root: 4
+suburbs -AND- casualties, damage, and other effects: 1
+reconstruction -AND- relief efforts and aftermath: 1
+electric power supply -AND- effects: 1
+regional seismicity -AND- root: 1
+divergent plate boundary -AND- tectonic plate boundaries: 1
+duration -AND- root: 1
+casualties -AND- the norcia earthquake: 1
+the controversial role of geng qingguo -AND- predictions, precursors, and postmortems: 1
+remarks -AND- root: 1
+future seismic hazard -AND- root: 5
+metro service -AND- infrastructure: 1
+economic recovery -AND- conditions in the aftermath: 1
+population with destroyed or severely damaged homes -AND- damage and casualties: 1
+the l'aquila earthquake -AND- root: 1
+magnitude -AND- effects: 1
+beyond christchurch -AND- casualties, damage, and other effects: 1
+hospital juárez -AND- memorable sites: 1
+intensities -AND- root: 1
+primary effects -AND- root: 1
+tribute and day of mourning -AND- response: 1
+community response -AND- political consequences: 1
+29 may earthquake -AND- root: 1
+collapse of schoolhouses -AND- root: 1
+northern taiwan -AND- damage: 1
+sequence of earthquakes -AND- earthquake details: 1
+magnitude and earth movement -AND- root: 1
+transform plate boundary -AND- tectonic plate boundaries: 1
+foreign reaction -AND- root: 1
+new england -AND- united states: 1
+previous events -AND- root: 1
+french polynesia -AND- root: 1
+cancellation of 2011 census -AND- root: 1
+the january 13 earthquake -AND- root: 1
+santa cruz and monterey counties -AND- damage: 1
+surface faulting -AND- earthquake: 1
+hospitals affected -AND- root: 1
+creation of emergency committee -AND- consequences and response: 1
+controversial statistics -AND- death toll: 1
+quake -AND- root: 2
+power and water supply -AND- effects: 1
+2004 event -AND- root: 1
+theories -AND- root: 1
+damage evaluation -AND- damage, casualties and effects: 1
+legislative changes -AND- root: 1
+role of monks and victims' rites -AND- response: 1
+international -AND- response: 3
+hong kong -AND- disruption in communications: 1
+elsewhere across the pacific -AND- tsunami: 1
+tsunami-related aid given -AND- tsunami: 1
+casualties -AND- the earthquake: 1
+damage -AND- the l'aquila earthquake: 1
+domestic reactions -AND- root: 1
+memory -AND- root: 1
+sri lanka -AND- tsunami warnings: 1
+the march 25 earthquake -AND- root: 1
+chaos and disorder -AND- conditions in the aftermath: 1
+relation to other major earthquakes -AND- root: 1
+possible causes -AND- root: 1
+japan self-defense forces -AND- response: 1
+critical reception -AND- root: 1
+timeline -AND- root: 2
+aftershocks -AND- earthquake: 12
+summary of earthquakes -AND- root: 2
+incidents -AND- damage: 1
+damage & casualties -AND- root: 1
+injuries and fatalities -AND- root: 1
+2011 -AND- status of the recovery: 1
+current situation -AND- root: 1
+technical data -AND- root: 4
+reconstruction -AND- root: 1
+day of mourning -AND- rescue efforts: 1
+prison escape -AND- conditions in the aftermath: 1
+earthquake prediction -AND- root: 1
+early response -AND- root: 1
+seismic movements and events before april 21 -AND- root: 1
+earthquake -AND- characteristics: 23
+hotel regis -AND- memorable sites: 1
+prediction -AND- root: 1
+internet video -AND- root: 1
+economic damage -AND- damage: 1
+political aftermath -AND- root: 1
+january 9 foreshock -AND- earthquake characteristics: 1
+2013 -AND- status of the recovery: 1
+telecommunications -AND- damage and effects: 1
+historical tōkai earthquakes -AND- root: 1
+vestiges -AND- root: 1
+outline -AND- root: 1
+geography -AND- root: 4
+loess caves -AND- root: 1
+relation to wenchuan earthquake -AND- earthquake details: 1
+casualties -AND- the l'aquila earthquake: 1
+valley fever outbreak -AND- root: 1
+tectonics and previous activity -AND- root: 1
+efforts -AND- root: 1
+emergency response -AND- root: 1
+year-by-year -AND- root: 1
+the earthquake itself -AND- root: 1
+responses -AND- root: 1
+future threats -AND- root: 5
+past events -AND- root: 2
+localised tsunami -AND- tsunami: 1
+surface rupture -AND- earthquake: 2
+list of major submarine earthquakes -AND- root: 1
+defence forces -AND- emergency management: 1
+era of disaster -AND- aftermath: 1
+damage and casualties -AND- root: 41
+eyewitness accounts -AND- the 1811–1812 earthquakes: 1
+1959 earthquake -AND- root: 1
+buildings affected -AND- casualties, damage, and other effects: 1
+list of aftershocks -AND- root: 2
+death toll, damage, and casualties -AND- root: 1
+certifications -AND- charts: 1
+damage -AND- root: 113
+relationship to the chile earthquake -AND- root: 1
+preparedness and response -AND- root: 1
+peak acceleration -AND- earthquake: 1
+honors -AND- root: 1
+natural gas emission -AND- root: 1
+damage and fatalities -AND- root: 1
+clean-up and reconstruction -AND- root: 1
+shaking -AND- damage: 1
+televisa studios -AND- memorable sites: 1
+disruption in communications -AND- root: 1
+consequences and response -AND- root: 1
+aftershocks -AND- root: 24
+economic impacts -AND- other effects: 1
+dams and water problems -AND- damage and effects: 1
+warning -AND- tsunami: 1
+prosecutions -AND- root: 1
+humanitarian response -AND- damage and casualties: 1
+preface -AND- root: 1
+track listing -AND- root: 1
+philippines -AND- disruption in communications: 1
+emirate of transjordan -AND- damage and casualties: 1
+human casualties -AND- effects: 1
+valdivia earthquake -AND- earthquake development: 1
+data -AND- tsunami: 1
+reaction -AND- root: 6
+other -AND- root: 1
+geological and structural engineering issues -AND- root: 1
+domestic -AND- reaction: 1
+mindanao -AND- casualties and infrastructure damage: 1
+other charity and fundraising activities -AND- response: 1
+works cited -AND- root: 1
+government response and aid -AND- response: 1
+aftershocks -AND- effects: 1
+virginia -AND- united states: 1
+aid from organizations -AND- response: 1
+9 november earthquake -AND- root: 1
+other effects -AND- root: 1
+olive view hospital -AND- damage: 1
+foreshocks and aftershocks -AND- root: 1
+washington, d.c. -AND- united states: 1
+japan -AND- tsunami: 1
+british hong kong -AND- root: 1
+ports -AND- damage and effects: 1
+recovery -AND- root: 3
+identified fatalities -AND- damage and casualties: 1
+postquake violence -AND- root: 1
+medical impact -AND- aftermath: 1
+earthquake and tsunami -AND- root: 1
+political consequences -AND- root: 1
+canada -AND- effect: 1
+head coaches -AND- root: 1
+reaction -AND- aftermath: 1
+geologic setting -AND- root: 1
+emergency and reconstruction aid -AND- root: 1
+quotes -AND- root: 1
+tectonics -AND- earthquake's results: 1
+fire and liquefaction -AND- damage: 1
+earthquake -AND- development: 1
+extent -AND- root: 3
+bhutan -AND- impact: 1
+damage in cities and the suburbs -AND- damage: 1
+wind power -AND- damage and effects: 1
+january 9 foreshock -AND- damage: 1
+post-quake analysis -AND- root: 1
+concepción earthquakes -AND- earthquake development: 1
+rise of drugs -AND- medical impact: 1
+personnel -AND- root: 1
+nuclear power plants -AND- damage and effects: 1
+list of shocks -AND- root: 1
+other events -AND- root: 5
+expressways and railways -AND- effects: 1
+tsunami -AND- earthquake: 2
+government data -AND- later casualties: 1
+localization of the damage -AND- damage from the earthquake: 1
+effects -AND- root: 16
+tectonics and background -AND- root: 2
+relief efforts and aftermath -AND- root: 2
+other visayas islands -AND- casualties and infrastructure damage: 1
+national effort -AND- efforts: 1
+other -AND- effects: 1
+conjunto pino suárez -AND- memorable sites: 1
+mainland china -AND- foreign and domestic aid: 1
+ground acceleration -AND- earthquake: 2
+causes of building collapse and public reaction -AND- damage: 1
+space center -AND- damage and effects: 1
+controversy on reconstruction and criminality -AND- root: 1
+nuclear blast -AND- earthquake: 1
+background and geology -AND- root: 1
+extent of tremors -AND- earthquake's results: 1
+death toll -AND- root: 1
+taiwan -AND- tsunami warning: 1
+damage and casualties by country -AND- root: 1
+jerusalem -AND- mandatory palestine: 1
+iran–united states relations -AND- response: 1
+relation to other earthquakes -AND- geology: 2
+impacts in valdivia -AND- consequences and response: 1
+air crash -AND- aftermath and relief efforts: 1
+dagupan city, pangasinan -AND- impact: 1
+foreign and domestic aid -AND- root: 1
+humanitarian and welfare -AND- emergency management: 1
+maryland, delaware, and west virginia -AND- united states: 1
+tsunami -AND- characteristics: 21
+first shock -AND- root: 1
+aftermath -AND- root: 59
+postponement of 2013 barangay elections in bohol -AND- other: 1
+other -AND- damage: 1
+the prepared qinglong county -AND- early warnings and predictions: 1
+showa bridge -AND- damage: 1
+memorials -AND- other effects: 1
+evidence of the earthquake -AND- root: 1
+zoo animal reactions -AND- root: 1
+2011 aftershocks -AND- seismology and geology: 1
+earthquake sequence -AND- root: 1
+damage to hospitals -AND- damage from the earthquake: 1
+landslides -AND- damage and casualties: 1
+media coverage -AND- root: 3
+tectonics -AND- root: 6
+cost -AND- root: 1
+disaster relief -AND- consequence of the 1811–12 earthquakes: 1
+footnotes -AND- root: 3
+mexico city's vulnerability to earthquakes -AND- root: 1
+earthquake details -AND- root: 2
+history -AND- root: 5
+future threat -AND- root: 1
+evacuations -AND- effects: 1
+intensities and damage area -AND- earthquake's results: 1
+success and benefits of redevelopment -AND- reconstruction: 1
+foreshock -AND- geology: 1
+problems of redevelopment -AND- reconstruction: 1
+casualties -AND- earthquake: 1
+background and tectonics -AND- root: 5
+geological origins -AND- root: 1
+reaction -AND- damage and casualties: 1
+consequences -AND- root: 1
+notable deep-focus earthquakes -AND- root: 1
+tonga -AND- root: 1
+natural disasters triggered -AND- root: 1
+mexico -AND- damage and casualties by country: 1
+communist era (1949–present) -AND- government reactions: 1
+statistics -AND- earthquake: 1
+geophysical impact -AND- seismology and geology: 1
+location, date and time -AND- root: 1
+landslide -AND- characteristics: 1
+humanitarian response -AND- root: 2
+emergency management -AND- root: 2
+marina district -AND- damage: 1
+epicenter -AND- root: 3
+artesian fountains -AND- root: 1
+damage, casualties and effects -AND- root: 1
+reconstruction -AND- aftermath: 2
+january 11 mainshock -AND- earthquake characteristics: 1
+fukushima meltdowns -AND- nuclear power plants: 1
+political -AND- response: 1
+weakening of the partido revolucionario institucional|pri -AND- political consequences: 1
+evacuation -AND- tsunami: 1
+history -AND- tsunami: 1
+damage and deaths -AND- root: 2
+link to eruption of mount fuji -AND- characteristics: 1
+inside taiwan -AND- reactions: 1
+relief and reconstruction efforts -AND- root: 1
+early warnings and predictions -AND- root: 1
+tsunami -AND- description: 1
+areas affected -AND- root: 1
+esteco -AND- root: 1
+radar imagery -AND- root: 1
+transportation infrastructure damage -AND- damage: 1
+government response -AND- political consequences: 1
+precursors and foreshocks -AND- timeline: 1
+u.s. army -AND- root: 1
+cabanatuan city -AND- impact: 1
+fundraising and charity events -AND- response: 1
+subsequent earthquakes -AND- aftershocks: 1
+tsunamis -AND- root: 1
+anchorage area -AND- death toll, damage, and casualties: 1
+origin -AND- root: 1
+list of countries that sent aid -AND- responses: 1
+frequency -AND- geology: 1
+the modern city -AND- root: 1
+fault zones within tectonic plates -AND- root: 1
+tsunami warning -AND- root: 1
+epicenter and seismology -AND- root: 1
+human toll in the city -AND- root: 1
+guatemala -AND- damage and casualties by country: 1
+disaster management -AND- root: 1
+manila -AND- root: 1
+lushan -AND- effects: 1
+local response -AND- response: 1
+schools -AND- damage: 1
+international response and aid -AND- response: 1
+2011 tōhoku earthquake and tsunami -AND- root: 1
+response -AND- root: 26
+aftershocks -AND- seismology and geology: 1
+tsunami warnings -AND- root: 2
+warnings -AND- root: 1
+recent developments -AND- root: 1
+rescue operations and compensation -AND- root: 1
+el salvador -AND- damage and casualties by country: 1
+the 1811–1812 earthquakes -AND- root: 1
+damage and effects -AND- root: 2
+influence -AND- root: 1
+aid agencies -AND- international aid: 1
+casualties, intensities, and damage areas -AND- root: 1
+bohol -AND- casualties and infrastructure damage: 1
+chon-aksu aksu rupture zone -AND- characteristics: 1
+repair work -AND- root: 1
+shantou -AND- root: 1
+significance -AND- root: 2
+sequence of shocks -AND- root: 1
+in popular culture -AND- root: 2
+mechanism of the earthquake -AND- root: 1
+postseismic moment release -AND- characteristics: 1
+conditions in the aftermath -AND- root: 2
+geographic information -AND- root: 1
+aftershocks -AND- earthquake details: 1
+damage in fukui city -AND- damage: 1
+background -AND- root: 24
+the march 3 earthquake -AND- root: 1
+economic impact -AND- root: 3
+previous events -AND- earthquake: 1
+political reaction -AND- root: 1
+event -AND- root: 2
+city of bam -AND- background: 1
+cultural properties -AND- damage and effects: 1
+effect on society and philosophy -AND- root: 1
+facts -AND- root: 2
+public reaction -AND- relief efforts and aftermath: 1
+aftershocks -AND- earthquake's results: 1
+popular culture -AND- root: 1
+damage and effects -AND- earthquake: 1
+north bohol fault -AND- geology: 1
+medical response -AND- emergency management: 1
+aid to kraljevo -AND- root: 1
+landslides -AND- characteristics: 4
+earthquake and damage -AND- root: 1
+assistance and reporting -AND- root: 1
+elsewhere -AND- death toll, damage, and casualties: 1
+damage and casualties by country -AND- damages and casualties: 1
+southern states -AND- united states: 1
+ishikawa prefecure -AND- response: 1
+the earthquake and volunteerism -AND- other effects: 1
+food scarcity -AND- conditions in the aftermath: 1
+aftershocks and other earthquakes -AND- earthquake characteristics: 1
+strong motion -AND- earthquake: 2
+status of the recovery -AND- recovery: 1
+north america -AND- tsunami: 1
+luminous phenomena -AND- effects: 1
+canterbury region long-term probabilities -AND- geology: 1
+background -AND- geology: 1
+description -AND- root: 4
+relief and reconstruction -AND- root: 1
+taiwan -AND- disruption in communications: 1
+january 11 mainshock -AND- damage: 1
+estimated casualties -AND- root: 1
+reactions of authorities -AND- root: 1
+cause -AND- root: 11
+damage -AND- earthquake: 17
+earthquake activity -AND- tectonics: 1
+china -AND- damage: 1
+property damage -AND- damage: 1
+future earthquake hazard -AND- root: 1
+name -AND- root: 2
+the norcia earthquake -AND- root: 1
+seismologic details -AND- root: 1
+seismic characteristics -AND- root: 1
+previous and later earthquakes -AND- root: 1
+the montereale earthquake -AND- root: 1
+magnitude -AND- root: 2
+2012 -AND- status of the recovery: 1
+geophysical effects -AND- earthquake: 1
+veterans hospital -AND- damage: 1
+aftershocks -AND- damage and casualties: 1
+energy -AND- earthquake: 1
+cultural references -AND- root: 1
+tectonic causation -AND- root: 1
+chile -AND- tsunami: 1
+research -AND- root: 2
+charts -AND- root: 1
+earthquake -AND- damage: 1
+tectonic summary -AND- root: 9
+india -AND- tsunami warnings: 1
+apartment complexes in tlatelolco -AND- memorable sites: 1
+earthquakes -AND- root: 1
+earthquake mechanisms -AND- root: 1
+television, movie, and music productions affected -AND- root: 1
+countries affected -AND- death toll and casualties: 1
+analysis and current situation -AND- root: 1
+effects on transportation -AND- root: 1
+incidents elsewhere -AND- nuclear power plants: 1
+the "quake lakes" -AND- rescue efforts: 1
+earthquake's results -AND- root: 1
+g8 summit -AND- root: 1
+mission -AND- root: 1
+great kanto earthquake-related fiction -AND- root: 1
+cebu -AND- casualties and infrastructure damage: 1
+international -AND- reaction: 1
+aid and relief -AND- earthquake: 1
+defense -AND- damage and effects: 1
+american samoa -AND- root: 1
+governments -AND- international aid: 1
+causes -AND- root: 1
+tectonics -AND- background: 1
+description in public archives -AND- root: 1
+1737 earthquake -AND- root: 1
+march 1 -AND- the events: 1
+impact on natural area -AND- root: 1
+bibliography -AND- root: 3
+rediscovery -AND- root: 1
+tsunami warnings -AND- tsunami: 1
+infrastructure and support -AND- emergency management: 1
+list of foreshocks and aftershocks -AND- aftershocks: 1
+earthquake -AND- root: 49
+central taiwan -AND- damage: 1
+oceania -AND- tsunami: 1
+geophysical effects -AND- main shock: 1
+seismic hazard implications -AND- root: 1
+predictions, precursors, and postmortems -AND- root: 1
+earthquake development -AND- root: 1
+victims and damage -AND- root: 1
+infrastructure -AND- damage from the earthquake: 1
+huai river -AND- death toll and damage: 1
+rescue and relief efforts -AND- root: 1
+details -AND- root: 4
+image gallery -AND- root: 1
+pennsylvania, new jersey, and new york -AND- united states: 1
+extent -AND- main shock: 1
+landslides -AND- natural disasters triggered: 1
+search and rescue -AND- emergency management: 1
+"mistaken" earthquake -AND- root: 1
+china -AND- impact: 1
+tsunami -AND- damage: 2
+casualties and damage -AND- root: 3
+other buildings affected -AND- root: 1
+death toll and casualties -AND- root: 1
+april 4 quake -AND- timeline: 1
+origin -AND- tsunami: 1
+completion of works -AND- root: 1
+cover versions by other artists -AND- root: 1
+samoa -AND- root: 1
+united states -AND- impact: 1
+victims -AND- root: 1
+in literature -AND- root: 1
+compared with past earthquakes -AND- seismology and geology: 1
+liquefaction -AND- earthquake: 1
+transformational faulting or anticrack faulting -AND- focal mechanisms: 1
+human sacrifice -AND- consequences and response: 1
+response, casualties, and intensities -AND- root: 1
+relief -AND- response: 1
+reactions -AND- root: 1
+geological setting -AND- root: 2
+location -AND- root: 3
+ri?ihuazo flood -AND- natural disasters triggered: 1
+scientific and research response -AND- root: 1
+modified mercalli intensities for some localities -AND- damage and casualties: 1
+geology -AND- root: 40
+effect -AND- root: 1
+government reactions -AND- root: 1
+earthquake epicenter -AND- root: 1
+similar earthquakes -AND- root: 2
+response in china -AND- root: 1
+impact -AND- root: 9
+political issues -AND- response: 1
+cordón caulle eruption -AND- natural disasters triggered: 1
+damage to infrastructure -AND- root: 1
+international aid -AND- emergency and reconstruction aid: 1
+centennial commemorations -AND- root: 1
+6 june earthquake -AND- root: 1
+mauna kea observatory -AND- damage: 1
+property damage -AND- casualties: 1
+damages and casualties -AND- root: 2
+government and organization affected -AND- root: 1
+midwestern states -AND- united states: 1
+scientific study -AND- aftermath: 1
+prior events -AND- earthquake characteristics: 1
+state funeral -AND- root: 1
+universities, colleges, and schools affected -AND- root: 1
+electricity -AND- damage and effects: 1
+seismic intensity -AND- root: 2
+transportation -AND- damage: 1
+images -AND- root: 2
+christchurch international airport -AND- casualties, damage, and other effects: 1
+development -AND- root: 1
+rebuilding -AND- aftermath: 1
+warnings -AND- response: 2
+relief efforts -AND- response: 1
+sikkim -AND- india: 1
+solid-solid phase transitions -AND- focal mechanisms: 1
+economic impact -AND- humanitarian, economic and environmental impact: 1
+casualties -AND- casualties, damage, and other effects: 1
+1923 earthquakes -AND- root: 1
+external aid -AND- response: 1
+la union -AND- impact: 1
+united states -AND- disruption in communications: 1
+media -AND- response: 1
+response and relief efforts -AND- root: 1
+comparison -AND- root: 1
+tectonic interpretation -AND- earthquake development: 1
+relief efforts and response -AND- root: 1
+response -AND- aftermath: 1
+other areas -AND- disruption in communications: 1
+analysis -AND- root: 1
+environmental impact -AND- humanitarian, economic and environmental impact: 1
+the cabinet office -AND- response: 1
+related earthquakes -AND- root: 1
+warning from agencies in other areas -AND- tsunami warning: 1
+sources -AND- root: 5
+outside taiwan -AND- reactions: 1
+socioeconomic impact -AND- damage, casualties and effects: 1
+hong kong and macau -AND- damage: 1
+development of seismology -AND- root: 1
+chon-kemin chilik rupture zone -AND- characteristics: 1
+meteorological causes -AND- root: 1
+future risk -AND- root: 1
+aftermath and reconstruction -AND- root: 1
+central communications center -AND- memorable sites: 1
+death toll and damage -AND- root: 1
+sewing factory -AND- memorable sites: 1
+china -AND- disruption in communications: 1
+event in historical context -AND- death toll and casualties: 1
+discovery -AND- root: 1
+impact in the countryside -AND- consequences and response: 1
+seismic data -AND- root: 1
+gallery -AND- root: 5
+the makran region -AND- earthquake activity: 1
+m5.8 aftershock on april 20 -AND- root: 1
+aftermath -AND- response: 2
+oakland and interstate 880/cypress viaduct -AND- damage: 1
+names -AND- root: 1
+other dates -AND- root: 1
+damage from the earthquake -AND- root: 1
+landslides -AND- effects: 1
+national -AND- response: 1
+documentary film -AND- root: 1
+the seismic event -AND- root: 1
+high altitude sickness -AND- response: 1
+overview -AND- root: 3
+relationship between earthquakes -AND- root: 1
+transportation affected -AND- root: 1
+baguio city, benguet -AND- impact: 1
+affected area -AND- damage and casualties: 1
+response -AND- earthquake: 3
+february 5 -AND- the events: 1
+thailand -AND- tsunami warnings: 1
+international response -AND- root: 2
+response from other countries -AND- relief efforts: 1
+internet activity and social media -AND- root: 1
+national aid -AND- emergency and reconstruction aid: 1
+essential services -AND- damage to infrastructure: 1
+government response -AND- conditions in the aftermath: 1
+spread of effect -AND- root: 1
+implications for current seismic risk -AND- root: 1
+schools and universities -AND- recovery: 1
+relationship between the events -AND- root: 1
+taiwan -AND- damage: 1
+fort tejon earthquake -AND- root: 1
+effects -AND- earthquake: 1
+scientific framework -AND- root: 1
+yangtze river -AND- death toll and damage: 1
+1989 world series -AND- root: 1
+panoramas -AND- root: 1
+earthquakes magnitudes -AND- root: 1
+casualties -AND- damage: 1
+tsunami -AND- natural disasters triggered: 1
+effects of earthquake in other parts of mexico -AND- root: 1
+main aftershocks since 22 february 2011 -AND- geology: 1
+the february 13 earthquake -AND- root: 1
+transportation -AND- effects: 2
+convergent plate boundary -AND- tectonic plate boundaries: 1
+nicaragua -AND- damage and casualties by country: 1
+legacy -AND- root: 4
+quake lake -AND- earthquake: 1
+subduction -AND- earthquake activity: 1
+canterbury earthquake recovery authority -AND- recovery: 1
+animal casualties -AND- casualties: 1
+transport -AND- damage and effects: 1
+the earthquake -AND- root: 1
+damage -AND- the norcia earthquake: 1
+earthquake characteristics -AND- root: 8
+tectonic setting -AND- root: 69
+science of the earthquake -AND- root: 1
+automotive production -AND- root: 1
+data on magnetic disturbances -AND- science of the earthquake: 1
+the events -AND- root: 1
+1952 earthquake -AND- root: 1
+landslides -AND- earthquake: 1
+scientific preparedness -AND- preparedness and response: 1
+casualties -AND- root: 6
+list of foreshocks and aftershocks -AND- root: 1
+land subsidence -AND- root: 1
+turkish aid -AND- root: 1
+dehydration embrittlement -AND- focal mechanisms: 1
+emergency relief funds for donations -AND- root: 1
+remembrance -AND- root: 1
+3 june aftershock -AND- root: 1

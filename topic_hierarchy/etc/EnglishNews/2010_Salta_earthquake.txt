@@ -1,0 +1,58 @@
+{{Cleanup|date=March 2010}}
+
+{{Earthquake
+| title = 2010 Salta earthquake
+| date = {{Start date|2010|02|27|15|43|26}}
+| map = February 2010 Salta earthquake intensity USGS.jpg
+|map2               = {{Location map | Argentina|relief=1
+| label             =
+| lat               = -24.674
+| long              = -65.043
+| mark              = Bullseye1.png
+| marksize          = 50
+| position          = top
+| width             = 250
+| float             = right
+| caption           = }}
+|caption            = Quake epicenter 
+| magnitude = 6.3 Moment magnitude scale|M<sub>w</sub>
+| depth = {{convert|9.5|mi|km|sp=us}}
+| location = {{Coord|24.674|S|65.043|W|region:AR_type:event|display=inline,title}}
+| aftershocks = ~24
+| countries affected = {{ARG}}<br/>(Salta)
+| casualties = 2
+}}
+
+The '''2010 Salta earthquake''' occurred on Saturday, February 27, 2010 at 15:43:36 UTC (12:45:36 local time) in Salta Province, Argentina and had a Moment magnitude scale|magnitude of 6.3. It occurred less than 12&nbsp;hours after the far larger 2010 Chile earthquake, which killed over 500 people. Initially thought to be an aftershock of the Chile earthquake, scientists later established that the earthquakes were unrelated.  It took place just to the north of the city of Salta. The quake killed two people, and injured dozens (possibly up to 100 people).
+
+==Relationship to the Chile earthquake==
+
+Many in Salta believe it was an aftershock to the earlier Chile earthquake, this initial confusion&mdash; especially among people without expertise in geology&mdash;is understandable. Most media and governmental attention was on Chile at the time the earthquake in Salta occurred, which drew needed attention away from Salta. The Argentinian government had been concentrating on helping Chile without delay, not knowning that a quake had occurred in their own country earlier. Many estimate that the Chile earthquake did slightly affect the Salta earthquake, possibly adding to the destruction caused by the Salta quake. Some scientists have theories that imply connections between the two earthquakes, yet the results are at this point still theoretical and mostly unfounded{{Citation needed|date=March 2010}}. The best evidence is that there was some strange activity in the Earth's crust that day{{Citation needed|date=March 2010}}, as there had been earthquakes in Japan, Chile, and Argentina, all within 24-hour ranges.
+
+==Damage and casualties==
+
+The damage was not great, but small buildings and slums were easily destroyed. The earthquake received little regional coverage, largely because the catastrophe in Chile, that very same day, garnered the most attention. Much of the destruction happened in the towns of Campo Quijano and La Merced, Salta|La Merced, where several adobe houses collapsed, and numerous others were left uninhabitable. 
+
+There were two deaths. An 8-year-old boy from the town of La Merced, Salta|La Merced was crushed in his home and a 53-year old man from the town of La Silleta died under similar circumstances. Up to 100 injuries were estimated.
+
+"The 6.3 magnitude quake struck around midday about 15 miles north of the city of Salta, some 800 miles north-northwest of the capital Buenos Aires, the U.S. Geological Survey reported.
+
+An 8-year-old boy died and two other children were injured, a hospital director in Salta told local media."
+
+==References==
+{{reflist}}
+
+==External links==
+* http://www.youtube.com/watch?v=J0gWn2S7OQc Video: People flee a café in downtown Salta, as the earthquake strikes (CCTV capture)
+* http://www.youtube.com/watch?v=6K_nFqHo99k&feature=related Video: At a car spare parts shop, as the earthquake strikes (CCTV capture)
+* http://www.youtube.com/watch?v=uNViOMdxKpo&feature=related Video: Another CCTV capture at the aforementioned shop
+* http://www.youtube.com/watch?v=QYc_t6zmRW8 Video: IP camera capture, at a second floor in a block of flats
+
+{{Earthquakes in 2010}}
+
+{{DEFAULTSORT:Salta earthquake, 2010}}
+Category:Earthquakes in Argentina|2010
+Category:2010 earthquakes
+Category:2010 in Argentina
+Category:Salta
+Category:Geography of Salta Province

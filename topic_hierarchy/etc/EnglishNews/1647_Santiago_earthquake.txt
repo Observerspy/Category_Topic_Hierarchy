@@ -1,0 +1,57 @@
+{{Earthquake
+|title= 1647 Valparaiso earthquake
+|date= {{Start-date|May 14, 1647}}
+|map2 = {{Location map | Chile|relief=1
+| label=
+| lat=-33.4
+| long=-70.6
+| mark=Bullseye1.png
+| marksize=50
+| position=top
+| width= 200
+| float=center
+| caption=}}
+|magnitude = 8.5 Magnitude Surface wave magnitude|M<sub>s</sub>
+|depth=
+|location={{coord|-33.4|-70.6|type:event|display=inline,title}}
+|countries affected = Chile
+|tsunami =
+|casualties = 1,000}}
+The '''1647 Santiago earthquake''' struck Santiago, Chile on the night of 13 May (22:30 local time, 02:30 Coordinated universal time|UTC on 14 May) and is said to have brought virtually every building in the city to the ground. The earthquake was felt throughout the so-called Captaincy General of Chile, an administrative territory of the Spanish Empire. The maximum felt intensity was XI on the Mercalli intensity scale and there were about a thousand casualties.
+
+==Tectonic setting==
+Chile lies along the Convergent boundary|destructive plate boundary between the Nazca Plate and the South American Plate.
+
+==Damage==
+The earthquake was the most damaging in the history of Santiago.
+Damaged buildings included the Iglesia San Agustín, Chile|Iglesia San Agustín (Saint Augustine Church). Inside the church, the ''Cristo de Mayo'' crucifix was undamaged except for its crown of thorns which had fallen to Christ's neck, despite the diameter of the crown being smaller than that of the head. The Archbishop of Santiago (Chile)|Bishop of Santiago, friar Gaspar de Villaroel, salvaged the image from the debris and dragged it from the church to the Plaza de Armas (Santiago)|Plaza de Armas to display to the gathering survivors.
+
+==Characteristics==
+The cause of the earthquake is not known with certainty, although from contemporary reports, it appears unlikely to have been a Megathrust earthquake|megathrust event. It may have been either an extensional event within the Benioff zone, or a shallow focus Intraplate earthquake|intraplate event, possibly along the San Ramón Fault.
+
+==Aftermath==
+File:Mayo2.jpg|thumb|185px|left|Crucifix of ''Cristo de Mayo'', conserved in the church since 1612.
+After the earthquake the ''Cristo de Mayo'' crucifix was kept in the home of murderess Do?a Catalina de los Ríos y Lisperguer, better known locally as La Quintrala, until her death in 1667. Each year since 1647 on May 13, many townspeople gather to commemorate the earthquake.
+
+Some days after the earthquakes the city was affected by heavy rains  which made the problems of sanitation worse. Over the next few weeks an estimated 2,000 people died of "chabalongo", the name then used for typhus.
+
+Due to the high level of damage caused by the earthquake the government considered moving the capital a few kilometers farther north (in the area that is currently known as Quillota). The decision was made, however, to reconstruct Santiago on the same site.
+
+Gaspar de Villarroel, Bishop of Santiago, said that the earthquake should not be considered as divine punishment for the sins of the inhabitants, adding that "it will be a mortal sin to judge that their (the citizens') sins destroyed this city".
+
+
+==In literature==
+The earthquake was the subject of a novella, ''The Earthquake in Chile'' by the German author Heinrich von Kleist, published in 1807.
+
+==See also==
+* List of earthquakes in Chile
+
+==References==
+{{Reflist}}
+
+{{Earthquakes in Chile}}
+
+Category:Megathrust earthquakes in Chile
+Category:17th century in Chile
+Category:1647 earthquakes|Santiago earthquake
+Category:1647 in Chile|Santiago Earthquake, 1647

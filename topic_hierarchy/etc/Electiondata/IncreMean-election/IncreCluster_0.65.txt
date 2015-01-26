@@ -1,0 +1,147 @@
+clustering:
+cluster id: 0concept: 
+voter demographics#
+cluster id: 1concept: 
+vote and seat summaries#
+cluster id: 2concept: 
+chamber of deputies#
+cluster id: 3concept: 
+party conventions#
+cluster id: 4concept: 
+primaries#early primaries/caucuses#
+cluster id: 5concept: 
+general election campaign#
+cluster id: 6concept: 
+results by province#
+cluster id: 7concept: 
+campaign slogans#
+cluster id: 8concept: 
+government formation#
+cluster id: 9concept: 
+background#conduct#analysis#reactions#campaign#
+cluster id: 10concept: 
+presidential debates#
+cluster id: 11concept: 
+turnout#
+cluster id: 12concept: 
+eligibility#
+cluster id: 13concept: 
+media bias#
+cluster id: 14concept: 
+leaders' debates#
+cluster id: 15concept: 
+electoral system#
+cluster id: 16concept: 
+polls#
+cluster id: 17concept: 
+electors#
+cluster id: 18concept: 
+rejected candidates#
+cluster id: 19concept: 
+opinion polls#
+cluster id: 20concept: 
+results#
+cluster id: 21concept: 
+congress of deputies#
+cluster id: 22concept: 
+second round#
+cluster id: 23concept: 
+comparison#
+cluster id: 24concept: 
+official candidate websites#
+cluster id: 25concept: 
+issues#
+cluster id: 26concept: 
+electoral maps#
+cluster id: 27concept: 
+investiture voting#
+cluster id: 28concept: 
+summary#
+cluster id: 29concept: 
+campaign issues#
+cluster id: 30concept: 
+results by region#
+cluster id: 31concept: 
+health care#
+cluster id: 32concept: 
+vote#
+cluster id: 33concept: 
+nominations#
+cluster id: 34concept: 
+political context#
+cluster id: 35concept: 
+ballot access#
+cluster id: 36concept: 
+official candidates#
+cluster id: 37concept: 
+electronic voting#
+cluster id: 38concept: 
+procedure#
+cluster id: 39concept: 
+candidates#
+cluster id: 40concept: 
+aftermath#
+cluster id: 41concept: 
+overview#
+cluster id: 42concept: 
+first round#
+cluster id: 43concept: 
+before the primaries#
+cluster id: 44concept: 
+presidential candidates#
+cluster id: 45concept: 
+debates#
+cluster id: 46concept: 
+withdrawn#
+cluster id: 47concept: 
+overall results#
+cluster id: 48concept: 
+economy#
+cluster id: 49concept: 
+votes by state#
+cluster id: 50concept: 
+senate#
+cluster id: 51concept: 
+registered candidates#
+cluster id: 52concept: 
+political parties#
+cluster id: 53concept: 
+result#
+cluster id: 54concept: 
+opinion polling#
+cluster id: 55concept: 
+unsuccessful candidacies#
+cluster id: 56concept: 
+other nominations#
+cluster id: 57concept: 
+other candidates#
+cluster id: 58concept: 
+apportionment#
+cluster id: 59concept: 
+election campaign#
+cluster id: 60concept: 
+controversies#
+cluster id: 61concept: 
+exit polls#
+cluster id: 62concept: 
+timeline#
+cluster id: 63concept: 
+overview of results#
+cluster id: 64concept: 
+seat by seat results#
+cluster id: 65concept: 
+international observers#
+cluster id: 66concept: 
+post-election#
+cluster id: 67concept: 
+sources#
+cluster id: 68concept: 
+results by state#
+cluster id: 69concept: 
+campaigns#
+cluster id: 70concept: 
+manifestos#
+cluster id: 71concept: 
+candidates by party#
+cluster id: 72concept: 
+endorsements#

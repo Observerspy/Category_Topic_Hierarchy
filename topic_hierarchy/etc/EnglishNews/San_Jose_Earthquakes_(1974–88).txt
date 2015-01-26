@@ -1,0 +1,409 @@
+{{for|the MLS club|San Jose Earthquakes}}
+{{Infobox football club |
+  clubname = San Jose Earthquakes|
+  image    = File:San Jose Earthquakes logo 1976 1979.png|200px|
+  fullname = San Jose Earthquakes|
+  nickname = |
+  founded  = 1974|
+  dissolved= {{Start date and age|1988}} |
+  ground   = Spartan Stadium (San Jose, California)|Spartan Stadium|
+  capacity = 18,155|
+  chairman = |
+  manager  = |
+  league   = North American Soccer League (1968–1984)|NASL (1974–1984) <br> Major Indoor Soccer League (1978–1992)|MISL (1982–1983) <br> Western Soccer Alliance|WSA (1985–1988)|
+  season   = |
+  position = |
+  pattern_la1=_whiteborder|pattern_b1=_whitecollar|pattern_ra1=_whiteborder|
+  leftarm1=da1b49|body1=da1b49|rightarm1=da1b49|shorts1=da1b49|socks1=da1b49|
+  pattern_la2=_borderonwhite|pattern_b2=_collarwithbodywhite|pattern_ra2=_borderonwhite|
+  leftarm2=da1b49|body2=da1b49|rightarm2=da1b49|shorts2=ffffff|socks2=ffffff|
+
+American = True}}
+
+'''San Jose Earthquakes''' was a professional Football (soccer)|soccer club that played from 1974 to 1988.  The team began as an expansion franchise in the North American Soccer League (1968-1984)|North American Soccer League. From 1983 to 1984, the team was known as the '''Golden Bay Earthquakes'''.  They played their home games at Spartan Stadium (San Jose, California)|Spartan Stadium. During this time, it also played in the original Major Soccer League|Major Indoor Soccer League and in the NASL's indoor circuit. Their indoor games were first played at the Cow Palace and later at the Oakland Coliseum Arena.
+
+Following the collapse of the NASL in 1984, the team's name reverted to San Jose Earthquakes prior to joining the Western Soccer Alliance in 1985, where it played until the league's folding after the 1988 season.
+
+The name ''Earthquakes'' was created by general manager Dick Berg, but was criticized due to San Jose, California|San Jose's proximity to the San Andreas Fault.
+
+==Year-by-year==
+
+'''Outdoor:'''
+{| class="wikitable"
+!Season
+!League
+!W
+!L
+!T
+!GF
+!GA
+!Finish
+!Playoffs
+!Avg. Attend.
+|-
+|1974 San Jose Earthquakes season|1974
+|1974 North American Soccer League season|NASL
+|9
+|8
+|3
+|43
+|38
+|2nd West
+|Lost Quarterfinal
+|16,584
+|-
+|1975 San Jose Earthquakes season|1975
+|1975 North American Soccer League season|NASL
+|8
+|14
+|
+|37
+|48
+|5th West
+|did not qualify
+|17,927
+|-
+|1976 San Jose Earthquakes season|1976
+|1976 North American Soccer League season|NASL
+|14
+|10
+|
+|47
+|30
+|bgcolor="#B3B7FF"|1st South
+|Lost Conference Finals
+|19,826
+|-
+|1977 San Jose Earthquakes season|1977
+|1977 North American Soccer League season|NASL
+|14
+|12
+|
+|37
+|44
+|2nd South
+|Lost in 1st round
+|17,739
+|-
+|1978 San Jose Earthquakes season|1978
+|1978 North American Soccer League season|NASL
+|8
+|22
+|
+|36
+|81
+|4th American West
+|did not qualify
+|14,281
+|-
+|1979 San Jose Earthquakes season|1979
+|1979 North American Soccer League season|NASL
+|8
+|22
+|
+|41
+|74
+|4th American West
+|did not qualify
+|15,092
+|-
+|1980 San Jose Earthquakes season|1980
+|1980 North American Soccer League season|NASL
+|9
+|23
+|
+|45
+|68
+|4th American West
+|did not qualify
+|13,169
+|-
+|1981 San Jose Earthquakes season|1981
+|1981 North American Soccer League season|NASL
+|11
+|21
+| 
+|44
+|78
+|4th West
+|did not qualify
+|12,400
+|-
+|1982 San Jose Earthquakes season|1982
+|1982 North American Soccer League season|NASL
+|13
+|19
+| 
+|47
+|62
+|5th West
+|did not qualify
+|11,012
+|-
+|1983 Golden Bay Earthquakes season|1983
+|1983 North American Soccer League season|NASL
+|20
+|10
+| 
+|71
+|54
+|2nd West
+|Lost Semifinal
+|11,933
+|-
+|1984 Golden Bay Earthquakes season|1984
+|1984 North American Soccer League season|NASL
+|8
+|16
+| 
+|61
+|62
+|5th West
+|did not qualify
+|10,676
+|-
+|1985 San Jose Earthquakes season|1985
+|1985 Western Alliance Challenge Series|WACS
+|4
+|2
+|1
+|10
+|9
+|bgcolor="#B3B7FF"|1st
+|N/A
+|
+|-
+|1986 San Jose Earthquakes season|1986
+|1986 Western Soccer Alliance|WSA
+|3
+|4
+|7
+|13
+|23
+|6th
+|N/A
+|
+|-
+|1987 San Jose Earthquakes season|1987
+|1987 Western Soccer Alliance|WSA
+|6
+|7
+| 
+|21
+|13
+|3rd
+|bgcolor="#FFEBAD"|Runners-up
+|
+|-
+|1988 San Jose Earthquakes season|1988
+|1988 Western Soccer Alliance|WSA
+|7
+|5
+| 
+|20
+|19
+|3rd
+|bgcolor="#FFEBAD"|Runners-up
+|
+|}
+
+Note: The team played as the Golden Bay Earthquakes in the 1983 and 1984 seasons.
+
+===NASL and MISL Indoor Soccer===
+
+In the winter of 1975 NASL Indoor tournament|1975, the NASL ran a two-tiered, 16 team indoor tournament with four regional winners meeting in a "final-four" style championship.  Not only did San Jose host their region at the Cow Palace, but the final four as well. The Quakes swept through the tournament unscathed, defeating the Tampa Bay Rowdies 8-5 in the final to the delight of their fans. San Jose teammates Paul Child (soccer)|Paul Child and Mom?ilo Gavri? (footballer)|Gabbo Garvic were named co-MVPs. In 1976 NASL Indoor tournament|1976 the Earthquakes again advanced to the final four before losing to the Rochester Lancers at the Bayfront Center in Florida. They would rebound the following day to win the 3rd Place match 5-2 over Dallas Tornado|Dallas. The NASL would not begin playing full indoor seasons until 1979–80 NASL Indoor season|1979-80, but San Jose did not fair nearly as well in that format. The NASL canceled their 1982–83 indoor season. As a result, the Earthquakes along with Chicago Sting|Chicago and San Diego Sockers (1978–96)|San Diego played in the Major Indoor Soccer League (1978–92)|MISL that winter.
+
+{| class="wikitable"
+!Season
+!League
+!W
+!L
+!GF
+!GA
+!Place
+!Playoffs
+|-
+|1975 NASL Indoor tournament|1975
+|NASL
+|4
+|0
+|37
+|17
+|bgcolor="#B3B7FF"|1st West 
+|bgcolor="#FFCBCB"|NASL Champions
+|-
+|1976 NASL Indoor tournament|1976
+|NASL
+|3
+|1
+|35
+|18
+|bgcolor="#B3B7FF"|1st West
+|3rd place
+|-
+|1980–81 NASL Indoor season|1980–81
+|NASL
+|10
+|18
+|118
+|115
+|3rd West
+|did not qualify
+|-
+|1981–82 NASL Indoor season|1981–82
+|NASL
+|5
+|12
+|83
+|141
+|3rd National West
+|did not qualify
+|-
+|1982–83 Major Indoor Soccer League season|1982–83
+|Major Indoor Soccer League (1978–1992)|MISL
+|17
+|31
+|240
+|290
+|5th West
+|did not qualify
+|-
+|1983–84 NASL Indoor season|1983–84
+|NASL
+|19
+|13
+|206
+|190
+|4th
+|Lost Semifinal
+|}
+
+Note: The team played the 1982/83 and 1983/84 seasons as the Golden Bay Earthquakes.
+
+== Head coaches ==
+{{MultiCol}}
+*{{flagicon|Yugoslavia}} Mom?ilo Gavri? (footballer)|Momcilo Gavri? (1974)
+*{{flagicon|Yugoslavia}} Ivan Toplak (1974–1975)
+*{{flagicon|Yugoslavia}} Mom?ilo Gavri? (footballer)|Momcilo Gavri? (1975–1978)
+*{{flagicon|USA}} Terry Fisher (1978–1979)
+*{{flagicon|England}} Peter Stubbe (1979)
+*{{flagicon|England}} Bill Foulkes (1980)
+*{{flagicon|England}} Jim Gabriel (1981)
+*{{flagicon|Scotland}} Peter Short (soccer)|Peter Short (1982)
+{{ColBreak}}
+*{{flagicon|England}} Joe Mallett (1982)
+*{{flagicon|Yugoslavia}} Dragan Popovi? (1983–1984)
+*{{flagicon|England}} Laurie Calloway (1985)
+*{{flagicon|England}} Steve Litt (1986)
+*{{flagicon|USA}} Barney Boyce (1987–1988)
+*{{flagicon|MEX}} Tomás Boy (1988)
+*{{flagicon|USA}} Tony Zanotto (1988)
+{{EndMultiCol}}
+
+==Honors==
+{{MultiCol}}'''Championships'''
+* 1975 1975 NASL Indoor tournament|NASL indoor
+* 1985 1985 Western Alliance Challenge Series|WACS
+* 1987 1987 Western Soccer Alliance|WSA (runner-up)
+* 1988 1988 Western Soccer Alliance|WSA (runner-up)
+
+'''NASL Division Titles'''
+* 1974 Southern Division, Pacific Conference
+* 1975 Region 4 ''(indoor)''
+* 1976 West Regional ''(indoor)''
+
+'''NASL Most Valuable Player''' 
+* 1975 Paul Child (soccer)|Paul Child & Mom?ilo Gavri? (footballer)|Gabbo Garvic ''(indoor)''
+* 1983–84 Steve Zungul ''(indoor)''
+* 1984 Steve Zungul
+
+'''North American Player of the Year'''
+* 1984 Branko ?egota
+
+'''Coach of the Year''' 
+* 1983 Don Popovic
+
+'''Leading Scorer''' 
+* 1974 Paul Child (soccer)|Paul Child 36 points
+* 1975 Paul Child (soccer)|Paul Child ''(indoor)'' 31 points
+* 1982–83 Steve Zungul ''(MISL)'' 122 points
+* 1983–84 Steve Zungul ''(indoor)'' 119 points
+* 1984 Steve Zungul 50 points
+* 1987 Joe Mihaljevic 16 points
+
+'''Leading Goal Scorer'''
+* 1974 Paul Child (soccer)|Paul Child 15 goals
+* 1975 Paul Child (soccer)|Paul Child ''(indoor)'' 14 goals
+* 1976 Juli Veee ''(indoor)'' 8 goals
+* 1982–83 Steve Zungul ''(MISL)'' 75 goals
+* 1983–84 Steve Zungul ''(indoor)'' 63 goals
+* 1984 Steve Zungul 20 goals
+* 1987 Joe Mihaljevic 7 goals
+
+'''Assists Leader''' 
+* 1983–84 Steve Zungul ''(indoor)'' 56 assists
+{{ColBreak}}
+'''All-Star First Team selections'''
+* 1974 Paul Child (soccer)|Paul Child
+* 1976 António Sim?es
+* 1983 Stan Terlecki, Steve Zungul
+* 1984 Steve Zungul
+
+'''All-Star Second Team selections'''
+* 1981 George Best
+* 1984 Branko ?egota
+
+'''All-Star Honorable Mentions'''
+* 1974 Laurie Calloway, Dieter Zajdel
+* 1976 Mark Liveric
+* 1977 António Sim?es
+* 1982 Vince Hilaire, Godfrey Ingram
+* 1984 Fernando Clavijo
+
+'''Indoor All-Star/All-Tournament selections'''
+* 1975 Paul Child (soccer)|Paul Child, Mom?ilo Gavri? (footballer)|Gabbo Garvic
+* 1976 Juli Veee
+* 1983–84 Fernando Clavijo, Steve Zungul
+
+'''Indoor All-Star Game selections'''
+* 1984 Fernando Clavijo, Steve Zungul (starters)
+
+'''U.S. Soccer Hall of Fame'''
+* 1997 Johnny Moore (soccer)|Johnny Moore
+* 2003 Paul Child (soccer)|Paul Child
+* 2005 Fernando Clavijo
+
+'''Canadian Soccer Hall of Fame'''
+* 2001 Gerry Gray
+* 2002 Branko ?egota, Mike Sweeney (soccer)|Mike Sweeney
+* 2009 Mike Stojanovi?
+* 2011 Victor Kodelja
+
+'''Indoor Soccer Hall of Fame'''
+* 2012 Don Popovic, Branko ?egota, Juli Veee, Steve Zungul
+* 2014 Fernando Clavijo
+{{EndMultiCol}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* http://home.att.net/~nasl/standings.htm NASL year-by-year standings
+* http://www.oursportscentral.com/misl/standings.html MISL year-by-year standings
+* http://www.sover.net/~spectrum/wsa.html Western Soccer League year-by-year standings
+
+{{San Jose Earthquakes}} 
+{{North American Soccer League (1966–85)}}
+
+{{DEFAULTSORT:San Jose Earthquakes (1974-88)}}
+Category:North American Soccer League (1968–84) teams
+Category:Defunct soccer clubs in the United States
+Category:Defunct indoor soccer clubs in the United States
+Category:California soccer teams
+Category:Soccer clubs in San Jose, California|E
+Category:San Jose Earthquakes
+Category:Major Indoor Soccer League (1978–92) teams
+Category:Western Soccer Alliance teams
+Category:1974 establishments in California
+Category:1988 disestablishments in California
+Category:Defunct sports teams in California

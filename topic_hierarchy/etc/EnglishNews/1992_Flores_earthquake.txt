@@ -1,0 +1,39 @@
+{{Earthquake
+|title = 1992 Flores earthquake
+|date = {{start-date|December 12, 1992|December 11, 1992}}
+| map2 = {{Location map | Indonesia Flores
+ | label =
+ | lat = -8.48
+ | long = 121.896
+ | mark = Bullseye1.png
+ | marksize = 40
+ | position = top
+ | width = 250
+ | float = right
+ | caption = }}
+|magnitude = 7.8 moment magnitude scale|M<sub>w</sub>
+|depth={{convert|28|km|mi|0}}
+|location={{coord|8.480|S|121.896|E|display=inline,title}}
+|countries affected = Indonesia
+|casualties = Approximately 2,500 dead and 500 injured.
+}}
+The '''1992 Flores earthquake''' occurred on December 12, 1992 on the island of Flores in Indonesia. With a magnitude of 7.8, it was the largest and also the deadliest earthquake in 1992.
+
+==Description==
+The quake hit at 05.29 Coordinated Universal Time|UTC and was followed by several serious aftershocks. More than 500 people were injured and 90,000 were left homeless. Nineteen people were killed and 130 houses were destroyed on Kalaotoa. Damage was assessed at exceeding US$100 million. Approximately 90 percent of the buildings were destroyed at Maumere, the hardest hit town, by the earthquake and ensuing tsunami while 50 to 80 percent of the structures on Flores were damaged or destroyed. Electricity in the general area and the port of Maumere was shut down. Maumere's hospital was completely destroyed, and patients were treated in tents. Damage also occurred on Sumba and Alor Archipelago|Alor.
+
+===Tsunami===
+The tsunami on Flores ran inland as far as 300 meters with wave heights of 25 meters.
+
+==Relief efforts==
+The Indonesian government sent rescue and relief missions to earthquake-stricken areas and declared the earthquake a national disaster. The Indonesian air force provided assistance, mostly transporting medicine and clothing. Malaria and influenza rose significantly after the disaster. Babi Island survivors were evacuated since all the houses on the island were demolished. International relief efforts were hindered by the onset of the rainy season.
+
+==References==
+{{Reflist}}
+{{Earthquakes in 1992}}
+{{DEFAULTSORT:1992 Flores Earthquake}}
+Category:1992 earthquakes|Flores
+Category:20th-century tsunamis
+Category:Megathrust earthquakes in Indonesia
+Category:Flores Island (Indonesia)
+Category:1992 in Indonesia

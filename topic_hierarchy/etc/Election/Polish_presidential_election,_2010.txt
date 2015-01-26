@@ -1,0 +1,554 @@
+{{Use dmy dates|date=November 2012}}
+{{Infobox Election
+| election_name = Polish presidential election, 2010
+| country = Poland
+| type = presidential
+| ongoing = no
+| previous_election = Polish presidential election, 2005
+| previous_year = 2005
+| next_election = Polish presidential election, 2015
+| next_year = ''2015''
+| election_date = 20 June and 4 July 2010
+| image1 = [[File:Bronisław Komorowski official cropped.jpg|180x180px]]
+| nominee1 = '''[[Bronisław Komorowski]]'''
+| party1 = Civic Platform
+| home_state1 = 
+| running_mate1 = 
+| running_mate_home_state1 = 
+| electoral_vote1 = 
+| states_carried1 = 
+| popular_vote1 = '''8,933,887'''
+| percentage1 = '''53.0%'''
+| image2 = [[File:Kaczynski Jaroslaw 1 067.JPG|180x180px]]
+| nominee2 = [[Jarosław Kaczyński]]
+| party2 = Law and Justice
+| home_state1 = 
+| running_mate1 = 
+| running_mate_home_state1 = 
+| electoral_vote1 = 
+| states_carried1 = 
+| popular_vote2 = 7,919,134
+| percentage2 = 47.0%
+| title = [[President of Poland|President]]
+| before_election = [[Lech Kaczyński]]
+| before_party = Law and Justice
+| after_election = [[Bronisław Komorowski]]
+| after_party = Civic Platform
+}}
+{{Politics of Poland}}
+The popular '''election of the [[President of Poland]]''' was held on 20 June 2010. As no candidate received a majority of votes in the first round, a second round was held on 4 July 2010.<ref>{{cite news|url=http://news.bbc.co.uk/2/hi/europe/8633981.stm |title=Poland's snap presidential elections set for June 20 |publisher=BBC News |date=21 April 2010 |accessdate=21 June 2010}}</ref> [[Bronisław Komorowski]], candidate of [[Civic Platform]], defeated [[Jarosław Kaczyński]], candidate of [[Law and Justice]]. The [[Financial crisis of 2007–2010|global financial crisis]], [[2010 Central European floods|flooding in Poland]] and the [[2010 Polish Air Force Tu-154 crash|Smolensk disaster]] were the main themes in the last months of the election campaign.
+
+==Background==
+After President [[Lech Kaczyński]]'s death in [[2010 Polish Air Force Tu-154 crash|a plane crash]] on 10 April 2010, the Constitution required the [[Marshal of the Sejm]] to declare the date within two weeks, with the election to take place on a weekend within the following 60 days, i.e. 20 June at the latest. On 21 April, the Marshal, [[Bronisław Komorowski]], announced the election date as 20 June 2010.<ref>{{cite web|url=http://www.businessweek.com/news/2010-04-14/poland-may-hold-early-election-on-june-20-napieralski-says.html |title=Poland May Hold Election June 20, Napieralski Says (Update1) |publisher=BusinessWeek |date=14 April 2010 |accessdate=21 June 2010}}</ref> Candidates were required to register by 26 April 2010 (with 1,000 signatures of voters in support) and submit 100,000 signatures by 6 May 2010.<ref>{{cite news|last=Sobczyk |first=Marcin |url=http://online.wsj.com/article/SB10001424052748704133804575197321643319484.html?mod=WSJ_latestheadlines |title=Polish Election Set for June 20 - WSJ.com |publisher=Online.wsj.com |date=21 April 2010 |accessdate=21 June 2010}}</ref>
+
+Originally, Kaczyński was up for re-election between 19 September and 3 October; the exact date would have been announced between 23 May and 23 June, before the end of his first five-year term of office.<ref>[http://www.sejm.gov.pl/prawo/konst/angielski/kon1.htm#5 Constitution of Poland], Article 128</ref>
+
+Two candidates for the election died in the crash. Incumbent Lech Kaczyński was nominated as the [[Law and Justice]] party candidate (he had yet to accept the nomination, but it was widely believed that he would do so), and [[Jerzy Szmajdziński]] was to have run for the [[Democratic Left Alliance]].<ref>{{cite web | title = Jerzy Szmajdziński - kandydat SLD na prezydenta | publisher = wyborcza.pl | date = 20 December 2009 | url = http://wyborcza.pl/1,75478,7385246,Jerzy_Szmajdzinski___kandydat_SLD_na_prezydenta.html | accessdate = 22 December 2009 |language=pl}}</ref>
+
+[[Polish Senate by-elections, 2010|Senate by-elections]] to fill the three seats whose senators died in the crash – [[Krystyna Bochenek]] (PO), [[Janina Fetlińska]] (PiS) and [[Stanisław Zając]] (PiS, himself elected in a by-election on 22 June 2008 to replace [[Andrzej Mazurkiewicz]]) – were held on the same day.<ref>{{cite web|url=http://www.polishmarket.com.pl/document/:22912?p=%2FEconomic+Monitor%2F |title=Polish Market Online .:. Polish Market Online .:. What’s next for Poland? |publisher=Polishmarket.com.pl |date=12 April 2010 |accessdate=21 June 2010}}</ref>
+
+== Candidates ==
+In total, 23 candidates (all of them men) registered with the Polish National Electoral Commission on, or just following, the 26 April deadline. 17 of the 23 candidacies were accepted by the commission, whilst the remaining 6 were rejected because they had not gathered the required 1000 signatures.
+
+Only ten candidates collected the required 100,000 signatures and were eligible to run for President.<ref>{{cite web|author=jagor, zsz |url=http://wiadomosci.gazeta.pl/Wiadomosci/1,80271,7851073,Wybory_2010__Dziewieciu_kandydatom_na_prezydenta_udalo.html |title=Wybory 2010. Dziesięciu kandydatom na prezydenta udało się zebrać 100 tys. podpisów |publisher=Wiadomosci.gazeta.pl |date= |accessdate=21 June 2010|language=pl}}</ref>
+
+<gallery>
+File:M. Jurek.jpg|Former [[Sejm Marshal|Marshal of the Sejm]] '''[[Marek Jurek]]''' ([[Right of the Republic]]), 49
+File:Kaczynski Jaroslaw 1 067.JPG|Former [[Prime Minister of Poland|Prime Minister]] '''[[Jarosław Kaczyński]]''' ([[Law and Justice]]), 60
+File:Bronisław Komorowski official cropped.jpg|Marshal of the Sejm and Acting President '''[[Bronisław Komorowski]]''' ([[Civic Platform]]), 58
+File:Andrzej Lepper.jpg|Former Deputy Prime Minister '''[[Andrzej Lepper]]''' ([[Self-Defense of the Republic of Poland]]), 56
+File:Kornel Morawiecki portrait 2010.jpg|Founder and leader of Fighting Solidarity '''[[Kornel Morawiecki]]''', 69
+File:Napieralski.jpg|Party Chairman and Sejm Member '''[[Grzegorz Napieralski]]''' ([[Democratic Left Alliance]]), 36
+File:Andrzej Olechowski candidate 2010.jpg|Former Minister of Foreign Affairs '''[[Andrzej Olechowski]]''' (Independent), 62
+File:Waldemar Pawlak candidate 2010 B.jpg|Former Prime Minister and Current Deputy Prime Minister '''[[Waldemar Pawlak]]''' ([[Polish People's Party]]), 50
+File:Boguslaw Zietek candidate 2010.jpg|[[Free Trade Union "August '80"]] and [[Polish Labour Party (Sierpień 80)|Polish Labour Party]] leader '''[[Bogusław Ziętek]]''' ([[Polish Labour Party (Sierpień 80)|Polish Labour Party]]), 45
+File:Korwin.png|Former Sejm Member '''[[Janusz Korwin-Mikke]]''' ([[Freedom and Lawfulness]]), 67
+</gallery>
+
+===Rejected candidates===
+*[[Zdzisław Jankowski]]
+*[[Gabriel Janowski]] - national-conservative, former [[Ministry of Agriculture and Rural Development of the Republic of Poland|Minister of Agriculture]]
+*[[Dariusz Kosiur]]
+*[[Bartłomiej Kurzeja]] - artist, self-described as "the National Sculptor"
+*[[Krzysztof Mazurski]] - scientist, geographer
+*[[Paweł Pietrzyk]]
+*[[Roman Sklepowicz]]
+*[[Paweł Soroka]] - political scientist
+*[[Bogdan Szpryngiel]] - a former [[Libertas.eu|Libertas]] candidate to the [[European Parliament]]
+*[[Ludwik Wasiak]]
+*[[Józef Wójcik]]
+*[[Waldemar Urbanowski]]
+
+===Withdrawn===
+*[[Ludwik Dorn]] - former [[Marshal of Sejm]] ([[Law and Justice]]), candidate of liberal-conservative party [[Poland Plus]].<ref>{{cite web | title = Ludwik Dorn rezygnuje ze startu w wyborach | language = Polish | publisher = rp.pl | date = 20 April 2010 | url = http://www.rp.pl/artykul/464305.html}}</ref>
+*[[Tomasz Nałęcz]] - former Vice-Marshal of Sejm, candidate of [[Social Democracy of Poland]] (SdPl).<ref>{{cite web | title = Tomasz Nałęcz rezygnuje ze startu w wyborach| language = Polish | publisher = polskieradio.pl | date = 20 April 2010 | url = http://www.polskieradio.pl/5/3/Artykul/199810,Tomasz-Nalecz-rezygnuje-ze-startu-w-wyborach}}</ref>  
+*[[Zdzisław Podkański]] - former member of the [[European Parliament]] ([[Polish People's Party]]), leader of the national-conservative party [[Polish People's Party "Piast"|Piast]].<ref>{{cite web | title = Rezygnacja kandydata. Poprze J. Kaczyńskiego? | language = Polish | publisher = gazeta.pl | date = 4 May 2010 | url = http://wiadomosci.onet.pl/2164891,11,rezygnacja_kandydata_poprze_j_kaczynskiego,item.html | accessdate = 4 May 2010 }} {{Dead link|date=October 2010|bot=H3llBot}}</ref>
+
+===Dead===
+*[[Lech Kaczyński]] - [[List of Presidents of Poland|President]] who applied to start for reelection. First candidate of [[Law and Justice]].<ref>{{cite web | title = Prezydent Kaczyński nie żyje | language = Polish | publisher = se.pl | date = 10 April 2010 | url = http://www.se.pl/wydarzenia/kraj/lech-kaczynski-nie-zyje-kto-zginal-lista-pasazerow_136006.html | accessdate = 10 April 2010}}</ref> 
+*[[Jerzy Szmajdziński]] - former [[Minister of Defence]], Vice-Marshall of [[Sejm of the Republic of Poland|Sejm]]. First candidate of [[Democratic Left Alliance]].<ref>{{cite web | title = Jerzy Szmajdziński nie żyje | language = Polish | publisher = wp.pl | date = 10 April 2010 | url = http://wiadomosci.wp.pl/kat,1342,title,Jerzy-Szmajdzinski-nie-zyje,wid,12158487,wiadomosc.html | accessdate = 10 April 2010}}</ref>
+
+== Results ==
+
+===First round===
+There were 10 candidates in the first round of voting. [[Bronisław Komorowski]] of [[Civic Platform]] received 41.5% and [[Jarosław Kaczyński]] of [[Law and Justice]] received 36.5%, causing a second round of voting between the two. The other eight candidates were eliminated.<ref name="news.bbc.co.uk">{{cite news|url=http://news.bbc.co.uk/2/hi/world/europe/10503555.stm|title=Bronislaw Komorowski declared president of Poland|date=5 July 2010|work=[[BBC News]]|publisher=[[British Broadcasting Corporation]]|accessdate=5 July 2010}}</ref>
+
+[[File:Wybory prezydenckie 2010 I tura BK.png|thumb|255px|Results of the first round]]
+[[File:Wybory prezydenckie 2010 II tura pow BK.png|thumb|255px|Results of the second round]]
+{{Polish presidential election, 2010}}
+
+===Second round===
+[[File:Voting card Polish presidential elections 2010 Poznan.jpg|thumb|220px|Voting card in 2nd Round]]
+Soon after exit polls were released in the second round, [[Jarosław Kaczyński]] conceded that he had been defeated. [[Bronisław Komorowski]] appeared to tentatively claim victory, stating: "Tonight we will open a small bottle of champagne and tomorrow we will open a big bottle."<ref>{{cite news|url=http://news.bbc.co.uk/2/hi/europe/10503555.stm|title=Kaczynski accepts Polish election defeat|date=4 July 2010|work=[[BBC News]]|publisher=[[British Broadcasting Corporation]]|accessdate=4 July 2010}}</ref> The exit polls put Komorowski ahead of Kaczyński by 53% to 47%.<ref>{{cite news|url=http://www.abc.net.au/news/stories/2010/07/05/2944462.htm?section=world|title=Liberal beats bereaved twin in Polish vote|date=5 July 2010|work=[[ABC News (Australia)|ABC News]]|publisher=[[Australian Broadcasting Corporation]]|accessdate=4 July 2010}}</ref> On the following day, Komorowski was declared the winner of the election.<ref>{{cite news|url=http://www.google.com/hostednews/ap/article/ALeqM5ir8JleEyG0Yo_1nhoC5R225rcGjAD9GP26B80|title=Komorowski win strengthens Polish government|last=Gera|first=Vanessa|date=5 July 2010|work=[[Associated Press]]|accessdate=5 July 2010}}</ref> The final result put Komorowski with 53.01% of the vote, and Kaczyński with 46.99%.<ref name="news.bbc.co.uk"/>
+{{wikinews|Bronislaw Komorowski wins Polish presidency in run-off}}
+
+Komorowski's win resulted in Civic Platform holding both the Presidency and the government (under Prime Minister [[Donald Tusk]]).<ref>{{cite news|url=http://www.telegraph.co.uk/news/worldnews/europe/poland/7873488/Polands-liberals-dominate-after-dead-presidents-twin-defeated.html|title=Poland's liberals dominate after dead president's twin defeated|date=5 July 2010|work=[[The Daily Telegraph]]|publisher=Telegraph Media Group|accessdate=5 July 2010 | location=London | first=Our | last=Foreign}}</ref> Correspondents in US and British business newspapers suggested that Komorowski's win would mean closer engagement with the [[European Union]],<ref>{{cite news|url=http://online.wsj.com/article/SB10001424052748703620604575348772126843284.html?mod=googlenews_wsj|title=Poland Vote Strengthens European Ties|last=Fairclough|first=Gordon|date=5 July 2010|work=[[The Wall Street Journal]]|publisher=[[Dow Jones & Company]]|accessdate=5 July 2010}}</ref> and such domestic economic reforms as deficit reduction.<ref>{{cite news|url=http://www.ft.com/cms/s/0/12d2922a-8859-11df-aade-00144feabdc0.html|title=Poland poised for vital reforms|last=Buckley|first=Neil|date=5 July 2010|work=[[Financial Times]]|publisher=[[Pearson PLC]]|accessdate=5 July 2010}}</ref>
+
+{{clear}}
+
+== Opinion polls ==
+
+=== First round ===
+{| class=wikitable style=text-align:center;
+|-
+! rowspan=2| Date
+! rowspan=2| Institute
+! colspan=10| Candidate
+! rowspan=2| Undecided
+! rowspan=2| Source
+|-
+! width=30| [[Bronisław Komorowski]] 
+! width=30| [[Jarosław Kaczyński]]
+! width=30| [[Grzegorz Napieralski]]
+! width=30| [[Waldemar Pawlak]] 
+! width=30| [[Andrzej Olechowski]]
+! width=30| [[Andrzej Lepper]]
+! width=30| [[Janusz Korwin-Mikke]]
+! width=30| [[Marek Jurek]]
+! width=30| [[Kornel Morawiecki]]
+! width=30| [[Bogusław Ziętek]]
+|-
+| 7 May 2010
+| TNS OBOP
+| '''50%'''
+| 36%
+| 4%
+| 3%
+| 2%
+| 2%
+| 1%
+| 1%
+| 0%
+| 0%
+| -
+| <ref name="gazeta1">{{cite web|title = Wybory 2010: Komorowski - 50 proc., Kaczyński - 36 proc. (TNS OBOP)|publisher = gazeta.pl|date = 7 May 2010 | url = http://wiadomosci.gazeta.pl/Wiadomosci/1,80708,7856499,Wybory_2010__Komorowski___50_proc___Kaczynski___36.html |language=pl}}</ref>
+|-
+| 10 May 2010
+| SMG/KRC Millward Brown
+| '''45%'''
+| 34%
+| 5%
+| 4%
+| 3%
+| 1%
+| 2%
+| 1%
+| 0%
+| 0%
+| -
+| <ref name="gazeta2">{{cite web|title=Wybory 2010. Nowy sondaż. Komorowski bez zmian, Kaczyńskiemu rośnie poparcie|publisher = gazeta.pl|date=10 May 2010|url=http://wiadomosci.gazeta.pl/Wiadomosci/1,80708,7865351,Wybory_2010__Nowy_sondaz__Komorowski_bez_zmian__Kaczynskiemu.html |language=pl}}</ref>
+|-
+| 12 May 2010
+| GfK Polonia
+| '''41%'''
+| 28%
+| 4%
+| 0%
+| 3%
+| 0%
+| 0%
+| 0%
+| 0%
+| 0%
+| 16%
+| <ref name="rzeczpospolita1">{{cite web|title = Najnowszy sondaż: Komorowski słabnie, Kaczyński 28 proc.|publisher = Rzeczpospolita|date = 12 May 2010|url = http://wybory.onet.pl/prezydenckie-2010/aktualnosci/najnowszy-sondaz-komorowski-slabnie-kaczynski-28-p,1,3223335,aktualnosc.html|language=pl}}</ref>
+|-
+| 14 May 2010
+| TNS OBOP
+| '''51%'''
+| 38%
+| 4%
+| 2%
+| 2%
+| 1%
+| 1%
+| 1%
+| 0%
+| 0%
+| -
+| <ref>{{cite web|title = Sondaż: ponad połowa wyborców chce zagłosować na Komorowskiego| publisher = PAP| date = 14 May 2010 | url = http://wybory.onet.pl/prezydenckie-2010/aktualnosci/sondaz-ponad-polowa-wyborcow-chce-zaglosowac-na-ko,1,3225077,aktualnosc.html|language=pl}}</ref>
+|-
+| 15 May 2010
+| GfK Polonia
+| '''48%'''
+| 30%
+| 5%
+| 2%
+| 4%
+| 2%
+| 2%
+| 1%
+| 0%
+| 0%
+| 6%
+| <ref>{{cite web|title = Sondaż: Komorowski dystansuje Kaczyńskiego|publisher = Rzeczpospolita|date=15 May 2010|url=http://wybory.onet.pl/prezydenckie-2010/aktualnosci/sondaz-komorowski-dystansuje-kaczynskiego,1,3225329,aktualnosc.html |language=pl}}</ref>
+|-
+| 15 May 2010
+| Homo Homini
+| '''42,2%'''
+| 35,9%
+| 4,7%
+| 5,7
+| 2,3%
+| 0,6%
+| 0,7%
+| 1,9%
+| 0%
+| 0%
+| 6%
+| <ref>{{cite web|title = Sondaż: Kaczyński coraz bliżej Komorowskiego|publisher=PR|date=15 May 2010|url=http://wybory.onet.pl/prezydenckie-2010/aktualnosci/sondaz-kaczynski-coraz-blizej-komorowskiego,1,3225385,aktualnosc.html |language=pl}}</ref>
+|-
+| 17 May 2010
+| SMG/KRC Millward Brown
+| '''49%'''
+| 29%
+| 3%
+| 2%
+| 3%
+| 3%
+| 1%
+| 1%
+| 0%
+| 0%
+| 7%
+| <ref>{{cite web|title=Sondaż: duża przewaga marszałka|publisher=TVN24|date=17 May 2010|url=http://wybory.onet.pl/prezydenckie-2010/aktualnosci/sondaz-duza-przewaga-marszalka,1,3226469,aktualnosc.html |language=pl}}</ref>
+|-
+| 22 May 2010
+| GfK Polonia
+| '''53%'''
+| 28%
+| 4%
+| 3%
+| 4%
+| 4%
+| 3%
+| 1%
+| 0%
+| 0%
+| -
+| <ref>{{cite web|title=Wybory 2010. Sondaż: Kaczyński traci 8 proc. Komorowski wygrywa w I turze|publisher=TVP|date=21 May 2010 | url = http://www.tokfm.pl/Tokfm/1,102433,7919457,Wybory_2010__Sondaz__Kaczynski_traci_8_proc__Komorowski.html|language=pl}}</ref>
+|-
+| 29 May 2010
+| Homo Homini
+| '''47,6%'''
+| 32,5%
+| 6,1%
+| 4,2%
+| 1,6%
+| 0,7%
+| 0,6%
+| 0,7%
+| 0,1%
+| 0,1%
+| 5,6%
+| <ref>{{cite web|title = Wybory 2010. Sondaż: Komorowski zyskuje, Kaczyński traci. Będzie druga tura?|publisher = PR|date = 29 May 2010 | url = http://www.tokfm.pl/Tokfm/1,102433,7951011,Wybory_2010__Sondaz__Komorowski_zyskuje__Kaczynski.html|language=pl}}</ref>
+|-
+| 31 May 2010
+| SMG/KRC Millward Brown
+| '''46%'''
+| 30%
+| 9%
+| 1%
+| 1%
+| 1%
+| 3%
+| 0%
+| 0%
+| 0%
+| 5%
+| <ref>{{cite web|title = Kandydat PO prowadzi. Napieralski znów w górę|publisher=TVN24|date = 31 May 2010 | url = http://wybory.onet.pl/prezydenckie-2010/aktualnosci/kandydat-po-prowadzi-napieralski-znow-w-gore,1,3234586,aktualnosc.html|language=pl}}</ref>
+|-
+| 2 June 2010
+| PBS DGA
+| '''48%'''
+| 33%
+| 8%
+| 3%
+| 2%
+| 2%
+| 2%
+| 0%
+| 0%
+| 0%
+| -
+| <ref>{{cite web|title = Sondaż: Komorowski traci, ale nadal ma prawie 50 proc. poparcia| publisher = Gazeta Wyborcza|date = 2 June 2010|url = http://www.tokfm.pl/Tokfm/1,102433,7964752,Sondaz__Komorowski_traci__ale_nadal_ma_prawie_50_proc_.html|language=pl}}</ref>
+|-
+| 4 June 2010
+| SMG/KRC Millward Brown
+| '''42%'''
+| 31%
+| 6%
+| 1%
+| 1%
+| 1%
+| 3%
+| 0%
+| 0%
+| 0%
+| 15%
+| <ref>{{cite web|title = Wybory 2010. Sondaż: Komorowski i PO tracą poparcie|publisher=TVN24|date = 4 June 2010|url = http://wybory.gazeta.pl/wybory/1,106728,7975086,Wybory_2010__Sondaz__Komorowski_i_PO_traca_poparcie.html|language=pl}}</ref>
+|-
+| 5 June 2010
+| Homo Homini
+| '''46,5%'''
+| 32,4%
+| 6,1%
+| 4,4%
+| 2,2%
+| 0,6%
+| 0,4%
+| 0,4%
+| 0,1%
+| 0%
+| 6,4%
+| <ref>{{cite web | title = Wybory 2010. Sondaż: Kaczyński łagodzi wizerunek i nie traci, Komorowskiemu spada|publisher=PR|date = 5 June 2010|url = http://wiadomosci.gazeta.pl/Wiadomosci/1,80271,7975977,Wybory_2010__Sondaz__Kaczynski_lagodzi_wizerunek_i.html|language=pl}}</ref>
+|-
+| 7 June 2010
+| SMG/KRC Millward Brown
+| '''43%'''
+| 32%
+| 8%
+| 3%
+| 2%
+| 1%
+| 2%
+| 1%
+| 0%
+| 1%
+| 5%
+| <ref>{{cite web|title=Sondaż: liderzy nieznacznie zyskują|publisher=TVN24|date=7 June 2010|url=http://wybory.onet.pl/prezydenckie-2010/aktualnosci/,1,3238276,aktualnosc.html|language=pl}}</ref>
+|-
+| 9 June 2010
+| SMG/KRC Millward Brown
+| '''45%'''
+| 31%
+| 7%
+| 2%
+| 2%
+| 1%
+| 2%
+| 0%
+| 0%
+| 0%
+| 5%
+| <ref name="gazeta3">{{cite web|title = Wybory 2010. Sondaż: Komorowski rośnie w siłę, ale wygrywa dopiero w drugiej turze|publisher = TVN24|date = 9 June 2010|url = http://wybory.gazeta.pl/wybory/1,106728,7994712,Wybory_2010__Sondaz__Komorowski_rosnie_w_sile__ale.html|language=pl}}</ref>
+|-
+| 12 June 2010
+| GfK Polonia
+| '''42%'''
+| 29%
+| 11%
+| 4%
+| 1%
+| 1%
+| 2%
+| 1%
+| 0%
+| 0%
+| 9%
+| <ref>{{cite web|title = Liderzy traca, szef SLD zyskuje|publisher = Rp|date = 12 June 2010|url = http://www.rp.pl/artykul/492862_Liderzy_traca__szef_SLD_zyskuje.html|language=pl}}</ref>
+|-
+| 16 June 2010
+| GfK Polonia
+| '''48%'''
+| 34%
+| 9%
+| 2%
+| 2%
+| 2%
+| 3%
+| 1%
+| 1%
+| 1%
+| -
+| <ref name="gazeta4">{{cite web|title = Komorowski - 48 proc., Kaczyński - 34 proc.|publisher = Gazeta Wyborcza|date = 16 June 2010|url = http://wiadomosci.gazeta.pl/Wiadomosci/1,80271,8019085,Platforma_wciaz_wierzy_w_pierwsza_ture.html|language=pl}}</ref>
+|-
+| 16 June 2010
+| SMG/KRC Millward Brown
+| '''41%'''
+| 29%
+| 12%
+| 2%
+| 1%
+| 1%
+| 2%
+| 1%
+| 0%
+| 0%
+| -
+| <ref>{{cite web|title = Cztery dni przed wyborami Kaczyńskiemu spada poparcie|publisher = gazeta.pl|date = 16 June 2010| url = http://www.tvn24.pl/-1,1660985,0,1,cztery-dni-przed-wyborami-kaczynskiemu-spada-poparcie,wiadomosc.html |language=pl}}</ref>
+|-
+| 17 June 2010
+| TNS OBOP
+| '''42%'''
+| 35%
+| 13%
+| 2%
+| 2%
+| 1%
+| 3%
+| 1%
+| 0%
+| 0%
+| -
+| <ref>{{cite web | title = Sondaż: 13 proc. głosów dla Napieralskiego|publisher=TVP Info|date = 17 June 2010|url = http://www.tvp.info/informacje/wybory-2010/sondaze/sondaz-13-proc-glosow-dla-napieralskiego/1984288 |language=pl}}</ref>
+|-
+| 18 June 2010
+| MillwardBrown SMG/KRC
+| '''44%'''
+| 29%
+| 13%
+| 2%
+| 2%
+| 1%
+| 3%
+| 1%
+| 0%
+| 0%
+| 5%
+| <ref name="gazeta5">{{cite web | title = Wybory 2010. Ostatni sondaż przed wyborami. Komorowski wygrywa, ale w II turze. 56 proc. do 33 proc.|publisher= Gazeta Wyborcza|date = 18 June 2010|url = http://wybory.gazeta.pl/wybory/1,106728,8034350,Wybory_2010__Komorowski_wygrywa_w_II_turze__56_proc_.html |language=pl}}</ref>
+|}
+
+=== Second Round ===
+{| class=wikitable style=text-align:center;
+|-
+! rowspan=2| Date
+! rowspan=2| Institute
+! colspan=2| Candidate
+! rowspan=2|  Undecided
+! rowspan=2| Source
+|-
+! width=30| [[Bronisław Komorowski]] 
+! width=30| [[Jarosław Kaczyński]]
+|-
+| 7 May 2010
+| TNS OBOP
+| '''61%'''
+| 39%
+| -
+| <ref name="gazeta1"/>
+|-
+| 10 May 2010
+| SMG/KRC
+| '''54%'''
+| 41%
+| 5%
+| <ref name="gazeta2"/>
+|-
+| 12 May 2010
+| GfK Polonia
+| '''53%'''
+| 34%
+| 13%
+| <ref name="rzeczpospolita1"/>
+|-
+| 14 May 2010
+| TNS OBOP
+| '''55%'''
+| 39%
+| 6%
+| <ref>{{cite web|title = Sondaż: ponad połowa wyborców chce zagłosować na Komorowskiego | publisher = PAP|date = 14 May 2010|url = http://wybory.onet.pl/prezydenckie-2010/aktualnosci/sondaz-ponad-polowa-wyborcow-chce-zaglosowac-na-ko,1,3225077,aktualnosc.html|language=pl}}</ref>
+|-
+| 17 May 2010
+| SMG/KRC Millward Brown
+| '''58%'''
+| 33%
+| 9%
+| <ref>{{cite web|title = Sondaż: duża przewaga marszałka|publisher = TVN24|date = 17 May 2010|url = http://wybory.onet.pl/prezydenckie-2010/aktualnosci/sondaz-duza-przewaga-marszalka,1,3226469,aktualnosc.html |language=pl}}</ref>
+|-
+| 2 June 2010
+| PBS DGA
+| '''64%'''
+| 36%
+| -
+| <ref>{{cite web|title = Sondaż: Komorowski traci, ale nadal ma prawie 50 proc. poparcia|publisher = Gazeta Wyborcza|date = 2 June 2010|url = http://www.tokfm.pl/Tokfm/1,102433,7964752,Sondaz__Komorowski_traci__ale_nadal_ma_prawie_50_proc_.html|language=pl}}</ref>
+|-
+| 4 June 2010
+| SMG/KRC Millward Brown
+| '''56%'''
+| 35%
+| 9%
+| <ref>{{cite web|title = Wybory 2010. Sondaż: Komorowski i PO tracą poparcie|publisher = TVN24|date=4 June 2010|url = http://wybory.gazeta.pl/wybory/1,106728,7975086,Wybory_2010__Sondaz__Komorowski_i_PO_traca_poparcie.html|language=pl}}</ref>
+|-
+| 9 June 2010
+| SMG/KRC Millward Brown
+| '''54%'''
+| 36%
+| 7%
+| <ref name="gazeta3"/>
+|-
+| 16 June 2010
+| SMG/KRC Millward Brown
+| '''60%'''
+| 40%
+| -
+| <ref name="gazeta4"/>
+|-
+| 18 June 2010
+| MillwardBrown SMG/KRC
+| '''56%'''
+| 33%
+| 11%
+| <ref name="gazeta5"/>
+|-
+| 30 June – 1 July 2010
+| TNS OBOP
+| '''45%'''
+| 37%
+| 18%
+| <ref name="Sondaże">{{pl icon}} [http://www.wprost.pl/ar/200739/Sondaze-Druga-ture-wygra-Komorowski/ Sondaże: Drugą turę wygra Komorowski]</ref> 
+|-
+| 1 July 2010
+| GfK Polonia
+| 47%
+| '''49%'''
+| 4%
+| <ref>{{pl icon}} [http://www.pomorska.pl/apps/pbcs.dll/article?AID=/20100701/WYBORY_PREZYDENCKIE_2010/50609685 Pomorska.pl]</ref>
+|-
+| 2 July 2010
+| Millward Brown SMG/KRC
+| '''51%'''
+| 44%
+| 5%
+| <ref>{{pl icon}} [http://www.tvn24.pl/0,1663324,0,1,sondaz-smgkrc-komorowski-gora,wiadomosc.html Ostatni sondaż SMG/KRC przed wyborami: Komorowski górą]</ref>
+|-
+| 2 July 2010
+| Homo Homini
+| '''47,6%'''
+| 45,2%
+| 7,2%
+| <ref name="Sondaże"/>
+|}
+
+== References ==
+{{Reflist|colwidth=30em}}
+
+== External links ==
+*[http://www.pkw.gov.pl/pkw2/index.jsp?place=Menu01&news_cat_id=22820&layout=1 The official election site of the Polish Election Committee] {{pl icon}}
+
+{{History of the Third Polish Republic}}
+{{Polish Elections}}
+
+[[Category:Elections in Poland]]
+[[Category:2010 elections in Europe]]
+[[Category:2010 in Poland|Presidential election]]

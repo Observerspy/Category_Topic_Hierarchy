@@ -1,0 +1,68 @@
+{{Infobox earthquake
+| title = 1998 Papua New Guinea earthquake
+| date = {{start-date|July 17, 1998|July 17, 1998}}
+| map2 = {{Location map | Papua New Guinea
+| relief = 1
+| lat = -2.96
+| long = 141.92
+| mark = Bullseye1.png
+| marksize = 40
+| position = top
+| width = 250
+| float = right
+| caption = }}
+| magnitude = 7.1 Moment magnitude scale|M<sub>w</sub>
+| location = {{coord|2.96|S|141.92|E|display=inline, title}}
+| countries affected = Papua New Guinea
+| casualties = at least 2,200 
+|the wave destroyed a load of villages
+}}
+
+The '''1998 Papua New Guinea earthquake''' took place in the early evening of July, 17 July near the north coast region of Papua New Guinea, {{convert|25|km|sp=us}} from the coast near Aitape. The shock caused a large undersea landslide, which in turn caused a tsunami that hit the coast, killing more than 2200 people.
+
+== Earthquake ==
+
+The earthquake occurred at 6:49pm local time (UTC+10) along the boundary of the Australia Plate|Australia and the Pacific Plate|Pacific tectonic plates. The tsunami was originally thought to have been caused by a {{convert|2|m|abbr=on}} vertical drop in the Pacific Plate along a {{convert|25|mi|abbr=on}} long fault. Later work suggested that in fact a massive underwater landslide had occurred.
+
+The tsunami raised awareness among scientists of the potential for small earthquakes to trigger large tsunamis, if they cause undersea landslides.  It is now recognised that such events can be very dangerous, as the earthquake may be too small to be felt on land, or detected by the Pacific Tsunami Warning Center.  Any resulting tsunami can thus appear without warning.
+
+===Effects===
+
+The earthquake consisted of a main shock and several aftershocks that were felt in several towns in the area around the epicenter. The main shock caused some minor damage to the 62-year-old church at the Sissano Mission, and was strong enough that many people in Malol, Arop, and Warapu left their houses because the shaking lasted for so long. Cracks in the ground formed in Arop and Warapu.
+
+Image:1998 PNG Earthquake Computer Model.gif|thumb|right|Computer modelling of the earthquake and resulting landslide
+
+A few minutes after the earthquake, many residents reported hearing a loud clap as the tsunami approached the shoreline.
+
+The area worst hit was a {{convert|30|km|abbr=on}} coastal strip running north-west from Aitape to the village of Sissano. Several villages in the path of the tsunami were completely destroyed and others extensively damaged. The tsunami wave uprooted entire buildings and transported their foundations {{convert|50|-|60|m}} from their original location  The village of Arop was situated on a narrow spit between the coast and  Sissano lagoon. It was directly in the path of the tsunami and was worst hit.
+
+===Response===
+
+Immediately after the tsunami the Royal Australian Air Force flew in three C-130 Hercules transport planes with relief supplies. The amount of injury and illness due to the tsunami overwhelmed the makeshift hospitals, leaving many victims with wounds that were untreated for several days and led to gangrene. Rotting dead bodies that remained in the lagoon spread diseases and the government sealed off the entire area. After the makeshift hospital in Vanimo was dismantled, the sick people became worse because the nearest hospital was over a day's walk away.
+
+Several villages moved their buildings slightly further back from the sea when they rebuilt. Scientists from the University of Papua New Guinea  initiated a public awareness program for the residents of the coastal area affected by the tsunami, to tell them that scientific models have concluded that the geology of the surrounding area causes the destructive waves to focus their energy on that area, making it a very dangerous place to live. The scientists also recommended that the Papua New Guinea government improve the escape routes for the villages and improve the tsunami warning system. The country does not have a communications plan put in place, according to the UN Development Project's country report on Disaster Management. According to the National Research institute, there are still no roads to the villages of Arop, Warapu, and the Sepik highway that connects to Aitape does not connect with the village of Vanimo.
+
+==See also==
+* 2009 New Ireland earthquake
+
+==References==
+{{Reflist}}
+
+;Sources
+{{refbegin}}
+*{{Cite news |url=http://www.cnn.com/WORLD/asiapcf/9807/29/albright.tsunami.aid/index.html |title=Albright brings news of more aid to wave-hit Papua New Guinea |publisher=CNN News |date=1998-07-29 |accessdate=2007-04-18 |archiveurl = http://web.archive.org/web/20070320121527/http://www.cnn.com/WORLD/asiapcf/9807/29/albright.tsunami.aid/index.html <!-- Bot retrieved archive --> |archivedate = 2007-03-20}}
+*{{Cite web |url=http://walrus.wr.usgs.gov/tsunami/itst.html |title=Preliminary Analysis of Sedimentary Deposits from the 1998 Papua New Guinea (PNG) Tsunami |publisher=U.S. Geological Survey |accessdate=2007-04-18}}
+*{{Cite web |url=http://walrus.wr.usgs.gov/tsunami/PNGhome.html |title=Descriptive Model of the July 17, 1998 Papua New Guinea Tsunami |publisher=U.S. Geological Survey |accessdate=2007-04-18| archiveurl= http://web.archive.org/web/20070412054046/http://walrus.wr.usgs.gov/tsunami/PNGhome.html| archivedate= 12 April 2007 <!--DASHBot-->| deadurl= no}}
+*{{Cite web |url=http://www.tsunami.civil.tohoku.ac.jp/hokusai2/topics/tsunami-news/PNG/PNG-pre/pre-rprt1.html |title=Preliminary Report On The Tsunami Caused By Sissano Earthquake At, West Sepik, PNG On 17 July 1998 |author=International Tsunami Survey Team |date=September 1998| accessdate= 17 April 2007 <!--DASHBot-->}}
+*{{Cite web |url=http://nctr.pmel.noaa.gov/PNG/Upng/Davies020411/ |title=The Aitape 1998 tsunami: Reconstructing the event from interviews and field mapping| accessdate= 18 May 2007 <!--DASHBot-->| archiveurl= http://web.archive.org/web/20070529043401/http://nctr.pmel.noaa.gov/PNG/Upng/Davies020411/| archivedate= 29 May 2007| deadurl= no}}
+*{{cite journal |last=Synolakis |first=Costas E. |authorlink=  |year=2002 |month= |title=The Slump Origin of the 1998 Papua New Guinea Tsunami |journal=Proceedings of the Royal Society A |volume=458 |issue=2020 |pages=763–789 |doi=10.1098/rspa.2001.0915 |url= |accessdate= |quote= |display-authors=1 |last2=Bardet |first2=J.-P. |last3=Borrero |first3=J. C. |last4=Davies |first4=H. L. |last5=Okal |first5=E. A. |last6=Silver |first6=E. A. |last7=Sweet |first7=S. |last8=Tappin |first8=D. R. |bibcode = 2002RSPSA.458..763E }}
+*{{Cite web |url=http://www.youtube.com/watch?v=3wG90FjadFg |title=Video of Papua New Guinea Tsunami 1998 |date=July 7, 2009 |accessdate=19 Dec 2013 <!--DASHBot-->}}
+{{refend}}
+
+{{Earthquakes in 1998}}
+
+{{DEFAULTSORT:1998 Papua New Guinea Earthquake}}
+Category:Megathrust earthquakes in Papua New Guinea
+Category:20th-century tsunamis
+Category:1998 earthquakes|Papua New Guinea, 1998
+Category:1998 in Papua New Guinea|Papua New Guinea Earthquake, 1998

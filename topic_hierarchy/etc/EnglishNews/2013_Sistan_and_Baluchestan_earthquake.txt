@@ -1,0 +1,117 @@
+{{Infobox earthquake
+| title              = 2013 Sistan and Baluchestan earthquake
+| date               = {{start-date|April 16, 2013}}
+| origintime         = 15:14 Daylight saving time in Iran|IRDT (UTC+04:30)
+| image              = 
+| map2 = {{Location map | Iran
+| relief = yes
+| label =
+| lat = 28.107
+| long = 62.053
+| mark = Bullseye1.png
+| marksize = 40
+| position = top
+| width = 250
+| float = right
+| caption = }}
+| magnitude          = 7.7 Moment magnitude scale|M<sub>w</sub>
+| intensity          =
+| depth              = {{convert|82|km|abbr=on}}
+| aftershocks        =
+| location           = {{coord|28.107|62.053|region:IR_type:landmark|display=inline,title}}
+| intensity          =
+| countries affected = {{Flatlist|
+* Iran
+* Pakistan
+}}
+| casualties         = 	'''35 dead, 117 injured:'''<br />1 dead, 12 injured in Iran <br /> 34 dead, 105 injured in Pakistan
+}}
+
+The '''2013 Sistan and Baluchestan earthquake''' was a magnitude 7.7 Moment magnitude scale|M<sub>w</sub> earthquake at around Daylight saving time in Iran|IRDT 15:14 pm (UTC+4:30) on 16 April 2013 that struck a mountainous area between the cities of Saravan, Iran|Saravan and Khash, Iran|Khash in Sistan and Baluchestan Province, Iran, close to the border with Pakistan,  The quake occurred at an intermediate depth in the Arabian plate lithosphere, near the boundary between the subducting Arabian Plate and the overriding Eurasian Plate at a depth of about 80&nbsp;km.
+
+It was the strongest earthquake in Iran within the last 40 years, equal in magnitude to the one that 1978 Tabas earthquake|shook Tabas in 1978 killing 15,000, The earthquake followed a 2013 Bushehr earthquake|magnitude 6.3 event near Bushehr.
+
+The town of Mashkel was close to the quake's epicentre, and around 85 percent of the city's buildings were demolished. 35 people were killed in the earthquake.
+
+==Primary effects==
+The earthquake struck {{convert|83|km|mi|0}} east of the city of Khash, Iran|Khash, and was felt throughout much of eastern Iran and southern Pakistan, and as far away as Riyadh, Manama, Doha, Abu Dhabi, Muscat, Oman|Muscat, and Delhi.
+
+According to the Red Crescent Society of the Islamic Republic of Iran|Iranian Red Crescent, all communications in the area have been cut, and rescue teams have been dispatched.
+
+Buildings were evacuated as far away as Delhi and on the Arabian Peninsula, and many buildings in Iran were completely destroyed.
+
+==Tectonics==
+File:Arabian tectonic plate overview map.gif|thumb|right|Arabian plate boundaries with the Eurasian, African and Indian plates
+The quake reportedly occurred within the subducting Arabian Plate below the overriding Eurasian Plate.  The Strait of Hormuz separates two forms of plate collision.  To the northwest, continental crust portions of the Arabian and Eurasian Plates are colliding, resulting in continental collision|compressive faulting.  To the southeast, dense oceanic crust of the Arabian Plate is subduction|subducting underneath the Eurasian Plate at the Makran Trench.
+
+Iran lies on the fault line between the Arabian plate and the Eurasian plate. The collision of these two plates cause most of the earthquakes that strike Iran. The specific area of the fault that lies below the Sistan and Baluchestan Province is referred to as the Makran region. In this area the Arabian Plate is folding under, or Subduction|Subducting, the Eurasia Plate.
+
+===Earthquake activity===
+
+There has been an increase in earthquake activity in not only IranIran but also neighboring PakistanPakistan. In the entire 20th century Pakistan and Iran experienced a combined total of twenty-six earthquakes. Within the first thirteen years of the 21st century Pakistan and Iran have suffered a combined total of eighteen earthquakes, with the most recent List of earthquakes in Iran|earthquake in Iran
+occurring on April 16, 2013 and the most recent List of earthquakes in Pakistan|earthquake in Pakistan
+occurring on September 28, 2013. These earthquakes can range from a Microearthquake, earning less than a 2.0 on the Richter magnitude scale|Richter Magnitude Scale, to a major earthquake, earning a 7.0-7.9 on the Richter Scale. These microearthquakes rank as less than a I on the Mercalli Intensity ScaleMercalli intensity scale|Mercalli Intensity Scale, while the major earthquakes rank as a VIII or higher.
+
+====Subduction====
+
+Subduction usually occurs at convergent fault lines. The underlying tectonic plate descends, or subducts, into the Mantle (geology)|Earth's mantle. Earthquakes occurring at these faults are very large in magnitude and scale. In this case the disappearing Arabian plate is part of the oceanic crust while the Eurasia plate is part of the continental crust.
+
+====The Makran region====
+
+The Makran|Makran Region Of Pakistan and Iran is characterized by three mountain ranges. These mountain ranges, Makran Coastal Range|the Makran Coastal Range, Central Makran Range|the Central Makran Range, and Siahan Range|the Siahan Range, are located in the southwestern area of the Baluchestan province of Pakistan. These ranges are the product of years of collision between Indian Plate|the Indian Plate and the Eurasia tectonic plate. The Makran Region is also the covering point of three tectonic plates. The Indian plate, Eurasia plate, and the Arabian plate meet and converge in this area.
+
+==Preparedness and response==
+File:2013 iran pakistan earthquake.jpg|thumb|USGS ShakeMap for the mainshock
+
+===Scientific preparedness===
+
+There is no method to accurately predict an earthquake, however, there are systems which attempt to give Earthquake early warning|early warnings
+when earthquakes occur. Currently the most all-inclusive system is Earthquake Early Warning (Japan)|Japan's Earthquake Early Warning
+system. This system is monitored by the Japanese Meteorological Agency
+The JMA sends out the warnings through the television, mobile devices, the internet, and the radio as soon as an earthquake is detected. Other countries have similar systems that are mostly limited to a particular region, for example, the United States' early warning system is in place only for the earthquake disposed west coast.
+
+One study conducted in California, United States suggests there may be anew way to more precisely presage earthquakes. This group of scientists, composed of scientists form Carnegie Institution for Science|the Carnegie Institution for Science
+Rice University,and
+University of California, Berkeley|the University of California, Berkeley
+monitored earthquake waves in the San Andreas Fault
+using seismometers for twenty years. This group discovered cracks in the fault filled with fluids. The scientists noticed that these fluids shifted after being disrupted by seismic activity. Shifting fluids cause faults to weaken, making them more prone to earthquakes.
+
+===The Red Crescent===
+
+International Red Cross and Red Crescent Movement|The International Federation of the Red Cross and the Red Crescent Societies
+is a nongovernmental organization founded at the 1919 Paris Peace Conference
+after WWI. The IFRC has seven fundamental principles. The IFRC also has a set of goals it aspires to achieve during each disaster recovery. These four goals are: reducing the deaths, inures, and impact caused by the disaster; decreasing the amount of death and illnesses caused by diseases and public health emergencies; increasing its ability to address the urgent situations; and promote respect for human dignity while reducing intolerance and discrimination. The IFRC has created stock procedure for disaster relief, however the specifics vary based on the type of disaster, the region the disaster affected, and the amount of destruction caused by the disaster.
+
+On April 9, 2013, the IFRC deployed seventy-five rescue teams to northwestern Iran following a 2013 Bushehr earthquake|6.3 magnitude earthquake. A week later a 7.8 magnitude earthquake struck southeastern Iran, the IFRC dispatched air assessment teams in addition to forty ambulances. While the first earthquake was much more destructive, the IFRC was still able to aid both disaster areas.
+
+In June 2013, the IFRC and Red Crescent Society of the Islamic Republic of Iran|the Red Crescent Society of the Islamic Republic of Iran
+agreed to band together in an attempt to redouble their efforts to promote better building codes in disaster prone areas, like Iran. Their goals include erecting resilient buildings, improving disaster preparedness, and further developing the IFRC's disaster response guiltiness. There may be similar partnerships between the IFRC and other countries to achieve similar goals.
+
+==Damages and casualties==
+
+The afternoon of April 16, 2013 rocked the Sistan and Baluchestan province of Iran and Pakistan. Most of the citizens of the Sistan and Baluchestan province live in either mud shacks or tents.
+
+===Damage and casualties by country===
+
+*{{flag|Iran}}{{spaced ndash}}At least 1 was killed and another 12 were injured.
+
+*{{flag|Pakistan}}{{spaced ndash}}At least 34 people were killed and another 105 were injured.
+
+{{clear}}
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+* http://eol.jsc.nasa.gov/handbooks/arabianpages/mainframe.htm Tectonics of the Arabian Plate — Image Science and Analysis Laboratory, NASA-Johnson Space Center
+
+{{Portalbar|Iran|Pakistan|Earthquakes|2010s}}
+{{Earthquakes in Iran}}
+{{Earthquakes in 2013}}
+
+{{DEFAULTSORT:2013 Sistan And Baluchestan earthquake}}
+Category:2013 earthquakes
+Category:2013 in Pakistan
+Category:Earthquakes in Iran
+Category:Earthquakes in Pakistan
+Category:2013 in Iran

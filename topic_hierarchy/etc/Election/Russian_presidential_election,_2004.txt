@@ -1,0 +1,110 @@
+{{Infobox election
+| election_name = Russian presidential election, 2004
+| country = Russia
+| type = presidential
+| ongoing = no
+| previous_election = Russian presidential election, 2000
+| previous_year = 2000
+| next_election = Russian presidential election, 2008
+| next_year = 2008
+| election_date =  14 March 2004
+| image1 = [[File:Vladimir Putin.jpg|115px]]
+| nominee1 = '''[[Vladimir Putin]]'''
+| party1 = Independent (politician)
+| popular_vote1 = '''49,558,328'''
+| percentage1 = 71.9%
+| image2 = [[File:Nikolay Kharitonov 5 December 2000.jpg|115px]]
+| nominee2 = [[Nikolay Kharitonov]]
+| party2 = Communist Party of the Russian Federation
+| popular_vote2 = 9,514,554
+| percentage2 = 13.8%
+| title = President
+| before_election = [[Vladimir Putin]]
+| after_election = [[Vladimir Putin]]
+| before_party = Unity (political party, Russia)|Unity
+| after_party = Supported by United Russia
+}}
+
+'''Presidential elections''' were held in [[Russia]] on 14 March 2004.<ref name=NS>[[Dieter Nohlen|Nohlen, D]] & Stöver, P (2010) ''Elections in Europe: A data handbook'', p1642 ISBN 978-3-8329-5609-7</ref> Incumbent President [[Vladimir Putin]] was seeking a second full four-year term. He was re-elected with 71.9% of the vote.
+
+==Candidates==
+
+===Sergey Glazyev===
+Glazyev was Minister for Foreign Trade under [[Boris Yeltsin]], a [[Communist Party of the Russian Federation|Communist]] member of the [[Duma|State Duma]] and in 2003 became co-chairman of the newly established [[Rodina (political party)|Rodina]] party. However, he failed to win the Rodina nomination because of a power struggle with Dmitri Rogozin, and ran as independent candidate. He campaigned as a critic of economic reforms. He argued that post-Communist governments have ignored social justice and promised to improve welfare.
+
+===Irina Khakamada===
+Khakamada, the daughter of a [[Japan Communist Party|Japanese Communist]] who took [[Soviet Union|Soviet]] citizenship in the 1950s, emerged as Putin's most outspoken critic. A member of the [[Duma|State Duma]] for eight years, she lost her seat in [[Russian legislative election, 2003|2003]]. She was a member of the [[Union of Rightist Forces]], but did not run as a party candidate. "I am not afraid of the terrorists in power," she told the daily newspaper ''Kommersant''. "Our children must grow up as free people. Dictatorship will not be accepted."
+
+===Nikolay Kharitonov===
+Kharitonov was the candidate of the [[Communist Party of the Russian Federation]], despite not being a member of the party. A former [[KGB]] colonel, he was a member of the [[Agrarian Party of Russia]], an ally of the Communist Party. He was put forward after Communist leader [[Gennady Zyuganov]] declined to stand for a third time.
+
+===Oleg Malyshkin===
+Malyshkin was nominated by the [[Liberal Democratic Party of Russia|Liberal Democratic Party]], after the party leader [[Vladimir Zhirinovsky]], who contested the last two presidential elections, chose not to run again. Malyshkin, a mining engineer, had been an LDPR member since 1991 and the head of security of Vladimir Zhirinovsky. He was elected to the [[Duma|State Duma]] in 2003.
+
+===Sergey Mironov===
+Mironov was Speaker of the [[Federation Council of Russia|Federation Council]], the upper house of the Russian parliament, and was considered a loyalist to Vladimir Putin. Prior to launching his campaign, he expressed his support for Putin's candidacy.
+
+===Vladimir Putin===
+Putin, formerly Prime Minister, was elected President in [[Russian presidential election, 2000|2000]], and ran for the second term. His popularity remained quite high whilst in office thanks to economic stability and despite controversies on media freedoms. He refused [[United Russia]]'s invitation to be nominated as party candidate and ran as an independent.
+
+==Conduct==
+
+===General comments===
+Observers representing the [[Organization for Security and Co-operation in Europe]] and the [[Parliamentary Assembly of the Council of Europe]], cited what they called abuses of government resources, bias in the state media and instances of ballot stuffing on election day. According to the ad hoc Committee by the [[Parliamentary Assembly of the Council of Europe]], "the elections were generally well administrated and reflected the consistently high public approval rating of the incumbent president but lacked elements of a genuine democratic contest."
+
+"While on a technical level the election was organized with professionalism, particularly on the part of the Central Election Commission (CEC), the election process overall did not adequately reflect principles necessary for a healthy democratic election process. The election process failed to meet important commitments concerning treatment of candidates by the State-controlled media on a non-discriminatory basis, equal opportunities for all candidates and secrecy of the ballot," reported observers by [[Organization for Security and Co-operation in Europe]]. "Localised instances of election-related abuse of official function, whilst met with an appropriately robust response by the electoral authorities in some instances, reflected a lack of democratic culture, accountability and responsibility, particularly in areas distant from the capital."
+
+Observers representing the [[Commonwealth of Independent States]] recognized the election as "free, democratic and fair".<ref>[http://lenta.ru/vybory/2004/03/15/observers/_Printed.htm The CIS observers have called the Russian presidential election democratic and fair] [[Lenta.Ru]], 15 March 2004</ref> The head of the mission [[Yury Yarov]] assured that violations fixed during the mission didn't affect "free expression of the electors' will and result of the election".
+
+===Election campaign===
+According to report by the ad hoc Committee by the [[Parliamentary Assembly of the Council of Europe]], "The Presidential Election Law and the Basic Guarantees of Electoral Rights Law provided the legal framework for the presidential elections, laying down conditions for the transparency in the organisation and conduct of the election." Criticizing the election campaign, the Committee claimed as "unreasonable hurdle" the requirement to collect 2 million signatures for submission to the CEC in support of persons seeking registration as candidates. Another concern was, "The Russian Constitution stipulates that in a presidential election, if the turn-out is less than 50%, a new round has to be held, with candidates registering anew. This clause raised concerns of authorities on voters turnout and a massive campaign encouraging people to participate in elections had been launched by the CEC and local authorities. In some regions, local authorities overused their power to force people to take part in the elections." The election campaign in general was "low-key and all but invisible, which could be explained by the predictability of the results of the election." Glazyev's manager reported the use of [[administrative resource]]s by preventing Glazyev's campaigning in the regions; Khakamada claimed that "local authorities were instructed to hamper her meetings with voters".
+
+[[Parliamentary Assembly of the Council of Europe|PACE]] reported that despite some irregularities, "credit should be given to the election administration which ensured security and professional conduct of the voting process". PACE noted the unusually high turnout in five North Caucasus republics (more than 90%), "Mr Putin received 98.2 % of the vote in Ingushetia, 96.5 % in Kabardino-Balkaria, 94,6 % in Dagestan, 92.3% in Chechnya and 91.25% in North Ossetia. Taking into account that the general turnout of the election was only 64,39%, the election results in these regions seem to be unusually high and one-sided." Considering situation in Chechnya, [[the Moscow Times]] quoted election officials in the republic's capital, [[Grozny]], as acknowledging that they had filled in several thousand ballots for Putin.<ref>[http://www.themoscowtimes.com/stories/2004/03/15/012.html The Moscow Times] {{dead link|date=February 2012}}</ref>
+
+===Media===
+The report of PACE said that "during the presidential election the International Election Observation Mission concluded that state-controlled media had displayed clear bias in favour of the incumbent in news presentation and coverage of the campaign." According to the report by [[Office for Democratic Institutions and Human Rights]] of the [[Organization for Security and Co-operation in Europe]],
+
+"Television is the main source of public information in the Russian Federation. Two State-controlled TV channels have countrywide outreach, while the most significant private TV stations are NTV and Ren TV… The State-controlled media comprehensively failed to meet its legal obligation to provide equal treatment to all candidates, displaying clear favouritism towards Mr. Putin. While the other candidates had access to television and other media, through free airtime and televised debates, their access to the primetime news programmes and current affairs programmes on the State-controlled broadcasters was limited… In contrast to the coverage by State-funded TV channels, private broadcasters monitored by the EOM provided more balanced coverage, with a greater diversity of views."
+
+==Results==
+{| class=wikitable style=text-align:right
+!Candidate
+!Party
+!Votes
+!%
+|-
+|align=left|[[Vladimir Putin]]||align=left|Independent||49,558,328||71.9
+|-
+|align=left|[[Nikolay Kharitonov]]||align=left|[[Communist Party of the Russian Federation|Communist Party]]||9,514,554||13.8
+|-
+|align=left|[[Sergey Glazyev]]||align=left|Independent||2,850,610||4.1
+|-
+|align=left|[[Irina Khakamada]]||align=left|Independent||2,672,189||3.9
+|-
+|align=left|[[Oleg Malyshkin]]||align=left|[[Liberal Democratic Party of Russia|Liberal Democratic Party]]||1,405,326||2.0
+|-
+|align=left|[[Sergey Mironov]]||align=left|[[Russian Party of Life]]||524,332||0.8
+|-
+|align=left colspan=2|Against all||2,397,140||3.5
+|-
+|align=left colspan=2|Invalid/blank votes||578,847||–
+|-
+|align=left colspan=2|'''Total'''||'''69,501,326'''||'''100'''
+|-
+|align=left colspan=2|Registered voters/turnout||108,064,281||64.3
+|-
+|align=left colspan=4|Source: Nohlen & Stöver
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www1.osce.org/documents/odihr/2004/06/3033_en.pdf Final report on the presidential election in the Russian Federation, 26 March 2000], [[Organization for Security and Co-operation in Europe]].
+*[http://assembly.coe.int/main.asp?Link=/documents/workingdocs/doc04/edoc10150.htm Ad hoc Committee to observe the Presidential election in the Russian Federation (14 March 2004)], [[Parliamentary Assembly of the Council of Europe|PACE]] Report. April 26, 2004.{{dead link|date=April 2014}}
+
+{{Russian elections}}
+
+[[Category:Presidential elections in Russia|2004]]
+[[Category:2004 elections in Russia]]
+[[Category:2004 in Russia|Presidential election]]

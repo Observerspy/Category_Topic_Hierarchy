@@ -1,0 +1,49 @@
+{{Earthquake
+|title=2000 Baku earthquake
+|date= {{start-date|November 25, 2000|November 25, 2000}}
+|map = Baku 2000 earthqauke.jpg
+|magnitude = 7 surface wave magnitude|Ms
+|depth=
+|location= {{coord|40.37|N|49.89|E}}
+|countries affected = Baku, {{flagicon|Azerbaijan}} Azerbaijan
+|casualties = 26 dead
+}}
+
+The '''2000 Baku earthquake''' occurred on Saturday, November 25, 2000 at 22:10 (18:10 GMT) local time, measuring 7.0 on the Richter scale in the epicentre with 6.3 in Baku, Azerbaijan, and three minutes later followed by a quake measuring 5.9. It was the strongest for almost 160 years, since 1842 Baku earthquake|1842 in the Baku suburbs and in addition to the capital affected Sumgayit, Shamakhi and neighboring cities. According to the United States Geological Survey, the epicentre was in the Caspian Sea, 25&nbsp;km to the south south-east of Baku. The earthquake was felt as far away as e.g. Tbilisi, 600&nbsp;km north west of the epicentre, Makhachkala (up to magnitude 4) and the Karabudakh and Isberbas settlements in Republic of Dagestan|Dagestan (up to 5). It is assumed that the earthquake was triggered by active tectonic motion on the border of two major sections of the earth crust – the Turansk plate and the Kopedag-Caucasian folded plate motion area. The earthquake zone gravitates towards Apsheron-Chelekensk deep crust break.
+
+==Aftermath==
+{{Expand section|date=November 2010}}
+{{Refimprove|date=November 2010}}
+According to the Azerbaijani government, 26 people died as a primary result, but only three people in collapsing buildings. A total of 412 people were either hospitalised or sought medical assistance. President Heydar Aliyev announced that more than 90 buildings and apartment blocks have been seriously damaged. Damage was identified at the Church of the Saviour, Baku|German church, the 15th century Shirvanshahs' Palace, the Azerbaijan State Opera and Ballet Theatre|Opera and Ballet Theatre, the Taza Pir Mosque, the Blue Mosque and the Palace of Happiness|Palace of Marriage Registrations. Despite affecting northeastern coastline of Azerbaijan no damage to the offshore oil exploration infrastructure has been reported.
+
+Many phone lines were down and the electricity was out in much of the city. Due to anxiety caused by possible fires the natural gas supply was reduced to 80%. Baku and Sumgait residents spent the rest of the night on the street. After the disaster seismologists have banned the construction of buildings with over nine floors.
+
+On the same day the earthquake in Saratov caused by tectonic changes in the Volga region after the Baku earthquake took place.
+
+==Efforts==
+===National effort===
+Following the presidential decree of November 28, 2000, the State Emergency Commission was provided with an amount of ca. US$ 5,5 million in order to deal with the consequences of the earthquake. The SEC dispatched assessment teams to the affected areas. In Baku, as of November 27, 19 families have been evacuated from three severely damaged houses. Schools have been temporarily closed.
+
+===International response===
+The UN Disaster Management Team, composed of UNDP, UNHCR, UNICEF, UNFPA
+and WHO, was established in order to consider opportunities to support the governmental efforts. The IFRC launched an emergency appeal for international assistance amounting to US$ 590,000.
+
+==Notes==
+
+
+==See also==
+* List of earthquakes in Azerbaijan
+
+==External links==
+* http://archives.cnn.com/2000/WORLD/europe/11/26/azerbijan.quake/ CNN.com report
+* http://www.commersant.ua/index-news.html?ext=news&id=4986 Коммерсантъ (in Russian)
+* http://www.azerros.ru/pnhtml/n03_11.htm Summary of Azeri and Russian sources (in Russian)
+* http://www.youtube.com/watch?v=f9qtiK3Mifo The only existing video footage of the earthquake
+
+{{Earthquakes in 2000}}
+
+{{DEFAULTSORT:2000 Baku Earthquake}}
+Category:2000 earthquakes|Baku earthquake
+Category:History of Baku|Baku earthquake, 2000
+Category:Earthquakes in Azerbaijan|Baku
+Category:2000 in Azerbaijan|Baku

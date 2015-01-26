@@ -1,0 +1,42 @@
+{{Earthquake
+|title              = 2008 Iceland earthquake
+|date               = {{Start date|2008|5|29}}
+|map                = 2008 Iceland earthquake.jpg
+|magnitude          = 6.1 Moment magnitude scale|M<sub>w</sub>
+|depth              = {{convert|10|km|mi|abbr=on}}
+|location           = 63.992°N, 21.014°W
+|countries affected = {{flagcountry|Iceland}}
+|casualties         = 30 injuries
+}}
+
+The '''2008 Iceland earthquake''' was a doublet earthquake that struck on May 29, 2008 at 15:46 UTC in southwestern Iceland. There were no human fatalities, but 30 injuries were reported and a number of sheep were killed. The epicenter of the earthquake was between the towns of Hverager?i and Selfoss (town)|Selfoss, about {{convert|45|km|mi|sp=us}} east-southeast of the capital, Reykjavík. It was the strongest earthquake to hit Iceland since the 2000 Iceland earthquakes|summer of 2000.
+
+==Characteristics==
+{{Unreferenced section|date=February 2014}}
+Iceland straddles the mid-Atlantic ridge where the Eurasian and North-American tectonic plates move away from each other. Volcano|Volcanic activity is common along such divergent boundary|divergent boundaries but strong earthquakes are rare. In Iceland the ridge is somewhat off-set, creating two transform faults where plates move horizontally along each other. One is in the north of the country and one in the south; the strongest Icelandic earthquakes happen along those transform faults. The 29 May quake is classified by geologists as typical ''Su?urlandsskjálftar'' (literally: Southern Iceland quakes), which happen on the southern fault.
+
+==Damage==
+Unlike the quakes in the summer of 2000, the 29 May quake happened in the most densely populated part of the South Iceland district. The population of the affected area is about 12,000 and it includes the towns of Selfoss and Hverager?i as well as Eyrarbakki, Stokkseyri and ?orláksh?fn. Many farms were also affected.
+
+==See also==
+*2000 Iceland earthquakes
+*Geology of Iceland
+*List of earthquakes
+
+==References==
+{{reflist}}
+
+==Further reading==
+*Vogfjord, K. S., et al. http://adsabs.harvard.edu/abs/2009EGUGA..1111748V "Fault interaction in the South Iceland Seismic Zone: The May 2008, M6. 3 earthquake". EGU General Assembly Conference Abstracts. Vol. 11. 2009.
+*Brandsdottir, Bryndis, et al. "The May 29th 2008 earthquake aftershock sequence within the South Iceland Seismic Zone: Fault locations and source parameters of aftershocks." ''J?kull'' 60 (2010): 1-22.
+
+{{coord|63.992|N|21.014|W|source:enwiki-plaintext-parser|display=title}}
+
+{{DEFAULTSORT:2008 Iceland Earthquake}}
+{{Earthquakes in 2008}}
+Category:2008 earthquakes|Iceland
+Category:2008 in Iceland|Earthquake
+Category:Earthquakes in Iceland
+Category:Geography of Iceland|Earthquake 2008
+
+{{Iceland-stub}}

@@ -1,0 +1,60 @@
+{{Use dmy dates|date=July 2013}}
+{{earthquake
+|title= 1855 Wairarapa New Zealand
+|map2= {{Location map | New Zealand |relief=1
+| label=
+| lat=-41.4
+| long=174.5
+| mark=Bullseye1.png
+| marksize=50
+| position=top
+| width= 250
+| float=right
+| caption=}}
+|date= {{start-date|df=yes|23 January 1855}}
+|magnitude=8.2
+|depth=33 km
+|location={{coord|-41.4|174.5|display=inline,title|region:NZ}}
+|countries affected= New Zealand, North Island
+|casualties=5–9 deaths
+}}
+
+The '''1855 Wairarapa earthquake''' occurred on 23 January at about 9 p.m. In Wellington,  close to the epicenter, shaking lasted for at least 50 seconds. The Seismic scale|magnitude of the earthquake is estimated to have been in the range 8.1–8.3, the most powerful recorded in New Zealand since systematic European colonisation began in 1840. This earthquake was associated with the largest observed movement on a strike-slip fault, maximum {{convert|18|m}}. It has been suggested that the surface rupture formed by this event helped influence Charles Lyell to link earthquakes with rapid movement on Fault (geology)|faults.
+
+==Tectonic setting==
+New Zealand lies along the boundary between the Indo-Australian Plate|Australian and Pacific Plates. In the South Island most of the relative displacement between these plates is taken up along a single dextral (right lateral) Fault (geology)#Strike-slip faults|strike-slip fault with a major Fault (geology)#Dip-slip faults|reverse component, the Alpine Fault. In the North Island the displacement is mainly taken up along the Kermadec Trench|Kermadec subduction zone, although the remaining dextral strike-slip component  of the relative plate motion is accommodated by the North Island Fault System (NIFS). A group of dextral strike-slip structures, known as the Marlborough Fault System, transfer displacement between the mainly Transform fault|transform and Convergent boundary|convergent type plate boundaries in a complex zone at the northern end of the South Island. The earthquake occurred on the Wairarapa Fault which is part of the NIFS.
+
+==Earthquake characteristics==
+File:NIFS.png|Map of the North Island Fault System showing the Wairarapa Fault|thumb|300 px
+{{see also|List of New Zealand earthquakes|Marine terrace}}
+
+The earthquake was associated with the rupturing of approximately {{convert|150|km|abbr=on}} of the Wairarapa Fault. A horizontal displacement of up to {{convert|18|m}} was accompanied by uplift and tilting of the Rimutaka Range on the northwestern side of the fault with vertical offsets of about 6 metres near the fault reducing to almost nothing on the western coast of the Wellington Peninsula. The estimated magnitude of about 8.2 is unusually large for an earthquake associated with movement on a mainly strike-slip fault, and the coseismic offset would have been the largest known for such an event. It has been suggested that this was caused by the rupture propagating down to where the fault links through to the top of the subducting Pacific Plate. Geomorphology|Geomorphological evidence, particularly the uplifted beach ridges observed at Turakirae Head, appears to record three previous coseismic uplifts of the Rimutaka Range caused by earthquakes similar in magnitude to the 1855 event, with a recurrence interval of about 2200 years.
+
+==Damage==
+Wellington experienced severe shaking but the resulting damage was reduced as the city had been extensively rebuilt following the 1848 Marlborough earthquake using mainly wooden structures; only one person was known to have died. In the surrounding countryside at least another four people (possibly as many as eight) were reported to have died during the earthquake. Numerous landslides were reported along the slopes of the Rimutaka Range. Minor damage was recorded in places as far away as Lyttelton, New Zealand|Lyttelton and Christchurch.
+
+The uplift of the northwestern side of Wellington Bay rendered many of the jetties in the harbour unusable, although this new area of land provided an excellent new rail and road route to the north.
+
+==Tsunami==
+The earthquake generated New Zealand’s largest historical locally-generated tsunami, with a maximum run-up of {{convert|10|-|11|m|abbr=on}}.
+New Zealand's National Institute of Water and Atmospheric Research created an animated tsunami simulation model based on the 1855 Wairarapa event, which was screened on the television tele-drama "Aftershock" 
+
+==See also==
+*1843 Wanganui earthquake
+*1888 North Canterbury earthquake
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+* http://www.teara.govt.nz/EarthSeaAndSky/NaturalHazardsAndDisasters/HistoricEarthquakes/3/en Eileen McSaveney. 'Historic earthquakes', Te Ara - the Encyclopedia of New Zealand, updated 21-Sep-2007
+
+{{Earthquakes in New Zealand}}
+{{Christchurch earthquakes}}
+
+{{DEFAULTSORT:1855 Wairarapa Earthquake}}
+Category:Earthquakes in New Zealand|1855 Wairarapa
+Category:1855 earthquakes|Wairarapa earthquake
+Category:1855 in New Zealand|Wairarapa earthquake
+Category:Wairarapa
+Category:History of the Wellington Region

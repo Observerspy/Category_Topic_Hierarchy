@@ -1,0 +1,65 @@
+{{Infobox earthquake
+| title              = 1946 Vancouver Island earthquake
+| date               = {{start-date|June 23, 1946}}
+| map2               = {{Location map | Canada British Columbia
+  | caption = 
+  | lat = 49.75
+  | long = -124.50
+  | mark = Bullseye1.png
+  | marksize = 40
+  | relief = yes}}
+| magnitude          = 7.3 Moment magnitude scale|M<sub>w</sub>
+| depth              = ~ {{convert|20|km|abbr=on}}
+| location           = {{coord|49.75|N|124.5|W}} 
+| countries affected = Canada <br> United States
+| tsunami            =
+| aftershocks        =
+| intensity          = Mercalli intensity scale|VIII - Destructive
+| casualties         = 2 killed
+}}
+The '''1946 Vancouver Island earthquake''' occurred with a moment magnitude scale|moment magnitude of 7.3 that struck Vancouver Island, on the Coast of British Columbia, Canada, at 10:15 a.m. on Sunday, June 23. Shaking was felt from Portland, Oregon to Prince Rupert, British Columbia. The earthquake is remembered as one of the most damaging earthquakes in the history of British Columbia. However, damage was restricted because there were no heavily populated areas near the epicenter, where the violent shaking occurred.
+
+This earthquake is Canada's largest historic onshore earthquake. However, the greatest earthquake in Canadian history recorded by seismometers was the 1949 Queen Charlotte earthquake, an interplate earthquake that occurred on the ocean bottom just off the rugged coast of Graham Island, which reached magnitude 8.1 on the moment magnitude scale.
+
+== Background and tectonics ==
+The tectonics that caused the 1946 Vancouver Island earthquake are poorly known. No surface expression of the offset was noticed, most likely because the epicenter area is very remote and densely forested. A comprehensive examination and computer interpretation of seismic data from over 50 stations has shown that a possible explanation of the earthquake includes a fault (geology)|strike-slip fault corresponding to the lengthy axis of Vancouver Island known as the Beaufort Range Fault. A fault running across Vancouver Island, corresponding to the projection of the underwater Nootka Fault on the British Columbia Coast is also a possibility, but this is less likely to be true, because the earthquake should have given evidence of offsets along a series of highways that follows much of the eastern coastline of Vancouver Island, called Island Highway, and other roads between Courtenay, British Columbia|Courtenay and Campbell River (Vancouver Island)|Campbell River. The estimated depth of the earthquake places it within the continental crust, not at the margin with the Cascadia subduction zone, and certainly not inside the subduction zone itself. Specifically, the earthquake's epicenter was positioned somewhere in the Forbidden Plateau region, located in central Vancouver Island.
+
+== Damage and casualties ==
+File:Comox house failure in 1946.jpg|thumb|House failure in Comox, British Columbia|Comox
+Though very destructive, the earthquake caused only two casualties: Jacob L. Kingston, aged 69, and Daniel Fidler, who was 50. One of the two had a heart attack; the other drowned when his dinghy was swamped by a wave.
+
+In Vancouver, damage consisted of lofty buildings oscillating violently, and a piece of masonry fell from the local railway station. In addition, within the city, at least one gas line cracked and several power outages occurred. Fires broke out in several chimneys, and at least one Swing bridge|swing span bridge was fractured by the shaking. In the Hotel Vancouver, which housed the elderly and caught on fire, more than 500 war veterans' families fled the flames. One writer, George Finley, stated that the Lions' Gate Bridge "swayed like a leaf", coinciding with a "low, rumbling sound, like a deep growl."
+
+File:Bank of Montreal damage in 1946.jpg|thumb|left|Damage to Bank of Montreal in Alberni.
+
+The 1946 Vancouver Island earthquake demolished 75% of the chimneys in the communities of Cumberland, British Columbia|Cumberland, Union Bay, British Columbia|Union Bay, and Courtenay, British Columbia|Courtenay and caused extensive damage in Comox, British Columbia|Comox, Port Alberni, British Columbia|Port Alberni, and Powell River, British Columbia|Powell River, on the eastern side of the Strait of Georgia. Some chimneys were fractured in Victoria, British Columbia|Victoria, and people in Victoria and Vancouver experienced great fright, with some seen fleeing into the streets.
+
+Landslides created by the earthquake were common throughout Vancouver Island. This included the bottom of Deep Bay, British Columbia|Deep Bay which sank between {{convert|2.7|m|ft|0|abbr=on}} and {{convert|25.6|m|ft|0|abbr=on}}. These measurements were reported by the Canadian Hydrographic Service. Also, a {{convert|3|m|adj=on}} ground shift occurred on Read Island. Ships throughout the region were affected, and those on board them during the earthquake described it as similar to having run over a shoal|sand bar or striking a rock. Undersea power lines were destroyed in the long narrow Alberni Inlet and near the city of Powell River, British Columbia|Powell River. All lighthouse keepers in the surrounding area felt the earthquake, and experienced damages including shattered windows and smashed dishes. A tsunami struck the west coast of Texada Island with two waves, the first being {{convert|2|m}} high and the second {{convert|1|m}} high. The earthquake caused a landslide near Mount Colonel Foster. One fortunate occurrence allowed researchers afterward to review the effects of the earthquake: an aerial photographic survey of Vancouver Island had commenced in 1946, soon after the earthquake, and these photographs were eventually studied by a geoscientist in the late 1970s.
+
+South of the Canada–United States border in Washington (U.S. state)|Washington State, some chimneys fell at Eastsound, Washington|Eastsound on Orcas Island and a concrete mill was damaged at Port Angeles, Washington|Port Angeles. The earthquake was powerful enough to knock the needle off a seismograph at the University of Washington, and was sustained for about a minute even in Seattle.
+
+The earthquake caused somewhat astounding movement among structures, moving one {{convert|300|ft|adj=on}} wall about {{convert|35|ft}} and caused one home to shift for {{convert|5|ft}} off its foundation. The total affected area in Canada and the United States was about {{convert|260000|km2|mi2|abbr=on}}.
+
+== See also ==
+{{commons category|1946 Vancouver Island earthquake}}
+*1918 Vancouver Island earthquake
+*1949 Queen Charlotte earthquake
+*List of deadly earthquakes since 1900
+*List of earthquakes in Canada
+*List of earthquakes in the United States
+
+== References ==
+{{reflist|30em|refs=
+
+}}
+
+{{Earthquakes in Canada}}
+
+{{DEFAULTSORT:Vancouver Island}}
+Category:1946 in Canada
+Category:1946 in the United States
+Category:Earthquakes in Washington (state)|1946 Vancouver
+Category:1946 earthquakes
+Category:History of Vancouver Island
+Category:Earthquakes in British Columbia|1946 Vancouver
+Category:Alberni Valley

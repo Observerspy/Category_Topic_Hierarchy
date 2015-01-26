@@ -1,0 +1,60 @@
+{{Use mdy dates|date=March 2012}}
+{{Earthquake
+|title= 2001 Nisqually earthquake
+|image=Hwy302_after_the_Nisqually_earthquake.jpg
+|date= {{Start-date|February 28, 2001}}
+|map = Nisqually Earthquake ShakeMAp Mon 13 2003.jpg
+|magnitude = 6.8 Moment magnitude scale|M<sub>w</sub>
+|depth={{convert|52|km|mi|0|sp=us}}
+|location={{coord|47.15|N|122.73|W|format=dms|region:US-WA_type:event_scale:50000|display=inline,title}}
+|countries affected = United States, Canada
+|casualties = 1 dead, about 400 injuries
+}}
+
+The '''Nisqually earthquake''' (also commonly referred to as "The Ash Wednesday Quake") was an intraplate earthquake|intraslab earthquake, occurring at 10:54&nbsp;am Pacific Time Zone|PST (18:54 UTC) on February 28, 2001. One of the largest recorded earthquakes in Washington (U.S. state)|Washington state history, it measured 6.8 on the moment magnitude scale and lasted approximately 45 seconds. The epicenter of the earthquake was Anderson Island (Washington)|Anderson Island, about {{convert|17|km|mi|abbr=on}} northeast of Olympia, Washington|Olympia. The focus (earthquake)|focus was at a depth of {{convert|52|km|mi|abbr=on}}. Tremors were felt as far away as Scio, Oregon, across the border in Vancouver, British Columbia, Canada, and {{convert|175|mi|km|abbr=on}} east in Pasco, Washington. There were also reports that it was felt as far away as Spokane, Washington and Sandpoint, Idaho.
+
+The quake caused some property damage in Seattle and surrounding areas. Although there were no reports of deaths directly from the earthquake, local news outlets reported that there was one death from a heart attack at the time of the earthquake.
+
+==Geological origins==
+The Puget Sound area, where this earthquake occurred, is prone to deep earthquakes due to the Juan de Fuca Plate|Juan de Fuca tectonic plate's subduction under the North American Plate at 3.5 to 4.5&nbsp;cm. a year  as part of the Cascadia subduction zone, which causes stress (physics)|stress in the former as it sinks into the earth's mantle|mantle. As an intraslab earthquake, it was produced by a change in volume as rock changed from one form to another. Similar significant earthquakes occurred in the same general region on 1965 Olympia earthquake|April 29, 1965 (magnitude 6.5, depth {{convert|63|km|mi|abbr=on}}), and 1949 Olympia earthquake|April 13, 1949 (magnitude 7.1, depth {{convert|53|km|mi|abbr=on}}).
+
+==Damage and effects==
+File:FEMA - 1433 - Photograph by Kevin Galvin taken on 03-04-2001 in Washington.jpg|thumb|A large van was crushed by earthquake debris in a Seattle parking lot.
+About 400 people were injured.
+Most of the property damage occurred very near the epicenter or in unreinforced concrete or masonry buildings, such as those in the First Hill, Seattle|First Hill, Pioneer Square, Seattle|Pioneer Square and SoDo, Seattle|Sodo neighborhoods of Seattle. The Trinity Episcopal Parish Church (Seattle)|Trinity Parish Church on First Hill was severely damaged. The control tower|air traffic control tower at Seattle-Tacoma International Airport|Sea-Tac Airport was heavily damaged during the quake; it has since been replaced with a more earthquake-resistant tower. The quake splintered a buttress under the dome of the Washington State Capitol|capitol building in Olympia, but previous earthquake-resistance work prevented more serious harm to the building. Additionally, the earthquake caused power outages in downtown Seattle. The U.S. Military's Joint Base Lewis-McChord|Ft. Lewis and McChord Air Force Base received damage in the quake. There was very slight damage in Victoria, British Columbia.
+
+File:FEMA - 5079 - Photograph by FEMA News Photo taken on 04-18-2001 in Washington.jpg|The Fourth Avenue Bridge in Olympia was destroyed.|thumb
+Following the quake, many buildings and structures in the area were closed temporarily for inspection. This included several bridges, all state offices in Olympia, and Boeing's factories in the Seattle area. Various schools in the state also closed for the day. The Fourth Avenue Bridge in downtown Olympia was heavily damaged due to the quake and was later torn down and re-built. In Seattle, the Alaskan Way Viaduct and Alaskan Way Seawall|its seawall were damaged, forcing the viaduct to close for emergency repairs and ultimately factoring into the decision to replace the viaduct entirely.
+
+==Impact on natural area==
+Named after the Nisqually River|Nisqually Delta, this earthquake hit the southern end of Puget Sound causing damage to the ports of Seattle and Tacoma. Liquefaction was also determined to be a main contributor to increased stream flows. With multiple stream gages collecting data before and after the earthquake there was a regular pattern of higher increased stream flow around areas where liquefaction occurred. The earthquake did also go through a wildlife refuge causing liquefaction in the soil and damage to the buildings within. It also startled birds which may have caused some to move from the area but besides that, caused little harm to the wildlife.
+
+==Effect on businesses==
+The earthquake caused approximately $305 million of insured losses and a total of $2 billion worth of damage in the state of Washington. The area was declared a natural disaster area by president George W. Bush and was therefore able to receive federal recovery assistance the day after the quake. The number of businesses in the heavily affected region was relatively small. Many businesses did not receive any aid at all. Those that did receive aid had no help with indirect losses. Indirect losses varied from inventory or data corruption, disruption in the workplace, productivity, etc. Data and inventory losses were possibly the most damaging, especially for retail stores. Retail stores lost inventory from the earthquake as well as people's interest for a period of time after the quake. One of the vital elements to prevent damage and injury were well structured buildings. This can prevent the loss of life as well as inventory.
+
+==Response==
+A year after the earthquake a rapid response plan was developed. The region realized how they avoided a potential extremely damaging catastrophe. Many businesses, organizations, hospitals, etc. were asked to sign a regional disaster plan. This would allow disaster relief teams to locate and aid places much faster than before. It would also be able to direct limited resources to places with greatest immediate need.
+
+==See also==
+{{Commons category|2001 Nisqually earthquake}}
+*List of earthquakes in the United States
+*Geology of the Pacific Northwest
+
+==References==
+{{reflist|colwidth=30em}}
+
+==External links==
+*http://www.ce.washington.edu/~nisqually/index.html The Nisqually Earthquake from the University of Washington
+*http://www.dnr.wa.gov/ResearchScience/Topics/GeologicHazardsMapping/Pages/nisqually_eq.aspx Nisqually Earthquake of February 28, 2001 from the Washington State Department of Natural Resources
+*http://earthquake.usgs.gov/earthquakes/eqarchives/year/2001/2001_02_28.php Historic Earthquakes from the USGS
+
+{{Earthquakes in 2001}}
+{{Washington State bridge disasters}}
+
+{{DEFAULTSORT:Nisqually}}
+Category:2001 natural disasters in the United States
+Category:2001 earthquakes
+Category:Earthquakes in Washington (state)
+Category:Earthquakes in Oregon
+Category:Natural disasters in Washington (state)
+Category:2001 in Washington (state)|Nisqually earthquake

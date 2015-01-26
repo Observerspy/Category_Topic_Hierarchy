@@ -1,0 +1,177 @@
+{{Use dmy dates|date=April 2013}}
+{{Infobox election
+| election_name     = Italian presidential election, 2013
+| country           = Italy
+| flag_year         = 
+| flag_image        = 
+| type              = presidential
+| vote_type         = electoral
+| ongoing           = no
+| previous_election = Italian presidential election, 2006
+| previous_year     = 2006
+| election_date     = 18-20 April 2013
+| next_election     = Italian presidential election, 2020 <!-- link to file. If red link, then it will not be linked-->
+| next_year         = 2020
+| votes_for_election= 1007 voters: 315 [[Senate of the Republic (Italy)|Senators]], 4 [[Senator_for_life#Italy|Senators for life]],<br/>630 [[Chamber of Deputies (Italy)|Deputies]] and 58 regional representatives
+| needed_votes      = 672 or 504
+| opinion_polls     = 
+| turnout           = 
+| image1            = [[File:Presidente Napolitano.jpg|180x180px]]
+| nominee1          = '''[[Giorgio Napolitano]]''' 
+| colour1           = f0001c
+| party1            = Independent (politician)
+| electoral_vote1   = '''738'''
+| percentage1       = '''73.3%'''
+| image2            = [[File:Stefano Rodotà Trento 2007.jpg|180x180px]]
+| nominee2          = [[Stefano Rodotà]]
+| colour2           = ffff00
+| party2            = Independent (politician)
+| electoral_vote2   = 217
+| percentage2       = 21.5%
+| map_image          = Italian Presidential Election 2013.svg
+| map_size           = 250px
+| map_caption        = Composition
+{{colorbox|{{Democratic Party (Italy)/meta/color}}}} [[Giorgio Napolitano|Napolitano]] 738
+{{colorbox|yellow}} [[Stefano Rodotà|Rodotà]] 217
+{{colorbox|#C0C0C0}} Other 20
+{{colorbox|#808080}} Invalids, blanks 32
+<!-- bottom -->
+| title             = President
+| before_election   = [[Giorgio Napolitano]]
+| before_party      = Independent (politician)
+| after_election    = [[Giorgio Napolitano]]
+| after_party       = Independent (politician)
+}}
+Indirect '''presidential elections''' were held in [[Italy]] between 18 and 20 April 2013. The result was the re-election of [[Giorgio Napolitano]],<ref>http://www.quirinale.it/elementi/Continua.aspx?tipo=Notizia&key=35357</ref> the first time a [[President of Italy|President]] had been elected for a second term.<ref name=Reuters/>
+
+Only members of [[Italian Parliament|Parliament]] and regional delegates were entitled to vote, most of these electors having been elected in the [[Italian general election, 2013|2013 general election]]. As [[head of state]] of the [[Italy|Italian Republic]], the President has a role of representation of national unity and guarantees that [[politics of Italy|Italian politics]] comply with the [[Constitution of Italy|Italian Constitution]], in the framework of a [[parliamentary system]].
+
+==Procedure==
+In accordance to the [[Constitution of Italy|Italian Constitution]], the election was held in the form of a secret ballot, with the Senators, the Deputies and 58 regional representatives entitled to vote. The election was held in the [[Palazzo Montecitorio]], home of the [[Chamber of Deputies (Italy)|Chamber of Deputies]], with the capacity of the building expanded for the purpose. The first three ballots required a two-thirds majority of the 1,007 voters in order to elect a President, or 672 votes. Starting from the fourth ballot, an absolute majority was required for candidates to be elected, or 504 votes. The election was conducted by the Speaker of the Chamber of Deputies, who had the authority to proceed to the public counting of the votes. The presidential mandate lasts seven years. The term of the current President, [[Giorgio Napolitano]], was due to end on 15 May 2013.{{fact|date=April 2013}}
+
+==Chronology==
+On 16 April 2013 the [[Five Star Movement]] (M5S) announced its support for investigative journalist [[Milena Gabanelli]], and the party's leader [[Beppe Grillo]] indicated that the party might be willing to form a coalition government with the [[Italy. Common Good|centre-left coalition]] if she were elected president with the coalition's support.<ref>[http://news.yahoo.com/italys-5-star-picks-journalist-presidential-candidate-165624037.html;_ylt=A2KJ3CTcP25RHD0A_VDQtDMD Italy's 5-Star picks journalist as presidential candidate] Reuters. 16 April 2013. Accessed 17 April 2013</ref> On 17 April, after Gabanelli and [[Gino Strada]] withdrew from consideration, the M5S announced its support for [[Stefano Rodotà]], a former President of the Data Protection Authority,<ref>the http://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/1665291</ref> member of the Chamber of Deputies, [[Member of the European Parliament]], and president of the [[Democratic Party of the Left]] (PDS).<ref>[http://thestar.com.my/news/story.asp?file=/2013/4/18/worldupdates/5star-movement-switches-candidate-ahead-of-italy-president-race&sec=Worldupdates 5-Star Movement switches candidate ahead of Italy president race] ''The Star Online.'' 18 April 2013. Accessed 18 April 2013</ref>
+
+On 17 April [[Pier Luigi Bersani]], leader of the [[Democratic Party (Italy)|Democratic Party]] (PD), put forward [[Franco Marini]], a former leader of the [[Italian Confederation of Workers' Trade Unions]] (CISL), leader of the [[Italian People's Party (1994)|Italian People's Party]] (PPI) and [[President of the Italian Senate]], as his party's candidate for President. Marini was selected having received the support of centre-right parties, notably [[The People of Freedom]] (PdL), [[Civic Choice]] (SC), [[Lega Nord]] (LN) and the [[Union of the Centre (2008)|Union of the Centre]] (UdC). However, [[Matteo Renzi]], mayor of [[Florence]] and leader of a party minority, several [[Democratic Party (Italy)|Democratic Party]] lawmakers and [[Left Ecology Freedom]] (SEL) stated that they would not support Marini.<ref>[http://www.ibtimes.co.uk/articles/458388/20130417/italys-bersani-proposes-ex-senate-speaker-as-president.htm Italy's Bersani proposes ex-Senate speaker as president] ''International Business Times.'' 17 April 2013. Accessed 17 April 2013</ref>
+
+On 18 April Marini received just 521 votes in the first ballot, short of the 672 needed, as more than 200 centre-left delegates rebelled. In the run-up of the second ballot Marini's candidacy was retired. The first two rounds' inconclusive results were interpreted as showing turmoil within the centre-left.<ref name=Guardian1>{{cite-web|url=http://www.guardian.co.uk/world/2013/apr/18/porn-stars-footballers-italian-presidential-election|title=Votes for porn stars and footballers in farcical Italian presidential election|date=18 April 2013|accessdate=2013-04-19}}</ref> As results of apparent jokes by electors, a number of [[joke candidate|implausible candidates]], such as football manager [[Roberto Mancini]] and porn star [[Rocco Siffredi]], received individual votes.<ref name=Guardian1/>
+
+On 19 April the PD and SEL selected [[Romano Prodi]], a former [[Prime Minister of Italy|Prime Minister]] and [[President of the European Commission]], to be their candidate in the fourth ballot.<ref>[http://thestar.com.my/news/story.asp?file=/2013/4/19/worldupdates/italy-centreleft-backs-expm-prodi-for-president&sec=Worldupdates Italy centre-left backs ex-PM Prodi for president] ''The Star Online''. 19 April 2013. Accessed 20 April 2013</ref> Despite the fact that his candidacy had received unanimous support among the two parties' delegates, Prodi obtained only 395 votes in the fourth ballot as more than 100 centre-left electors did not vote for him. After the vote, Bersani announced his resignation from party secretary and Prodi pulled out of the race.<ref>[http://www.reuters.com/article/2013/04/19/us-italy-vote-idUSBRE93I08I20130419 Italy center-left leader Bersani quits after vote debacle] ''Reuters.'' 19 April 2013. Accessed 20 April 2013</ref>
+
+On 20 April incumbent President [[Giorgio Napolitano]], holder of the post since 2006, agreed to run for another term in an attempt to break the parliamentary deadlock with the aim of safeguarding the continuity of the country's institutions.<ref name=Scalfari2013>{{cite news|title=Napolitano si racconta a Scalfari: 'La mia vita, da comunista a Presidente'|url=http://video.repubblica.it/dossier/repubblica-delle-idee-2013/napolitano-si-racconta-a-scalfari-la-mia-vita-da-comunista-a-presidente/131005/129510|accessdate=9 June 2013|newspaper=[[La Repubblica]]|date=9 June 2013|author=Napolitano, Giorgio|author2=[[Eugenio Scalfari{{!}}Scalfari, Eugenio]]|language=Italian|format=Video, at 59 min}}</ref>
+
+==Results==
+In the first three ballots the required majority was 672 votes. Further ballots require a simple majority of electors, in this case 504 votes.
+
+Napolitano was comfortably re-elected, having garnered the support of centre-left leader [[Pier Luigi Bersani]], former [[Prime Minister of Italy|Prime Minister]] and centre-right leader [[Silvio Berlusconi]], and interim PM and centrist [[Mario Monti]].<ref name=Bloomberg>{{cite news|url=http://www.bloomberg.com/news/2013-04-20/italy-s-napolitano-accepts-appeal-agrees-to-seek-second-term.html|title=Italy President Napolitano Re-Elected in Bid to Resolve Crisis|first=Francesca|last=Cinelli|publisher=Bloomberg|date=21 April 2013|accessdate=21 April 2013}}</ref> Earlier, Berlusconi and his coalition refused to support the PD's choice of [[Romano Prodi]], claiming he was unacceptable as a compromise candidate. As a result, leaders from all political parties except for [[Beppe Grillo]] turned to Napolitano and held discussions with him in order to convince him to run again.<ref name=Reuters>{{cite news|url=http://www.reuters.com/article/2013/04/20/us-italy-vote-napolitano-idUSBRE93J09020130420|title=Giorgio Napolitano, Italy's reluctant president|first=James|last=Mackenzie|publisher=Bloomberg|date=20 April 2013|accessdate=21 April 2013}}</ref> Even though he had openly stated his refusal to consider running again in an interview a week before, Napolitano reluctantly agreed,<ref name=Reuters/> and the party leaders subsequently urged electors to back him as a show of unity.<ref name=BBC/>
+
+{| class="wikitable sortable" style=text-align:right
+!Candidate
+!First round
+!Second round
+!Third round
+!data-sort-type="number" |Fourth round
+!data-sort-type="number" |Fifth round
+!data-sort-type="number" |Sixth round
+|-
+|align=left|[[Franco Marini]]||521||15||6||3||2||–
+|-
+|align=left|[[Stefano Rodotà]]||240||230||250||213||210||217
+|-
+|align=left|[[Sergio Chiamparino]]||41||90||4||–||–||–
+|-
+|align=left|[[Romano Prodi]]||14||13||22||395||–||2
+|-
+|align=left|[[Emma Bonino]]||13||10||4||–||9||–
+|-
+|align=left|[[Massimo D'Alema]]||12||38||34||15||2||4
+|-
+|align=left|[[Giorgio Napolitano]]||10||4||12||2||20||738
+|-
+|align=left|[[Anna Finocchiaro]]||7||4||–||–||–||–
+|-
+|align=left|[[Anna Maria Cancellieri]]||2||–||9||78||3||–
+|-
+|align=left|[[Mario Monti]]||2||–||–||–||–||–
+|-
+|align=left|[[Alessandra Mussolini]]||–||15||5||–||–||–
+|-
+|align=left|Sergio De Caprio||–||9||7||–||–||8
+|-
+|align=left|Cosimo Sibilia||–||7||–||–||–||–
+|-
+|align=left|[[Rosy Bindi]]||–||6||–||–||–||–
+|-
+|align=left|[[Paola Severino]]||–||5||–||–||–||–
+|-
+|align=left|[[Silvio Berlusconi]]||–||4||–||–||–||–
+|-
+|align=left|[[Pier Luigi Bersani]]||–||4||–||–||–||–
+|-
+|align=left|Ricardo Antonio Merlo||–||3||4||–||–||–
+|-
+|align=left|Pierluigi Castagnetti||–||2||2||–||–||–
+|-
+|align=left|Michele Cucuzza||–||2||–||–||–||–
+|-
+|align=left|[[Arnaldo Forlani]]||–||2||–||–||–||–
+|-
+|align=left|[[Pietro Grasso]]||–||2||–||–||–||–
+|-
+|align=left|Maria Grazia Maniscalco||–||2||–||–||–||–
+|-
+|align=left|Antonio Palmieri||–||2||5||–||–||–
+|-
+|align=left|Claudio Sabelli Fioretti||–||2||8||–||–||–
+|-
+|align=left|[[Daniela Santanchè]]||–||2||–||–||–||–
+|-
+|align=left|[[Santo Versace]]||–||2||–||–||–||–
+|-
+|align=left|Ilaria Borletti Buitoni||–||–||3||–||–||–
+|-
+|align=left|[[Gianroberto Casaleggio]]||–||–||3||–||–||–
+|-
+|align=left|[[Fabrizio Cicchitto]]||–||–||3||–||–||–
+|-
+|align=left|Gherardo Colombo||–||–||3||–||–||–
+|-
+|align=left|Ermanno Leo||–||–||3||–||–||–
+|-
+|align=left|Roberto Di Giovan Paolo||–||–||2||–||–||–
+|-
+|align=left|[[Antonio Martino]]||–||–||2||–||–||–
+|-
+|align=left|[[Nicolò Pollari]]||–||–||2||–||–||–
+|-
+|align=left|Rosario Monteleone||–||–||–||–||15||–
+|-
+|align=left|Claudio Zin||–||–||–||–||4||–
+|- class="sortbottom"
+|align=left|Other candidates||18||41||44||7||14||6
+|- class="sortbottom"
+|align=left|Blank papers||104||418||465||15||445||10
+|- class="sortbottom"
+|align=left|Invalid papers||15||14||47||4||17||12
+|- class="sortbottom"
+|align=left|Abstentions||8||59||58||275||266||10
+|- class="sortbottom"
+|align=left|'''Total'''||'''1,007'''||'''1,007'''||'''1,007'''||'''1,007'''||'''1,007'''||'''1,007'''
+|- class="sortbottom"
+|align=left colspan=7|Source: [http://parlamento17.camera.it/61 Parliament of Italy]
+|}
+
+==Reactions==
+After the election results were announced, demonstrations took place outside [[Palazzo Montecitorio]] against the re-election of Napolitano. A sizable number of protesters were supporters of the [[Five Star Movement]] led by Beppe Grillo. Grillo himself condemned Napolitano's re-election, claiming this was a "coup d'état."<ref name=BBC>{{cite news|url=http://www.bbc.co.uk/news/world-europe-22232305|title=Italy crisis: President Giorgio Napolitano re-elected|publisher=BBC News|date=20 April 2013|accessdate=21 April 2013}}</ref>
+
+Pier Luigi Bersani promised to resign as leader of the PD in response to the lack of support within his coalition for [[Romano Prodi]], the party's preference for president on the fourth ballot.<ref name=BBC/> Following his resignation, former trade union leader [[Guglielmo Epifani]] was elected in his place on 11 May 2013.<ref>http://www.repubblica.it/politica/2013/05/10/news/pd_verso_l_assemblea_nazionale-58469563/</ref>
+
+==References==
+{{Portal|Italy|2010s|Politics}}
+{{Reflist}}
+
+{{Italian presidential elections}}
+
+{{DEFAULTSORT:Italian Presidential Election, 2013}}
+[[Category:2013 elections in Italy]]
+[[Category:Presidential elections in Italy]]

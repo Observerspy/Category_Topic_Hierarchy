@@ -1,0 +1,69 @@
+{{Use mdy dates|date=June 2013}}
+
+{{Earthquake
+| title              = 2008 Panzhihua earthquake
+| date               = {{Start date|2008|8|30}}
+| map                = 2008 Sichuan-Yunnan earthquake.jpg
+| magnitude          = 6.1 Surface wave magnitude|M<sub>s</sub> (CEA);
+5.7 moment magnitude scale|M<sub>w</sub> (USGS)
+| depth              = 10 km
+| location           = {{Coord|26.0|N|101.9|E}}<br/>(Renhe ({{zh|仁和}}), Panzhihua, Sichuan)
+| countries affected = {{PRC}}
+| intensity          = China Seismic Intensity Scale|Liedu VIII (European Macroseismic Scale|Heavily damaging)
+| tsunami            = None
+| aftershocks        = 3 major, 439 total
+| casualties         = 41 killed, 589 injured (as of September 5, 2008)
+}}
+
+The '''2008 Panzhihua earthquake''' was a 6.1 Surface wave magnitude|M<sub>s</sub> (5.7 moment magnitude scale|M<sub>w</sub>) earthquake that struck southern Sichuan province, China on August 30, 2008 at 16:30:50.5&nbsp;China Standard Time|CST (8:30:50.5 UTC).  It was not an aftershock of the Wenchuan earthquake that occurred in May of the same year.  With more than 400 aftershocks, it caused over 40 deaths, the collapse of 10,000 homes and damage to other infrastructure in the area.  Maximum intensity of this earthquake was VIII China Seismic Intensity Scale|liedu (Heavily damaging).
+
+==Earthquake Details==
+According to the China Earthquake Administration ('''CEA''') and http://www.eqsc.gov.cn/ Sichuan Earthquake Administration ('''SCEA'''), a surface wave magnitude ('''M<sub>s</sub>''') 6.1 earthquake struck southern Sichuan province, China on August 30, 2008 at 16:30:50.5 China Standard Time ('''CST''' - 0730 UTC).  The United States Geological Survey ('''USGS''') reported the same earthquake at moment magnitude scale|moment magnitude ('''M<sub>w</sub>''') 5.7.
+
+The earthquake's epicenter was located at {{Coord|26.2|N|101.9|E}}, in the Renhe District of Panzhihua, Sichuan, which is 50&nbsp;km southeast of the city center.  The epicenter is 60&nbsp;km from Huili County in Liangshan Yi Autonomous Prefecture, Sichuan, 30&nbsp;km from Yongren County and 55&nbsp;km from Yuanmou County in neighboring Yunnan province.
+
+The 2008 Panzhihua earthquake is also cited as the '''Renhe-Huili earthquake''', especially in SCEA reports and early CEA reports.
+
+===Aftershocks===
+A M<sub>s</sub> 5.6 aftershock (5.5 M<sub>w</sub> according to USGS) struck the same location on August 31, 2008 at 16:31:09.6 CST (08:31 UTC),
+causing at least two additional deaths.
+
+By midnight China Standard Time|CST September 1, there had been 439 aftershocks including the M5.6 one and two more exceeding M4.0.
+
+Incidentally, a M<sub>s</sub>&nbsp;3.0 earthquake very close to the main quake's epicenter preceded the main quake by 2 hours 15 minutes.
+
+===Relation to Wenchuan Earthquake===
+Whereas the 2008 Sichuan earthquake|Wenchuan earthquake two and half months earlier in the same province List of 2008 Sichuan earthquake aftershocks|continues to invoke aftershocks even after August 30, the Panzhihua earthquake was not one of them because it was caused by a different fault line.
+
+==Response in China==
+
+Although the quake-stricken area is relatively low in population, reported at 118/km<sup>2</sup>, early casualties and property damages were significant.
+Within two hours, the CEA invoked its Level III emergency response protocol for disaster relief.
+
+8,000 troops and para-militia were deployed to the disaster area.
+
+==Casualties, intensities, and damage areas==
+
+By September 5, authorities confirmed 41 deaths (35 in Sichuan, 6 in Yunnan) and 589 injuries.  CEA also reported collapse of 10,000 homes, and damage to 190,000 more.  Considerable damages to highways, bridges, and reservoirs were reported.
+
+The Seismic scale#Seismic intensity scales|seismic intensity map published by SCEA shows a maximum intensity of liedu VIII on China Seismic Intensity Scale ('''CSIS'''), somewhat equivalent to VIII (Heavily damaging) on European Macroseismic Scale|EMS-94 from which CSIS drew reference.
+The area affected by liedu VIII earthquakes covered a north-south oriented oval of 628&nbsp;km<sup>2</sup> centered around the epicenter, 39&nbsp;km long and 19&nbsp;km wide, including 28&nbsp;km<sup>2</sup> in Yunnan province.  The total area of liedu VI (Slightly damaging) and above is 9,634&nbsp;km<sup>2</sup>, of which 6,265&nbsp;km<sup>2</sup> are in Sichuan.
+
+== See also ==
+*2008 Sichuan earthquake
+
+== References ==
+{{Reflist|30em}}
+
+== External links ==
+* {{Cite web| url=http://www.cea.gov.cn/manage/html/8a8587881632fa5c0116674a018300cf/panzhihua/index.html | title=Special Edition for the M6.1 Panzhihua earthquake (攀枝花6.1级地震专辑) | publisher=China Earthquake Administration|CEA |accessdate=September 8, 2008 |language=Chinese | archiveurl= http://web.archive.org/web/20080910202637/http://www.cea.gov.cn/manage/html/8a8587881632fa5c0116674a018300cf/panzhihua/index.html| archivedate= September 10, 2008 <!--DASHBot-->| deadurl= no}}
+* {{Cite web| url=http://www.cea.gov.cn/manage/html/8a8587881632fa5c0116674a018300cf/_content/08_09/04/1220497195624.html | title=Basic data about the Panzhihua earthquake area (四川攀枝花地震震区基本情况) | publisher=China Earthquake Administration|CEA |accessdate=September 8, 2008 |language=Chinese | archiveurl= http://web.archive.org/web/20080921034241/http://www.cea.gov.cn/manage/html/8a8587881632fa5c0116674a018300cf/_content/08_09/04/1220497195624.html| archivedate= September 21, 2008 <!--DASHBot-->| deadurl= no}}  Contains a list of historic earthquakes in the area.
+
+{{Earthquakes in 2008}}
+{{Earthquakes in China}}
+
+{{DEFAULTSORT:2008 Panzhihua Earthquake}}
+Category:Earthquakes in China|2008 Panzhihua
+Category:History of Sichuan|Panzhihua
+Category:2008 in China|Panzhihua earthquake
+Category:2008 earthquakes|Panzhihua earthquake

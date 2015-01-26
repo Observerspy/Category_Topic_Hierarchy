@@ -1,0 +1,2917 @@
+cluster weight:
+vote and seat summaries -AND- candidates gallery:9186.429018542683
+vote and seat summaries -AND- chamber of deputies:10478.417072031432
+vote and seat summaries -AND- primaries:8649.023769972111
+vote and seat summaries -AND- general election campaign#election campaign#campaign#campaigns:8354.553910692057
+vote and seat summaries -AND- results by province:10478.417072031432
+vote and seat summaries -AND- campaign slogans:10245.715805861935
+vote and seat summaries -AND- government formation:8755.042991012828
+vote and seat summaries -AND- background:8135.3977164599855
+vote and seat summaries -AND- conduct:8583.497191400209
+vote and seat summaries -AND- analysis:8445.852467501727
+vote and seat summaries -AND- eligibility:8780.248032588921
+vote and seat summaries -AND- new democrats:10478.417072031432
+vote and seat summaries -AND- electoral system:8392.24577262713
+vote and seat summaries -AND- 10 closest ridings:9827.754932464955
+vote and seat summaries -AND- polls#opinion polls#opinion polling:8326.288854617362
+vote and seat summaries -AND- liberals:10478.417072031432
+vote and seat summaries -AND- results:7875.7497853110835
+vote and seat summaries -AND- conservatives:10478.417072031432
+vote and seat summaries -AND- congress of deputies:10310.66068669131
+vote and seat summaries -AND- second round:9282.042490625263
+vote and seat summaries -AND- issues:10120.087329771639
+vote and seat summaries -AND- reactions:8325.020472363216
+vote and seat summaries -AND- investiture voting:10288.361013618658
+vote and seat summaries -AND- summary:9013.566767792523
+vote and seat summaries -AND- results by region:10356.84155453043
+vote and seat summaries -AND- nominations:10115.84783476582
+vote and seat summaries -AND- ballot access:9789.24677483196
+vote and seat summaries -AND- official candidates:10389.712153470624
+vote and seat summaries -AND- mps who lost their seats:10478.417072031432
+vote and seat summaries -AND- procedure:9000.649418650832
+vote and seat summaries -AND- candidates:8588.284291297638
+vote and seat summaries -AND- aftermath:8912.240251288938
+vote and seat summaries -AND- overview:9479.942631514878
+vote and seat summaries -AND- first round:10001.559795201241
+vote and seat summaries -AND- before the primaries:8889.416236839272
+vote and seat summaries -AND- super tuesday:9245.65781010193
+vote and seat summaries -AND- debates:8178.840963048555
+vote and seat summaries -AND- democratic party nomination:10473.402457081
+vote and seat summaries -AND- votes by state:9165.841514410904
+vote and seat summaries -AND- senate:9571.204029446053
+vote and seat summaries -AND- registered candidates:10229.190418393391
+vote and seat summaries -AND- notable expressions and phrases:10478.417072031432
+vote and seat summaries -AND- other nominations:9573.643191501802
+vote and seat summaries -AND- apportionment:9709.1388178851
+vote and seat summaries -AND- controversies:10128.735934635577
+vote and seat summaries -AND- timeline:10433.5704679777
+vote and seat summaries -AND- international observers:8770.849265348772
+vote and seat summaries -AND- post-election:10459.837834848735
+vote and seat summaries -AND- sources:10459.683384348009
+vote and seat summaries -AND- results by state:10408.997909883718
+vote and seat summaries -AND- manifestos:10445.473015035643
+vote and seat summaries -AND- bloc québécois:9636.088118468206
+vote and seat summaries -AND- endorsements:10016.737887439827
+vote and seat summaries -AND- root:12328.66879149128
+candidates gallery -AND- vote and seat summaries:11652.393566660525
+candidates gallery -AND- chamber of deputies:11652.393566660525
+candidates gallery -AND- primaries:9874.373182427129
+candidates gallery -AND- general election campaign#election campaign#campaign#campaigns:9531.78483803941
+candidates gallery -AND- results by province:11652.393566660525
+candidates gallery -AND- campaign slogans:11420.718023690879
+candidates gallery -AND- government formation:9915.517451946478
+candidates gallery -AND- background:9303.456513593323
+candidates gallery -AND- conduct:9758.38381496047
+candidates gallery -AND- analysis:9621.602358790962
+candidates gallery -AND- eligibility:9930.535464585422
+candidates gallery -AND- new democrats:11652.393566660525
+candidates gallery -AND- electoral system:9542.261593612973
+candidates gallery -AND- 10 closest ridings:10994.365959653976
+candidates gallery -AND- polls#opinion polls#opinion polling:9482.439030205569
+candidates gallery -AND- liberals:11652.393566660525
+candidates gallery -AND- results:9039.061443289489
+candidates gallery -AND- conservatives:11652.393566660525
+candidates gallery -AND- congress of deputies:11476.752187420407
+candidates gallery -AND- second round:10449.414686586006
+candidates gallery -AND- issues:11304.392506626577
+candidates gallery -AND- reactions:9492.627726903047
+candidates gallery -AND- investiture voting:11462.839355234642
+candidates gallery -AND- summary:10174.544011528918
+candidates gallery -AND- results by region:11524.65702578238
+candidates gallery -AND- nominations:11307.562849668833
+candidates gallery -AND- ballot access:10970.780155150467
+candidates gallery -AND- official candidates:11564.150050764412
+candidates gallery -AND- mps who lost their seats:11652.393566660525
+candidates gallery -AND- procedure:10160.69293957112
+candidates gallery -AND- candidates:24435.549738643258
+candidates gallery -AND- aftermath:10091.688192364198
+candidates gallery -AND- overview:10642.189567483692
+candidates gallery -AND- first round:11172.434669831297
+candidates gallery -AND- before the primaries:10097.809204867752
+candidates gallery -AND- super tuesday:10467.30637587508
+candidates gallery -AND- debates:9355.316599941778
+candidates gallery -AND- democratic party nomination:17471.591261743175
+candidates gallery -AND- votes by state:10316.875858716263
+candidates gallery -AND- senate:10721.087208529443
+candidates gallery -AND- registered candidates:11412.907056767412
+candidates gallery -AND- notable expressions and phrases:11652.393566660525
+candidates gallery -AND- other nominations:16154.63751037978
+candidates gallery -AND- apportionment:10870.971840342068
+candidates gallery -AND- controversies:11302.836618272917
+candidates gallery -AND- timeline:11605.993782212525
+candidates gallery -AND- international observers:9925.803442987823
+candidates gallery -AND- post-election:11632.685741501657
+candidates gallery -AND- sources:11632.53129100093
+candidates gallery -AND- results by state:11581.418666017154
+candidates gallery -AND- manifestos:11617.490962171692
+candidates gallery -AND- bloc québécois:10808.31937238461
+candidates gallery -AND- endorsements:11190.322262889182
+candidates gallery -AND- root:9384.04213089406
+chamber of deputies -AND- vote and seat summaries:10478.417072031432
+chamber of deputies -AND- candidates gallery:9186.429018542683
+chamber of deputies -AND- primaries:8649.023769972111
+chamber of deputies -AND- general election campaign#election campaign#campaign#campaigns:8354.553910692057
+chamber of deputies -AND- results by province:10478.417072031432
+chamber of deputies -AND- campaign slogans:10245.715805861935
+chamber of deputies -AND- government formation:8755.042991012828
+chamber of deputies -AND- background:8135.3977164599855
+chamber of deputies -AND- conduct:8583.497191400209
+chamber of deputies -AND- analysis:8445.852467501727
+chamber of deputies -AND- eligibility:8780.248032588921
+chamber of deputies -AND- new democrats:10478.417072031432
+chamber of deputies -AND- electoral system:8392.24577262713
+chamber of deputies -AND- 10 closest ridings:9827.754932464955
+chamber of deputies -AND- polls#opinion polls#opinion polling:8326.288854617362
+chamber of deputies -AND- liberals:10478.417072031432
+chamber of deputies -AND- results:11813.624677966625
+chamber of deputies -AND- conservatives:10478.417072031432
+chamber of deputies -AND- congress of deputies:10310.66068669131
+chamber of deputies -AND- second round:9282.042490625263
+chamber of deputies -AND- issues:10120.087329771639
+chamber of deputies -AND- reactions:8325.020472363216
+chamber of deputies -AND- investiture voting:10288.361013618658
+chamber of deputies -AND- summary:9013.566767792523
+chamber of deputies -AND- results by region:10356.84155453043
+chamber of deputies -AND- nominations:10115.84783476582
+chamber of deputies -AND- ballot access:9789.24677483196
+chamber of deputies -AND- official candidates:10389.712153470624
+chamber of deputies -AND- mps who lost their seats:10478.417072031432
+chamber of deputies -AND- procedure:9000.649418650832
+chamber of deputies -AND- candidates:8588.284291297638
+chamber of deputies -AND- aftermath:8912.240251288938
+chamber of deputies -AND- overview:9479.942631514878
+chamber of deputies -AND- first round:10001.559795201241
+chamber of deputies -AND- before the primaries:8889.416236839272
+chamber of deputies -AND- super tuesday:9245.65781010193
+chamber of deputies -AND- debates:8178.840963048555
+chamber of deputies -AND- democratic party nomination:10473.402457081
+chamber of deputies -AND- votes by state:9165.841514410904
+chamber of deputies -AND- senate:9571.204029446053
+chamber of deputies -AND- registered candidates:10229.190418393391
+chamber of deputies -AND- notable expressions and phrases:10478.417072031432
+chamber of deputies -AND- other nominations:9573.643191501802
+chamber of deputies -AND- apportionment:9709.1388178851
+chamber of deputies -AND- controversies:10128.735934635577
+chamber of deputies -AND- timeline:10433.5704679777
+chamber of deputies -AND- international observers:8770.849265348772
+chamber of deputies -AND- post-election:10459.837834848735
+chamber of deputies -AND- sources:10459.683384348009
+chamber of deputies -AND- results by state:10408.997909883718
+chamber of deputies -AND- manifestos:10445.473015035643
+chamber of deputies -AND- bloc québécois:9636.088118468206
+chamber of deputies -AND- endorsements:10016.737887439827
+chamber of deputies -AND- root:8219.112527660853
+primaries -AND- vote and seat summaries:12145.425355456842
+primaries -AND- candidates gallery:10903.238926551756
+primaries -AND- chamber of deputies:12145.425355456842
+primaries -AND- general election campaign#election campaign#campaign#campaigns:10018.801907104415
+primaries -AND- results by province:12145.425355456842
+primaries -AND- campaign slogans:11914.292308339827
+primaries -AND- government formation:10406.989991388571
+primaries -AND- background:9789.611177136674
+primaries -AND- conduct:10251.375455421297
+primaries -AND- analysis:10119.833888820012
+primaries -AND- eligibility:10403.302259361384
+primaries -AND- new democrats:12145.425355456842
+primaries -AND- electoral system:10016.238438640903
+primaries -AND- 10 closest ridings:11475.993394490135
+primaries -AND- polls#opinion polls#opinion polling:9987.95826564381
+primaries -AND- liberals:12145.425355456842
+primaries -AND- results:9526.785155469852
+primaries -AND- conservatives:12145.425355456842
+primaries -AND- congress of deputies:11972.130415282005
+primaries -AND- second round:10940.466839829394
+primaries -AND- issues:11784.588317924583
+primaries -AND- reactions:9984.939879717636
+primaries -AND- investiture voting:11953.25466373004
+primaries -AND- summary:10664.905038411112
+primaries -AND- results by region:12019.823575973776
+primaries -AND- nominations:11816.475889884176
+primaries -AND- ballot access:11466.036490037619
+primaries -AND- official candidates:12056.393963921666
+primaries -AND- mps who lost their seats:12145.425355456842
+primaries -AND- procedure:10648.64506800587
+primaries -AND- candidates:10270.898784776346
+primaries -AND- aftermath:10572.607470183348
+primaries -AND- overview:11133.629990897654
+primaries -AND- first round:11666.493614803212
+primaries -AND- before the primaries:10603.107244268589
+primaries -AND- super tuesday:10995.488961703919
+primaries -AND- debates:9869.991871768774
+primaries -AND- democratic party nomination:12140.569862449693
+primaries -AND- votes by state:10825.212768188947
+primaries -AND- senate:11215.30120904223
+primaries -AND- registered candidates:11901.359674711495
+primaries -AND- notable expressions and phrases:12145.425355456842
+primaries -AND- other nominations:11254.392241395051
+primaries -AND- apportionment:11344.537619449084
+primaries -AND- controversies:11802.292585930833
+primaries -AND- timeline:12101.943776244625
+primaries -AND- international observers:10409.807827794988
+primaries -AND- post-election:12125.293900819826
+primaries -AND- sources:12125.139450319093
+primaries -AND- results by state:12076.091297364637
+primaries -AND- manifestos:12109.787585903608
+primaries -AND- bloc québécois:11290.09440237368
+primaries -AND- endorsements:11676.939079002423
+primaries -AND- root:14802.98993672647
+general election campaign#election campaign#campaign#campaigns -AND- vote and seat summaries:12480.099166705371
+general election campaign#election campaign#campaign#campaigns -AND- candidates gallery:11189.240683013508
+general election campaign#election campaign#campaign#campaigns -AND- chamber of deputies:12480.099166705371
+general election campaign#election campaign#campaign#campaigns -AND- primaries:10609.324992739652
+general election campaign#election campaign#campaign#campaigns -AND- results by province:12480.099166705371
+general election campaign#election campaign#campaign#campaigns -AND- campaign slogans:12261.605061073384
+general election campaign#election campaign#campaign#campaigns -AND- government formation:10773.770339632774
+general election campaign#election campaign#campaign#campaigns -AND- background:10138.382014628743
+general election campaign#election campaign#campaign#campaigns -AND- conduct:15872.411548365573
+general election campaign#election campaign#campaign#campaigns -AND- analysis:10420.723780463133
+general election campaign#election campaign#campaign#campaigns -AND- eligibility:10684.319008376073
+general election campaign#election campaign#campaign#campaigns -AND- new democrats:12480.099166705371
+general election campaign#election campaign#campaign#campaigns -AND- electoral system:10283.042402454783
+general election campaign#election campaign#campaign#campaigns -AND- 10 closest ridings:11775.662966572076
+general election campaign#election campaign#campaign#campaigns -AND- polls#opinion polls#opinion polling:10324.88214973547
+general election campaign#election campaign#campaign#campaigns -AND- liberals:12480.099166705371
+general election campaign#election campaign#campaign#campaigns -AND- results:9849.601647272639
+general election campaign#election campaign#campaign#campaigns -AND- conservatives:12480.099166705371
+general election campaign#election campaign#campaign#campaigns -AND- congress of deputies:12309.169691367293
+general election campaign#election campaign#campaign#campaigns -AND- second round:16925.8728924222
+general election campaign#election campaign#campaign#campaigns -AND- issues:12119.102880961553
+general election campaign#election campaign#campaign#campaigns -AND- reactions:10333.30050205496
+general election campaign#election campaign#campaign#campaigns -AND- investiture voting:12290.858328711605
+general election campaign#election campaign#campaign#campaigns -AND- summary:10996.851735763006
+general election campaign#election campaign#campaign#campaigns -AND- results by region:12349.680616164864
+general election campaign#election campaign#campaign#campaigns -AND- nominations:12106.544380432046
+general election campaign#election campaign#campaign#campaigns -AND- ballot access:11770.058284622864
+general election campaign#election campaign#campaign#campaigns -AND- official candidates:12393.173429420927
+general election campaign#election campaign#campaign#campaigns -AND- mps who lost their seats:12480.099166705371
+general election campaign#election campaign#campaign#campaigns -AND- procedure:10951.955614865186
+general election campaign#election campaign#campaign#campaigns -AND- candidates:10579.835678469277
+general election campaign#election campaign#campaign#campaigns -AND- aftermath:10925.431189176457
+general election campaign#election campaign#campaign#campaigns -AND- overview:11475.28303313145
+general election campaign#election campaign#campaign#campaigns -AND- first round:17984.368373340614
+general election campaign#election campaign#campaign#campaigns -AND- before the primaries:10897.257545716975
+general election campaign#election campaign#campaign#campaigns -AND- super tuesday:11235.110620651849
+general election campaign#election campaign#campaign#campaigns -AND- debates:10218.942348129936
+general election campaign#election campaign#campaign#campaigns -AND- democratic party nomination:12474.93402667621
+general election campaign#election campaign#campaign#campaigns -AND- votes by state:11077.574891763954
+general election campaign#election campaign#campaign#campaigns -AND- senate:11529.902420973482
+general election campaign#election campaign#campaign#campaigns -AND- registered candidates:12229.666237708336
+general election campaign#election campaign#campaign#campaigns -AND- notable expressions and phrases:12480.099166705371
+general election campaign#election campaign#campaign#campaigns -AND- other nominations:11581.92064710715
+general election campaign#election campaign#campaign#campaigns -AND- apportionment:11631.35832590276
+general election campaign#election campaign#campaign#campaigns -AND- controversies:12128.214924099118
+general election campaign#election campaign#campaign#campaigns -AND- timeline:12432.690438685186
+general election campaign#election campaign#campaign#campaigns -AND- international observers:10724.341686835707
+general election campaign#election campaign#campaign#campaigns -AND- post-election:12463.776838862628
+general election campaign#election campaign#campaign#campaigns -AND- sources:12460.081118395748
+general election campaign#election campaign#campaign#campaigns -AND- results by state:12407.476684170386
+general election campaign#election campaign#campaign#campaigns -AND- manifestos:12445.097674508272
+general election campaign#election campaign#campaign#campaigns -AND- bloc québécois:11657.863480258979
+general election campaign#election campaign#campaign#campaigns -AND- endorsements:12023.75600033683
+general election campaign#election campaign#campaign#campaigns -AND- root:30594.858552138587
+results by province -AND- vote and seat summaries:15717.625608047148
+results by province -AND- candidates gallery:9186.429018542683
+results by province -AND- chamber of deputies:10478.417072031432
+results by province -AND- primaries:8649.023769972111
+results by province -AND- general election campaign#election campaign#campaign#campaigns:8354.553910692057
+results by province -AND- campaign slogans:10245.715805861935
+results by province -AND- government formation:8755.042991012828
+results by province -AND- background:8135.3977164599855
+results by province -AND- conduct:8583.497191400209
+results by province -AND- analysis:8445.852467501727
+results by province -AND- eligibility:8780.248032588921
+results by province -AND- new democrats:10478.417072031432
+results by province -AND- electoral system:8392.24577262713
+results by province -AND- 10 closest ridings:9827.754932464955
+results by province -AND- polls#opinion polls#opinion polling:8326.288854617362
+results by province -AND- liberals:10478.417072031432
+results by province -AND- results:19689.37446327771
+results by province -AND- conservatives:10478.417072031432
+results by province -AND- congress of deputies:10310.66068669131
+results by province -AND- second round:9282.042490625263
+results by province -AND- issues:10120.087329771639
+results by province -AND- reactions:8325.020472363216
+results by province -AND- investiture voting:10288.361013618658
+results by province -AND- summary:9013.566767792523
+results by province -AND- results by region:10356.84155453043
+results by province -AND- nominations:10115.84783476582
+results by province -AND- ballot access:9789.24677483196
+results by province -AND- official candidates:10389.712153470624
+results by province -AND- mps who lost their seats:10478.417072031432
+results by province -AND- procedure:9000.649418650832
+results by province -AND- candidates:8588.284291297638
+results by province -AND- aftermath:8912.240251288938
+results by province -AND- overview:9479.942631514878
+results by province -AND- first round:10001.559795201241
+results by province -AND- before the primaries:8889.416236839272
+results by province -AND- super tuesday:9245.65781010193
+results by province -AND- debates:8178.840963048555
+results by province -AND- democratic party nomination:10473.402457081
+results by province -AND- votes by state:9165.841514410904
+results by province -AND- senate:9571.204029446053
+results by province -AND- registered candidates:10229.190418393391
+results by province -AND- notable expressions and phrases:10478.417072031432
+results by province -AND- other nominations:9573.643191501802
+results by province -AND- apportionment:9709.1388178851
+results by province -AND- controversies:10128.735934635577
+results by province -AND- timeline:10433.5704679777
+results by province -AND- international observers:8770.849265348772
+results by province -AND- post-election:10459.837834848735
+results by province -AND- sources:10459.683384348009
+results by province -AND- results by state:10408.997909883718
+results by province -AND- manifestos:10445.473015035643
+results by province -AND- bloc québécois:9636.088118468206
+results by province -AND- endorsements:10016.737887439827
+results by province -AND- root:12328.66879149128
+campaign slogans -AND- vote and seat summaries:10696.531010244631
+campaign slogans -AND- candidates gallery:9404.316585716719
+campaign slogans -AND- chamber of deputies:10696.531010244631
+campaign slogans -AND- primaries:8866.316475741436
+campaign slogans -AND- general election campaign#election campaign#campaign#campaigns:17152.24277996183
+campaign slogans -AND- results by province:10696.531010244631
+campaign slogans -AND- government formation:8973.30091743646
+campaign slogans -AND- background:8353.71849396772
+campaign slogans -AND- conduct:8801.736651212443
+campaign slogans -AND- analysis:8662.99251065336
+campaign slogans -AND- eligibility:9003.541042865507
+campaign slogans -AND- new democrats:10696.531010244631
+campaign slogans -AND- electoral system:8604.978242549181
+campaign slogans -AND- 10 closest ridings:10045.765057579458
+campaign slogans -AND- polls#opinion polls#opinion polling:8544.080934874848
+campaign slogans -AND- liberals:10696.531010244631
+campaign slogans -AND- results:8092.526278752395
+campaign slogans -AND- conservatives:10696.531010244631
+campaign slogans -AND- congress of deputies:10527.991240055893
+campaign slogans -AND- second round:9501.086933208666
+campaign slogans -AND- issues:10338.826636322938
+campaign slogans -AND- reactions:8543.694067891429
+campaign slogans -AND- investiture voting:10506.361286906555
+campaign slogans -AND- summary:9230.664872202125
+campaign slogans -AND- results by region:10574.391871728014
+campaign slogans -AND- nominations:10335.561866843957
+campaign slogans -AND- ballot access:10007.765871814114
+campaign slogans -AND- official candidates:10608.795871033453
+campaign slogans -AND- mps who lost their seats:10696.531010244631
+campaign slogans -AND- procedure:9216.264268967854
+campaign slogans -AND- candidates:8807.986606659306
+campaign slogans -AND- aftermath:9130.05457664556
+campaign slogans -AND- overview:9697.873411977787
+campaign slogans -AND- first round:10218.53380528572
+campaign slogans -AND- before the primaries:9108.774899358066
+campaign slogans -AND- super tuesday:9462.650196245846
+campaign slogans -AND- debates:8397.578667082546
+campaign slogans -AND- democratic party nomination:10691.476030615946
+campaign slogans -AND- votes by state:9378.314996536506
+campaign slogans -AND- senate:9787.028102802595
+campaign slogans -AND- registered candidates:10447.188595456291
+campaign slogans -AND- notable expressions and phrases:10696.531010244631
+campaign slogans -AND- other nominations:9795.374832905085
+campaign slogans -AND- apportionment:9929.397688637768
+campaign slogans -AND- controversies:10347.611748466728
+campaign slogans -AND- timeline:10651.329163516715
+campaign slogans -AND- international observers:8986.691933709373
+campaign slogans -AND- post-election:10677.791673044601
+campaign slogans -AND- sources:10677.637222543872
+campaign slogans -AND- results by state:10626.877034808604
+campaign slogans -AND- manifestos:10664.712390233772
+campaign slogans -AND- bloc québécois:9852.81661184479
+campaign slogans -AND- endorsements:10233.65672756828
+campaign slogans -AND- root:12652.740763962332
+government formation -AND- vote and seat summaries:12061.094468192161
+government formation -AND- candidates gallery:10751.112238844322
+government formation -AND- chamber of deputies:12061.094468192161
+government formation -AND- primaries:10207.593162785755
+government formation -AND- general election campaign#election campaign#campaign#campaigns:9953.75805936704
+government formation -AND- results by province:12061.094468192161
+government formation -AND- campaign slogans:11829.821664678871
+government formation -AND- background:9726.603157787722
+government formation -AND- conduct:10148.370608532412
+government formation -AND- analysis:10006.096492062192
+government formation -AND- eligibility:10333.786304771851
+government formation -AND- new democrats:12061.094468192161
+government formation -AND- electoral system:9935.756945273686
+government formation -AND- 10 closest ridings:11385.665522151117
+government formation -AND- polls#opinion polls#opinion polling:9917.2523001964
+government formation -AND- liberals:12061.094468192161
+government formation -AND- results:9444.689604069279
+government formation -AND- conservatives:12061.094468192161
+government formation -AND- congress of deputies:11885.644471963697
+government formation -AND- second round:10866.705746818181
+government formation -AND- issues:11695.852267436283
+government formation -AND- reactions:9928.190859828934
+government formation -AND- investiture voting:11877.673670972992
+government formation -AND- summary:10580.008419688702
+government formation -AND- results by region:11933.130664954468
+government formation -AND- nominations:11691.275175179733
+government formation -AND- ballot access:11364.679244192117
+government formation -AND- official candidates:11973.60716165907
+government formation -AND- mps who lost their seats:12061.094468192161
+government formation -AND- procedure:10562.014641465787
+government formation -AND- candidates:10178.10136827706
+government formation -AND- aftermath:10524.48875510958
+government formation -AND- overview:11052.34042782306
+government formation -AND- first round:11579.598017666549
+government formation -AND- before the primaries:10479.149453018594
+government formation -AND- super tuesday:10818.11499427316
+government formation -AND- debates:9787.7432364432
+government formation -AND- democratic party nomination:12055.700897107223
+government formation -AND- votes by state:10702.718904194142
+government formation -AND- senate:11136.788034470395
+government formation -AND- registered candidates:11812.11252082879
+government formation -AND- notable expressions and phrases:12061.094468192161
+government formation -AND- other nominations:11152.507511633316
+government formation -AND- apportionment:11266.456695576953
+government formation -AND- controversies:11724.137289321427
+government formation -AND- timeline:12017.401913446505
+government formation -AND- international observers:10330.665894718282
+government formation -AND- post-election:12046.293534111748
+government formation -AND- sources:12040.857711857137
+government formation -AND- results by state:11991.439294111897
+government formation -AND- manifestos:12029.92312135004
+government formation -AND- bloc québécois:11210.930196934589
+government formation -AND- endorsements:11591.476503219608
+government formation -AND- root:14681.416802092162
+background -AND- vote and seat summaries:12712.246445527086
+background -AND- candidates gallery:11398.291153600963
+background -AND- chamber of deputies:12712.246445527086
+background -AND- primaries:10824.630009238264
+background -AND- general election campaign#election campaign#campaign#campaigns:10585.822600485255
+background -AND- results by province:12712.246445527086
+background -AND- campaign slogans:12480.414981511956
+background -AND- government formation:10983.658574538797
+background -AND- conduct:10808.275773138477
+background -AND- analysis:10666.35416943693
+background -AND- eligibility:10941.659894276598
+background -AND- new democrats:12712.246445527086
+background -AND- electoral system:10540.303866110808
+background -AND- 10 closest ridings:11988.885247888236
+background -AND- polls#opinion polls#opinion polling:10564.501142558343
+background -AND- liberals:12712.246445527086
+background -AND- results:10078.869543818926
+background -AND- conservatives:12712.246445527086
+background -AND- congress of deputies:12530.795406083605
+background -AND- second round:11498.76150318274
+background -AND- issues:12342.432517991645
+background -AND- reactions:10553.511043453338
+background -AND- investiture voting:12526.939485770185
+background -AND- summary:11239.808321443057
+background -AND- results by region:12578.878134010854
+background -AND- nominations:12337.389758578025
+background -AND- ballot access:12008.548777285148
+background -AND- official candidates:12621.433444572784
+background -AND- mps who lost their seats:12712.246445527086
+background -AND- procedure:11224.587895530469
+background -AND- candidates:10851.461986424707
+background -AND- aftermath:11156.5235019755
+background -AND- overview:11723.73624257855
+background -AND- first round:12226.958111199647
+background -AND- before the primaries:11124.597973819315
+background -AND- super tuesday:11434.098937446346
+background -AND- debates:10395.523796291289
+background -AND- democratic party nomination:12707.207260915098
+background -AND- votes by state:11311.09234764559
+background -AND- senate:11761.40727179022
+background -AND- registered candidates:12467.407548332458
+background -AND- notable expressions and phrases:12712.246445527086
+background -AND- other nominations:11794.31099438149
+background -AND- apportionment:11902.196645364535
+background -AND- controversies:12366.176590914967
+background -AND- timeline:12669.26437316223
+background -AND- international observers:10986.294681531961
+background -AND- post-election:12693.82105403754
+background -AND- sources:12694.213364084906
+background -AND- results by state:12638.29551221654
+background -AND- manifestos:12679.430166977576
+background -AND- bloc québécois:11866.175629587675
+background -AND- endorsements:12235.190328240333
+background -AND- root:15691.784059119984
+conduct -AND- vote and seat summaries:12247.586991264976
+conduct -AND- candidates gallery:10956.481627173001
+conduct -AND- chamber of deputies:12247.586991264976
+conduct -AND- primaries:10407.388785784073
+conduct -AND- general election campaign#election campaign#campaign#campaigns:10120.391593830453
+conduct -AND- results by province:12247.586991264976
+conduct -AND- campaign slogans:12017.580638122367
+conduct -AND- government formation:10496.159280272776
+conduct -AND- background:9905.365405645123
+conduct -AND- analysis:10232.964181800435
+conduct -AND- eligibility:10505.383955726416
+conduct -AND- new democrats:12247.586991264976
+conduct -AND- electoral system:10107.145852961494
+conduct -AND- 10 closest ridings:11592.944173435691
+conduct -AND- polls#opinion polls#opinion polling:10088.355899992497
+conduct -AND- liberals:12247.586991264976
+conduct -AND- results:9628.354151155347
+conduct -AND- conservatives:12247.586991264976
+conduct -AND- congress of deputies:12077.789494715493
+conduct -AND- second round:11052.969972066636
+conduct -AND- issues:11884.420019878897
+conduct -AND- reactions:10103.863247493198
+conduct -AND- investiture voting:12058.680400642384
+conduct -AND- summary:10780.283187804647
+conduct -AND- results by region:12121.301303909979
+conduct -AND- nominations:11880.568266334005
+conduct -AND- ballot access:11574.45131048084
+conduct -AND- official candidates:12154.45584242987
+conduct -AND- mps who lost their seats:12247.586991264976
+conduct -AND- procedure:10762.414506496625
+conduct -AND- candidates:10354.630573431881
+conduct -AND- aftermath:10673.803336221214
+conduct -AND- overview:11233.162740513424
+conduct -AND- first round:11766.42540797224
+conduct -AND- before the primaries:10660.760065085951
+conduct -AND- super tuesday:11033.664535869018
+conduct -AND- debates:9941.605857823704
+conduct -AND- democratic party nomination:12242.499717500885
+conduct -AND- votes by state:10906.182242965511
+conduct -AND- senate:11317.732529913228
+conduct -AND- registered candidates:12001.644831855336
+conduct -AND- notable expressions and phrases:12247.586991264976
+conduct -AND- other nominations:11341.616768497368
+conduct -AND- apportionment:11443.867193416389
+conduct -AND- controversies:11898.762276517866
+conduct -AND- timeline:12209.702306489908
+conduct -AND- international observers:10598.966292612602
+conduct -AND- post-election:12227.328460476936
+conduct -AND- sources:12228.206253704437
+conduct -AND- results by state:12176.200163880403
+conduct -AND- manifestos:12211.859314751875
+conduct -AND- bloc québécois:11387.21423731564
+conduct -AND- endorsements:11773.29365657071
+conduct -AND- root:14975.538444677408
+analysis -AND- vote and seat summaries:12412.426772828163
+analysis -AND- candidates gallery:11112.038454528396
+analysis -AND- chamber of deputies:12412.426772828163
+analysis -AND- primaries:10576.652848953292
+analysis -AND- general election campaign#election campaign#campaign#campaigns:10272.40608837864
+analysis -AND- results by province:12412.426772828163
+analysis -AND- campaign slogans:12177.678632366082
+analysis -AND- government formation:10660.807625526144
+analysis -AND- background:10059.143735854439
+analysis -AND- conduct:10532.193153589593
+analysis -AND- eligibility:10651.478815699173
+analysis -AND- new democrats:12412.426772828163
+analysis -AND- electoral system:10295.726298281832
+analysis -AND- 10 closest ridings:11751.964724557984
+analysis -AND- polls#opinion polls#opinion polling:10245.362398302153
+analysis -AND- liberals:12412.426772828163
+analysis -AND- results:9854.894176235955
+analysis -AND- conservatives:12412.426772828163
+analysis -AND- congress of deputies:12250.149119707814
+analysis -AND- second round:11213.3258628322
+analysis -AND- issues:12044.112116820223
+analysis -AND- reactions:10247.204802855002
+analysis -AND- investiture voting:12226.75955233036
+analysis -AND- summary:10923.605329459127
+analysis -AND- results by region:12290.263341864564
+analysis -AND- nominations:12052.76347809126
+analysis -AND- ballot access:11730.065569116836
+analysis -AND- official candidates:12321.65990725519
+analysis -AND- mps who lost their seats:12412.426772828163
+analysis -AND- procedure:10919.398553206593
+analysis -AND- candidates:10521.253011837802
+analysis -AND- aftermath:10835.667670680328
+analysis -AND- overview:11425.19546863507
+analysis -AND- first round:11936.654174218138
+analysis -AND- before the primaries:10822.807277389651
+analysis -AND- super tuesday:11198.652450758502
+analysis -AND- debates:10101.15519409354
+analysis -AND- democratic party nomination:12407.410595475545
+analysis -AND- votes by state:11097.790176202278
+analysis -AND- senate:11494.246831937984
+analysis -AND- registered candidates:12161.86036414579
+analysis -AND- notable expressions and phrases:12412.426772828163
+analysis -AND- other nominations:11518.258556938586
+analysis -AND- apportionment:11616.841070558496
+analysis -AND- controversies:12058.210029994703
+analysis -AND- timeline:12367.404511844052
+analysis -AND- international observers:10663.893933499787
+analysis -AND- post-election:12393.036203286498
+analysis -AND- sources:12392.945622866333
+analysis -AND- results by state:12340.708037934175
+analysis -AND- manifestos:12379.330475873305
+analysis -AND- bloc québécois:11554.037003144449
+analysis -AND- endorsements:11943.120853934277
+analysis -AND- root:15235.091102948814
+eligibility -AND- vote and seat summaries:11928.554094732095
+eligibility -AND- candidates gallery:10631.047683631565
+eligibility -AND- chamber of deputies:11928.554094732095
+eligibility -AND- primaries:10083.572506020764
+eligibility -AND- general election campaign#election campaign#campaign#campaigns:9797.498417710758
+eligibility -AND- results by province:11928.554094732095
+eligibility -AND- campaign slogans:11703.029928886317
+eligibility -AND- government formation:10199.618643699734
+eligibility -AND- background:9580.522728093034
+eligibility -AND- conduct:10026.918745975447
+eligibility -AND- analysis:9881.61167602817
+eligibility -AND- new democrats:11928.554094732095
+eligibility -AND- electoral system:9855.626593442768
+eligibility -AND- 10 closest ridings:11276.668422534236
+eligibility -AND- polls#opinion polls#opinion polling:9769.776404316319
+eligibility -AND- liberals:11928.554094732095
+eligibility -AND- results:9309.790166141413
+eligibility -AND- conservatives:11928.554094732095
+eligibility -AND- congress of deputies:11757.494505673669
+eligibility -AND- second round:10725.12792306935
+eligibility -AND- issues:11570.834781672664
+eligibility -AND- reactions:9776.546710637223
+eligibility -AND- investiture voting:11738.090209776747
+eligibility -AND- summary:10453.798657100864
+eligibility -AND- results by region:11802.161982527734
+eligibility -AND- nominations:11566.86961721745
+eligibility -AND- ballot access:11243.895265217445
+eligibility -AND- official candidates:11843.002286797011
+eligibility -AND- mps who lost their seats:11928.554094732095
+eligibility -AND- procedure:10452.279253403154
+eligibility -AND- candidates:10056.492701762018
+eligibility -AND- aftermath:10359.67358939289
+eligibility -AND- overview:16382.93113174776
+eligibility -AND- first round:11447.38742611723
+eligibility -AND- before the primaries:10334.952879713446
+eligibility -AND- super tuesday:10688.406823509991
+eligibility -AND- debates:9620.02480046742
+eligibility -AND- democratic party nomination:11924.5898323495
+eligibility -AND- votes by state:10588.662499640595
+eligibility -AND- senate:11032.769617638278
+eligibility -AND- registered candidates:11683.788282350264
+eligibility -AND- notable expressions and phrases:11928.554094732095
+eligibility -AND- other nominations:11023.666642959646
+eligibility -AND- apportionment:11202.614039671966
+eligibility -AND- controversies:11583.95632675728
+eligibility -AND- timeline:11881.568485821332
+eligibility -AND- international observers:10226.906034351263
+eligibility -AND- post-election:11909.010855360782
+eligibility -AND- sources:11909.554665397365
+eligibility -AND- results by state:11857.281066306397
+eligibility -AND- manifestos:11898.490413022731
+eligibility -AND- bloc québécois:11073.029848593285
+eligibility -AND- endorsements:11464.961307537556
+eligibility -AND- root:9653.584112497538
+new democrats -AND- vote and seat summaries:10478.417072031432
+new democrats -AND- candidates gallery:9186.429018542683
+new democrats -AND- chamber of deputies:10478.417072031432
+new democrats -AND- primaries:8649.023769972111
+new democrats -AND- general election campaign#election campaign#campaign#campaigns:8354.553910692057
+new democrats -AND- results by province:10478.417072031432
+new democrats -AND- campaign slogans:10245.715805861935
+new democrats -AND- government formation:8755.042991012828
+new democrats -AND- background:8135.3977164599855
+new democrats -AND- conduct:8583.497191400209
+new democrats -AND- analysis:8445.852467501727
+new democrats -AND- eligibility:8780.248032588921
+new democrats -AND- electoral system:8392.24577262713
+new democrats -AND- 10 closest ridings:9827.754932464955
+new democrats -AND- polls#opinion polls#opinion polling:8326.288854617362
+new democrats -AND- liberals:10478.417072031432
+new democrats -AND- results:7875.7497853110835
+new democrats -AND- conservatives:10478.417072031432
+new democrats -AND- congress of deputies:10310.66068669131
+new democrats -AND- second round:9282.042490625263
+new democrats -AND- issues:10120.087329771639
+new democrats -AND- reactions:8325.020472363216
+new democrats -AND- investiture voting:10288.361013618658
+new democrats -AND- summary:9013.566767792523
+new democrats -AND- results by region:10356.84155453043
+new democrats -AND- nominations:10115.84783476582
+new democrats -AND- ballot access:9789.24677483196
+new democrats -AND- official candidates:10389.712153470624
+new democrats -AND- mps who lost their seats:10478.417072031432
+new democrats -AND- procedure:9000.649418650832
+new democrats -AND- candidates:8588.284291297638
+new democrats -AND- aftermath:8912.240251288938
+new democrats -AND- overview:9479.942631514878
+new democrats -AND- first round:10001.559795201241
+new democrats -AND- before the primaries:8889.416236839272
+new democrats -AND- super tuesday:9245.65781010193
+new democrats -AND- debates:8178.840963048555
+new democrats -AND- democratic party nomination:10473.402457081
+new democrats -AND- votes by state:9165.841514410904
+new democrats -AND- senate:9571.204029446053
+new democrats -AND- registered candidates:10229.190418393391
+new democrats -AND- notable expressions and phrases:10478.417072031432
+new democrats -AND- other nominations:9573.643191501802
+new democrats -AND- apportionment:9709.1388178851
+new democrats -AND- controversies:10128.735934635577
+new democrats -AND- timeline:10433.5704679777
+new democrats -AND- international observers:8770.849265348772
+new democrats -AND- post-election:10459.837834848735
+new democrats -AND- sources:10459.683384348009
+new democrats -AND- results by state:10408.997909883718
+new democrats -AND- manifestos:10445.473015035643
+new democrats -AND- bloc québécois:9636.088118468206
+new democrats -AND- endorsements:10016.737887439827
+new democrats -AND- root:8219.112527660853
+electoral system -AND- vote and seat summaries:12353.886618588669
+electoral system -AND- candidates gallery:11045.703074506982
+electoral system -AND- chamber of deputies:12353.886618588669
+electoral system -AND- primaries:10498.251521459255
+electoral system -AND- general election campaign#election campaign#campaign#campaigns:10202.83787566288
+electoral system -AND- results by province:12353.886618588669
+electoral system -AND- campaign slogans:12119.622079816902
+electoral system -AND- government formation:10603.1969132677
+electoral system -AND- background:9997.124515407955
+electoral system -AND- conduct:10437.150838934398
+electoral system -AND- analysis:10318.434409220456
+electoral system -AND- eligibility:10671.05594842159
+electoral system -AND- new democrats:12353.886618588669
+electoral system -AND- 10 closest ridings:11715.078915534486
+electoral system -AND- polls#opinion polls#opinion polling:10183.183298408472
+electoral system -AND- liberals:12353.886618588669
+electoral system -AND- results:9771.6051687585
+electoral system -AND- conservatives:12353.886618588669
+electoral system -AND- congress of deputies:12181.71889107257
+electoral system -AND- second round:11147.949849022196
+electoral system -AND- issues:11992.29116189764
+electoral system -AND- reactions:10182.589601525247
+electoral system -AND- investiture voting:12170.838392322607
+electoral system -AND- summary:10884.723033310833
+electoral system -AND- results by region:12224.698933229702
+electoral system -AND- nominations:11986.6020257142
+electoral system -AND- ballot access:11676.367696013407
+electoral system -AND- official candidates:12265.645863558006
+electoral system -AND- mps who lost their seats:12353.886618588669
+electoral system -AND- procedure:10900.66085472261
+electoral system -AND- candidates:10468.451711204547
+electoral system -AND- aftermath:10779.352589727589
+electoral system -AND- overview:17018.717779389983
+electoral system -AND- first round:11882.885981799236
+electoral system -AND- before the primaries:10746.830448491737
+electoral system -AND- super tuesday:11101.870008104823
+electoral system -AND- debates:10024.786323286697
+electoral system -AND- democratic party nomination:12349.54673293228
+electoral system -AND- votes by state:11030.945160799147
+electoral system -AND- senate:11463.670725357115
+electoral system -AND- registered candidates:12103.64946195786
+electoral system -AND- notable expressions and phrases:12353.886618588669
+electoral system -AND- other nominations:11448.27887993018
+electoral system -AND- apportionment:11654.938514748485
+electoral system -AND- controversies:12001.935083577102
+electoral system -AND- timeline:12305.713840863104
+electoral system -AND- international observers:10640.597952156784
+electoral system -AND- post-election:12333.808348484512
+electoral system -AND- sources:12336.15799816493
+electoral system -AND- results by state:12285.40024159796
+electoral system -AND- manifestos:12322.834198804
+electoral system -AND- bloc québécois:11496.539629462999
+electoral system -AND- endorsements:11885.518473397766
+electoral system -AND- root:15138.301112971592
+10 closest ridings -AND- vote and seat summaries:16535.2052583092
+10 closest ridings -AND- candidates gallery:9730.662185014731
+10 closest ridings -AND- chamber of deputies:11023.470172206133
+10 closest ridings -AND- primaries:9188.509770291132
+10 closest ridings -AND- general election campaign#election campaign#campaign#campaigns:8896.882140426227
+10 closest ridings -AND- results by province:16535.2052583092
+10 closest ridings -AND- campaign slogans:10792.30573412991
+10 closest ridings -AND- government formation:9294.303164474677
+10 closest ridings -AND- background:8674.46953303245
+10 closest ridings -AND- conduct:9128.827619758751
+10 closest ridings -AND- analysis:8988.507226980262
+10 closest ridings -AND- eligibility:9325.144671632303
+10 closest ridings -AND- new democrats:11023.470172206133
+10 closest ridings -AND- electoral system:8938.870031802493
+10 closest ridings -AND- polls#opinion polls#opinion polling:8867.1137734888
+10 closest ridings -AND- liberals:11023.470172206133
+10 closest ridings -AND- results:8427.643807462266
+10 closest ridings -AND- conservatives:11023.470172206133
+10 closest ridings -AND- congress of deputies:10854.173051692262
+10 closest ridings -AND- second round:9828.160535591684
+10 closest ridings -AND- issues:10667.061921529683
+10 closest ridings -AND- reactions:8868.080553802643
+10 closest ridings -AND- investiture voting:10833.804432166333
+10 closest ridings -AND- summary:9557.0876317052
+10 closest ridings -AND- results by region:10900.760709007005
+10 closest ridings -AND- nominations:10658.508292272047
+10 closest ridings -AND- ballot access:10338.09227443796
+10 closest ridings -AND- official candidates:10933.99026526764
+10 closest ridings -AND- mps who lost their seats:11023.470172206133
+10 closest ridings -AND- procedure:9545.829587853488
+10 closest ridings -AND- candidates:9130.962891438063
+10 closest ridings -AND- aftermath:9453.345963742891
+10 closest ridings -AND- overview:10023.233430420303
+10 closest ridings -AND- first round:10544.653359486516
+10 closest ridings -AND- before the primaries:9429.932076965111
+10 closest ridings -AND- super tuesday:9785.112798392118
+10 closest ridings -AND- debates:8719.416354179177
+10 closest ridings -AND- democratic party nomination:11018.403186969672
+10 closest ridings -AND- votes by state:9731.288029520645
+10 closest ridings -AND- senate:10110.503496953126
+10 closest ridings -AND- registered candidates:10772.998084117049
+10 closest ridings -AND- notable expressions and phrases:11023.470172206133
+10 closest ridings -AND- other nominations:10121.026612360138
+10 closest ridings -AND- apportionment:10260.909965122048
+10 closest ridings -AND- controversies:10673.674397099583
+10 closest ridings -AND- timeline:10978.16266617522
+10 closest ridings -AND- international observers:9311.876483508566
+10 closest ridings -AND- post-election:11004.68321669436
+10 closest ridings -AND- sources:11004.52876619363
+10 closest ridings -AND- results by state:10955.006386365862
+10 closest ridings -AND- manifestos:10990.165641572932
+10 closest ridings -AND- bloc québécois:10183.388848149882
+10 closest ridings -AND- endorsements:10561.098514851947
+10 closest ridings -AND- root:8759.622346572178
+polls#opinion polls#opinion polling -AND- vote and seat summaries:12495.310020484882
+polls#opinion polls#opinion polling -AND- candidates gallery:11174.41132561798
+polls#opinion polls#opinion polling -AND- chamber of deputies:12495.310020484882
+polls#opinion polls#opinion polling -AND- primaries:10636.270296206165
+polls#opinion polls#opinion polling -AND- general election campaign#election campaign#campaign#campaigns:10375.186200236738
+polls#opinion polls#opinion polling -AND- results by province:12495.310020484882
+polls#opinion polls#opinion polling -AND- campaign slogans:12265.653538673509
+polls#opinion polls#opinion polling -AND- government formation:10777.530156693647
+polls#opinion polls#opinion polling -AND- background:10158.758806838192
+polls#opinion polls#opinion polling -AND- conduct:10587.583041342794
+polls#opinion polls#opinion polling -AND- analysis:10446.308592808025
+polls#opinion polls#opinion polling -AND- eligibility:10751.546577960644
+polls#opinion polls#opinion polling -AND- new democrats:12495.310020484882
+polls#opinion polls#opinion polling -AND- electoral system:10356.290898114992
+polls#opinion polls#opinion polling -AND- 10 closest ridings:11811.044224055819
+polls#opinion polls#opinion polling -AND- liberals:12495.310020484882
+polls#opinion polls#opinion polling -AND- results:9893.515171934081
+polls#opinion polls#opinion polling -AND- conservatives:12495.310020484882
+polls#opinion polls#opinion polling -AND- congress of deputies:12334.649551495593
+polls#opinion polls#opinion polling -AND- second round:11301.151876406064
+polls#opinion polls#opinion polling -AND- issues:12138.404798136602
+polls#opinion polls#opinion polling -AND- reactions:10345.38481506786
+polls#opinion polls#opinion polling -AND- investiture voting:12309.321255325372
+polls#opinion polls#opinion polling -AND- summary:11029.774454427568
+polls#opinion polls#opinion polling -AND- results by region:12381.093215241468
+polls#opinion polls#opinion polling -AND- nominations:12130.965645198346
+polls#opinion polls#opinion polling -AND- ballot access:11787.082220330947
+polls#opinion polls#opinion polling -AND- official candidates:12409.33949686613
+polls#opinion polls#opinion polling -AND- mps who lost their seats:12495.310020484882
+polls#opinion polls#opinion polling -AND- procedure:10990.856035059485
+polls#opinion polls#opinion polling -AND- candidates:10592.879962452858
+polls#opinion polls#opinion polling -AND- aftermath:10933.099748259201
+polls#opinion polls#opinion polling -AND- overview:11502.138962005843
+polls#opinion polls#opinion polling -AND- first round:12040.97414536926
+polls#opinion polls#opinion polling -AND- before the primaries:10911.345489761652
+polls#opinion polls#opinion polling -AND- super tuesday:11238.843592360467
+polls#opinion polls#opinion polling -AND- debates:10185.11143539084
+polls#opinion polls#opinion polling -AND- democratic party nomination:12490.24043765924
+polls#opinion polls#opinion polling -AND- votes by state:11150.313938272739
+polls#opinion polls#opinion polling -AND- senate:11573.148960882922
+polls#opinion polls#opinion polling -AND- registered candidates:12244.982360177257
+polls#opinion polls#opinion polling -AND- notable expressions and phrases:12495.310020484882
+polls#opinion polls#opinion polling -AND- other nominations:11577.104739543835
+polls#opinion polls#opinion polling -AND- apportionment:11691.769216448565
+polls#opinion polls#opinion polling -AND- controversies:12143.925459312128
+polls#opinion polls#opinion polling -AND- timeline:12451.293349145031
+polls#opinion polls#opinion polling -AND- international observers:10779.440460935673
+polls#opinion polls#opinion polling -AND- post-election:12477.631349969095
+polls#opinion polls#opinion polling -AND- sources:12476.334623927029
+polls#opinion polls#opinion polling -AND- results by state:12426.91755809708
+polls#opinion polls#opinion polling -AND- manifestos:12463.600964683317
+polls#opinion polls#opinion polling -AND- bloc québécois:11661.699202230398
+polls#opinion polls#opinion polling -AND- endorsements:12043.94786422744
+polls#opinion polls#opinion polling -AND- root:25574.778518312494
+liberals -AND- vote and seat summaries:10478.417072031432
+liberals -AND- candidates gallery:9186.429018542683
+liberals -AND- chamber of deputies:10478.417072031432
+liberals -AND- primaries:8649.023769972111
+liberals -AND- general election campaign#election campaign#campaign#campaigns:8354.553910692057
+liberals -AND- results by province:10478.417072031432
+liberals -AND- campaign slogans:10245.715805861935
+liberals -AND- government formation:8755.042991012828
+liberals -AND- background:8135.3977164599855
+liberals -AND- conduct:8583.497191400209
+liberals -AND- analysis:8445.852467501727
+liberals -AND- eligibility:8780.248032588921
+liberals -AND- new democrats:10478.417072031432
+liberals -AND- electoral system:8392.24577262713
+liberals -AND- 10 closest ridings:9827.754932464955
+liberals -AND- polls#opinion polls#opinion polling:8326.288854617362
+liberals -AND- results:7875.7497853110835
+liberals -AND- conservatives:10478.417072031432
+liberals -AND- congress of deputies:10310.66068669131
+liberals -AND- second round:9282.042490625263
+liberals -AND- issues:10120.087329771639
+liberals -AND- reactions:8325.020472363216
+liberals -AND- investiture voting:10288.361013618658
+liberals -AND- summary:9013.566767792523
+liberals -AND- results by region:10356.84155453043
+liberals -AND- nominations:10115.84783476582
+liberals -AND- ballot access:9789.24677483196
+liberals -AND- official candidates:10389.712153470624
+liberals -AND- mps who lost their seats:10478.417072031432
+liberals -AND- procedure:9000.649418650832
+liberals -AND- candidates:8588.284291297638
+liberals -AND- aftermath:8912.240251288938
+liberals -AND- overview:9479.942631514878
+liberals -AND- first round:10001.559795201241
+liberals -AND- before the primaries:8889.416236839272
+liberals -AND- super tuesday:9245.65781010193
+liberals -AND- debates:8178.840963048555
+liberals -AND- democratic party nomination:10473.402457081
+liberals -AND- votes by state:9165.841514410904
+liberals -AND- senate:9571.204029446053
+liberals -AND- registered candidates:10229.190418393391
+liberals -AND- notable expressions and phrases:10478.417072031432
+liberals -AND- other nominations:9573.643191501802
+liberals -AND- apportionment:9709.1388178851
+liberals -AND- controversies:10128.735934635577
+liberals -AND- timeline:10433.5704679777
+liberals -AND- international observers:8770.849265348772
+liberals -AND- post-election:10459.837834848735
+liberals -AND- sources:10459.683384348009
+liberals -AND- results by state:10408.997909883718
+liberals -AND- manifestos:10445.473015035643
+liberals -AND- bloc québécois:9636.088118468206
+liberals -AND- endorsements:10016.737887439827
+liberals -AND- root:8219.112527660853
+results -AND- vote and seat summaries:12969.904181732665
+results -AND- candidates gallery:11646.108760582087
+results -AND- chamber of deputies:12969.904181732665
+results -AND- primaries:11077.623968761547
+results -AND- general election campaign#election campaign#campaign#campaigns:10819.860862718862
+results -AND- results by province:12969.904181732665
+results -AND- campaign slogans:12736.572288693234
+results -AND- government formation:11226.708030586426
+results -AND- background:10607.576175447059
+results -AND- conduct:11064.953445615774
+results -AND- analysis:10978.530546952436
+results -AND- eligibility:11177.811136536808
+results -AND- new democrats:12969.904181732665
+results -AND- electoral system:10862.26898814991
+results -AND- 10 closest ridings:12317.99918689403
+results -AND- polls#opinion polls#opinion polling:10819.009396283767
+results -AND- liberals:12969.904181732665
+results -AND- conservatives:12969.904181732665
+results -AND- congress of deputies:12815.48702266427
+results -AND- second round:11784.81705670062
+results -AND- issues:12597.763178915193
+results -AND- reactions:10805.361964474938
+results -AND- investiture voting:12789.011748426725
+results -AND- summary:11504.161324002855
+results -AND- results by region:12854.694553265326
+results -AND- nominations:12602.544772813508
+results -AND- ballot access:12288.797452211755
+results -AND- official candidates:12884.163371320607
+results -AND- mps who lost their seats:12969.904181732665
+results -AND- procedure:11476.031276596132
+results -AND- candidates:11069.349069509775
+results -AND- aftermath:11395.799875551465
+results -AND- overview:11983.10376939853
+results -AND- first round:12517.489771063416
+results -AND- before the primaries:11348.400930481688
+results -AND- super tuesday:11704.634851635798
+results -AND- debates:10641.20080986123
+results -AND- democratic party nomination:12965.666543587618
+results -AND- votes by state:11621.507818725
+results -AND- senate:12047.499339865048
+results -AND- registered candidates:12720.277957311564
+results -AND- notable expressions and phrases:12969.904181732665
+results -AND- other nominations:12048.043528196586
+results -AND- apportionment:12155.616350465194
+results -AND- controversies:12614.304083927227
+results -AND- timeline:12925.458451489827
+results -AND- international observers:11211.919572960944
+results -AND- post-election:12952.97981686714
+results -AND- sources:12950.527367636365
+results -AND- results by state:12906.170183491817
+results -AND- manifestos:12939.897075251652
+results -AND- bloc québécois:12116.877234163168
+results -AND- endorsements:12501.019879960542
+results -AND- root:16077.773905204462
+conservatives -AND- vote and seat summaries:10478.417072031432
+conservatives -AND- candidates gallery:9186.429018542683
+conservatives -AND- chamber of deputies:10478.417072031432
+conservatives -AND- primaries:8649.023769972111
+conservatives -AND- general election campaign#election campaign#campaign#campaigns:8354.553910692057
+conservatives -AND- results by province:10478.417072031432
+conservatives -AND- campaign slogans:10245.715805861935
+conservatives -AND- government formation:8755.042991012828
+conservatives -AND- background:8135.3977164599855
+conservatives -AND- conduct:8583.497191400209
+conservatives -AND- analysis:8445.852467501727
+conservatives -AND- eligibility:8780.248032588921
+conservatives -AND- new democrats:10478.417072031432
+conservatives -AND- electoral system:8392.24577262713
+conservatives -AND- 10 closest ridings:9827.754932464955
+conservatives -AND- polls#opinion polls#opinion polling:8326.288854617362
+conservatives -AND- liberals:10478.417072031432
+conservatives -AND- results:7875.7497853110835
+conservatives -AND- congress of deputies:10310.66068669131
+conservatives -AND- second round:9282.042490625263
+conservatives -AND- issues:10120.087329771639
+conservatives -AND- reactions:8325.020472363216
+conservatives -AND- investiture voting:10288.361013618658
+conservatives -AND- summary:9013.566767792523
+conservatives -AND- results by region:10356.84155453043
+conservatives -AND- nominations:10115.84783476582
+conservatives -AND- ballot access:9789.24677483196
+conservatives -AND- official candidates:10389.712153470624
+conservatives -AND- mps who lost their seats:10478.417072031432
+conservatives -AND- procedure:9000.649418650832
+conservatives -AND- candidates:8588.284291297638
+conservatives -AND- aftermath:8912.240251288938
+conservatives -AND- overview:9479.942631514878
+conservatives -AND- first round:10001.559795201241
+conservatives -AND- before the primaries:8889.416236839272
+conservatives -AND- super tuesday:9245.65781010193
+conservatives -AND- debates:8178.840963048555
+conservatives -AND- democratic party nomination:10473.402457081
+conservatives -AND- votes by state:9165.841514410904
+conservatives -AND- senate:9571.204029446053
+conservatives -AND- registered candidates:10229.190418393391
+conservatives -AND- notable expressions and phrases:10478.417072031432
+conservatives -AND- other nominations:9573.643191501802
+conservatives -AND- apportionment:9709.1388178851
+conservatives -AND- controversies:10128.735934635577
+conservatives -AND- timeline:10433.5704679777
+conservatives -AND- international observers:8770.849265348772
+conservatives -AND- post-election:10459.837834848735
+conservatives -AND- sources:10459.683384348009
+conservatives -AND- results by state:10408.997909883718
+conservatives -AND- manifestos:10445.473015035643
+conservatives -AND- bloc québécois:9636.088118468206
+conservatives -AND- endorsements:10016.737887439827
+conservatives -AND- root:8219.112527660853
+congress of deputies -AND- vote and seat summaries:10631.64512079252
+congress of deputies -AND- candidates gallery:9336.254849306508
+congress of deputies -AND- chamber of deputies:10631.64512079252
+congress of deputies -AND- primaries:8798.599331909829
+congress of deputies -AND- general election campaign#election campaign#campaign#campaigns:8506.001789735026
+congress of deputies -AND- results by province:10631.64512079252
+congress of deputies -AND- campaign slogans:10398.64114941443
+congress of deputies -AND- government formation:8904.696060181297
+congress of deputies -AND- background:8285.75084999721
+congress of deputies -AND- conduct:8736.575929294439
+congress of deputies -AND- analysis:8599.10436761726
+congress of deputies -AND- eligibility:8929.331765984298
+congress of deputies -AND- new democrats:10631.64512079252
+congress of deputies -AND- electoral system:8544.07944803308
+congress of deputies -AND- 10 closest ridings:9978.97446970245
+congress of deputies -AND- polls#opinion polls#opinion polling:8482.7119053614
+congress of deputies -AND- liberals:10631.64512079252
+congress of deputies -AND- results:12051.24008507383
+congress of deputies -AND- conservatives:10631.64512079252
+congress of deputies -AND- second round:9439.300586974186
+congress of deputies -AND- issues:10272.456767353542
+congress of deputies -AND- reactions:8480.386593649077
+congress of deputies -AND- investiture voting:10442.048701010419
+congress of deputies -AND- summary:9168.464959935949
+congress of deputies -AND- results by region:10521.31594943198
+congress of deputies -AND- nominations:10267.561161945072
+congress of deputies -AND- ballot access:9940.176910203081
+congress of deputies -AND- official candidates:10543.697784471005
+congress of deputies -AND- mps who lost their seats:10631.64512079252
+congress of deputies -AND- procedure:9152.893025107436
+congress of deputies -AND- candidates:8740.008942174205
+congress of deputies -AND- aftermath:9064.058994879224
+congress of deputies -AND- overview:9631.282134437417
+congress of deputies -AND- first round:10161.081739203562
+congress of deputies -AND- before the primaries:9039.546408142325
+congress of deputies -AND- super tuesday:9397.285089060966
+congress of deputies -AND- debates:8328.43587037987
+congress of deputies -AND- democratic party nomination:10626.603447439138
+congress of deputies -AND- votes by state:9317.358902971791
+congress of deputies -AND- senate:9751.492304899344
+congress of deputies -AND- registered candidates:10381.476659175032
+congress of deputies -AND- notable expressions and phrases:10631.64512079252
+congress of deputies -AND- other nominations:9725.953310774526
+congress of deputies -AND- apportionment:9859.480405757246
+congress of deputies -AND- controversies:10282.549066321722
+congress of deputies -AND- timeline:10589.222092036169
+congress of deputies -AND- international observers:8921.487900479447
+congress of deputies -AND- post-election:10612.958560799547
+congress of deputies -AND- sources:10612.804110298817
+congress of deputies -AND- results by state:10563.649151230584
+congress of deputies -AND- manifestos:10598.51481617976
+congress of deputies -AND- bloc québécois:9791.499745770976
+congress of deputies -AND- endorsements:10168.849317371574
+congress of deputies -AND- root:8371.943934288183
+second round -AND- vote and seat summaries:11596.025873855739
+second round -AND- candidates gallery:10289.721381309915
+second round -AND- chamber of deputies:11596.025873855739
+second round -AND- primaries:9746.856598400742
+second round -AND- general election campaign#election campaign#campaign#campaigns:9474.367642459241
+second round -AND- results by province:11596.025873855739
+second round -AND- campaign slogans:11366.50523264494
+second round -AND- government formation:9871.49587616797
+second round -AND- background:9250.532577981572
+second round -AND- conduct:9700.188391152667
+second round -AND- analysis:9560.616992562373
+second round -AND- eligibility:9866.030045802048
+second round -AND- new democrats:11596.025873855739
+second round -AND- electoral system:9480.801622906685
+second round -AND- 10 closest ridings:10946.367945816382
+second round -AND- polls#opinion polls#opinion polling:14167.108608712866
+second round -AND- liberals:11596.025873855739
+second round -AND- results:13499.064731590246
+second round -AND- conservatives:11596.025873855739
+second round -AND- congress of deputies:11435.438512089553
+second round -AND- issues:11229.070679559816
+second round -AND- reactions:9457.054225330994
+second round -AND- investiture voting:11412.181232442756
+second round -AND- summary:10158.437364647469
+second round -AND- results by region:11482.103638544344
+second round -AND- nominations:11224.039765545756
+second round -AND- ballot access:10904.690424582655
+second round -AND- official candidates:11506.723565845383
+second round -AND- mps who lost their seats:11596.025873855739
+second round -AND- procedure:10113.21728927399
+second round -AND- candidates:9707.120158979935
+second round -AND- aftermath:10030.442903027653
+second round -AND- overview:10591.393382905117
+second round -AND- first round:11132.571115497803
+second round -AND- before the primaries:10003.328599998951
+second round -AND- super tuesday:10357.499328048343
+second round -AND- debates:9299.519065093775
+second round -AND- democratic party nomination:11590.745566174615
+second round -AND- votes by state:10278.266341583443
+second round -AND- senate:10680.320490452654
+second round -AND- registered candidates:11347.776189955724
+second round -AND- notable expressions and phrases:11596.025873855739
+second round -AND- other nominations:10691.002361969107
+second round -AND- apportionment:10807.539100817155
+second round -AND- controversies:11248.33273537702
+second round -AND- timeline:11550.599664311376
+second round -AND- international observers:9878.92781678996
+second round -AND- post-election:11576.802649224363
+second round -AND- sources:11578.670177288146
+second round -AND- results by state:11526.394557007905
+second round -AND- manifestos:11562.88814831048
+second round -AND- bloc québécois:10753.669688378404
+second round -AND- endorsements:11151.338598936938
+second round -AND- root:13998.625299455847
+issues -AND- vote and seat summaries:10784.790572522797
+issues -AND- candidates gallery:9499.26659481238
+issues -AND- chamber of deputies:10784.790572522797
+issues -AND- primaries:8954.277334359978
+issues -AND- general election campaign#election campaign#campaign#campaigns:17324.93258235525
+issues -AND- results by province:10784.790572522797
+issues -AND- campaign slogans:10553.797263516153
+issues -AND- government formation:9056.403574195083
+issues -AND- background:8439.66761524363
+issues -AND- conduct:8891.083300622457
+issues -AND- analysis:8748.73507542556
+issues -AND- eligibility:9085.997581289848
+issues -AND- new democrats:10784.790572522797
+issues -AND- electoral system:8695.07515285839
+issues -AND- 10 closest ridings:10133.769263939284
+issues -AND- polls#opinion polls#opinion polling:8634.216756112211
+issues -AND- liberals:10784.790572522797
+issues -AND- results:8179.520765086136
+issues -AND- conservatives:10784.790572522797
+issues -AND- congress of deputies:10615.736329714866
+issues -AND- second round:9584.608806868262
+issues -AND- reactions:8630.539288217751
+issues -AND- investiture voting:10594.710788682893
+issues -AND- summary:9321.174664306423
+issues -AND- results by region:10662.272793974993
+issues -AND- nominations:10423.014561086664
+issues -AND- ballot access:10097.297715209013
+issues -AND- official candidates:10698.251679796682
+issues -AND- mps who lost their seats:10784.790572522797
+issues -AND- procedure:9301.368856517252
+issues -AND- candidates:8894.19852373455
+issues -AND- aftermath:9218.073872045103
+issues -AND- overview:9788.765313879383
+issues -AND- first round:10305.903693343504
+issues -AND- before the primaries:9198.83750486826
+issues -AND- super tuesday:9547.498779860282
+issues -AND- debates:8488.271888840163
+issues -AND- democratic party nomination:10780.05642711686
+issues -AND- votes by state:9464.508211943405
+issues -AND- senate:9872.30658629115
+issues -AND- registered candidates:10536.176322737903
+issues -AND- notable expressions and phrases:10784.790572522797
+issues -AND- other nominations:9879.322505203558
+issues -AND- apportionment:10014.56196226273
+issues -AND- controversies:10434.332229761885
+issues -AND- timeline:10739.434824299264
+issues -AND- international observers:9089.666768273417
+issues -AND- post-election:10765.981875321791
+issues -AND- sources:10765.827424821062
+issues -AND- results by state:10715.505112880226
+issues -AND- manifestos:10752.851585417242
+issues -AND- bloc québécois:9949.528436621082
+issues -AND- endorsements:10322.502175772635
+issues -AND- root:12785.020065837964
+reactions -AND- vote and seat summaries:12516.5751804639
+reactions -AND- candidates gallery:11200.249800365786
+reactions -AND- chamber of deputies:12516.5751804639
+reactions -AND- primaries:10657.229528150774
+reactions -AND- general election campaign#election campaign#campaign#campaigns:10400.757533133718
+reactions -AND- results by province:12516.5751804639
+reactions -AND- campaign slogans:12285.123022264448
+reactions -AND- government formation:10811.848302747432
+reactions -AND- background:10172.316184571602
+reactions -AND- conduct:10634.71071302181
+reactions -AND- analysis:10468.322618796716
+reactions -AND- eligibility:10766.323411897936
+reactions -AND- new democrats:12516.5751804639
+reactions -AND- electoral system:10361.208026724416
+reactions -AND- 10 closest ridings:11832.340736923612
+reactions -AND- polls#opinion polls#opinion polling:10371.59752439498
+reactions -AND- liberals:12516.5751804639
+reactions -AND- results:14858.042834347612
+reactions -AND- conservatives:12516.5751804639
+reactions -AND- congress of deputies:12357.695762077296
+reactions -AND- second round:11338.65427131002
+reactions -AND- issues:12150.805570868863
+reactions -AND- investiture voting:12329.824404652922
+reactions -AND- summary:11054.689428425407
+reactions -AND- results by region:12395.735457018141
+reactions -AND- nominations:12140.796492037705
+reactions -AND- ballot access:11818.197094509243
+reactions -AND- official candidates:12426.356925711018
+reactions -AND- mps who lost their seats:12516.5751804639
+reactions -AND- procedure:11005.50405602529
+reactions -AND- candidates:10641.108143588499
+reactions -AND- aftermath:10954.54070229228
+reactions -AND- overview:11500.676208159188
+reactions -AND- first round:12042.251436817021
+reactions -AND- before the primaries:10919.105133438077
+reactions -AND- super tuesday:11263.678087486609
+reactions -AND- debates:10243.867281549947
+reactions -AND- democratic party nomination:12511.126140716
+reactions -AND- votes by state:11153.259824111781
+reactions -AND- senate:11581.98867090296
+reactions -AND- registered candidates:12270.529739411873
+reactions -AND- notable expressions and phrases:12516.5751804639
+reactions -AND- other nominations:11607.996887182717
+reactions -AND- apportionment:11693.517460578862
+reactions -AND- controversies:12165.88941919858
+reactions -AND- timeline:12472.64783652006
+reactions -AND- international observers:10826.865507950557
+reactions -AND- post-election:12497.927384334318
+reactions -AND- sources:12496.922227550793
+reactions -AND- results by state:12448.15198066067
+reactions -AND- manifestos:12483.718990331445
+reactions -AND- bloc québécois:11664.0530787091
+reactions -AND- endorsements:12045.63757316552
+reactions -AND- root:15368.688509584452
+investiture voting -AND- vote and seat summaries:10666.755632941946
+investiture voting -AND- candidates gallery:9372.70290539127
+investiture voting -AND- chamber of deputies:10666.755632941946
+investiture voting -AND- primaries:8833.76136667815
+investiture voting -AND- general election campaign#election campaign#campaign#campaigns:8541.418245611658
+investiture voting -AND- results by province:10666.755632941946
+investiture voting -AND- campaign slogans:10433.710399822598
+investiture voting -AND- government formation:8944.546632596834
+investiture voting -AND- background:8324.077441717178
+investiture voting -AND- conduct:8770.044734162922
+investiture voting -AND- analysis:8632.460386308314
+investiture voting -AND- eligibility:8962.904115322044
+investiture voting -AND- new democrats:10666.755632941946
+investiture voting -AND- electoral system:8580.497330240602
+investiture voting -AND- 10 closest ridings:10013.805709574925
+investiture voting -AND- polls#opinion polls#opinion polling:8513.454564505835
+investiture voting -AND- liberals:10666.755632941946
+investiture voting -AND- results:8064.6377797870755
+investiture voting -AND- conservatives:10666.755632941946
+investiture voting -AND- congress of deputies:10499.452646554913
+investiture voting -AND- second round:9473.213100559424
+investiture voting -AND- issues:10307.468401018981
+investiture voting -AND- reactions:8512.85989017072
+investiture voting -AND- summary:9207.677206870381
+investiture voting -AND- results by region:10544.500362796505
+investiture voting -AND- nominations:10303.66221988371
+investiture voting -AND- ballot access:9975.822004100108
+investiture voting -AND- official candidates:10577.542359204399
+investiture voting -AND- mps who lost their seats:10666.755632941946
+investiture voting -AND- procedure:9194.448294628972
+investiture voting -AND- candidates:8779.756871656271
+investiture voting -AND- aftermath:9101.795467103808
+investiture voting -AND- overview:9670.684151239837
+investiture voting -AND- first round:10194.01035476884
+investiture voting -AND- before the primaries:9074.786579842255
+investiture voting -AND- super tuesday:9431.378467670871
+investiture voting -AND- debates:8364.566779313858
+investiture voting -AND- democratic party nomination:10661.709624213354
+investiture voting -AND- votes by state:9351.650641061906
+investiture voting -AND- senate:9756.875779473308
+investiture voting -AND- registered candidates:10418.506250677643
+investiture voting -AND- notable expressions and phrases:10666.755632941946
+investiture voting -AND- other nominations:9760.409848967078
+investiture voting -AND- apportionment:9895.513727604628
+investiture voting -AND- controversies:10316.862538465515
+investiture voting -AND- timeline:10621.63273758243
+investiture voting -AND- international observers:8957.01253210185
+investiture voting -AND- post-election:15972.077816066714
+investiture voting -AND- sources:10647.897426877083
+investiture voting -AND- results by state:10597.203067805392
+investiture voting -AND- manifestos:10633.595487196488
+investiture voting -AND- bloc québécois:9822.550206136773
+investiture voting -AND- endorsements:10204.645222063598
+investiture voting -AND- root:12616.174919317102
+summary -AND- vote and seat summaries:11830.87594383079
+summary -AND- candidates gallery:10524.398553955973
+summary -AND- chamber of deputies:17746.313915746185
+summary -AND- primaries:9979.589570162347
+summary -AND- general election campaign#election campaign#campaign#campaigns:9704.034570087402
+summary -AND- results by province:11830.87594383079
+summary -AND- campaign slogans:11599.52804534644
+summary -AND- government formation:10088.005513658216
+summary -AND- background:9489.917377095084
+summary -AND- conduct:9934.46384700431
+summary -AND- analysis:9782.511199163739
+summary -AND- eligibility:10100.543212964638
+summary -AND- new democrats:11830.87594383079
+summary -AND- electoral system:9722.011238837193
+summary -AND- 10 closest ridings:11171.659712616649
+summary -AND- polls#opinion polls#opinion polling:9681.925024932618
+summary -AND- liberals:11830.87594383079
+summary -AND- results:9222.955951437902
+summary -AND- conservatives:11830.87594383079
+summary -AND- congress of deputies:11668.092035094898
+summary -AND- second round:10660.838769993461
+summary -AND- issues:11471.657946706142
+summary -AND- reactions:9685.737399682934
+summary -AND- investiture voting:11651.614487886345
+summary -AND- results by region:11708.13517074216
+summary -AND- nominations:11461.660130381111
+summary -AND- ballot access:11137.91414015718
+summary -AND- official candidates:11741.609542548762
+summary -AND- mps who lost their seats:11830.87594383079
+summary -AND- procedure:10351.401818555336
+summary -AND- candidates:9944.635523601875
+summary -AND- aftermath:10270.048306864583
+summary -AND- overview:10832.776503872115
+summary -AND- first round:11360.596263528669
+summary -AND- before the primaries:10229.765158803259
+summary -AND- super tuesday:10584.112781127147
+summary -AND- debates:9526.802975470926
+summary -AND- democratic party nomination:11825.866167216898
+summary -AND- votes by state:10503.415927071554
+summary -AND- senate:16367.070662322056
+summary -AND- registered candidates:11583.305264552413
+summary -AND- notable expressions and phrases:11830.87594383079
+summary -AND- other nominations:10914.42342144084
+summary -AND- apportionment:11042.330216604898
+summary -AND- controversies:11482.971588853447
+summary -AND- timeline:11786.12195320598
+summary -AND- international observers:10140.347633721385
+summary -AND- post-election:11811.214735193687
+summary -AND- sources:11811.948920050021
+summary -AND- results by state:11764.981383823186
+summary -AND- manifestos:11795.636465993879
+summary -AND- bloc québécois:10990.949258563449
+summary -AND- endorsements:11384.134114383913
+summary -AND- root:14361.502137344974
+results by region -AND- vote and seat summaries:10584.083585628054
+results by region -AND- candidates gallery:9289.58130296602
+results by region -AND- chamber of deputies:10584.083585628054
+results by region -AND- primaries:8752.329666225294
+results by region -AND- general election campaign#election campaign#campaign#campaigns:8458.603613113051
+results by region -AND- results by province:10584.083585628054
+results by region -AND- campaign slogans:10351.206413348304
+results by region -AND- government formation:8857.930305571002
+results by region -AND- background:8239.295501431123
+results by region -AND- conduct:8689.053177552294
+results by region -AND- analysis:8551.279594093952
+results by region -AND- eligibility:8882.044433653024
+results by region -AND- new democrats:10584.083585628054
+results by region -AND- electoral system:8493.868769058285
+results by region -AND- 10 closest ridings:9932.015030477967
+results by region -AND- polls#opinion polls#opinion polling:8435.852731503923
+results by region -AND- liberals:10584.083585628054
+results by region -AND- results:15972.154928577576
+results by region -AND- conservatives:10584.083585628054
+results by region -AND- congress of deputies:10429.301197904417
+results by region -AND- second round:9392.117843149133
+results by region -AND- issues:10225.187984493754
+results by region -AND- reactions:8431.9262497331
+results by region -AND- investiture voting:10393.800725137204
+results by region -AND- summary:9119.502288192563
+results by region -AND- nominations:10220.45173976654
+results by region -AND- ballot access:9893.328409579402
+results by region -AND- official candidates:10495.218316575338
+results by region -AND- mps who lost their seats:10584.083585628054
+results by region -AND- procedure:9103.961388355996
+results by region -AND- candidates:8692.550654686656
+results by region -AND- aftermath:9016.098519113531
+results by region -AND- overview:9584.189511194025
+results by region -AND- first round:10112.912248892357
+results by region -AND- before the primaries:8992.752546604506
+results by region -AND- super tuesday:9350.145792507272
+results by region -AND- debates:8281.744658596184
+results by region -AND- democratic party nomination:10579.049864534434
+results by region -AND- votes by state:9283.531416163516
+results by region -AND- senate:9684.972472511388
+results by region -AND- registered candidates:10334.199356476047
+results by region -AND- notable expressions and phrases:10584.083585628054
+results by region -AND- other nominations:9678.728065955564
+results by region -AND- apportionment:9812.770121092084
+results by region -AND- controversies:10234.435699492456
+results by region -AND- timeline:10540.011645180242
+results by region -AND- international observers:8875.29189234885
+results by region -AND- post-election:10565.42856699575
+results by region -AND- sources:10565.27411649502
+results by region -AND- results by state:10515.932298661835
+results by region -AND- manifestos:10551.008017777733
+results by region -AND- bloc québécois:9743.239589035167
+results by region -AND- endorsements:10122.461742982165
+results by region -AND- root:12485.789480347059
+nominations -AND- vote and seat summaries:10815.04217521628
+nominations -AND- candidates gallery:9533.225560820727
+nominations -AND- chamber of deputies:10815.04217521628
+nominations -AND- primaries:9012.951388508895
+nominations -AND- general election campaign#election campaign#campaign#campaigns:8687.550616430497
+nominations -AND- results by province:10815.04217521628
+nominations -AND- campaign slogans:10583.715171686297
+nominations -AND- government formation:9085.602166676195
+nominations -AND- background:8467.50480718346
+nominations -AND- conduct:8920.4881416727
+nominations -AND- analysis:8786.057800200786
+nominations -AND- eligibility:9117.679101065787
+nominations -AND- new democrats:10815.04217521628
+nominations -AND- electoral system:8722.296945762933
+nominations -AND- 10 closest ridings:10158.900705199285
+nominations -AND- polls#opinion polls#opinion polling:8659.65285902045
+nominations -AND- liberals:10815.04217521628
+nominations -AND- results:8212.256189890266
+nominations -AND- conservatives:10815.04217521628
+nominations -AND- congress of deputies:10645.16027621716
+nominations -AND- second round:9612.63106641026
+nominations -AND- issues:10456.874288485174
+nominations -AND- reactions:8655.908760478647
+nominations -AND- investiture voting:10625.135165516243
+nominations -AND- summary:9345.689351875544
+nominations -AND- results by region:10691.90232848424
+nominations -AND- ballot access:10126.303311655127
+nominations -AND- official candidates:10729.765458389513
+nominations -AND- mps who lost their seats:10815.04217521628
+nominations -AND- procedure:9342.516786924618
+nominations -AND- candidates:8930.423391076678
+nominations -AND- aftermath:9246.882669233431
+nominations -AND- overview:9819.049972965324
+nominations -AND- first round:10338.849255648323
+nominations -AND- before the primaries:9230.665204241408
+nominations -AND- super tuesday:9603.590315280075
+nominations -AND- debates:8509.384080194026
+nominations -AND- democratic party nomination:10810.148838321156
+nominations -AND- votes by state:9497.885072206733
+nominations -AND- senate:9906.12835181893
+nominations -AND- registered candidates:10568.422708267271
+nominations -AND- notable expressions and phrases:10815.04217521628
+nominations -AND- other nominations:9915.581645396063
+nominations -AND- apportionment:10038.027917845278
+nominations -AND- controversies:10466.010364538028
+nominations -AND- timeline:10769.559736098305
+nominations -AND- international observers:9103.009000450771
+nominations -AND- post-election:10796.176381230933
+nominations -AND- sources:10796.720191267515
+nominations -AND- results by state:10745.703468116822
+nominations -AND- manifestos:10783.763962836352
+nominations -AND- bloc québécois:9968.356179798904
+nominations -AND- endorsements:10353.20823364214
+nominations -AND- root:12834.68164886628
+ballot access -AND- vote and seat summaries:11118.039029376898
+ballot access -AND- candidates gallery:9826.208870621744
+ballot access -AND- chamber of deputies:11118.039029376898
+ballot access -AND- primaries:9287.520281027204
+ballot access -AND- general election campaign#election campaign#campaign#campaigns:13485.896120578624
+ballot access -AND- results by province:11118.039029376898
+ballot access -AND- campaign slogans:10886.568399939606
+ballot access -AND- government formation:9392.688505997612
+ballot access -AND- background:8774.612836653301
+ballot access -AND- conduct:13844.16481623881
+ballot access -AND- analysis:9093.88616439491
+ballot access -AND- eligibility:9417.193305955205
+ballot access -AND- new democrats:11118.039029376898
+ballot access -AND- electoral system:9024.169857356002
+ballot access -AND- 10 closest ridings:10475.772479092364
+ballot access -AND- polls#opinion polls#opinion polling:8956.520771667561
+ballot access -AND- liberals:11118.039029376898
+ballot access -AND- results:12778.285761386058
+ballot access -AND- conservatives:11118.039029376898
+ballot access -AND- congress of deputies:10947.024782492976
+ballot access -AND- second round:9922.036960784517
+ballot access -AND- issues:10760.407994495152
+ballot access -AND- reactions:8962.664660410861
+ballot access -AND- investiture voting:10927.743974918387
+ballot access -AND- summary:9645.839006184231
+ballot access -AND- results by region:10994.08438168914
+ballot access -AND- nominations:10754.715916746994
+ballot access -AND- official candidates:11030.397200136187
+ballot access -AND- mps who lost their seats:11118.039029376898
+ballot access -AND- procedure:9644.532250946868
+ballot access -AND- candidates:9237.954685003915
+ballot access -AND- aftermath:9548.923258271503
+ballot access -AND- overview:10110.553749989704
+ballot access -AND- first round:10643.448604301871
+ballot access -AND- before the primaries:9536.613856817408
+ballot access -AND- super tuesday:9889.87588511952
+ballot access -AND- debates:8823.189883376397
+ballot access -AND- democratic party nomination:11113.822223980254
+ballot access -AND- votes by state:9804.767323401255
+ballot access -AND- senate:10200.903984573237
+ballot access -AND- registered candidates:10870.232350805281
+ballot access -AND- notable expressions and phrases:11118.039029376898
+ballot access -AND- other nominations:10228.952126634102
+ballot access -AND- apportionment:10341.154539450328
+ballot access -AND- controversies:10768.841492819998
+ballot access -AND- timeline:11072.04414887249
+ballot access -AND- international observers:9402.198727377485
+ballot access -AND- post-election:11098.942289390361
+ballot access -AND- sources:11098.787838889632
+ballot access -AND- results by state:11048.203974909768
+ballot access -AND- manifestos:11085.600173862227
+ballot access -AND- bloc québécois:10267.259661687514
+ballot access -AND- endorsements:10651.919573462084
+ballot access -AND- root:8852.853693839133
+official candidates -AND- vote and seat summaries:10561.191531007706
+official candidates -AND- candidates gallery:9268.927308311253
+official candidates -AND- chamber of deputies:10561.191531007706
+official candidates -AND- primaries:8730.716693743068
+official candidates -AND- general election campaign#election campaign#campaign#campaigns:8437.35726246296
+official candidates -AND- results by province:10561.191531007706
+official candidates -AND- campaign slogans:10329.617255987898
+official candidates -AND- government formation:8837.175442792526
+official candidates -AND- background:8217.038208610835
+official candidates -AND- conduct:8665.296417994585
+official candidates -AND- analysis:8527.425917978559
+official candidates -AND- eligibility:8867.581873851583
+official candidates -AND- new democrats:10561.191531007706
+official candidates -AND- electoral system:8474.60841225709
+official candidates -AND- 10 closest ridings:9909.029468220666
+official candidates -AND- polls#opinion polls#opinion polling:8408.7649016228
+official candidates -AND- liberals:10561.191531007706
+official candidates -AND- results:7958.87549472486
+official candidates -AND- conservatives:10561.191531007706
+official candidates -AND- congress of deputies:10393.81290061331
+official candidates -AND- second round:9364.808749990198
+official candidates -AND- issues:10204.221418592166
+official candidates -AND- reactions:8406.55695103879
+official candidates -AND- investiture voting:10370.820884637753
+official candidates -AND- summary:9095.327277959526
+official candidates -AND- results by region:10439.359092861552
+official candidates -AND- nominations:10202.100365851926
+official candidates -AND- ballot access:9873.498534768663
+official candidates -AND- mps who lost their seats:10561.191531007706
+official candidates -AND- procedure:9085.628205528144
+official candidates -AND- candidates:21687.976881185234
+official candidates -AND- aftermath:8995.320940746014
+official candidates -AND- overview:9565.776441587068
+official candidates -AND- first round:10084.109725394857
+official candidates -AND- before the primaries:8972.078048042868
+official candidates -AND- super tuesday:9328.15383690207
+official candidates -AND- debates:8260.128520717533
+official candidates -AND- democratic party nomination:10556.495865073293
+official candidates -AND- votes by state:9246.013132196436
+official candidates -AND- senate:9654.07373784507
+official candidates -AND- registered candidates:10312.464366645532
+official candidates -AND- notable expressions and phrases:10561.191531007706
+official candidates -AND- other nominations:9658.81529890927
+official candidates -AND- apportionment:9789.831298642795
+official candidates -AND- controversies:10211.173867120679
+official candidates -AND- timeline:10516.174434069027
+official candidates -AND- international observers:8853.129578746575
+official candidates -AND- post-election:10542.535456451838
+official candidates -AND- sources:10542.381005951109
+official candidates -AND- results by state:10492.505477798066
+official candidates -AND- manifestos:10529.517404688968
+official candidates -AND- bloc québécois:9718.512752532413
+official candidates -AND- endorsements:10100.77873796466
+official candidates -AND- root:12452.30219655372
+mps who lost their seats -AND- vote and seat summaries:10478.417072031432
+mps who lost their seats -AND- candidates gallery:9186.429018542683
+mps who lost their seats -AND- chamber of deputies:10478.417072031432
+mps who lost their seats -AND- primaries:8649.023769972111
+mps who lost their seats -AND- general election campaign#election campaign#campaign#campaigns:8354.553910692057
+mps who lost their seats -AND- results by province:10478.417072031432
+mps who lost their seats -AND- campaign slogans:10245.715805861935
+mps who lost their seats -AND- government formation:8755.042991012828
+mps who lost their seats -AND- background:8135.3977164599855
+mps who lost their seats -AND- conduct:8583.497191400209
+mps who lost their seats -AND- analysis:12668.778701252591
+mps who lost their seats -AND- eligibility:8780.248032588921
+mps who lost their seats -AND- new democrats:10478.417072031432
+mps who lost their seats -AND- electoral system:8392.24577262713
+mps who lost their seats -AND- 10 closest ridings:9827.754932464955
+mps who lost their seats -AND- polls#opinion polls#opinion polling:8326.288854617362
+mps who lost their seats -AND- liberals:10478.417072031432
+mps who lost their seats -AND- results:11813.624677966625
+mps who lost their seats -AND- conservatives:10478.417072031432
+mps who lost their seats -AND- congress of deputies:10310.66068669131
+mps who lost their seats -AND- second round:9282.042490625263
+mps who lost their seats -AND- issues:10120.087329771639
+mps who lost their seats -AND- reactions:8325.020472363216
+mps who lost their seats -AND- investiture voting:10288.361013618658
+mps who lost their seats -AND- summary:9013.566767792523
+mps who lost their seats -AND- results by region:10356.84155453043
+mps who lost their seats -AND- nominations:10115.84783476582
+mps who lost their seats -AND- ballot access:9789.24677483196
+mps who lost their seats -AND- official candidates:10389.712153470624
+mps who lost their seats -AND- procedure:9000.649418650832
+mps who lost their seats -AND- candidates:8588.284291297638
+mps who lost their seats -AND- aftermath:8912.240251288938
+mps who lost their seats -AND- overview:9479.942631514878
+mps who lost their seats -AND- first round:10001.559795201241
+mps who lost their seats -AND- before the primaries:8889.416236839272
+mps who lost their seats -AND- super tuesday:9245.65781010193
+mps who lost their seats -AND- debates:8178.840963048555
+mps who lost their seats -AND- democratic party nomination:10473.402457081
+mps who lost their seats -AND- votes by state:9165.841514410904
+mps who lost their seats -AND- senate:9571.204029446053
+mps who lost their seats -AND- registered candidates:10229.190418393391
+mps who lost their seats -AND- notable expressions and phrases:10478.417072031432
+mps who lost their seats -AND- other nominations:9573.643191501802
+mps who lost their seats -AND- apportionment:9709.1388178851
+mps who lost their seats -AND- controversies:10128.735934635577
+mps who lost their seats -AND- timeline:10433.5704679777
+mps who lost their seats -AND- international observers:8770.849265348772
+mps who lost their seats -AND- post-election:10459.837834848735
+mps who lost their seats -AND- sources:10459.683384348009
+mps who lost their seats -AND- results by state:10408.997909883718
+mps who lost their seats -AND- manifestos:10445.473015035643
+mps who lost their seats -AND- bloc québécois:9636.088118468206
+mps who lost their seats -AND- endorsements:10016.737887439827
+mps who lost their seats -AND- root:8219.112527660853
+procedure -AND- vote and seat summaries:11842.590837479722
+procedure -AND- candidates gallery:10536.217830147169
+procedure -AND- chamber of deputies:11842.590837479722
+procedure -AND- primaries:9988.269517383464
+procedure -AND- general election campaign#election campaign#campaign#campaigns:9702.218563074748
+procedure -AND- results by province:11842.590837479722
+procedure -AND- campaign slogans:11609.563460296176
+procedure -AND- government formation:10105.980227644475
+procedure -AND- background:9504.276082920023
+procedure -AND- conduct:9948.003461423712
+procedure -AND- analysis:9802.420238635204
+procedure -AND- eligibility:10138.51195070506
+procedure -AND- new democrats:11842.590837479722
+procedure -AND- electoral system:9769.052710209053
+procedure -AND- 10 closest ridings:11195.275490610133
+procedure -AND- polls#opinion polls#opinion polling:9674.869971364307
+procedure -AND- liberals:11842.590837479722
+procedure -AND- results:9235.379659302429
+procedure -AND- conservatives:11842.590837479722
+procedure -AND- congress of deputies:11671.996182435923
+procedure -AND- second round:10641.567109196116
+procedure -AND- issues:11475.07683565177
+procedure -AND- reactions:9678.716113971474
+procedure -AND- investiture voting:11662.829494576072
+procedure -AND- summary:10378.788764421073
+procedure -AND- results by region:11715.87179482677
+procedure -AND- nominations:11481.147754719648
+procedure -AND- ballot access:11170.249961408612
+procedure -AND- official candidates:11753.602267671547
+procedure -AND- mps who lost their seats:11842.590837479722
+procedure -AND- candidates:9971.262122678709
+procedure -AND- aftermath:10269.914761214119
+procedure -AND- overview:10828.695800893704
+procedure -AND- first round:11371.432277250255
+procedure -AND- before the primaries:10244.349007588333
+procedure -AND- super tuesday:10594.793178629548
+procedure -AND- debates:9540.544500970625
+procedure -AND- democratic party nomination:11838.025721987431
+procedure -AND- votes by state:10499.088881997599
+procedure -AND- senate:10926.939263458207
+procedure -AND- registered candidates:11594.881937708125
+procedure -AND- notable expressions and phrases:11842.590837479722
+procedure -AND- other nominations:10948.236494663843
+procedure -AND- apportionment:11084.014804568773
+procedure -AND- controversies:11491.138078959399
+procedure -AND- timeline:11797.092357340185
+procedure -AND- international observers:10125.441646875757
+procedure -AND- post-election:11823.1515826703
+procedure -AND- sources:11823.716662911535
+procedure -AND- results by state:11771.966935735054
+procedure -AND- manifestos:11807.443073975077
+procedure -AND- bloc québécois:10981.54522657834
+procedure -AND- endorsements:11377.105615180077
+procedure -AND- root:14391.007638233235
+candidates -AND- vote and seat summaries:12276.774701915721
+candidates -AND- candidates gallery:10981.372482600924
+candidates -AND- chamber of deputies:12276.774701915721
+candidates -AND- primaries:10447.205361433744
+candidates -AND- general election campaign#election campaign#campaign#campaigns:10146.745684186531
+candidates -AND- results by province:12276.774701915721
+candidates -AND- campaign slogans:12046.704435975407
+candidates -AND- government formation:10550.634224723122
+candidates -AND- background:9944.536534028903
+candidates -AND- conduct:10376.283619933092
+candidates -AND- analysis:10234.523055394573
+candidates -AND- eligibility:10560.487458070807
+candidates -AND- new democrats:12276.774701915721
+candidates -AND- electoral system:10160.911949574009
+candidates -AND- 10 closest ridings:11601.167568039033
+candidates -AND- polls#opinion polls#opinion polling:10103.004464572572
+candidates -AND- liberals:12276.774701915721
+candidates -AND- results:9654.35536945896
+candidates -AND- conservatives:12276.774701915721
+candidates -AND- congress of deputies:12107.960374345264
+candidates -AND- second round:16613.638601484803
+candidates -AND- issues:11909.658972421752
+candidates -AND- reactions:10138.330948251314
+candidates -AND- investiture voting:12096.560088304323
+candidates -AND- summary:10807.607530709995
+candidates -AND- results by region:12152.153536650316
+candidates -AND- nominations:11918.015013738092
+candidates -AND- ballot access:11591.954432182418
+candidates -AND- official candidates:12190.459086039704
+candidates -AND- mps who lost their seats:12276.774701915721
+candidates -AND- procedure:10800.396517392244
+candidates -AND- aftermath:10721.334406742526
+candidates -AND- overview:11270.098428806767
+candidates -AND- first round:17705.746913411273
+candidates -AND- before the primaries:10701.776849093569
+candidates -AND- super tuesday:11038.035778120291
+candidates -AND- debates:9992.012990066292
+candidates -AND- democratic party nomination:18409.05753974252
+candidates -AND- votes by state:10916.044982003983
+candidates -AND- senate:11350.582689174375
+candidates -AND- registered candidates:12046.073983541164
+candidates -AND- notable expressions and phrases:12276.774701915721
+candidates -AND- other nominations:11388.370633995224
+candidates -AND- apportionment:11491.656598281474
+candidates -AND- controversies:17904.266060746624
+candidates -AND- timeline:12231.056797600428
+candidates -AND- international observers:10562.872386457277
+candidates -AND- post-election:12257.01719356226
+candidates -AND- sources:12257.903807421386
+candidates -AND- results by state:12206.348684681801
+candidates -AND- manifestos:12243.921312819404
+candidates -AND- bloc québécois:11428.25676453742
+candidates -AND- endorsements:11810.559033256217
+candidates -AND- root:15020.875545348314
+aftermath -AND- vote and seat summaries:11945.036830396046
+aftermath -AND- candidates gallery:10656.101015698037
+aftermath -AND- chamber of deputies:11945.036830396046
+aftermath -AND- primaries:10100.554350520006
+aftermath -AND- general election campaign#election campaign#campaign#campaigns:9830.1896805043
+aftermath -AND- results by province:11945.036830396046
+aftermath -AND- campaign slogans:11712.018942221937
+aftermath -AND- government formation:10254.051844689398
+aftermath -AND- background:9609.39323897511
+aftermath -AND- conduct:10038.617149394555
+aftermath -AND- analysis:9900.098283179552
+aftermath -AND- eligibility:10212.10176214011
+aftermath -AND- new democrats:11945.036830396046
+aftermath -AND- electoral system:9827.705242826865
+aftermath -AND- 10 closest ridings:11266.277631332843
+aftermath -AND- polls#opinion polls#opinion polling:9786.998488437835
+aftermath -AND- liberals:11945.036830396046
+aftermath -AND- results:9327.592670910604
+aftermath -AND- conservatives:11945.036830396046
+aftermath -AND- congress of deputies:11774.720976264929
+aftermath -AND- second round:10747.319642785314
+aftermath -AND- issues:11583.522444148253
+aftermath -AND- reactions:9796.963026174519
+aftermath -AND- investiture voting:11760.243759539917
+aftermath -AND- summary:10477.648185921158
+aftermath -AND- results by region:11818.873235157756
+aftermath -AND- nominations:11580.740147012242
+aftermath -AND- ballot access:11244.183694197633
+aftermath -AND- official candidates:11858.245455877888
+aftermath -AND- mps who lost their seats:11945.036830396046
+aftermath -AND- procedure:10453.546835857844
+aftermath -AND- candidates:10074.083254863777
+aftermath -AND- overview:10935.841043918048
+aftermath -AND- first round:11464.837829439652
+aftermath -AND- before the primaries:10355.340198353899
+aftermath -AND- super tuesday:10708.988276390126
+aftermath -AND- debates:9652.479791202468
+aftermath -AND- democratic party nomination:11939.633706282208
+aftermath -AND- votes by state:10584.78793495625
+aftermath -AND- senate:11019.055291603665
+aftermath -AND- registered candidates:11704.84646020306
+aftermath -AND- notable expressions and phrases:11945.036830396046
+aftermath -AND- other nominations:11040.20421797212
+aftermath -AND- apportionment:11150.358259252776
+aftermath -AND- controversies:11597.272728841499
+aftermath -AND- timeline:11896.771023288755
+aftermath -AND- international observers:10223.514719186207
+aftermath -AND- post-election:11930.186359094972
+aftermath -AND- sources:11925.460444043445
+aftermath -AND- results by state:11873.170975780919
+aftermath -AND- manifestos:11912.152395052615
+aftermath -AND- bloc québécois:11101.985192204216
+aftermath -AND- endorsements:11479.7806298605
+aftermath -AND- root:14528.571204182605
+overview -AND- vote and seat summaries:11391.54755356421
+overview -AND- candidates gallery:10092.004015482678
+overview -AND- chamber of deputies:11391.54755356421
+overview -AND- primaries:9546.633009555762
+overview -AND- general election campaign#election campaign#campaign#campaigns:9266.717880911463
+overview -AND- results by province:11391.54755356421
+overview -AND- campaign slogans:11159.475731361461
+overview -AND- government formation:9660.4192473021
+overview -AND- background:9051.811313545353
+overview -AND- conduct:9488.524817124406
+overview -AND- analysis:9371.100282322328
+overview -AND- eligibility:9671.871122290284
+overview -AND- new democrats:11391.54755356421
+overview -AND- electoral system:9290.969157881089
+overview -AND- 10 closest ridings:10734.328202951878
+overview -AND- polls#opinion polls#opinion polling:9250.702325384867
+overview -AND- liberals:11391.54755356421
+overview -AND- results:8800.98848829985
+overview -AND- conservatives:11391.54755356421
+overview -AND- congress of deputies:11219.392919624584
+overview -AND- second round:10190.26167877176
+overview -AND- issues:11034.327403997984
+overview -AND- reactions:9227.916959901224
+overview -AND- investiture voting:11208.047457314962
+overview -AND- summary:9927.072243840694
+overview -AND- results by region:11266.425923853261
+overview -AND- nominations:11034.352156423749
+overview -AND- ballot access:10689.009820227308
+overview -AND- official candidates:11306.80634866895
+overview -AND- mps who lost their seats:11391.54755356421
+overview -AND- procedure:9899.970537425746
+overview -AND- candidates:9499.40864507469
+overview -AND- aftermath:9820.465120611718
+overview -AND- first round:10909.108323541603
+overview -AND- before the primaries:9795.511093922772
+overview -AND- super tuesday:10148.001677442382
+overview -AND- debates:9080.338800144526
+overview -AND- democratic party nomination:11386.508657983153
+overview -AND- votes by state:10055.451656596262
+overview -AND- senate:10475.82980539212
+overview -AND- registered candidates:11138.051742681038
+overview -AND- notable expressions and phrases:11391.54755356421
+overview -AND- other nominations:10474.648702933404
+overview -AND- apportionment:10604.068148275079
+overview -AND- controversies:11036.352103749485
+overview -AND- timeline:11344.78407721618
+overview -AND- international observers:9669.264696054632
+overview -AND- post-election:11372.750972829366
+overview -AND- sources:11373.24631274987
+overview -AND- results by state:11321.667937819027
+overview -AND- manifestos:11360.746933633729
+overview -AND- bloc québécois:10555.755582355827
+overview -AND- endorsements:10927.098585319254
+overview -AND- root:13715.25111655025
+first round -AND- vote and seat summaries:10920.339451002892
+first round -AND- candidates gallery:9624.507499913187
+first round -AND- chamber of deputies:10920.339451002892
+first round -AND- primaries:9085.614982233137
+first round -AND- general election campaign#election campaign#campaign#campaigns:8792.922968895597
+first round -AND- results by province:10920.339451002892
+first round -AND- campaign slogans:10686.711623545896
+first round -AND- government formation:9194.662009868047
+first round -AND- background:8576.013080901812
+first round -AND- conduct:9020.112070464831
+first round -AND- analysis:8885.421959229348
+first round -AND- eligibility:9215.020570213515
+first round -AND- new democrats:10920.339451002892
+first round -AND- electoral system:8828.881105889726
+first round -AND- 10 closest ridings:10262.955115591889
+first round -AND- polls#opinion polls#opinion polling:13171.824645545255
+first round -AND- liberals:10920.339451002892
+first round -AND- results:12486.150933263576
+first round -AND- conservatives:10920.339451002892
+first round -AND- congress of deputies:10761.969275811833
+first round -AND- second round:9733.377054551831
+first round -AND- issues:10558.98754325249
+first round -AND- reactions:8768.84755058193
+first round -AND- investiture voting:10735.653420989922
+first round -AND- summary:9460.563687583244
+first round -AND- results by region:10805.847984124935
+first round -AND- nominations:10557.364760911034
+first round -AND- ballot access:10239.977053261766
+first round -AND- official candidates:10831.210735511057
+first round -AND- mps who lost their seats:10920.339451002892
+first round -AND- procedure:9445.936920229513
+first round -AND- candidates:9034.698326706835
+first round -AND- aftermath:9354.109143621614
+first round -AND- overview:9917.230258399853
+first round -AND- before the primaries:9331.40480334102
+first round -AND- super tuesday:9683.650773642508
+first round -AND- debates:8621.163861263243
+first round -AND- democratic party nomination:10915.785315386582
+first round -AND- votes by state:9605.900010974758
+first round -AND- senate:10016.400567330063
+first round -AND- registered candidates:10671.043809111865
+first round -AND- notable expressions and phrases:10920.339451002892
+first round -AND- other nominations:10017.471576524926
+first round -AND- apportionment:10146.530867649357
+first round -AND- controversies:10571.044229954901
+first round -AND- timeline:10876.416277181197
+first round -AND- international observers:9205.418222365852
+first round -AND- post-election:10901.403282060204
+first round -AND- sources:10901.248831559478
+first round -AND- results by state:10851.75772175737
+first round -AND- manifestos:10886.775975921095
+first round -AND- bloc québécois:10078.088586884145
+first round -AND- endorsements:10460.23638290701
+first round -AND- root:12986.61172340672
+before the primaries -AND- vote and seat summaries:11960.412021595144
+before the primaries -AND- candidates gallery:10697.042849090954
+before the primaries -AND- chamber of deputies:11960.412021595144
+before the primaries -AND- primaries:20347.642386402502
+before the primaries -AND- general election campaign#election campaign#campaign#campaigns:9842.491524207213
+before the primaries -AND- results by province:11960.412021595144
+before the primaries -AND- campaign slogans:11727.693784453386
+before the primaries -AND- government formation:10236.464747545662
+before the primaries -AND- background:9620.803917570502
+before the primaries -AND- conduct:10064.006286407868
+before the primaries -AND- analysis:9926.564327466851
+before the primaries -AND- eligibility:10221.578887965281
+before the primaries -AND- new democrats:11960.412021595144
+before the primaries -AND- electoral system:9831.830128428475
+before the primaries -AND- 10 closest ridings:11282.757957485443
+before the primaries -AND- polls#opinion polls#opinion polling:9818.253123322273
+before the primaries -AND- liberals:11960.412021595144
+before the primaries -AND- results:9336.116728827159
+before the primaries -AND- conservatives:11960.412021595144
+before the primaries -AND- congress of deputies:11785.20201125935
+before the primaries -AND- second round:10759.717253791325
+before the primaries -AND- issues:11603.196799477155
+before the primaries -AND- reactions:9802.68125363022
+before the primaries -AND- investiture voting:11768.057428960194
+before the primaries -AND- summary:10478.305968111827
+before the primaries -AND- results by region:11832.882097492005
+before the primaries -AND- nominations:11605.738456905274
+before the primaries -AND- ballot access:11281.393739969579
+before the primaries -AND- official candidates:11872.578531627078
+before the primaries -AND- mps who lost their seats:11960.412021595144
+before the primaries -AND- procedure:10460.10936576853
+before the primaries -AND- candidates:10083.734370385595
+before the primaries -AND- aftermath:10390.951130316624
+before the primaries -AND- overview:10950.850443561078
+before the primaries -AND- first round:11482.1402364093
+before the primaries -AND- super tuesday:10770.502759496972
+before the primaries -AND- debates:9686.399907654255
+before the primaries -AND- democratic party nomination:17933.620327009612
+before the primaries -AND- votes by state:10607.780370372344
+before the primaries -AND- senate:11024.867260864306
+before the primaries -AND- registered candidates:11715.357196334435
+before the primaries -AND- notable expressions and phrases:11960.412021595144
+before the primaries -AND- other nominations:11069.549679159818
+before the primaries -AND- apportionment:11163.230286886284
+before the primaries -AND- controversies:11617.156690569582
+before the primaries -AND- timeline:11914.24377013485
+before the primaries -AND- international observers:10241.020865284741
+before the primaries -AND- post-election:11940.4211003196
+before the primaries -AND- sources:11941.200577943888
+before the primaries -AND- results by state:11889.89969648419
+before the primaries -AND- manifestos:11925.018133128984
+before the primaries -AND- bloc québécois:11109.638205022462
+before the primaries -AND- endorsements:11493.877417205676
+before the primaries -AND- root:9688.356527563388
+super tuesday -AND- vote and seat summaries:11614.685493714136
+super tuesday -AND- candidates gallery:10348.863221712174
+super tuesday -AND- chamber of deputies:11614.685493714136
+super tuesday -AND- primaries:9853.887700887235
+super tuesday -AND- general election campaign#election campaign#campaign#campaigns:9491.090699839875
+super tuesday -AND- results by province:11614.685493714136
+super tuesday -AND- campaign slogans:11382.326852455437
+super tuesday -AND- government formation:9886.140558842984
+super tuesday -AND- background:9264.953670519633
+super tuesday -AND- conduct:9728.59116568019
+super tuesday -AND- analysis:9598.5525274336
+super tuesday -AND- eligibility:9884.964027049058
+super tuesday -AND- new democrats:11614.685493714136
+super tuesday -AND- electoral system:9503.837183306772
+super tuesday -AND- 10 closest ridings:10945.823187597802
+super tuesday -AND- polls#opinion polls#opinion polling:9457.184910245047
+super tuesday -AND- liberals:11614.685493714136
+super tuesday -AND- results:8998.450355421593
+super tuesday -AND- conservatives:11614.685493714136
+super tuesday -AND- congress of deputies:11445.227905292886
+super tuesday -AND- second round:10420.5002842303
+super tuesday -AND- issues:11250.137966183134
+super tuesday -AND- reactions:9459.19775599727
+super tuesday -AND- investiture voting:11423.866959398296
+super tuesday -AND- summary:10142.044261819845
+super tuesday -AND- results by region:11491.466790181836
+super tuesday -AND- nominations:11265.901664574489
+super tuesday -AND- ballot access:10929.13326666025
+super tuesday -AND- official candidates:11525.563059908269
+super tuesday -AND- mps who lost their seats:11614.685493714136
+super tuesday -AND- procedure:10122.837879740775
+super tuesday -AND- candidates:9729.20104159032
+super tuesday -AND- aftermath:10047.864303697983
+super tuesday -AND- overview:10606.197881271619
+super tuesday -AND- first round:11135.062877831513
+super tuesday -AND- before the primaries:10064.669665063871
+super tuesday -AND- debates:9334.432410337819
+super tuesday -AND- democratic party nomination:17414.142138515366
+super tuesday -AND- votes by state:10291.231735044003
+super tuesday -AND- senate:10692.412262902104
+super tuesday -AND- registered candidates:11365.021356175466
+super tuesday -AND- notable expressions and phrases:11614.685493714136
+super tuesday -AND- other nominations:10726.447233016128
+super tuesday -AND- apportionment:10827.691615780454
+super tuesday -AND- controversies:11268.752138213453
+super tuesday -AND- timeline:11568.204604648145
+super tuesday -AND- international observers:9886.411224517653
+super tuesday -AND- post-election:11595.143283184745
+super tuesday -AND- sources:11595.390235954146
+super tuesday -AND- results by state:11544.616877090622
+super tuesday -AND- manifestos:11580.070296254618
+super tuesday -AND- bloc québécois:10766.299074300981
+super tuesday -AND- endorsements:11148.792862674629
+super tuesday -AND- root:9339.849685574649
+debates -AND- vote and seat summaries:12620.796378984149
+debates -AND- candidates gallery:11331.132243310774
+debates -AND- chamber of deputies:12620.796378984149
+debates -AND- primaries:10785.671974306455
+debates -AND- general election campaign#election campaign#campaign#campaigns:26303.990447246415
+debates -AND- results by province:12620.796378984149
+debates -AND- campaign slogans:12389.510405339337
+debates -AND- government formation:10913.21627807615
+debates -AND- background:10280.481803588766
+debates -AND- conduct:10722.180516963894
+debates -AND- analysis:10566.281000645598
+debates -AND- eligibility:10847.232367536495
+debates -AND- new democrats:12620.796378984149
+debates -AND- electoral system:10457.247027023423
+debates -AND- 10 closest ridings:11936.24821609216
+debates -AND- polls#opinion polls#opinion polling:10459.120739493432
+debates -AND- liberals:12620.796378984149
+debates -AND- results:9989.797313386096
+debates -AND- conservatives:12620.796378984149
+debates -AND- congress of deputies:12444.309704363855
+debates -AND- second round:17148.26904833372
+debates -AND- issues:12259.184361895328
+debates -AND- reactions:10494.818180033519
+debates -AND- investiture voting:12429.721466553525
+debates -AND- summary:11146.497253659085
+debates -AND- results by region:12491.02408535367
+debates -AND- nominations:12248.692459929367
+debates -AND- ballot access:11937.525347344974
+debates -AND- official candidates:12529.17622439989
+debates -AND- mps who lost their seats:12620.796378984149
+debates -AND- procedure:11116.529434813714
+debates -AND- candidates:10749.38281017547
+debates -AND- aftermath:11068.007999082938
+debates -AND- overview:11602.894957486966
+debates -AND- first round:12137.923349320468
+debates -AND- before the primaries:11057.06429475616
+debates -AND- super tuesday:11396.483383283827
+debates -AND- democratic party nomination:12616.266940600524
+debates -AND- votes by state:11231.066428054939
+debates -AND- senate:11673.639497466396
+debates -AND- registered candidates:12375.468433484451
+debates -AND- notable expressions and phrases:12620.796378984149
+debates -AND- other nominations:11731.866988636475
+debates -AND- apportionment:11800.147795716364
+debates -AND- controversies:12287.48681575796
+debates -AND- timeline:12577.82552550366
+debates -AND- international observers:10878.112714165314
+debates -AND- post-election:12600.063598157274
+debates -AND- sources:12600.256675939632
+debates -AND- results by state:12547.054893292025
+debates -AND- manifestos:12584.539154205517
+debates -AND- bloc québécois:11760.694926621485
+debates -AND- endorsements:12158.818425571913
+debates -AND- root:15502.661257248794
+democratic party nomination -AND- vote and seat summaries:10483.87551015749
+democratic party nomination -AND- candidates gallery:9192.015893656673
+democratic party nomination -AND- chamber of deputies:10483.87551015749
+democratic party nomination -AND- primaries:8654.373357282488
+democratic party nomination -AND- general election campaign#election campaign#campaign#campaigns:8359.776629857673
+democratic party nomination -AND- results by province:10483.87551015749
+democratic party nomination -AND- campaign slogans:10251.120270862615
+democratic party nomination -AND- government formation:8760.168044239164
+democratic party nomination -AND- background:8140.661037129177
+democratic party nomination -AND- conduct:8588.739777505885
+democratic party nomination -AND- analysis:8451.118641003353
+democratic party nomination -AND- eligibility:8786.920185067043
+democratic party nomination -AND- new democrats:10483.87551015749
+democratic party nomination -AND- electoral system:8398.052074932744
+democratic party nomination -AND- 10 closest ridings:9833.077745690534
+democratic party nomination -AND- polls#opinion polls#opinion polling:8331.531131670212
+democratic party nomination -AND- liberals:10483.87551015749
+democratic party nomination -AND- results:7881.804994069511
+democratic party nomination -AND- conservatives:10483.87551015749
+democratic party nomination -AND- congress of deputies:10316.0713822693
+democratic party nomination -AND- second round:9287.249424392294
+democratic party nomination -AND- issues:10125.763194110805
+democratic party nomination -AND- reactions:8330.156063086
+democratic party nomination -AND- investiture voting:10293.78167380072
+democratic party nomination -AND- summary:9018.879563937855
+democratic party nomination -AND- results by region:10362.26485523782
+democratic party nomination -AND- nominations:15182.044849590973
+democratic party nomination -AND- ballot access:9795.861031851653
+democratic party nomination -AND- official candidates:10395.511110432308
+democratic party nomination -AND- mps who lost their seats:10483.87551015749
+democratic party nomination -AND- procedure:9006.338706081646
+democratic party nomination -AND- candidates:8594.842649534836
+democratic party nomination -AND- aftermath:8917.390805244831
+democratic party nomination -AND- overview:9485.27091436368
+democratic party nomination -AND- first round:10007.486023745658
+democratic party nomination -AND- before the primaries:8894.975622569198
+democratic party nomination -AND- super tuesday:9250.851124653174
+democratic party nomination -AND- debates:8184.408401120434
+democratic party nomination -AND- votes by state:9171.131747927588
+democratic party nomination -AND- senate:9576.56816359231
+democratic party nomination -AND- registered candidates:10234.7506949329
+democratic party nomination -AND- notable expressions and phrases:10483.87551015749
+democratic party nomination -AND- other nominations:9579.123234173156
+democratic party nomination -AND- apportionment:9714.420366641594
+democratic party nomination -AND- controversies:10134.116806744012
+democratic party nomination -AND- timeline:10439.014624197785
+democratic party nomination -AND- international observers:8776.040815967528
+democratic party nomination -AND- post-election:10465.289836436077
+democratic party nomination -AND- sources:10465.135385935351
+democratic party nomination -AND- results by state:10414.43608930492
+democratic party nomination -AND- manifestos:10450.920283214818
+democratic party nomination -AND- bloc québécois:9641.355006908272
+democratic party nomination -AND- endorsements:10022.384240519526
+democratic party nomination -AND- root:12336.618932915982
+votes by state -AND- vote and seat summaries:11598.956532967717
+votes by state -AND- candidates gallery:10305.12274420408
+votes by state -AND- chamber of deputies:11598.956532967717
+votes by state -AND- primaries:9766.849651950242
+votes by state -AND- general election campaign#election campaign#campaign#campaigns:9465.498334417574
+votes by state -AND- results by province:11598.956532967717
+votes by state -AND- campaign slogans:11364.508526810216
+votes by state -AND- government formation:9862.038853759957
+votes by state -AND- background:9248.056924083583
+votes by state -AND- conduct:9714.520453958623
+votes by state -AND- analysis:9582.682601374472
+votes by state -AND- eligibility:9878.61645090032
+votes by state -AND- new democrats:11598.956532967717
+votes by state -AND- electoral system:9508.509399400995
+votes by state -AND- 10 closest ridings:10966.776944065197
+votes by state -AND- polls#opinion polls#opinion polling:9446.45956507737
+votes by state -AND- liberals:11598.956532967717
+votes by state -AND- results:13495.745655705516
+votes by state -AND- conservatives:11598.956532967717
+votes by state -AND- congress of deputies:11433.301192140792
+votes by state -AND- second round:10403.567965635815
+votes by state -AND- issues:11236.803560168177
+votes by state -AND- reactions:9442.480194051877
+votes by state -AND- investiture voting:11411.810461800924
+votes by state -AND- summary:10136.641312811656
+votes by state -AND- results by region:11482.811260522736
+votes by state -AND- nominations:11236.8135819038
+votes by state -AND- ballot access:10932.266202692532
+votes by state -AND- official candidates:11508.600313864263
+votes by state -AND- mps who lost their seats:11598.956532967717
+votes by state -AND- procedure:10116.581736281187
+votes by state -AND- candidates:9703.713933946583
+votes by state -AND- aftermath:10023.954610166935
+votes by state -AND- overview:10593.099849484151
+votes by state -AND- first round:11129.980952061562
+votes by state -AND- before the primaries:10004.92858989442
+votes by state -AND- super tuesday:10372.625962351787
+votes by state -AND- debates:9285.57902552335
+votes by state -AND- democratic party nomination:11593.977169629334
+votes by state -AND- senate:10684.539822016177
+votes by state -AND- registered candidates:11348.94265104638
+votes by state -AND- notable expressions and phrases:11598.956532967717
+votes by state -AND- other nominations:10696.495056738071
+votes by state -AND- apportionment:10820.90566433966
+votes by state -AND- controversies:11248.182267553895
+votes by state -AND- timeline:11554.561660476113
+votes by state -AND- international observers:9884.741357674824
+votes by state -AND- post-election:11579.749528911918
+votes by state -AND- sources:11579.595078411188
+votes by state -AND- results by state:11533.089650924081
+votes by state -AND- manifestos:11564.92305160995
+votes by state -AND- bloc québécois:10750.731427149394
+votes by state -AND- endorsements:11139.249792072187
+votes by state -AND- root:9333.268658481535
+senate -AND- vote and seat summaries:11269.16947642955
+senate -AND- candidates gallery:9968.564438941146
+senate -AND- chamber of deputies:11269.16947642955
+senate -AND- primaries:9428.961853092906
+senate -AND- general election campaign#election campaign#campaign#campaigns:9138.600585873763
+senate -AND- results by province:11269.16947642955
+senate -AND- campaign slogans:11036.552597812872
+senate -AND- government formation:9535.938580438145
+senate -AND- background:8923.669472532358
+senate -AND- conduct:9372.53489357794
+senate -AND- analysis:9239.636025838518
+senate -AND- eligibility:9569.704585883994
+senate -AND- new democrats:11269.16947642955
+senate -AND- electoral system:9196.796116869366
+senate -AND- 10 closest ridings:10608.476937713662
+senate -AND- polls#opinion polls#opinion polling:9115.582428497342
+senate -AND- liberals:11269.16947642955
+senate -AND- results:13015.630682328345
+senate -AND- conservatives:11269.16947642955
+senate -AND- congress of deputies:11133.298385900012
+senate -AND- second round:10072.735796171408
+senate -AND- issues:10907.017701130793
+senate -AND- reactions:9113.921820713054
+senate -AND- investiture voting:11078.915683511397
+senate -AND- summary:9802.260796302153
+senate -AND- results by region:11157.576721089252
+senate -AND- nominations:10907.503003887294
+senate -AND- ballot access:10574.406900603502
+senate -AND- official candidates:11182.170728750669
+senate -AND- mps who lost their seats:11269.16947642955
+senate -AND- procedure:9787.741223133646
+senate -AND- candidates:9375.203359882438
+senate -AND- aftermath:9698.561988361444
+senate -AND- overview:10268.56135210308
+senate -AND- first round:10797.201136263056
+senate -AND- before the primaries:9671.525676119216
+senate -AND- super tuesday:10029.264795703275
+senate -AND- debates:8959.55586557248
+senate -AND- democratic party nomination:11264.208772706863
+senate -AND- votes by state:9942.771044430585
+senate -AND- registered candidates:11016.629240550994
+senate -AND- notable expressions and phrases:11269.16947642955
+senate -AND- other nominations:10364.620661677565
+senate -AND- apportionment:10493.270727724137
+senate -AND- controversies:10918.655262575898
+senate -AND- timeline:11225.755865027917
+senate -AND- international observers:9553.883391855847
+senate -AND- post-election:11250.036482743322
+senate -AND- sources:11251.453429939724
+senate -AND- results by state:11200.966075119217
+senate -AND- manifestos:11235.886213488282
+senate -AND- bloc québécois:10425.143719277561
+senate -AND- endorsements:10804.034822362159
+senate -AND- root:9010.448876616356
+registered candidates -AND- vote and seat summaries:10720.45498662374
+registered candidates -AND- candidates gallery:9434.032595613942
+registered candidates -AND- chamber of deputies:10720.45498662374
+registered candidates -AND- primaries:8894.960864612183
+registered candidates -AND- general election campaign#election campaign#campaign#campaigns:8594.146183086057
+registered candidates -AND- results by province:10720.45498662374
+registered candidates -AND- campaign slogans:10487.48927435941
+registered candidates -AND- government formation:8997.5111928168
+registered candidates -AND- background:8378.05672640658
+registered candidates -AND- conduct:8826.496541434884
+registered candidates -AND- analysis:8686.36874820093
+registered candidates -AND- eligibility:9022.943363615199
+registered candidates -AND- new democrats:10720.45498662374
+registered candidates -AND- electoral system:8628.394384491441
+registered candidates -AND- 10 closest ridings:10065.561362496337
+registered candidates -AND- polls#opinion polls#opinion polling:8566.266670908251
+registered candidates -AND- liberals:10720.45498662374
+registered candidates -AND- results:8115.494906800284
+registered candidates -AND- conservatives:10720.45498662374
+registered candidates -AND- congress of deputies:10551.09690609825
+registered candidates -AND- second round:9523.668194165173
+registered candidates -AND- issues:10361.757189167078
+registered candidates -AND- reactions:8568.029772554954
+registered candidates -AND- investiture voting:10532.562472114118
+registered candidates -AND- summary:9256.121898996063
+registered candidates -AND- results by region:10597.700658256716
+registered candidates -AND- nominations:10360.09063302022
+registered candidates -AND- ballot access:10032.509243713957
+registered candidates -AND- official candidates:10632.198735268255
+registered candidates -AND- mps who lost their seats:10720.45498662374
+registered candidates -AND- procedure:9241.803372151997
+registered candidates -AND- candidates:22110.412611240354
+registered candidates -AND- aftermath:9156.689930857943
+registered candidates -AND- overview:9717.890166913949
+registered candidates -AND- first round:10242.859418352362
+registered candidates -AND- before the primaries:9134.623933865058
+registered candidates -AND- super tuesday:9486.738540344195
+registered candidates -AND- debates:8422.422420438923
+registered candidates -AND- democratic party nomination:10715.579454555666
+registered candidates -AND- votes by state:9401.928440886846
+registered candidates -AND- senate:9807.283829130809
+registered candidates -AND- notable expressions and phrases:10720.45498662374
+registered candidates -AND- other nominations:9819.750640467422
+registered candidates -AND- apportionment:9946.178509784224
+registered candidates -AND- controversies:10372.272869372913
+registered candidates -AND- timeline:10675.129244759657
+registered candidates -AND- international observers:9020.91698458286
+registered candidates -AND- post-election:10701.659812625523
+registered candidates -AND- sources:10701.505362124793
+registered candidates -AND- results by state:10650.886087020623
+registered candidates -AND- manifestos:10687.136193659075
+registered candidates -AND- bloc québécois:9875.067208530383
+registered candidates -AND- endorsements:10257.974654499001
+registered candidates -AND- root:8460.101822443532
+notable expressions and phrases -AND- vote and seat summaries:10478.417072031432
+notable expressions and phrases -AND- candidates gallery:9186.429018542683
+notable expressions and phrases -AND- chamber of deputies:10478.417072031432
+notable expressions and phrases -AND- primaries:8649.023769972111
+notable expressions and phrases -AND- general election campaign#election campaign#campaign#campaigns:12531.830866038086
+notable expressions and phrases -AND- results by province:10478.417072031432
+notable expressions and phrases -AND- campaign slogans:10245.715805861935
+notable expressions and phrases -AND- government formation:8755.042991012828
+notable expressions and phrases -AND- background:8135.3977164599855
+notable expressions and phrases -AND- conduct:8583.497191400209
+notable expressions and phrases -AND- analysis:8445.852467501727
+notable expressions and phrases -AND- eligibility:8780.248032588921
+notable expressions and phrases -AND- new democrats:10478.417072031432
+notable expressions and phrases -AND- electoral system:8392.24577262713
+notable expressions and phrases -AND- 10 closest ridings:9827.754932464955
+notable expressions and phrases -AND- polls#opinion polls#opinion polling:8326.288854617362
+notable expressions and phrases -AND- liberals:10478.417072031432
+notable expressions and phrases -AND- results:7875.7497853110835
+notable expressions and phrases -AND- conservatives:10478.417072031432
+notable expressions and phrases -AND- congress of deputies:10310.66068669131
+notable expressions and phrases -AND- second round:9282.042490625263
+notable expressions and phrases -AND- issues:10120.087329771639
+notable expressions and phrases -AND- reactions:8325.020472363216
+notable expressions and phrases -AND- investiture voting:10288.361013618658
+notable expressions and phrases -AND- summary:9013.566767792523
+notable expressions and phrases -AND- results by region:10356.84155453043
+notable expressions and phrases -AND- nominations:10115.84783476582
+notable expressions and phrases -AND- ballot access:9789.24677483196
+notable expressions and phrases -AND- official candidates:10389.712153470624
+notable expressions and phrases -AND- mps who lost their seats:10478.417072031432
+notable expressions and phrases -AND- procedure:9000.649418650832
+notable expressions and phrases -AND- candidates:8588.284291297638
+notable expressions and phrases -AND- aftermath:8912.240251288938
+notable expressions and phrases -AND- overview:9479.942631514878
+notable expressions and phrases -AND- first round:10001.559795201241
+notable expressions and phrases -AND- before the primaries:8889.416236839272
+notable expressions and phrases -AND- super tuesday:9245.65781010193
+notable expressions and phrases -AND- debates:8178.840963048555
+notable expressions and phrases -AND- democratic party nomination:10473.402457081
+notable expressions and phrases -AND- votes by state:9165.841514410904
+notable expressions and phrases -AND- senate:9571.204029446053
+notable expressions and phrases -AND- registered candidates:10229.190418393391
+notable expressions and phrases -AND- other nominations:9573.643191501802
+notable expressions and phrases -AND- apportionment:9709.1388178851
+notable expressions and phrases -AND- controversies:10128.735934635577
+notable expressions and phrases -AND- timeline:10433.5704679777
+notable expressions and phrases -AND- international observers:8770.849265348772
+notable expressions and phrases -AND- post-election:10459.837834848735
+notable expressions and phrases -AND- sources:10459.683384348009
+notable expressions and phrases -AND- results by state:10408.997909883718
+notable expressions and phrases -AND- manifestos:10445.473015035643
+notable expressions and phrases -AND- bloc québécois:9636.088118468206
+notable expressions and phrases -AND- endorsements:10016.737887439827
+notable expressions and phrases -AND- root:8219.112527660853
+other nominations -AND- vote and seat summaries:11325.327479972086
+other nominations -AND- candidates gallery:10047.563916091392
+other nominations -AND- chamber of deputies:11325.327479972086
+other nominations -AND- primaries:9501.732609781897
+other nominations -AND- general election campaign#election campaign#campaign#campaigns:9203.38136530817
+other nominations -AND- results by province:11325.327479972086
+other nominations -AND- campaign slogans:11097.3843032839
+other nominations -AND- government formation:9597.444210908314
+other nominations -AND- background:8980.30294410239
+other nominations -AND- conduct:9427.936000565358
+other nominations -AND- analysis:9300.571313462915
+other nominations -AND- eligibility:9614.69403584588
+other nominations -AND- new democrats:11325.327479972086
+other nominations -AND- electoral system:9226.777708305613
+other nominations -AND- 10 closest ridings:10675.785872437595
+other nominations -AND- polls#opinion polls#opinion polling:9161.805061400442
+other nominations -AND- liberals:11325.327479972086
+other nominations -AND- results:8716.790693337482
+other nominations -AND- conservatives:11325.327479972086
+other nominations -AND- congress of deputies:11157.213653347386
+other nominations -AND- second round:10130.807273306964
+other nominations -AND- issues:10963.493433266995
+other nominations -AND- reactions:9172.33062165554
+other nominations -AND- investiture voting:11134.711865886216
+other nominations -AND- summary:9847.82788829702
+other nominations -AND- results by region:11203.279302353807
+other nominations -AND- nominations:27418.157072921786
+other nominations -AND- ballot access:10668.828101420426
+other nominations -AND- official candidates:11238.743290898721
+other nominations -AND- mps who lost their seats:11325.327479972086
+other nominations -AND- procedure:9854.90638637804
+other nominations -AND- candidates:9451.385317699223
+other nominations -AND- aftermath:9757.663076601608
+other nominations -AND- overview:10313.964015733542
+other nominations -AND- first round:10849.716666607694
+other nominations -AND- before the primaries:9750.526501581784
+other nominations -AND- super tuesday:10105.52111009587
+other nominations -AND- debates:9039.605466079067
+other nominations -AND- democratic party nomination:11320.465025661202
+other nominations -AND- votes by state:10004.122021015726
+other nominations -AND- senate:10408.867939169857
+other nominations -AND- registered candidates:11080.170476205085
+other nominations -AND- notable expressions and phrases:11325.327479972086
+other nominations -AND- apportionment:10560.518576792414
+other nominations -AND- controversies:10980.350473546989
+other nominations -AND- timeline:11279.344943875189
+other nominations -AND- international observers:9600.774740555038
+other nominations -AND- post-election:11306.009866105738
+other nominations -AND- sources:11305.855415605012
+other nominations -AND- results by state:11255.00305540107
+other nominations -AND- manifestos:11292.505320725695
+other nominations -AND- bloc québécois:10478.2005286111
+other nominations -AND- endorsements:10857.939606919157
+other nominations -AND- root:13584.460673893207
+apportionment -AND- vote and seat summaries:11121.386662805624
+apportionment -AND- candidates gallery:9826.509389237937
+apportionment -AND- chamber of deputies:11121.386662805624
+apportionment -AND- primaries:9285.20688057349
+apportionment -AND- general election campaign#election campaign#campaign#campaigns:8991.963951153568
+apportionment -AND- results by province:11121.386662805624
+apportionment -AND- campaign slogans:10890.533778595247
+apportionment -AND- government formation:9391.4059339017
+apportionment -AND- background:8776.155705708283
+apportionment -AND- conduct:9222.070122422883
+apportionment -AND- analysis:9085.452964973963
+apportionment -AND- eligibility:9447.969758774218
+apportionment -AND- new democrats:11121.386662805624
+apportionment -AND- electoral system:9073.375344364766
+apportionment -AND- 10 closest ridings:10473.536645985321
+apportionment -AND- polls#opinion polls#opinion polling:8963.590512328796
+apportionment -AND- liberals:11121.386662805624
+apportionment -AND- results:8521.231916037143
+apportionment -AND- conservatives:11121.386662805624
+apportionment -AND- congress of deputies:10951.310716221102
+apportionment -AND- second round:9922.595939044426
+apportionment -AND- issues:10762.955063762787
+apportionment -AND- reactions:8963.610853180773
+apportionment -AND- investiture voting:10932.398437985496
+apportionment -AND- summary:9653.427629337375
+apportionment -AND- results by region:10998.104001507963
+apportionment -AND- nominations:10754.879894705155
+apportionment -AND- ballot access:10427.867887214645
+apportionment -AND- official candidates:11031.46574198388
+apportionment -AND- mps who lost their seats:11121.386662805624
+apportionment -AND- procedure:9648.087280101754
+apportionment -AND- candidates:9230.760020729216
+apportionment -AND- aftermath:9551.828462705804
+apportionment -AND- overview:15177.963081646121
+apportionment -AND- first round:10642.668808671753
+apportionment -AND- before the primaries:9527.410453598242
+apportionment -AND- super tuesday:9884.29336072148
+apportionment -AND- debates:8814.944474790549
+apportionment -AND- democratic party nomination:11116.293204918873
+apportionment -AND- votes by state:9800.386081038345
+apportionment -AND- senate:10209.41159218146
+apportionment -AND- registered candidates:10870.832784789434
+apportionment -AND- notable expressions and phrases:11121.386662805624
+apportionment -AND- other nominations:10221.860837938204
+apportionment -AND- controversies:10771.981971331605
+apportionment -AND- timeline:11075.846175480208
+apportionment -AND- international observers:9410.967419657538
+apportionment -AND- post-election:11102.49470777679
+apportionment -AND- sources:11102.34025727606
+apportionment -AND- results by state:11051.588596675723
+apportionment -AND- manifestos:11088.635615713532
+apportionment -AND- bloc québécois:10277.043521643142
+apportionment -AND- endorsements:10658.358803470448
+apportionment -AND- root:8857.000536556967
+controversies -AND- vote and seat summaries:10800.709040487483
+controversies -AND- candidates gallery:9508.616639664171
+controversies -AND- chamber of deputies:10800.709040487483
+controversies -AND- primaries:8974.8838726452
+controversies -AND- general election campaign#election campaign#campaign#campaigns:13017.053364374739
+controversies -AND- results by province:10800.709040487483
+controversies -AND- campaign slogans:10568.889209531317
+controversies -AND- government formation:9082.818205920903
+controversies -AND- background:8459.502156010523
+controversies -AND- conduct:8903.849415206882
+controversies -AND- analysis:8765.776290637656
+controversies -AND- eligibility:9100.390820116714
+controversies -AND- new democrats:10800.709040487483
+controversies -AND- electoral system:8707.965482260897
+controversies -AND- 10 closest ridings:10145.85171117157
+controversies -AND- polls#opinion polls#opinion polling:8647.143828000673
+controversies -AND- liberals:10800.709040487483
+controversies -AND- results:8194.604980988
+controversies -AND- conservatives:10800.709040487483
+controversies -AND- congress of deputies:10633.998439416926
+controversies -AND- second round:9605.783508941004
+controversies -AND- issues:10440.668653141674
+controversies -AND- reactions:8650.144615482375
+controversies -AND- investiture voting:10610.816042652266
+controversies -AND- summary:9336.521659816795
+controversies -AND- results by region:10678.934112151721
+controversies -AND- nominations:10438.254941866184
+controversies -AND- ballot access:10110.873367764118
+controversies -AND- official candidates:10711.607015613274
+controversies -AND- mps who lost their seats:10800.709040487483
+controversies -AND- procedure:9319.291851309757
+controversies -AND- candidates:8918.565121409254
+controversies -AND- aftermath:9236.680083702317
+controversies -AND- overview:9797.446185678986
+controversies -AND- first round:10324.123897899824
+controversies -AND- before the primaries:9214.20197413274
+controversies -AND- super tuesday:9569.612123127336
+controversies -AND- debates:8508.832873575431
+controversies -AND- democratic party nomination:10795.636046655885
+controversies -AND- votes by state:9480.618342839338
+controversies -AND- senate:9889.361800482857
+controversies -AND- registered candidates:10552.926114682215
+controversies -AND- notable expressions and phrases:10800.709040487483
+controversies -AND- other nominations:9899.14398163101
+controversies -AND- apportionment:10026.559376572963
+controversies -AND- timeline:10755.348653826706
+controversies -AND- international observers:9089.880977280916
+controversies -AND- post-election:16172.847379268236
+controversies -AND- sources:10781.743802344761
+controversies -AND- results by state:10731.637508130443
+controversies -AND- manifestos:10768.205007223924
+controversies -AND- bloc québécois:9961.98730729136
+controversies -AND- endorsements:10339.354741229345
+controversies -AND- root:12806.300127751789
+timeline -AND- vote and seat summaries:10517.420918717053
+timeline -AND- candidates gallery:9224.673491724861
+timeline -AND- chamber of deputies:10517.420918717053
+timeline -AND- primaries:8688.228043966476
+timeline -AND- general election campaign#election campaign#campaign#campaigns:8393.367044986042
+timeline -AND- results by province:10517.420918717053
+timeline -AND- campaign slogans:10284.525016490825
+timeline -AND- government formation:8794.573323352588
+timeline -AND- background:8174.252934564076
+timeline -AND- conduct:8624.745874200551
+timeline -AND- analysis:8484.356682130636
+timeline -AND- eligibility:8817.566855379957
+timeline -AND- new democrats:10517.420918717053
+timeline -AND- electoral system:8429.484497969936
+timeline -AND- 10 closest ridings:9866.167946705234
+timeline -AND- polls#opinion polls#opinion polling:8368.218806815526
+timeline -AND- liberals:10517.420918717053
+timeline -AND- results:7915.513635629262
+timeline -AND- conservatives:10517.420918717053
+timeline -AND- congress of deputies:10354.681357866983
+timeline -AND- second round:9321.319577276578
+timeline -AND- issues:10158.742177938835
+timeline -AND- reactions:8364.265750348735
+timeline -AND- investiture voting:10327.263037657667
+timeline -AND- summary:9052.49879839447
+timeline -AND- results by region:10397.1246782714
+timeline -AND- nominations:10154.4063940372
+timeline -AND- ballot access:9827.453658722578
+timeline -AND- official candidates:10428.586412126937
+timeline -AND- mps who lost their seats:10517.420918717053
+timeline -AND- procedure:9038.837043436388
+timeline -AND- candidates:8626.805269310116
+timeline -AND- aftermath:8950.027783499772
+timeline -AND- overview:9517.998947907026
+timeline -AND- first round:10041.425010559155
+timeline -AND- before the primaries:8927.984813498857
+timeline -AND- super tuesday:9283.760484014878
+timeline -AND- debates:8218.700799272761
+timeline -AND- democratic party nomination:10512.398367679089
+timeline -AND- votes by state:9204.454766756673
+timeline -AND- senate:9612.698941910161
+timeline -AND- registered candidates:10267.91693708599
+timeline -AND- notable expressions and phrases:10517.420918717053
+timeline -AND- other nominations:9612.109274905157
+timeline -AND- apportionment:9747.2956457375
+timeline -AND- controversies:10167.483520148964
+timeline -AND- international observers:8809.778346822051
+timeline -AND- post-election:10498.810204318906
+timeline -AND- sources:10498.65575381818
+timeline -AND- results by state:10447.915336030903
+timeline -AND- manifestos:10484.422236274633
+timeline -AND- bloc québécois:9675.920788121728
+timeline -AND- endorsements:10055.365925741206
+timeline -AND- root:12385.579045337792
+international observers -AND- vote and seat summaries:12033.129872855377
+international observers -AND- candidates gallery:10733.86613335886
+international observers -AND- chamber of deputies:12033.129872855377
+international observers -AND- primaries:10187.572665092937
+international observers -AND- general election campaign#election campaign#campaign#campaigns:9901.243048645276
+international observers -AND- results by province:12033.129872855377
+international observers -AND- campaign slogans:11800.781673670186
+international observers -AND- government formation:10291.078979191625
+international observers -AND- background:9696.321034537112
+international observers -AND- conduct:10179.2654209358
+international observers -AND- analysis:9981.07981981861
+international observers -AND- eligibility:10325.790057134514
+international observers -AND- new democrats:12033.129872855377
+international observers -AND- electoral system:9921.25320201003
+international observers -AND- 10 closest ridings:11368.376683502782
+international observers -AND- polls#opinion polls#opinion polling:9882.58665121282
+international observers -AND- liberals:12033.129872855377
+international observers -AND- results:9405.912627056283
+international observers -AND- conservatives:12033.129872855377
+international observers -AND- congress of deputies:11859.842075689747
+international observers -AND- second round:10833.24827626552
+international observers -AND- issues:11684.06912440812
+international observers -AND- reactions:9889.93402920201
+international observers -AND- investiture voting:11845.095077503782
+international observers -AND- summary:10586.267210412736
+international observers -AND- results by region:11909.299941428628
+international observers -AND- nominations:11666.300558728566
+international observers -AND- ballot access:11340.572649606744
+international observers -AND- official candidates:11944.475164229443
+international observers -AND- mps who lost their seats:12033.129872855377
+international observers -AND- procedure:10553.562691264615
+international observers -AND- candidates:10156.235887034789
+international observers -AND- aftermath:10466.42665062778
+international observers -AND- overview:11027.323133349437
+international observers -AND- first round:11555.185825496026
+international observers -AND- before the primaries:10443.825825742244
+international observers -AND- super tuesday:10785.10442760514
+international observers -AND- debates:9719.722121601668
+international observers -AND- democratic party nomination:12027.970903767853
+international observers -AND- votes by state:10706.671458555604
+international observers -AND- senate:11107.91309924475
+international observers -AND- registered candidates:11791.488032930842
+international observers -AND- notable expressions and phrases:12033.129872855377
+international observers -AND- other nominations:11116.893609343575
+international observers -AND- apportionment:11255.361107819035
+international observers -AND- controversies:11684.227261160815
+international observers -AND- timeline:11989.237936607045
+international observers -AND- post-election:12013.620331537939
+international observers -AND- sources:12015.572880729738
+international observers -AND- results by state:11964.90475327431
+international observers -AND- manifestos:11997.860134398581
+international observers -AND- bloc québécois:11182.206337382277
+international observers -AND- endorsements:11570.942572334003
+international observers -AND- root:14653.987756038428
+post-election -AND- vote and seat summaries:10495.375247520831
+post-election -AND- candidates gallery:9202.758892528196
+post-election -AND- chamber of deputies:10495.375247520831
+post-election -AND- primaries:8665.155925805802
+post-election -AND- general election campaign#election campaign#campaign#campaigns:8372.365013941751
+post-election -AND- results by province:10495.375247520831
+post-election -AND- campaign slogans:10262.555117478543
+post-election -AND- government formation:8775.456961353208
+post-election -AND- background:8152.562878042785
+post-election -AND- conduct:8599.742124007953
+post-election -AND- analysis:8462.327744548847
+post-election -AND- eligibility:8796.294440887024
+post-election -AND- new democrats:10495.375247520831
+post-election -AND- electoral system:8408.23228733837
+post-election -AND- 10 closest ridings:9844.380194345456
+post-election -AND- polls#opinion polls#opinion polling:8343.319117796624
+post-election -AND- liberals:10495.375247520831
+post-election -AND- results:7892.845204307801
+post-election -AND- conservatives:10495.375247520831
+post-election -AND- congress of deputies:10327.49309296396
+post-election -AND- second round:9298.64039567944
+post-election -AND- issues:10136.837319402024
+post-election -AND- reactions:8341.658887023987
+post-election -AND- investiture voting:10305.24756811895
+post-election -AND- summary:9029.942025179174
+post-election -AND- results by region:10373.707166765875
+post-election -AND- nominations:10132.557528262376
+post-election -AND- ballot access:9805.767438979132
+post-election -AND- official candidates:10406.59925772831
+post-election -AND- mps who lost their seats:10495.375247520831
+post-election -AND- procedure:9016.985532508897
+post-election -AND- candidates:8604.74755348005
+post-election -AND- aftermath:8932.323327527523
+post-election -AND- overview:9496.858930465087
+post-election -AND- first round:10018.240105158691
+post-election -AND- before the primaries:8905.66238286745
+post-election -AND- super tuesday:9261.968836095886
+post-election -AND- debates:8194.938406099185
+post-election -AND- democratic party nomination:10490.356357617826
+post-election -AND- votes by state:9182.121757795214
+post-election -AND- senate:9587.62269120713
+post-election -AND- registered candidates:10245.989973727033
+post-election -AND- notable expressions and phrases:10495.375247520831
+post-election -AND- other nominations:9590.119533869612
+post-election -AND- apportionment:9725.637078962214
+post-election -AND- controversies:10145.531178823214
+post-election -AND- timeline:10450.491020336165
+post-election -AND- international observers:8787.149891087904
+post-election -AND- sources:10476.624603924662
+post-election -AND- results by state:10425.906974017944
+post-election -AND- manifestos:10462.401765295215
+post-election -AND- bloc québécois:9654.227625537515
+post-election -AND- endorsements:10033.46540241119
+post-election -AND- root:12353.865988882379
+sources -AND- vote and seat summaries:10495.611812969903
+sources -AND- candidates gallery:9202.957628286673
+sources -AND- chamber of deputies:10495.611812969903
+sources -AND- primaries:8665.34752335749
+sources -AND- general election campaign#election campaign#campaign#campaigns:8371.331523172934
+sources -AND- results by province:10495.611812969903
+sources -AND- campaign slogans:10262.783683751499
+sources -AND- government formation:8771.393804073618
+sources -AND- background:8153.4256082670745
+sources -AND- conduct:8600.322519991929
+sources -AND- analysis:8462.572843208265
+sources -AND- eligibility:8796.76202193374
+sources -AND- new democrats:10495.611812969903
+sources -AND- electoral system:8409.552293976569
+sources -AND- 10 closest ridings:9844.599507988838
+sources -AND- polls#opinion polls#opinion polling:8343.182091567394
+sources -AND- liberals:10495.611812969903
+sources -AND- results:7892.55986003301
+sources -AND- conservatives:10495.611812969903
+sources -AND- congress of deputies:10327.724299277092
+sources -AND- second round:9299.727364739132
+sources -AND- issues:10137.060787894941
+sources -AND- reactions:8341.833822482487
+sources -AND- investiture voting:10305.477571186591
+sources -AND- summary:9030.575455854196
+sources -AND- results by region:10373.939788013995
+sources -AND- nominations:10133.351987958093
+sources -AND- ballot access:9805.983643382724
+sources -AND- official candidates:10406.832529842286
+sources -AND- mps who lost their seats:10495.611812969903
+sources -AND- procedure:9017.559910957818
+sources -AND- candidates:8605.463526919124
+sources -AND- aftermath:8928.916936284098
+sources -AND- overview:9497.475156355575
+sources -AND- first round:10018.460830527994
+sources -AND- before the primaries:8906.226532667184
+sources -AND- super tuesday:9262.33788256237
+sources -AND- debates:8195.186356156748
+sources -AND- democratic party nomination:10490.59274090744
+sources -AND- votes by state:9182.326472761311
+sources -AND- senate:9589.332186156144
+sources -AND- registered candidates:10246.217848046712
+sources -AND- notable expressions and phrases:10495.611812969903
+sources -AND- other nominations:9590.328947398231
+sources -AND- apportionment:9725.853283365806
+sources -AND- controversies:10145.755591784005
+sources -AND- timeline:10450.725982630851
+sources -AND- international observers:8789.506280158417
+sources -AND- post-election:10477.01489736823
+sources -AND- results by state:10426.14091116629
+sources -AND- manifestos:10462.637076909585
+sources -AND- bloc québécois:9653.512736861592
+sources -AND- endorsements:10033.686231860422
+sources -AND- root:12355.91453602963
+results by state -AND- vote and seat summaries:10542.305546946121
+results by state -AND- candidates gallery:9249.229428809133
+results by state -AND- chamber of deputies:10542.305546946121
+results by state -AND- primaries:8711.918060308293
+results by state -AND- general election campaign#election campaign#campaign#campaigns:8417.511326720836
+results by state -AND- results by province:10542.305546946121
+results by state -AND- campaign slogans:10309.42012525176
+results by state -AND- government formation:8818.005922468308
+results by state -AND- background:8198.112386125667
+results by state -AND- conduct:8646.022623140994
+results by state -AND- analysis:8508.664145942988
+results by state -AND- eligibility:8841.522044691566
+results by state -AND- new democrats:10542.305546946121
+results by state -AND- electoral system:8456.898851756232
+results by state -AND- 10 closest ridings:9894.381160096698
+results by state -AND- polls#opinion polls#opinion polling:8390.53778474972
+results by state -AND- liberals:10542.305546946121
+results by state -AND- results:19857.56778895607
+results by state -AND- conservatives:10542.305546946121
+results by state -AND- congress of deputies:10376.352110199183
+results by state -AND- second round:9345.803253497917
+results by state -AND- issues:10183.91934951707
+results by state -AND- reactions:8389.27259381144
+results by state -AND- investiture voting:10352.231457249982
+results by state -AND- summary:9079.47321330179
+results by state -AND- results by region:10422.127962207924
+results by state -AND- nominations:10179.965081189868
+results by state -AND- ballot access:9852.954763055599
+results by state -AND- official candidates:10454.674529180575
+results by state -AND- mps who lost their seats:10542.305546946121
+results by state -AND- procedure:9063.746486016289
+results by state -AND- candidates:8651.367004884909
+results by state -AND- aftermath:8975.078076820519
+results by state -AND- overview:9543.699594367858
+results by state -AND- first round:10066.47639586333
+results by state -AND- before the primaries:8952.106862648237
+results by state -AND- super tuesday:9308.750513514413
+results by state -AND- debates:8241.064908231025
+results by state -AND- democratic party nomination:10537.276792104183
+results by state -AND- votes by state:9231.276383995199
+results by state -AND- senate:9635.409452978705
+results by state -AND- registered candidates:10293.011956100538
+results by state -AND- notable expressions and phrases:10542.305546946121
+results by state -AND- other nominations:9636.921364375095
+results by state -AND- apportionment:9771.824983773364
+results by state -AND- controversies:10192.85489184586
+results by state -AND- timeline:10497.334500108576
+results by state -AND- international observers:8835.174974582109
+results by state -AND- post-election:10523.670226153103
+results by state -AND- sources:10523.515775652373
+results by state -AND- manifestos:10509.26416265529
+results by state -AND- bloc québécois:9699.025095226894
+results by state -AND- endorsements:10080.328060861402
+results by state -AND- root:12425.058301158973
+manifestos -AND- vote and seat summaries:10507.840644424396
+manifestos -AND- candidates gallery:9214.881157668857
+manifestos -AND- chamber of deputies:10507.840644424396
+manifestos -AND- primaries:8677.154653600364
+manifestos -AND- general election campaign#election campaign#campaign#campaigns:8383.440217608764
+manifestos -AND- results by province:10507.840644424396
+manifestos -AND- campaign slogans:10276.04510334372
+manifestos -AND- government formation:8785.075916880913
+manifestos -AND- background:8164.052557776951
+manifestos -AND- conduct:8611.782517488824
+manifestos -AND- analysis:8475.45011468624
+manifestos -AND- eligibility:8813.207305131189
+manifestos -AND- new democrats:10507.840644424396
+manifestos -AND- electoral system:8423.928586859303
+manifestos -AND- 10 closest ridings:9856.654662307734
+manifestos -AND- polls#opinion polls#opinion polling:8355.553491951483
+manifestos -AND- liberals:10507.840644424396
+manifestos -AND- results:7907.296810248961
+manifestos -AND- conservatives:10507.840644424396
+manifestos -AND- congress of deputies:10339.882579096204
+manifestos -AND- second round:9311.329161119847
+manifestos -AND- issues:10150.179371796014
+manifestos -AND- reactions:8354.372498734885
+manifestos -AND- investiture voting:10317.681195875004
+manifestos -AND- summary:9041.947407390662
+manifestos -AND- results by region:10386.116695085104
+manifestos -AND- nominations:10146.883044270766
+manifestos -AND- ballot access:9818.822907465226
+manifestos -AND- official candidates:10420.200061169762
+manifestos -AND- mps who lost their seats:10507.840644424396
+manifestos -AND- procedure:9028.768925959765
+manifestos -AND- candidates:8618.09953154896
+manifestos -AND- aftermath:8941.718054278614
+manifestos -AND- overview:9511.51850497568
+manifestos -AND- first round:10030.550847137898
+manifestos -AND- before the primaries:8917.735852501099
+manifestos -AND- super tuesday:9274.06469148025
+manifestos -AND- debates:8206.972207668085
+manifestos -AND- democratic party nomination:10502.819174280072
+manifestos -AND- votes by state:9194.18764650416
+manifestos -AND- senate:9600.372573163595
+manifestos -AND- registered candidates:10258.36593907284
+manifestos -AND- notable expressions and phrases:10507.840644424396
+manifestos -AND- other nominations:9603.033388521184
+manifestos -AND- apportionment:9738.733390238196
+manifestos -AND- controversies:10158.418599423738
+manifestos -AND- timeline:10462.93370897376
+manifestos -AND- international observers:8798.9692666467
+manifestos -AND- post-election:10489.234217215817
+manifestos -AND- sources:10489.079766715091
+manifestos -AND- results by state:10438.344477086892
+manifestos -AND- bloc québécois:9665.748678944317
+manifestos -AND- endorsements:10045.810862116043
+manifestos -AND- root:12372.824312626075
+bloc québécois -AND- vote and seat summaries:11228.280016434568
+bloc québécois -AND- candidates gallery:9935.159010031399
+bloc québécois -AND- chamber of deputies:11228.280016434568
+bloc québécois -AND- primaries:9389.616705653845
+bloc québécois -AND- general election campaign#election campaign#campaign#campaigns:9110.39354133387
+bloc québécois -AND- results by province:11228.280016434568
+bloc québécois -AND- campaign slogans:10995.857307157894
+bloc québécois -AND- government formation:9502.817407769671
+bloc québécois -AND- background:8885.5068688617
+bloc québécois -AND- conduct:9328.946979003693
+bloc québécois -AND- analysis:9190.361521397848
+bloc québécois -AND- eligibility:9506.250534274592
+bloc québécois -AND- new democrats:11228.280016434568
+bloc québécois -AND- electoral system:9130.121183923515
+bloc québécois -AND- 10 closest ridings:10575.906392388082
+bloc québécois -AND- polls#opinion polls#opinion polling:9084.782220934525
+bloc québécois -AND- liberals:11228.280016434568
+bloc québécois -AND- results:8626.348907326532
+bloc québécois -AND- conservatives:11228.280016434568
+bloc québécois -AND- congress of deputies:11067.989580326506
+bloc québécois -AND- second round:10037.50202646626
+bloc québécois -AND- issues:10879.41829593512
+bloc québécois -AND- reactions:9076.521869855267
+bloc québécois -AND- investiture voting:11038.122606170658
+bloc québécois -AND- summary:9763.08707593788
+bloc québécois -AND- results by region:11109.85779968214
+bloc québécois -AND- nominations:10861.8603812488
+bloc québécois -AND- ballot access:10529.934918564795
+bloc québécois -AND- official candidates:11139.779962091405
+bloc québécois -AND- mps who lost their seats:11228.280016434568
+bloc québécois -AND- procedure:9733.693819023512
+bloc québécois -AND- candidates:9339.14244141661
+bloc québécois -AND- aftermath:9665.236651207853
+bloc québécois -AND- overview:10236.615620625907
+bloc québécois -AND- first round:10752.511658585177
+bloc québécois -AND- before the primaries:9638.245577284111
+bloc québécois -AND- super tuesday:9987.81391713391
+bloc québécois -AND- debates:8919.74278644976
+bloc québécois -AND- democratic party nomination:11223.114745301022
+bloc québécois -AND- votes by state:9899.161711341556
+bloc québécois -AND- senate:10322.384279380214
+bloc québécois -AND- registered candidates:10977.661818439856
+bloc québécois -AND- notable expressions and phrases:11228.280016434568
+bloc québécois -AND- other nominations:10320.190947084227
+bloc québécois -AND- apportionment:10451.663963490899
+bloc québécois -AND- controversies:10885.105140064015
+bloc québécois -AND- timeline:11184.716581991022
+bloc québécois -AND- international observers:9510.06992934715
+bloc québécois -AND- post-election:11211.199410103869
+bloc québécois -AND- sources:11209.821449336094
+bloc québécois -AND- results by state:11157.891938848868
+bloc québécois -AND- manifestos:11195.99084670159
+bloc québécois -AND- endorsements:10769.209392572524
+bloc québécois -AND- root:8969.20212466392
+endorsements -AND- vote and seat summaries:10884.091952423794
+endorsements -AND- candidates gallery:9593.497556952061
+endorsements -AND- chamber of deputies:10884.091952423794
+endorsements -AND- primaries:9051.881689439402
+endorsements -AND- general election campaign#election campaign#campaign#campaigns:8762.49091545341
+endorsements -AND- results by province:10884.091952423794
+endorsements -AND- campaign slogans:10650.812129869977
+endorsements -AND- government formation:9154.599127006775
+endorsements -AND- background:8540.054149064243
+endorsements -AND- conduct:8985.652412375897
+endorsements -AND- analysis:8851.37438416971
+endorsements -AND- eligibility:9177.202544120175
+endorsements -AND- new democrats:10884.091952423794
+endorsements -AND- electoral system:8790.21701889623
+endorsements -AND- 10 closest ridings:10228.643242694816
+endorsements -AND- polls#opinion polls#opinion polling:8738.280975038986
+endorsements -AND- liberals:10884.091952423794
+endorsements -AND- results:8281.50619206215
+endorsements -AND- conservatives:10884.091952423794
+endorsements -AND- congress of deputies:10714.505226618505
+endorsements -AND- second round:14550.105513249158
+endorsements -AND- issues:10524.908422262735
+endorsements -AND- reactions:8730.77092906179
+endorsements -AND- investiture voting:10694.5810190864
+endorsements -AND- summary:9433.042158968345
+endorsements -AND- results by region:10762.851613107188
+endorsements -AND- nominations:10521.078656367292
+endorsements -AND- ballot access:10191.24594217803
+endorsements -AND- official candidates:10796.419302076483
+endorsements -AND- mps who lost their seats:10884.091952423794
+endorsements -AND- procedure:9405.429383913364
+endorsements -AND- candidates:8996.578868496108
+endorsements -AND- aftermath:9317.212522663378
+endorsements -AND- overview:9883.354901958399
+endorsements -AND- first round:10412.406959895952
+endorsements -AND- before the primaries:9292.803958843562
+endorsements -AND- super tuesday:9648.324781314026
+endorsements -AND- debates:8582.70145645803
+endorsements -AND- democratic party nomination:10879.346250822533
+endorsements -AND- votes by state:9574.327264361214
+endorsements -AND- senate:9970.204866950902
+endorsements -AND- registered candidates:10635.245341677133
+endorsements -AND- notable expressions and phrases:10884.091952423794
+endorsements -AND- other nominations:9975.94677953957
+endorsements -AND- apportionment:10108.357445268945
+endorsements -AND- controversies:10536.349655526536
+endorsements -AND- timeline:10838.634500092605
+endorsements -AND- international observers:9173.682745544984
+endorsements -AND- post-election:10865.237419430501
+endorsements -AND- sources:10865.082968929772
+endorsements -AND- results by state:10814.447838065676
+endorsements -AND- manifestos:10850.670148073388
+endorsements -AND- bloc québécois:10043.725559232409
+endorsements -AND- root:12933.512301936087

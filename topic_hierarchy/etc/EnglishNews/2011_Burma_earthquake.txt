@@ -1,0 +1,66 @@
+{{Use dmy dates|date=March 2012}}
+{{Infobox earthquake
+| title = 2011 Burma earthquake
+| image = 
+| date={{Start date|2011|3|24|20|25|23|UTC+06:30|df=y}}
+| duration = 1 minute
+| magnitude = 6.9 Moment magnitude scale|M<sub>w</sub>
+| depth = {{convert|10|km|abbr=on|sigfig=3}}
+ | map2 = {{Location map | Burma
+ | label=
+ | lat= 20.705
+ | long= 99.949
+ | mark=Bullseye1.png
+ | marksize=40
+ | position=top
+ | width= 250
+ | float=right
+ | caption=
+ | relief=yes}}
+| location = {{Coord|20.705|N|99.949|E|type:event_scale:50000000|display=inline,title}}
+| countries affected = | countries affected = Burma, Thailand, Laos, China, Vietnam
+| casualties = 151 killed, 212 injured <!-- See casualties section -->
+| intensity = Mercalli scale|Mercalli IX
+}}
+
+The '''2011 Burma earthquake''' ({{lang-my|???? ???????????}}) was a magnitude 6.9 earthquake on 24 March 2011 that had its epicenter in the east of Shan State in Burma (Myanmar) with a hypocenter 10&nbsp;km deep. It had two aftershocks, one of magnitude 4.8, another at magnitude 5.4 and two subsequent shock at magnitude 5.0 and 6.2. The quake's epicentre was {{convert|70|miles|km}} from the northern Thai city of Chiang Rai, north of Mae Sai District|Mae Sai and southeast of Kentung.
+
+==Geology==
+File:Mar-2011 Burma-earthquake Shakemap.jpg|thumb|left|USGS ShakeMap of the earthquake, showing shaking intensity.
+The earthquake occurred in an area of complex tectonics caused by the continuing continental collision|collision between the northward moving Indo-Australian Plate and the Eurasian Plate, which created the Arakan Yoma mountains. In this zone of highly oblique collision, most of the motion is accommodated by the north-south trending Sagaing fault, a major dextral (right lateral) Fault (geology)#Strike-slip faults|strike-slip fault that runs through the western and central part of Burma. The remaining component of shortening across this zone causes distributed deformation of eastern Burma and Thailand extending into Laos. This deformation is partly accommodated by a set of southwest-northeast trending sinistral (left lateral) strike-slip faults. away from the main zones of seismic activity in Burma. Other recent significant earthquakes in this area included the 2011 Yunnan earthquake and the 2007 Laos earthquake.  According to the Earth Observatory of Singapore, it appears likely that the earthquake was caused by motion on the western segment of the Nan Ma Fault.
+
+==Casualties==
+File:VOA Burma earthquake damages02 25Mar11.jpg|thumb|left|A road damaged by the earthquake in Tarlay, Shan State
+File:VOA Burma earthquake damages06 25Mar11.jpg|thumb|left|The earthquake destroyed dozens of houses in Shan State
+Early reports suggested that at least 10 people were killed by quake-triggered landslides in the town of Tachileik, including a child, as well as Tarpin to its north, both in Shan State, northeastern Burma. Another person was killed in Mae Sai District|Mae Sai, Thailand, near the Burmese border. At least three injuries were reported in Burma.
+
+After sunrise, the casualty toll increased to 24 in Burma, in addition to the one fatality in Thailand. Officials warned that the death toll is likely to rise. Later, death toll rose to 74 killed in Burma <!-- Do not add "25+ in China" - this is from the 2011 Yunnan earthquake and not this more recent event-->and 1 in Thailand, while 111 people were injured. In Tarlay, located between Tachileik and Mong Hpyak, at least 40 were killed when 130 houses collapsed. Vertical displacement of 1.5 metres in subsidence was observed in the area.  
+
+The Bangkok Post reported on 27 March 2011 that the death toll was "over 150", which is double the official figure of 75.
+
+==Aftermath==
+Temporary evacuations of tall buildings took place in Chiang Rai, Menghai County in Yunnan, Nanning in Guangxi Zhuang Autonomous Region, and in Hanoi of Vietnam. At least one bridge is reported collapsed in Myanmar. In total, 390 residential homes, 14 monasteries and 9 government buildings were destroyed. In Monglin, <!-- link when correct article created --> at least 128 homes were reduced to rubble. According to the United States Geological Survey's population exposure data, the final damages from the earthquake are most likely to be slightly under USD $100 million.
+
+== References ==
+{{reflist|30em}}
+
+==External links==
+{{Commonscat|2011 Myanmar Earthquake}}
+* http://www.earthobservatory.sg/media/news-and-features/295-myanmar-earthquake-of-march-24th-magnitude-68.html Earth Observatory of Singapore: Myanmar earthquake of 24 March – Magnitude 6.8 (Regional Tectonics Explained)
+* http://earthquake-report.com/2011/04/01/myanmar-deadly-earthquake-702-houses-damaged-3152-people-homeless-and-18000-people-affected/ Earthquake Report
+
+{{Earthquakes in 2011}}
+{{Earthquakes in China}}
+
+{{DEFAULTSORT:2011 Burma Earthquake}}
+Category:2011 earthquakes
+Category:2011 in Burma
+Category:2011 in Thailand
+Category:2011 in Laos
+Category:2011 disasters in China
+Category:Earthquakes in Thailand|2011 Burma
+Category:Earthquakes in Burma|2011 Burma
+Category:Earthquakes in Laos|2011 Burma
+Category:Earthquakes in China|2011 Burma
+Category:Shan State
+Category:2011 in Vietnam

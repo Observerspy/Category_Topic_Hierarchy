@@ -1,0 +1,73 @@
+{{Infobox earthquake
+|title              = 2011 Lorca earthquake<br /><small>''Terremoto de Lorca de 2011''</small>
+|image              = Lorca earthquake.jpg
+|image 1=
+|imagecaption       = The damaged Lorca-Sutullena railway station in Lorca
+|map                =
+|map alt            =
+|image name         =
+|map2               =  {{Location map+|Spain|width=250|float=none|border=none|caption=Map showing the epicentre of the earthquake
+|places=
+{{Location map~|Spain|lat=37.699|long=-1.673|mark=Bullseye1.png|marksize=40|position=top}}
+{{Location map~|Spain|lat=40.383|long=-3.717|position=top|mark=Green pog.svg|label=Madrid}}
+{{Location map~|Spain|lat=37.6798|long=-1.6944|position=left|mark=Red pog.svg|label=Lorca}}
+ | relief=yes}}
+|mapsize            =
+|date               = 11 May 2011
+|origintime         = 18:47:26 Central European Summer Time|CEST (UTC+02:00)
+|duration           =
+|magnitude          = 5.1 Moment magnitude scale|M<sub>w</sub>
+|depth              = {{convert|1|km|mi|abbr=on}}
+|location           = {{Coord|37.699|N|1.673|W|type:event_scale:1000000|display=inline,title}}
+|type               =
+|countries affected = Spain
+|damage             =
+|intensity          = Mercalli intensity scale|MM VII
+|PGA                = <!-- NN''Peak ground acceleration|g'' -->
+|tsunami            =
+|landslide          =
+|foreshocks         = 1 (4.5 M<sub>L</sub>)
+|aftershocks        =
+|casualties         = 9 dead<br>403 injured
+}}
+The '''2011 Lorca earthquake''' ({{lang-es|link=no|Terremoto de Lorca de 2011}}) was a moderate Moment magnitude scale|magnitude 5.1 M<sub>w</sub> earthquake that caused significant localized damage in the Region of Murcia, Spain. Centred at a very shallow depth of 1&nbsp;km (0.6&nbsp;mi) near the town of Lorca, Spain|Lorca, it occurred at 18:47 CEST (16:47 Coordinated Universal Time|UTC) on 11 May 2011, causing panic among locals and displacing many from their homes. The quake was preceded by a magnitude 4.4 (M<sub>w</sub>) foreshock at 17:05 (15:05 Coordinated Universal Time|UTC), that inflicted substantial damage to many older structures in the area, including the historical Espolón Tower of Lorca Castle, the Hermitage of San Clemente (Lorca)|Hermitage of San Clemente and the Convent of Virgen de Las Huertas (Lorca)|Convent of Virgen de Las Huertas. Three people were killed by a falling cornice. A total of nine deaths have been confirmed, while dozens are reported injured. The earthquake was the worst to hit the region since a 5.0 M<sub>w</sub> tremor struck west of Albolote, Province of Granada|Granada in 1956. Also known for its loose prediction by Raffaele Bendandi.
+
+==Geology==
+File:2011 Lorca earthquake intensity.jpg|left|thumb|Earthquake intensity map
+The Moment magnitude scale|magnitude 5.1 (M<sub>w</sub>) main shock occurred inland on 11 May 2011 at 18:47 local time (16:47 UTC) about 2.5&nbsp;km northeast of Lorca, Spain, at an extremely shallow Hypocenter|focal depth of 1&nbsp;km (0.6&nbsp;mi). The earthquake was estimated to be a direct result of strike-slip faulting near the major http://www.agu.org/journals/ABS/2004/2002JB002359.shtml Alhama de Murcia fault, along an unusually shallow fault of between 40 to 50&nbsp;km (25 to 31&nbsp;mi) long. Local specialists also reported the presence of surface rupturing in the vicinity of the fault. Initial estimates from the United States Geological Survey placed the magnitude of the quake at 5.3 (M<sub>w</sub>); the European-Mediterranean Seismological Centre reported an intensity of magnitude 5.2 (Richter magnitude scale|M<sub>L</sub>).
+
+Due to a combination of extremely shallow depth and moderate magnitude, the earthquake resulted in significant shaking throughout much of Murcia. In Lorca, near the epicentre of the quake, strong ground motions registered a maximum intensity of VII on the Mercalli intensity scale|Mercalli scale, while many adjacent areas reported moderate shaking (MM V). In total, the event released a Moment magnitude scale#Radiated seismic energy|surface energy (M<sub>e</sub>) equivalent to over 200 wiktionary:tonne|tonnes of Trinitrotoluene|TNT, or approximately 8.4×10<sup>11</sup> joules.
+
+File:Hundimiento de la iglesia de Santiago tras el terremoto de Lorca.jpg|thumb|right|Destruction in the Church of Santiago (Lorca)|church of Santiago after the earthquake
+
+=== Foreshock ===
+The earthquake was preceded by a magnitude 4.5 (M<sub>L</sub>) foreshock that struck very close to its epicentre at 17:05 local time (15:05 UTC).
+
+=== Aftershock ===
+As of 11 May, at least eight light aftershocks were reported near the initial quake epicentres; the strongest registered a magnitude of 4.1 (M<sub>L</sub>) and occurred at 22:37 local time (20:37 UTC).
+
+==Emergency management==
+Shortly after the second earthquake struck, the Spanish government, at the request of regional government of Murcia, activated the Military Emergencies Unit, a branch of the Spanish Armed Forces responsible for providing disaster relief. 340 members from three battalions (based at Bétera, Torrejón de Ardoz and Morón de la Frontera) were dispatched to Lorca under the management of the Lieutenant Colonel of the Bétera battalion; these were later joined by army units. A field hospital was set up by the Military Emergencies Unit in the ''Plaza del Ayuntamiento'' where those injured were attended to by members of ''civil protection|Protección Civil'' and the Red Cross.
+
+File:Terremoto de Lorca.svg|500px|thumb|center|Consequences of the Lorca earthquakes in 2011.
+File:Punto.svg|20px earthquake epicentre File:Estrella irregular.svg|20px zones with damaged buildings File:Aiga toiletsq men.svg|20px deaths
+
+==Possible causes==
+Scientific research has suggested that the earthquake was caused by human activity. A team led by Dr Pablo Gonzalez of the University of Western Ontario in Canada reported in the journal Nature Geoscience in October 2012 that the pattern of earth movement was consistent with changes in stresses caused by the removal of water from underground reservoirs.
+
+{{clear}}
+
+==References==
+{{Reflist|30em}}
+{{Commons category|2011 Lorca earthquake}}
+{{Earthquakes in 2011}}
+
+{{Use dmy dates|date=March 2012}}
+
+{{DEFAULTSORT:2011 Lorca Earthquake}}
+Category:2011 in Spain
+Category:2011 earthquakes
+Category:Earthquakes in Spain
+Category:Lorca
+
+{{Link FA|ca}}

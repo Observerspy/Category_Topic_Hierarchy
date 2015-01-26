@@ -1,0 +1,364 @@
+{{Earthquake
+|title=Iwate-Miyagi Nairiku Earthquake in 2008
+|date= {{Start date|2008|6|14}} (Japan Standard Time|JST)
+|image= Matsurube Ohashi(bridge).JPG
+|image_caption=Damaged bridge at Matsurube Ohashi
+|map = USGS ShakeMap 2008tfdp.jpg
+|magnitude = M<sub>j</sub> 7.2 (Japan Meteorological Agency|JMA scale), Moment magnitude scale|M<sub>w</sub> 6.9 (by United States Geological Survey|USGS)
+|depth={{convert|8|km|mi|0}} (JMA), {{convert|10|km|mi|0}} (USGS)
+|aftershocks=483 felt aftershocks by July 1 (JMA)<br />Laragest: M<sub>j</sub> 5.7 on June 14 ( 9:20 JST)
+|location={{coord|39|01.7|N|140|52.8|E|display=inline,title}}<br />(Iwate Prefecture)
+|PGA = 4.36 ''peak ground acceleration|g'' (vector sum)
+|countries affected = Japan / Tōhoku region
+|tsunami = none
+|casualties = at least 12 dead, 436 injured (As of 2008-07-01 17:00 JST)
+}}
+The '''2008 Iwate earthquake''' on June 14, 2008 mainly struck mid Tōhoku region, northeastern Honshū, Japan. Japan Meteorological Agency (JMA) officially named this earthquake {{nihongo|'''the Iwate-Miyagi Nairiku Earthquake in 2008'''|平成20年（2008年）岩手?宫城内陆地震|}}.
+
+This earthquake occurred in the south of the inland of Iwate Prefecture at 8:43 Japan Standard Time|JST on Saturday morning, June 14 (23:43 Coordinated Universal Time|UTC on June 13). and
+the Moment magnitude scale|moment magnitude by United States Geological Survey|USGS was at M<sub>w</sub> 6.9. about 85&nbsp;kilometres (55&nbsp;mi) north of Sendai and about 385&nbsp;kilometres (240&nbsp;mi) north-northeast of Tokyo.
+
+The strongest shakings were measured in the cities of ?shū, Iwate|?shū (Iwate) and Kurihara, Miyagi|Kurihara (Miyagi), both of which were measured as "strong 6" on the Japan Meteorological Agency seismic intensity scale, {{nihongo|shindo|震度|shindo}}.
+
+==Seismic intensity==
+{{nihongo|seismic intensity|震度|Shindo}} represents the strength of ground motion. JMA uses the scales of http://www.jma.go.jp/jma/kishou/know/shindo/explane.html 0 to 7: 0, 1, 2, 3, 4, weak/strong 5, weak/strong 6, 7.
+{| style="float:left;"  class="wikitable"
+|-
+!Prefecture!!colspan=8|Seismic intensities
+|-
+|Iwate||6+||6-||5+||5-||4||3||2||
+|-
+|Miyagi||6+||6-||5+||5-||4||3||  ||
+|-
+|Akita||  ||  ||5+||5-||4||3||2||
+|-
+|Yamagata||  ||  ||  ||5-||4||3||2||
+|-
+|Fukushima||  ||  ||  ||5-||4||3||2||1
+|-
+|Aomori||  ||  ||  ||  ||4||3||2||1
+|-
+|Ibaraki||  ||  ||  ||  ||4||3||2||
+|-
+|Tochigi||  ||  ||  ||  ||4||3||2||1
+|-
+|Niigata||  ||  ||  ||  ||4||3||2||1
+|-
+|Hokkaidō||  ||  ||  ||  ||  ||3||2||1
+|-
+|Gunma||  ||  ||  ||  ||  ||3||2||1
+|-
+|Saitama||  ||  ||  ||  ||  ||3||2||1
+|-
+|Chiba||  ||  ||  ||  ||  ||3||2||1
+|-
+|Tokyo||  ||  ||  ||  ||  ||3||2||1
+|-
+|Kanagawa||  ||  ||  ||  ||  ||3||2||1
+|-
+|Yamanashi||  ||  ||  ||  ||  ||3||2||1
+|-
+|Ishikawa||  ||  ||  ||  ||  ||  ||2||1
+|-
+|Nagano||  ||  ||  ||  ||  ||  ||2||1
+|-
+|Shizuoka||  ||  ||  ||  ||  ||  ||2||1
+|-
+|Aichi||  ||  ||  ||  ||  ||  ||  ||1
+|}
+Tremors were felt across a large area.
+
+Strongly shaken areas included:
+
+Strong 6:
+:Iwate Pref. - City of ?shū (奥州市).
+:Miyagi Pref. - City of Kurihara (栗原市).
+Weak 6:
+:Iwate Pref. - City of ?shū (奥州市).
+:Miyagi Pref. - Cities of Kurihara (栗原市) and ?saki (大崎市).
+Strong 5:
+:Iwate Pref. - Cities of ?shū (奥州市), Kitakami (北上市), Ichinoseki (一関市), Towns of Kanegasaki (金ケ崎町) and Hiraizumi (平泉町).
+:Miyagi Pref. - Cities of Kurihara (栗原市), ?saki (大崎市), Sendai (仙台市), Tome (登米市), Natori (名取市), Towns of Misato (美里町), Wakuya (涌谷町), Kami (加美町), and Rifu (利府町).
+:Akita Pref. - City of Yuzawa (汤沢市), and Village of Higashinaruse (东成瀬村).
+
+==Tectonics==
+According to the USGS:
+<blockquote>The Mw 6.8 Honshu earthquake of June 13th 2008 occurred in a region of convergence between the Pacific Plate and the Okhotsk section of the North American Plate in northern Japan, where the Pacific plate is moving west-northwest with respect to North America at a rate of approximately 8.3&nbsp;cm/yr. The hypocenter of the earthquake indicates shallow thrusting motion in the upper (Okhotsk) plate, above the subducting Pacific plate, which lies at approximately 80&nbsp;km depth at this location.</blockquote>
+
+<blockquote>The earthquake occurred in a region of upper-plate contraction, probably within the complicated tectonics of the Ou Backbone Range, known to have hosted several large earthquakes in historic times. The largest of these events occurred in 1896, approximately 70km north of the June 13th event, and killed over 200 people in the local area.</blockquote>
+
+==Aftershocks==
+According to JMA:
+
+Aftershocks of this earthquake were stronger than the Great Hanshin Earthquake in 1995, but they happened much less frequently.
+
+Over 200 aftershocks were observed in the first 24 hours, with about 400 in total over the first seven days. The largest ones (with M<sub>j</sub>5.0 or greater) were
+:June 14,  9:20: M<sub>j</sub>5.7: Max. seismic intensity reached Strong 5;
+:June 14, 12:27: M<sub>j</sub>5.2: Max. seismic intensity reached 4;
+:June 16, 23:14: M<sub>j</sub>5.3: Max. seismic intensity reached 4.
+From June 21 to July 1, four to 12 aftershocks were observed each day, with maximum seismic intensities of 3.
+
+===Subsequent earthquakes===
+{{Importance-section|date=March 2012}}
+
+The following is a list of earthquakes greater than 4.0 Moment magnitude scale|M<sub>w</sub> that occurred in the five days following the 2008 Iwate earthquake. Aftershocks measured 6.0&nbsp;M<sub>w</sub> or over are in '''bold'''.
+
+{|class="wikitable"
+|- style="background:#ececec;"
+! #
+! Date
+! Time
+! Place
+! Lat.
+! Long.
+! Fatalities
+! Moment magnitude scale|M<sub>w</sub>
+|-
+| colspan="8" style="text-align:center;"| '''June 13'''
+|-
+| http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/us2008tfdp.php Magnitude 6.9 - EASTERN HONSHU, JAPAN
+| June 13, 2008
+| 23:43:46 UTC
+| Honshū, Japan (main earthquake)
+| 39.103
+| 140.668
+| 10 + (12 missing)
+| '''6.9'''
+|-
+| colspan="8" style="text-align:center;"| '''June 14'''
+|-
+| http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/us2008tgah.php
+| June 14, 2008
+| 00:20:13 UTC
+| Honshū, Japan
+| 38.991
+| 140.461
+|
+| 5.5
+|-
+| http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/us2008tgam.php
+| June 14, 2008
+| 00:52:43 UTC
+| Honshū, Japan
+| 39.139
+| 140.792
+|
+| 4.7
+|-
+| http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/us2008tgan.php
+| June 14, 2008
+| 01:00:16 UTC
+| Honshū, Japan
+| 39.087
+| 140.770
+|
+| 4.6
+|-
+| http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/us2008tgas.php
+| June 14, 2008
+| 01:39:48 UTC
+| Honshū, Japan
+| 39.107
+| 140.819
+|
+| 4.7
+|-
+| http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/us2008tgau.php
+| June 14, 2008
+| 02:35:17 UTC
+| Honshū, Japan
+| 39.039
+| 140.698
+|
+| 4.6
+|-
+| http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/us2008tgax.php
+| June 14, 2008
+| 03:10:32 UTC
+| Honshū, Japan
+| 39.145
+| 140.736
+|
+| 4.8
+|-
+| http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/us2008tgaz.php
+| June 14, 2008
+| 03:14:05 UTC
+| Honshū, Japan
+| 39.023
+| 140.757
+|
+| 4.6
+|-
+| http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/us2008tga1.php
+| June 14, 2008
+| 03:27:34 UTC
+| Honshū, Japan
+| 39.255
+| 140.710
+|
+| 5.0
+|-
+| http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/us2008tga6.php
+| June 14, 2008
+| 04:10:48 UTC
+| Honshū, Japan
+| 39.127
+| 140.684
+|
+| 4.6
+|-
+| http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/us2008tga8.php
+| June 14, 2008
+| 05:39:08 UTC
+| Honshū, Japan
+| 39.320
+| 140.727
+|
+| 4.5
+|-
+| http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/us2008tgbg.php
+| June 14, 2008
+| 08:34:10 UTC
+| Honshū, Japan
+| 39.172
+| 140.790
+|
+| 4.5
+|-
+| http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/us2008tgbi.php
+| June 14, 2008
+| 10:11:57 UTC
+| Honshū, Japan
+| 38.907
+| 140.707
+|
+| 4.5
+|-
+| http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/us2008tgbn.php
+| June 14, 2008
+| 12:48:30 UTC
+| Honshū, Japan
+| 39.284
+| 140.625
+|
+| 4.7
+|-
+| http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/us2008tgb2.php
+| June 14, 2008
+| 14:42:33 UTC
+| Honshū, Japan
+| 39.092
+| 140.745
+|
+| 5.1
+|-
+| http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/us2008tgc2.php
+| June 14, 2008
+| 17:29:27 UTC
+| Honshū, Japan
+| 39.118
+| 140.881
+|
+| 4.4
+|-
+| http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/us2008tgc1.php
+| June 14, 2008
+| 18:29:22 UTC
+| Honshū, Japan
+| 39.221
+| 140.739
+|
+| 4.5
+|-
+| http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/us2008tgcz.php
+| June 14, 2008
+| 18:47:37 UTC
+| Honshū, Japan
+| 39.218
+| 140.781
+|
+| 4.6
+|-
+| colspan="8" style="text-align:center;"| '''June 15'''
+|-
+| http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/us2008thas.php
+| June 15, 2008
+| 03:30:02 UTC
+| Honshū, Japan
+| 39.168
+| 140.870
+|
+| 4.6
+|-
+| colspan="8" style="text-align:center;"| '''June 16'''
+|-
+| http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/us2008tiaw.php
+| June 16, 2008
+| 14:14:39 UTC
+| Honshū, Japan
+| 39.084
+| 140.607
+|
+| 5.1
+|-
+| colspan="8" style="text-align:center;"| '''June 18'''
+|-
+| http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/us2008tka1.php
+| June 18, 2008
+| 09:04:34 UTC
+| Honshū, Japan
+| 39.156
+| 140.863
+|
+| 4.8
+|-
+|colspan="8"| <small>Sources: {{cite web| url=http://earthquake.usgs.gov/eqcenter/recenteqsww/Maps/10/145_40_eqs.php| title=Earthquake List for 10-degree Map Centered at 40°N, 145°E| publisher=USGS| date=2008-06-18 <!--16:00:05 UTC-->| accessdate=2008-06-18}}</small>
+|}
+
+==Effects==
+{{wikinews|Northern Japan hit by strong quake}}
+{{external media
+|video1={{youtube|qqgAgJODgho|title=Original NHK broadcast of the earthquake warning}}
+}}
+
+===Landslides===
+Landslides triggered by this earthquake crushed structures, buried people, cut off access to certain roads, and isolated some rural communities. Mud from landslides dammed up rivers to form lakes called {{nihongo|"Landslide dam|quake lakes"|せき止め湖|sekitomeko}}.
+
+By June 19, the Ministry of Land, Infrastructure and Transport (Japan)|Ministry of Land had identified fifteen quake lakes in Iwate and Miyagi prefectures, and work crews began draining three of them which were at high risk of overflow or breach from rain or aftershocks.
+
+===Human casualties===
+By 17:50 JST, June 25, twelve people were confirmed dead and 358 injured, and ten still missing.
+* In City of Kurihara, Miyagi Pref., five people were buried in a landslide at a hot-spring inn called ''Komanoyu'', which had stood on the mountainside of Mt. Kurikoma. A woman aged 80 who had co-managed the inn with her husband, her 58 year-old son, a woman aged 75 who had worked at the inn, a 48 year-old tourism consultant, and an attendant of the Railway Museum (Saitama)|Railway Museum aged 35 were all killed in the landslide.
+* In the city of Kurihara, along Route 398, a landslide overwhelmed and killed three workers setting a rockfall containment net on a hillside.
+* Also in the city of Kurihara, along Route 398, a 59 year-old man was killed when his car was carried away by a landslide and buried.
+* At a dam construction site in the city of ?shū, Iwate Pref., a worker aged 48 was struck by falling rocks and died.
+* In the city of Ichinoseki, Iwate Pref., a person surprised by the tremor ran out into the road and was fatally struck by a truck.
+* In the city of Iwaki, Fukushima Pref., near a fishing port, a person aged 55 was struck by falling rocks while fishing, fell into the sea, and drowned.
+* In the city of ?shū, a landslide caused a group of 20 people to become temporarily trapped in an overturned bus. including one critically and five seriously. One of the passengers who had escaped walked down the road with a mobile phone until he was able to get a signal, and made an emergency call.
+
+===Electric power supply===
+No nuclear power plants were shut down following this earthquake
+
+===Expressways and railways===
+Expressways in Tōhoku region were closed in several sections, but all reopened by nighttime, barring traffic restrictions in one section for repair work.
+
+Some train services by East Japan Railway Company|JR East were suspended on Shinkansen and local lines, and resumed on the following day from the first scheduled trains.
+
+On Tōhoku Shinkansen, all running trains, about 20, were stopped by an earthquake detection system. Most were soon moved to the nearest stations. However, about 2,000 passengers were temporarily trapped inside three trains up to nine and a half hours later,
+
+Suspensions on Tōhoku, Akita Shinkansen|Akita, Yamagata Shinkansen and delays on Jōetsu Shinkansen|Jōetsu, Hokuriku Shinkansen|Nagano Shinkansen reportedly involved 117,000 passengers. No trains derailed.
+
+==References==
+{{reflist|2}}
+
+{{Earthquakes in 2008}}
+{{Earthquakes in Japan}}
+
+{{DEFAULTSORT:Iwate Earthquake}}
+Category:2008 earthquakes
+Category:2008 in Japan
+Category:Earthquakes in Japan|2008 Iwate
+Category:Tōhoku region
+
+{{Link GA|ja}}

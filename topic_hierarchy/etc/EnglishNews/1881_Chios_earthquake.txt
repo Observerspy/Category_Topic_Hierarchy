@@ -1,0 +1,53 @@
+{{Earthquake
+|title= 1881 Chios earthquake
+|date= {{Start-date|3 April 1881}}
+|map2 = {{Location map | Greece
+ | label=
+ | lat=38.25
+ | long=26.25
+ | mark=Bullseye1.png
+ | marksize=40
+ | position=top
+ | width= 250
+ | float=right
+ | caption=
+ | relief=yes}}
+|magnitude = 7.3
+|depth=
+|location={{coord|38.25|26.25|display=inline,title}}
+|countries affected = Chios, ?e?me
+|tsunami = minor
+|casualties = 7,866
+}}
+The '''1881 Chios earthquake''' occurred at 11:30 Coordinated Universal Time|UTC on 3 April. It caused severe damage on the island of Chios and also affected ?e?me and Ala?at? on the coast of Turkey. The earthquake had an estimated magnitude of 7.3 and there were an estimated 7,866 casualties. The devastation from the earthquake was the last of the three 'catastrophes' that affected the island of Chios in the 19th century.
+
+==Tectonic setting==
+The Aegean Sea is an area of mainly extensional tectonics caused by the subduction of the African Plate beneath Aegean Sea Plate.
+
+==Damage==
+The Chios (town)|town of Chios was devastated, causing many casualties, partly due to the narrowness of the streets. In the rest of the island, 25 out of the 64 villages were destroyed with another 17 badly damaged. In both ?e?me and Ala?at? about 40% of the houses were destroyed.
+
+The number of casualties on the Turkish mainland was low, possibly due to most of the inhabitants leaving their houses to watch the passage of the passenger ship ''Aya Evangelistra'' from the shore.
+
+==Characteristics==
+The epicenter of the earthquake was in the southeastern part of Chios where Seismic scales#Seismic intensity scales|intensities reached IX on the Mercalli scale. Isoseismal maps show an elongation west to east with an area of intensity VIII affecting the western end of the Karaburun Peninsula of the Turkish mainland. Vertical movements of up to 2.5 m were observed. have been estimated for this event.
+
+A minor tsunami was reported, based on the presence of fresh sand in a garden in Chios, but there is no other information available.
+
+There were many strong aftershocks, the most damaging being on 5 April, 11 April (2), 12 April, 13 April, 18 April, 20 May, 9 June and 26 August.
+
+==Aftermath==
+After the earthquake many of the inhabitants of Chios left the island. This followed the trend set by the other two 'catastrophes' of the 19th century that devastated the island, the massacre of Chios in 1822 and the failure of the orange crop in 1833. Together these events left most of Chios in a state of poverty and severely underpopulated.
+
+==References==
+{{Reflist}}
+
+{{Earthquakes in Greece}}
+
+{{DEFAULTSORT:Chios 1881}}
+Category:Earthquakes in Greece|1881 Chios
+Category:Earthquakes in Turkey|1881 Chios
+Category:1881 in Greece
+Category:1881 in the Ottoman Empire
+Category:Chios|1881
+Category:1881 earthquakes

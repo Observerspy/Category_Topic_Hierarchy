@@ -1,0 +1,465 @@
+TOPIC
+1:post-quake analysis
+2:emergency and reconstruction aid
+3:aftershocks
+4:legislative changes
+7:domestic
+8:cordón caulle eruption
+9:future threats
+10:threat
+12:seismology and geology
+13:building code changes
+14:seismic intensity
+15:extent of tremors
+16:era of disaster
+17:overview
+18:casualties and infrastructure damage
+19:earthquake and damage
+20:historic examples
+21:sequence of shocks
+22:ri?ihuazo flood
+24:significance
+25:causes
+26:rescue efforts
+27:sources
+28:radio and television affected
+29:main earthquake
+30:landslides
+31:medical impact
+32:transport
+33:legacy
+34:relief efforts and aftermath
+35:efforts
+36:sport
+37:solid-solid phase transitions
+38:tectonic setting
+39:television, movie, and music productions affected
+40:details
+41:relief efforts and response
+42:schools and universities
+43:emergency response
+44:warning
+45:discovery
+46:popular culture
+49:evacuations
+50:other charity and fundraising activities
+51:response in china
+52:internet activity and social media
+53:memorable sites
+54:canterbury earthquake recovery authority
+55:planning
+56:main shock
+57:compared with past earthquakes
+58:government reactions
+61:response
+62:list of major submarine earthquakes
+63:sequence of earthquakes
+64:the events
+65:disaster relief
+66:consequences
+67:earthquake details
+68:immediate aftermath
+69:rescue and relief efforts
+71:incidents
+72:memorials
+73:regional seismicity
+74:prison escape
+75:response from other countries
+76:liquefaction
+77:stress triggering
+78:warnings
+79:current hazards
+80:technical details
+81:landslide
+82:relief
+84:related earthquakes
+85:economic recovery
+86:convergent plate boundary
+87:subsequent fires
+88:victims
+89:modified mercalli intensities for some localities
+90:future seismic hazard
+91:damage outside cheviot
+92:centennial commemorations
+93:future earthquake hazard
+94:analysis
+95:in popular culture
+96:outline
+97:incidents elsewhere
+98:geophysical effects
+99:role of monks and victims' rites
+100:focal mechanisms
+103:future risk
+105:death toll and damage
+106:native and japanese accounts
+107:history
+108:cultural references
+109:seismic characteristics
+110:geology
+111:marina district
+112:earthquake prediction
+114:domestic reactions
+115:conditions in the aftermath
+116:tectonic summary
+118:national
+119:telecommunications
+120:international assistance and insurance payments
+121:suburbs
+122:recording
+123:controversial statistics
+124:precursors and foreshocks
+125:geological setting
+126:recovery
+127:the "quake lake"
+128:quake lake
+129:aid and reconstruction
+130:damage to hospitals
+131:current situation
+132:tectonics and background
+133:tsunami
+134:certifications
+135:rebuilding
+136:damage and effects
+137:tectonic interpretation
+138:death toll and casualties
+140:previous events
+141:human toll in the city
+142:personnel
+143:veterans hospital
+144:other effects
+145:summary of earthquakes
+146:impact on natural area
+147:blackouts
+148:consequences and response
+149:environmental impact
+150:geological and structural engineering issues
+151:relief and reconstruction
+152:precursors
+153:localization of the damage
+154:development of seismology
+155:valley fever outbreak
+156:relationship between the events
+158:international response
+159:power and water supply
+160:housing
+161:response, casualties, and intensities
+162:completion of works
+163:implications for current seismic risk
+164:background
+166:reactions of authorities
+167:disaster management
+169:tsunami-related aid given
+170:political aftermath
+171:remembrance
+172:responses
+173:response and relief efforts
+174:economic impact
+175:evidence of the earthquake
+177:fundraising and charity events
+178:tribute and day of mourning
+180:relief efforts
+181:economic impacts
+182:governments
+183:the earthquake and volunteerism
+184:ports
+185:repair work
+186:earthquake development
+187:mission
+188:nuclear blast
+189:criticism of iranian government response
+190:epicenter and seismology
+191:background and tectonics
+192:earthquake characteristics
+193:political
+194:transportation
+195:vestiges
+196:foreshocks and aftershocks
+197:post-earthquake development
+198:research
+199:list of shocks
+200:sewing factory
+201:building damage in the city
+202:impact in the countryside
+203:state funeral
+204:event
+205:other events
+206:death toll, damage, and casualties
+208:warning from agencies in other areas
+209:government data
+210:timeline
+212:injuries and fatalities
+213:casualties, intensities, and damage areas
+214:damage and casualties by country
+215:theories
+216:political reaction
+217:effects
+218:possible causes
+219:casualties, damage, and other effects
+220:panoramas
+221:first shock
+222:eyewitness accounts
+223:previous seismicity
+224:early warnings and predictions
+225:building standards
+226:films on the earthquake
+227:national effort
+228:gallery
+229:local response
+230:impact
+231:death toll and damage to buildings
+232:homeless camps
+233:aftermath and reconstruction
+234:disruption in communications
+235:universities, colleges, and schools affected
+236:earthquake mechanisms
+237:surface rupture
+238:peak acceleration
+239:community response
+240:location
+241:intensities and damage area
+242:kashiwazaki-kariwa nuclear power plant incidents
+243:list of aftershocks
+244:nuclear power plants
+245:foreign reaction
+246:geophysical effects
+247:elsewhere across the pacific
+249:central communications center
+251:day of mourning
+252:data on magnetic disturbances
+253:humanitarian and welfare
+254:magnitude and earth movement
+255:tectonic plates
+256:earthquake activity
+257:magnitude
+258:statistics
+259:reconstruction
+260:predicted earthquake hazard
+261:aftershock
+262:earthquake and tsunami
+264:geographic information
+265:characteristics
+266:development
+267:rescue operations and compensation
+268:comparison
+269:aid agencies
+270:aftermath
+271:meteorological causes
+272:primary effects
+273:effect on businesses
+274:damage evaluation
+276:socioeconomic impact
+277:list of foreshocks and aftershocks
+278:tectonic plate boundaries
+279:historical context
+280:geological origins
+281:relationship between earthquakes
+283:essential services
+285:space center
+286:seismic data
+287:rediscovery
+288:energy released
+289:prior events
+290:scientific and research response
+291:schools
+292:damage from the earthquake
+293:automotive production
+294:memorial services
+295:analysis and current situation
+296:magnitude and geology
+297:geologic setting
+299:human sacrifice
+300:signs and warnings
+301:remarks
+302:aid response
+303:fault zones within tectonic plates
+304:government and organization affected
+305:patterns of damage
+306:event in historical context
+307:later casualties
+308:population with destroyed or severely damaged homes
+309:shaking
+310:international
+311:effects of earthquake in other parts of mexico
+312:damage
+313:property damage
+314:aftershocks and related quakes
+315:previous and later earthquakes
+316:medical response
+317:news coverage
+318:reaction
+320:public anger
+321:success and benefits of redevelopment
+322:seismology
+323:strong motion
+324:transportation affected
+325:estimated casualties
+326:dams and water problems
+327:government response and aid
+328:cause
+329:background and geology
+330:areas affected
+331:cultural properties
+332:damage and casualties
+333:defence forces
+334:structural effects
+335:memory
+336:early response
+337:external aid
+338:transformational faulting or anticrack faulting
+339:humanitarian, economic and environmental impact
+340:earthquake sequence
+341:similar megathrust earthquakes
+342:preparedness and response
+343:entertainment and sports affected
+344:media
+345:the seismic event
+346:other buildings affected
+347:implementation
+348:emergency relief funds for donations
+349:link to eruption of etna
+350:ground effects
+351:scientific study
+352:postquake violence
+353:description in public archives
+354:geophysical impact
+355:relation to other major earthquakes
+357:subsequent earthquakes
+358:link to eruption of mount fuji
+359:health
+360:electricity
+361:electric power supply
+363:air crash
+364:stress-induced melting and shear thermal instability
+365:foreign and domestic aid
+366:animal casualties
+367:duration
+369:geography
+370:search and rescue
+371:rise of drugs
+372:description
+373:reported portents
+374:buildings affected
+375:long-term effects
+376:wind power
+377:damage & casualties
+378:human casualties
+379:extent
+380:national aid
+381:tectonics and previous activity
+382:prosecutions
+384:tectonics
+385:countries affected
+386:affected area
+387:fire and liquefaction
+388:divergent plate boundary
+389:food scarcity
+390:showa bridge
+391:the montereale earthquake
+392:data
+394:damage, casualties and effects
+395:tectonic causation
+396:aid from organizations
+397:defense
+398:problems of redevelopment
+399:first anniversary
+400:international aid
+401:effects on transportation
+402:aid and relief
+403:earthquakes magnitudes
+404:casualties
+405:metro service
+406:dehydration embrittlement
+407:technical data
+408:localised tsunami
+409:effect
+411:the red crescent
+412:casualties and damage
+413:oceania
+414:recent developments
+415:commission of inquiry
+416:japan self-defense forces
+417:mechanism of the earthquake
+418:general infrastructure
+419:prediction
+420:past events
+421:political consequences
+422:damage to infrastructure
+423:prior warning
+424:ground acceleration
+425:infrastructure and support
+426:public reaction
+427:radar imagery
+428:iranian earthquake education
+429:infrastructure
+430:government response
+431:tsunamis
+433:police
+434:transportation infrastructure damage
+435:humanitarian response
+436:media coverage
+437:evacuation
+438:list of countries that sent aid
+439:honors
+440:victims and damage
+442:intensities
+443:earthquake's results
+444:surface faulting
+445:transform plate boundary
+447:long-term recovery
+448:earthquake epicenter
+450:land subsidence
+452:collapse of schoolhouses
+453:scientific preparedness
+454:oil, gas and coal
+455:natural gas emission
+456:damage and deaths
+457:international response and aid
+458:spread of effect
+459:scientific framework
+460:foreshock
+461:effect on disaster prevention planning
+462:relation to other earthquakes
+463:influence
+464:emergency management
+465:clean-up and reconstruction
+466:aftermath and relief efforts
+467:causes of building collapse and public reaction
+468:predictions, precursors, and postmortems
+469:future threat
+470:identified fatalities
+471:hospitals affected
+472:expressways and railways
+473:tsunami characteristics
+474:political issues
+475:aftershocks and other earthquakes
+476:reactions
+477:tsunami warning
+478:luminous phenomena
+479:death toll
+480:cost
+481:anchorage area
+482:technical records
+483:controversy on reconstruction and criminality
+485:olive view hospital
+486:epicenter
+487:science of the earthquake
+488:damage and fatalities
+489:televisa studios
+490:zoo animal reactions
+491:effect on society and philosophy
+492:previous quakes
+493:damage in cities and the suburbs
+494:seismologic details
+495:relocation and housing
+496:status of the recovery
+498:assistance and reporting
+499:economic damage
+500:international reaction
+501:damages and casualties
+502:tsunami warnings
+503:chaos and disorder
+504:relief and reconstruction efforts
+505:internet video
+506:energy
+507:natural disasters triggered
+508:seismic hazard implications

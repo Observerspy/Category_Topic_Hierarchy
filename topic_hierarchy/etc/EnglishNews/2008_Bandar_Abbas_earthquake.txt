@@ -1,0 +1,59 @@
+{{Use dmy dates|date=March 2012}}
+{{good article}}
+{{Earthquake
+|title=2008 Bandar Abbas earthquake
+|image=
+|date= {{Start-date|df=yes|10 September 2008}}
+|map2 = {{Location map | Iran
+ | label=
+ | lat=26.743
+ | long=55.828
+ | mark=Bullseye1.png
+ | marksize=40
+ | position=top
+ | width= 250
+ | float=right
+ | caption=
+ | relief=yes}} 
+|magnitude = 6.1 Moment magnitude scale|M<sub>w</sub>
+|depth=15 km (9.3 miles)
+|location={{coord|26.743|55.828|display=inline,title}}
+|countries affected = {{flag|Iran}}, {{flag|United Arab Emirates}}
+|tsunami =
+|casualties = 7 dead, 45 injured
+}}
+The '''2008 Bandar Abbas earthquake''' occurred on 10 September 2008 in the Hormozgān Province of southern Iran, {{convert|850|km|mi|0}} south of Tehran. Its epicenter was near the port city of Bandar Abbas, where an 2005 Qeshm earthquake|earthquake two years prior had caused damage. The earthquake measured 6.1 on the Moment magnitude scale and 6 on the Surface wave magnitude|surface wave scale, killing seven people and injuring up to 47. Causing both catastrophic and minor damage, the earthquake devastated up to 200 villages throughout southern Iran, but left the port city of Bandar Abbas almost unscathed. Citizens reportedly panicked when the earthquake hit, emptying into the parks of the city and other open areas.
+
+== Background ==
+Iran's earthquake history reaches as far back as 856 AD, and involves at least 29 documented earthquakes.
+
+Earthquakes in Iran are almost exclusively confined to the upper lithosphere (crust), placing them relatively near the surface.
+
+The earthquake posed a threat to all of Bandar Abbas' oil companies, as well as at least one highly productive and expensive refinery at the time of the earthquake. Because of past earthquakes, including one in 2006, many of the city's homes had been rebuilt and outfitted with seismic engineering|seismically engineered designs. The major oil refinery did not sustain damage, according to Hojjatollah Ghanimifard, the vice-president of investment affairs for National Iranian Oil Company.
+
+== Damage and casualties ==
+File:IranHormozgan.png|right|thumb|The earthquake's epicenter was located just off of Bandar Abbas in Hormozgan Province.
+The earthquake occurred at 3:00&nbsp;pm local time and was followed by up to seventeen aftershocks.
+
+Though major locations held up well against the earthquake, most villages did not. From Qeshm Island came reports of power outage and minor damage; 100 houses in all of Qeshm were damaged between 30 and 50 percent. Walls in the village of Zeynabi, Iran|Zeynabi were leveled; all were reduced by the earthquake to debris.
+
+=== Reaction ===
+Many residents of Bandar Abbas initially fled into nearby parks where they felt they would be safe, many of them screaming. One local described the shaking as, “When the quake struck, it was like a snake bite”. At least one Red Cross official described the earthquake as low caliber, stating it was "unlikely the quake had caused a high number of casualties".
+
+== Future threats ==
+As the world's worst in a 2004 report on countries with poor earthquake engineering, The United Nations developed a Common Country Assessment for Iran, stating, "While adequate building regulations exist for large cities, it is generally believed that they are not rigorously adhered to... most of those who have suffered in recent major earthquakes have lived in small towns and villages. Earthquake-proof construction is very rare in those areas and adequate building regulations are not yet in place".
+
+== References ==
+{{reflist|colwidth=30em}}
+
+{{Earthquakes in 2008}}
+{{Earthquakes in Iran}}
+
+{{DEFAULTSORT:Bandar Abbas Earthquake, 2008}}
+Category:2008 earthquakes
+Category:2008 in Iran
+Category:Earthquakes in Iran|2008 Bandar Abbas
+Category:Earthquakes in the United Arab Emirates|2008 Bandar
+Category:History of Hormozgan Province
+
+{{Link GA|zh}}

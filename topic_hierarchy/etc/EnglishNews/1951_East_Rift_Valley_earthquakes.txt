@@ -1,0 +1,56 @@
+{{Earthquake
+|title= 1951 East Rift Valley earthquakes
+|date= {{Start-date|October 22, 1951}} to<br>{{end-date|December 5, 1951}}
+|image=
+|map2               = {{Location map+ | Taiwan|relief=1
+ | places={{Location map~ | Taiwan|relief=1
+ | label= October 22
+ | lat=23.9
+ | long=121.7
+ | mark=Bullseye1.png
+ | marksize=30
+ | position=left}}
+{{Location map~ | Taiwan|relief=1
+ | label= November 25
+ | lat=23.2
+ | long=121.4
+ | mark=Bullseye1.png
+ | marksize=30
+ | position=left}}
+ | width= 250
+ | float=right
+ | caption=}} 
+|magnitude = 7.3 Richter magnitude scale|M<sub>L</sub> (largest)
+| location           = {{coord|23.9|N|121.7|E}}
+|countries affected = Taiwan
+|tsunami = minor
+|casualties = 85 dead
+}}
+
+The '''1951 East Rift Valley earthquakes''' ({{zh|t=1951年纵谷地震系列|p=1951 nián Zònggǔ dìzhèn xìliè}}) were a series of 735 earthquakes which struck eastern Taiwan from October 22, 1951 to December 5, 1951, four of which registered over 7 on the Richter Scale, the largest of those being two magnitude 7.3 quakes on October 22 and November 25. Altogether the quakes killed 85 people.
+
+==Technical data==
+The East Rift Valley ({{zh|t=花东纵谷|p=Huā-Dōng Zònggǔ}}) is an area of rugged terrain formed by the interaction of the Philippine Sea and Eurasian tectonic plates in eastern Taiwan. Most of the area is sparsely populated by Taiwanese aborigines, but there are larger populations in the cities of Hualian City|Hualian and Taidong City|Taidong. The deadliest earthquake in the series struck at 05:34 on October 22, 1951, with an epicentre at 23.9°N 121.7°E, a few kilometres southwest of Hualian City, with a magnitude of 7.3, and was felt throughout Taiwan as well as on Penghu and Jinmen. The second quake to cause significant casualties hit at 02:50 on November 25 of the same year, again with a magnitude of 7.3, this time centred under the town of Yuli, Hualien|Yuli, Hualian.
+
+==Names==
+The earthquake series is sometimes known by different names, including the '''1951 Hualian earthquakes''' ({{zh|t=1951年花莲大地震系列|p=1951 nián Huālián dà dìzhèn xìliè}}) and the '''1951 Hualian-Taidong earthquakes''' ({{zh|t=1951年花莲–台东地震系列|p=1951 nián Huālián-Táidōng dìzhèn xìliè}}) - both of these refer to the same series of quakes in eastern Taiwan from October to December 1951.
+
+==Damage==
+The total figures for casualties and damage from Taiwan's Central Weather Bureau are as follows:
+*85 deaths
+*200 seriously injured
+*1,000 lightly injured
+*Around 3,000 dwellings completely destroyed
+
+==References==
+{{reflist}}
+
+==External links==
+*http://scman.cwb.gov.tw/eqv5/10eq/1951/1951figer1_new.htm Photographs of the damage caused
+
+{{taiwan earthquakes}}
+
+
+Category:Megathrust earthquakes in Taiwan
+Category:1951 in Taiwan|East Rift Valley Earthquakes, 1951
+Category:1951 earthquakes|East Rift Valley

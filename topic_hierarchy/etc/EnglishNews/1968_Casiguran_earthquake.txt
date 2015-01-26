@@ -1,0 +1,59 @@
+{{Infobox earthquake
+| title              = 1968 Casiguran earthquake
+| image              = 
+| imagecaption       = 
+| date               = August 1, 1968
+| origintime         = 20:19 UTC 
+| map2               = {{Location map | Philippines
+ | relief = yes
+ | label =
+ | lat = 16.5
+ | long = 122.2
+ | mark = Bullseye1.png
+ | marksize = 40
+ | position = top
+ | width = 250
+ | float = center
+ | caption = }}
+| magnitude          = 7.3 Surface wave magnitude|M<sub>s</sub> 
+| depth              = {{convert|35|km|abbr=on}} 
+| location           = {{coord|16.5|122.2|display=inline, title}} 
+| type               = Thrust 
+| countries affected = The Philippines
+| tsunami            = 
+| aftershocks        =
+| intensity          = IX (''Violent'') 
+| foreshocks         = 10+ 
+| aftershocks        =
+| casualties         = 
+}}
+
+The '''1968 Casiguran earthquake''' occurred on August 1 at 20:19 UTC and measured 7.3 on the Surface wave magnitude scale. The earthquake's epicenter was in Casiguran, Aurora|Casiguran, Quezon (now part of Aurora (province)|Aurora province). This was deemed the most destructive earthquake in the Philippines before the 1990 Luzon earthquake and generated a tsunami that reached as far as Japan.
+
+==Damage==
+The city of Manila was the hardest hit with 268 people killed and 261 more injured. Many structures that suffered severe damage were built near the mouth of the Pasig River on huge alluvium|alluvial deposits. A number of buildings were damaged beyond repair while others only suffered cosmetic damage. Two hundred and sixty people died during the collapse of the six-story Ruby Tower, located in the district of Binondo. The entire building, save for a portion of the first and second floors at its northern end, was destroyed. Allegations of poor design and construction, as well as use of low-quality building materials, arose. In the District of Santa Ana, Manila|Santa Ana, one person was injured by debris from a damaged apartment building.
+
+Two more people from Aurora sub province and Pampanga died as a direct result of the quake. Around the town of Casiguran, there were several reports of landslides, the most destructive one at Casiguran Bay.
+
+==Aftershocks==
+The aftershock sequence throughout the month of August included many moderate shocks, including fifteen over 5.0 Body wave magnitude|M<sub>b</sub>. The strongest of these occurred on August 3 with a 5.9 M<sub>s</sub> event that produced intensities of III–IV in Manilla.
+
+==References==
+{{reflist|30em|refs=
+
+}}
+
+;Sources
+{{refbegin}}
+* {{citation|title=The Luzon earthquake of 1 August 1968: A preliminary report|url=http://www.bssaonline.org/content/59/1/459.extract|first=S. S.|last=Su|year=1969|journal=Bulletin of the Seismological Society of America|publisher=Seismological Society of America|volume=59|number=1|pages=459-472}}
+{{refend}}
+
+==External links==
+*http://202.90.128.66/1968CasiguranEQ/index-casiguran.html PHIVOLCS - Casiguran Earthquake - 02 August 1968
+
+{{Earthquakes in the Philippines}}
+
+{{DEFAULTSORT:1968 Casiguran Earthquake}}
+Category:Earthquakes in the Philippines|1968 Casiguran Earthquake
+Category:1968 in the Philippines|Casiguran earthquake
+Category:1968 earthquakes|Casiguran Earthquake

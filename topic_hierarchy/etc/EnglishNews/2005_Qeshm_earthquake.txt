@@ -1,0 +1,93 @@
+{{Earthquake
+|title=2005 Qeshm earthquake
+|date= {{Start date|2005|11|27}}
+|map=Qeshm Portuguese Castle.jpg|240px
+|image name=The Portuguese fortress in Qeshm was damaged in the earthquake.
+|map2 = {{Location map | Iran |relief=1
+ | label=
+ | lat=26.839
+ | long=55.930
+ | mark=Bullseye1.png
+ | marksize=40
+ | position=top
+ | width= 250
+ | float=right
+ | caption=}}
+|magnitude = 5.8 Moment magnitude scale|M<sub>w</sub>
+|depth={{convert|10|km|mi|0|sp=us}}
+|location={{coord|26.839|N|55.930|E|type:event|display=inline,title}}
+|countries affected = Iran, United Arab Emirates
+|tsunami = No
+|casualties = 13 dead, 100 injured
+}}
+
+The '''2005 Qeshm earthquake''' was a powerful Seismology|seismic event that occurred on November 27, 2005, at 13:52 Iran Standard Time|IRST (10:22 UTC) on the sparsely populated Qeshm|Qeshm Island off Southern Iran, killing 13 people and devastating 13 villages. It was Iran's second major earthquake of 2005, following that at 2005 Zarand earthquake|Zarand in February. The epicenter was about {{Convert|1500|km|mi|-1|sp=us}} south of Tehran, close to Iran's southern borders. Initial measurements showed that the earthquake registered about 6.0 on the moment magnitude scale, although that was reduced to 5.8 after further analysis. More than 400 minor aftershocks followed the main quake, 36 of which were greater than magnitude 2.5. The earthquake occurred in a remote area during the middle of the day, limiting the number of fatalities. Iranian relief efforts were effective and largely adequate, leading the country to decline offers of support from other nations and UNICEF.
+
+Qeshm Island is part of the Simply Folded Belt, the most seismically active part of the Zagros fold and thrust belt. Similar to most earthquakes in the area, the 2005 event resulted from Fault (geology)#Dip-slip faults|reverse slip faulting. Since it lies in such a seismically active area, there is a high risk of destructive earthquakes in Iran; 1 in 3,000 deaths are attributable to earthquakes. One geophysicist has cited the lack of strict building codes as a serious concern.
+
+== Background ==
+Iran experiences at least one minor earthquake per day on average, During the last 100&nbsp;years, Iran has been hit by more than 130&nbsp;events stronger than magnitude&nbsp;5,|group=nb}} with damaging earthquakes near Qeshm recorded in 1360, 1703, 1884, 1897, 1902, and 1905. The majority of Iranian quakes occur in the upper Crust (geology)|crust, close to the surface, which means that they are potentially more destructive.
+
+In terms of earthquake engineering|earthquake protection, Iran was named the "worst offender" in 2004 by Professor Roger Bilham of the University of Colorado at Boulder. The United Nations' Common Country Assessment for Iran states that the greatest damage occurs in rural areas, for which no building code exists. Large cities have a building code that takes account of the seismic hazard, but it is not rigorously followed, despite the susceptibility of three quarters of Iranian major cities to damaging earthquakes.
+
+== Geological setting ==
+File:Qeshm geology.png|thumb|left|285px|The main fold structures in the central part of Qeshm island, with the epicenter and area uplifted during earthquake
+Iran lies within the complex zone of continental collision|collision between the Arabian Plate and the Eurasian Plate; Part of this convergence is accommodated by Thrust tectonics|crustal shortening and thickening within the Zagros fold and thrust belt, with the remainder occurring to the north of the Iranian Plateau. The most active part of the Zagros is the Simply Folded Belt, which is characterised by large Fold (geology)|folds formed above a layer of Neoproterozoic Hormuz halite|salt, which locally reaches the surface in the crests of some anticlines as salt diapirs. Measurements of earthquake focal mechanisms and Hypocenter|hypocentral depths show that shortening is accommodated by a mixture of high-angle and low-angle Fault (geology)#Dip-slip faults|reverse faulting, within either the lowest part of the sedimentary cover or in the Basement (geology)|basement beneath the Hormuz salt.
+
+The island of Qeshm is elongated WSW–ENE, parallel to the coastline and the regional trend of the main fold axes. Neogene sedimentary rocks outcrop at the surface over the whole island, apart from a diapir of older Hormuz salt that pierces through to the surface at its western end. The sediments are affected by a series of large, mainly anticlinal folds that show a variety of trends in the central part of the island. The axis of the Laft anticline runs mainly NW–SE, while the Salakh anticline trends roughly W–E and the Suza anticline and Ramkan syncline trend SW–NE. The island shows clear evidence of recent uplift in the form of marine terraces, with the highest terrace identified at {{convert|220|m|ft|sp=us}} above sea level. An uplift rate of 0.2 millimeters annually has been estimated from Uranium-thorium dating|uranium series dating (<sup>230</sup>Thorium|Th/<sup>234</sup>Uranium|U) of aragonite from corals on the terraces.
+
+== Characteristics ==
+The earthquake was initially measured at 6.0 on the moment magnitude scale, although later analysis suggests a slightly lower value of 5.8. The focal mechanism derived for the earthquake indicates that it was the result of reverse faulting on a fault plane Strike and dip|dipping either to the north at 50° or to the south–southeast at 40°.
+
+Surface displacement during the earthquake was measured using Interferometric synthetic aperture radar|SAR interferometry. The computed area of uplift is elongated W-E, with a maximum value of about {{convert|20|cm|in|0|sp=us}} centered over the eastern end of the Latif anticline. A smaller area of subsidence was observed to the south of the uplifted area, and the lack of a sharp boundary between the two suggests that the fault does not come to the surface. The pattern of displacement is consistent with a north-dipping fault rupturing between about {{convert|8|km|mi|0|sp=us}} and {{convert|4|km|mi|0|sp=us}} in depth, which also provides a good match to the results of Synthetic seismogram#Source modelling|seismic modeling using Seismic wave#Body waves|body waves, although a SSE-dipping plane remains possible. This depth range strongly suggests that the fault affected the lower part of the sedimentary cover, while not ruling out some basement involvement. The mismatch between the orientation of the fault planes that caused the earthquake and the observed surface folds suggests that deformation at these two levels is decoupled by the presence of a detachment, possibly within marl layers.
+
+Most aftershocks occurred at significantly greater depths than the mainshock and are dominated by Fault (geology)#Strike-slip faults|strike-slip focal mechanisms. This suggests that the mainshock triggered later movement on a complex set of right and left lateral strike-slip faults within the basement, together accommodating north-south shortening beneath the Hormuz salt layer.
+
+On September 10, 2008, there was another 2008 Qeshm earthquake|major earthquake on Qeshm, with a magnitude of 5.9 and hypocentral depth of {{convert|8|km|mi|0|sp=us}}. The pattern of uplift observed for this earthquake is also consistent with rupturing within the lower sedimentary sequence, but on a fault with two segments, dipping overall to the southeast. The earthquakes of 2005 and 2008 may have ruptured adjacent segments of the same southeast-dipping reverse fault. Seven deaths were reported as a result of the 2008 earthquake.
+
+== Damage and casualties ==
+The earthquake hit at 13:52:19 IRST, or 1:52 pm (10:22:19 UTC), It killed 13&nbsp;people and injured 100 on Qeshm Island. In Zirang (Ziranag), a village on Qeshm, 80&nbsp;percent of the buildings were demolished. Seven villages experienced extensive damage,
+and 13 villages were destroyed: Tonban, Ramekan, Gevarzin, Khaledeyn, Hormozgan|Khaledin, Direstan, Kushah, Hormozgan|Kushe, Karavan, Iran|Karavan, Turyan, Iran|Turyan, Tomsenati|Tom senati, Gorbehdan, Ziranag, Giahdan, No major damage occurred directly at the epicenter; In total more than 2,000 people were affected.
+
+One major hospital damaged by the earthquake was inundated with the injured and lacked medical supplies for treatment. An airport on the epicentral island sustained damage, and power lines on the island were severed. In one school, some people suffered broken legs when the building collapsed, but there were  no fatalities. Television stations throughout Iran released footage of quake damage and of injured residents being taken to hospitals.
+
+A landslide A former Portuguese Empire|Portuguese fortress, built by Admiral Afonso de Albuquerque in 1507, sustained heavy damage to its eastern wall but otherwise remained intact.
+
+If the earthquake had occurred during the early morning while residents were asleep, rather than mid-afternoon (1:52 pm local time), it could have been deadlier as housing in the epicentral area consisted chiefly of mud and brick.
+
+== Relief efforts and aftermath ==
+Aid workers from the domestic region began delivering supplies such as food, blankets, and tents.
+
+Injured residents were transported to Bandar Abbas by helicopter.
+
+In 2007, the Asian Centre on Seismic Risk Reduction was formed in response to the regular earthquakes experienced in south, west, and central Asia, to "encourage regional and inter-regional networking and partnerships to reduce seismic damage". Earthquakes account for 73&nbsp;percent of natural disaster deaths in these locations.
+
+== See also ==
+{{Portal|Earthquakes}}
+*List of earthquakes in Iran{{-}}
+
+== Notes ==
+{{Reflist|group=nb}}
+
+== References ==
+{{Reflist|30em}}
+
+=== Bibliography ===
+* {{cite journal| author= Nissen, E., Ghorashi, M., Jackson, J., Parsons, B., and Talebian, M.|title=The 2005 Qeshm Island Earthquake (Iran)—A link between buried reverse faulting and surface folding in the Zagros Simply Folded Belt?|date=May 2007|volume=171|issue=1|publisher=|pages=326–338|journal=Earth and Planetary Science Letters|doi=10.1111/j.1365-246X.2007.03514.x|url=http://www.earth.ox.ac.uk/~johne/pdfs/nissen-etal07b.pdf| accessdate= July 2, 2011|bibcode = 2007GeoJI.171..326N }}
+* {{cite journal| author=Nissen, E., Yamini-Fard, F., Tatar, M., Gholamzadeh, A., Bergman, E., and Elliott, J.R.|title=The vertical separation of mainshock rupture and microseismicity at Qeshm Island in the Zagros Fold-and-Thrust Belt, Iran|date=June 2010|volume=296|issue=3–4|pages=181–194|publisher=|journal=Earth and Planetary Science Letters|doi=10.1016/j.epsl.2010.04.049|bibcode = 2010E&PSL.296..181N |url=http://www.earth.ox.ac.uk/~johne/publications/pdfs/nissen-etal10.pdf|accessdate=July 2, 2011}}
+* {{cite journal| author=Preusser, F., Radtke, U., Fontugne, M., Haghipour, A., Hilgers, A., Kasper, H.U., Nazari, H. & Pirazzoli, P.A|title=ESR dating of raised coral reefs from Kish Island, Persian Gulf|publisher=|pages=1317–1322|journal=Quaternary Science Reviews|volume=22|doi=10.1016/S0277-3791(03)00038-6|date=May 2003| issue=10–13|bibcode = 2003QSRv...22.1317P }}
+* {{cite journal| author= Talebian, M. and Jackson, J.|year=2004|title=A reappraisal of earthquake focal mechanisms and active shortening in the Zagros mountains of Iran|journal=Geophysics Journal International|publisher=|volume=156|issue=3|pages=506–526|doi=10.1111/j.1365-246X.2004.02092.x|url=http://articles.adsabs.harvard.edu/cgi-bin/nph-iarticle_query?db_key=AST&bibcode=2004GeoJI.156..506T&letter=0&classic=YES&defaultprint=YES&whole_paper=YES&page=506&epage=506&send=Send+PDF&filetype=.pdf|accessdate=December 29, 2012|bibcode = 2004GeoJI.156..506T}}
+* {{cite web|title= United Nations Common Country Assessment for the Islamic Republic of Iran|url=http://web.undp.org/asia/country_programme/CCA/CCA-Iran2003.pdf|publisher=United Nations|date=August 2003|pages=1–82|accessdate=November 23, 2009}}
+* {{cite journal| author= Yaminifard, F., Tatar, M., Hessami, K., Gholamzadeh, A., and Bergman, E.A.|year=2012|title=Aftershock analysis of the 2005 November 27 (Mw 5.8) Qeshm Island earthquake (Zagros-Iran): Triggering of strike-slip faults at the basement|journal=Journal of Geodynamics|publisher=|volume=61|pages=138–147|url=http://www.sciencedirect.com/science/article/pii/S026437071200066X|accessdate=December 30, 2012| doi= 10.1016/j.jog.2012.04.005|bibcode = 2012JGeo...61..138Y }}{{subscription needed}}
+
+{{Earthquakes in 2005}}
+{{Earthquakes in Iran}}
+
+{{featured article}}
+
+Category:2005 earthquakes|Qeshm Earthquake, 2005
+Category:2005 in Iran|Qeshm Earthquake, 2005
+Category:Earthquakes in Iran|2005 Qeshm
+Category:History of Hormozgan Province
+
+{{Link FA|zh}}

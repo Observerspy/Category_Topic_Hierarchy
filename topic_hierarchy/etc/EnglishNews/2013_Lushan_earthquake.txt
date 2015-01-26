@@ -1,0 +1,102 @@
+<!-- Please UPDATE instead of REMOVE or RENAME the "" tags, probably it's being referred elsewhere -->
+<!-- 请更新而不要移除或重命名 "" 标签，很可能它已在别处被引用。 -->
+{{Infobox earthquake
+|title              = 2013 Lushan earthquake
+|image              = 
+|image alt          = 
+|imagecaption       = 
+|map                = 
+|map alt            = 
+|image name         =
+|map2               = {{Location map+ | China Sichuan
+| relief            = yes
+| label             =
+| lat               = 30.284
+| long              = 102.956
+| mark              = Bullseye1.png
+| marksize          = 40
+| position          = top
+| width             = 250
+| float             = right
+| caption           =
+| places            = {{Location map~|China Sichuan|lat=30.284|long=102.956|mark=Bullseye1.png|marksize=30|position=top}}{{Location map~|China Sichuan|lat=30.66|long=104.06|label=Chengdu|position=right|mark=Green pog.svg}}{{Location map~|China Sichuan|lat=29.98|long=103.00|label=Ya'an|position=bottom|mark=Red pog.svg}}}}
+|mapsize            = 
+|caption            =
+|date               = {{Start date|2013|4|20}}
+|origintime         = 
+|duration           = 
+|magnitude          = M<sub>w</sub> 7.0 (GA) <br> M<sub>s</sub> 7.0 (CENC) <br> M<sub>w</sub> 6.6 (USGS) <br> M<sub>w</sub> 6.6 (European Alert System|EMSC) <br> M<sub>j</sub> 6.9 (Japan Meteorological Agency|JMA)
+|depth              = < {{convert|13|km|abbr=on}}
+|location           = {{coord|30|17|02|N|102|57|22|E|display=inline,title}}<br>Lushan County, Sichuan|Lushan County, Sichuan
+|type               =
+|countries affected = {{PRC}} (Sichuan, Chongqing, Shaanxi)
+|damage             = 
+|intensity          = 
+|PGA                = 
+|landslide          = 
+|foreshocks         =
+|aftershocks        = 1,815
+|casualties         = 193 dead<br>23 missing<br>15,554 injured
+
+}}
+{{Infobox Chinese
+|title=Ya'an earthquake
+|c=雅安地震
+|p=Y?'ān Dìzhèn
+|altname = Lushan earthquake
+|s2 = 芦山地震
+|t2 = 芦山地震
+|p2 = Lúshān Dìzhèn
+}}
+File:2013 April 20, Ya'an China Earthquake ShakeMap.jpg|thumb|United States Geological Survey|USGS ShakeMap of the Ya'an earthquake mainshock intensity
+
+The '''Lushan earthquake''' or '''Ya'an earthquake''' (Tibetan: Yak-ngai Sayom ????????????????) occurred at 08:02 Beijing Time (00:02 Coordinated Universal Time|UTC) on April 20, 2013. The epicenter was located in Lushan County, Sichuan|Lushan County, Ya'an, Sichuan, about {{convert|116|km|abbr=on}} from Chengdu along the Longmenshan Fault in the same province heavily impacted by the 2008 Sichuan earthquake.
+
+== Effects ==
+The earthquake has resulted in 196 people dead, 24 missing, at least 11,826 injured with more than 968 seriously injured as of 5:00 PM (UTC+8h, April 20). The electricity service was interrupted, and the electricity grids in the counties of Baoxing County|Baoxing, Lushan, and Tianquan County|Tianquan disintegrated. A debris dam appeared in Jinjixia ({{lang|zh-hans|金鸡峡}}) of the Yuxi River ({{lang|zh|玉溪河}}) in Lushan. 2 volunteers were injured seriously in a traffic accident on the way to Lushan. However, around 60 giant pandas in the Wolong National Nature Reserve in Ya'an, were left unharmed by the devastating earthquake.
+
+=== Lushan ===
+
+The epicenter was located in Lushan. As of April 21, it was reported that 120 people died, 578 people were seriously injured, 5537 slightly injured, 278 saved from the ruins, and 3 still missing in Lushan County.
+
+=== Baoxing ===
+
+As of April 21, it was reported that 24 people died, 2500 were injured, and 19 missing in Baoxing County. Some rescuers had had to walk to Baoxing because major roads to there were cut off. On April 22, it was reported that the access to the county seat of Baoxing had been restored.
+
+== Rescue efforts ==
+
+About 8,000 soldiers from the People's Liberation Army were sent into to the stricken area in the immediate aftermath of the earthquake, as well as 1,400 provincial rescue workers and 120&nbsp;support&nbsp;vehicles. Also, 180 doctors from a Chinese emergency response team and search-and-rescue dogs were dispatched, with volunteers mobilized from other parts of the country.
+
+Chinese Premier Li Keqiang toured the area and emphasized the need for quick action. Officials warned that regional rainfall and aftershocks were factors complicating the rescue efforts, with potential secondary effects like additional landslides and further structural failure|building collapses being concerns. Impassible roads and damaged communications infrastructure posed substantial challenges to rescue efforts.
+
+To fund relief efforts, the One Foundation asked for donations, also beginning to accept donations in the virtual currency Bitcoin, in which it received an amount of $30,000 USD within a few days.
+
+=== Day of mourning ===
+
+On April 25, the provincial government of Sichuan announced that April 27 (seven days after the occurrence of Lushan earthquake) would be the day of mourning for those that passed in earthquake. The domestic media also mourned the passed in different ways. Baidu changed its background of the page to black. The social media also developed a special feature about the Lushan earthquake.
+
+== References ==
+
+{{Reflist|30em|refs=
+
+
+
+
+
+
+
+}}
+
+== External links ==
+{{Portal|China|Earthquakes}}
+*{{cite web | url = http://www.chinadaily.com.cn/china/2013sichuanquake/ | title = M7.0 earthquake strikes Ya'an, Sichuan (China Daily coverage)| publisher = China Daily}}
+*{{cite news | title = China Earthquake: LIVE UPDATES | date = Apr 20, 2013 | url = http://rt.com/news/china-earthquake-live-updates-129/ | publisher = RT}}
+*{{cite web | url = http://reliefweb.int/disaster/eq-2013-000046-chn | title = China: Earthquake - Apr 2013 updates and maps| publisher = ReliefWeb}}
+
+{{Earthquakes in 2013}}
+{{Earthquakes in China}}
+
+Category:2013 earthquakes
+Category:2013 disasters in China|earthquake
+Category:Earthquakes in China
+Category:History of Sichuan|Ya'an

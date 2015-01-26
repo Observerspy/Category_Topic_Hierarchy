@@ -1,0 +1,112 @@
+{{Infobox earthquake
+|title = 1987 Whittier Narrows earthquake
+|date = {{start-date|1 October 1987}}
+|origintime = 7:42 (PDT) 
+|map2 = {{Location map+ | California
+| places =
+{{Location map~|California|lat=36.18|long=-115.14|label=Las Vegas|position=left|mark=Green pog.svg}}
+{{Location map~|California|lat=34.05|long=-118.25|label=Los Angeles|position=left|mark=Green pog.svg}}
+{{Location map~|California|lat=35.27|long=-120.66|label=San Luis Obispo|position=left|mark=Green pog.svg}}
+{{Location map~|California|lat=32.72|long=-117.16|label=San Diego|position=right|mark=Green pog.svg}}
+{{Location map~|California|lat=36.18|long=-115.14|label=Las Vegas|position=left|mark=Green pog.svg}}
+{{Location map~|California|lat=34.051|long=-118.078|mark=Bullseye1.png|marksize=40}}
+| relief = yes
+| width = 250
+| float = right
+| caption = }}
+|duration = 
+|magnitude = 5.9 Local magnitude scale|M<sub>L</sub> 
+|intensity = VIII (''Destructive'') 
+|PGA = {{nowrap|.63''Peak ground acceleration|g'' at 7215 Bright Ave., Whittier }}
+|depth = {{convert|14|km|mi|abbr=on}} 
+|location = {{coord|34.061|N|118.078|W|region:US|display=inline, title}} 
+|type = Blind thrust earthquake|Blind thrust
+|countries affected = Southern California <br> United States
+|damage = $358 million 
+|aftershocks = {{nowrap|5.3 Richter magnitude|M<sub>L</sub> October 4 at 3:59 PDT }}
+|casualties = 8 killed 
+}}
+
+The '''1987 Whittier Narrows earthquake''' occurred in the southern San Gabriel Valley and surrounding communities of southern California at 7:42 a.m. (Pacific Time Zone|Pacific Daylight Time) on October 1. The moderate 5.9 magnitude blind thrust earthquake was centered several miles north of Whittier, California|Whittier in the town of Rosemead, California|Rosemead, had a relatively shallow depth, and was felt throughout southern California and southern Nevada. A large number of homes and businesses were impacted, along with roadway disruptions, mainly in Los Angeles County|Los Angeles and Orange County, California|Orange counties. Damage totals amounted to $358 million United States dollar|USD, with many injuries, three directly-related deaths, and five additional fatalities that were associated with the event.
+
+Mercalli intensity scale|Mercalli Intensity values for the greater Los Angeles area varied with ranges from VI (''Strong'') to VII (''Very Strong''). Only Whittier experienced a level of VIII (''Destructive''), the highest experienced during the event, with the historic uptown area suffering the greatest damage. A separate M5.3 Fault (geology)#Strike-slip faults|strike-slip aftershock occurred three days later and several kilometers to the northwest that also caused damage and one additional death. Because of the earthquake activity in the Los Angeles Metropolitan area, buildings and other public structures had been equipped with accelerometers, and both the mainshock and the primary aftershock provided additional data for seismologists to analyze and compare with other southern California events.
+
+==Tectonic setting==
+{{see also|Fold and thrust belt|Los Angeles Basin|Southern California faults}}
+
+Beginning with the 1983 Coalinga earthquake, a blind thrust event in the central California Coast Ranges|coast ranges of California, a change in perspective was brought about regarding these types of (concealed) faults. The October 1987 shock occurred on a previously unrecognized blind thrust fault that is now known as the Puente Hills Fault|Puente Hills thrust system. The fault was delineated by the mainshock and aftershock focal mechanisms, Reflection seismology|fault plane reflection studies, and high resolution seismic profiles, which also revealed that the fault runs from downtown Los Angeles to near Puente Hills. The system is considered a one of the highest risk faults in the United States due to its moderate Strike and dip|dip and its location under a large metropolitan area.
+
+==Earthquake==
+{{see also|List of earthquakes in California}}
+
+The main shock occurred near the northwestern border of the Puente Hills {{convert|3|km|sp=us}} north of the Whittier Narrows at a depth of {{convert|14|km|sp=us}}. First motion polarities, along with modelling of teleseismic P-wave|P and S-waves, established that the thrust fault responsible for the shock strikes east-west with a dip of 25° dip to the north. The shock was located adjacent to the west-northwest striking Whittier fault, which is primarily a strike-slip fault, but also has a minor thrust component.
+
+File:USGS Shakemap - 1987 Whittier Narrows earthquake.jpg|thumb|USGS ShakeMap for the Whittier Narrows mainshock
+
+Although most of the Los Angeles metropolitan area saw shaking in line with Mercalli Intensity values of VI (''Strong'') or VII (''Very Strong''), Whittier experienced effects consistent with MMI values of VIII (''Destructive''). The old commercial district saw the worst damage, as these were the oldest buildings, and were also heavily damaged in the 1929 Whittier earthquake, a shock may have been a result of movement on the Norwalk Fault.
+
+===Damage===
+The 7:42 a.m. shock was the strongest in the Los Angeles area since the 1971 San Fernando earthquake and was felt as far as San Diego and San Luis Obispo, California and Las Vegas, Nevada. Communication systems and local media were temporarily impaired and power was cut, leaving numerous early morning workers stranded in disabled elevators. Other minor disruptions included a number of water and gas main breaks, shattered windows and some ceiling collapses. Like the San Fernando earthquake, transportation systems were again affected, but this time it was only the Santa Ana Freeway and San Gabriel River Freeways that were closed near Santa Fe Springs, California|Santa Fe Springs after pieces of concrete were dislodged and cracks were observed in the roadway. LAC+USC Medical Center|Los Angeles County+USC Medical Center took a large number of the injured, whose injuries were summarized by an emergency room spokesman as very bad to minor, and three people died as a direct result.
+
+While total casualties amounted to eight, the destruction of homes was significant. Throughout Los Angeles, Orange, and Ventura County, California|Ventura counties, 123 homes and 1,347 apartments were destroyed, and an additional 513 homes and 2,040 apartments were damaged. An inspection of a highway bridge on Interstate 605 revealed that there were fractures on the support columns, which resulted in a temporary closure, and minor damage affected 28 other bridges. Other typical failures included more than 1,000 gas leaks, with many resulting in fire, ceramic elements on high-voltage substation equipment breaking, and phone systems becoming overwhelmed.
+
+===Strong motion===
+Caltech scientists recorded the events on a cluster of twelve strong motion sensors that were placed throughout the region with a total of 87 channels of recorded data. Nine of these instruments were located on the Caltech campus, two were at the nine story Jet Propulsion Laboratory building 180 (ten miles northwest of the campus) and the final device was placed on a hillside 5&nbsp;km to the west. Investigation of the accelerograms from these units revealed the strongest shaking lasted 4–5 seconds. The vertical accelerations were considered relatively high and early analysis (pre-digitilization) indicated that the mainshock was complex, with a double train of P-waves arriving with a 1.4–1.8 second interval.
+
+The National Strong-Motion Instrumentation Network (NSMIN) (a cooperative effort including the United States Geological Survey and other organizations) also monitored a set of 52 strong motion stations in the Los Angeles area. Most of the stations successfully captured the event, and the closest unit to the mainshock, a rock site at Garvey Reservoir, recorded a peak horizontal acceleration of .47''g''. A twelve-story steel frame building in Alhambra, California|Alhambra was outfitted with accelerographs in the basement, at mid-level, and at the top of the structure. The top floor instruments recorded a peak acceleration of .18''g'' during the 1971 San Fernando earthquake and instruments on the sixth floor recorded a peak acceleration of .47''g'' at the time of the Whittier mainshock. A ten-story reinforced concrete building in Whittier (7215 Bright Ave.) saw a peak horizontal reading of .63''g'' in the basement.
+
+===Aftershocks===
+{| style="float: right;" border="3" 
+|-
+| colspan="3" style="text-align: center;" | Aftershocks
+|-
+! Mag !! Date !! MMI
+|-
+| 5.3 M<sub>L</sub>
+| Oct 4, 1987 at 10:59
+| VII
+|-
+| 4.7 M<sub>L</sub>
+| Feb 11, 1988 at 15:25
+| VI
+|-
+| colspan="3" style="text-align: center;" | <small> Stover & Coffman 1993, pp.&nbsp;98, 178–180</small>
+|}
+
+A magnitude 5.3 aftershock occurred three days later on October 4, causing additional damage in Alhambra, California|Alhambra, Pico Rivera, California|Pico Rivera, Los Angeles, and Whittier. The shock's effects were assessed at VII (''Very Strong'') on the Mercalli Intensity Scale with damaged chimneys, broken windows, and the collapse of two bell towers at the San Gabriel Civic Auditorium. This event was also responsible several injuries and one additional death. On February 11 of the following year another small aftershock again damaged chimneys, broke windows, cracked drywall and some homes' foundations in Pico Rivera, Pasadena, and Whittier.
+
+The October 4 aftershock struck {{convert|3|km|sp=us}} to the northwest of the mainshock, and was primarily a Fault (geology)#Strike-slip faults|strike-slip event on a steeply dipping, northwest-striking fault. The origin of faulting for this event was at a depth of {{convert|12|km|abbr=on}}, which places it within the hanging wall of the thrust fault that was responsible for the main shock.
+
+This aftershock was recorded on thirty of the NSMIN stations at distances of up to {{convert|57|km|sp=us}}. The majority of the stations were located in buildings, but nine were located at dams or reservoirs, and four were at United States Department of Veterans Affairs|Veterans Administration buildings. Lighter accelerations were observed than the main shock, with peak accelerations in the range of .15''g''–.33''g'', all occurring at six stations that were within {{convert|12|km|sp=us}} of the epicenter.
+
+==Other events==
+The 1929 Whittier earthquake occurred on July 8 with a local magnitude of 4.7 and maximum perceived intensity of VII (''Very Strong'') on the Mercalli Intensity scale. The shock occurred at a depth of {{convert|13|km|sp=us}} and was most intense to the southwest of the city, where a school and two homes were heavily damaged and other homes sustained chimney collapses. In Santa Fe Springs, oil towers were damaged and some short cracks appeared in the ground. This earthquake was felt from Mount Wilson (California)|Mount Wilson to Santa Ana, California|Santa Ana, and from Hermosa Beach, California|Hermosa Beach to Riverside, California|Riverside. Numerous aftershocks occurred in the first several hours and persisted through early 1931.
+
+==Aftermath==
+In order to gather funds to help the rebuilding effort, the city of Whittier approved the establishment of a 521-acre earthquake recovery redevelopment area. Through this initiative, property tax revenue is directed to the city rather than to the county and schools, the originally designated recipients. The arrangement will remain in effect until the year 2037. 
+
+A nonprofit organization called the Whittier Conservancy was formed shortly after the Whittier Narrows earthquake. The group aids in the preservation of the city's historical style of construction. During the earthquake, several notable buildings were destroyed, including the Harvey Apartments. They were built with bricks that appeared to have been made by hand during the 19th century; the mud used to make them came from the San Gabriel River (California)|San Gabriel River.  The Conservancy felt that these bricks were worth saving, not only for the historical value, but also for their aesthetics.
+
+Some effort was made to save and use the bricks for rebuilding the historic apartment on the corner of  Greenleaf Avenue and Hadley Street. They spent $15,000 to prevent the usable bricks from being taken during the final demolition of the building.  The bricks were then cleaned, then stored until they could be used in the rebuilding of the apartment.  The Whittier Conservancy also collaborated in the rezoning of the Hadley neighborhood and was able to help control the rate of new Multi-family residential|multiple-family dwelling construction.
+
+==References ==
+{{Reflist|30em}}
+
+;Bibliography
+{{refbegin}}
+* {{citation|last1=Stover|first1=C. W.|last2=Coffman|first2=J. L.|title=Seismicity of the United States, 1568-1989 (Revised)|series=U.S. Geological Survey Professional Paper 1527|url=http://books.google.com/books?id=bY0KAQAAIAAJ&printsec=frontcover&dq=seismicity+of+the+united+states&hl=en&sa=X&ei=wOqeUIjiI4XBiwKVvIHYDg&ved=0CDcQ6AEwAQ#v=onepage&q&f=false|year=1993|publisher=United States Government Printing Office}}
+{{refend}}
+
+== External links ==
+*http://www.data.scec.org/significant/whittier1987.html Whittier Narrows earthquake – Southern California Earthquake Center
+*http://earthquake.usgs.gov/earthquakes/states/events/1987_10_01.php Whittier Narrows, California - 1987 October 01 UTC 14:42 - Magnitude 5.9 – United States Geological Survey|USGS
+*http://earthquake.usgs.gov/regional/states/events/1987_10_04.php Whittier Narrows, California - 1987 October 04 10:59:38 UTC - Magnitude 5.6 – United States Geological Survey|USGS
+
+{{Earthquakes in 1987}}
+{{Significant earthquakes in California}}
+
+{{DEFAULTSORT:1987 Whittier Narrows Earthquake}}
+Category:Earthquakes in California|W
+Category:Whittier, California|Earthquake
+Category:1987 earthquakes|Whittier Narrows
+Category:1987 in the United States

@@ -1,0 +1,45 @@
+{{Infobox earthquake
+|title = 1997 Jabalpur earthquake
+|date = {{start-date|May 22, 1997|May 22, 1997}}
+|map2 = {{Location map | India
+ | relief = yes
+ | label =
+ | lat = 23.18
+ | long = 80.02
+ | mark = Bullseye1.png
+ | marksize = 40
+ | position = top
+ | width = 250
+ | float = right
+ | caption = }}
+|magnitude = 6.0 Richter magnitude scale|M<sub>w</sub>
+|depth = {{convert|35|km|mi|0}}
+|location = {{coord|23.18|N|80.02|E}}
+|countries affected = {{IND}}
+|casualties = 39 dead
+}}
+
+The '''1997 Jabalpur earthquake''' occurred on May 22, 1997 in Jabalpur District in the Indian state of Madhya Pradesh. According to geologist Dr V. Subramanyan,  former professor at the Indian Institute of Technology Bombay (IIT Bombay), the quake was caused due to the presence of Narmada Fault (geology)|Fault.
+
+==Damage and casualties==
+Major damages occurred in structures in the Jabalpur District, Mandla District, Seoni District and Chhindwara District in Madhya Pradesh. Jabalpur and Mandla were the worst affected districts. A total of 887 villages were affected, approximately 8546 houses collapsed and nearly 52,690 houses were partially damaged. The death toll was 39 and 350 were injured. The quake was followed by little aftershock activity and the aftershocks did not cause any damage. Longitudinal ground cracks were observed in some locations of the affected area.
+
+The affected region consisted of both rural and urban areas and the campus of the Jawaharlal Nehru Agricultural University was the worst affected structure in the urban area. Diagonal cracks occurred in walls, buildings were partially collapsed and the hostel for postgraduate students was severely damaged. Approximately 1500 houses owned by the Indian Railways were damaged. In Jabalpur, a 500,000 gallon-capacity shaft-supported water tank for storage and distribution of drinking water sustained both horizontal cracking and diagonal cracking. Some Earthen dam#Earth-fill dams|earthen dams located in the districts of Jabalpur and Mandla reportedly developed longitudinal cracks.
+
+==Relief efforts==
+The search and rescue operation after the earthquake was relatively small. Immediately after the quake, only raw materials for food were supplied to the victims rather than cooked food because of the summer heat. The Indian Army was called-in to aid. Many people were given cloth tents as temporary shelters. In rural areas persons whose houses had collapsed were provided with 18 wooden posts and 50 wooden purlins for reconstruction and cash assistance of 3000 Indian rupee|rupees.
+
+==See also==
+*Earthquake hazard zoning of India
+
+==References==
+{{Reflist}}
+
+{{Earthquakes in 1997}}
+
+{{DEFAULTSORT:Jabalpur Earthquake}}
+Category:Earthquakes in India|1997 Jabalpur
+Category:1997 in India
+Category:History of Madhya Pradesh (1947–present)
+Category:1997 earthquakes
+Category:Jabalpur

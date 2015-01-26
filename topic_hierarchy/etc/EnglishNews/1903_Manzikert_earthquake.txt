@@ -1,0 +1,58 @@
+{{Infobox earthquake
+|title              = 1903 Manzikert earthquake
+|image              = 
+|image alt          = 
+|imagecaption       =
+|map                = 
+|map alt            = 
+|image name         =
+|map2               = {{Location map | Turkey |relief=1
+ | label=
+ | lat=39.14
+ | long=42.65
+ | mark=Bullseye1.png
+ | marksize=50
+ | position=top
+ | width= 250
+ | float=right
+ | caption=}}
+|caption            =
+|date               = {{Start date|1903|4|28|df=yes}}
+|origintime         =
+|duration           =
+|magnitude          = 7.0 (Surface wave magnitude|M<sub>s</sub>)
+|depth              = 
+|location           = {{coord|39.14|42.65|type:event_region:TR|display=inline,title}}
+|type               =
+|countries affected = {{flag|Turkey}}
+|damage             = 12,000 homes destroyed
+|intensity          =
+|tsunami            = none
+|landslide          =
+|aftershocks        = one
+|casualties         = 3,500 humans and 20,000 livestock killed
+}}
+The '''1903 Manzikert earthquake''' struck Malazgirt|Manzikert of nowadays Mu? Province in Eastern Anatolia Region|eastern Turkey on 28 April 1903. Registering a surface wave magnitude of 7.0, the earthquake originated from a highly active seismic zone. It killed 3,500 people and 20,000 animals, destroyed 12,000 homes, and is now listed among the world's deadliest earthquakes in recorded history. To this day, Turkey is threatened by major earthquakes – more than 100 earthquakes over 7.0 have taken place in the country's known history.
+
+== Geology ==
+File:Anatolian Plate.png|thumb|right|260px|Diagram of the major faults of Turkey.
+The country of Turkey is situated on a highly active section of the Eurasian Plate boundary. The country is mainly mountainous, approximately 85 percent of the country is at an elevation of {{convert|450|m|ft|0|abbr=on}} or more. The entire country lies within a zone of active deformation known as the Alpide belt. This zone of continental collision reaches from the Atlantic Ocean to the Himalaya Mountains and beyond; dating back to the Paleogene period. It has formed due to convergent boundary|convergent movement between the Arabian Plate|Arabian, African Plate|African, and Indian Plate|Indian continental plates and the Eurasian plate. The Anatolian Plate is currently being squeezed out to the west by the ongoing collision between the Arabian plate and the Eurasian Plate, bounded to the southeast by the East Anatolian Fault and to the north by the North Anatolian Fault. To the east of the junction of these two faults, the Arabian Plate is in direct collision with the Eurasian Plate. This area is characterised by thrust faulting and was the area in which the 1903 event occurred.
+
+== Damage and casualties ==
+Among the world's deadliest earthquakes, the earthquake caused 3,500 direct fatalities. 20,000 animals (other than humans) were killed in the epicentral region of Manzikert-Patnos. Damage to a lesser extent reached Erzurum and Bitlis. On August 6, additional damage took place and people were injured when an aftershock rocked the same region.
+
+== Threat ==
+Major earthquakes have taken place in the country as early as 411 B.C. In the 20th century, 58 major destructive earthquakes took place – in total, they have killed more than 100,000 people, injured 150,000, and desolated approximately 420,000 homes and buildings. More than 100 earthquakes registering Richter scale magnitudes over 7 have taken place in the country historically.
+
+== References ==
+{{reflist|colwidth=30em}}
+
+{{Earthquakes in Turkey}}
+
+{{DEFAULTSORT:Manzikert 1903}}
+Category:1903 in science
+Category:Earthquakes in Turkey|1903 Manzikert
+Category:History of Mu? Province|1903
+Category:1903 in the Ottoman Empire
+Category:1903 earthquakes
+Category:History of Mu?|1903

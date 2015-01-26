@@ -1,0 +1,66 @@
+{{Infobox earthquake
+| title              = 1976 Moro Gulf earthquake
+| image              = Tsunami hit lebak.jpg
+| imagecaption       = Tsunami damage at Lebak, Sultan Kudarat|Lebak, Mindanao
+| date               = August 16, 1976 UTC<br>August 17, 1976 Time in the Philippines|PST
+| origintime         = 16:11 UTC  <br> 00:11 PST 
+| map2               = {{Location map | Philippines
+ | relief = yes
+ | label =
+ | lat = 6.29
+ | long = 124.09
+ | mark = Bullseye1.png
+ | marksize = 40
+ | position = top
+ | width = 250
+ | float = center
+ | caption = }}
+| magnitude          = moment magnitude scale|M<sub>w</sub> 8.0 
+| depth              = {{convert|59|km|mi|0|abbr=on}} 
+| location           = {{coord|6.29|N|124.09|E|type:event_region:PH|display=inline,title}} 
+| countries affected = The Philippines
+| tsunami            = yes
+| aftershocks        =
+| intensity          = 
+| casualties         = between 5,000 and 8,000 killed
+}}
+
+The '''1976 Moro Gulf earthquake and tsunami''' took place on August 16, 1976, at 16:11 UTC (on August 17, 1976, at 00:11 local time), near the islands of Mindanao and Sulu Island|Sulu, in the Philippines. Its Richter magnitude scale|magnitude was calculated as being as high as 8.0 on the moment magnitude scale. The epicenter was in the Celebes Sea between the islands of Mindanao and Borneo. The Pacific Tsunami Warning Center's preliminary magnitude was given as 8.0 on the Richter scale and as 7.9 by other sources. There were many aftershocks following the main earthquake. A major aftershock on August 17 (local date) had a magnitude of 6.8. It was followed by at least fifteen smaller aftershocks.
+
+==Effects==
+The initial earthquake was widespread and was felt as far as the central Philippine islands of the Visayas. A massive tsunami devastated 700 kilometers of coastline bordering the Moro Gulf in the North Celebes Sea, resulting in destruction and death in the coastal communities of the Sulu Archipelago and southern Mindanao, including Zamboanga City and Pagadian City. At least 5000 people died during the earthquake and tsunami, with thousands more remaining missing. Some reports say that as many as 8,000 people lost their lives in total, with ninety percent of all deaths the result of the following tsunami.
+
+Initially over 8,000 people were officially counted as killed or missing, 10,000 injured, and 90,000 homeless, making the 1976 Moro Earthquake and Tsunami one of the most devastating disasters in the history of the Philippine Islands. Based on the investigation on the affected region it was confirmed that the waves reached up to {{convert|4|to|5|m}} when they hit the areas. There were reports of weak tsunami activity as far as Japan, as well as Indonesian Hydrographic Office reports of unusual wave activity affecting the islands of Sulawesi (Celebes Island) and Borneo.
+
+In Zamboanga City, 14 buildings were partially damaged. Zamboanga City was spared from serious damage of the tsunami triggered by this earthquake because the Basilan Island and the Santa Cruz Islands served as a buffer and deflected waves.
+
+==Response==
+File:Lebak Tsunami.jpg|230px|thumbnail|Tsunami damage at Lebak, Sultan Kudarat|barangay Tibpuan, Lebak, Mindanao
+
+===Warnings===
+The Pacific Tsunami Warning Center (PTWC) in Honolulu issued a Tsunami Watch for the Pacific and queried tide gauge stations in Okinawa, Yap and Malakal. Based on negative reports from these stations, the watch was cancelled. Unfortunately, minutes after the earthquake, a large local tsunami struck the region. There was no time to issue a local warning.
+
+===Aid response===
+The Philippine Government sent out aid and support as soon as news reached Manila. Later a team of US and Filipino geologists and officials surveyed the disaster zone with the help of the Philippine Air Force. The objective of the survey was to obtain measurements of the tsunami wave heights, extent of inundation and gather additional information on the earthquake and the tsunami and its effects in the region.
+
+===Aftermath===
+The earthquake occurred at night, when offices and schools in Cotabato City|Cotabato, Zamboanga City|Zamboanga and other cities were unoccupied, therefore the loss of life was greatly reduced. Pagadian City|Pagadian, on the other hand, was the only city hardest hit by the tsunami that followed. Although the earthquake had a large magnitude, surprisingly, it produced little ground deformation on land areas. However, there was extensive earthquake damage to buildings, bridges and roads in Mindanao and particularly in the city of Cotabato.
+
+==Tectonic summary==
+Several fault zones in the region are capable of producing major earthquakes and destructive local tsunamis. The two major fault zones that are most dangerous are the Sulu Trench in the Sulu Sea and the Cotabato Trench, a region of subduction that crosses the Celebes Sea and the Moro Gulf in Southern Mindanao. According to the PHIVOLCS historical catalog of earthquakes for the last 100 years, this region of the southern Philippines is characterized by moderate to high seismicity. The most recent earthquake along the Cotabato Trench region of subduction being the March 6, 2002 earthquake in Southern Mindanao.
+
+==References==
+{{reflist|refs=	
+ 	
+}}
+
+==External links==
+* http://www.phivolcs.dost.gov.ph Philippines Institute of Vulcanology and Seismology 
+
+{{Earthquakes in the Philippines}}
+
+{{DEFAULTSORT:Moro Gulf Earthquake}}
+Category:Megathrust earthquakes in the Philippines|1976 Moro
+Category:1976 in the Philippines
+Category:1976 earthquakes
+Category:20th-century tsunamis|1976 Moro

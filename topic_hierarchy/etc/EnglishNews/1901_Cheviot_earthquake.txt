@@ -1,0 +1,47 @@
+{{Use dmy dates|date=May 2012}}
+{{Use New Zealand English|date=May 2012}}
+{{Earthquake
+|title= 1901 Cheviot earthquake
+|map2= {{Location map| New Zealand
+ |position=none
+ |lat =-42.81  
+ |long =173.26
+ |width= 225
+ |float=center
+ |mark=Bullseye1.svg
+ |marksize=40
+ |caption=
+ |relief=yes}}
+|date= {{start-date|16 November 1901}}
+|magnitude=6.9
+|depth=33 km
+|countries affected= New Zealand, South Island
+|casualties=1 death
+}}
+The '''1901 Cheviot earthquake''' occurred at 07:47 NZT on 16 November 1901 with an estimated magnitude of 6.9 centred near the township of Cheviot, New Zealand|Cheviot in the Canterbury Region of New Zealand.
+
+== Damage & casualties ==
+File:McTaggart's butcher shop after earthquake, Cheviot.jpg|thumb|left|McTaggart's butcher shop in Cheviot after the earthquake
+A baby was killed when a sod hut collapsed.<!-- Need better ref. --> Other casualties in the Canterbury region are not known.
+
+== Damage outside Cheviot ==
+The ChristChurch Cathedral experienced some damage with this earthquake. The top of the spire fell again as a result of the 16 November 1901 Cheviot earthquake. This time, the stone construction was replaced with a more resilient structure of Australian hardwood sheathed with weathered copper sheeting, with an internal mass damper.<br />
+Observations of sand blows (sand volcano) and lateral spreading, consistent with soil liquefaction phenomena in the township of Kaiapoi were reported in local newspapers in a two to three block area at the eastern end of Charles and Sewell Streets on the north bank of the Kaiapoi River, in addition to similar effects observed on the opposing river bank, and the road to Belfast.
+
+==See also==
+*List of earthquakes in New Zealand
+
+==References==
+{{Commons category|1901 Cheviot earthquake}}
+{{Reflist}}
+
+{{Coord|42.81|S|173.26|E|display=title}}
+
+{{Earthquakes in New Zealand}}
+{{Christchurch earthquakes}}
+
+Category:Hurunui District
+Category:Earthquakes in New Zealand|1901 Cheviot earthquake
+Category:1901 in New Zealand|Cheviot Earthquake, 1901
+Category:1901 earthquakes|Cheviot Earthquake, 1901
+Category:History of the Canterbury Region

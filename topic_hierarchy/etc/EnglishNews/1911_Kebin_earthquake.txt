@@ -1,0 +1,52 @@
+{{Use dmy dates|date=January 2012}}
+{{Earthquake
+|title= 1911 Kebin earthquake
+|date= {{Start-date|df=yes|3 January 1911}}
+|map2 = {{Location map | Kazakhstan
+ | label=
+ | lat=43.5
+ | long=77.5
+ | mark=Bullseye1.png
+ | marksize=40
+ | position=top
+ | width= 250
+ | float=right
+ | caption=
+ | relief=yes}}
+|magnitude = 7.7 Moment magnitude scale|M<sub>w</sub>
+|depth=25 km
+|location={{coord|43.5|77.5|display=inline,title}}
+|countries affected = Kazakhstan, Kyrgyzstan
+|tsunami = 
+|casualties = 450
+}}
+File:Issyk Kul.png|thumb|260px|Main geological structures around Issyk Kul lake with zones of ground ruptures from the 1911 earthquake shown in yellow
+
+The '''1911 Kebin earthquake''', or '''1911 Chon-Kemin earthquake''', struck Russian Turkestan on 3 January. Registering at a 7.7 Moment magnitude scale|magnitude, it destroyed more than 770 buildings (which was almost all of the city) in Almaty, Kazakhstan, and resulted in {{convert|125|mi|km|0}} of surface faulting in the valleys of Chon-Kemin Valley|Chon–Kemin, Chilik Valley|Chilik and Chon-Aksu.
+
+==Damage==
+Most of the region's inhabitants lived in yurts, which are relatively resistant to earthquakes and unlikely to cause deaths even if they do collapse. The greatest damage and most of the casualties resulted from landslides triggered by the earthquake, with 452 people killed and another 740 people injured. One thousand and ninety four houses and 4,545 yurts were destroyed by the earthquake and the resulting landslides.
+
+==Tectonic setting==
+The Tien Shan mountains form part of the broad zone of deformation associated with the continuing Continental collision|collision between the Indian Plate and the Eurasian Plate. In the region around Issyk Kul, the tectonic regime is a combination of Thrust tectonics|thrusting and sinistral Strike-slip tectonics|strike-slip. The lake is a depression bounded to both north and south by opposite verging thrust faults, while the major Chon-Kemin&ndash;Chilik strike-slip fault runs along the linear valleys to the north.
+
+== Characteristics ==
+In the Chong-Kemin and Chilik valleys, and on the shoreline of Issyk Kul, a complex zone of surface ruptures was identified by fieldwork immediately following the earthquake. Two main zones of rupture were noted, one complex zone along the Chon-Kemin and Chilik valleys, the other along the Chon-Aksu valley.
+
+===Chon-Kemin Chilik rupture zone===
+This complex zone of ruptures has four main segments: the 20&nbsp;km long Dzhil'-Aryk, the 62&nbsp;km long Lower Chon-Kemin, south side, the 40&nbsp;km long Lower Chon-Kemin, north side and the 66&nbsp;km long Upper Chon-Kemin-Chilik zone. The Dzhil'-Aryk segment shows evidence of reverse faulting on a south-dipping fault plane, with no clear evidence of lateral movement. The sense of displacement along the rest of the near-vertical Chon-Kemin and Chilik rupture zone was dominantly of sinistral (left lateral) strike-slip with minor amounts of reverse faulting, with between one and three metres of vertical displacement. Left-lateral displacements of up to 40 m recognised from the offset of river channels, represent cumulative displacements and no separate estimates have been obtained for the 1911 event.
+
+===Chon-Aksu Aksu rupture zone===
+This zone has two parts: the 40&nbsp;km long Chon-Aksu segment and the 34&nbsp;km long Aksu segment. Along the Chon-Aksu valley the movement was dominantly reverse in type along a 60° north-dipping reverse fault, with up to 10.5 m vertical displacement and at most 1 m horizontal displacement, from the lack of observed offset of river thalwegs. The outcrop pattern of the Aksu segment rupture indicates a low-angle thrust fault|thrust, possibly steepening with depth, with a maximum vertical offset or 3&ndash;5 m, decreasing steadily to the east.
+
+===Landslides===
+Many landslides and rock avalanches were triggered by the earthquake and are associated with the mapped zones of surface rupture.
+
+== References ==
+{{reflist|colwidth=30em}}
+
+Category:Earthquakes in Russia
+Category:Earthquakes in Kazakhstan
+Category:Earthquakes in Kyrgyzstan
+Category:1911 in Russia|Earthquake
+Category:1911 earthquakes|Russia

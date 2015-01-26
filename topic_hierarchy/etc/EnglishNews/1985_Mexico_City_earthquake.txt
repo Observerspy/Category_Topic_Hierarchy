@@ -1,0 +1,224 @@
+{{Use dmy dates|date=February 2012}}
+{{Infobox earthquake
+|title              = 1985 Mexico City earthquake
+|date               = {{Start date|1985|09|19|df=yes}}
+|image              = 1985 Mexico Earthquake - Collapsed General Hospital.jpg
+| image alt = Mexico city – Collapsed General Hospital
+| imagecaption = Mexico City – Collapsed General Hospital of Mexico|General Hospital
+| map = 
+| map alt = Map showing the epicenter of the earthquake
+| image name = 
+| map2 = {{Location map+|Mexico|relief=yes|width=250|float=center|border=none|caption=Map showing the epicenter of the earthquake
+|places=
+{{Location map~|Mexico|lat=17.6|long=-102.5|mark=Bullseye1.png|marksize=50|position=top}}
+{{Location map~|Mexico|lat=17.6|long=-102.5|position=left|mark=Green pog.svg}}}}
+|magnitude          = 8.3 Moment magnitude scale|M<sub>w</sub> (8.0 Richter magnitude scale|M<sub>L</sub>)
+|depth              =
+|location           = {{coord|17.6|N|102.5|W}}
+|countries affected = Mexico
+|tsunami            = Yes (2+ meters)
+|source             = http://www.ssn.unam.mx/
+|casualties         = 10,153–40,000 (see below)
+}}
+
+The '''1985 Mexico City earthquake''' was a Richter magnitude scale|magnitude 8.1 earthquake that struck some states of Mexico and Mexico City on the early morning of 19 September 1985 at around 7:19&nbsp;am (CST), caused the deaths of at least 10,000 people and serious damage to the Greater Mexico City Area. The complete seismic event consisted of four quakes. A pre-event quake of magnitude 5.2 occurred on 28 May 1985. The main and most powerful shock occurred 19 September, followed by two aftershocks: one on 20 September 1985 of magnitude 7.5 and the fourth occurring seven months later on 30 April 1986 of magnitude 7.0. The quakes were located off the Mexican Pacific coast, more than {{convert|350|km|mi}} away, but due to strength of the quake and the fact that Mexico City sits on an old lakebed, Mexico City suffered major damage. The event caused between three and four billion USD in damage as 412 buildings collapsed and another 3,124 were seriously damaged in the city. While the number is in dispute, the most-often cited number of deaths is an estimated 10,000 people but experts agreed that it could be up to 40,000.
+
+==The seismic event==
+File:Cocos-Caribbean.jpg|thumb|Map showing Cocos and Caribbean plates
+
+The earthquake occurred in the Pacific Ocean, off the coast of the Mexican state of Michoacán, a distance of more than 350&nbsp;km (217&nbsp;mi)  from the city, in the Cocos Plate subduction zone, specifically in a section of the fault line known as the Michoacán seismic gap at coordinates 18.190 N 102.533 W. This subduction zone outside the Michoacán gap was the source of 42 earthquakes of magnitude 7.8 or stronger in the 20th century prior to the 1985 event. Shockwaves from the earthquake hit the mouth of the Río Balsas on the coast at 7:17&nbsp;am and hit Mexico City, 350&nbsp;km (217&nbsp;mi) away, two minutes later at 7:19&nbsp;am. with an average shaking time of 3–4 minutes. It is estimated the movement along the fault was about three meters. The main tremor was foreshadowed by a quake of magnitude 5.2 on 28 May 1985, and was followed by two significant aftershocks: one on 20 September 1985 of magnitude 7.5 lasting thirteen seconds and the third occurring seven months later on 30 April 1986 with magnitude 7.0 lasting ten seconds. However, at least twelve other minor aftershocks were associated with the seismic event.
+
+The energy released during the main event was equivalent to approximately 1,114 nuclear weapons exploding.
+
+In the port of Lázaro Cárdenas, Michoacán|Lázaro Cárdenas, near the epicenter, the 19 September event registered as IX on the Mercalli intensity scale|Modified Mercalli Intensity scale; in parts of Mexico City, it registered the same, even at a distance of about 400&nbsp;km (249&nbsp;mi) away. There was no historic record of such a strong quake in Mexico.
+
+While the fault line was located just off the Pacific coast of Mexico, there was relatively little effect on the sea itself. The earthquake did produce a number of tsunamis but they were small, ranging between one and three meters (3 to 10&nbsp;ft) in height. Ecuador reported the highest waves of 60&nbsp;cm (2&nbsp;ft).
+
+==Mexico City's vulnerability to earthquakes==
+
+Much of Mexico's volcanic and seismic activity stems from the movement of the North American plate against the Cocos and Pacific plates and it is one of the most active trenches in the world. Each year more than 90 temblors above magnitude 4.0 are recorded in this zone.
+
+While not on or near any fault line like San Francisco or Los Angeles, Mexico City is vulnerable to earthquakes. The main reason for this is the surface geology of the area, especially the downtown area. The city grew from an island in the middle of Lake Texcoco outward, as this lake was eventually drained. The near surface geology of this area is classified into three sections: the old lake bed which is soft clay from volcanic ash with a high water content, a piedmont area, much of which is capped by 5 to 30 meters of lava less than 2,500 years old, and an old river delta area.
+
+On the bed of the historic lake, the prevailing silt and volcanic clay sediments amplify seismic shaking. Damage to structures is worsened by soil liquefaction which causes the loss of foundation support and contributes to dramatic settlement of large buildings.
+Mexico City's downtown area mostly lies on the silt and volcanic clay sediments of the bed of the historic Lake Texcoco, which are between seven and thirty-seven meters deep and have a high water content. Above this is a layer of sand and above this is a layer of sand and rock. The western and northwestern parts of the city are outside the old lakeshores and are located on sands from eroding volcanic cones that surround the Valley of Mexico. The southern part of the city rests on hardened basalt lava flows. The old lakebed, with its high water content, is easily moved or compressed. The old lakeshore area also has a fairly high water content, allowing movement, though not as much as the lakebed. The old lava flows have little water content or movement in comparison and are therefore stable.
+
+Another factor is that the old lakebed resonates with certain seismic waves and low frequency signals. This lakebed has a natural "pitch" of one cycle every 2.5 seconds making everything built on the bed vibrate at the same frequency. Unfortunately, this is the same "pitch" as a number of shallow earthquake waves.
+
+However, only certain types of structures are vulnerable to this resonance effect. Taller buildings have their own frequencies of vibration. Those that are six to fifteen stories tall also vibrate at the 2.5-second cycle, making them act like tuning forks in the event of an earthquake. The low-frequency waves of an earthquake are amplified by the mud of the lakebed, which in turn, is amplified by the building itself. This causes these buildings to shake more violently than the earthquake proper as the earthquake progresses. Many of the older colonial buildings have survived hundreds of years on the lakebed simply because they are not tall enough to be affected by the resonance effect.
+
+==Damage from the earthquake==
+
+===Localization of the damage===
+Mexico City is divided into Boroughs of the Mexican Federal District|boroughs. Eighty percent of the earthquake damage was confined to four of them: Venustiano Carranza, D.F.|Venustiano Carranza, Cuauhtémoc, D.F.|Cuauhtémoc, Benito Juárez, D.F.|Benito Juárez and Gustavo A. Madero, D.F.|Gustavo A. Madero.
+
+===Building damage in the city===
+Cuauhtémoc, which includes the Centro (Mexico City)|historic downtown, suffered the most damage. In this particular area, 258 buildings completely crumbled, 143 partially collapsed and 181 were seriously damaged. The next seriously affected area was Venustiano Carranza where 83 buildings collapsed, 128 partially collapsed and 2,000 structures were seriously damaged. The Metropolitan Commission for Emergencies of the Federal District reported 2,831 buildings damaged for the entire city: 31% or 880 were completely ruined, 13% were reinhabitable with major repairs and the rest, totaling 1581, were recoverable with minor repairs. This translates to more than 30,000 housing units completely destroyed and another 68,000 units damaged.
+
+===Infrastructure===
+Infrastructure was severely affected. The number of people with potable water went from six million to 90,000. as 6,500 meters of primary and secondary water and drainage pipes suffered breaks in 163 places, cutting off water and contaminating it. 516,000m<sup>2</sup> of asphalt was damaged, and 137 schools collapsed. The number of jobs lost due to the event was estimated at 200,000. Forty percent of the population was without electricity and seventy percent without telephone service.
+
+1,687 school buildings were damaged. Interruption of classes, either to the lack of facilities and/or the need to help with rescue efforts, affected over 1.5 million students.
+
+====Metro service====
+On the day of the quake, the Mexico City Metro|Metro stopped service and completely shut down for fear of electrocution. This caused people to get out of the tunnels from wherever they were and onto the street to try to get where they were going.
+
+===Damage to hospitals===
+The area most severely hit by the earthquake had the highest concentration of hospitals. Most of the damages occurred in secondary and tertiary hospitals. Thirteen hospitals of six or more floors were partially or totally destroyed, most of these public institutions. One out of every four then-available beds were lost.
+
+The National Medical Center of the Mexican Social Security Institute (Mexican Social Security Institute|IMSS) was considered the most important hospital complex in Latin America with over 2,300 beds and the largest medical library in the country. It had to be evacuated because all of its 25 buildings suffered severe damage. Most of the beds that it lost were dedicated to tertiary, high-technology care. The ISSSTE hospital for government workers lost 36 percent of its capacity. The 2,158 beds of the Ministry of Health (SSA) were lost, representing 43 percent of its capacity in the city. This included the 700 beds lost with the complete collapse of Juárez Hospital and the gynecology-obstetrics tower of the General Hospital of Mexico. In total, the city lost more than 4,000 public hospital beds in the earthquake, severely disrupting these institutions' ability to handle the crisis. In addition, five of the largest private hospitals had to be evacuated. More than 900 patients, physicians, nurses and paramedical workers died in the initial shock.
+
+In contrast, the network of twenty four community general hospitals with 1,600 beds belonging to the city (federal district) were not affected as these were spread out beyond the city center and the old lakebed.
+
+==Human toll in the city==
+
+To this day, the death toll has been in dispute. About 5,000 bodies were recovered from the debris and represent the total of legally certified deaths but does not include those who were missing and never recovered. Reports have numbered the dead anywhere from 5,000 to 30,000 (claimed by a number of citizens' groups) to 45,000 claimed by the Mexican National Seismological Service. However, the most commonly cited figures are around 10,000. While high as an absolute number, it compares to other earthquakes of similar strength in Asia and other parts of Latin America where death tolls have run between 66,000 and 242,000 for earthquakes of magnitude 7.8 or above. Part of the explanation for that was the hour in which the earthquake struck, approximately 7:20&nbsp;am, when people were awake but not in the many schools and office buildings that were severely damaged.
+
+However, the death toll was great enough to necessitate the use of the Mexican Social Security Institute|IMSS baseball field as a morgue, using ice to conserve bodies for identification.
+
+The main reason that the figures have been disputed is the government's response to the tragedy. President Miguel de la Madrid ordered a news blackout and did not address the situation at all for 39 hours after the event. When the government did give estimates of the number dead, they vacillated between 7,000 to 35,000 people. Consequently, most of the populace believes that the true numbers have never been revealed.
+
+According to government figures, approximately 250,000 people lost their homes directly due to the earthquake. Unofficial sources put that figure much higher. Some sources state that more than 50,000 families lost their homes, and National Institute of Statistics, Geography, and Data Processing|INEGI reports that 700,000 people in the Federal District and the suburbs in the State of Mexico lost their homes.
+
+File:MexCity85quake.jpg|right|thumb|250px|Eight-story frame structure with brick infill walls broken in two. The foundation also came off.
+
+==Emergency response==
+
+In the hours and days immediately after the first shock, there was an enormous response and solidarity among the city population of 18 million people. Ordinary citizens organized brigades to help with rescue efforts and to provide food, clothing and emotional support to the homeless.
+
+Patients had to be moved from damaged hospitals, especially the National Medical Center. Many of these patients were very ill. 1,900 patients were successfully moved from here, without any deaths, in just four hours.
+
+More than 4,000 people were rescued alive. 9,600 injured people received treatment, including 1,879 who needed hospitalization. Despite the loss of 5,000 hospital beds, there was never a shortage of facilities for the injured. Some of the reason for this was that those with postponable care were discharged, but mostly because the public and private facilities unified de facto during the crisis. There were also people rescued as late as ten days after the initial event.
+
+==Memorable sites==
+
+===Hospital Juárez===
+One of the most visible government institutions to fall in the event was the tower of Hospital Juárez, one of the oldest hospital institutions in Mexico. It was founded in 1847, converting the old convent of San Pablo to treat wounded soldiers from the Mexican-American War. It originally was called San Pablo Hospital but its name was changed to Juárez Hospital in 1872.
+
+The "Torre de Hospitalización" was built in 1970 with the main building being twelve stories tall. It had two wings, one facing north and the other south, with an inpatient capacity of 536 beds. At the top was a helipad. It was also surrounded by a number of other buildings belonging to the hospital complex such as a blood bank, teaching facilities, offices as well as the original convent. At the time of the earthquake, the hospital was 80% full, and it was shift change time for nurses, doctors and residents. Within minutes, the steel-frame structure collapsed, crushing and trapping many people inside.
+
+Those who were rescued first were taken to another building for treatment, as the ambulances were trapped inside the collapsed tower. The hospital did not have an emergency plan but nonetheless, surviving hospital workers and neighbors quickly improvised, under the management of the hospital, setting up aid stations and scavenging supplies. Rescue workers soon arrived to take start digging through to rubble. A second quake made rescue work slower, because of fear of further collapse. Most bodies were identified by personal effects, some by dental records and some were so mangled that they wound up being cremated without ever being identified, due to the lack of morgue facilities. 561 bodies were found and 188 were never identified. 266 were hospital workers and 44 were medical residents. The majority who were rescued were found in the first five days. The number of bodies recovered was high during those first days as well but the numbers dramatically increased between days 17 and 31.
+
+Heavy machinery was unable to get to the site until 5 days after the earthquake. Numbers of dead did not include unidentified body parts found. Most of the injured had contusion injuries and many suffered from dehydration, with the severity of the dehydration increasing with those rescued later.
+
+However, the most memorable story to come from this event was the rescue of nearly all the newborn babies that were in the nursery at the time. These babies were pulled out of the wreckage mostly unscathed but lost their mothers. The reason for this was that these babies survived without nourishment, water, warmth or human contact for all that time.
+
+===Sewing factory===
+File:Estatuacosturera.jpg|thumb|right|Bronze statue at corner of Manuel J Othón and San Antonio Abad at site of collapsed factory
+On Manuel José Othón Street, in the Colonia Obrera neighborhood, near Metro station Metro San Antonio Abad|San Antonio Abad, was one of the many garment factories located in the city center area. It was destroyed along with approximately 1,200 other workshops.
+
+It was one of three buildings that collapsed on this block, and called "Topeka". The magazine ''Proceso (magazine)|Proceso'' reports that by the time rescue workers got to the building, the owners were already in a hurry to demolish it, without trying to rescue or recover the seamstresses that were trapped inside.
+
+The collapse of this factory exposed the deplorable conditions that many of these seamstresses were subject to. The building that collapsed, as well as many others, were found to be decrepit. It came to be known that many of these women had to work extended hours with little or no compensation, and few, if any of the labor laws on the books were being followed. This event made the garment industry a labor embarrassment.
+All that is left to remind of the factory is a small empty lot with a bronze statue of a woman sewing to commemorate the event. On the rest of the property, apartments have been built.
+
+===Central Communications Center===
+On Eje Central and Xola Avenue, at the southern end of the lakebed zone was (and is) the Secretaría de Comunicaciones y Transportes (Ministry of Communication and Transportation), a reinforced concrete structure with its microwave tower. This structure failed, causing the near total collapse of long distance communications between Mexico City and the rest of the world.
+
+===Conjunto Pino Suárez===
+File:PinoSuarezMarketDF.JPG|thumb|right|The current market at the Conjunto Pino Suarez site.
+One of the most spectacular building collapses was that of the Conjunto Pino Suárez, which was a complex of five steel-frame buildings. A 20-story tower, ''Tower Four'', doubled over at the third floor and fell south onto a fourteen-story building. The fall left a huge piece of concrete blocking the road that leads to the Zócalo. People at the scene stated that there was simply no time to run and escape the building's fall. The other three 20-story buildings were closed because of damage, as well as the Metro entrance next door. The building was occupied by family courts and offices of the public defender.
+
+===Hotel Regis===
+File:JardinSolidaridadDF.JPG|thumb|left|Plaza of Solidarity at site of former Hotel Regis
+
+The Hotel Regis was built in the beginning of the 20th century as a luxury hotel in Neoclassicism|neo-Classical style. It had its own cabaret, gourmet restaurant and a small but luxurious cinema with wide reclining armchairs.
+
+It was located at the corner of Balderas and Avenida Juárez in the historic center and completely collapsed within moments of the quake. Shortly after its collapse, it began to burn due to a gas leak, which made it extremely difficult to rescue survivors. Nothing has survived of the hotel except for a wall with a mural done by Diego Rivera. The space is now the Plaza de la Solidaridad park. On the north side of this park is a wall from the hotel, containing a mural done by Diego Rivera. It is now housed there in a small museum.
+
+===Apartment complexes in Tlatelolco===
+There were two apartment complexes in the area of the city called Tlatelolco (Mexico City)|Tlatelolco to the north of the historic center that became major scenes of disaster, the Unidad Habitacional Nonoalco-Tlatelolco and the "Multifamiliares Juárez" near the Metro Centro Médico. Together, these apartment complexes were a large percentage of the 30,000 units lost, with the city losing about 30% of its living space.
+
+Nonoalco Tlatelolco was located on Paseo de la Reforma Norte #668,
+covering an area of about two km<sup>2</sup>. It had 102 buildings with seven medical facilities, twenty-two schools and about 500 small businesses, serving the 80,000 people that lived there. Constructed under the presidency of Adolfo López Mateos, it was considered the most important complex of its kind in the country. People became trapped in stairwells, elevators and their apartments without any way to contact the outside world. At the collapsed building, lines of 50–100 men passed rubble by hand and buckets, trying to reach victims. During these rescue efforts, a nearby building, called Oaxaca, began to creak noisily, causing everyone to run and abandon the site temporarily, but it did not collapse.
+
+All the buildings suffered damage but along with the collapsed Nuevo León building, buildings such as those called Veracruz, Coahuila, Zacatecas, Oaxaca, Puebla, Jalisco, Churubusco, Guelatao, 2 de Abril, 15 de Septiembre, Chihuahua, Tamaulipas, ISSSTE 11, Querétaro, Guanajuato, Ignacio Comonfort, Ignacio M. Altamirano, Jesús Terán, Ponciano Arriaga, Ni?os Héroes and 20 de Noviembre suffered severe damage such as severely cracked foundations. In the days after the quake, military and police cordoned off ten buildings to keep people out, leading a number of them to sleep on the streets. Twelve buildings in the complex were so severely damaged that they were demolished in the next six months.
+
+Buildings A1, B2 and C3 of the Multifamiliar Juárez complex partially collapsed with a total of nine structures eventually being demolished.
+
+===Televisa studios===
+File:TelevisaBldgDF.JPG|thumb|left|Televisa building at Ni?os Héroes and Chapultepec Ave.
+
+One of the famous images of the event was the live broadcast of ''Hoy Mismo,'' a news program in the Televisa television network, when the earthquake struck. In the video, movement can be seen, especially in the lights above the newscasters. The three newscasters were María Victoria Llamas (substituting for Guillermo Ochoa), Lourdes Guerrero and Juan Dosal. As the movement began Llamas reports grabbing the underside of the desk, and whispering quickly to Guzmán that she hoped no one could see how scared she was.
+The last image broadcast from that studio was that of Lourdes Guerrero stating "...&nbsp;it's still shaking a little (''sigue temblando un poquitito''), but we must take it calmly. We will wait just a second so we can keep talking." Then the image disappeared. The transmission ended because a nearby 10-ton Antenna (radio)|antenna had bent over and noisily crushed parts of Televisa's buildings that were located on Ni?os Héroes and Dr. Río de la Loza Streets in Colonia Doctores.
+Everyone ran from the studio but Llamas and Guerrero stayed, hiding under their anchor desks. After the shaking stopped, they both left the Televisa studios through a back door, and hours later they were back on the air in the studios of Canal de las Estrellas to broadcast live what was happening. Some members of the ''Hoy Mismo'' staff died, including producer Ernesto Villanueva and engineer David Mendoza Corcega, who had just parked at the Televisa building, but had no time to escape from his car. The falling debris also killed street vendors who worked just outside the studio building. Reconstruction of the studio building began in 1995 and ended in 2000.
+
+===Other structures===
+* Televicentro (now Televisa Chapultepec)
+* Los Televiteatros (now Centro Cultural Telmex)
+* Hotel D'Carlo and Hotel Prado, which were located in the Mexico City Alameda Central|Alameda Central area near the Hotel Regis
+* Arena Mexico. All the lucha libre events scheduled for that weekend were cancelled.
+
+==Geological and structural engineering issues==
+File:1985 Mexico Earthquake - Pina Suarez Apartment Complex.jpg|thumb|250px|Apartment Complex Pino Suárez, in the wake of the 1985 Mexico City earthquake.
+
+Most of the earthquake damage was to buildings. Two reasons are the resonance in the lakebed sediments and the long duration of the shaking. The buildings most damaged were from 6 to 15 stories in height. These buildings tended to resonate most with the energetic frequency band of the lakebed motions. One interesting characteristic was that many buildings had their upper floors collapse, leaving the lower floors relatively undamaged. In many damaged buildings, just one floor had collapsed, In some cases, the damage was caused by the top of a lower, adjacent building banging against the walls and the supporting columns of its neighbor. Eventually, the columns gave way. In other cases, the first few floors of buildings were designed as parking garages, open lobbies or large shopping areas. These "soft" stories were particularly flexible and tended to collapse after prolonged shaking. Some types of foundations, particularly those involving piles driven into clay and held in place by friction, turned out to be weak. One 9-story building, for example, overturned. Its piles were pulled entirely out of the ground.
+
+A survey of the damage done by the government found that few buildings from one to five stories suffered serious damage; the same was true for buildings over fifteen stories. When the buildings were built seemed to have an effect as well. Before the 1957 earthquake, there were no building codes with respect to Earthquake engineering|earthquake resistance. Some regulations were passed in that year and more in 1976 after another, stronger earthquake shook the city. However, none of these regulations had an event like 1985's in mind when passed. Most of the seriously damaged buildings were built between 1957 and 1976, when the city was starting to build upwards, in the six-to-fifteen floor range. In second place were buildings from before 1957, possibly because they were weakened by the earlier earthquakes. Buildings from 1976 to 1985 suffered the least damage.
+
+At the time of the earthquake, Mexico City had one of the most stringent building codes, based on experience gained from earthquakes in 1957 and 1979. However, the codes were not designed for seismic activity of the intensity experienced in 1985. The event was one of the most intense of any recorded in the world, allowing for macroseismic waves to arrive in the Valley of Mexico with unusually high energy content. Prior to the event, estimates about ground movement on the lakebed were generally accepted and a number of buildings were built on these estimates.
+
+Several notable buildings were relatively untouched by the quake. One significant example is the Torre Latinoamericana. Despite being 44 stories tall, it survived the 1985 event almost undamaged. It was constructed with two hundred piles extending down over a hundred feet into the stable earth stratum.
+
+==Political consequences==
+
+===Government response===
+File:Paloma Cordero Nancy Reagan Mexico City 1985 earthquake.jpg|right|thumb|First ladies Paloma Cordero of Mexico (left) and Nancy Reagan of the United States (right) with U.S. Ambassador to Mexico, John Gavin observing the damage done by the earthquake.
+The military was deployed to patrol streets to prevent looting after a curfew was imposed, The federal government's first public response was President de la Madrid's declaration of a period of mourning for three days starting from 20 September 1985.
+
+The earthquakes created many political difficulties for the then-ruling Partido Revolucionario Institucional (PRI) or Institutional Revolutionary Party. The crisis was severe enough to have tested the capabilities of wealthier countries, but the government from local PRI bosses to President de la Madrid himself exacerbated the problem aside from the lack of money. The Secretariat of Foreign Affairs|Ministry of Foreign Affairs declared it would not request aid; it specifically rejected aid from the United States. It was also widely reported in the days after the earthquake that the military assisted factory owners in retrieving their machinery rather than in removing the bodies of dead factory workers. As most of the collapsed buildings were of recent construction and public works projects, the government was seen at fault due to mismanagement and corruption in these constructions. The government itself realized that it could not handle the crisis alone through already-established institutions and decided to open the process up to "opposition groups".
+
+===Community response===
+File:DoctoresConjuntoCUD.JPG|thumb|right|Housing project by CUD on Dr Andrade Street in Colonia Doctores
+On the other hand, the disaster created an opportunity for political opponents, especially at the grassroots level. Much of the community organizing focused on helping those left homeless by the earthquake. The three largest and most effective organizations were based in Tlatelolco and Colonia Roma. These consisted of families from the "Multifamilar Juárez" housing project, which completely collapsed and the combined colonias (neighborhoods) of Centro, Morelos, Guerrero, Colonia Doctores|Doctores, Obrera, Peralvillo, Asturias, Nicolás Bravo among others which housed the working and lower classes. These groups along with the Sindicato Nacional de Costureras united to form the Coordinadora ?nica de Damnificados (CUD).
+
+CUD and other popular movement representatives met with head of the Secretariat of Urban Development and Ecology (SEDUE) Guillermo Carrillo Arena on 27 September 1985. Carrillo Arena at first insisted that the movements incorporate themselves into the PRI before gaining any concessions. This was refused. Many media outlets expressed support for the popular movements and marches like that of 2 October 1985, demanding that the reconstruction process be more "democratic", meaning the inclusion of non-PRI political organizations into the decision-making process. On 11 October 1985, the President granted a seven-minute audience to the heads of a dozen popular movements, which turned into a 45-minute meeting where de la Madrid was handed a document outlining what would remain the movements' core demands: expropriation of all condemned buildings, followed by a "popular" and "democratic" reconstruction project which would include the active participation of the community movement. De la Madrid conceded some with the expropriation of 5,500 properties in the four most affected boroughs.
+
+After the government created the Programa de Renovación Habitacional Popular (PRHP) on 14 October to help deal with the crisis, friction between the government and community groups grew again, PRHP used PRI-membership as a requirement to be included into the census of earthquake victims. More protests followed on 26 October calling for, among other things, the firing of SEDUE head Carrillo Arena. Things got worse through February 1986, mostly due to the ineffectiveness of SEDUE and PRHP. Finally Carrillo Arena was fired from SEDUE and replaced by Manuel Camacho Solís.
+
+In March, only weeks after taking office, Camacho Solís changed the charged atmosphere between SEDUE and the community groups. He actively integrated Tlateloloco citizen groups into a new program meant for that area, defusing the most volatile area of the city. Camacho Solís continued to work to integrate and smooth relations between his agency and the community groups. On 16 May 1986, Camacho Solís met with the heads of all the major groups. He offered a commitment to build 48,000 housing units in one year if the groups would all sign a "Convenio de concertación democrática para la reconstrucción de vivienda" (Democratic agreement for the reconstruction of housing). Basically, this document required the cooperation of community groups in exchange for solid commitments from the agency. All sides would compromise in order to get something done. The deal generally worked; movements like CUD moderated their stances and agencies like SEDUE and PRHP made progress in rebuilding housing, regardless of political affiliation.
+
+===Weakening of the Partido Revolucionario Institucional|PRI===
+
+At the time of the earthquake, Mexico was in its fifth year of a foreign debt crisis, and a contracting economy causing serious political problems for the Institutional Revolutionary Party. Much of the PRI's authoritarian nature was tolerated because the country had seen four decades of economic expansion of six percent or better. When this disappeared, the PRI's power base began to shrink. Its reputation was damaged further when the government seemed to be deliberately downplaying the number of earthquake victims. President de la Madrid made relatively few public appearances afterwards and during those he did, he received strong heckling, in contrast to the near-reverence that past presidents enjoyed at such events.
+
+The severe damage in so many buildings, including many public works projects construction to house the rapidly growing population of Mexico City, were blamed on lax enforcement of building codes. Critics argued that the lack of enforcement of such codes was indicative of corrupt practices in all levels of government.
+
+The stepping-in of non-PRI organizations to take over where the government could not also took its toll on PRI's reputation. Burton Kirkwood states "Out of the disaster emerged the realization that a viable civil society existed in Mexico. This revelation also caused many to consider why they needed a centralized state that so obviously could not care for its people. As a consequence, the opposition movements pointed to the government's shortcomings and advanced candidates for the greater goal of defeating the PRI."
+
+Shortly after the event, the PRI began to face serious challenges at the polls, forcing it to rig elections, sometimes in an embarrassingly messy way.
+
+== Effects of earthquake in other parts of Mexico ==
+Although much closer to the epicenter, the states of Jalisco, Colima, Guerrero and Michoacán suffered only mild to moderate damage. Landslides caused damage at Atenquique, Jalisco, and near Jala, Colima|Jala, Colima. Rockslides were reported along highways near Ixtapa, Guerrero, with Sand volcanos and ground cracks in Lazaro Cardenas. Students at the Fundación Universidad de las Américas, Puebla|Universidad de las Américas in nearby Puebla reported feeling as if the cafeteria had been lifted and rocked back and forth, shattering windows and injuring some people but mostly causing panic. A small tsunami caused only mild damage to Lázaro Cárdenas and Zihuatanejo. Some fishing boats were reported missing but these reports were never confirmed. One exceptional case was in Ciudad Guzmán, Jalisco, where about 60 percent of the buildings were destroyed, with about 50 dead. Some damage also occurred as far away as the states of State of Mexico|Mexico, Morelos and parts of Veracruz, on the Gulf of Mexico|Gulf coast. Coastal and most inland damage was moderated by the fact that most of the west of Mexico sits on bedrock, which serves to transmit the shockwaves without amplifying them. La Villita, and Infiernillo Dams, near the coast, were superficially damaged and undamaged respectively.
+
+Off the coasts of Michoacán and Guerrero, the 19 and 20 September events caused a rupture in the seabed 240&nbsp;km long and 70&nbsp;km wide, located between the subduction trench and the coastline. This is an intertidal zone and the event caused widespread mortality in a number of species living in the area such as algae and shellfish.
+
+==Legacy==
+One preparation that was made for future events was the alert system, Sistema de Alerta Sísmica (SAS), which sends early-warning messages electronically from sensors along the coastal subduction zone in Guerrero. It was expanded to a similar area on the coast of Oaxaca.
+
+To better help deal with major disasters, the Civil Protection Committee was created. This committee organizes drills in cooperation with rescue workers, police, hospital staff and even metro personnel. Affiliated with the Civil Protection Committee is the Topos de Tlatelolco|"Brigada de Topos de Tlatelolco" (Mole Brigade of Tlatelolco). This group arose from youths who spontaneously volunteered to risk their lives crawling into collapsed buildings to look for survivors. these youths were instrumental in saving a number of lives, including the babies rescued from the collapse of the Juárez Hospital.
+
+Despite warnings and predictions, in 2005, an estimated 32 million people live in the high-risk lakebed area.
+
+As of 2005, there are still two camps where approximately eighty families are still waiting for relocation from the earthquake.
+
+Centuries-old structures have been reinforced across the city and new construction must comply with very strict codes. There are several instances of tall buildings in Mexico City incorporating earthquake-resistant engineering. A few notable examples are: the Torre Latinoamericana, one of the first buildings in Mexico City to do so, the Torre Ejecutiva Pemex, built before the 1985 earthquake, and the Torre Mayor, built in 2003.
+
+Every 19 September, in all public buildings at Mexico City and all the nation the civil protection authorities conduct evacuation drills to evaluate the evacuation response in the case of an earthquake.
+
+Televisa's Televisa San Angel|San Angel studios, one of the few Televisa facilities in Mexico City not damaged by the earthquake, became the new home of two long-running series, ''Siempre en domingo'' and ''Chabelo|En familia con Chabelo,'' both of which saw their studios at Chapultepec damaged. The earthquake also inspired the creation of another long-running Televisa series, Silvia Pinal's ''Mujer, casos de la vida real,'' which was also produced at Televisa San Angel.
+
+==References==
+{{reflist|30em}}
+{{Portalbar|Mexico City|Earthquakes|1980s}}
+{{Earthquakes in 1985}}
+{{Earthquakes in Mexico}}
+
+{{DEFAULTSORT:1985 Mexico City Earthquake}}
+Category:1985 in Mexico|Mexico City Earthquake, 1985
+Category:Megathrust earthquakes in Mexico
+Category:History of Mexico City
+Category:Modern Mexico
+Category:1985 earthquakes|Mexico City, 1985
+Category:20th century in Mexico
+Category:20th-century tsunamis

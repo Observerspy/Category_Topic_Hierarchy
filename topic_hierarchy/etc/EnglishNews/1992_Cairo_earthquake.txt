@@ -1,0 +1,51 @@
+{{Infobox earthquake
+|title = 1992 Cairo earthquake
+|date = {{Start-date|October 12, 1992}}
+|map2 = {{Location map many | Egypt |relief=1
+ | label =
+ | lat = 29.778
+ | long = 31.144
+ | mark = Bullseye1.png
+ | marksize = 40
+ | position = top
+ | label2 = Cairo
+ | lat2 = 30.056
+ | long2 = 31.229
+ | mark2 =
+ | mark2size = 10
+ | position = right
+ | width = 250
+ | float = right
+ | caption = }}
+|magnitude = 5.8 Body wave magnitude|M<sub>B</sub>
+|depth = {{convert|22|km|abbr=on}}
+|location = {{coord|29.778|31.144|display=inline,title}}
+|countries affected = Egypt, Cairo
+|tsunami = 
+|casualties = 545
+}}
+
+The '''1992 Cairo earthquake''' occurred at 15:09 local time (13:09 Coordinated universal time|UTC) on 12 October, with an epicenter near Dahshur, {{convert|35|km|abbr=on}} south of Cairo. The earthquake had a Body wave magnitude|magnitude of 5.8, but was unusually destructive for its size, causing 545 deaths, injuring 6,512 and making 50,000 people homeless. It was the most damaging seismic event to affect Cairo since 1847.
+
+==Geology==
+Cairo is sited within a diffuse zone of fault (geology)|faulting that transfers extension from the Gulf of Suez Rift to the Manzala rift beneath the Nile delta.
+
+==Damage==
+The areas of greatest damage were in Old Cairo, Bulaq and southwards along the Nile as far as Gerza, on the west bank. Most of the severe damage was confined to older masonry structures and particularly those built of adobe. Soil liquefaction|Liquefaction was reported from areas near the epicenter.
+
+The high number of deaths and injuries (545 and 6,512 respectively) was partly due to the amount of panic caused by the earthquake in Cairo itself. A large block fell from the Great Pyramid of Giza.
+
+==Earthquake characteristics==
+File:Cairo 1992 Isoseismal Map.PNG|thumb|Isoseismal map for the 1992 Cairo earthquake.
+{{see also|1995 Gulf of Aqaba earthquake}}
+
+The earthquake was felt throughout most of northern Egypt, in Alexandria, Port Said and as far south as Asyut, and in southern Israel. The aftershocks extended about {{convert|11|km|abbr=on}} to the southeast of the main shock epicenter, indicating unidirectional rupture propagation. The estimated fault rupture length was also {{convert|11|km|abbr=on}}.
+
+==References==
+{{Reflist}}
+
+{{Earthquakes in 1992}}
+
+Category:Earthquakes in Egypt
+Category:1992 earthquakes|Cairo Earthquake, 1992
+Category:1992 in Egypt|Cairo earthquake

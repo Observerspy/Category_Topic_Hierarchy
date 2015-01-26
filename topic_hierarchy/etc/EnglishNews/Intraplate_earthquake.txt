@@ -1,0 +1,45 @@
+{{Earthquakes}}
+{{more footnotes|date=August 2011}}
+File:New Madrid Seismic Zone activity 1974-2011.svg|thumb|Distribution of seismicity associated with the New Madrid Seismic Zone (since 1974). This zone of intense earthquake activity is located deep in the interior of the North American plate.
+An '''intraplate earthquake''' is an earthquake that occurs in the interior of a tectonic plate, whereas an interplate earthquake is one that occurs at a plate boundary.
+
+Intraplate earthquakes are relatively rare. Interplate earthquakes, which occur at plate boundaries, are more common. Nonetheless, very large intraplate earthquakes can inflict heavy damage, particularly because such areas are not accustomed to earthquakes and buildings are usually not seismic retrofitting|seismically retrofitted. Notable examples of damaging intraplate earthquakes are the devastating 2001 Gujarat earthquake|Gujarat earthquake in 2001, the 2012 Indian Ocean earthquakes, the 1812 New Madrid earthquake|1811-1812 earthquakes in New Madrid, Missouri, and the 1886 Charleston earthquake|1886 earthquake in Charleston, South Carolina.
+
+==Fault zones within tectonic plates==
+The surface of the Earth is made up of seven primary and eight secondary Plate tectonics|tectonic plates, plus dozens of tertiary microplates. The large plates move very slowly, owing to convection currents within the Mantle (geology)|mantle below the Crust (geology)|crust. Because they do not all move in the same direction, plates often directly Convergent boundary|collide or move laterally along each other, a tectonic environment that makes earthquakes frequent. Relatively few earthquakes occur in intraplate environments; most occur on fault (geology)|faults near plate margins. By definition, intraplate earthquakes do not occur near plate boundaries, but along faults in the normally stable interior of plates. These earthquakes often occur at the location of ancient failed rifts, because such old structures may present a weakness in the crust where it can easily slip to accommodate regional tectonic strain.
+
+Compared to earthquakes near plate boundaries, intraplate earthquakes are not well understood, and the hazards associated with them may be difficult to quantify.
+
+==Historic examples==
+Historic examples of intraplate earthquakes include those in Mineral, Virginia in 2011 Virginia earthquake|2011 (estimated magnitude 5.8), New Madrid Seismic Zone|New Madrid in New Madrid earthquake|1811 and 1812 (estimated magnitude as high as 8.1), the 1755 Cape Ann earthquake|Boston (Cape Ann) earthquake of 1755 (estimated magnitude 6.0 to 6.3), earthquakes felt in New York City in 1737 and 1884 (both quakes estimated at about 5.5 magnitude), and the Charleston earthquake in South Carolina in 1886 (estimated magnitude 6.5 to 7.3).  The Charleston quake was particularly surprising because, unlike Boston and New York, the area had almost no history of even minor earthquakes.
+
+In 2001, 2001 Gujarat earthquake|a large intraplate earthquake devastated the region of Gujarat, India. The earthquake occurred far from any plate boundaries, which meant the region above the epicenter was unprepared for earthquakes. In particular, the Kutch district suffered tremendous damage, where the death toll was over 12,000.
+
+==Causes==
+
+Many cities live with the seismic risk of a rare, large intraplate earthquake. The cause of these earthquakes is often uncertain. In many cases, the causative fault is deeply buried, and sometimes cannot even be found.  Under these circumstances it is difficult to calculate the exact seismic hazard for a given city, especially if there was only one earthquake in historical times. Some progress is being made in understanding the fault mechanics driving these earthquakes.
+
+==Prediction==
+Scientists continue to search for the causes of these earthquakes, and especially for some indication of how often they recur.  The best  success has come with detailed micro-seismic monitoring, involving dense  arrays of seismometers.  In this manner, very small earthquakes  associated with a causative fault can be located with great accuracy, and in most cases these line up in patterns consistent with faulting. Cryoseisms can sometimes be mistaken for intraplate earthquakes.
+
+==See also==
+* New Madrid earthquake
+* New Madrid Seismic Zone
+* Saint Lawrence rift system
+* 2011 Virginia earthquake
+
+== References ==
+{{reflist}}
+
+== Further reading ==
+*Stein, S., and S. Mazzotti (2007). "Continental Intraplate Earthquakes: Science and Policy Issues", Geological Society of America, Special Paper 425.
+
+==External links==
+*http://sprg.ssl.berkeley.edu/matt/seismo.html Intraplate Earthquakes: Possible Mechanisms for the New Madrid and Charleston Earthquakes
+*http://www.seis.sc.edu/projects/SCSN/history/Publications/G&T_SRL_2003.pdf ''Symptomatic Features of Intraplate Earthquakes'' - PDF
+*http://www2.rcep.dpri.kyoto-u.ac.jp/members/iio/ronbun_list/eps2002_1001.pdf ''A physical understanding of large intraplate earthquakes'' - PDF
+*http://earthquake.usgs.gov/eqcenter/eqinthenews/2006/usslav/ Earthquake Hazards Program, USGS
+
+Category:Types of earthquake
+
+ja:地震#内陆地壳内地震

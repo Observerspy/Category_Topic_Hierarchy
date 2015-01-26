@@ -1,0 +1,87 @@
+{{Infobox earthquake
+|title = 2008 Lincolnshire earthquake
+|date= {{Start date|2008|2|27|df=y}}
+|map2 = {{Location map+ | United Kingdom
+|places =
+{{Location map~|United Kingdom|lat=51.08|long=-1.25|label=Hampshire|mark=Green pog.svg}}
+{{Location map~|United Kingdom|lat=55.09|long=-1.6|label=Newcastle upon Tyne|mark=Green pog.svg}}
+{{Location map~|United Kingdom|lat=53.404|long=-0.331|mark=Bullseye1.png|marksize=40}}
+| relief = yes
+| width = 250
+| float = right
+| caption = }}
+|magnitude = 5.2 Richter magnitude scale|M<sub>L</sub>
+|depth = {{convert|18.6|km|mi|0}}
+|location = {{coord|53.404|N|0.331|W|display=inline,title}}
+|countries affected = {{UK}}
+|intensity = 6 European Macroseismic Scale|EMS - Slightly Damaging
+|casualties = 1 reported; 0 fatalities
+}}
+
+The '''2008 Lincolnshire earthquake''' struck Lincolnshire, in the United Kingdom, on 27 February at 00:56:47.8s&nbsp;Greenwich Mean Time|GMT. According to the British Geological Survey, the Earthquake|quake registered a reading of 5.2 on the Richter magnitude scale|Richter scale with the epicentre 2.5&nbsp;miles (4&nbsp;km) north of Market Rasen and 15 miles (24&nbsp;km) south-west of Grimsby.
+
+==Duration==
+The duration of the earthquake was confirmed as roughly 10&nbsp;seconds.
+
+==Spread of effect==
+The tremors were felt across a wide area of England and Wales, from Hampshire in the Southern England|south to Newcastle upon Tyne in the Northern England|north, and as far west as Bangor, County Down|Bangor, Northern Ireland. It was also perceptible in the Netherlands, Belgium, and the far north of France. Structural damage was recorded in some areas, including one case where a chimney collapsed and injured a person in Wombwell, Barnsley, South Yorkshire.
+
+==Cause==
+File:2008 Lincolnshire earthquake epicentre.jpg|thumb|left|Physical location photo of epicentre
+
+The 2008 Lincolnshire earthquake was caused by the sudden rupture and motion along a Fault (geology)#Strike-slip faults|strike-slip fault, {{convert|18.6|km|mi|0}} beneath Lincolnshire. The energy released was 3.98×10<sup>12</sup> joules (equal to the detonation of ~950 tonnes of TNT).
+
+Unlike typical earthquakes worldwide, the earthquakes of Northern Europe are intraplate earthquakes, meaning they are not close to tectonic plate boundaries. Most intraplate earthquakes in Northern Europe, including the UK, are thought to be driven by distant tectonic stresses – a combination of E–W Mid-Atlantic Ridge|North Atlantic Ridge and N–S African Plate regional stress fields, and local Mantle (geology)|mantle conditions. a product of the E–W and N–S regional stress fields.
+
+Only a minority of earthquakes in the UK are related to post-glacial rebound e.g. the minor earthquakes (<3.5 ML) of western Scotland, where glaciers ~1&nbsp;km thick existed during the peak of the last Ice Age.
+
+==Effects==
+Image:St. Andrew's church, Hacconby, Lincs - geograph.org.uk - 90719.jpg|thumb|The spire of St Andrew's church in Haconby was damaged
+
+The earthquake resulted in structural damage to many homes and businesses in the epicentral area. There were no deaths, but a 19-year-old man in Wombwell, Barnsley, South Yorkshire suffered a broken pelvis when a piece of chimney fell through the roof onto his attic bed.
+
+Police in the English Midlands|Midlands received more than 5,000&nbsp;telephone calls in an hour from a member of the public regarding the earthquake. The St Mary Magdalene church at Waltham on the Wolds in Leicestershire had its spire damaged and was to be rebuilt at a cost of ?100,000. Also damaged were the spires of St Andrew's church in Haconby and St Vincent's church in Caythorpe, Lincolnshire|Caythorpe, both in South Kesteven.
+
+===Magnitude===
+The tremor was the largest earthquake to affect the UK since the 1984 Ll?n Peninsula earthquake, which measured 5.4 on the Richter magnitude scale|Richter scale. The British Geological Survey gave the earthquake a reading of 5.2Local magnitude|M<sub>L</sub>, while the United States Geological Survey reported it measured 4.8Body wave magnitude|M<sub>b</sub>. The Commissariat à l'énergie atomique|French Atomic Energy Commission estimated the magnitude was 5.4M<sub>L</sub>.
+
+===Aftershocks===
+A total of nine aftershocks were recorded. The largest, measuring 2.8 on the Richter scale, occurred around five weeks after the initial event, on 5 April at 13:57&nbsp;GMT.
+
+==Significance==
+The BGS described the earthquake as an "extremely large earthquake in UK terms but not large in world terms". Approximately 200 earthquakes occur in the UK every year, approximately 175 of which are too weak to be noticed by humans.
+
+==See also==
+Image:UK historical seismicity 2008 02 27.jpg|thumb|right|Seismicity in the United Kingdom from 1990 to 27 February 2008
+
+* British Geological Survey
+* Geology of the United Kingdom
+* List of earthquakes in the United Kingdom
+* London-Brabant Island
+
+{{clear}}<!--avoids reference being squeezed by the image at 1024 and larger resolutions-->
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{wikinews|Minor earthquake shakes England}}
+* http://www.earthquakes.bgs.ac.uk/earthquakes/reports/market_rasen_27022008/market_rasen_27022008_intro.htm Report from the British Geological Survey
+* http://www.thisisgrimsby.co.uk/displayNode.jsp?nodeId=151901&command=displayContent&sourceNode=151727&contentPK=19996927&folderPk=86530&pNodeId=151458 Report from The Grimsby Telegraph
+* http://www.emsc-csem.org/index.php?page=current&sub=detail&id=79520 Earthquake information by the ''European-Mediterranean Seismological Centre''
+* http://earthquake.usgs.gov/eqcenter/eqinthenews/2008/us2008nyae/ Earthquake information by the United States Geological Survey
+* http://news.bbc.co.uk/2/hi/uk_news/england/7266136.stm Report from BBC News
+* http://news.sky.com/skynews/article/0,,30100-1307071,00.html Report from Sky News
+* http://maps.google.com/maps?f=q&hl=en&geocode=&q=53.404%C2%B0N,+0.331%C2%B0W&ie=UTF8&ll=53.404,-0.331&spn=2.189112,6.514893&z=8&iwloc=addr Location of epicentre on Google Maps
+* http://www.doncasterfreepress.co.uk/free/Earthquake-hits-Doncaster--readers39.3818724.jp Report and video from the Doncaster Free Press
+
+
+{{Earthquakes in 2008}}
+{{Use dmy dates|date=February 2014}}
+
+{{DEFAULTSORT:2008 Lincolnshire Earthquake}}
+Category:2008 earthquakes|Lincolnshire
+Category:Earthquakes in the United Kingdom|2008 Lincolnshire
+Category:2008 in England|Earthquake
+Category:Geography of Lincolnshire|Earthquake
+Category:West Lindsey

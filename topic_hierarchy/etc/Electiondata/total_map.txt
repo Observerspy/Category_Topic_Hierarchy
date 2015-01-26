@@ -1,0 +1,104 @@
+TOPIC	SIZE:103
+1:voter demographics
+2:vote and seat summaries
+3:candidates gallery
+4:chamber of deputies
+5:party conventions
+6:green party
+7:primaries
+8:general election campaign
+9:results by province
+10:campaign slogans
+11:government formation
+12:independent
+13:background
+14:conduct
+15:fianna fáil
+16:dead
+17:analysis
+18:independents
+19:presidential debates
+20:turnout
+21:eligibility
+22:new democratic party
+23:new democrats
+24:media bias
+25:leaders' debates
+26:electoral system
+27:10 closest ridings
+28:polls
+29:republican party nomination
+30:liberals
+31:electors
+32:rejected candidates
+33:opinion polls
+34:results
+35:conservatives
+36:congress of deputies
+37:second round
+38:comparison
+39:official candidate websites
+40:issues
+41:reactions
+42:electoral maps
+43:investiture voting
+44:summary
+45:campaign issues
+46:results by region
+47:books
+48:health care
+49:vote
+50:nominations
+51:political context
+52:ballot access
+53:official candidates
+54:electronic voting
+55:labour party
+56:mps who lost their seats
+57:procedure
+58:candidates
+59:aftermath
+60:early primaries/caucuses
+61:overview
+62:first round
+63:before the primaries
+64:presidential candidates
+65:super tuesday
+66:debates
+67:withdrawn
+68:democratic party nomination
+69:overall results
+70:maine and nebraska district results
+71:economy
+72:votes by state
+73:sinn féin
+74:senate
+75:footnotes
+76:registered candidates
+77:political parties
+78:result
+79:opinion polling
+80:notable expressions and phrases
+81:unsuccessful candidacies
+82:other nominations
+83:other candidates
+84:apportionment
+85:election campaign
+86:controversies
+87:exit polls
+88:timeline
+89:overview of results
+90:campaign
+91:seat by seat results
+92:international observers
+93:post-election
+94:fine gael
+95:sources
+96:results by state
+97:campaigns
+98:presidential election
+99:manifestos
+100:bloc québécois
+101:candidates by party
+102:national results
+103:endorsements

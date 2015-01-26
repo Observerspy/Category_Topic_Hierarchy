@@ -1,0 +1,50 @@
+{{Use dmy dates|date=March 2012}}
+{{Use British English|date=March 2012}}
+{{Earthquake
+|title=1931 Dogger Bank earthquake
+|date= {{start-date| 7 June 1931}}
+|map2 ={{Location map | England
+ | relief=1
+ | label=
+ | lat=54.08
+ | long=1.50
+ | mark=Bullseye1.png
+ | marksize=40
+ | position=top
+ | width= 250
+ | float=right
+ | caption=}}
+|magnitude = 6.1 Richter scale|M<sub>L</sub>
+|depth=
+|location= {{coord|54.08|N|1.50|E|}}
+|countries affected = United Kingdom, Belgium, France
+|tsunami = Yes
+|casualties = 2 (indirect)
+}}
+The '''Dogger Bank earthquake''' of 1931 was the strongest earthquake recorded in the United Kingdom since measurements began. It had a magnitude of 6.1 on the Richter Scale, and it caused a shaking intensity of 3 to 4 on the Mercalli scale.
+
+The location of the earthquake in the North Sea meant that damage was significantly less than it would have been had the epicentre been on the British mainland.
+
+== Earthquake ==
+The tremor began at around 1:30&nbsp;am on 7 June 1931 with its epicenter|epicentre located at the Dogger Bank, {{convert|60|mi|km}} off the Yorkshire coast in the North Sea. The effects were felt throughout Great Britain as well as in Belgium and France. The earthquake resulted in damage at locations throughout eastern England. The town of Filey in Yorkshire was worst hit, with the spire of a church being twisted by the tremor. Chimneys collapsed in Kingston upon Hull|Hull, Beverley and Bridlington, and Flamborough Head suffered crumbling of parts of its cliffs. It was also reported that a Hull woman died as a result of a heart attack caused by the quake. Rather less seriously, in London the head of the waxwork of Hawley Harvey Crippen|Dr Crippen at Madame Tussauds fell off.
+
+== Tsunami ==
+A small tsunami wave was reported to have hit the east coast of England and other countries around the North Sea.
+
+==References==
+{{reflist}}
+
+==External links==
+*http://www.quakes.bgs.ac.uk/hazard/dogger1931.jpg Contemporary newspaper report
+*http://www.quakes.bgs.ac.uk/hazard/Hazard_UK.htm Seismicity and earthquake hazard in the UK, British Geological Survey
+*http://www.stvincent.ac.uk/Resources/EarthSci/Earth/records.html Earthquake records
+
+{{UK-hist-stub}}
+
+{{coord |54.08|N|1.5|E|region:GB|display=title}}
+
+Category:Earthquakes in the United Kingdom|1931 Dogger Bank
+Category:1931 in the United Kingdom|Dogger Bank
+Category:History of the North Sea|Dogger Bank
+Category:Natural disasters in England|1931 Dogger Bank
+Category:1931 earthquakes|Dogger Bank

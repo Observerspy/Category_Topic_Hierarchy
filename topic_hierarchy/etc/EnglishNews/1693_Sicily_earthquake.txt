@@ -1,0 +1,116 @@
+{{Infobox earthquake
+|title              = 1693 Sicily earthquake
+|image              = Sicilia Sisma 1693.jpg
+|image alt          =
+|imagecaption       = Isoseismal map for the 1693 earthquake
+|map                =
+|map alt            =
+|image name         =
+|map2               = {{Location map | Italy Sicily
+ | relief=yes
+ | label=
+ | lat=37.3
+ | long=15.1
+ | mark=Bullseye1.png
+ | marksize=70
+ | position=top
+ | width= 250
+ | float=right
+ | caption=}}
+|mapsize            =
+|caption            =
+|date               = {{Start-date|11th January, 1693}}
+|origintime         = 21:00
+|duration           =
+|magnitude          = 7.4 Moment magnitude scale|M<sub>w</sub>
+|depth              = <!-- {{convert|NNN|km|mi|0|abbr=on}} -->
+|location           = {{coord|37.3|15.1|display=inline, title}}<br> The exact location of the epicentre remains uncertain
+|type               =
+|countries affected = Southern Italy, notably Sicily, and Malta
+|damage             =
+|intensity          = X to XI
+|PGA                = <!-- NN''Peak ground acceleration|g'' -->
+|tsunami            = 5-10 meter high waves devastated the coastal villages on the Ionian Sea and in the Straits of Messina. (Ambraseys-Sieberg intensity V tsunami)
+|landslide          =
+|foreshocks         = A magnitude 6.2 on January 9
+|aftershocks        =
+|casualties         = 60,000 deaths
+}}
+The '''1693 Sicily earthquake''' struck parts of southern Italy near Sicily, Calabria and Malta on January 11, 1693, at around 9 pm local time. This earthquake was preceded by a damaging foreshock on January 9. and a maximum intensity of XI (''extreme'') on the Mercalli intensity scale, destroying at least 70 towns and cities, seriously affecting an area of {{convert|5600|km2|sqmi}} and causing the death of about 60,000 people. Almost two thirds of the entire population of Catania were killed.
+
+According to a contemporary account of the earthquake by Vincentius Bonajutus, published in the ''Philosophical Transactions of the Royal Society'', "It was in this country impossible to keep upon our legs, or in one place on the dancing Earth; nay, those that lay along on the ground, were tossed from side to side, as if on a rolling billow."
+
+==Tectonic setting==
+File:Siculo-Calabrian Rift.png|thumb|Main faults of the Siculo-Calabrian rift zone
+Sicily lies on part of the complex convergent boundary where the African Plate is subduction|subducting beneath the Eurasian Plate. This subduction zone is responsible for the formation of the stratovolcano Mount Etna and considerable seismic activity. Most damaging earthquakes however, occur on the Siculo-Calabrian rift zone. This zone of extensional faulting runs for about {{convert|370|km|mi}}, forming three main segments through Calabria, along the east coast of Sicily and immediately offshore, and finally forming the southeastern margin of the Hyblean Plateau. Faults in the Calabrian segment were responsible for the 1783 Calabrian earthquakes sequence.
+
+In the southern part of the eastern coast of Sicily, investigations have identified a series of active Fault (geology)#Dip-slip faults|normal faults, dipping to the east. Most of these lie offshore and some control basins that contain large thicknesses of Quaternary sediments. The two largest faults, known as the western and eastern master faults, border half-grabens with fills of up to {{convert|700|m|ft}} and {{convert|800|m|ft}} respectively. Onshore, two ages of faulting have been recognised, an earlier phase trending NW-SE and a later phase trending SSW-NNE that clearly offsets the first group, including the Avola fault and the Rosolini-Ispica fault system.
+
+==Earthquake characteristics==
+
+===January 9 foreshock===
+A destructive earthquake occurred two days before the mainshock at 21:00 local time, centered in the Val di Noto. It had an estimated magnitude of 6.2 and a maximum perceived intensity of VIII&ndash;XI on the Mercalli intensity scale. Intensities of VIII or higher have been estimated for Augusta, Sicily|Augusta, Avola|Avola Vecchia, Floridia, Melilli, Noto|Noto Antica, Catania, Francofonte, Lentini, Scicli, Sortino and Vizzini.
+
+From the shape and location of the area of maximum damage, this earthquake is thought to have been caused by movement on the Avola fault.
+
+===January 11 mainshock===
+The earthquake lasted for four minutes, according to contemporary accounts. The estimated magnitude of 7.4 is taken from the extent and degree of the recorded damage, with a very large area that reached X or more on the Mercalli scale.
+
+The source of the January 11 earthquake is debated. Some catalogues give an onshore epicentre without any direct association with a known structure, while others propose that the source was offshore due to the associated tsunami, involving either rupture along a normal fault, part of the Siculo-Calabrian rift zone, A landslide origin is supported by the observation of possible landslide bodies along the Hyblean-Malta escarpment.
+
+Historic documents in the Archivo General de Simancas mention dozens of aftershocks, some as late as August 1694, and some reportedly as strong as the initial quake of January 11, 1693.
+
+==Tsunami==
+The tsunami triggered by the earthquake affected most of the Ionian Sea coast of Sicily, about {{convert|230|km|mi}} in all. The first thing that was noted at all localities affected was a withdrawal of the sea. The strongest effects were concentrated around Augusta, where the initial withdrawal left the harbour dry, followed by a wave of at least {{convert|2.4|m|ft}} height, possibly as much as {{convert|8|m|ft}}, that inundated part of the town. The maximum inundation of about {{convert|1.5|km|mi}} was recorded at Mascali.
+
+Tsunami deposits linked to the 1693 tsunami have been found both onshore and offshore. At Ognina, just south of Syracuse, at the head of a ria, a sequence containing several coarse clastic layers has been found, inconsistent with its lagoonal setting. The uppermost coarse layer, which has a strongly erosive base, consists of coarse sand with up to granule size clasts. The layer has been dated as 17th to 18th century based on pottery shards and one well-preserved clay pipe, consistent with the 1693 tsunami. Offshore from Augusta, a sequence identified using chirp sonar data was sampled with a {{convert|6.7|m|ft}} Core sample|gravity core in {{convert|72|m|ft}} of water. Following detailed analysis of both grain size and foraminifera assemblages, eleven possible high-energy events were found based on the presence of large numbers of shallow water forams combined with a greater proportion of fine sand in the same interval. The uppermost two events correlate well with the tsunamis from the 1908 Messina earthquake and the 1693 earthquake.
+
+==Link to eruption of Etna==
+Although there are reports of an eruption at the time of the earthquake, most sources suggest that the volcano had been inactive since the destructive Mount Etna#Historical eruptions|eruption of 1669. Analysis of the relationship between eruptions and earthquakes has found that earthquakes are followed by long periods without activity in the 'rift zones' that extend out to north and south from the summit. Estimates of coulomb stress transfer due to the Dike (geology)|dyke intrusion in the rift zones associated with the 1669 eruption, suggest that this could have helped to trigger the 1693 earthquake, by increasing stress levels on the faults.
+
+==Damage==
+File:1693 Sicily earthquake.jpg|thumb|Depiction of the earthquake in an engraving from 1696, possibly showing Catania
+File:Castello di Noto.JPG|thumb|Ruins of the Norman castle in Noto Antica
+
+===January 9 foreshock===
+Despite the difficulty of separating the effects of this event from the mainshock, some information is available. This earthquake caused widespread damage, particularly in Augusta where almost half of the houses were destroyed. Most of the buildings in two districts of Avola collapsed and many buildings were also destroyed in Noto, Floridia, Lentini and Mellili. Some buildings collapsed in Catania, Vizzini and Sortini. There were an estimated 200 casualties in both Augusta and Noto.
+
+===January 11 mainshock===
+The area of severe damage covered most of southeastern Sicily, an area of about {{convert|14000|km2|sqmi}}, including all the present provinces of Province of Catania|Catania, Province of Ragusa|Ragusa and Province of Syracuse|Syracuse. At least 70 cities, towns and villages were devastated, with some examples of at least partial building collapse as far afield as Messina, Agrigento, Palermo, Reggio Calabria and Malta.
+
+The earthquake also triggered large landslides, such as at Noto Antica and Sortino, and in one case a large rock-slide dammed a stream, forming a lake a few kilometres long. Several large NW-SE trending fractures were created up to {{convert|500|m|ft}} long and {{convert|2|m|ft}} wide, on the plains just south of Catania.  In the same area, sand volcanoes were formed by jets of water spurting as much as several metres into the air, with similar phenomena being reported from the Lentini plain and along some river valleys.
+
+At Augusta the tsunami damaged galleys of the Knights of Malta that were anchored in the harbour when they were grounded during the initial withdrawal of the sea.
+
+The number of deaths recorded at the time in official sources were about 12,000 in Catania (63% of the population), 5,045 in Ragusa (51%), 3,500 in Syracuse (23%) 3,000 in Noto (25%), 1,840 in Augusta (30%) and 3,400 in Modica (19%).
+
+==Aftermath==
+File:La cattedrale di Noto restaurata.JPG|thumb|The Cathedral of Noto, one of the many buildings constructed in Sicilian Baroque style after the earthquake
+
+===Response===
+Sicily was at the time ruled as part of the Crown of Aragon by the List of Spanish monarchs|Kings of Spain. The List of viceroys of Sicily|Viceroy in Madrid, the Juan Francisco Pacheco y Téllez-Girón, 4th Consort Duke of Uceda|Duke of Uzeda, reacted by appointing Giuseppe Lanza, the Duke of Camastra, and the Prince of Aragon as Vicar general|Vicars General for the Val Demone and Val di Noto regions of Sicily respectively. Unfortunately, due to illness, both the Prince of Aragon and his replacement the bishop of Syracuse were unable to take up the position of Vicar General for Val di Noto and the Duke of Camastra was forced to take on the responsibility for both areas. Camastra already had considerable experience as an administrator, having served in a number of senior military and judicial positions. The Viceroy also appointed three generals as commissioners in order to organise the immediate relief efforts in the worst affected cities. One of the Duke of Camastra's first acts was to temporarily exempt the worst affected areas from taxes. Amongst other administrators sent to the damaged area was Colonel Don Carlos von Grunemberg, Royal Engineer to the King of Spain, who had experience in planning and building fortifications.
+
+In Palermo, the Viceroy formed two councils, a civil one made up of nobles, and another that was ecclesiastical, made up of senior church officials. They were directed to meet twice weekly,
+
+===Reconstruction===
+The initial reconstruction efforts concentrated on restoring the military defences of Syracuse, Augusta, Catania and Acireale, due to their strategic importance. and Noto Antica. Ragusa was partly rebuilt on its old site to the medieval plan (''Ragusa Ibla'') and partly on a new, but neighbouring site, to a 'modern' plan (''Ragusa Superiore'').
+
+The degree and extent of the damage caused by the earthquake prompted an architectural revival in the towns of Sicily and Malta, a style that has become known as Sicilian Baroque.
+
+==See also==
+*Sicilian Baroque#Sicilian Baroque from 1693|Sicilian Baroque from 1693
+
+==References==
+{{Reflist|30em}}
+
+{{DEFAULTSORT:1693 Sicily Earthquake}}
+Category:1693 in Italy|Sicily
+Category:1693 earthquakes|Sicily
+Category:Earthquakes in Italy
+Category:Geography of Malta
+Category:Disasters in Sicily
+Category:Sicilian Baroque
+Category:Earthquakes in Malta
+Category:Tsunamis
+
+{{Link FA|scn}}

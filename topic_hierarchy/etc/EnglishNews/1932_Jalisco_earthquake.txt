@@ -1,0 +1,84 @@
+{{Infobox earthquake
+|title              = 1932 Jalisco earthquake
+|image              = 
+|image alt          = 
+|imagecaption       =
+|map                = 
+|map alt            = 
+|image name         =
+|map2               ={{Location map | Mexico
+| label=
+| lat=19.5
+| long=-104.25
+| mark=Bullseye1.png
+| marksize=40
+| position=top
+| width= 250
+| float=right
+| caption=
+ | relief=yes}}
+|mapsize            = 
+|caption            =
+|date               = {{Start date|1932|6|3}}
+|origintime         =
+|duration           = 95 seconds 
+|magnitude          = 8.2 Moment magnitude scale|M<sub>w</sub> 
+|depth              = {{convert|60|km|mi|0|abbr=on}}
+|location           = {{coord|19.5|-104.25|region:MX-JAL_type:event|display=inline,title}} 
+|type               =
+|countries affected = Mexico <br> Guatemala 
+|damage             = 
+|intensity          = X - Intense
+|PGA                = <!-- NN''Peak ground acceleration|g'' -->
+|tsunami            = yes
+|landslide          =
+|foreshocks         =
+|aftershocks        =
+|casualties         = 400+ 
+}}
+File:Tectonic setting western Mexico.png|thumb|260px|Plate boundaries in the Pacific, offshore western Mexico
+The '''1932 Jalisco earthquake''' occurred on June 3 at 10:36 coordinated universal time|UTC. It registered a magnitude of 8.2 on the moment magnitude scale and had a maximum perceived intensity of X (''Intense'') on the Mercalli intensity scale, causing at least 400 deaths in Mexico and neighboring Guatemala.
+
+The Mexican subduction zone, the Middle America Trench, is seismically active and has generated both destructive and non-destructive tsunamis. Each earthquake in the series caused significant damage, injuries, and deaths, and in each case tsunamis of various heights were generated, with the June 22 catastrophic tsunami in Cuyutlán and San Blas, Nayarit|San Blas being described as one of the most destructive events in the region based on all available historical records.
+
+==Tectonic setting==
+This part of Mexico lies on a complex convergent boundary where the Rivera Plate and the Cocos Plate are being subduction|subducted beneath the North American Plate. The Transform fault|transform boundary between the Rivera and Cocos Plates is poorly defined. This earthquake is thought to have ruptured the south-easternmost segment of the interface involving the Rivera Plate,
+
+The complex subduction zone off the coast of Colima and Jalisco experiences large recurring earthquakes. Prior events occurred in 1806, 1818, and 1900, and a recurrence period of 77 years was proposed for the region, but because of difficulty in positively identifying the rupture zones, this time frame was not precisely established.  In 2003, near the same location, an 2003 Colima earthquake|earthquake with a magnitude of 7.6 claimed 29 lives.
+
+==Earthquake==
+The mainshock was preceded by a series of small foreshocks. The length of the rupture is estimated to be about 220&nbsp;km.
+
+Carlos Valdez, director of the National Seismology Center at the National Autonomous University of Mexico, called the earthquake the most powerful quake in modern Mexican history.
+
+==Tsunami==
+The earthquake triggered a tsunami that had a maximum run-up height of 3 m at Bahia San Pedrito in Manzanillo. The tsunami was also recorded at Apia, San Diego, Hilo, Hawaii|Hilo and Honolulu. but no deaths occurred there.
+
+==Damage==
+The earthquake caused significant damage and deaths in Colima, Ayotlán, Manzanillo, Cihuatlán, Jalisco|Cihuatlán,  Samora and Acatlán de Juárez. In Colima almost 3,000 houses were damaged. The sixteenth century Guadalajara Cathedral also sustained damage in the quake. Farther south in Mexico city several buildings toppled over and numerous cracks formed on the streets.
+
+Following the quake there were no communications coming in from the city of Oaxaca. That city had suffered heavy damage the prior year in a 1931 Oaxaca earthquake|magnitude 7.8 event, and there was initial concern that there had been a repeat event with a high death toll centered in that area.
+
+==Earthquake sequence==
+The initial earthquake of June 3 off of the coast of Colima and Jalisco caused extensive damage along western Mexico, with much of the deaths and injuries concentrated in the area of Guadalajara. Early reporting from the ''Los Angeles Times'' noted that there were 300 deaths or injuries in that area alone.
+
+Fifteen days after the first shock, June 18 at 4:15 am, there was a magnitude 7.7 event with an estimated rupture length of {{convert|60|km|sp=us}} and a duration of 22 seconds. The Governor of Colima's home partially collapsed, though he escaped injury. The tsunami created from this event, reported to be {{convert|1|m|sp=us}} in height, was the smallest generated from the three June earthquakes.
+
+The final and smallest event occurred on June 22 with a magnitude 7 earthquake. A few minutes after the quake, there was a tsunami which resulted in the almost total destruction of the hotels and village homes in the city of Cuyutlán. Both wired telegraph and radio communications were interrupted there. As Governor Saucedo gathered reports of inadequate care for those affected in Cuyutlán following the destructive wave, he appealed to the Red Cross to fill gaps where federal and state aid were proving ineffective. In the capital of Colima, where the residents were already recovering in their own neighborhoods, 2000 refugees were taken in from the wave swept coast.
+
+==References==
+{{Reflist}}
+
+;Bibliography
+{{Refbegin}}
+* {{citation|title=The Tsunami Threat on the Mexican West Coast: A Historical Analysis and Recommendations for Hazard Mitigation|url=http://books.google.com/books?id=AFPVoTV6Cx0C&pg=PA303&dq=december+1911+guerrero+subduction+earthquake&hl=en&sa=X&ei=FHJmT9mrDqibiQL68uWiDw&ved=0CDIQ6AEwAA#v=onepage&q=december%201911%20guerrero%20subduction%20earthquake&f=false|first=Salvador F.|last=Farreras|first2=Antonio J.|last2=Sanchez|year=1991|publisher=Springer Science+Business Media|journal=Natural Hazards|pages=301–316|volume=4|number=2-3|doi=10.1007/BF00162795}}
+* {{citation|url=http://usuarios.geofisica.unam.mx/vladimir/papers_pdf/Jalisco95_GRL97.pdf|last=Pacheco|first=J.|last2=Singh|first2=S.K.|last3=Domínguez|first3=J.|last4=Hurtado|first4=A.|last5=Quintanar|first5=L.|last6=Jiménez|first6=Z.|last7=Yamamoto|first7=J.|last8=Gutiérrez|first8=C.|last9=Santoyo|first9=M.|last10=Bandy|first10=W.|last11=Guzmán|first11=M.|last12=Kostoglodov|first12=V.|last13=Reyes|first13=G.|last14=Ramírez|first14=C.|year=1997|title=The October 9, 1995 Colima‐Jalisco, Mexico Earthquake (Mw 8): An aftershock study and a comparison of this earthquake with those of 1932|journal=Journal of Geophysical Research|publisher=American Geophysical Union|volume=24|number=17|pages=2223–2226|doi=10.1029/97GL02070|bibcode = 1997GeoRL..24.2223P }}
+{{Refend}}
+	
+{{Earthquakes in Mexico}}
+
+Category:1932 in Mexico
+Category:1932 earthquakes
+Category:History of Guadalajara, Jalisco
+Category:Megathrust earthquakes in Mexico
+Category:20th-century tsunamis

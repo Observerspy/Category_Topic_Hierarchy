@@ -1,0 +1,44 @@
+{{Use dmy dates|date=November 2011}}
+{{Earthquake
+|title= 1848&nbsp;Marlborough New Zealand
+|map2={{Location map |New Zealand|relief=1|label=1848 Marlborough earthquake |lat_dir=S | lat_deg=41 | lat_min=48 |lon_dir=E | lon_deg=173 | lon_min=42 |position=right |width= 250 |mark=Bullseye1.png |marksize=40 |float=right |caption= }}
+|date= {{start-date|16 October 1848|16 October 1848}}
+|magnitude=Moment magnitude scale|''M<sub>w</sub>'' 7.5
+|depth=shallow
+|epicenter location= 
+|countries affected= New Zealand, Marlborough Region|Marlborough, South Island
+|location={{coord|41|48|S|173|42|E|display=inline,title}}
+|casualties=3 deaths
+}}
+The '''1848 Marlborough earthquake''' is the name associated with a severe earthquake which occurred at 1:40 a.m. on 16 October 1848 and whose epicenter was in the Marlborough, New Zealand|Marlborough region of the South Island of New Zealand. 
+
+In Wellington the shaking lasted for about two minutes and caused widespread damage, especially to brick- or stone- built structures. Most of the buildings damaged in the earthquake were rebuilt in wood and this contributed to the relatively low level of damage and loss of life in the more powerful 1855 Wairarapa earthquake|Wairarapa earthquake that hit Wellington seven years later.
+
+==Tectonic setting==
+File:MarlboroughFaultSystem.png|thumb|250px|Map of the Marlborough Fault System showing location of the Awatere Fault
+New Zealand lies along the boundary between the Indo-Australian Plate|Australian and Pacific Plates. In the South Island most of the relative displacement between these plates is taken up along a single Sinistral and dextral|dextral (right lateral) Fault (geology)#Strike-slip faults|strike-slip fault with a major Fault (geology)#Dip-slip faults|reverse component, the Alpine Fault. In the North Island, the displacement is mainly taken up along the Kermadec Trench|Kermadec subduction zone, although the remaining dextral strike-slip component  of the relative plate motion is accommodated by the North Island Fault System (NIFS). A group of dextral strike-slip structures, known as the Marlborough Fault System, transfer displacement between the mainly Transform fault|transform and Convergent boundary|convergent type plate boundaries in a complex zone at the northern end of South Island. The earthquake occurred on the Awatere Fault which is part of the Marlborough Fault System.
+
+==Earthquake characteristics==
+The earthquake was associated with the rupturing of a minimum of 105&nbsp;km of the Awatere Fault. A Moment magnitude scale|moment magnitude of about 7.5 has been estimated from the rupture length and measured displacements.
+
+==Damage==
+In Wellington, almost all buildings of brick or stone construction were damaged, including homes, churches, the jail, and the colonial hospital.
+
+==See also==
+*List of New Zealand earthquakes
+*1888 North Canterbury earthquake
+*1843 Wanganui earthquake
+
+==References==
+{{Reflist}}
+
+==External links==
+* http://www.geonet.org.nz/earthquake/historic-earthquakes/top-nz/quake-01.html Geonet page on the 1848 Marlborough earthquake
+
+{{Earthquakes in New Zealand}}
+
+{{DEFAULTSORT:1848 Marlborough Earthquake}}
+Category:Earthquakes in New Zealand|1848 Marlborough
+Category:History of the Marlborough Region
+Category:1848 natural disasters|Marlborough
+Category:1848 in New Zealand|Marlborough

@@ -1,0 +1,93 @@
+{{Infobox Election
+| election_name     = Portuguese presidential election, 2001
+| country           = Portugal
+| type              = presidential
+| ongoing           = no
+| previous_election = Portuguese presidential election, 1996
+| previous_year     = 1996
+| next_election     = Portuguese presidential election, 2006
+| next_year         = 2006
+| election_date     = 14 January 2001
+| image1            = [[File:Jorge Sampaio 2-square.jpg|129px]]
+| candidate1        = [[Jorge Sampaio]]
+| party1            = Socialist Party (Portugal)
+| popular_vote1     = 2,401,015
+| percentage1       = 55.6%
+| image2            = [[File:No image.png|129px]] 
+| candidate2        = Ferreira do Amaral
+| party2            = Social Democratic Party (Portugal)
+| popular_vote2     = 1,498,948
+| percentage2       = 34.7%
+
+| title             = [[President of Portugal|President]]
+| posttitle         = President-elect
+| before_election   = [[Jorge Sampaio]]
+| before_party      = Socialist Party (Portugal)
+| after_election    = [[Jorge Sampaio]]
+| after_party       = Socialist Party (Portugal)
+}}
+{{Politics of Portugal small}}
+
+The '''Portuguese presidential election of 2001''' was held on '''14 January'''.
+
+The victory of incumbent president [[Jorge Branco de Sampaio]] was never in doubt and the turnout was therefore quite low (49.71%). Again, the incumbent president was reelected, like what happened with [[Mário Soares]] and [[Ramalho Eanes]]. 
+
+As the election of a center-left president was almost certain, both the [[Portuguese Communist Party]] and the [[Left Bloc]], this last for the first time, presented their own candidates, as their support against the right wing candidate was not necessary. The [[Communist Party of the Portuguese Workers]] also presented its own candidate for the first time in its history, [[Garcia Pereira]].
+
+On the right, [[Joaquim Martins Ferreira do Amaral|Ferreira do Amaral]] was supported by the two major parties, the [[Social Democratic Party (Portugal)|Social Democratic Party]] and the [[People's Party (Portugal)|People's Party]] which, again, could not achieve their old objective of electing a right-wing president for the first time since the [[Carnation Revolution]].
+
+There were also four candidates rejected by the [[Portuguese Constitutional Court]] for not complying with the legal requirement of being proposed by 7500 voters:
+* Pedro Maria Braga
+* Maria Teresa Lameiro
+* Josué Rodrigues Pedro 
+* Manuel João Vieira 
+
+These four candidates were present in the draw of the ballot position, but did not appear in the final ballot.
+
+It was the first time Portuguese abroad could vote for the presidency.
+
+==Candidates==
+*'''[[Jorge Sampaio]]''', President since 1996, leader of the [[Socialist Party (Portugal)|PS]] between 1989 and 1992, supported by the [[Socialist Party (Portugal)|Socialist Party]];
+*'''[[Joaquim Martins Ferreira do Amaral]]''', former minister of public works of Cavaco Silva government between 1990 and 1995, supported by the [[Social Democratic Party (Portugal)|Social Democratic Party]] and by the [[People's Party (Portugal)|People's Party]];
+*'''[[António Simões de Abreu]]''', alderman in Lisbon between 1997 and 2001, supported by the [[Portuguese Communist Party]];
+*'''[[Fernando Rosas]]''', Portuguese academic and politician, supported by the [[Left Bloc]];
+*'''[[Garcia Pereira]]''', Secretary-General of the [[PCTP/MRPP]];
+
+==Results==
+[[File:Most Voted Candidates in the Portuguese Presidential Elections 2001 by Municipality.png|thumb|250px|right|Most voted candidate per municipality]]
+{{Portuguese presidential election, 2001}}
+{{bar box
+|title=Vote share 1st Round
+|titlebar=#ddd
+|width=520px
+|barwidth=310px
+|bars=
+{{bar percent|Jorge Sampaio|{{Socialist Party (Portugal)/meta/color}}|55.55}}
+{{bar percent|Ferreira do Amaral|{{Social Democratic Party (Portugal)/meta/color}}|34.68}}
+{{bar percent|António Simões de Abreu|{{Portuguese Communist Party/meta/color}}|5.16}}
+{{bar percent|Fernando Rosas|{{Left Bloc/meta/color}}|3.00}}
+{{bar percent|António Garcia Pereira|{{Portuguese Workers' Communist Party/meta/color}}|1.59}}
+{{bar percent|Blank/Invalid|#777777|2.87}}
+{{bar percent|Abstencion|Black|50.29}}
+}}
+
+==References==
+*{{cite web |title=CNE Resultados |url=http://eleicoes.cne.pt/cne2005/sel_eleicoes.cfm?m=raster#assemb| publisher=Comissão Nacional de Eleições| accessdate = 17 May 2005}}
+*{{cite web |title=Centro de Estudos do Pensamento Político|url=http://www.iscsp.utl.pt/~cepp/abertura.php| accessdate = 17 May 2005}}
+
+==External links==
+*[http://www.cne.pt/ Portuguese Electoral Commission]
+* [http://www.nsd.uib.no/european_election_database/country/portugal/ NSD: European Election Database - Portugal] publishes regional level election data; allows for comparisons of election results, 1990-2010
+
+==See also==
+* [[President of Portugal]]
+* [[Portugal]]
+* [[Politics of Portugal]]
+
+{{Portuguese elections}}
+
+[[Category:2001 elections in Europe]]
+[[Category:2001 in Portugal]]
+[[Category:Presidential elections in Portugal|2001]]
+
+{{Portugal-election-stub}}

@@ -1,0 +1,689 @@
+{{Use dmy dates|date=September 2012}}
+{{Infobox election
+| election_name      = Dutch general election, 2012
+| country            = Netherlands
+| type               = parliamentary
+| ongoing            = no
+| previous_election  = Dutch general election, 2010
+| previous_year      = 2010
+| next_election      = [[Next Dutch general election]]
+| next_year          = [[Next Dutch general election|Next]]
+| seats_for_election = All 150 seats to the [[House of Representatives of the Netherlands|House of Representatives]]
+| majority_seats     = 76
+| election_date      = {{Start date|2012|09|12|df=y}}
+
+<!--      People's Party for Freedom and Democracy      -->
+| image1             = [[File:Mark Rutte-6.jpg|160x150px|Mark Rutte]]
+| leader1            = [[Mark Rutte]]
+| leader_since1      = 2006
+| party1             = People's Party for Freedom and Democracy
+| last_election1     = 31 seats, 20.5%
+| seats_before1      = 
+| seats1             = 41
+| seat_change1       = {{increase|+}}10
+| popular_vote1      = 2,504,948
+| percentage1        = 26.6%
+| swing1             = {{increase|+}}6.1%
+
+<!--      Labour Party      -->
+| image2             = [[File:01. Diederik Samsom.jpg|160x150px|Diederik Samsom]]
+| leader2            = [[Diederik Samsom]]
+| leader_since2      = 2012
+| party2             = Labour Party (Netherlands)
+| last_election2     = 30 seats, 19.6%
+| seats_before2      = 
+| seats2             = 38
+| seat_change2       = {{increase|+}}8
+| popular_vote2      = 2,340,750
+| percentage2        = 24.8%
+| swing2             = {{increase|+}}5.2%
+
+<!--      Party for Freedom      -->
+| image3             = [[File:Slotdebat verkiezingen (final debate elections) 2006-2 cropped and flipped.jpg|160x150px|Geert Wilders]]
+| leader3            = [[Geert Wilders]]
+| leader_since3      = 2006
+| party3             = Party for Freedom
+| last_election3     = 24 seats, 15.4%
+| seats_before3      = 
+| seats3             = 15
+| seat_change3       = {{decrease|−}}9
+| popular_vote3      = 950,263
+| percentage3        = 10.1%
+| swing3             = {{decrease|−}}5.3%
+
+<!--      Socialist Party      -->
+| image4             = [[File:Emile Roemer 2009.jpg|160x150px|Emile Roemer]]
+| leader4            = [[Emile Roemer]]
+| leader_since4      = 2010
+| party4             = Socialist Party (Netherlands)
+| last_election4     = 15 seats, 9.8%
+| seats_before4      = 
+| seats4             = 15
+| seat_change4       = {{steady|}}0
+| popular_vote4      = 909,853
+| percentage4        = 9.7%
+| swing4             = {{decrease|−}}0.1%
+
+<!--      Christian Democratic Appeal      -->
+| image5             = [[File:Sybrand van Haersma Buma 2012.jpg|160x150px|Sybrand van Haersma Buma]]
+| leader5            = [[Sybrand van Haersma Buma]]
+| leader_since5      = 2012
+| party5             = Christian Democratic Appeal
+| last_election5     = 21 seats, 13.6%
+| seats_before5      = 
+| seats5             = 13
+| seat_change5       = {{decrease|−}}8
+| popular_vote5      = 801,620
+| percentage5        = 8.5%
+| swing5             = {{decrease|−}}5.1%
+
+<!--      Democrats 66      -->
+| image6             = [[File:Pechtold 29 03 048b (2).jpg|160x150px|Alexander Pechtold]]
+| leader6            = [[Alexander Pechtold]]
+| leader_since6      = 2006
+| party6             = Democrats 66
+| last_election6     = 10 seats, 6.9%
+| seats_before6      = 
+| seats6             = 12
+| seat_change6       = {{increase|+}}2
+| popular_vote6      = 757,091
+| percentage6        = 8.0%
+| swing6             = {{increase|+}}1.1%
+
+<!-- ChristianUnion -->
+| image7             = [[File:Arie Slob 2012.jpg|160x150px|Arie Slob]]
+| leader7            = [[Arie Slob]]
+| leader_since7      = 2011
+| party7             = ChristianUnion
+| last_election7     = 5 seats, 3.3%
+| seats_before7      = 
+| seats7             = 5
+| seat_change7       = {{steady}}0
+| popular_vote7      = 288,785
+| percentage7        = 3.1%
+| swing7             = {{decrease}}0.2%
+
+<!--  GreenLeft  -->
+| image8             = [[File:Jolande Sap 2.jpg|160x150px|Jolande Sap]]
+| leader8            = [[Jolande Sap]]
+| leader_since8      = 2011
+| party8             = GreenLeft
+| last_election8     = 10 seats, 6.6%
+| seats_before8      =
+| seats8             = 4
+| seat_change8       = {{decrease}}6
+| popular_vote8      = 213,757
+| percentage8        = 2.3%
+| swing8             = {{decrease}}4.3%
+
+<!-- Reformed Political Party -->
+| image9             = [[File:Kees van der Staaij.jpg|160x150px|Kees van der Staaij]]
+| leader9            = [[Kees van der Staaij]]
+| leader_since9      = 2010
+| party9             = Reformed Political Party
+| last_election9     = 2 seats, 1.7%
+| seats_before9      = 2
+| seat_change9       = {{increase}}1
+| seats9             = 3
+| popular_vote9      = 195,355
+| percentage9        = 2.1%
+| swing9             = {{increase}}0.4%       
+
+| map_image          = Tweede Kamerverkiezingen 2012.png
+| map_size           = 250px
+| map_caption        =
+| title              = [[Prime Minister of the Netherlands|Prime Minister]]
+| before_election    = [[Mark Rutte]]
+| before_party       = People's Party for Freedom and Democracy
+| after_election     = [[Mark Rutte]]
+| after_party        = People's Party for Freedom and Democracy
+}}
+
+An early '''general election''' was held in the [[Netherlands]] on 12 September 2012<ref>[http://www.kiesraad.nl/nl/Actueel/Nieuwsberichten/Actueel-Nieuwsberichten-2012/Op_12_september_2012_Tweede_Kamerverkiezing.html ]{{dead link|date=September 2012}}</ref> after Prime Minister [[Mark Rutte]] handed in his government's resignation to [[Queen Beatrix]] on 23 April. The 150 seats of the [[House of Representatives of the Netherlands]] were contested using [[party-list proportional representation]]. The [[People's Party for Freedom and Democracy]] (VVD) received a [[plurality (voting)|plurality]] of the votes, followed by the [[Labour Party (Netherlands)|Labour Party]] (PvdA).
+
+Prior to the election, polls had predicted an increase in support for the [[Socialist Party (Netherlands)|Socialist Party]], primarily at the expense of the PvdA,<ref>[http://www.guardian.co.uk/world/2012/aug/26/dutch-rookie-party-netherlands-elections Dutch Socialists show major gains ahead of Netherlands elections]</ref> but the PvdA regained support during the campaign, which was attributed to the leadership of [[Diederik Samsom]]<ref>[http://www.lse.co.uk/macroeconomicNews.asp?ArticleCode=ott8rgzyx7oyqom&ArticleHeadline=Subdued_Dutch_Socialist_opens_way_for_proEU_coalition Subdued Dutch Socialist opens way for pro-EU coalition]</ref> and in the election the Socialist Party failed to increase its seats. The [[Party for Freedom]] (PVV) and [[Christian Democratic Appeal]] (CDA) both lost seats.
+
+After 49 days of negotiations, a new VVD-PvdA government was formed on 5 November 2012, comprising Mark Rutte as prime minister along with 7 VVD ministers and 6 PvdA ministers.<ref name="Government formation">{{cite web|url=http://nos.nl/artikel/418478-formatiedagboek-2012.html|title=Formation Diary 2012 |language=Dutch|publisher=NOS|date=5 November 2012|accessdate=7 November 2012}}</ref>
+
+==Background==
+{{main|First Rutte cabinet#Withdrawal of support of the PVV|l1=First Rutte cabinet}}
+Prime Minister [[Mark Rutte]]'s government fell after the [[Party for Freedom]] (PVV), which had supported the government from outside, refused to sanction the austerity measures the government sought in April 2012.<ref name="Kunduz agreement and new election">{{cite web|url=http://euobserver.com/economic/116063|title=Opposition parties rescue Dutch budget plan|publisher=EUobserver.com|date=27 April 2012|accessdate=31 August 2012}}</ref> This called for a new early election to be held in September 2012. It is the fourth early election in a row since the [[Second Kok cabinet]] fell very near the end of its mandate, which allowed that government to keep the election date to be held as scheduled by the term in May 2002. Early elections were subsequently held in January 2003, November 2006, June 2010 and September 2012. And during that time a total of five governments ended prematurely, as it was possible for the [[Third Balkenende cabinet]] (July–November 2006) to be formed without a new election.
+
+==Participating parties==
+In addition to the established parties of Dutch politics, the [[pensioners' party]] [[50PLUS]], founded in 2009, won its first seats in the election.
+
+The [[Pirate Party of the Netherlands|Pirate Party]] claimed that it may enter parliament for the first time with 2 or 3 seats.<ref>{{cite web |url=http://frontbencher.nl/2012/07/16/piratenpartij-2-a-3-zetels-mogelijk-bij-verkiezingen/ |title=Piratenpartij: 2 à 3 zetels mogelijk bij verkiezingen |language=Dutch |accessdate=5 August 2012|date=16 July 2012}}</ref> However, the party achieved only 0.3% of the national vote and no seats.
+
+[[Hero Brinkman]], elected on the [[Party for Freedom]]'s list, split from the party in March 2012 and founded the [[Independent Citizens' Party]] in April 2012 to run in the election on his own.<ref>{{cite news|url=http://www.dutchnews.nl/news/archives/2012/04/hero_brinkman_to_go_it_alone_a.php |title=Hero Brinkman to go it alone at general election |publisher=Dutch News |date=25 April 2012 |accessdate=13 September 2012}}</ref> In June 2012, the party merged with [[Proud of the Netherlands]] (a party founded by [[Rita Verdonk]], who had resigned from the position of party leader<ref>{{cite news|author=alex |url=http://www.brabantsdagblad.nl/nieuws/algemeen/binnenland/10920547/Verdonk-keert-niet-terug-in-politiek.ece |title=Verdonk keert niet terug in politiek |publisher=Brabantsdagblad |date=24 April 2012 |accessdate=13 September 2012}}</ref>) to form the [[Democratic Political Turning Point]], with Brinkman as leader. The party achieved 0.1% of the national vote and no seats.
+
+{| class="wikitable"
+|-
+!   List   !! Party !! Abbreviation !! Leader !! Details<ref>{{cite web|url=http://www.kiesraad.nl/nieuws/nummering-kandidatenlijsten-bekend|title=Kandidatenlijsten bekend|date=8 August 2012|work=Kiesraad|accessdate=12 September 2012|language=Dutch}}</ref><ref>{{cite web|url=http://kiesraad.nl/nieuws/kandidatenlijsten-bekend|title=Nummering kandidatenlijsten bekend|date=2 August 2012|work=Kiesraad|accessdate=12 September 2012|language=Dutch}}</ref>
+|-
+| 1. || [[People's Party for Freedom and Democracy]] <br> (Volkspartij voor Vrijheid en Democratie) || VVD || [[Mark Rutte]] || 
+|-
+| 2. || [[Labour Party (Netherlands)|Labour Party]] <br> (Partij van de Arbeid) || PvdA || [[Diederik Samsom]] || [[Electoral alliance]] with [[Socialistische Partij (Nederland)|SP]] and [[GroenLinks|GL]]
+|-
+| 3. || [[Party for Freedom]] <br> (Partij voor de Vrijheid) || PVV || [[Geert Wilders]] || 
+|-
+| 4. || [[Christian Democratic Appeal]] <br> (Christen-Democratisch Appèl) || CDA || [[Sybrand van Haersma Buma]] || 
+|-
+| 5. || [[Socialist Party (Netherlands)|Socialist Party]] <br> (Socialistische Partij) || SP || [[Emile Roemer]] || [[Electoral alliance]] with [[Partij van de Arbeid (Nederland)|PvdA]] and [[GroenLinks|GL]]
+|-
+| 6. || [[Democrats 66]] <br> (Democraten 66) || D66 || [[Alexander Pechtold]] ||  
+|-
+| 7. || [[GreenLeft]] <br> (GroenLinks) || GL || [[Jolande Sap]] || [[Electoral alliance]] with [[Socialistische Partij (Nederland)|SP]] and [[Partij van de Arbeid (Nederland)|PvdA]]
+|-
+| 8. || [[ChristianUnion]] <br> (ChristenUnie) || CU || [[Arie Slob]] || [[Electoral alliance]] with [[Staatkundig Gereformeerde Partij|SGP]]
+|-
+| 9. || [[Reformed Political Party]] <br> (Staatkundig Gereformeerde Partij) || SGP || [[Kees van der Staaij]] || [[Electoral alliance]] with [[ChristenUnie|CU]]
+|-
+| 10. || [[Party for the Animals]] <br> (Partij voor de Dieren) || PvdD || [[Marianne Thieme]] || 
+|-
+| 11. || [[Pirate Party of the Netherlands|Pirate Party]]<br>(Piratenpartij) || PPNL || [[Dirk Poot]] || 
+|-
+| 12. || [[Party for Human and Spirit]]<br>(Partij voor Mens en Spirit) || MenS || [[Lea Manders]] || Participate in all [[constituency|constituencies]], except [[Caribbean Netherlands|BES islands]]
+|-
+| 13. || [[Netherlands Local]]<br>(Nederland Lokaal) || NL || [[Ton Schijvenaars]]  || 
+|-
+| 14. || [[Libertarian Party (Netherlands)|Libertarian Party]]<br>(Libertarische Partij) || LP || [[Toine Manders (Libertarische Partij)|Toine Manders]] ||
+|-
+| 15. || [[Democratic Political Turning Point]]<br>(Democratisch Politiek Keerpunt) || DPK || [[Hero Brinkman]] || merger of [[Trots op Nederland|Trots]] with [[Onafhankelijke Burger Partij|OBP]].
+|-
+| 16. || [[50PLUS]] || 50+ || [[Henk Krol]] || 
+|-
+| 17. || [[Liberal Democratic Party (Netherlands)|Liberal Democratic Party]]<br>(Liberaal Democratische Partij) || LibDem || [[Sammy van Tuyll van Serooskerken]] || participating in all [[constituency|constituencies]], except [[Caribbean Netherlands|BES islands]]
+|-
+| 18. || [[Anti-Europe Party]]<br>(Anti Europa Partij) || AeuP || [[Arnold Reinten]] || 
+|-
+| 19. || [[Sovereign Independent Pioneers Netherlands]]<br>(Soeverein Onafhankelijke Pioniers Nederland) || SOPN || [[Johan Oldenkamp]] || participate in all [[constituency|constituencies]],  except [[Caribbean Netherlands|BES islands]]
+|-
+| 20. || [[Party of the Future]]<br>(Partij van de Toekomst) || PvdT || [[Johan Vlemmix]] || participate in all [[constituency|constituencies]], except [[Caribbean Netherlands|BES islands]]
+|-
+| 21. || [[Political Party NXD]]<br>(Politieke Partij NXD) || || [[Anil Samlal]] || participate only in [[constituency]] 9
+|}
+
+==Polls==
+<!-- [[File:Pol-landschap-2012.png|thumb|The position of the main parties on a two-dimensional the political spectrum, according to Dutch political scientist André Krouwel.]] -->
+{| class="wikitable"
+|-
+! Date
+! Polling<br />firm
+! [[People's Party for Freedom and Democracy|VVD]]
+! [[Labour Party (Netherlands)|PvdA]]
+! [[Party for Freedom|PVV]]
+! [[Christian Democratic Appeal|CDA]]
+! [[Socialist Party (Netherlands)|SP]]
+! [[Democrats 66|D66]]
+! [[GreenLeft|GL]]
+! [[ChristianUnion|CU]]
+! [[Political Reformed Party|SGP]]
+! [[Party for the Animals|PvdD]]
+! [[50PLUS|50 Plus]]
+! [[Pirate Party of the Netherlands|Pirate]]
+|- style="background:#D5D5D5"
+| 9 June 2010
+| [[Dutch general election, 2010|2010 Election]]
+| 20.4%<br />(31)
+| 19.6%<br />(30)
+| 15.5%<br />(24)
+| 13.7%<br />(21)
+| 9.9%<br />(15)
+| 6.9%<br />(10)
+| 6.6%<br />(10)
+| 3.3%<br />(5)
+| 1.7%<br />(2)
+| 1.3%<br />(2)
+| – <br />(0)
+| 0.1%<br />(0)
+|-
+| 22 March 2012<ref name="IPSOS 22 March & 5 April 2012">{{cite web|url=http://www.ipsos-nederland.nl/content.asp?targetid=1001 |title=Ipsos Netherlands 5 April 2012|publisher=Politiekebarometer.nl |accessdate=25 May 2012}}</ref>
+| Ipsos<br />Neth.
+| 22.1%<br />(34)
+| 16.8%<br />(26)
+| 13.9%<br />(21)
+| 9.4%<br />(14)
+| 16.8%<br />(26)
+| 7.7%<br />(11)
+| 4.5%<br />(7)
+| 3.3%<br />(5)
+| 1.5%<br />(2)
+| 2.4%<br />(4)
+| 1.1%<br />(1)
+| {{N/A}}
+|-
+| 5 April 2012<ref name="IPSOS 22 March & 5 April 2012"/>
+| Ipsos<br />Neth.
+| 23.6%<br />(36)
+| 17.1%<br />(26)
+| 13.3%<br />(20)
+| 8.8%<br />(13)
+| 16.3%<br />(25)
+| 8.7%<br />(13)
+| 4.1%<br />(6)
+| 3.2%<br />(5)
+| 1.4%<br />(2)
+| 2.0%<br />(3)
+| 0.8%<br />(1)
+| {{N/A}}
+|-
+| 19 April 2012<ref name="IPSOS 19&27 April 2012">{{cite web|url=http://www.ipsos-nederland.nl/content.asp?targetid=1024 |title=Ipsos Netherlands 27 April 2012|publisher=Politiekebarometer.nl |accessdate=25 May 2012}}</ref>
+| Ipsos<br />Neth.
+| 24.0%<br />(37)
+| 17.3%<br />(27)
+| 12.0%<br />(18)
+| 8.2%<br />(12)
+| 17.0%<br />(26)
+| 8.8%<br />(13)
+| 3.5%<br />(5)
+| 3.3%<br />(5)
+| 1.6%<br />(2)
+| 3.1%<br />(4)
+| 0.8%<br />(1)
+| {{N/A}}
+|-
+| 27 April 2012<ref name="IPSOS 19&27 April 2012"/>
+| Ipsos<br />Neth.
+| 22.4%<br />(34)
+| 16.5%<br />(25)
+| 12.1%<br />(18)
+| 8.4%<br />(13)
+| 17.2%<br />(26)
+| 10.6%<br />(16)
+| 3.3%<br />(5)
+| 4.0%<br />(6)
+| 1.7%<br />(2)
+| 2.2%<br />(3)
+| 0.8%<br />(1)
+| {{N/A}}
+|-
+| 5 May 2012<ref name="IPSOS 5&12 May 2012">{{cite web|url=http://www.ipsos-nederland.nl/content.asp?targetid=621 |title=Ipsos Netherlands 12 May 2012|publisher=Politiekebarometer.nl |accessdate=25 May 2012}}</ref>
+| Ipsos<br />Neth.
+| 22.9%<br />(35)
+| 14.7%<br />(23)
+| 11.4%<br />(17)
+| 9.0%<br />(14)
+| 18.5%<br />(28)
+| 10.1%<br />(15)
+| 4.1%<br />(6)
+| 3.6%<br />(5)
+| 1.4%<br />(2)
+| 2.9%<br />(4)
+| 0.8%<br />(1)
+| {{N/A}}
+|-
+| 12 May 2012<ref name="IPSOS 5&12 May 2012"/>
+| Ipsos<br />Neth.
+| 21.4%<br />(33)
+| 14.5%<br />(22)
+| 12.7%<br />(19)
+| 10.3%<br />(16)
+| 18.5%<br />(28)
+| 9.9%<br />(15)
+| 3.8%<br />(5)
+| 3.9%<br />(6)
+| 1.3%<br />(2)
+| 2.5%<br />(3)
+| 0.8%<br />(0)
+| {{N/A}}
+|-
+| 18 May 2012<ref name="IPSOS 18&25 May 2012">{{cite web|url=http://www.ipsos-nederland.nl/content.asp?targetid=1037 |title=Ipsos Netherlands 25 May 2012|publisher=Politiekebarometer.nl |accessdate=25 May 2012}}</ref>
+| Ipsos<br />Neth.
+| 20.1%<br />(31)
+| 16.0%<br />(24)
+| 13.8%<br />(21)
+| 10.7%<br />(16)
+| 17.3%<br />(27)
+| 9.8%<br />(15)
+| 3.8%<br />(5)
+| 3.4%<br />(5)
+| 1.4%<br />(2)
+| 2.5%<br />(3)
+| 0.7%<br />(0)
+| {{N/A}}
+|-
+| 25 May 2012<ref name="IPSOS 18&25 May 2012"/>
+| Ipsos<br />Neth.
+| 19.8%<br />(30)
+| 16.2%<br />(25)
+| 13.4%<br />(20)
+| 10.3%<br />(16)
+| 17.5%<br />(27)
+| 10.3%<br />(16)
+| 3.8%<br />(5)
+| 3.7%<br />(5)
+| 1.4%<br />(2)
+| 2.3%<br />(3)
+| 0.8%<br />(1)
+| {{N/A}}
+|-
+| 2 June 2012<ref name="IPSOS 2&15 June 2012">{{cite web|url=http://www.ipsos-nederland.nl/content.asp?targetid=1056 |title=Ipsos Netherlands 15 June 2012|publisher=Politiekebarometer.nl |accessdate=5 June 2012}}</ref>
+| Ipsos<br />Neth.
+| 21.0%<br />(32)
+| 15.3%<br />(24)
+| 14.1%<br />(22)
+| 9.4%<br />(14)
+| 17.6%<br />(27)
+| 9.7%<br />(15)
+| 3.7%<br />(5)
+| 3.4%<br />(5)
+| 1.6%<br />(2)
+| 2.3%<br />(3)
+| 0.8%<br />(1)
+| {{N/A}}
+|-
+| 15 June 2012<ref name="IPSOS 2&15 June 2012"/>
+| Ipsos<br />Neth.
+| 22.3%<br />(34)
+| 15.5%<br />(24)
+| 15.3%<br />(23)
+| 8.0%<br />(12)
+| 16.6%<br />(25)
+| 9.6%<br />(15)
+| 3.3%<br />(5)
+| 4.0%<br />(6)
+| 1.4%<br />(2)
+| 2.1%<br />(3)
+| 0.7%<br />(1)
+| {{N/A}}
+|-
+| 29 June 2012<ref name="IPSOS 29 June & 6 July 2012">{{cite web|url=http://www.ipsos-nederland.nl/content.asp?targetid=1064 |title=Ipsos Netherlands 6 July 2012|publisher=Politiekebarometer.nl |accessdate=2 July 2012}}</ref>
+| Ipsos<br />Neth.
+| 20.8%<br />(32)
+| 15.1%<br />(23)
+| 13.1%<br />(20)
+| 9.4%<br />(14)
+| 18.3%<br />(28)
+| 9.3%<br />(14)
+| 3.2%<br />(5)
+| 4.5%<br />(7)
+| 2.1%<br />(3)
+| 2.3%<br />(3)
+| 0.9%<br />(1)
+| {{N/A}}
+|-
+| 6 July 2012<ref name="IPSOS 29 June & 6 July 2012"/>
+| Ipsos<br />Neth.
+| 23.0%<br />(35)
+| 16.0%<br />(25)
+| 11.9%<br />(18)
+| 9.4%<br />(14)
+| 18.8%<br />(29)
+| 8.7%<br />(13)
+| 2.7%<br />(4)
+| 3.9%<br />(6)
+| 1.6%<br />(2)
+| 2.4%<br />(3)
+| 0.8%<br />(1)
+| {{N/A}}
+|-
+| 13 July 2012<ref name="IPSOS 13&27 July">{{cite web|url=http://www.ipsos-nederland.nl/content.asp?targetid=1068 |title=Ipsos Netherlands 27 July 2012|publisher=Politiekebarometer.nl |accessdate=13 July 2012}}</ref>
+| Ipsos<br />Neth.
+| 23.3%<br />(36)
+| 14.7%<br />(23)
+| 12.4%<br />(19)
+| 10.5%<br />(16)
+| 17.8%<br />(27)
+| 8.3%<br />(13)
+| 3.6%<br />(5)
+| 3.6%<br />(5)
+| 1.6%<br />(2)
+| 2.3%<br />(3)
+| 0.8%<br />(1)
+| {{N/A}}
+|-
+| 27 July 2012<ref name="IPSOS 13&27 July"/>
+| Ipsos<br />Neth.
+| 22.2%<br />(35)
+| 14.9%<br />(23)
+| 11.9%<br />(18)
+| 9.5%<br />(15)
+| 18.8%<br />(29)
+| 9.4%<br />(14)
+| 3.1%<br />(4)
+| 4.5%<br />(6)
+| 1.5%<br />(2)
+| 1.9%<br />(3)
+| 1.2%<br />(1)
+| {{N/A}}
+|-
+| 10 August 2012<ref name="10&17 Aug 2012" />
+| Ipsos<br />Neth.
+| 21.0%<br />(32)
+| 14.3%<br />(22)
+| 12.6%<br />(19)
+| 9.6%<br />(15)
+| 19.8%<br />(31)
+| 10.2%<br />(15)
+| 2.6%<br />(4)
+| 4.2%<br />(6)
+| 1.4%<br />(2)
+| 2.5%<br />(3)
+| 1.2%<br />(1)
+| {{N/A}}
+|-
+| 17 August 2012<ref name="10&17 Aug 2012">{{cite web|url=http://www.ipsos-nederland.nl/content.asp?targetid=1077 |title=Ipsos Netherlands 17 August 2012|publisher=Politiekebarometer.nl |accessdate=24 August 2012}}</ref>
+| Ipsos<br />Neth.
+| 22.7%<br />(35)
+| 14.9%<br />(23)
+| 11.9%<br />(18)
+| 9.0%<br />(14)
+| 18.4%<br />(29)
+| 9.5%<br />(14)
+| 2.7%<br />(4)
+| 3.4%<br />(5)
+| 2.0%<br />(3)
+| 2.5%<br />(3)
+| 1.4%<br />(2)
+| {{N/A}}
+|-
+| 24 August 2012<ref name="24&31 Aug 2012">{{cite web|url=http://www.ipsos-nederland.nl/content.asp?targetid=1081 |title=Ipsos Netherlands 31 August 2012|publisher=Politiekebarometer.nl |accessdate=2 September 2012}}</ref>
+| Ipsos<br />Neth.
+| 22.1%<br />(34)
+| 14.0%<br />(22)
+| 12.4%<br />(19)
+| 9.3%<br />(14)
+| 19.8%<br />(30)
+| 9.5%<br />(14)
+| 3.4%<br />(5)
+| 3.9%<br />(6)
+| 1.6%<br />(2)
+| 2.0%<br />(3)
+| 1.1%<br />(1)
+| {{N/A}}
+|-
+| 31 August 2012<ref name="24&31 Aug 2012"/>
+| Ipsos<br />Neth.
+| 22.1%<br />(34)
+| 16.6%<br />(26)
+| 13.2%<br />(20)
+| 8.9%<br />(13)
+| 17.1%<br />(27)
+| 9.2%<br />(14)
+| 2.9%<br />(4)
+| 3.5%<br />(5)
+| 1.5%<br />(2)
+| 2.6%<br />(4)
+| 1.0%<br />(1)
+| {{N/A}}
+|-
+| 3 September 2012<ref name="3&5 Sep 2012">{{cite web|url=http://www.ipsos-nederland.nl/content.asp?targetid=1088 |title=Ipsos Netherlands: Political Barometer in Detail – Week 36|publisher=Politiekebarometer.nl |accessdate=9 September 2012}}</ref>
+| Ipsos<br />Neth.
+| 22.7%<br />(35)
+| 19.3%<br />(30)
+| 11.7%<br />(18)
+| 9.0%<br />(14)
+| 15.4%<br />(24)
+| 9.5%<br />(14)
+| 1.7%<br />(3)
+| 3.1%<br />(4)
+| 1.3%<br />(2)
+| 3.0%<br />(4)
+| 1.8%<br />(2)
+| {{N/A}}
+|-
+| 5 September 2012<ref name="3&5 Sep 2012"/>
+| Ipsos<br />Neth.
+| 21.6%<br />(34)
+| 20.5%<br />(32)
+| 13.3%<br />(20)
+| 8.0%<br />(12)
+| 14.2%<br />(22)
+| 8.3%<br />(13)
+| 2.7%<br />(4)
+| 4.1%<br />(6)
+| 1.6%<br />(2)
+| 2.2%<br />(3)
+| 1.8%<br />(2)
+| 0.6%<br />(0)
+|-
+| 8 September 2012<ref name="5&8 Sep 2012">{{cite web|url=http://www.ipsos-nederland.nl/content.asp?targetid=1090 |title=Ipsos Netherlands: Political Barometer in Detail – Week 36 (8 September 2012)|publisher=Politiekebarometer.nl |accessdate=9 September 2012}}</ref>
+| Ipsos<br />Neth.
+| 22.5%<br />(35)
+| 22.7%<br />(35)
+| 12.3%<br />(19)
+| 8.4%<br />(13)
+| 13.4%<br />(21)
+| 7.7%<br />(11)
+| 2.9%<br />(4)
+| 4.2%<br />(6)
+| 1.5%<br />(2)
+| 2.2%<br />(3)
+| 0.7%<br />(1)
+| 0.6%<br />(0)
+|-
+| 11 September 2012<ref>{{cite web|url=http://www.ipsos-nederland.nl/content.asp?targetid=1095 |title=Ipsos Netherlands: Political Barometer in Detail – Week 37 (11 September 2012)|publisher=Politiekebarometer.nl |accessdate=12 September 2012}}</ref>
+| Ipsos<br />Neth.
+| 24.3<br />(37)
+| 23.4<br />(36)
+| 11.4%<br />(17)
+| 8.8%<br />(13)
+| 13.4%<br />(21)
+| 6.7%<br />(10)
+| 2.3%<br />(4)
+| 3.7%<br />(5)
+| 1.2%<br />(2)
+| 2.1%<br />(3)
+| 1.5%<br />(2)
+| 0.3%<br />(0)
+|-
+! Date
+! Polling<br />firm
+! [[People's Party for Freedom and Democracy|VVD]]
+! [[Labour Party (Netherlands)|PvdA]]
+! [[Party for Freedom|PVV]]
+! [[Christian Democratic Appeal|CDA]]
+! [[Socialist Party (Netherlands)|SP]]
+! [[Democrats 66|D66]]
+! [[GreenLeft|GL]]
+! [[ChristianUnion|CU]]
+! [[Political Reformed Party|SGP]]
+! [[Party for the Animals|PvdD]]
+! [[50PLUS|50 Plus]]
+! [[Pirate Party of the Netherlands|Pirate]]
+|}
+
+[[Natixis]] evaluated on Sebtember 6 the most recent opinion polls, and found the likelihood was strongest for the formation of a "purple government" of the pro-EU parties: VVD, CDA, D66, PvdA and, possible GL. It also pointed to other potential governing coalition that would include a pro-austerity government with VVD, CDA, D66, GL and CU; or a centre-left government of CDA, D66, GL and PvdA with a minority of seats, but with outside parliamentary support of the SP. The two largest [[eurosceptic]] parties, PVV and SP, are reportedly not interested in building a coalition. A similar scenario to the previous election could re-occur, considering no pre-election alliance will receive votes enough for majority, and thus needs to form a new more broad coalition government, comprising at least three parties.<ref>{{cite web|url=http://cib.natixis.com/flushdoc.aspx?id=65695|title=Dutch elections 2012 – where are we heading?|format=PDF|work=Special report -economic research (no.105)|publisher=Natixis|date=6 September 2012|accessdate=10 September 2012}}</ref>
+
+==Pre-election agreements==
+On 27 April, the two governing coalition parties, [[People's Party for Freedom and Democracy|VVD]] and [[Christian Democratic Appeal|CDA]] negotiated a deal to reduce the national deficit in 2013 to an acceptable level below 3% of GDP. This deal was also supported by the three opposition parties: [[Democrats 66|D66]], [[GreenLeft|GL]] and the [[ChristianUnion|CU]].<ref name="Kunduz agreement and new election"/>
+
+A ratification of the newly signed [[European Fiscal Compact|Fiscal Compact]] is unconditionally supported by the four parties: VVD, CDA, D66 and GL. The compact is however opposed by the three parties: PVV, CU and SP, while the PvdA, will only support it provided that the [[European Commission]] first grant the Netherlands a two-year exemption to comply, due to the existence of "extraordinary economic circumstances."<ref>{{cite web|url=https://www.research.hsbc.com/midas/Res/RDV?ao=20&key=T5101YnPKj&n=325001.PDF|title=Dutch government bond update: Political uncertainty to weigh on DSLs|publisher=HSBC Global Research|date=23 March 2012|accessdate=31 August 2012}}</ref>
+
+==Campaign==
+
+The VVD's Mark Rutte is said to be aligned with German Chancellor [[Angela Merkel]] in promoting austerity measures, while his closest rival the PvdA's Diederik Samsom's was said to reflect French President [[Francois Hollande]]'s stimulus measures from its own [[French presidential election, 2012|election this year]]. A final television debate took place on 11 September, with the economy reportedly the most important issue amongst voters. The day before the debate, Rutte said that he would stop delegating ever increasing powers to the European Union saying: "I am 'Mr No' when it comes to a Brussels that's expanding more and more." Conversely, Samsom said that he was in coordination with Hollande over dealing with the economic crisis.<ref name="aljazelection">{{cite news|url=http://www.aljazeera.com/news/europe/2012/09/2012911202543310232.html |title=Euro-dominated Dutch polls go down to wire |publisher=Al Jazeera |date=4 October 2011 |accessdate=13 September 2012}}</ref> Support for him and the PvdA grew after he was perceived as having the better performance in the debates. He also rejected taking cabinet posts in a coalition government saying: "I will either be prime minister, or I will lead my party in parliament." The vote was also seen as a test of the EU's popularity within the country.<ref>{{cite news|author=David Poort |url=http://www.aljazeera.com/news/europe/2012/09/2012997642143325.html |title=Dutch election set to test EU popularity |publisher=Al Jazeera |date=4 October 2011 |accessdate=13 September 2012}}</ref>
+
+Political analyst Anno Bunnik said that many voters were not keen on repeated early elections. He also pointed to PVV's Geert Wilders' declining popularity after he was viewed as a political opportunist not looking out for the national interest in effectively forcing a [[snap election]]. In citing Wilders' labeling as a "sorcerer's apprentice," he also pointed to a possible first-ever loss of seats for the PVV under Wilder's helm. He attributed this to Wilders' inefficiency in the debates of responding to the other party leaders instead of setting the agenda, instead in one debate he got into an argument with Rutte with both leaders calling each other liars in an unprecedented move.<ref>{{cite web|url=http://www.aljazeera.com/indepth/opinion/2012/09/201291192756398991.html |title=The rise and fall of Geert Wilders? |publisher=Al Jazeera |accessdate=13 September 2012}}</ref>
+
+Though opinion polls indicated a close race to gain a majority,<ref>{{cite web|url=http://www.euronews.com/2012/09/12/netherlands-election-is-too-close-to-call/ |title=Netherlands election is too close to call &#124; euronews, world news |publisher=Euronews.com |date=14 May 2012 |accessdate=13 September 2012}}</ref> the international media indicated a left-leaning government was likely to emerge as a result of the election.<ref>{{cite news|author=Email Us |url=http://www.irishtimes.com/newspaper/breaking/2012/0912/breaking14.html |title=Netherlands holds general election |work=The Irish Times  |date=12 September 2012 |accessdate=13 September 2012}}</ref> However, the French election was cited and countered as a turn in orientation for the government would still not lead to a change in austerity policies.<ref>{{cite web|url=http://www.guardian.co.uk/commentisfree/2012/sep/11/netherlands-turn-left-political-shift-austerity |title=The Netherlands gets ready to turn left |work=The Guardian |date=29 May 2008 |accessdate=13 September 2012}}</ref>
+
+==Results==
+[[File:2012-13 tk verkiezingen.JPG|thumb|Polling station in [[Silvolde]], Gelderland]]
+There was a turn-out of 74.6%, about one percent less than the previous election two years before. The [[Nederlandse Omroep Stichting|NOS]] reported the following results after 100% of the votes were counted:<ref name="NOS 13 September 2012">[http://nos.nl/dossier/365768-tweede-kamerverkiezingen-2012/tab/504/uitslagen/ "Tweede Kamerverkiezingen 2012: Uitslag"] (Dutch). NOS. 13 September 2012. Retrieved 13 September 2012.</ref>
+
+* The VVD won the most votes (26.6%), accruing 41 seats (an increase of 10).
+* The PvdA was second (24.8%), accruing 38 seats (an increase of 8).
+* The PVV was third (10.1%), with 15 seats (a loss of nine, down from 24 seats), and obtained the same number of seats as the  SP (15).
+* The GL lost six of its ten seats and just under two thirds of their voters.
+The Kiesraad announced the final results on 17 September.<ref name="Kiesraad final results">[http://www.kiesraad.nl/artikel/verkiezingsuitslagen Verkiezingsuitslagen], [http://www.kiesraad.nl/sites/default/files/Kerngegevens%202012_0.pdf Kerngegevens Tweede Kamerverkiezing 2012] (Dutch). Kiesraad. Retrieved 21 September 2012.</ref><ref>[http://nos.nl/artikel/419446-kiesraad-komt-met-officiele-uitslag.html Kiesraad komt met officiële uitslag] (Dutch). NOS. 17 September 2012. Retrieved 21 September 2012.</ref>
+
+{{Dutch general election, 2012}}
+
+{{bar box
+| title=Popular Vote
+| titlebar=#ddd
+| width=600px
+| barwidth=410px
+| bars=
+{{bar percent|VVD|{{People's Party for Freedom and Democracy/meta/color}}|26.58}}
+{{bar percent|PvdA|{{Labour Party (Netherlands)/meta/color}}|24.84}}
+{{bar percent|PVV|{{Party for Freedom/meta/color}}|10.08}}
+{{bar percent|SP|{{Socialist Party (Netherlands)/meta/color}}|9.65}}
+{{bar percent|CDA|{{Christian Democratic Appeal/meta/color}}|8.51}}
+{{bar percent|D66|{{Democrats 66/meta/color}}|8.03}}
+{{bar percent|CU|{{ChristianUnion/meta/color}}|3.13}}
+{{bar percent|GL|{{GreenLeft/meta/color}}|2.33}}
+{{bar percent|SGP|{{Reformed Political Party/meta/color}}|2.09}}
+{{bar percent|PvdD|{{Party for the Animals/meta/color}}|1.93}}
+{{bar percent|50+|#6600FF|1.88}}
+{{bar percent|Other|#777777|0.94}}
+}}
+
+==Government formation==
+In earlier times it was the sole task of the King (or Queen) to appoint a person to prepare the formation of a new cabinet (in Dutch, ''informateur''). The House of Representatives however changed the election law in the spring of 2012, so that the party with a plurality of votes now is responsible first to appoint a "verkenner" (scout), who after interviewing all party leaders submit a report to the House of Representatives, with a recommendation of who should be appointed as "informateur" and on what formation his first negotiation attempt should be. 
+
+On 13 September the [[People's Party for Freedom and Democracy|VVD]] appointed [[Henk Kamp]], the VVD's [[Ministry of Social Affairs and Employment (Netherlands)|Minister of Social Affairs and Employment]], as "scout".<ref>{{cite web |url=http://www.dutchnews.nl/news/archives/2012/09/social_affairs_minister_kamp_t.php |title=Social affairs minister Kamp to start cabinet formation process |work=DutchNews |date=13 September 2012}}</ref> He held formal individual interviews with all party leaders the following day, where they were asked about their support and priorities for the formation of a new government.
+
+<br>'''Overview of some possible majority coalitions:'''<ref>{{cite web|url=http://nos.nl/artikel/418043-overzicht-van-mogelijke-coalities.html|title=Overzicht van mogelijke coalities|publisher=NOS|language=Dutch|date=13 September 2012|accessdate=14 September 2012}}</ref>
+* '''VVD + PvdA<sup>1</sup>:''' 79 seats in the lower house, but with no majority in the Senate.
+* '''VVD + PvdA + CDA:''' 92 seats in the lower house, and a majority in the Senate.
+* '''VVD + PvdA + CDA + D66:''' 104 seats in the lower house, and a majority in the Senate.
+* '''VVD + PvdA + D66 (Purple)<sup>1</sup>:''' 91 seats in the lower house, but with no majority in the Senate.
+* '''VVD + PvdA + D66 + GL (Purple +):''' 95 seats in the lower house, and a majority in the Senate.
+* '''PvdA + SP + CDA + D66 (Center-Left):''' 78 seats in the lower house, and a majority in the Senate.
+* '''VVD + PVV + CDA + CU + SGP (Right):''' 77 seats in the lower house, and a majority in the Senate.
+* '''PvdA + SP + D66 + CU + GL + PvdD (Left)<sup>1</sup>:''' 76 seats, but with no majority in the Senate.
+* '''VVD + CDA + D66 + CU + GL + SGP ("Kunduz" with SGP)<sup>2</sup>:''' 78 seats, and a majority in the Senate.
+
+<small>'''Notes:''' 
+
+<sup>(1)</sup> Some of the possible formations of a majority government (i.e. PvdA and VVD), will hold a majority in the lower house but still lack a majority in the [[Senate of the Netherlands|Senate]], which must also pass all bills.<ref>{{cite web |url=http://nos.nl/artikel/418099-vvd-en-pvda-tot-elkaar-veroordeeld.html |title=VVD en PvdA tot elkaar veroordeeld |language=Dutch |work=NOS |date=13 September 2012 |accessdate=13 September 2012}}</ref> As the Senate in most cases has a tradition to respect the political will by the lower house, and with the possibility for the government parties in the remaining cases to negotiate a majority with other parties, the formation of a new stable government will not require the government parties to necessarily represent a majority in the Senate. 
+
+<sup>(2)</sup> The "Kunduz alliance" (also the "central alliance" or "spring alliance") made up of the [[People's Party for Freedom and Democracy|VVD]], [[Christian Democratic Appeal|CDA]], [[Democrats 66|D66]], [[GreenLeft|GL]] and the [[ChristianUnion|CU]], agreed on 27 April 2012 to reduce the national deficit in 2013 to below 3 per cent of GDP.<ref name="Kunduz agreement and new election"/> As a coalition these five parties together only won 75 seats in the 2012 election, two seats less than they held before the election and one seat short of a majority. If this alliance should form a new majority government, they would need the support of a sixth party (i.e. SGP).</small>
+
+<br>'''Party leaders' stated opinions on 14 September, about government formation:'''<ref>{{cite web|url=http://nos.nl/artikel/418582-kamp-spreekt-alle-lijsttrekkers.html|title=Kamp spreekt alle lijsttrekkers|publisher=NSO|language=Dutch|date=14 September 2012|accessdate=14 September 2012}}</ref>
+* '''VVD:''' Wants first to negotiate a possible formation with PvdA, and then invite all other parties to join (except for SP or PVV).
+* '''PvdA:''' Wants first to negotiate a possible formation with VVD, and then invite all other parties to join (except for PVV). If it is not possible to form a government with VVD, they want to form a center-left government with SP.
+* '''PVV:''' Wants to be in opposition, no matter what.
+* '''SP:''' Wants to be in opposition against any form of PvdA+VVD government. Is only interested to form a center-left government with PvdA, D66 and CDA.
+* '''CDA:''' Their first priority is a VVD+PvdA government with the possible add of additional parties. If a compromise between VVD and PvdA is indeed reachable, then CDA wants to negotiate with a representant from both parties, about the possibility also to join such a government. This official position was confirmed and supported by the CDA party board on 17 September,<ref>{{cite web|url=http://www.trouw.nl/tr/nl/4500/Politiek/article/detail/3317916/2012/09/17/CDA-commissie-buigt-zich-over-verkiezingsnederlaag.dhtml|title=CDA-commissie buigt zich over verkiezingsnederlaag|publisher=Trouw.nl |language=Dutch|date=17 September 2012|accessdate=18 September 2012}}</ref> ignoring a fraction of the party advocating the party instead should have opted for opposition -no matter what.<ref>{{cite web|url=http://www.nrc.nl/verkiezingen/2012/09/17/cda-alweer-verdeeld-over-deelname-aan-kabinet-met-vvd-en-pvda/|title=CDA opnieuw verdeeld. Dit keer over deelname aan kabinet met VVD en PvdA|publisher=NRC Handelsblad |language=Dutch|date=17 September 2012|accessdate=17 September 2012}}</ref>
+* '''D66:''' Their first priority is a VVD+PvdA government with the possible add of additional parties. If a compromise between VVD and PvdA is indeed reachable, then D66 wants to negotiate with a representant from VVD, about the possibility also to join such a government.
+* '''CU:''' Wants a PvdA and VVD government within maximum two months, with the possible add of additional parties.
+* '''SGP:''' Wants a PvdA and VVD government, and would prefer if the CDA join such a government as a third party, as this would give them a majority in both houses and bind the government together "like cement".
+* '''PvdD:''' Suggests that VVD first attempts to form a government with "like-minded" parties (not including PvdA). If that fails, then PvdA should attempt to form a government with "like minded" parties (not including VVD). And only if both of those two attempts fails, then and only then, the third option "to form any kind of VVD+PvdA government" should be attempted.
+* '''GL:''' Wants a PvdA and VVD government. Decided to be in opposition.<ref name="Liveblog with Day 2 announcements">{{cite web|url=http://nos.nl/liveblog/418546-de-formatie-dag-2.html|title=Formatie dag 2|publisher=NSO|language=Dutch|date=14 September 2012|accessdate=17 September 2012}}</ref>
+* '''50+:''' Wants a PvdA and VVD government, with the possible add of additional parties.<ref name="Liveblog with Day 2 announcements"/>
+
+[[Henk Kamp]] confirmed the above press statements in his "scout report" on 18 September, and recommended the House of Representatives to appoint him and [[Wouter Bos]] (PvdA) as the two leading negotiators ("informateurs") in an attempt to form a new government comprising the VVD and the PvdA. He emphasized that it was entirely up to those two parties to decide if they wanted to invite additional parties to join such a government, as the two parties together had a majority in the House of Representatives, but did not need a majority in the Senate to form a stable government.<ref>{{cite web|url=http://nos.nl/artikel/420177-kamp-en-bos-informateurs.html|title=Kamp en Bos informateurs|publisher=NSO|language=Dutch|date=18 September 2012|accessdate=19 September 2012}}</ref><ref>{{cite web|url=http://download.omroep.nl/nos/docs/Verslag_verkenner_Kamp_18092012.pdf|title=Verslag verkenner Kamp |format=PDF|publisher=NOS|author=Henk Kamp|language=Dutch|date=18 September 2012|accessdate=19 September 2012}}</ref>
+
+During a debate in the House of Representatives on 20 September, both the VVD and the PvdA announced they now preferred to establish a two-party government, rather than a wider coalition of more parties. They admitted this was a new stance from their initial statements from 14 September. This change of opinion was criticized in particular by D66 and CDA, but along with the appointment of Henk Kamp (VVD) and Wouter Bos (PvdA) as "informateurs", the proposal that the two parties now should negotiate the formation of a two-party government was passed by a majority in the House of Representatives.<ref>{{cite web|url=http://nos.nl/artikel/420899-rutte-en-samsom-snel-kabinet.html|title=Rutte en Samsom: snel kabinet|publisher=NSO|language=Dutch|date=20 September 2012|accessdate=20 September 2012}}</ref>
+
+Negotiations between the two parties started officially on 21 September. No official announcements were made during negotiations, but it was leaked from sources within the VVD on 24 September that if negotiations continued to go well, they expected it was possible to present the new two-party government within six to eight weeks. In regards of the budget for 2013, it was decided by the VVD and the PvdA to delay debating it in the House, until the point of time a new government had been formed, as it was considered to be one of the important negotiation points for the new government first to settle a deal on.<ref>{{cite web|url=http://www.trouw.nl/tr/nl/4500/Politiek/article/detail/3321549/2012/09/25/VVD-en-PvdA-willen-stemming-over-begroting-uitstellen.dhtml|title=VVD en PvdA willen stemming over begroting uitstellen|language=Dutch|publisher=Trouw.nl|date=25 September 2012|accessdate=25 September 2012}}</ref> On 1 October 2012, a partial agreement was sealed between VVD and PvdA for the 2013 budget, adjusting the previous 5-party spring agreement at several key points, but accepting that the overall budget deficit should remain being cut to only 2.7% of the GDP. The parties accepted for a debate and vote on the new agreement straight away, as the time was an issue, and there was no reason to wait for the lengthy negotiations first to end between VVD and PvdA on the overall government formation.<ref>{{cite web|url=http://www.trouw.nl/tr/nl/4500/Politiek/article/detail/3324921/2012/10/01/Lenteakkoord-voor-2-miljard-gewijzigd-na-ingrepen-VVD-en-PvdA.dhtml|title=Spring Agreement for 2000000000 changed after surgery PvdA and VVD|language=Dutch|publisher=Trouw.nl|date=1 October 2012|accessdate=1 October 2012}}</ref> Both VVD and PvdA stated they were happy now to have closed the partial budget agreement, but also admitted that government formation negotiations would probably last for several additional weeks, before a VVD-PvdA government potentially could be formed.<ref>{{cite web|url=http://www.trouw.nl/tr/nl/4500/Politiek/article/detail/3324944/2012/10/01/Formatie-gaat-nog-wel-even-duren.dhtml|title=Formation will take a while|language=Dutch|publisher=Trouw.nl|date=1 October 2012|accessdate=1 October 2012}}</ref>
+
+After two more weeks of negotiations the following three deals were also agreed: 1.) A new loan scheme for students is to be introduced on 1 January 2014. 2.) Officials are no longer allowed to refuse to marry same-sex couples 3.) Municipalities will get the freedom to decide whether stores open on Sundays.<ref name="Government formation"/>
+ 
+The negotiations for the government formation ended with a final agreement and a list of newly proposed ministers on 29 October, which was subsequently endorsed by VVD on 2 November and PvdA on 3 November. The new government comprising Mark Rutte as prime minister along with 7 VVD ministers and 6 PvdA ministers, were sworn in by Queen Beatrix on 5 November 2012.<ref name="Government formation"/>
+
+== See also ==
+* [[List of members of the House of Representatives of the Netherlands (2012–present)]]
+* [[List of Christian Democratic Appeal candidates for the Dutch general election, 2012]]
+
+== References ==
+{{Reflist|colwidth=33em}}
+
+{{Dutch general elections}}
+
+[[Category:2012 elections in Europe]]
+[[Category:General elections in the Netherlands|2012]]
+[[Category:2012 elections in the Netherlands]]

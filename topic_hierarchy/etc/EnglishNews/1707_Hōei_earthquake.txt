@@ -1,0 +1,53 @@
+{{Earthquake
+|title= 1707 Hōei earthquake
+|date= {{Start-date|October 28, 1707}}
+|map2= {{Location map|Japan
+ |label=
+ |lat=33.0
+ |long=136.0
+ |mark=Bullseye1.png
+ |marksize=50
+ |position=top
+ |width= 250
+ |float=right
+ |caption=
+ | relief=yes}}
+|magnitude = 8.6 Richter magnitude scale|M<sub>L</sub>, Mw8.7 - 9.3 (est.)
+|depth=
+|location={{coord|33.0|136.0|display=inline,title}}
+|countries affected = Japan: Chūbu region, Kansai region, Shikoku, Kyūshū
+|tsunami = yes
+|casualties = >5,000}}
+The '''1707 Hōei earthquake''', which occurred at 14:00 local time on October 28, 1707, was the largest earthquake in Japanese history until the 2011 Tōhoku earthquake and tsunami|2011 Tōhoku earthquake surpassed it. It caused moderate to severe damage throughout southwestern Honshu, Shikoku and southeastern Kyūshū. The earthquake, and the resulting destructive tsunami, caused more than 5,000 casualties. This event ruptured all of the segments of the Nankai megathrust earthquakes|Nankai megathrust simultaneously, the only earthquake known to have done this, with an estimated Richter magnitude scale|magnitude of 8.6 M<sub>L</sub>. It might also have triggered the Historic eruptions of Mount Fuji|last eruption of Mount Fuji 49 days later.
+
+==Background==
+The southern coast of Honshu runs parallel to the Nankai Trough, which marks the subduction of the Philippine Sea Plate beneath the Eurasian Plate. Movement on this convergent plate boundary leads to many earthquakes, some of them of Megathrust earthquake|megathrust type. The Nankai megathrust has five distinct segments (A-E) that can rupture independently, the segments have ruptured either singly or together repeatedly over the last 1,300 years. Nankai megathrust earthquakes|Megathrust earthquakes on this structure tend to occur in pairs, with a relatively short time gap between them. In addition to the two events in 1854, there were similar earthquakes in 1944 and 1946. In each case, the northeastern segment ruptured before the southwestern segment. In the 1707 event, the earthquakes were either simultaneous, or close enough in time, to not be distinguished by historical sources.
+
+==Damage==
+There were 29,000 houses destroyed and there were more than 5,000 casualties. At least one major landslide was triggered by the earthquake, the Ohya slide in Shizuoka Prefecture|Shizuoka. This landslide, one of the three largest in Japan, involved an area of 1.8&nbsp;km<sup>2</sup>, with an estimated volume of 120 million m<sup>3</sup>. The Nara Prefecture|Nara Basin shows evidence of Soil liquefaction|liquefaction caused by this event.
+
+==Characteristics==
+
+===Earthquake===
+The magnitude of the 1707 event exceeded that of both the 1854 Ansei-Tōkai earthquake|1854 Ansei-Tōkai and 1854 Ansei-Nankai earthquake|Ansei-Nankai earthquakes, based on several observations. The uplift at Cape Muroto, Kōchi Prefecture|Kōchi is estimated at 2.3 m in 1707 compared to 1.5 m in 1854, the presence of an area of seismic intensity of 6&ndash;7 on the Japan Meteorological Agency seismic intensity scale|JMA scale in Kawachi Province|Kawachi Plain, the degree of damage and inundations heights for the corresponding tsunami and records of tsunami at distant locations, such as Nagasaki and Jeju-do, South Korea.
+
+===Tsunami===
+Along the southwestern coast of Kōchi, run-up heights averaged 7.7 m with up to 10 m in places.25.7 m high at Kure, Nakatosa, Kōchi, 23 m at Tanezaki.
+
+===Link to eruption of Mount Fuji===
+There is evidence that changes in stress caused by large earthquakes may be sufficient to trigger volcanic eruptions, assuming that the magma system involved is close to a critical state. The great earthquake in 1707 may have caused changes in pressure in the magma chamber beneath Mount Fuji through a static stress change. Historic eruptions of Mount Fuji#H.C5.8Dei eruption|Mount Fuji erupted on December 16, 1707.
+
+==References==
+{{Reflist|30em}}
+
+{{NankaiTroughMegathrust}}
+{{Earthquakes in Japan}}
+
+{{DEFAULTSORT:1707 Hoei earthquake}}
+Category:Megathrust earthquakes in Japan
+Category:Tsunamis in Japan
+Category:1707 in Japan|Hoei earthquake
+Category:Mount Fuji
+Category:18th-century Tsunamis
+
+{{Link GA|ja}}

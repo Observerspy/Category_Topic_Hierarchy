@@ -1,0 +1,277 @@
+{{Use dmy dates|date=May 2011}}
+{{Infobox Election
+| election_name = German federal election, 2005
+| country = Germany
+| type = parliamentary
+| ongoing = no
+| previous_election = German federal election, 2002
+| previous_year = 2002
+| next_election = German federal election, 2009
+| next_year = 2009
+| seats_for_election = All 598 seats (plus 16 overhangs) in the [[Bundestag]] <br> 308 seats were needed for a majority
+| election_date      = {{Start date|df=yes|2005|09|18}}
+| turnout = 77.7% (voting eligible)<ref name="Voter turnout 2005">{{cite web|title=Voter turnout by election year|url=http://www.bundeswahlleiter.de/en/glossar/texte/Wahlbeteiligung.html|website=Website of the Federal Returning Officer's Office|publisher=The Federal Returning Officer|accessdate=7 November 2014}}</ref>
+
+<!--      CDU/CSU      -->
+| image1 = [[File:Angela Merkel Headshot 2004.jpg|170x170px]]
+| leader1 = [[Angela Merkel]]
+| party1 = CDU/CSU
+| last_election1 = 248 seats
+| seats1 = 226
+| seat_change1 = {{decrease}} 22
+| popular_vote1 = 16,631,049
+| percentage1 = 35.2%
+| swing1 = {{decrease}} 3.3%
+
+<!--      SPD   -->
+| image2 = [[File:Gerhard Schröder (cropped).jpg|170x170px]]
+| leader2 = [[Gerhard Schröder]]
+| party2 = Social Democratic Party of Germany
+| last_election2 = 251 seats
+| seats2 = 222
+| seat_change2 = {{decrease}} 29
+| popular_vote2 = 16,194,665
+| percentage2 = 34.2% 
+| swing2 = {{decrease}} 4.3%
+
+<!--      FDP   -->
+| image3 = [[File:Guido Westerwelle Headshot 2005.jpg|170x170px]]
+| leader3 = {{nowrap|[[Guido Westerwelle]]}}
+| party3 = Free Democratic Party (Germany)
+| last_election3 = 47 seats
+| seats3 = 61
+| seat_change3 = {{increase}} 14
+| popular_vote3 = 4,648,144
+| percentage3 = 9.8% 
+| swing3 = {{increase}} 2.5%
+
+<!--      PDS   -->
+| image4 = [[File:Lothar Bisky Headshot Bundestagwahl 2005.jpg|170x170px]]
+| leader4 = [[Lothar Bisky]]
+| party4 = Party of Democratic Socialism (Germany)
+| last_election4 = 2 seats
+| seats4 = 54
+| seat_change4 = {{increase}} 52
+| popular_vote4 = 4,118,194
+| percentage4 = 8.7% 
+| swing4 = {{increase}} 4.7%
+
+<!--      Greens   -->
+| image5 = [[File:Msc 2005-Sunday-IMG 3947.jpg|170x170px]]
+| leader5 = [[Joschka Fischer]]
+| party5 = Alliance '90/The Greens
+| last_election5 = 55 seats
+| seats5 = 51
+| seat_change5 = {{decrease}} 4
+| popular_vote5 = 3,838,326
+| percentage5 = 8.1% 
+| swing5 = {{decrease}} 0.5%
+
+| map_image  = German Federal Election - Party list vote results by state - 2005.png
+| map_size = 180px
+| map_caption = [[Party list]] election results by state: light blue denotes states where [[CDU/CSU]] had the plurality of votes, and pink denotes states where the [[SPD]] had the plurality of votes
+
+| title = [[Chancellor of Germany (Federal Republic)|Chancellor]]
+| posttitle = Resulting Chancellor
+| before_election = [[Gerhard Schröder]]
+| before_party = Social Democratic Party of Germany
+| after_election = [[Angela Merkel]]
+| after_party = CDU/CSU
+}}
+{{Politics of Germany}}
+'''German federal elections''' took place on 18 September 2005 to elect the members of the 16th German [[Bundestag (Germany)|Bundestag]], the federal parliament of Germany. They became necessary after a [[motion of confidence]] in Chancellor [[Gerhard Schröder]] failed on 1 July. Following the defeat of Schröder's [[Social Democratic Party of Germany|Social Democratic Party]] (SPD) in a state election, Schröder asked his supporters to abstain in the Bundestag motion in order that it fail and thus trigger an early federal election.
+
+The opposition [[Christian Democratic Union (Germany)|Christian Democratic Union]] (CDU) and its sister party in [[Bavaria]], the [[Christian Social Union of Bavaria|Christian Social Union]] (CSU), started the federal election campaign with a 21% lead over the SPD in opinion polls. Many commentators expected the Christian Democrats to win a clear electoral victory and that CDU leader [[Angela Merkel]] would become Chancellor, forming a government with the [[Free Democratic Party (Germany)|Free Democratic Party]] (FDP) and displacing the governing SPD-[[Alliance '90/The Greens|Green]] coalition. However, the CDU/CSU significantly lost momentum during the campaign and ultimately won only 1% more votes and four more seats than the SPD.
+
+Exit polls showed clearly that neither coalition group had won a majority of seats in the Bundestag, leading to a [[hung parliament]] situation. Both parties lost seats compared to 2002, as did the Greens, while only the [[Left Party (Germany)|Left Party]] (a partial successor of the [[Party of Democratic Socialism (Germany)|Party of Democratic Socialism]] led by [[Gregor Gysi]] and former SPD chairman [[Oskar Lafontaine]]) made significant gains. Both Schröder and Merkel claimed victory, but the formation of a new government required careful negotiations. On 10 October 2005, officials from the SPD and the CDU/CSU indicated that negotiations between the two had concluded successfully and that the participating parties would form a [[grand coalition (Germany)|grand coalition]] with Angela Merkel as Chancellor.  When the Bundestag met on 22 November, 397 CDU/CSU and SPD Bundestag members duly voted for Merkel.
+
+==Background==
+Chancellor Schröder orchestrated the loss of the Bundestag motion of confidence with the aim of triggering an early federal election following the [[North Rhine-Westphalia state election, 2005|defeat]] of his [[Social Democratic Party of Germany|SPD]] in Germany's most populous state, [[North Rhine-Westphalia]] on 22 May 2005. The victory of the [[Christian Democratic|CDU]] in North Rhine-Westphalia gave that party, together with the FDP, a working majority in the [[Bundesrat of Germany|Bundesrat]], the federal legislature's upper house.
+
+Early federal elections in Germany can only take place after the dissolution of the Bundestag by the [[President of Germany]], since the constitution forbids the Bundestag to dissolve itself. The President can dissolve it only after the Chancellor loses a vote on a [[motion of confidence]]. The [[Federal Constitutional Court of Germany|Federal Constitutional Court]] ruled in a similar situation in 1983 that Chancellors may not ask the President for the Bundestag's dissolution merely for the sake of their desire for an early election; they have to have a real problem getting a majority for his legislation. Many observers agree that Schröder met this requirement, since a number of left-wing SPD delegates had expressed great reservations about Chancellor Schröder's labour reform and welfare reform programme. However, only days before the vote, the coalition had passed a number of bills with no dissenters, indicating strong support for the Chancellor within the coalition. After urging members to abstain on the vote, Chancellor Schröder purposely lost a vote of confidence in the [[Bundestag]] on 1 July by 296 to 151. On 21 July President [[Horst Köhler]] dissolved the Bundestag and paved the way for the early election on 18 September.
+
+The Green member of parliament [[Werner Schulz]] – who, in a much-cited speech on the day of the motion of confidence, had criticised the deliberate loss of the motion as "farcical" and likened the Bundestag's obedience to Schröder to behaviour typical of the [[German Democratic Republic]] [[Volkskammer]]  – and the SPD member of parliament [[Jelena Hoffmann]] jointly filed a constitutional complaint in the Federal Constitutional Court. The Court rejected the complaint on 25 August, ruling as valid the President's decision to dissolve the Bundestag, thereby giving the green light for the early elections on 18 September and ending speculation that Schröder would have to step down or lead a "[[lame duck (politics)|lame duck]]" government.
+
+A small number of members of minor political parties filed similar complaints: the Court similarly rejected them during the week before the election.
+
+* These figures constitute the final results published by the ''Bundeswahlleiter'' (Federal election officer).
+* 77.7% of voters cast ballots, down 1.4% from 2002. This included a number of invalid votes as follows: 850,072 (1.8%) in the constituency section, 756,146 (1.6%) in the list section.
+* The CDU and the CSU sit together as one [[caucus]] in the [[Bundestag]] and do not compete against each other. The CSU runs only in the state of [[Bavaria]] while the CDU competes in all other states.
+* These results include nine "[[overhang seat|overhang mandates]]" for the SPD and seven for the CDU.
+* These results compare the results for the Left. party with those of the PDS in 2002.
+* These results include the delayed result from the Dresden-I seat (see below).
+
+==Campaign==
+The [[Christian Democratic Union (Germany)|CDU]]/[[Christian Social Union of Bavaria|CSU]] nominated [[Angela Merkel]] for Chancellor, the first time in German history that one of the two larger parties has nominated a woman for this position. The CDU presented a platform involving increasing the pace and scope of economic deregulation in Germany and pursuing cuts in income tax and public spending (many commentators have compared Merkel with [[Margaret Thatcher]]). The CDU began the campaign with a 21% lead over the SPD and confidence in Merkel's victory led the [[Prime Minister of the United Kingdom]], [[Tony Blair]], to meet with her ahead of Chancellor Schröder during a visit to Berlin in June.
+
+The [[Social Democratic Party of Germany|SPD]] had the goal of maintaining the current deregulation agenda. They added to their election program some minor corrections such as broadening the financing base of the healthcare system and the proposal of a 3% additional tax for people with annual incomes above 250,000 euro (after the governing coalition earlier in 2005 cut the highest income tax rate from 48.5% to 42%).
+
+[[Image:SPDposter200508.jpg|thumb|left|200px|Election placard of the Social Democratic Party]]
+
+The [[Alliance '90/The Greens|Greens]] decided on their program in July 2005. Compared to their previous federal election program, they increased the emphasis on economics and labour-market politics. For the first time this topic came before the classical green topic of environmental politics in the program. In general, the program moved slightly to the [[Left-wing politics|left]]; including stating the necessity for changes to some existing red-green governmental policies.
+
+The [[Free Democratic Party of Germany|FDP]] announced its election program before any other party, publishing it on 24 July.<ref>{{cite news| url=http://de.today.reuters.com/news/newsArticle.aspx?type=politicsNews&storyID=2005-07-25T144452Z_01_DEO552966_RTRDEOC_0_DEUTSCHLAND-WAHL-FDP-PROGRAMM-20050725.xml |agency=Reuters   | title=Reuters.com}}</ref> It called for strong saving measures in public spending and more room for local negotiation between employees and employers, as opposed to central control by [[trade union|trade-union]] officials.
+
+The leaders of the left wing [[Left Party (Germany)|Party of Democratic Socialism]] (the "PDS") agreed to let candidates of the centre left [[Electoral Alternative for Labor and Social Justice]] (the "WASG") run on their party list, leaving open the possible future option of a merger between the two parties. In agreeing to this the WASG stipulated that the PDS rename itself as the [[Left Party (Germany)|Left Party]]. The WASG, with its front-runner [[Oskar Lafontaine]] (a former SPD leader), formed from breakaway elements within the SPD, angered at that party taking a "neoliberal" direction in economic reforms. The general membership has already approved this measure and awaits to hear from the PDS party convention to agree as well. If successful this could lead to a further erosion of the SPD's strength, as the PDS has never made inroads in the former [[West Germany]] (it lineally succeeded the former governing communist party ([[Socialist Unity Party of Germany]]) of the former [[German Democratic Republic]]), while the WASG has its base in western Germany and could garner substantial votes there.
+
+[[Image:Gruenen Velotaxi 20050813.jpg|thumb|right|200px|A bicycle-taxi (velotaxi) in front of the German Reichstag building in Berlin with the Greens livery]]
+
+Two of Germany's small [[far right|far-right]] parties, the [[National Democratic Party of Germany|National Democratic Party]] (NPD) and the [[German People's Union]] (DVU), announced that they would run on a common platform in this election, raising fears in the mainstream German political establishment that together they might succeed in gaining more than 5% of the national vote and thus in entering the Bundestag. Since German electoral law does not permit common lists of two or more parties, in practice the DVU did not enter the election, and members of that party appeared on the NPD list.
+
+Early election polls during summer 2005 from [http://www.wahlrecht.de/umfragen/index.htm 6 organizations] showed a solid lead for the [[Christian Democratic Union (Germany)|CDU]]/[[Christian Social Union in Bavaria|CSU]] with a share of the vote ranging between 41% and 43%, and the [[Social Democratic Party of Germany|SPD]] trailing at between 32% and 34%. The polls further showed the [[Free Democratic Party of Germany|FDP]], a possible coalition partner for the conservatives, at between 6.5% and 8%, and the [[Alliance '90/The Greens|Greens]], the current coalition partner for the SPD, between 6% and 8%. Most polls indicated a likely majority for a CDU/CSU-FDP coalition. As for other parties, those polls which explicitly included the PDS-WASG electoral alliance showed it above the 5% hurdle at between 7% and 8.5%. No poll showed any other parties, including far-right parties, near 5%, although far-right parties have in the past sometimes polled below their actual support due to unwillingness by voters to admit their support.
+
+In early August support for Angela Merkel declined considerably. Reasons for this included conflicts about the election program in and between the conservative parties (the CDU and the CSU), and arguments with their preferred coalition partner, the FDP, as well as embarrassing gaffes. At one point the media criticized Merkel for confusing [[net income|net]] and [[gross income]] figures during a campaign speech. Following this, polls suggested that the CDU/CSU and FDP would only win 48% of votes between them, and thus would not be able to form a government.<ref>{{cite news| url=http://www.findarticles.com/p/articles/mi_qn4158/is_20050809/ai_n14851485 }} {{Dead link|date=August 2010|bot=RjwilmsiBot}}</ref> Further damage occurred when two prominent CDU/CSU candidates, [[Jörg Schönbohm]] and the CSU leader Edmund Stoiber, made insulting remarks about East Germans. These remarks not only alienated voters in Eastern Germany but also made some question the CDU/CSU's confidence in Merkel, as she herself grew up in the East.
+
+However, polls carried out by the ''[[Süddeutsche Zeitung]]'' in late August showed the CDU/CSU/FDP bloc back up at 51% of the vote. Predictions suggested that the opposing bloc of incumbent Chancellor Gerhard Schröder's ruling Social Democrats, the Greens and the country's recently formed left-wing Left Party (PDS/[[Labour and Social Justice – The Electoral Alternative|WASG]] alliance) would win a combined total of only 46%. The leaders of the SPD and the Greens, Schröder and Fischer, as well as the Left Party's front-runner [[Gregor Gysi]] said they opposed the idea of a "red-red-green" coalition. With polls remaining so close, speculation increased that (as in the elections of 1994, 1998 and 2002) a small number of [[Additional member system#Overhang seats|overhang seats]] might significantly impact the election results.
+
+[[Image:Wahl 2005 Linke.jpg|thumb|right|200px|Left Party election placard]]
+
+On Sunday 4 September, Schröder and Merkel met in a head-to-head debate which was broadcast by four of Germany's major private and public television networks. Although most commentators gave the initial edge to Merkel, polls soon showed that the general public disagreed and ranked Schröder the clear winner. Later analysis suggested that Merkel's support for a [[flat tax|flat-tax]] proposal by [[Paul Kirchhof]], the shadow Finance Minister, further undermined her credibility on economic affairs and gave the impression that the CDU's economic reforms would only benefit the very rich.
+
+[[File:Germany election districts 2005.svg|thumb|right|Parliamentary districts won by each party]]
+
+Midweek polls showed the SPD clawing their way upwards by a few percentage points although the combined CDU/CSU and FDP votes tended to remain 1 to 2 percentage points ahead of those for the left-wing parties combined. On the eve of the election, the CDU enjoyed a 9% lead over the SPD (42% and 33% respectively), albeit with neither party likely to have enough seats (even with their preferred coalition partners) to form a government. Merkel's personal popularity (consistently below that of her party) had climbed back up to 40%, from a low of 30% while Schröder's had reached a peak of 53% (consistently exceeding that of his party). However, polls also showed that even at this late stage, a quarter of German voters had not yet decided how to vote and that these undecided voters could decide the final result if they turned out to vote. With polls still so close, the parties broke with tradition and continued campaigning on the Saturday before the election and on election day itself. While pundits focused on the likelihood of a [[grand coalition]], the CDU suggested that the SPD might consent to forming a coalition with the new Left Party.
+
+==Vote==
+[[Image:Bundestagswahl 05 stimmzett.jpg|200px|thumb|left|Ballot for electoral district 252, Würzburg. Constituency vote on left, party list vote on right.]]
+
+Germany went to the polls on 18 September 2005. Voters in one constituency in [[Dresden]] had to wait until 2 October to vote in order to allow the reprinting of ballot-papers after the death of the [[National Democratic Party of Germany|National Democratic Party]] candidate on 8 September.
+
+Soon after voting ended, it became clear that the CDU/CSU (the “Union”) had narrowly edged out the [[Social Democratic Party of Germany|SPD]]. However, neither of the two likely coalitions (SPD-[[Alliance 90/The Greens|Greens]] and [[Christian Democratic Union (Germany)|CDU]]/[[Christian Social Union of Bavaria|CSU]]-[[Free Democratic Party (Germany)|FDP]]) could achieve a ''Kanzlermehrheit'' – the support of the majority of members of the Bundestag required to elect a Chancellor. This meant that Germany had a [[hung parliament]] as no coalition could hold an overall parliamentary majority. [[Exit poll]]s for both the [[ARD (broadcaster)|ARD]] and the [[ZDF]] television networks showed the CDU/CSU on 35%, the SPD on 34%, the FDP on 10%, the Left Party on 9% and the Greens on 8%; a [[Forsa Institute|Forsa]] poll differed slightly, predicting 36% for the CDU/CSU and 8% for the [[Left Party (Germany)|Left Party]]. Early seat projections suggested that the CDU/CSU and the SPD had virtually tied in the count for seats in the Bundestag. The exit polls and projections proved broadly accurate in the preliminary results released on 19 September and in the final results published on 7 October.
+
+The SPD/Green coalition's number of seats fell from 306 seats (in a house of 603), to 273 seats (in a house of 614) while the opposition, the CDU/CSU-FDP coalition's number of seats fell from 295 seats to 286 seats. Both potential coalitions fell far short of the 308 seats required for a majority in this Bundestag. The Left Party and the FDP overtook the Greens, previously Germany’s third most-popular party since [[German federal election, 1994|1994]]. The FDP, with almost 10% of the vote, scored its best result since [[German federal election, 1990|the 1990 federal election]], regaining its status as the Federal Republic’s third party, which it had enjoyed throughout the history of [[West Germany]] and maintained in the first post-[[German reunification]] election. Some analysts believe that the rise in the FDP vote came as a result of [[tactical voting]] by CDU-CSU voters hoping to prevent a grand coalition by buttressing the Free Democrats. Of the parties that failed to secure the 5% needed to attain seats in the Bundestag, the [[National Democratic Party of Germany|National Democratic Party]] performed best, winning 1.6% of the list vote and 1.8% of the constituency vote.
+{{-}}
+
+==Results==
+{{German federal election, 2005}}
+{| style="width:70%; text-align:center;"
+|+ ↓
+|- style="color:white;"
+| style="background:black; width:35.2;" | '''226'''
+| style="background:red; width:34.2%;" | '''222'''
+| style="background:gold; width:9.8%;" | '''61'''
+| style="background:brown; width:8.7%;" | '''54'''
+| style="background:green; width:8.1%;" | '''51'''
+|-
+| <span style="color:black;">'''CDU/CSU'''</span>
+| <span style="color:red;">'''SPD'''</span>
+| <span style="color:gold;">'''FDP'''</span>
+| <span style="color:brown;">'''PDS'''</span>
+| <span style="color:green;">'''Grüne'''</span>
+|}
+
+{{bar box
+| title=Popular Vote
+| titlebar=#ddd
+| width=600px
+| barwidth=410px
+| bars=
+{{bar percent|'''CDU/CSU'''|{{Christian Democratic Union (Germany)/meta/color}}|35.17}}
+{{bar percent|SPD|{{Social Democratic Party of Germany/meta/color}}|34.25}}
+{{bar percent|FDP|{{Free Democratic Party (Germany)/meta/color}}|9.83}}
+{{bar percent|Linkspartei.PDS|{{The Left (Germany)/meta/color}}|8.71}}
+{{bar percent|B'90/GRÜNE|{{Alliance '90/The Greens/meta/color}}|8.12}}
+{{bar percent|NPD|{{National Democratic Party of Germany/meta/color}}|1.58}}
+{{bar percent|Other|#777777|2.35}}
+}}
+
+{{bar box
+| title=Bundestag seats
+| titlebar=#ddd
+| width=600px
+| barwidth=410px
+| bars=
+{{bar percent|'''CDU/CSU'''|{{Christian Democratic Union (Germany)/meta/color}}|36.81}}
+{{bar percent|SPD|{{Social Democratic Party of Germany/meta/color}}|36.16}}
+{{bar percent|FDP|{{Free Democratic Party (Germany)/meta/color}}|9.93}}
+{{bar percent|Linkspartei.PDS|{{The Left (Germany)/meta/color}}|8.79}}
+{{bar percent|B'90/GRÜNE|{{Alliance '90/The Greens/meta/color}}|8.31}}
+}}
+
+==Aftermath==
+{{update|section|date=May 2012|"future" policies of the Grand Coalition}} <!-- Note the use of the future tense in the last paragraph -->
+Both [[Angela Merkel]] (CDU) and [[Gerhard Schröder]] (SPD) claimed victory and the [[Chancellor of Germany (Federal Republic)|Chancellorship]] as the exit polls came in. It soon became clear that neither could form a majority government within the existing coalitions. Largely because of strong hostility between Schröder and [[Oskar Lafontaine]], a former SPD chairman turned leader of the Left Party, the obvious left-wing coalition of the SPD, Greens and Left Party was not possible. However, both the CDU and SPD said that they would negotiate with all parties that had won seats except the Left Party, while the leaders of the Left Party rejected any possibility of participating in a coalition with either of the two main parties. The exclusion of the Left Party reduced the possible coalitions to the following three arrangements:
+
+* SPD, FDP and Greens (called the [[traffic light coalition]], after the colours used to symbolize those parties: red, yellow and green, respectively). (The SPD governed in coalition with the Greens from 1998 to 2005, and in coalition with the FDP from 1969 to 1982.)
+* CDU/CSU, FDP and Greens (called the [[Jamaica coalition (politics)|Jamaica coalition]] after those parties' colours: black, yellow and green, respectively, which colours also feature in the [[Jamaica]]n national flag). (The CDU/CSU governed in coalition with the FDP from 1949 to 1956, from 1961 to 1966 and from 1982 to 1998; but neither party had worked with the Greens in federal government.)
+* CDU/CSU and SPD (a [[grand coalition (Germany)|grand coalition]]). (The CDU/CSU and SPD previously governed in a grand coalition from 1966 to 1969.)
+
+Despite some prominent members publicly blaming Merkel for its poor showing, the CDU/CSU confirmed her as leader on 20 September.<ref>{{cite news| url=http://news.bbc.co.uk/1/hi/world/europe/4262638.stm |work=BBC News  | title=Merkel boosted by party support | date=20 September 2005 | accessdate=3 May 2010}}</ref> On 22 September, SPD members began musing that the political system should consider the CDU and the CSU as separate entities rather than as a single parliamentary faction. In such a scenario, the SPD would be the largest party in the Bundestag and thus, they argued, an SPD member should become Chancellor in any grand coalition. One SPD legislator indicated he planned to introduce a motion in the Bundestag explicitly defining the CDU and the CSU as separate parties. The Greens rejected coalition with the CDU/CSU after talks broke down.<ref>{{cite news| url=http://news.bbc.co.uk/1/hi/world/europe/4275694.stm |work=BBC News  | title=German Greens spurn CDU alliance | date=23 September 2005 | accessdate=3 May 2010}}</ref> The CDU/CSU pressed their case for the Chancellery after victory in the delayed vote in [[Dresden]], and ahead of talks with the SPD; the SPD maintained their own claim, but Schröder indicated that he would step aside if his party wished it.<ref>{{cite news| url=http://news.bbc.co.uk/1/hi/world/europe/4304088.stm |work=BBC News  | title=German CDU pushes leadership bid | date=3 October 2005 | accessdate=3 May 2010}}</ref>
+
+Finally, on 10 October, officials from the CDU/CSU and the SPD announced that negotiations to form a grand coalition had succeeded. Angela Merkel would become Chancellor and the sixteen seats in the new [[cabinet of Germany|cabinet]] (including the Chancellery) would go equally to each side, with both the CDU/CSU and the SPD each having eight posts. The SPD would control eight ministries including the important roles of [[Minister of Finance (Germany)|finance]] and [[Minister of Foreign Affairs (Germany)|foreign affairs]], while the CDU/CSU would control six ministries as well as providing the Chancellor and the Director of the Federal Chancellery (the Chancellor's Chief of Staff), who would also hold the position of Minister for Special Affairs.<ref>[http://edition.cnn.com/2005/WORLD/europe/10/13/germany.government.ap/] {{Dead link|date=January 2010}}</ref><ref>[http://today.reuters.co.uk/news/newsArticle.aspx?type=worldNews&storyID=2005-10-13T105834Z_01_MCC332149_RTRUKOC_0_UK-GERMANY-MINISTERS.xml Breaking News, Business News, Financial and Investing News & More | Reuters.co.uk<!-- Bot generated title -->]</ref> Gerhard Schröder would retire from politics.<ref>{{cite news| url=http://news.bbc.co.uk/1/hi/world/europe/4325600.stm |work=BBC News  | title=Merkel named as German chancellor | date=10 October 2005 | accessdate=3 May 2010}}</ref><ref>{{cite news| url=http://today.reuters.com/News/newsArticle.aspx?type=worldNews&storyID=2005-10-10T092353Z_01_KRA983130_RTRUKOC_0_US-GERMANY.xml |agency=Reuters   | title=Business & Financial News }}</ref>
+
+Detailed negotiations on the formation of the new government continued into November, with [[Edmund Stoiber]] of the CSU withdrawing from the proposed cabinet to continue as Minister-president of Bavaria. All three parties held conferences on 14 November which voted to approve the deal.<ref>{{cite news| url=http://news.bbc.co.uk/1/hi/world/europe/4434812.stm |work=BBC News  | title=German parties back new coalition | date=14 November 2005 | accessdate=3 May 2010}}</ref> The majority of CDU/CSU and SPD delegates in the newly assembled Bundestag elected Merkel as Chancellor on 22 November.<ref>{{cite news| url=http://news.bbc.co.uk/1/hi/world/europe/4458430.stm |work=BBC News  | title=Merkel becomes German chancellor | date=22 November 2005 | accessdate=3 May 2010}}</ref> 397 members of the Bundestag voted for Merkel, indicating that 51 members from one or more of the SPD, CDU or CSU do not support the coalition deal.
+
+Reports have indicated that the grand coalition would pursue a mix of policies, some of which directly contradict aspects of Merkel's political platform as a former leader of the opposition and candidate for Chancellor. The coalition intended to cut public spending while increasing [[VAT]], [[social insurance|social-insurance]] contributions and the top rate of [[income tax]].<ref>{{cite news| url=http://news.bbc.co.uk/1/hi/world/europe/4429518.stm |work=BBC News  | title=German coalition poised for power | date=11 November 2005 | accessdate=3 May 2010}}</ref> Employment protection would no longer cover employees during their first two years in a job, and the new government intended to freeze pensions and to scrap subsidies for first-time home buyers. In the field of foreign policy, Germany would maintain its strong ties with France and with [[Poland]], and will continue its support for [[Turkey]] as a future member of the [[European Union]]. Merkel has defined the main aim of her government as reducing unemployment, and expressed the hope that posterity will judge the success of her tenure on the basis of this issue.<ref>{{cite news| url=http://news.bbc.co.uk/1/hi/world/europe/4431262.stm |work=BBC News  | title=Merkel defends German reform plan | date=12 November 2005 | accessdate=3 May 2010}}</ref>
+
+== See also ==
+* [[List of political parties in Germany]]
+
+==Further reading==
+* Langenbacher, Eric, ed. ''Launching the Grand Coalition: The 2005 Bundestag Election and the Future of German Politics'' (2007) [http://www.amazon.com/Launching-Grand-Coalition-Bundestag-Election/dp/1845452836/  excerpt and text search]
+* {{cite journal
+ | quotes = 
+ | last = Proksch
+ | first = Sven-Oliver
+ |author2=Jonathan B. Slapin
+ |date=May 2006
+ | title = Institutions and coalition formation: The German election of 2005
+ | journal=[[West European Politics]]
+ | volume = 29
+ | issue = 3
+ | pages = 540–559
+ | doi = 10.1080/01402380600619884
+ | id = 
+ | url = 
+ | format = 
+ | laysummary = 
+ | laysource = 
+ | laydate = 
+ | quote = 
+ }}
+* {{cite journal
+ | quotes = 
+ | last = Pulzer
+ | first = Peter
+ |date=May 2006
+ | title = Germany votes for deadlock: The federal election of 2005
+ | journal=[[West European Politics]]
+ | volume = 29
+ | issue = 3
+ | pages = 560–572
+ | doi = 10.1080/01402380600620692
+ | id = 
+ | url = 
+ | format = 
+ | laysummary = 
+ | laysource = 
+ | laydate = 
+ | quote = 
+ }}
+
+== References ==
+{{reflist}}
+
+== External links ==
+{{Commons category|2005 Germany Bundestagswahl|2005 German Federal Election}}
+* {{de icon}} [http://www.bundeswahlleiter.de/bundestagswahl2005/ergebnisse/bundesergebnisse/ Official Results from the Federal Election Officer]
+* {{de icon}} [http://www.bundeswahlleiter.de/bundestagswahl2005/downloads/ergebn2005/voetab3.pdf Number of the Land list seats won by each party]
+* [http://www.bundeswahlleiter.de/bundestagswahl2005/presse_en/pd391211.html Results summary in English]
+* [http://www.dw-world.de/election05 Deutsche Welle's] latest news and podcasts on the 2005 German election
+* {{de icon}} [http://stat.tagesschau.de/wahlarchiv/wid246/index.shtml Results at tagesschau.de]
+
+*  {{de icon}} [http://www.historische-wahlplakate.de Historische-Wahlplakate.de] Among others Election Posters from German Federal Election 2005
+*http://service.spiegel.de/cache/international/0,1518,369430,00.html
+*http://news.bbc.co.uk/1/hi/world/europe/4144812.stm
+*http://www.dw-world.de/dw/article/0,1564,1676848,00.html
+
+;Poll results
+* {{de icon}} [http://www.election.de Wahlen in Deutschland]
+* {{de icon}} [http://www.wahlrecht.de/umfragen/ Umfragen zur Bundestagswahl (Sonntagsfrage)]
+<br style="clear:both">
+
+{{German federal elections}}
+
+[[Category:Federal elections in Germany|2005]]
+[[Category:2005 elections in Germany| Federal]]
+[[Category:Angela Merkel]]

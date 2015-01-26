@@ -1,0 +1,93 @@
+{{Infobox Election
+| election_name = Polish presidential election, 2005 (Round 2)
+| country = Poland
+| type = presidential
+| ongoing = no
+| previous_election = Polish presidential election, 2000
+| previous_year = 2000
+| next_election = Polish presidential election, 2010
+| next_year = 2010
+| election_date = 23 October 2005
+| image1 = [[File:Lech Kaczyński.jpg|131px]]
+| nominee1 = [[Lech Kaczyński]]
+| party1 = Law and Justice
+| popular_vote1 = 8,257,468
+| percentage1 = 54.0%
+| image2 = [[File:Premier RP D Tusk.jpg|127px]]
+| nominee2 = [[Donald Tusk]]
+| party2 = Civic Platform
+| popular_vote2 = 7,022,319
+| percentage2 = 46.0%
+| title = [[President of Poland|President]]
+| posttitle = [[President of Poland|President]]
+| before_election = [[Aleksander Kwaśniewski]]
+| before_party = independent (politician)
+| after_election = [[Lech Kaczyński]]
+| after_party = Law and Justice
+}}
+{{Politics of Poland}}
+'''The 2005 Presidential elections''' were held in [[Poland]] on October 9 and October 23, 2005. The outgoing [[President of Poland]], [[Aleksander Kwaśniewski]], had served two five-year terms and was unable to stand for a third term. [[Lech Kaczyński]] defeated [[Donald Tusk]] to become President of Poland.
+
+== Background ==
+Two [[centrism|center]]-[[right-wing|right]] candidates, [[Donald Tusk]], chairman of the [[Civic Platform]] party (PO), and [[Lech Kaczyński]], leader of the [[Law and Justice]] party (PiS) and mayor of [[Warsaw]], led the poll in the first round, as was widely expected. As neither received 50 percent of the vote, a second round was held on 23 October. In this round, Kaczyński defeated Tusk, polling 54.04 percent of the vote.
+
+Although both leading candidates came from the center-right, and their two parties had planned to form a coalition government following the [[Polish legislative election, 2005|legislative elections]] on 25 September, there were important differences between Tusk and Kaczyński. Tusk is considered somewhat more socially and economically liberal, favoring more rapid [[European integration]] and a [[free-market economy]]. Kaczyński is more socially conservative, in the tradition of post-[[Communist]] Poland's first President, [[Lech Wałęsa]], and is skeptical of the [[European Union]].  Such differences led to the failure of PiS-PO coalition talks in late October.
+
+[[Włodzimierz Cimoszewicz]], the candidate of the [[Alliance of the Democratic Left]], which was the governing party before the legislative election withdrew from the race on September 14. At the time he withdrew he was third in the polls, still having the most chances to get to the second round (besides Kaczyński and Tusk).
+
+Other candidates, who withdrew from the elections, but initially have signed to, were [[Zbigniew Religa]] and [[Maciej Giertych]]. [[Daniel Podrzycki|Daniel Tomasz Podrzycki]], who have also signed, died in an accident before the elections.
+
+Ten people had registered themselves in election procedure, but failed to gather 100,000 support signatures: Arnold Buzdygan, Stanisław Ceberek, [[Gabriel Janowski]], Jan Antoni Kiełb, Waldemar Janusz Kossakowski, Marian Romuald Rembelski, [[Zbigniew Roliński]], Sławomir Salomon, [[Maria Szyszkowska]], [[Bolesław Tejkowski]].
+
+The figure of [[Józef Tusk]], grandfather of current [[Prime Minister of Poland|Polish Prime Minister]] [[Donald Tusk]], was in the center of the "[[Józef_Tusk#Legacy|Wehrmacht affair]]" over his brief period of service after being drafted into the [[Wehrmacht|German army]] during the late stages of [[World War II]], which was the biggest controversy of the election.<ref name=w24-2/><ref name=bbc/><ref name="AutoPS-1"/>
+
+== Candidates ==
+<gallery>
+File:Henryka Bochniarz official photo.JPG|Activist '''[[Henryka Bochniarz]]'''
+File:Lech Kaczyński.jpg|Mayor of Warsaw '''[[Lech Kaczyński]]'''
+
+File:Andrzej Lepper.jpg|Member of [[Sejm]] '''[[Andrzej Lepper]]'''
+File:Korwin.png|Chairman of Unia Polityki Realnej '''[[Janusz Korwin-Mikke]]'''
+
+File:Msc 2009-Saturday, 11.00 - 13.00 Uhr-Zwez 009 Tusk.jpg|Vice Marshal of the Sejm '''[[Donald Tusk]]'''
+File:Stan Tyminski.jpg|Former Presidential candidate '''[[Stanisław Tymiński]]'''
+</gallery>
+* Activist '''Leszek Bubel'''
+* Activist '''Liwiusz Ilasz'''
+* Activist '''Jan Pyszko'''
+
+=== Withdrawn ===
+
+*[[Zbigniew Religa]] - [[Senat of the Republic of Poland|senator]], prominent [[cardiac surgeon]], candidate of [[Centre Party (Poland)|Centre Party]].
+*[[Włodzimierz Cimoszewicz]] - former [[List of Prime Ministers of Poland|Prime Minister]], candidate of [[Democratic Left Alliance]].
+*[[Maciej Giertych]] - member of [[European Parliament]], candidate of [[League of Polish Families]].
+
+=== Dead ===
+*[[Daniel Podrzycki]] - socialist, candidate of [[Polish Labour Party (Sierpień 80)|Polish Labour Party]] and [[Communist Party of Poland]].
+
+== Results ==
+Voters turnout in the first round was quite low with only 49.6 percent of all eligible voters casting their votes. 
+[[File:Wybory prezydenckie 2005 I tura.png|thumb|255px|Results of the first round]]
+{{Polish_presidential_election,_2005}}
+== References ==
+{{Reflist|refs=
+<ref name=w24-2>{{pl icon}} Barbara Szczepuła , ''[http://www.wiadomosci24.pl/artykul/dziadek_z_wehrmachtu_8211_jozef_tusk_i_inni_3469.html Józef Tusk i inni]'', Dziennik Bałtycki, 2006-08-04</ref>
+
+<ref name=bbc>{{cite web|url=http://news.bbc.co.uk/2/hi/europe/7056054.stm |title=Europe &#124; Profile: Donald Tusk |publisher=BBC News |date=2007-10-22 |accessdate=2010-03-14}}</ref>
+
+<ref name="AutoPS-1">{{pl icon}} ''[http://www.wprost.pl/ar/93897/Raport-o-dziadku-z-Wehrmachtu/ Raport o dziadku z Wehrmachtu]'', [[Wprost]], 2006-08-17</ref>
+}}
+
+==External links==
+*[http://www.angus-reid.com/tracker/index.cfm?fuseaction=viewItem&itemID=7423 Angus Reid Consultants - Election Tracker]
+*[http://www.pbssopot.com.pl/x.php?x=184/Kalkulator-prezydencki.html "Presidential Calculator", [[Rzeczpospolita (newspaper)|Rzeczpospolita]] ]
+*[http://www.prezydent2005.pkw.gov.pl/PZT/EN/WYN/W/index.htm Official results]
+*[http://www.axisglobe.com/article.asp?article=335 Reference files on the Poland's presidential candidates.]
+
+{{History of the Third Polish Republic}}
+{{Polish Elections}}
+
+[[Category:2005 elections in Europe]]
+[[Category:2005 in Poland|Presidential election]]
+[[Category:Elections in Poland]]
+[[Category:History of Poland (1989–present)]]

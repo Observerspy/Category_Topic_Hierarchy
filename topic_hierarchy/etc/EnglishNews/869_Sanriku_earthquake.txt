@@ -1,0 +1,83 @@
+{{Use dmy dates|date=March 2012}}
+{{Earthquake
+|title= 869 Sanriku earthquake
+|date= {{Start-date|df=yes|9 July 869}}
+|map2 = {{Location map | Japan
+ | label=
+ | lat=38.5
+ | long=143.8
+ | mark=Bullseye1.png
+ | marksize=50
+ | position=top
+ | width= 250
+ | float=right
+ | caption=
+ | relief=yes}}
+|magnitude = 8.6 Surface wave magnitude|M<sub>s</sub>, 9.0 Moment magnitude scale|M<sub>w</sub>
+|depth=
+|location={{coord|38.5|143.8|display=inline,title}}
+|countries affected = Japan, Miyagi Prefecture
+|tsunami = yes
+|casualties = ≈1,000
+}}
+The {{nihongo|'''869 Sanriku earthquake'''|贞観地震|Jōgan jishin}} and associated tsunami struck the area around Sendai in the northern part of Honshu on 9 July 869 (26th day of 5th month,
+11th year of Jōgan). The earthquake had an estimated magnitude of 8.6 on the surface wave magnitude scale. However, it is likely that the moment magnitude rating may have been similar to the 2011 Tōhoku earthquake and tsunami at around 9.0.  The tsunami caused widespread flooding of the Sendai plain, with sand deposits being found up to {{convert|4|km}} from the coast.
+
+== Name ==
+In Japan this earthquake is commonly called "Jogan Jishin（贞観地震）". Jōgan is the Japanese era name for the period from 859 to 877 AD. But during the era other large earthquakes also occurred in Japan, so the name of the geographic epicenter and the anno domini year number when the quake occurred are sometimes added. Sanriku in this context is a name roughly corresponding to the Pacific Ocean|Pacific front northeastern coastal area of Honshu island.
+The Japanese history text, ''Nihon Sandai Jitsuroku'' which was compiled in 901, recorded the 869 earthquake and tsunami of Mutsu Province.
+
+== Description in public archives ==
+Although this earthquake occurred in the frontier region of the ancient Japanese Empire based at Kyoto, a short and precise official record of this catastrophe was left. The description in "Nihon Sandai Jitsuroku" is the following.
+
+ {{Quotation|
+(Original Text written in classical Chinese)五月廿六日癸未　陆奥国地大震动　流光如昼隐映　顷之　人民叫呼　伏不能起　或屋仆压死　或地裂埋殪　马牛骇奔　或相升踏　城（郭）仓库　门橹墙壁　颓落颠覆　不知其数　海口哮吼　声似雷霆　惊涛涌潮　溯洄涨长　忽至城下　去海数十百里　浩々不辨其涯诸　原野道路　惣为沧溟　乘船不遑　登山难及　溺死者千许　资产苗稼　殆无孑遗焉
+}}
+
+{{Quotation|
+(English Translation)
+On 26th day of 5th month (9 July 869 AD) a large earthquake occurred in Mutsu province with some strange light in the sky. People shouted and cried, lay down and could not stand up. Some were killed by the collapsed houses, others by the landslides. Horses and cattle got surprised, madly rushed around and injured the others. Enormous buildings, warehouses, gates and walls were destroyed. Then the sea began roaring like a big thunderstorm. The sea surface suddenly rose up and the huge waves attacked the land. They raged like nightmares, and immediately reached the city center. The waves spread thousands of yards from the beach, and we could not see how large the devastated area was. The fields and roads completely sank into the sea. About one thousand people drowned in the waves, because they failed to escape either offshore or uphill from the waves. The properties and crop seedlings were almost completely washed away.
+}}
+
+== Tectonic setting ==
+The northern part of Honshu lies above the convergent boundary between the over-riding Okhotsk Plate (a proposed microplate within the North American Plate) and the Subduction|subducting Pacific Plate. This boundary has been associated with a series of large historical earthquakes, originating either from rupture along the plate interface or from deformation within either the over-riding or subducting plates, many of them triggering a destructive tsunami, such as the 1896 Meiji-Sanriku earthquake.
+
+== Damage ==
+In the area which the earthquake struck, the Imperial Court of Japan battled with an Indigenous peoples|indigenous people of the Tōhoku region, Emishi, at that time. According to ''Nihon Sandai Jitsuroku'', around 1000 people were killed by the tsunami.
+
+Despite a lack of reliable sources, there are legends about the earthquake from Tōhoku region to Bōsō Peninsula.
+
+The tsunami caused extensive flooding of the Sendai plain, destroying the town of Tagajō, Miyagi|Tagajō. Archaeological investigations have identified the remains of 8th and 9th century buildings beneath the town, covered by sediments dated to the middle of the 10th century.
+
+== Characteristics ==
+
+=== Earthquake ===
+The estimated magnitude of the earthquake as 8.6 on the surface wave magnitude scale, has been taken from modelling of the tsunami. A source area of {{convert|200|km}} long by {{convert|85|km}} wide with a displacement of {{convert|2|m}} is consistent with the observed distribution and degree of flooding. Thus the magnitude of this quake may have been as high as 9.0.
+
+=== Tsunami ===
+The extent of flooding caused by the tsunami of the Sendai plain has been mapped using dated deposits of sand. The tsunami flooded at least {{convert|4|km}} inland.
+
+== Predicted earthquake hazard ==
+Three tsunami deposits have been identified within the Holocene sequence of the Sendai plain, all formed within the last 3,000 years, suggesting an 800 to 1,100 year recurrence interval for large tsunamigenic earthquakes. In 2001 it was reckoned that there was a high likelihood of a large tsunami hitting the Sendai plain as more than 1,100 years had then elapsed.
+
+As for the other two large tsunamis recognized before the 869 tsunami, one was estimated to have occurred between about 1000 BC and 500 BC and the other around 1 AD. In 2007 the probability of an earthquake with a magnitude of M<sub>w</sub> 8.1–8.3 was estimated as 99% within the following 30 years.
+
+The 2011 Tōhoku earthquake was somewhat larger than the predicted event, but occurred in the same area as the 869 earthquake and caused major flooding in the Sendai area.
+
+==See also==
+*Seismicity of the Sanriku coast
+**1896 Meiji-Sanriku earthquake
+**1933 Sanriku earthquake
+**2011 Tōhoku earthquake
+
+== References ==
+{{reflist|colwidth=30em}}
+
+{{Earthquakes in Japan}}
+{{JapanTrenchMegathrust}}
+
+Category:Tsunamis in Japan|0869 Sanriku
+Category:9th-century earthquakes
+Category:869 in Asia
+Category:Megathrust earthquakes in Japan|0869 Sanriku
+Category:9th century in Japan

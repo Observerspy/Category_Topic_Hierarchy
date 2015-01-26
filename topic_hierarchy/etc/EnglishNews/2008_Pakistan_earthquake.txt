@@ -1,0 +1,52 @@
+{{Earthquake
+|title=2008 Pakistan earthquake
+|date={{Start date|2008|10|29}} (October 28 UTC)
+|map = 2008pakistan earthquake.jpg
+|magnitude = 6.4 Moment magnitude scale|M<sub>w</sub>
+|depth={{convert|10|km|mi|abbr=on}}
+|location=Balochistan (Pakistan)|Balochistan province, near Quetta
+|countries affected = {{Flag|Pakistan}}
+|intensity =
+|casualties = 215 Dead <br /> 200 Injured
+}}
+The '''2008 Pakistan earthquake''' was a magnitude Moment magnitude scale|M<sub>w</sub> 6.4 earthquake that hit the Pakistani province of Balochistan (Pakistan)|Balochistan on October 29, 2008. The US Geological Survey reported that the quake occurred {{convert|60|km|mi|abbr=on}} north of Quetta and {{convert|185|km|mi|abbr=on}} southeast of the Afghanistan city of Kandahar at 04:09 local time (28 October, 23:09 UTC) at a depth of {{convert|15|km|mi|abbr=on}}, at 30.653°N, 67.323°E. and 120,000 were homeless (according to Dilawar Khan Kakar, Ziarat, Balochistan (Pakistan)|Balochistan mayor and chief administrator). ''The New York Times'' reported that Qamar Zaman Chaudhry, director general of Pakistan Meteorological Department, stated the quake epicenter was {{convert|70|mi|km}} north of Quetta, and about {{convert|600|km|mi|abbr=on}} southwest of Islamabad. Quetta, Balochistan (Pakistan)|Baluchistan's capital, was levelled in 1935 by a magnitude Moment magnitude scale|M<sub>w</sub> 7.6 earthquake which left 30,000 people dead, according to the US Geological Survey.
+
+==Tectonic summary==
+Earthquakes and active faults in western and northern Pakistan and adjacent parts of Afghanistan are the result of the Indian plate moving northward at a rate of about 40&nbsp;mm/yr (1.6&nbsp;inches/yr) and colliding with the Eurasian plate. Along the northern edge of the Indian subcontinent, the Indian plate is subducting beneath the Eurasian plate, causing uplift that produces the highest mountain peaks in the world, including the Himalayan, the Karakoram, the Pamir Mountains|Pamir and the Hindu Kush ranges. West and south of the Himalayan front, the relative motion between the two plates is oblique, which results in strike-slip, reverse-slip, and oblique-slip earthquakes. The pattern of elastic waves that were radiated by the October 28 and 29, 2008, earthquakes implies that each earthquake was the result of predominantly strike-slip faulting. Seismographically recorded waveforms imply that the shocks were caused by either left-lateral slip on a northeast-striking fault or right-lateral slip on a northwest-striking fault. The tectonic setting favours left-lateral slip on a northeast-trending fault as the likely fault plane.
+
+The October 28 and 29 earthquakes occurred in the Sulaiman fold-and-thrust belt, a region where geologically young (Tertiary) sedimentary rocks have been folded and squeezed by forces associated with the Indian-Eurasian collision. The earthquakes are located approximately 80&nbsp;km east of the 650-km-long Chaman Fault|Chaman fault, which is a major left-lateral strike-slip fault that accommodates a significant amount of the slip across the plate boundary. The occurrence of the earthquakes suggests that other left-lateral strike-slip faults are present beneath the fold-and-thrust belt and that they accommodate some of the relative motion of the Indian and Eurasian plates.
+
+The earthquakes of October 28 and 29, 2008, are located approximately 50&nbsp;km northeast of the region of most intense damage from the Pakistan earthquake of May 30, 1935 (M 7.6), which is estimated to have killed 30,000 people. The 1935 earthquake probably occurred as the result of left-lateral strike-slip motion on a northeast-striking fault.
+
+==Details==
+Most of the casualties were from two villages on the outskirts of Ziarat town. Balochistan chief minister Aslam Raisani|Nawab Aslam Khan Raisani ordered declaration of emergency in the hospitals of the affected areas. These areas, situated on steep terrain, were badly damaged by landslides caused by the quake. Hundreds of mud houses were destroyed.
+
+{{Quote box|align=right|width=25%|quote="Rescue work is being carried out by the villagers themselves, but a larger operation is needed here."|source=''Mayor of Ziarat'' Dilawar Kakar }}
+
+The tremors were felt in Quetta, Ziarat, Pishin, Pakistan|Pishin, Qila Abdullah, Mastung, Pakistan|Mastung, Sibi, Bolan District|Bolan, Kuchlak and Loralai areas.
+
+==Response==
+Dilawar Khan, mayor of Ziarat District, stated that his office had requested support from the local government. Pakistani Armed Forces|Pakistani military helicopters and troops were dispatched to assess damage and aid victims.
+
+==See also==
+{{Portal|Pakistan|Disasters}}
+*1935 Balochistan earthquake
+*2005 Pakistan earthquake
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+*http://alertnet.org/db/crisisprofiles/PK_EAR.htm Crisis briefing Pakistan quake 2008 From http://alertnet.org Reuters Alertnet
+*http://www.alertnet.org/thenews/newsdesk/LT228497.htm REUTERS, CHRONOLOGY-Major earthquakes in recent years
+*http://news.bbc.co.uk/2/hi/in_pictures/7696717.stm  BBC, In pictures: Pakistan quake
+*http://news.bbc.co.uk/2/hi/in_depth/2059330.stm BBC, History of deadly earthquakes
+
+{{coord|30.569|N|67.484|E|source:dewiki_region:PK_type:landmark|display=title}}
+
+{{Earthquakes in 2008}}
+
+{{DEFAULTSORT:2008 Pakistan Earthquake}}
+Category:2008 earthquakes|Pakistan earthquake
+Category:Earthquakes in Pakistan
+Category:2008 in Pakistan|Earthquake

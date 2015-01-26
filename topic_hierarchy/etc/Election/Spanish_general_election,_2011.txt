@@ -1,0 +1,1694 @@
+{{Use dmy dates|date=December 2012}}
+{{Infobox election
+| election_name      = Spanish general election, 2011
+| country            = Spain
+| type               = parliamentary
+| ongoing            = no
+| previous_election  = Spanish general election, 2008
+| previous_year      = 2008
+| next_election      = Spanish general election, 2015
+| next_year          = ''2015''
+| seats_for_election = All 350 seats of the [[Spanish Congress of Deputies|Congress of Deputies]] and 208 (out of the 266) seats in the [[Spanish Senate|Senate]]<br/>176 seats needed for a majority in the Congress of Deputies,<br/>134 in the Senate (105 for elected seats)
+| opinion_polls      = Opinion polling for the Spanish general election, 2011
+| turnout            = 24,666,441 (68.9%)<br/>{{decrease}}4.9 [[Percentage point|pp]]
+| election_date      = 20 November 2011
+
+<!-- PP -->
+| image1             = [[File:Presidente Mariano Rajoy Brey 2012 - La Moncloa (Recortada).jpg|170x170px]]
+| leader1            = [[Mariano Rajoy]]
+| leader_since1      = 2 September 2003
+| party1             = People's Party (Spain)
+| last_election1     = 154 [[Congress of Deputies (Spain)|C]] + 101 [[Senate of Spain|S]]<br/>39.9%
+| seats1             = {{Infobox political party/seats|186|350|hex=#1D84CE}}{{Infobox political party/seats|136|208|hex=#1D84CE}}
+| seat_change1       = {{increase}}32 [[Congress of Deputies (Spain)|C]]<br/>{{increase}}35 [[Senate of Spain|S]]
+| popular_vote1      = '''10,866,566'''
+| percentage1        = '''44.6%'''
+| swing1             = {{increase}}4.7 [[Percentage point|pp]]
+
+<!-- PSOE -->
+| image2             = [[File:Alfredo Pérez Rubalcaba (diciembre de 2010).jpg|170x170px]]
+| leader2            = [[Alfredo Pérez Rubalcaba]]
+| leader_since2      = 9 July 2011<ref>{{cite news |url=http://www.lavanguardia.com/politica/20110710/54184276305/rubalcaba-dice-adios-a-las-ideas-y-el-estilo-de-zapatero.html |title=Rubalcaba dice adiós a las ideas y el estilo de Zapatero |publisher=La Vanguardia |date=2011-07-10}}</ref>
+| party2             = Spanish Socialist Workers' Party
+| last_election2     = 169 [[Congress of Deputies (Spain)|C]] + 96 [[Senate of Spain|S]]<br/>43.9%
+| seats2             = {{Infobox political party/seats|110|350|hex=#EF1C27}}{{Infobox political party/seats|54|208|hex=#EF1C27}}
+| seat_change2       = {{decrease}}59 [[Congress of Deputies (Spain)|C]]<br/>{{decrease}}42 [[Senate of Spain|S]]
+| popular_vote2      = 7,003,511
+| percentage2        = 28.8%
+| swing2             = {{decrease}}15.1 [[Percentage point|pp]]
+
+<!-- IU/ICV -->
+| image3             = [[File:CayoLaraIU2.jpg|170x170px]]
+| leader3            = [[Cayo Lara]]
+| leader_since3      = 14 December 2008
+| party3             = United Left (Spain)
+| last_election3     = 2 [[Congress of Deputies (Spain)|C]] + 1 [[Senate of Spain|S]]<br/>3.8%
+| seats3             = {{Infobox political party/seats|11|350|hex=#732021}}{{Infobox political party/seats|1|208|hex=#732021}}
+| seat_change3       = {{increase}}9 [[Congress of Deputies (Spain)|C]]<br/>{{steady}}0 [[Senate of Spain|S]]
+| popular_vote3      = 1,686,040
+| percentage3        = 6.9%
+| swing3             = {{increase}}3.1 [[Percentage point|pp]]
+
+<!-- UPyD -->
+| image4             = [[File:Rosa Diez.jpg|170x170px]]
+| leader4            = [[Rosa Díez]]
+| leader_since4      = 26 September 2007
+| party4             = Union, Progress and Democracy
+| last_election4     = 1 [[Congress of Deputies (Spain)|C]] + 0 [[Senate of Spain|S]]<br/>1.2%
+| seats4             = {{Infobox political party/seats|5|350|hex=#CB2884}}{{Infobox political party/seats|0|208|hex=#CB2884}}
+| seat_change4       = {{increase}}4 [[Congress of Deputies (Spain)|C]]<br/>{{steady}}0 [[Senate of Spain|S]]
+| popular_vote4      = 1,143,225	
+| percentage4        = 4.7%
+| swing4             = {{increase}}3.5 [[Percentage point|pp]]
+
+<!-- CIU -->
+| image5             = [[File:Josep Antoni Duran i Lleida (retrato).png|170x170px]]
+| leader5            = [[Josep Antoni Duran i Lleida]]
+| leader_since5      = 2003
+| party5             = Convergence and Union
+| last_election5     = 10 [[Congress of Deputies (Spain)|C]] + 4 [[Senate of Spain|S]]<br/>3.0%
+| seats5             = {{Infobox political party/seats|16|350|hex=#18307B}}{{Infobox political party/seats|9|208|hex=#18307B}}
+| seat_change5       = {{increase}}6 [[Congress of Deputies (Spain)|C]]<br/>{{increase}}5 [[Senate of Spain|S]]
+| popular_vote5      = 1,015,691
+| percentage5        = 4.2%
+| swing5             = {{increase}}1.2 [[Percentage point|pp]]
+
+<!-- Amaiur -->
+| image6             = [[File:Iñaki Antiguedad 2.jpg|170x170px]]
+| leader6            = [[Iñaki Antigüedad]]
+| leader_since6      = 11 October 2011<ref>{{cite news |url=http://www.deia.com/2011/10/12/politica/euskadi/inaki-antigedad-sera-el-cabeza-de-lista-de-amaiur-por-bizkaia-el-20-n |title=Iñaki Antigüedad será el cabeza de lista de Amaiur por Bizkaia el 20-N |publisher=Deia |date=2011-10-12}}</ref>
+| party6             = Amaiur
+| last_election6     = ''Did not contest''
+| seats6             = {{Infobox political party/seats|7|350|hex=#087178}}{{Infobox political party/seats|3|208|hex=#087178}}
+| seat_change6       = {{increase}}7 [[Congress of Deputies (Spain)|C]]<br/>{{increase}}3 [[Senate of Spain|S]]
+| popular_vote6      = 334,498
+| percentage6        = 1.4%
+| swing6             = ''New party''
+
+<!-- Map -->
+|map                 = {{Image label begin|image=SpainElectionMapG2011.PNG|width=435|float=none}} 
+{{Image label small|x=0.28|y=0.09|scale=435|text=[[Galicia (Spain)|<span style="font-size:95%; color:black;">Galicia</span>]]}}
+{{Image label small|x=0.62|y=0.11|scale=435|text=[[Chartered Community of Navarre|<span style="font-size:85%; color:black;">Navarre</span>]]}}
+{{Image label small|x=0.51|y=0.27|scale=435|text=[[Community of Madrid|<span style="font-size:95%; color:black;">Madrid</span>]]}}
+{{Image label small|x=0.58|y=0.14|scale=435|text=[[La Rioja (Spain)|<span style="font-size:85%; color:black;">La Rioja</span>]]}}
+{{Image label small|x=0.68|y=0.20|scale=435|text=[[Aragon|<span style="font-size:95%; color:black;">Aragon</span>]]}}
+{{Image label small|x=0.80|y=0.17|scale=435|text=[[Catalonia|<span style="font-size:95%; color:black;">Catalonia</span>]]}}
+{{Image label small|x=0.67|y=0.35|scale=435|text=[[Valencian Community|<span style="font-size:95%; color:black;">Valencian<br/>Community</span>]]}}
+{{Image label small|x=0.52|y=0.34|scale=435|text=[[Castile–La Mancha|<span style="font-size:95%; color:black;">Castile–<br/>La Mancha</span>]]}}
+{{Image label small|x=0.34|y=0.37|scale=435|text=[[Extremadura|<span style="font-size:95%; color:black;">Extremadura</span>]]}}
+{{Image label small|x=0.44|y=0.17|scale=435|text=[[Castile and León|<span style="font-size:95%; color:black;">Castile<br/>and León</span>]]}}
+{{Image label small|x=0.39|y=0.055|scale=435|text=[[Principality of Asturias|<span style="font-size:95%; color:black;">Asturias</span>]]}}
+{{Image label small|x=0.48|y=0.07|scale=435|text=[[Cantabria|<span style="font-size:85%; color:black;">Cantabria</span>]]}}
+{{Image label small|x=0.575|y=0.06|scale=435|text=[[Basque Country (autonomous community)|<span style="font-size:85%; color:black;">Basque<br/>Country</span>]]}}
+{{Image label small|x=0.65|y=0.47|scale=435|text=[[Region of Murcia|<span style="font-size:95%; color:black;">Murcia</span>]]}}
+{{Image label small|x=0.44|y=0.51|scale=435|text=[[Andalusia|<span style="font-size:95%; color:black;">Andalusia</span>]]}}
+{{Image label small|x=0.42|y=0.66|scale=435|text=[[Ceuta|<span style="font-size:85%; color:black;">Ceuta</span>]]}}
+{{Image label small|x=0.57|y=0.63|scale=435|text=[[Melilla|<span style="font-size:85%; color:black;">Melilla</span>]]}}
+{{Image label small|x=0.89|y=0.37|scale=435|text=[[Balearic Islands|<span style="font-size:95%; color:black;">Balearic<br/>Islands</span>]]}}
+{{Image label small|x=0.18|y=0.60|scale=435|text=[[Canary Islands|<span style="font-size:95%; color:black;">Canary<br/>Islands</span>]]}}
+
+{{Image label small|x=0.22|y=0.76|scale=435|text=[[A Coruña (Spanish Congress Electoral District)|<span style="font-size:85%; color:black;">A Coruña</span>]]}}
+{{Image label small|x=0.33|y=0.77|scale=435|text=[[Lugo (Spanish Congress Electoral District)|<span style="font-size:85%; color:black;">Lugo</span>]]}}
+{{Image label small|x=0.20|y=0.805|scale=435|text=[[Pontevedra (Spanish Congress Electoral District)|<span style="font-size:85%; color:black;">Pontevedra</span>]]}}
+{{Image label small|x=0.30|y=0.83|scale=435|text=[[Ourense (Spanish Congress Electoral District)|<span style="font-size:85%; color:black;">Ourense</span>]]}}
+{{Image label small|x=0.63|y=0.81|scale=435|text=[[Navarre (Spanish Congress Electoral District)|<span style="font-size:85%; color:black;">Navarre</span>]]}}
+{{Image label small|x=0.52|y=0.97|scale=435|text=[[Madrid (Spanish Congress Electoral District)|<span style="font-size:85%; color:black;">Madrid</span>]]}}
+{{Image label small|x=0.58|y=0.835|scale=435|text=[[La Rioja (Spanish Congress Electoral District)|<span style="font-size:85%; color:black;">La Rioja</span>]]}}
+{{Image label small|x=0.71|y=0.84|scale=435|text=[[Huesca (Spanish Congress Electoral District)|<span style="font-size:85%; color:black;">Huesca</span>]]}}
+{{Image label small|x=0.68|y=0.95|scale=435|text=[[Teruel (Spanish Congress Electoral District)|<span style="font-size:85%; color:black;">Teruel</span>]]}}
+{{Image label small|x=0.66|y=0.89|scale=435|text=[[Zaragoza (Spanish Congress Electoral District)|<span style="font-size:85%; color:black;">Zaragoza</span>]]}}
+{{Image label small|x=0.79|y=0.85|scale=435|text=[[Lleida (Spanish Congress Electoral District)|<span style="font-size:85%; color:black;">Lleida</span>]]}}
+{{Image label small|x=0.87|y=0.83|scale=435|text=[[Girona (Spanish Congress Electoral District)|<span style="font-size:85%; color:black;">Girona</span>]]}}
+{{Image label small|x=0.85|y=0.875|scale=435|text=[[Barcelona (Spanish Congress Electoral District)|<span style="font-size:85%; color:black;">Barcelona</span>]]}}
+{{Image label small|x=0.78|y=0.92|scale=435|text=[[Tarragona (Spanish Congress Electoral District)|<span style="font-size:85%; color:black;">Tarragona</span>]]}}
+{{Image label small|x=0.74|y=0.99|scale=435|text=[[Castellón (Spanish Congress Electoral District)|<span style="font-size:85%; color:black;">Castellón</span>]]}}
+{{Image label small|x=0.71|y=1.05|scale=435|text=[[Valencia (Spanish Congress Electoral District)|<span style="font-size:85%; color:black;">Valencia</span>]]}}
+{{Image label small|x=0.72|y=1.13|scale=435|text=[[Alicante (Spanish Congress Electoral District)|<span style="font-size:85%; color:black;">Alicante</span>]]}}
+{{Image label small|x=0.62|y=1.09|scale=435|text=[[Albacete (Spanish Congress Electoral District)|<span style="font-size:85%; color:black;">Albacete</span>]]}}
+{{Image label small|x=0.60|y=1.01|scale=435|text=[[Cuenca (Spanish Congress Electoral District)|<span style="font-size:85%; color:black;">Cuenca</span>]]}}
+{{Image label small|x=0.565|y=0.94|scale=435|text=[[Guadalajara (Spanish Congress Electoral District)|<span style="font-size:85%; color:black;">Guadalajara</span>]]}}
+{{Image label small|x=0.49|y=1.02|scale=435|text=[[Toledo (Spanish Congress Electoral District)|<span style="font-size:85%; color:black;">Toledo</span>]]}}
+{{Image label small|x=0.51|y=1.08|scale=435|text=[[Ciudad Real (Spanish Congress Electoral District)|<span style="font-size:85%; color:black;">Ciudad<br/>Real</span>]]}}
+{{Image label small|x=0.37|y=1.03|scale=435|text=[[Cáceres (Spanish Congress Electoral District)|<span style="font-size:85%; color:black;">Cáceres</span>]]}}
+{{Image label small|x=0.37|y=1.11|scale=435|text=[[Badajoz (Spanish Congress Electoral District)|<span style="font-size:85%; color:black;">Badajoz</span>]]}}
+{{Image label small|x=0.41|y=0.805|scale=435|text=[[León (Spanish Congress Electoral District)|<span style="font-size:85%; color:black;">León</span>]]}}
+{{Image label small|x=0.37|y=0.875|scale=435|text=[[Zamora (Spanish Congress Electoral District)|<span style="font-size:85%; color:black;">Zamora</span>]]}}
+{{Image label small|x=0.34|y=0.94|scale=435|text=[[Salamanca (Spanish Congress Electoral District)|<span style="font-size:85%; color:black;">Salamanca</span>]]}}
+{{Image label small|x=0.465|y=0.82|scale=435|text=[[Palencia (Spanish Congress Electoral District)|<span style="font-size:85%; color:black;">Palencia</span>]]}}
+{{Image label small|x=0.465|y=0.88|scale=435|text=[[Valladolid (Spanish Congress Electoral District)|<span style="font-size:85%; color:black;">Vallad.</span>]]}}
+{{Image label small|x=0.52|y=0.85|scale=435|text=[[Burgos (Spanish Congress Electoral District)|<span style="font-size:85%; color:black;">Burgos</span>]]}}
+{{Image label small|x=0.59|y=0.88|scale=435|text=[[Soria (Spanish Congress Electoral District)|<span style="font-size:85%; color:black;">Soria</span>]]}}
+{{Image label small|x=0.49|y=0.915|scale=435|text=[[Segovia (Spanish Congress Electoral District)|<span style="font-size:85%; color:black;">Segovia</span>]]}}
+{{Image label small|x=0.46|y=0.96|scale=435|text=[[Ávila (Spanish Congress Electoral District)|<span style="font-size:85%; color:black;">Ávila</span>]]}}
+{{Image label small|x=0.58|y=0.79|scale=435|text=[[Álava (Spanish Congress Electoral District)|<span style="font-size:85%; color:black;">Álava</span>]]}}
+{{Image label small|x=0.57|y=0.75|scale=435|text=[[Biscay (Spanish Congress Electoral District)|<span style="font-size:85%; color:black;">Bisc.</span>]]}}
+{{Image label small|x=0.62|y=0.76|scale=435|text=[[Gipuzkoa (Spanish Congress Electoral District)|<span style="font-size:85%; color:black;">Gipuz.</span>]]}}
+{{Image label small|x=0.31|y=1.19|scale=435|text=[[Huelva (Spanish Congress Electoral District)|<span style="font-size:85%; color:black;">Huelva</span>]]}}
+{{Image label small|x=0.40|y=1.21|scale=435|text=[[Seville (Spanish Congress Electoral District)|<span style="font-size:85%; color:black;">Seville</span>]]}}
+{{Image label small|x=0.44|y=1.16|scale=435|text=[[Córdoba (Spanish Congress Electoral District)|<span style="font-size:85%; color:black;">Córdoba</span>]]}}
+{{Image label small|x=0.39|y=1.28|scale=435|text=[[Cádiz (Spanish Congress Electoral District)|<span style="font-size:85%; color:black;">Cádiz</span>]]}}
+{{Image label small|x=0.465|y=1.255|scale=435|text=[[Málaga (Spanish Congress Electoral District)|<span style="font-size:85%; color:black;">Málaga</span>]]}}
+{{Image label small|x=0.545|y=1.16|scale=435|text=[[Jaén (Spanish Congress Electoral District)|<span style="font-size:85%; color:black;">Jaén</span>]]}}
+{{Image label small|x=0.53|y=1.225|scale=435|text=[[Granada (Spanish Congress Electoral District)|<span style="font-size:85%; color:black;">Granada</span>]]}}
+{{Image label small|x=0.625|y=1.22|scale=435|text=[[Almería (Spanish Congress Electoral District)|<span style="font-size:85%; color:black;">Almería</span>]]}}
+{{Image label small|x=0.39|y=0.75|scale=435|text=[[Asturias (Spanish Congress Electoral District)|<span style="font-size:85%; color:black;">Asturias</span>]]}}
+{{Image label small|x=0.48|y=0.765|scale=435|text=[[Cantabria (Spanish Congress Electoral District)|<span style="font-size:85%; color:black;">Cantabria</span>]]}}
+{{Image label small|x=0.65|y=1.16|scale=435|text=[[Murcia (Spanish Congress Electoral District)|<span style="font-size:85%; color:black;">Murcia</span>]]}}
+{{Image label small|x=0.42|y=1.35|scale=435|text=[[Ceuta (Spanish Congress Electoral District)|<span style="font-size:85%; color:black;">Ceuta</span>]]}}
+{{Image label small|x=0.57|y=1.32|scale=435|text=[[Melilla (Spanish Congress Electoral District)|<span style="font-size:85%; color:black;">Melilla</span>]]}}
+{{Image label small|x=0.89|y=1.06|scale=435|text=[[Balearic Islands (Spanish Congress Electoral District)|<span style="font-size:85%; color:black;">Balearic<br/>Islands</span>]]}}
+{{Image label small|x=0.04|y=1.31|scale=435|text=[[Santa Cruz de Tenerife (Spanish Congress Electoral District)|<span style="font-size:85%; color:black;">Santa Cruz<br/>de Tenerife</span>]]}}
+{{Image label small|x=0.19|y=1.33|scale=435|text=[[Las Palmas (Spanish Congress Electoral District)|<span style="font-size:85%; color:black;">Las Palmas</span>]]}}
+{{Image label end}}
+|map_caption         = Most voted party in each [[Autonomous communities of Spain|autonomous community]] and [[Provinces of Spain|province]]. Every province is a multi-member district for the [[Congress of Deputies (Spain)|Congress]].
+
+<!-- Result -->
+| title              = [[Prime Minister of Spain|Prime Minister]]
+| before_election    = [[Jose Luis Rodríguez Zapatero]]
+| before_party       = Spanish Socialist Workers' Party
+| after_election     = [[Mariano Rajoy]]
+| after_party        = People's Party (Spain)
+}}
+
+The '''2011 Spanish general election''' was held on Sunday, 20 November, to elect the 10th [[Cortes Generales]] of the [[Spain|Kingdom of Spain]]. At stake were all 350 seats to the [[Congress of Deputies (Spain)|Congress of Deputies]] and 208 of 266 seats to the [[Senate of Spain|Senate]]. This was a [[snap election]], since new elections were not due until March 2012.
+
+The election was held amid the [[2008–2013 Spanish financial crisis|ongoing Spanish financial crisis]], and Zapatero's government's perceived failure to cope with the worsening situation of the country's economy resulted in the ruling [[Spanish Socialist Workers' Party]] (PSOE) being swept from power in the worst defeat of a sitting government since [[Spanish general election, 1982|1982]]. The PSOE lost roughly 38% of its 2008 vote (4.3 out of 11.3 million) and garnered only 110 seats and 28.8% of the share – its worst result ever in a general election since the [[Spanish transition to democracy]]. In contrast, the opposition [[People's Party (Spain)|People's Party]] (PP) won a record 186 seats and 44.6% of the share and winning for the first time ever in the [[Andalusia]] region – which up until then had been won by the PSOE in every single general election.<ref>{{cite news |url=http://www.rtve.es/noticias/20111120/rotunda-mayoria-absoluta-del-pp-debacle-del-psoe/476868.shtml |title=Rajoy logra para el PP una mayoría histórica con 186 diputados y el PSOE se hunde con 110 |publisher=RTVE |date=20 November 2011}}</ref>
+
+==Overview==
+
+===Electoral system===
+Voting is on the basis of [[universal suffrage]] in a [[secret ballot]]. The [[Congress of Deputies (Spain)|Congress of Deputies]] 350 members are elected in 50 multi-member districts using the [[D'Hondt method]] and a [[Closed list|closed-list]] [[proportional representation]]. [[Ceuta]] and [[Melilla]] elect one member each using [[plurality voting]]. Each district is entitled to an initial minimum of two seats, with the remaining 248 seats being allocated among the 50 provinces in proportion to their populations. Only lists polling above 3% of the total vote in each district (which includes blank ballots&mdash;for [[none of the above]]) are entitled to enter the seat distribution. Under articles 12 and 68 of the Constitution, the minimum voting age is 18.<ref name="Spanish Constitution">{{cite web |url=http://www.boe.es/aeboe/consultas/bases_datos/doc.php?id=BOE-A-1978-31229 |title=The Spanish Constitution of 1978}}</ref>
+
+Elections to the [[Spanish Senate|Senate]] take place under a limited vote system. Each of the 47 peninsular districts (the provinces) is assigned 4 seats. In [[Balearic Islands|Baleares]] and [[Canary Islands|Canarias]], districts are the islands themselves, with the larger &mdash; Mallorca, Gran Canaria, and Tenerife &mdash; being assigned 3 seats each, and the smaller &mdash; Menorca, Ibiza-Formentera, Fuerteventura, Gomera, Hierro, Lanzarote and La Palma &mdash; one each. Ceuta and Melilla are assigned 2 seats each, for a total of 208 directly elected seats. In districts electing 4 seats, electors may vote for up to 3 candidates; in those with 2 or 3 seats, for up to 2 candidates; and for 1 candidate in single member constituencies. Electors vote for individual candidates: those attaining the largest number of votes in each district are elected for a 4-year term of office.
+
+In addition, the legislative assemblies of the self-governing or autonomous communities into which the provinces of Spain are grouped are entitled to appoint at least one senator each, as well as one senator for every million inhabitants, adding up a variable number of appointed seats to the directly-elected 208 senators.<ref>{{cite web |url=http://www.electionresources.org/es/index_en.html |title=General Aspects of the Electoral System}}</ref>
+
+===Apportionment===
+{{PoliticsES}}
+Under Article 68 of the [[Spanish Constitution of 1978|Spanish constitution]], the boundaries of the electoral districts must be the same as the provinces of Spain and, under Article 141, this can only be altered with the approval of Congress.<ref name="Spanish Constitution"/>
+
+The apportionment of seats to provinces follows the [[largest remainder method]] over the resident population ("''Padrón''") with a minimum of two seats (Art. 162 of the Electoral Law).<ref name="Spanish Electoral Law">[http://www.boe.es/aeboe/consultas/bases_datos/act.php?id=BOE-A-1985-11672&tn=1&p=20110716#ciii-2 Electoral Law]</ref>
+
+===Eligibility===
+Dual membership of both chambers of the Cortes or of the Cortes and regional assemblies is prohibited, meaning that candidates must resign from regional assemblies if elected. Active judges, magistrates, public defenders, serving military personnel, active police officers and members of constitutional and electoral tribunals are also ineligible,<ref name="Spanish Constitution"/> as well as CEOs or equivalent leaders of state monopolies and public bodies, such as the Spanish state broadcaster [[RTVE]].<ref name="Electoral law, 1985">{{cite web |url=http://noticias.juridicas.com/base_datos/Admin/lo5-1985.html |title=Law governing electoral procedures |accessdate=6 March 2011}}</ref> Additionally, under the Political Parties Law, June 2002, parties and individual candidates may be prevented from standing by the [[Supreme Court of Spain|Spanish Supreme Court]] (Tribunal Supremo), if they are judicially perceived to discriminate against people on the basis of ideology, religion, beliefs, nationality, race, gender or sexual orientation, foment or organise violence as a means of achieving political objectives or support or compliment the actions of "terrorist organisations".<ref name="Political Parties Law, 2002">{{cite web |url=http://noticias.juridicas.com/base_datos/Admin/lo6-2002.html#c3 |title=Law regarding registration of political parties |accessdate=6 March 2011}}</ref> Lastly, following changes to the electoral law which took effect for the 2007 municipal elections, candidates' lists must be composed of at least 40% of candidates of either gender and each group of five candidates must contain at least two males and two females.<ref name="OSCE report 2008">{{cite web |url=http://www.osce.org/documents/odihr/2008/02/29695_en.pdf |format=PDF|title= OSCE observers task force report on 2008 Spanish election |publisher=Organisation for security and cooperation in Europe OSCE |accessdate=6 March 2011}}</ref>
+
+;Presenting candidates
+Parties and coalitions of different parties which have registered with the Electoral Commission can present lists of candidates. Groups of electors which have not registered with the commission can also present lists, provided that they obtain the signatures of 1% of registered electors in a particular district. Also, since 30 January 2011, political parties without representation in any of the Chambers in the previous general election are required to obtain the signatures of 0.1% of registered electors in the districts they want to stand for in order to present lists for those districts.<ref name="Spanish Electoral Law"/><ref name="Electoral law, 1985" />
+
+==General election==
+
+===Background===
+The outgoing [[Government of Spain|Spanish government]] was led by [[Prime Minister of Spain|Prime Minister]] [[José Luis Rodríguez Zapatero]] from the [[Spanish Socialist Workers' Party]], who had announced on 2 April 2011 in a party Federal Committee that he would be stepping down as prime ministerial candidate for the next election.<ref>{{cite news |url=http://elpais.com/diario/2011/04/03/espana/1301781601_850215.html |title=Zapatero abre paso a un nuevo liderazgo en el PSOE tras renunciar a ser candidato |publisher=El País |date=3 April 2011}}</ref> His party's performance in opinion polls, as well as Zapatero's own approval ratings, were in record-lows after Zapatero's had changed his economic policy on May 2010, when his government issued a series of greatly unpopular austerity packages and budget cuts in order to curb the country's high public deficit during the ongoing [[2008–13 Spanish financial crisis|Spanish financial crisis]].<ref>{{cite news |url=http://elpais.com/diario/2010/05/13/espana/1273701601_850215.html |title=Zapatero da un vuelco a su estrategia con un recorte de sueldos públicos sin precedentes |publisher=El País |date=13 May 2010}}</ref> Zapatero's own disaffection with the policies he had been instructed to apply from [[European Union|Europe]], as well as the quick deterioration of Spain's economic situation (with a 20% unemployment rate), are thought to have helped influence his final decision.
+
+[[Ministry of the Interior (Spain)|Interior Minister]] and [[Deputy Prime Minister of Spain|Deputy Prime Minister]] [[Alfredo Pérez Rubalcaba]] was chosen as the party's candidate for Prime Minister, as he remained the only candidate in the leadership election in his party after the withdrawal of the other major candidate, [[Carme Chacón]], from the race to the 2011 general election.<ref>{{cite news |url=http://www.abc.es/agencias/noticia.asp?noticia=848425 |title=Rubalcaba, "candidato de facto" del PSOE al no lograr avales ningún aspirante |publisher=ABC |date=13 June 2011}}</ref> The other major national party, the [[People's Party (Spain)|People's Party]], was led by [[Mariano Rajoy]] for the third successive time after two defeats in the [[Spanish general election, 2004|2004]] and [[Spanish general election, 2008|2008]] elections and fresh from its landslide victory in the [[Spanish local elections, 2011|May 2011 local]] and [[Spanish regional elections, 2011|regional elections]].
+
+The end of the legislature presided over by PM [[José Luis Rodríguez Zapatero]] was initially scheduled for March 2012, but on 28 July 2011 Zapatero announced his intention to call for a snap election on 20 November. ''"I want a new government to take control of the economy from 1 January next year,"'' said Zapatero to justify his decision. ''"It is convenient to hold elections this fall so a new government can take charge of the economy in 2012, fresh from the balloting."''<ref name ="snap election">{{cite web|last=Ross |first=Emma |url=http://www.bloomberg.com/news/2011-04-03/spain-s-deficit-fight-risks-setback-as-zapatero-quits-election.html |title=Spain's embattled prime minister calls early elections |publisher=USA Today |date=29 July 2011 |accessdate=21 May 2012}}</ref> This decision made this election the 7th early election since Spain's transition to democracy.<ref>{{cite news |url=http://politica.elpais.com/politica/2011/07/29/actualidad/1311933851_658566.html |title=Zapatero anuncia el séptimo adelanto electoral en democracia |publisher=El País |date=29 July 2011}}</ref>
+
+As a result of President of Andalusia [[José Antonio Griñán]]'s decision not to call a snap election in [[Andalusia]], this was the first time since [[Spanish general election, 1996|1996]] that a general election was not held concurrently with an Andalusian regional election. Andalusia held its election separately on [[Andalusian parliamentary election, 2012|25 March 2012]].
+
+===Political parties===
+Spain has more than 50 registered national parties, but fewer than 10 are considered significant. Since 1982, only 2 political parties have won in Spanish national elections:<ref name="EIS">[http://www.electionresources.org/es/index_en.html Elections in Spain] accessed 6 March 2011</ref>
+
+*[[Spanish Socialist Workers' Party]] (PSOE), a [[Social democracy|social-democratic]] party;
+*[[People's Party (Spain)|People's Party]] (PP), a [[Conservatism|conservative]] party.
+
+At the 2008 general election the only two other nationally represented parties which won seats were [[United Left (Spain)|United Left]] and [[Union, Progress and Democracy]].<ref name="EIS"/> A number of other regional parties also won seats ([[Convergence and Union]] and [[Republican Left of Catalonia|Republican Left]] in [[Catalonia]], the [[Basque Nationalist Party]] in the [[Basque Country (autonomous community)|Basque Country]], the [[Galician Nationalist Bloc]] in [[Galicia (Spain)|Galicia]], the [[Canarian Coalition]] in the [[Canary Islands]] and the [[Navarrese People's Union]] and [[Nafarroa Bai]] in [[Navarre]]).
+
+A change in the electoral law, passed in January 2011, requires parties without representation in the Cortes to obtain the signatures of 0.1% of registered electors per district they are running in.<ref>[http://www.elreferente.es/actualidad/los-partidos-minoritarios-tendran-20-dias-para-recoger-firmas-14766 Los partidos minoritarios dispondrán de 20 días para recoger firmas]</ref> For an updated list please see [[List of political parties in Spain#Political parties running for the Spanish general election.2C 2011.5B1.5D|the following link]].
+
+==Campaign slogans==
+The electoral campaign started at 12:00 AM on 4 November with the traditional pasting of party's posters.<ref>{{cite web|url=http://www.abc.es/20111103/elecciones-20n-2011/abci-noche-pegada-carteles-201111032025.html |title=La campaña electoral starts this night with the traditional "paste of posters" |publisher=ABC |date=2011-11-03 |accessdate=2013-05-20}}</ref>
+
+*[[Spanish Socialist Workers' Party]] (PSOE): ''"Fight for what you want (Pelea por lo que quieres)"''<ref>[http://www.europapress.es/nacional/noticia-pelea-quieres-lema-campana-psoe-20111020141326.html "Pelea por lo que quieres", lema de campaña del PSOE]</ref>
+*[[People's Party (Spain)|People's Party]] (PP): ''"Join the change (Súmate al cambio)"''<ref>[http://www.cadenaser.com/espana/articulo/sumate-cambio-lema-partido-popular-elecciones-20-n/csrcsrpor/20111025csrcsrnac_12/Tes 'Súmate al cambio', lema del Partido Popular para las elecciones del 20-N]</ref>
+*[[United Left (Spain)|United Left]] (IU): ''"Rebel! (¡Rebélate!)"''<ref>[http://www.publico.es/espana/401643/iu-anima-a-superar-la-dicotomia-pp-psoe-con-su-lema-rebelate IU anima a superar la "dicotomía" PP-PSOE con su lema "Rebélate!"]</ref>
+*[[Union, Progress and Democracy]] (UPyD): ''"Every vote counts (Cada voto vale)"''<ref>[http://huelva24.com/not/10509/para_upyd___cada_voto_vale__y_luchara_por_conseguir_la_confianza_de_los_ciudadanos/ Para UPyD, 'Cada voto vale' y luchará por conseguir la confianza de los ciudadanos]</ref>
+
+==Opinion polls==
+{{Main|Opinion polling for the Spanish general election, 2011}}
+[[File:ElectionMonthlyAverageGraphSpain2011.png|thumb|center|750px|15-day average trend line of poll results from March 2008 to November 2011, with each line corresponding to a political party.]]
+
+==Results==
+
+===Congress of Deputies===
+[[File:Spanish Congress of Deputies election, 2011 results.svg|thumb|none|300px|Composition of the elected Congress]]
+{|class="wikitable" style="text-align:right; font-size:100%; margin-bottom:0"
+|+ Summary of the 20 November 2011 [[Spanish Congress of Deputies]] election results
+|- bgcolor="#E9E9E9" align="center"
+! align="left" rowspan="2" colspan="2" width="450" | Party
+! colspan="3" | Vote
+! colspan="2" | Seats
+|- bgcolor="#E9E9E9" align="center"
+! width="80" | Votes
+! width="50" | %
+! width="50" | ±[[Percentage point|pp]]
+! width="40" | Won
+! width="40" | +/−
+|-
+| width="1" bgcolor="{{People's Party (Spain)/meta/color}}" |
+| align="left" | [[People's Party (Spain)|People's Party]] (PP)
+| 10,866,566 || 44.63 || +4.69
+| 186 || +32
+|-
+| bgcolor="{{Spanish Socialist Workers' Party/meta/color}}" |
+| align="left" | [[Spanish Socialist Workers' Party]] (PSOE)
+| 7,003,511 || 28.76 || −15.11
+| 110 || −59
+|-
+| bgcolor="{{United Left (Spain)/meta/color}}" |
+| align="left" | [[United Left (Spain)|United Left-The Greens: Plural Left]] (IU-LV)
+| 1,686,040 || 6.92 || +3.15
+| 11 || +9
+|-
+| bgcolor="{{Union, Progress and Democracy/meta/color}}" |
+| align="left" | [[Union, Progress and Democracy]] (UPyD)
+| 1,143,225 || 4.70 || +3.51
+| 5 || +4
+|-
+| bgcolor="{{Convergence and Union/meta/color}}" |
+| align="left" | [[Convergence and Union]] (CiU)
+| 1,015,691 || 4.17 || +1.14
+| 16 || +6
+|-
+| bgcolor="{{Amaiur/meta/color}}" |
+| align="left" | [[Amaiur]] (Amaiur)
+| 334,498 || 1.37 || ''New''
+| 7 || +7
+|-
+| bgcolor="{{Basque Nationalist Party/meta/color}}" |
+| align="left" | [[Basque Nationalist Party]] (EAJ/PNV)
+| 324,317 || 1.33 || +0.14
+| 5 || −1
+|-
+| bgcolor="{{Republican Left of Catalonia/meta/color}}" |
+| align="left" | [[Republican Left of Catalonia]] (ERC)
+| 256,985 || 1.06 || −0.10
+| 3 || ±0
+|-
+| bgcolor="#009150" |
+| align="left" | [[EQUO]] (EQUO)
+| 216,748 || 0.89 || ''New''
+| 0 || ±0
+|-
+| bgcolor="{{Galician Nationalist Bloc/meta/color}}" |
+| align="left" | [[Galician Nationalist Bloc]] (BNG)
+| 184,037 || 0.76 || −0.07
+| 2 || ±0
+|-
+| bgcolor="{{Canarian Coalition/meta/color}}" |
+| align="left" | [[Canarian Coalition|Canarian Coalition-New Canarias]] (CC-NC)
+| 143,881 || 0.59 || −0.09
+| 2 || ±0
+|-
+| bgcolor="{{Coalició Compromís/meta/color}}" |
+| align="left" | [[Coalició Compromís|Compromise Coalition-EQUO]] (Compromís-Q)
+| 125,306 || 0.51 || +0.39
+| 1 || +1
+|-
+| bgcolor="#ADBE18" |
+| align="left" | [[Party Against Bullfighting, Cruelty and Mistreatment of Animals|Animal Rights Party]] (PACMA)
+| 102,144 || 0.42 || +0.25
+| 0 || ±0
+|-
+| bgcolor="{{Asturian Forum/meta/color}}" |
+| align="left" | [[Asturian Forum]] (FAC)
+| 99,473 || 0.41 || ''New''
+| 1 || +1
+|-
+| bgcolor="white" |
+| align="left" | Blank Seats (Eb)
+| 97,673 || 0.40 || +0.38
+| 0 || ±0
+|-
+| bgcolor="{{Andalusian Party/meta/color}}" |
+| align="left" | [[Andalusian Party]] (PA)
+| 76,999 || 0.32 || +0.05
+| 0 || ±0
+|-
+| bgcolor="{{Platform for Catalonia/meta/color}}" |
+| align="left" | [[Platform for Catalonia]] (PxC)
+| 59,949 || 0.25 || +0.24
+| 0 || ±0
+|-
+| bgcolor="#BDAE52" |
+| align="left" | [[Regionalist Party of Cantabria]] (PRC)
+| 44,010 || 0.18 || ''New''
+| 0 || ±0
+|-
+| bgcolor="{{Geroa Bai/meta/color}}" |
+| align="left" | [[Geroa Bai|Yes to the Future]] (GBai)
+| 42,415 || 0.17 || −0.07
+| 1 || ±0
+|-
+| bgcolor="#4ABEEF" |
+| align="left" | For a Fairer World (PUM+J)
+| 27,210 || 0.11 || +0.02
+| 0 || ±0
+|-
+| bgcolor="#C61400" |
+| align="left" | [[Communist Party of the Peoples of Spain]] (PCPE)
+| 26,254 || 0.11 || +0.03
+| 0 || ±0
+|}
+{| class="wikitable collapsible collapsed" style="text-align:right; border:0px; margin-top:-1px; margin-bottom:0;"
+|-
+! style="text-align:left; font-weight:normal; background:#F9F9F9" width=450px colspan=2|Parties with less than 0.1% of the vote
+|width=80|138,493
+|width=50|0.57
+|width=50|–
+|width=40|0
+|width=40|±0
+|-
+| bgcolor="#DF0101" |
+| align="left" | [[Anti-capitalism|Anti-capitalists]] (Anticapitalistas)
+| 22,289 || 0.09 || ''New''
+| 0 || ±0
+|-
+| bgcolor="#000000" |
+| align="left" | [[Pirates of Catalonia]] (Pirata.cat)
+| 21,876 || 0.09 || ''New''
+| 0 || ±0
+|-
+| bgcolor="#EF2808" |
+| align="left" | [[Communist Unification of Spain]] (UCE)
+| 15,869 || 0.07 || ''New''
+| 0 || ±0
+|-
+| bgcolor="#FF7D18" |
+| align="left" | [[Humanist Party (Spain)|Humanist Party]] (PH)
+| 10,132 || 0.04 || ±0.00
+| 0 || ±0
+|-
+| bgcolor="#210063" |
+| align="left" | [[España 2000|Spain 2000]] (E-2000)
+| 9,266 || 0.04 || +0.01
+| 0 || ±0
+|-
+| bgcolor="#CE0021" |
+| align="left" | Internationalist Solidarity and Self-Management (SAIn)
+| 6,863 || 0.03 || +0.01
+| 0 || ±0
+|-
+| bgcolor="#8C5194" |
+| align="left" | [[Republicanism in Spain|Republicans]] (RPS)
+| 5,430 || 0.02 || ''New''
+| 0 || ±0
+|-
+| bgcolor="#009EAD" |
+| align="left" | [[Citizens for Blank Votes|Jaded.org]] (Hartos.org)
+| 3,820 || 0.02 || −0.04
+| 0 || ±0
+|-
+| bgcolor="#000000" |
+| align="left" | [[Pirate Party (Spain)|Pirate Party]] (Pirata)
+| 3,426 || 0.01 || ''New''
+| 0 || ±0
+|-
+| bgcolor="#9C0000" |
+| align="left" | [[Canarian nationalism|Canarian Nationalist Alternative]] (ANC)
+| 3,180 || 0.01 || +0.01
+| 0 || ±0
+|-
+| bgcolor="#B93000" |
+| align="left" | [[Falange|Spanish Falange of the JONS]] (FE-JONS)
+| 2,898 || 0.01 || −0.04
+| 0 || ±0
+|-
+| bgcolor="#21A631" |
+| align="left" | [[Liberal Democratic Centre]] (CDL)
+| 2,848 || 0.01 || ±0.00
+| 0 || ±0
+|-
+| bgcolor="#660099" |
+| align="left" | [[Castilian Party]] (PCAS)
+| 2,431 || 0.01 || −0.01
+| 0 || ±0
+|-
+| bgcolor="#10597B" |
+| align="left" | United by Valencia (UxV)
+| 2,210 || 0.01 || ''New''
+| 0 || ±0
+|-
+| bgcolor="#676394" |
+| align="left" | [[Individual Freedom Party]] (P-LIB)
+| 2,065 || 0.01 || ''New''
+| 0 || ±0
+|-
+| bgcolor="#DE3484" |
+| align="left" | Regionalist Party of the Leonese Country (PREPAL)
+| 2,058 || 0.01 || +0.01
+| 0 || ±0
+|-
+| bgcolor="#BD0021" |
+| align="left" | Internationalist Socialist Workers' Party (POSI)
+| 2,007 || 0.01 || −0.02
+| 0 || ±0
+|-
+| bgcolor="#183463" |
+| align="left" | [[National Democracy (Spain)|National Democracy]] (DN)
+| 1,867 || 0.01 || −0.04
+| 0 || ±0
+|-
+| bgcolor="#4B0082" |
+| align="left" | Regionalist Party for Eastern Andalusia (PRAO)
+| 1,784 || 0.01 || ''New''
+| 0 || ±0
+|-
+| bgcolor="#F79618" |
+| align="left" | [[Caballas Coalition]] (Caballas)
+| 1,712 || 0.01 || ''New''
+| 0 || ±0
+|-
+| bgcolor="#FFAE10" |
+| align="left" | Twenty-first Convergence (C.XXI)
+| 1,443 || 0.01 || ''New''
+| 0 || ±0
+|-
+| bgcolor="#EF0408" |
+| align="left" | Unity of the People (UP)
+| 1,138 || 0.00 || ±0.00
+| 0 || ±0
+|-
+| bgcolor="#31619C" |
+| align="left" | Convergence for Extremadura (CEx)
+| 1,090 || 0.00 || ''New''
+| 0 || ±0
+|-
+| bgcolor="#A53042" |
+| align="left" | [[Andecha Astur]] (AA)
+| 1,087 || 0.00 || −0.01
+| 0 || ±0
+|-
+| bgcolor="{{Democratic and Social Centre (Spain)/meta/color}}" |
+| align="left" | Citizens of Democratic Centre (CCD)
+| 1,074 || 0.00 || ''New''
+| 0 || ±0
+|-
+| bgcolor="#5F704E" |
+| align="left" | Citizens' Action for Malaga (ACIMA)
+| 966 || 0.00 || ''New''
+| 0 || ±0
+|-
+| bgcolor="#18205A" |
+| align="left" | Family and Life Party (PFyL)
+| 829 || 0.04 || −0.04
+| 0 || ±0
+|-
+| bgcolor="#0A0A0A" |
+| align="left" | Death to the System (+MAS+)
+| 791 || 0.00 || ''New''
+| 0 || ±0
+|-
+| bgcolor="#C65910" |
+| align="left" | Toledo Independent Citizens' Union (UCIT)
+| 785 || 0.00 || ''New''
+| 0 || ±0
+|-
+| bgcolor="#FFCF00" |
+| align="left" | Let us Give the Change (DeC)
+| 778 || 0.00 || ''New''
+| 0 || ±0
+|-
+| bgcolor="#009E31" |
+| align="left" | Centre and Democracy Forum (CyD)
+| 720 || 0.00 || ''New''
+| 0 || ±0
+|-
+| bgcolor="#FF0408" |
+| align="left" | [[Unidad Regionalista de Castilla y León|Regionalist Unity of Castile and León]] (URCL)
+| 709 || 0.00 || ±0.00
+| 0 || ±0
+|-
+| bgcolor="#94C721" |
+| align="left" | Party for the Regeneration of Democracy in Spain (PRDE)
+| 678 || 0.00 || ''New''
+| 0 || ±0
+|-
+| bgcolor="#FF6D00" |
+| align="left" | Internet Party (Internet)
+| 603 || 0.00 || ''New''
+| 0 || ±0
+|-
+| bgcolor="#B5047B" |
+| align="left" | Left Republic Party-Republicans (PRE-R)
+| 419 || 0.00 || ''New''
+| 0 || ±0
+|-
+| bgcolor="#4A494A" |
+| align="left" | Enough, Open Grouping of Political Parties (Basta Ya)
+| 380 || 0.00 || ''New''
+| 0 || ±0
+|-
+| bgcolor="#9C9EFF" |
+| align="left" | Democratic and Constitutional Party (PDyC)
+| 304 || 0.00 || ''New''
+| 0 || ±0
+|-
+| bgcolor="#398621" |
+| align="left" | The Greens-Green Group (LV-GV)
+| 293 || 0.00 || −0.12
+| 0 || ±0
+|-
+| bgcolor="#52617B" |
+| align="left" | Democratic Hygiene (HD)
+| 206 || 0.00 || ''New''
+| 0 || ±0
+|-
+| bgcolor="#F72829" |
+| align="left" | Socialists for Teruel (SxT)
+| 169 || 0.00 || ''New''
+| 0 || ±0
+|-
+| bgcolor="#00529C" |
+| align="left" | Navarrese and Spanish Right (DNE)
+| 0 || 0.00 || ''New''
+| 0 || ±0
+|}
+{| class=wikitable style="text-align:right; margin-top:-1px"
+| bgcolor="white" width=1|
+| align="left" width=443| Blank ballots 
+|width=80| 333,461 ||width=50| 1.37 ||width=50|+0.26
+| bgcolor="#E9E9E9" colspan="2" |
+|-
+| colspan="7" bgcolor="#E9E9E9" | 
+|- style="font-weight:bold;"
+| align="left" colspan="2" | Total
+| 24,348,886 || 100.00 || bgcolor="#E9E9E9" |
+|width=40|350 ||width=40|±0
+|-
+| colspan="7" bgcolor="#E9E9E9" | 
+|-
+| align="left" colspan="2" | Valid votes 
+| 24,348,886 || 98.71 || −0.65
+| bgcolor="#E9E9E9" colspan="6" rowspan="5" |
+|-
+| align="left" colspan="2" | Invalid votes 
+| 317,555 || 1.29 || +0.65
+|- style="font-weight:bold;"
+| align="left" colspan="2" | Votes cast / turnout
+| 24,666,441 || 68.94 || −4.91
+|-
+| align="left" colspan="2" | Abstentions
+| 11,113,050 || 31.06 || +4.91
+|- style="font-weight:bold;"
+| align="left" colspan="2" | Registered voters
+| 35,779,491 || bgcolor="#E9E9E9" colspan="2" |
+|-
+| colspan="7" bgcolor="#E9E9E9" | 
+|-
+| align="left" colspan="7" | Source: [http://www.infoelectoral.mir.es/min/busquedaAvanzadaAction.html?vuelta=1&codTipoEleccion=2&codPeriodo=201111&codEstado=99&codComunidad=0&codProvincia=0&codMunicipio=0&codDistrito=0&codSeccion=0&codMesa=0 Ministry of the Interior]
+|}
+
+{{bar box
+|title=Vote share
+|titlebar=#ddd
+|width=600px
+|barwidth=400px
+|bars=
+{{bar percent|PP|{{People's Party (Spain)/meta/color}}|44.63}}
+{{bar percent|PSOE|{{Spanish Socialist Workers' Party/meta/color}}|28.76}}
+{{bar percent|IU|{{United Left (Spain)/meta/color}}|6.92}}
+{{bar percent|UPyD|{{Union, Progress and Democracy/meta/color}}|4.70}}
+{{bar percent|CiU|{{Convergence and Union/meta/color}}|4.17}}
+{{bar percent|Amaiur|{{Amaiur/meta/color}}|1.37}}
+{{bar percent|EAJ/PNV|{{Basque Nationalist Party/meta/color}}|1.33}}
+{{bar percent|ERC|{{Republican Left of Catalonia/meta/color}}|1.06}}
+{{bar percent|BNG|{{Galician Nationalist Bloc/meta/color}}|0.76}}
+{{bar percent|CC-NC|{{Canarian Coalition/meta/color}}|0.59}}
+{{bar percent|Compromís-Q|{{Coalició Compromís/meta/color}}|0.51}}
+{{bar percent|FAC|{{Asturian Forum/meta/color}}|0.41}}
+{{bar percent|GBai|{{Geroa Bai/meta/color}}|0.17}}
+{{bar percent|Others|#777777|3.24}}
+{{bar percent|Blank ballots|#DDDDDD|1.37}}
+{{bar percent|Abstentions|#000000|31.06}}
+}}
+{{bar box
+|title=Parliamentary seats
+|titlebar=#ddd
+|width=600px
+|barwidth=400px
+|bars=
+{{bar percent|PP|{{People's Party (Spain)/meta/color}}|53.14}}
+{{bar percent|PSOE|{{Spanish Socialist Workers' Party/meta/color}}|31.43}}
+{{bar percent|CiU|{{Convergence and Union/meta/color}}|4.57}}
+{{bar percent|IU|{{United Left (Spain)/meta/color}}|3.14}}
+{{bar percent|Amaiur|{{Amaiur/meta/color}}|2.00}}
+{{bar percent|UPyD|{{Union, Progress and Democracy/meta/color}}|1.43}}
+{{bar percent|EAJ/PNV|{{Basque Nationalist Party/meta/color}}|1.43}}
+{{bar percent|ERC|{{Republican Left of Catalonia/meta/color}}|0.86}}
+{{bar percent|BNG|{{Galician Nationalist Bloc/meta/color}}|0.57}}
+{{bar percent|CC-NC|{{Canarian Coalition/meta/color}}|0.57}}
+{{bar percent|Compromís-Q|{{Coalició Compromís/meta/color}}|0.29}}
+{{bar percent|FAC|{{Asturian Forum/meta/color}}|0.29}}
+{{bar percent|GBai|{{Geroa Bai/meta/color}}|0.29}}
+}}
+
+===Senate===
+[[File:Spanish Senate election, 2011 results.svg|thumb|none|300px|Composition of the Senate after the election]]
+{|class="wikitable" style="text-align:right; font-size:100%;"
+|+ Summary of the 20 November 2011 [[Spanish Senate]] election results
+|- bgcolor="#E9E9E9" align="center"
+! align="left" rowspan="2" colspan="2" width="450" | Party
+! colspan="3" | Vote
+! colspan="3" | Seats
+|- bgcolor="#E9E9E9" align="center"
+! width="80" | Votes
+! width="50" | %
+! width="50" | +/−
+! width="40" | Won
+! width="40" | +/−
+! width="40" | Total
+|-
+| width="1" bgcolor="{{People's Party (Spain)/meta/color}}" |
+| align="left" | [[People's Party (Spain)|People's Party]] (PP)
+|  ||  || 
+| 136 || +35 || 166
+|-
+| bgcolor="{{Spanish Socialist Workers' Party/meta/color}}" |
+| align="left" | [[Spanish Socialist Workers' Party]] (PSOE)
+|  ||  || 
+| 48 || −40 || 66
+|-
+| bgcolor="{{Convergence and Union/meta/color}}" |
+| align="left" | [[Convergence and Union]] (CiU)
+|  ||  || 
+| 9 || +5 || 13
+|-
+| bgcolor="#B70000" |
+| align="left" | [[Catalan Agreement of Progress]] (PSC-ICV-EUiA)
+|  ||  || 
+| 7 || −5 || 10
+|-
+| bgcolor="{{Basque Nationalist Party/meta/color}}" |
+| align="left" | [[Basque Nationalist Party]] (EAJ/PNV)
+|  ||  || 
+| 4 || +2 || 5
+|-
+| bgcolor="{{Amaiur/meta/color}}" |
+| align="left" | [[Amaiur]] (Amaiur)
+|  ||  || 
+| 3 || +3 || 3
+|-
+| bgcolor="{{Canarian Coalition/meta/color}}" |
+| align="left" | [[Canarian Coalition|Canarian Coalition-New Canarias]] (CC-NC)
+|  ||  || 
+| 1 || ±0 || 2
+|-
+| bgcolor="{{Asturian Forum/meta/color}}" |
+| align="left" | [[Asturian Forum]] (FAC)
+|  ||  || 
+| 0 || ±0 || 1
+|-
+| bgcolor="white" |
+| align="left" | Others
+|  ||  || bgcolor="#E9E9E9" |
+| 0 || ±0 || 0
+|-
+| bgcolor="white" |
+| align="left" | Blank ballots 
+| 1,264,947 || 5.36 || +3.30
+| bgcolor="#E9E9E9" colspan="3" |
+|-
+| colspan="8" bgcolor="#E9E9E9" | 
+|- style="font-weight:bold;"
+| align="left" colspan="2" | Total
+| 23,578,950 || 100.00 || bgcolor="#E9E9E9" |
+| 208 || ±0 || 266
+|-
+| colspan="8" bgcolor="#E9E9E9" | 
+|-
+| align="left" colspan="2" | Valid votes 
+| 23,578,950 || 96.30 || −1.41
+| bgcolor="#E9E9E9" colspan="3" rowspan="5" |
+|-
+| align="left" colspan="2" | Invalid votes 
+| 904,722 || 3.70 || +1.41
+|- style="font-weight:bold;"
+| align="left" colspan="2" | Votes cast / turnout
+| 24,483,672 || 68.43 || −6.06
+|-
+| align="left" colspan="2" | Abstentions
+| 11,295,819 || 31.57 || +6.06
+|- style="font-weight:bold;"
+| align="left" colspan="2" | Registered voters
+| 35,779,491 || bgcolor="#E9E9E9" colspan="2" |
+|-
+| colspan="8" bgcolor="#E9E9E9" | 
+|-
+| align="left" colspan="8" | Source(s):
+*[http://www.infoelectoral.mir.es/min/busquedaAvanzadaAction.html?vuelta=1&codTipoEleccion=3&codPeriodo=201111&codEstado=99&codComunidad=0&codProvincia=0&codMunicipio=0&codDistrito=0&codSeccion=0&codMesa=0 Ministry of the Interior]
+*[http://www.historiaelectoral.com/senado7.html Historia Electoral]
+|}
+
+{{bar box
+|title=Parliamentary seats
+|titlebar=#ddd
+|width=600px
+|barwidth=410px
+|bars=
+{{bar percent|PP|{{People's Party (Spain)/meta/color}}|62.41}}
+{{bar percent|PSOE|{{Spanish Socialist Workers' Party/meta/color}}|24.81}}
+{{bar percent|CiU|{{Convergence and Union/meta/color}}|4.89}}
+{{bar percent|PSC-ICV-EUiA|#B70000|3.76}}
+{{bar percent|EAJ/PNV|{{Basque Nationalist Party/meta/color}}|1.88}}
+{{bar percent|Amaiur|{{Amaiur/meta/color}}|1.13}}
+{{bar percent|CC-NC|{{Canarian Coalition/meta/color}}|0.75}}
+{{bar percent|FAC|{{Asturian Forum/meta/color}}|0.38}}
+}}
+
+The Spanish Senate at the time of the 2011 election was composed by 208 directly-elected seats and 58 seats appointed by the regional parliaments of the [[autonomous communities of Spain|autonomous communities]] when a new Parliament resulting from a regional election convenes. The appointment process of these seats depended on the political composition of those regional assemblies, and as such, it could change each time regional elections were held. A summary of the Senate composition evolution throughout the 2011−2015 legislature can be found in the table below, showing changes due to seat appointment variation as a result of regional elections.
+
+{|class="infobox bordered" style="float:none; clear:none; text-align:right;" cellpadding=3
+|+ style="font-size:100%" | Summary of [[Spanish Senate]] seat composition for the period 2011−2015
+|- style="background:#f0f0f0; text-align:center;" 
+! rowspan="3" colspan="2" style="vertical-align:middle; width:250px" | Party
+! colspan="6" | Seats
+|-  style="background:#f0f0f0; text-align:center;" 
+! colspan="3" | 2011
+! colspan="3" | 2015
+|-  style="background:#f0f0f0; text-align:center;" 
+! width="40" | <small>Elect.</small>
+! width="40" | <small>App.</small>
+! width="40" | <small>Total</small>
+! width="40" | <small>App.</small>
+! width="40" | <small>Splits</small>
+! width="40" | <small>Total</small>
+|- class="mergedtoprow"
+| width="1" bgcolor="{{People's Party (Spain)/meta/color}}" |
+| align="left" | [[People's Party (Spain)|PP]] and allies
+| 136
+| 30
+| bgcolor="#D9D9D9" | 166
+| 29
+| <small>−1</small>
+| bgcolor="#D9D9D9" | 164
+|- class="mergedrow"
+| width="1" bgcolor="{{People's Party (Spain)/meta/color}}" |
+| align="left" |• [[People's Party (Spain)|PP]]+[[Aragonese Party|PAR]]+[[Canarian nationalism|CCN]]
+| 134
+| 29
+| bgcolor="#D9D9D9" | 163
+| 28
+| <small>−1</small>
+| bgcolor="#D9D9D9" | 161
+|- class="mergedrow"
+| width="1" bgcolor="{{People's Party (Spain)/meta/color}}" |
+| align="left" |• [[Navarrese People's Union|UPN]]
+| 2
+| 1
+| bgcolor="#D9D9D9" | 3
+| 1
+| <small></small>
+| bgcolor="#D9D9D9" | 3
+|- class="mergedtoprow"
+| bgcolor="{{Spanish Socialist Workers' Party/meta/color}}" |
+| align="left" | [[Spanish Socialist Workers' Party|PSOE]] and allies
+| 54
+| 20
+| bgcolor="#D9D9D9" | 74
+| 17
+| 
+| bgcolor="#D9D9D9" | 71
+|- class="mergedrow"
+| bgcolor="{{Spanish Socialist Workers' Party/meta/color}}" |
+| align="left" | • [[Spanish Socialist Workers' Party|PSOE]]
+| 48
+| 18
+| bgcolor="#D9D9D9" | 66
+| 16
+| 
+| bgcolor="#D9D9D9" | 64
+|- class="mergedrow"
+| bgcolor="{{Spanish Socialist Workers' Party/meta/color}}" |
+| align="left" | • [[Socialists' Party of Catalonia|PSC]]
+| 6
+| 2
+| bgcolor="#D9D9D9" | 8
+| 1
+| 
+| bgcolor="#D9D9D9" | 7
+|-
+| bgcolor="{{Convergence and Union/meta/color}}" |
+| align="left" | [[Convergence and Union|CiU]]
+| 9
+| 4
+| bgcolor="#D9D9D9" | 13
+| 4
+| 
+| bgcolor="#D9D9D9" | 13
+|-
+| bgcolor="{{Basque Nationalist Party/meta/color}}" |
+| align="left" | [[Basque Nationalist Party|EAJ/PNV]]
+| 4
+| 1
+| bgcolor="#D9D9D9" | 5
+| 1
+| 
+| bgcolor="#D9D9D9" | 5
+|-
+| bgcolor="{{Amaiur/meta/color}}" |
+| align="left" | [[Amaiur]]
+| 3
+| 0
+| bgcolor="#D9D9D9" | 3
+| 1
+| 
+| bgcolor="#D9D9D9" | 4
+|- class="mergedtoprow"
+| bgcolor="{{United Left (Spain)/meta/color}}" |
+| align="left" | [[United Left (Spain)|IU]] and allies
+| 1
+| 1
+| bgcolor="#D9D9D9" | 2
+| 3
+| 
+| bgcolor="#D9D9D9" | 4
+|- class="mergedrow"
+| bgcolor="{{United Left (Spain)/meta/color}}" |
+| align="left" | • [[United Left (Spain)|IU]]
+| 0
+| 0
+| bgcolor="#D9D9D9" | 0
+| 2
+| 
+| bgcolor="#D9D9D9" | 2
+|- class="mergedrow"
+| bgcolor="{{United Left (Spain)/meta/color}}" |
+| align="left" | • [[Initiative for Catalonia Greens|ICV]]
+| 1
+| 1
+| bgcolor="#D9D9D9" | 2
+| 1
+| 
+| bgcolor="#D9D9D9" | 2
+|-
+| bgcolor="{{Canarian Coalition/meta/color}}" |
+| align="left" | [[Canarian Coalition|CC-NC]]
+| 1
+| 1
+| bgcolor="#D9D9D9" | 2
+| 1
+| 
+| bgcolor="#D9D9D9" | 2
+|-
+| bgcolor="{{Asturian Forum/meta/color}}" |
+| align="left" | [[Asturian Forum|FAC]]
+| 0
+| 1
+| bgcolor="#D9D9D9" | 1
+| 1
+| 
+| bgcolor="#D9D9D9" | 1
+|-
+| bgcolor="{{Republican Left of Catalonia/meta/color}}" |
+| align="left" | [[Republican Left of Catalonia|ERC]]
+| 0
+| 0
+| bgcolor="#D9D9D9" | 0
+| 1
+| 
+| bgcolor="#D9D9D9" | 1
+|-
+| bgcolor="{{Independent (politician)/meta/color}}" |
+| align="left" | [[Independent (politician)|Independent]]s
+| 0
+| 0
+| bgcolor="#D9D9D9" | 0
+| 0
+| <small>+1</small>
+| bgcolor="#D9D9D9" | 1
+|-
+| colspan="8" bgcolor="#E9E9E9" | 
+|- style="font-weight:bold;"
+| align="left" colspan="2" | Total
+| 208
+| 58
+| bgcolor="#D9D9D9" | 266
+| 58
+| <small>±0</small>
+| bgcolor="#D9D9D9" | 266
+|-
+| colspan="8" bgcolor="#E9E9E9" | 
+|-
+| align="left" colspan="8" | Source: [http://www.historiaelectoral.com/senado7.html Historia Electoral]
+|}
+
+==Results by region==
+[[File:SpainProvinceMapG2011.PNG|thumb|center|750px|Election results by province.]]
+
+{| class="wikitable" style="text-align:center; font-size:100%; line-height:16px;"
+|-
+! colspan="3" width="20%" | Party
+! width="4%" | [[Andalusia|AN]]
+! width="4%" | [[Aragon|AR]]
+! width="4%" | [[Principality of Asturias|AS]]
+! width="4%" | [[Balearic Islands|BA]]
+! width="4%" | [[Basque Country (autonomous community)|BC]]
+! width="4%" | [[Canary Islands|CI]]
+! width="4%" | [[Cantabria|CN]]
+! width="4%" | [[Castile-La Mancha|CM]]
+! width="4%" | [[Castile and León|CL]]
+! width="4%" | [[Catalonia|CA]]
+! width="4%" | [[Ceuta|CE]]
+! width="4%" | [[Extremadura|EX]]
+! width="4%" | [[Galicia (Spain)|GA]]
+! width="4%" | [[La Rioja (Spain)|LR]]
+! width="4%" | [[Community of Madrid|MA]]
+! width="4%" | [[Melilla|ME]]
+! width="4%" | [[Region of Murcia|MU]]
+! width="4%" | [[Navarre|NA]]
+! width="4%" | [[Valencian Community|VA]]
+! width="4%" | Total
+|-
+| rowspan="2" bgcolor="{{People's Party (Spain)/meta/color}}" |
+| rowspan="2" style="text-align:left;" | [[People's Party (Spain)|PP]]
+| S
+| '''33'''<!--AN-->
+| '''8'''<!--AR-->
+| '''3'''<!--AS-->
+| '''5'''<!--BA-->
+| '''3'''<!--BC-->
+| '''9'''<!--CI-->
+| '''4'''<!--CN-->
+| '''14'''<!--CM-->
+| '''21'''<!--CL-->
+| '''11'''<!--CA-->
+| '''1'''<!--CE-->
+| '''6'''<!--EX-->
+| '''15'''<!--GA-->
+| '''3'''<!--LR-->
+| '''19'''<!--MA-->
+| '''1'''<!--ME-->
+| '''8'''<!--MU-->
+| '''2'''<!--NA-->
+| '''20'''<!--VA-->
+| '''186'''<!--Spain/Total-->
+|-
+| V
+| 45.6<!--AN-->
+| 47.7<!--AR-->
+| 35.4<!--AS-->
+| 49.6<!--BA-->
+| 17.8<!--BC-->
+| 48.0<!--CI-->
+| 52.2<!--CN-->
+| 55.8<!--CM-->
+| 55.4<!--CL-->
+| 20.7<!--CA-->
+| 65.9<!--CE-->
+| 51.2<!--EX-->
+| 52.5<!--GA-->
+| 54.7<!--LR-->
+| 51.0<!--MA-->
+| 66.7<!--ME-->
+| 64.2<!--MU-->
+| 38.2<!--NA-->
+| 53.3<!--VA-->
+| 44.6<!--Spain/Total-->
+|-
+| rowspan="2" bgcolor="{{Spanish Socialist Workers' Party/meta/color}}" |
+| rowspan="2" style="text-align:left;" | [[Spanish Socialist Workers' Party|PSOE]]
+| S
+| '''25'''<!--AN-->
+| '''4'''<!--AR-->
+| '''3'''<!--AS-->
+| '''3'''<!--BA-->
+| '''4'''<!--BC-->
+| '''4'''<!--CI-->
+| '''1'''<!--CN-->
+| '''7'''<!--CM-->
+| '''11'''<!--CL-->
+| '''14'''<!--CA-->
+| '''0'''<!--CE-->
+| '''4'''<!--EX-->
+| '''6'''<!--GA-->
+| '''1'''<!--LR-->
+| '''10'''<!--MA-->
+| '''0'''<!--ME-->
+| '''2'''<!--MU-->
+| '''1'''<!--NA-->
+| '''10'''<!--VA-->
+| '''110'''<!--Spain/Total-->
+|-
+| V
+| 36.6<!--AN-->
+| 31.5<!--AR-->
+| 29.3<!--AS-->
+| 28.9<!--BA-->
+| 21.6<!--BC-->
+| 24.9<!--CI-->
+| 25.2<!--CN-->
+| 30.3<!--CM-->
+| 29.2<!--CL-->
+| 26.7<!--CA-->
+| 20.3<!--CE-->
+| 37.2<!--EX-->
+| 27.8<!--GA-->
+| 31.1<!--LR-->
+| 26.0<!--MA-->
+| 25.3<!--ME-->
+| 21.0<!--MU-->
+| 22.0<!--NA-->
+| 26.8<!--VA-->
+| 28.8<!--Spain/Total-->
+|-
+| rowspan="2" bgcolor="{{United Left (Spain)/meta/color}}" |
+| rowspan="2" style="text-align:left;" | [[United Left (Spain)|IU]]
+| S
+| '''2'''<!--AN-->
+| '''1'''<!--AR-->
+| '''1'''<!--AS-->
+| '''0'''<!--BA-->
+| '''0'''<!--BC-->
+| '''0'''<!--CI-->
+| '''0'''<!--CN-->
+| '''0'''<!--CM-->
+| '''0'''<!--CL-->
+| '''3'''<!--CA-->
+| '''0'''<!--CE-->
+| '''0'''<!--EX-->
+| '''0'''<!--GA-->
+| '''0'''<!--LR-->
+| '''3'''<!--MA-->
+| <!--ME-->
+| '''0'''<!--MU-->
+| '''0'''<!--NA-->
+| '''1'''<!--VA-->
+| '''11'''<!--Spain/Total-->
+|-
+| V
+| 8.3<!--AN-->
+| 10.5<!--AR-->
+| 13.2<!--AS-->
+| 4.9<!--BA-->
+| 3.7<!--BC-->
+| 4.3<!--CI-->
+| 3.6<!--CN-->
+| 5.8<!--CM-->
+| 5.6<!--CL-->
+| 8.1<!--CA-->
+| 1.8<!--CE-->
+| 5.7<!--EX-->
+| 4.1<!--GA-->
+| 4.6<!--LR-->
+| 8.0<!--MA-->
+| <!--ME-->
+| 5.7<!--MU-->
+| 5.5<!--NA-->
+| 6.5<!--VA-->
+| 6.9<!--Spain/Total-->
+|-
+| rowspan="2" bgcolor="{{Union, Progress and Democracy/meta/color}}" |
+| rowspan="2" style="text-align:left;" | [[Union, Progress and Democracy|UPyD]]
+| S
+| '''0'''<!--AN-->
+| '''0'''<!--AR-->
+| '''0'''<!--AS-->
+| '''0'''<!--BA-->
+| '''0'''<!--BC-->
+| '''0'''<!--CI-->
+| '''0'''<!--CN-->
+| '''0'''<!--CM-->
+| '''0'''<!--CL-->
+| '''0'''<!--CA-->
+| '''0'''<!--CE-->
+| '''0'''<!--EX-->
+| '''0'''<!--GA-->
+| '''0'''<!--LR-->
+| '''4'''<!--MA-->
+| '''0'''<!--ME-->
+| '''0'''<!--MU-->
+| '''0'''<!--NA-->
+| '''1'''<!--VA-->
+| '''5'''<!--Spain/Total-->
+|-
+| V
+| 4.8<!--AN-->
+| 5.8<!--AR-->
+| 3.9<!--AS-->
+| 4.2<!--BA-->
+| 1.8<!--BC-->
+| 2.6<!--CI-->
+| 3.6<!--CN-->
+| 5.0<!--CM-->
+| 6.1<!--CL-->
+| 1.2<!--CA-->
+| 3.3<!--CE-->
+| 3.5<!--EX-->
+| 1.2<!--GA-->
+| 6.0<!--LR-->
+| 10.3<!--MA-->
+| 3.7<!--ME-->
+| 6.3<!--MU-->
+| 2.1<!--NA-->
+| 5.6<!--VA-->
+| 4.7<!--Spain/Total-->
+|-
+| rowspan="2" bgcolor="{{Convergence and Union/meta/color}}" |
+| rowspan="2" style="text-align:left;" | [[Convergence and Union|CiU]]
+| S
+| <!--AN-->
+| <!--AR-->
+| <!--AS-->
+| <!--BA-->
+| <!--BC-->
+| <!--CI-->
+| <!--CN-->
+| <!--CM-->
+| <!--CL-->
+| '''16'''<!--CA-->
+| <!--CE-->
+| <!--EX-->
+| <!--GA-->
+| <!--LR-->
+| <!--MA-->
+| <!--ME-->
+| <!--MU-->
+| <!--NA-->
+| <!--VA-->
+| '''16'''<!--Spain/Total-->
+|-
+| V
+| <!--AN-->
+| <!--AR-->
+| <!--AS-->
+| <!--BA-->
+| <!--BC-->
+| <!--CI-->
+| <!--CN-->
+| <!--CM-->
+| <!--CL-->
+| 29.4<!--CA-->
+| <!--CE-->
+| <!--EX-->
+| <!--GA-->
+| <!--LR-->
+| <!--MA-->
+| <!--ME-->
+| <!--MU-->
+| <!--NA-->
+| <!--VA-->
+| 4.2<!--Spain/Total-->
+|-
+| rowspan="2" bgcolor="{{Amaiur/meta/color}}" |
+| rowspan="2" style="text-align:left;" | [[Amaiur]]
+| S
+| <!--AN-->
+| <!--AR-->
+| <!--AS-->
+| <!--BA-->
+| '''6'''<!--BC-->
+| <!--CI-->
+| <!--CN-->
+| <!--CM-->
+| <!--CL-->
+| <!--CA-->
+| <!--CE-->
+| <!--EX-->
+| <!--GA-->
+| <!--LR-->
+| <!--MA-->
+| <!--ME-->
+| <!--MU-->
+| '''1'''<!--NA-->
+| <!--VA-->
+| '''7'''<!--Spain/Total-->
+|-
+| V
+| <!--AN-->
+| <!--AR-->
+| <!--AS-->
+| <!--BA-->
+| 24.1<!--BC-->
+| <!--CI-->
+| <!--CN-->
+| <!--CM-->
+| <!--CL-->
+| <!--CA-->
+| <!--CE-->
+| <!--EX-->
+| <!--GA-->
+| <!--LR-->
+| <!--MA-->
+| <!--ME-->
+| <!--MU-->
+| 14.9<!--NA-->
+| <!--VA-->
+| 1.4<!--Spain/Total-->
+|-
+| rowspan="2" bgcolor="{{Basque Nationalist Party/meta/color}}" |
+| rowspan="2" style="text-align:left;" | [[Basque Nationalist Party|PNV]]
+| S
+| <!--AN-->
+| <!--AR-->
+| <!--AS-->
+| <!--BA-->
+| '''5'''<!--BC-->
+| <!--CI-->
+| <!--CN-->
+| <!--CM-->
+| <!--CL-->
+| <!--CA-->
+| <!--CE-->
+| <!--EX-->
+| <!--GA-->
+| <!--LR-->
+| <!--MA-->
+| <!--ME-->
+| <!--MU-->
+| <!--NA-->
+| <!--VA-->
+| '''5'''<!--Spain/Total-->
+|-
+| V
+| <!--AN-->
+| <!--AR-->
+| <!--AS-->
+| <!--BA-->
+| 27.4<!--BC-->
+| <!--CI-->
+| <!--CN-->
+| <!--CM-->
+| <!--CL-->
+| <!--CA-->
+| <!--CE-->
+| <!--EX-->
+| <!--GA-->
+| <!--LR-->
+| <!--MA-->
+| <!--ME-->
+| <!--MU-->
+| <!--NA-->
+| <!--VA-->
+| 1.3<!--Spain/Total-->
+|-
+| rowspan="2" bgcolor="{{Republican Left of Catalonia/meta/color}}" |
+| rowspan="2" style="text-align:left;" | [[Republican Left of Catalonia|ERC]]
+| S
+| <!--AN-->
+| <!--AR-->
+| <!--AS-->
+| '''0'''<!--BA-->
+| <!--BC-->
+| <!--CI-->
+| <!--CN-->
+| <!--CM-->
+| <!--CL-->
+| '''3'''<!--CA-->
+| <!--CE-->
+| <!--EX-->
+| <!--GA-->
+| <!--LR-->
+| <!--MA-->
+| <!--ME-->
+| <!--MU-->
+| <!--NA-->
+| '''0'''<!--VA-->
+| '''3'''<!--Spain/Total-->
+|-
+| V
+| <!--AN-->
+| <!--AR-->
+| <!--AS-->
+| 1.1<!--BA-->
+| <!--BC-->
+| <!--CI-->
+| <!--CN-->
+| <!--CM-->
+| <!--CL-->
+| 7.1<!--CA-->
+| <!--CE-->
+| <!--EX-->
+| <!--GA-->
+| <!--LR-->
+| <!--MA-->
+| <!--ME-->
+| <!--MU-->
+| <!--NA-->
+| 0.3<!--VA-->
+| 1.1<!--Spain/Total-->
+|-
+| rowspan="2" bgcolor="{{Galician Nationalist Bloc/meta/color}}" |
+| rowspan="2" style="text-align:left;" | [[Galician Nationalist Bloc|BNG]]
+| S
+| <!--AN-->
+| <!--AR-->
+| <!--AS-->
+| <!--BA-->
+| <!--BC-->
+| <!--CI-->
+| <!--CN-->
+| <!--CM-->
+| <!--CL-->
+| <!--CA-->
+| <!--CE-->
+| <!--EX-->
+| '''2'''<!--GA-->
+| <!--LR-->
+| <!--MA-->
+| <!--ME-->
+| <!--MU-->
+| <!--NA-->
+| <!--VA-->
+| '''2'''<!--Spain/Total-->
+|-
+| V
+| <!--AN-->
+| <!--AR-->
+| <!--AS-->
+| <!--BA-->
+| <!--BC-->
+| <!--CI-->
+| <!--CN-->
+| <!--CM-->
+| <!--CL-->
+| <!--CA-->
+| <!--CE-->
+| <!--EX-->
+| 11.2<!--GA-->
+| <!--LR-->
+| <!--MA-->
+| <!--ME-->
+| <!--MU-->
+| <!--NA-->
+| <!--VA-->
+| 0.8<!--Spain/Total-->
+|-
+| rowspan="2" bgcolor="{{Canarian Coalition/meta/color}}" |
+| rowspan="2" style="text-align:left;" | [[Canarian Coalition|CC]]
+| S
+| <!--AN-->
+| <!--AR-->
+| <!--AS-->
+| <!--BA-->
+| <!--BC-->
+| '''2'''<!--CI-->
+| <!--CN-->
+| <!--CM-->
+| <!--CL-->
+| <!--CA-->
+| <!--CE-->
+| <!--EX-->
+| <!--GA-->
+| <!--LR-->
+| <!--MA-->
+| <!--ME-->
+| <!--MU-->
+| <!--NA-->
+| <!--VA-->
+| '''2'''<!--Spain/Total-->
+|-
+| V
+| <!--AN-->
+| <!--AR-->
+| <!--AS-->
+| <!--BA-->
+| <!--BC-->
+| 15.5<!--CI-->
+| <!--CN-->
+| <!--CM-->
+| <!--CL-->
+| <!--CA-->
+| <!--CE-->
+| <!--EX-->
+| <!--GA-->
+| <!--LR-->
+| <!--MA-->
+| <!--ME-->
+| <!--MU-->
+| <!--NA-->
+| <!--VA-->
+| 0.6<!--Spain/Total-->
+|-
+| rowspan="2" bgcolor="{{Coalició Compromís/meta/color}}" |
+| rowspan="2" style="text-align:left;" | [[Coalició Compromís|Compr.]]
+| S
+| <!--AN-->
+| <!--AR-->
+| <!--AS-->
+| <!--BA-->
+| <!--BC-->
+| <!--CI-->
+| <!--CN-->
+| <!--CM-->
+| <!--CL-->
+| <!--CA-->
+| <!--CE-->
+| <!--EX-->
+| <!--GA-->
+| <!--LR-->
+| <!--MA-->
+| <!--ME-->
+| <!--MU-->
+| <!--NA-->
+| '''1'''<!--VA-->
+| '''1'''<!--Spain/Total-->
+|-
+| V
+| <!--AN-->
+| <!--AR-->
+| <!--AS-->
+| <!--BA-->
+| <!--BC-->
+| <!--CI-->
+| <!--CN-->
+| <!--CM-->
+| <!--CL-->
+| <!--CA-->
+| <!--CE-->
+| <!--EX-->
+| <!--GA-->
+| <!--LR-->
+| <!--MA-->
+| <!--ME-->
+| <!--MU-->
+| <!--NA-->
+| 4.8<!--VA-->
+| 0.5<!--Spain/Total-->
+|-
+| rowspan="2" bgcolor="{{Asturian Forum/meta/color}}" |
+| rowspan="2" style="text-align:left;" | [[Asturian Forum|FAC]]
+| S
+| <!--AN-->
+| <!--AR-->
+| '''1'''<!--AS-->
+| <!--BA-->
+| <!--BC-->
+| <!--CI-->
+| <!--CN-->
+| <!--CM-->
+| <!--CL-->
+| <!--CA-->
+| <!--CE-->
+| <!--EX-->
+| <!--GA-->
+| <!--LR-->
+| '''0'''<!--MA-->
+| <!--ME-->
+| <!--MU-->
+| <!--NA-->
+| <!--VA-->
+| '''1'''<!--Spain/Total-->
+|-
+| V
+| <!--AN-->
+| <!--AR-->
+| 14.7<!--AS-->
+| <!--BA-->
+| <!--BC-->
+| <!--CI-->
+| <!--CN-->
+| <!--CM-->
+| <!--CL-->
+| <!--CA-->
+| <!--CE-->
+| <!--EX-->
+| <!--GA-->
+| <!--LR-->
+| 0.2<!--MA-->
+| <!--ME-->
+| <!--MU-->
+| <!--NA-->
+| <!--VA-->
+| 0.4<!--Spain/Total-->
+|-
+| rowspan="2" bgcolor="{{Geroa Bai/meta/color}}" |
+| rowspan="2" style="text-align:left;" | [[Geroa Bai|GBai]]
+| S
+| <!--AN-->
+| <!--AR-->
+| <!--AS-->
+| <!--BA-->
+| <!--BC-->
+| <!--CI-->
+| <!--CN-->
+| <!--CM-->
+| <!--CL-->
+| <!--CA-->
+| <!--CE-->
+| <!--EX-->
+| <!--GA-->
+| <!--LR-->
+| <!--MA-->
+| <!--ME-->
+| <!--MU-->
+| '''1'''<!--NA-->
+| <!--VA-->
+| '''1'''<!--Spain/Total-->
+|-
+| V
+| <!--AN-->
+| <!--AR-->
+| <!--AS-->
+| <!--BA-->
+| <!--BC-->
+| <!--CI-->
+| <!--CN-->
+| <!--CM-->
+| <!--CL-->
+| <!--CA-->
+| <!--CE-->
+| <!--EX-->
+| <!--GA-->
+| <!--LR-->
+| <!--MA-->
+| <!--ME-->
+| <!--MU-->
+| 12.8<!--NA-->
+| <!--VA-->
+| 0.2<!--Spain/Total-->
+|-
+| bgcolor="white" |
+| style="text-align:left;" | Others
+| V
+| 3.3<!--AN-->
+| 2.5<!--AR-->
+| 2.2<!--AS-->
+| 9.5<!--BA-->
+| 2.5<!--BC-->
+| 3.4<!--CI-->
+| 14.2<!--CN-->
+| 1.8<!--CM-->
+| 2.0<!--CL-->
+| 4.9<!--CA-->
+| 7.1<!--CE-->
+| 1.2<!--EX-->
+| 1.6<!--GA-->
+| 2.0<!--LR-->
+| 3.5<!--MA-->
+| 2.4<!--ME-->
+| 1.9<!--MU-->
+| 2.5<!--NA-->
+| 1.6<!--VA-->
+| 3.1<!--Spain/Total-->
+|-
+| bgcolor="white" |
+| colspan="2" style="text-align:left;" | Blank
+| 1.4<!--AN-->
+| 2.0<!--AR-->
+| 1.3<!--AS-->
+| 1.8<!--BA-->
+| 1.1<!--BC-->
+| 1.3<!--CI-->
+| 1.2<!--CN-->
+| 1.3<!--CM-->
+| 1.7<!--CL-->
+| 1.9<!--CA-->
+| 1.6<!--CE-->
+| 1.2<!--EX-->
+| 1.6<!--GA-->
+| 1.6<!--LR-->
+| 1.0<!--MA-->
+| 1.9<!--ME-->
+| 0.9<!--MU-->
+| 2.0<!--NA-->
+| 1.1<!--VA-->
+| 1.4<!--Spain/Total-->
+|- style="font-weight:bold;"
+| bgcolor="white" |
+! colspan="2" | Total seats
+| 60<!--AN-->
+| 13<!--AR-->
+| 8<!--AS-->
+| 8<!--BA-->
+| 18<!--BC-->
+| 15<!--CI-->
+| 5<!--CN-->
+| 21<!--CM-->
+| 32<!--CL-->
+| 47<!--CA-->
+| 1<!--CE-->
+| 10<!--EX-->
+| 23<!--GA-->
+| 4<!--LR-->
+| 36<!--MA-->
+| 1<!--ME-->
+| 10<!--MU-->
+| 5<!--NA-->
+| 33<!--VA-->
+| 350<!--Spain/Total-->
+|-
+| colspan="23" bgcolor="white" |
+|-
+| colspan="3" style="text-align:left;" | Turnout
+| 68.9<!--AN-->
+| 71.0<!--AR-->
+| 64.6<!--AS-->
+| 61.0<!--BA-->
+| 67.3<!--BC-->
+| 59.6<!--CI-->
+| 71.6<!--CN-->
+| 75.8<!--CM-->
+| 71.3<!--CL-->
+| 65.2<!--CA-->
+| 53.2<!--CE-->
+| 73.9<!--EX-->
+| 62.2<!--GA-->
+| 72.8<!--LR-->
+| 73.3<!--MA-->
+| 49.4<!--ME-->
+| 74.1<!--MU-->
+| 68.9<!--NA-->
+| 74.2<!--VA-->
+| '''68.9'''<!--Spain/Total-->
+|}
+
+==Post-election==
+
+===Overview of results===
+With an overall voter turnout of 68.9%, the [[Spanish Socialist Workers' Party]] suffered its worst defeat in a general election ever, while it also was one of the worst electoral performances for a ruling party in Spain since the [[Union of the Democratic Centre (Spain)|UCD]] defeat in [[Spanish general election, 1982|1982]]. The [[People's Party (Spain)|People's Party]] was able to form a [[majority government]] with 186 out of 350 seats (actually 185, since 1 of them was obtained in coalition with the regional [[Navarrese People's Union]]), after almost eight years in opposition. The PSOE went on to lose in all but two provinces ([[Barcelona (Spanish Congress Electoral District)|Barcelona]] and [[Seville (Spanish Congress Electoral District)|Seville]]), while losing in both [[Andalusia]] and [[Catalonia]], which up to that point had been carried by the PSOE in every general election.
+
+Minoritary national parties, such as [[United Left (Spain)|United Left]] and [[Union, Progress and Democracy]], benefitted from the PSOE collapse, winning 11 (2 in the previous parliament) and 5 seats (1) respectively. It was also the first election in which almost all other parties won votes; of all parties with representation in the [[Congress of Deputies (Spain)|Congress of Deputies]], only [[Republican Left of Catalonia]] and [[Geroa Bai]] lost votes compared to 2008. The [[Basque Nationalist Party]] lost 1 seat despite scoring higher than in 2008, but this came as a result of [[Amaiur]]'s irruption, with 6 out of its 7 seats being elected in the [[Basque Country (autonomous community)|Basque Country]].
+
+PSOE's electoral result, with 28.76% of the vote, would remain the worst electoral performance for a sitting government in a nationwide-held election since 1977 until the [[European Parliament election, 2014 (Spain)|European Parliament election, 2014]] two and a half years later, when the PP obtained 26.09% of the vote.
+
+===Investiture voting===
+On 20 December 2011, [[Mariano Rajoy]] was elected in the first round of voting as new [[Prime Minister of Spain|Prime Minister]] with an [[absolute majority]] in the [[Congress of Deputies (Spain)|Congress]] (187/350).
+
+{| class="wikitable" style="font-size:85%;"
+|-
+| colspan="3" bgcolor="#C0C0C0" | <center>'''20 December 2011<br/>Investiture voting for [[Mariano Rajoy Brey]] ([[People's Party (Spain)|PP]])'''<br/><small>Absolute majority: 176/350</small></center>
+|- bgcolor="#D8D8D8"
+| width=80px | '''Vote'''
+| width=425px | '''Parties'''
+| width=80px align="center" | '''Votes'''
+|-
+| {{tick}} '''Yes''' || <small>[[People's Party (Spain)|PP]] (185), [[Navarrese People's Union|UPN]] (1), [[Asturian Forum|FAC]] (1)</small> || {{Infobox political party/seats|187|350|hex=green}}
+|-
+| No || <small>[[Spanish Socialist Workers' Party|PSOE]] (110), [[Convergence and Union|CiU]] (16), [[United Left (Spain)|IU]] (11), [[Union, Progress and Democracy|UPyD]] (5), [[Republican Left of Catalonia|ERC]] (3), [[Galician Nationalist Bloc|BNG]] (2), [[Coalició Compromís|Compromís]] (1), [[Geroa Bai|GBai]] (1)</small> || {{Infobox political party/seats|149|350|hex=red}}
+|-
+| Abstentions || <small>[[Amaiur]] (7), [[Basque Nationalist Party|PNV]] (5), [[Canarian Coalition|CC-NC]] (2)</small> || {{Infobox political party/seats|14|350|hex=gray}}
+|-
+| colspan="3" | Source: [http://www.historiaelectoral.com/inv.html Historia Electoral]
+|-
+|}
+
+==References==
+{{reflist|30em}}
+
+{{Spanish elections}}
+{{Spanish electoral districts}}
+
+[[Category:General elections in Spain]]
+[[Category:2011 elections in Spain]]
+[[Category:2011 elections in Europe]]

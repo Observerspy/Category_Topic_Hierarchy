@@ -1,0 +1,45 @@
+{{Earthquake
+|title= 1997 Punitaqui earthquake
+|date= {{Start-date|October 15, 1997}}
+|map = Punitaqui earthquake.jpg
+|caption=
+|magnitude = 7.1 Surface wave magnitude|M<sub>s</sub>
+|depth=
+|location={{coord|-30.93|-71.22|type:event|display=inline,title}}
+|countries affected = Chile
+|tsunami = 
+|casualties = 8}}
+
+The '''1997 Punitaqui earthquake''' occurred at 01:03 UTC on October 15. It had an estimated Surface wave magnitude|magnitude of 7.1. This earthquake was one of the most destructive in the epicentral area compared to other events of subduction of the same size. The extensive damage to structures was the result of an Soil liquefaction|amplification effect on the ground and the poor quality of building materials, this reflects the potential for damage incurred in an intraplate earthquake with vertical fault and how it can be much greater than what which can cause one of interplate of similar magnitude, and caused severe damage in List of Chilean cities|Chilean cities of La Serena, Chile|La Serena, Ovalle, Illapel and Punitaqui.
+
+==Tectonic setting==
+File:Teatro Nacional despues del terremoto de Punitaqui.jpg|thumb|left|130px|Ovalle National Theatre after the earthquake.
+The earthquake took place along the boundary between the Nazca Plate|Nazca and South American Plate|South American tectonic plates, at a location where they convergent boundary|converge at a rate of seventy millimeters a year. This quake was an oceanic interplate type, occurred in the going slab and not between two plates, the effect of friction, referring to the Nazca Plate|Nazca and South American Plate. In particular, this event took place under the area of coupling seismic, besides his epicenter is located in an area specific to Chile, ranging between 27?-33? S, where the going slab is placed almost horizontally at {{convert|100|km|0|abbr=on}}. deep and goes nearly {{convert|250|km|0|abbr=on}}. into the mainland under the continental plate, it generates a large coupling of the two plates in contact and absence of volcanism, among other things.
+
+The October earthquake occurred in the rupture zone caused by the 1943 Ovalle earthquake which had a magnitude of 8.7 Moment magnitude scale|M<sub>W</sub>, as well as related with other quakes occurred in the same area like the 1730 Valparaiso earthquake|Valparaiso earthquake of August 1730, of 9.2 Moment magnitude scale|M<sub>W</sub> and the 1880 Illapel earthquake which registered a magnitude of 8.8 Moment magnitude scale|M<sub>W</sub>. This entire segment is delimited by the rupture zoans of 1965 and 1971 in San Felipe de Aconcagua Province|Aconcagua and 1906 in Valparaíso to the south, while to the north by the 1922 Vallenar earthquake|1922 ruptured in Atacama Region.
+
+==Damage==
+
+Punitaqui was practically demolished by the quake, which reached an VIII-magnitude seismic Mercalli and a magnitude of 7.9 to 8.1 on the Richter scale. Damage ranged from as far north as the Antofagasta Region to the southern Araucanía Region.
+
+File:Mapa terremoto punitaqui.JPG|thumb|right|200px|Location of the earthquake and aftershocks.
+
+In Santiago, Chile|Santiago, the quake felt undulating because of the distance from the epicenter. Both Santiago Region|Santiago and Valparaíso Region|Valparaíso Regions of Chile|regions lost telephone service and radio transmission. In La Serena, Chile|La Serena, hysteria broke out, and people went into the streets as a precaution. The quake left 8 people dead, 160 injured and 10,913 homeless, concentrating most of those in the provinces of Elqui Province|Elqui and Limarí Province|Limarí.
+
+==See also==
+*List of earthquakes in Chile
+*1730 Valparaiso earthquake
+*1922 Vallenar earthquake
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category|1997 Punitaqui earthquake}}
+
+{{Earthquakes in 1997}}
+{{Earthquakes in Chile}}
+
+Category:Megathrust earthquakes in Chile
+Category:1997 earthquakes|Punitaqui
+Category:1997 in Chile|Punitaqui earthquake

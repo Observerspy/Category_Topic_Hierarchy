@@ -1,0 +1,47 @@
+{{Use dmy dates|date=December 2013}}
+{{Earthquake
+|title= 1481 Rhodes earthquake
+|date= {{Start-date|3 May 1481}}
+|map2 = {{Location map | Greece
+ | label=
+ | lat=36.0
+ | long=28.0
+ | mark=Bullseye1.png
+ | marksize=40
+ | position=top
+ | width= 250
+ | float=right
+ | caption=
+ | relief=yes}}
+|magnitude = 7.1
+|depth=
+|location={{coord|36.0|28.0|display=inline,title}}
+|countries affected = Greece, Rhodes
+|tsunami = 
+|casualties = 30,000
+}}
+The '''1481 Rhodes earthquake''' occurred at 3:00 in the morning on 3 May. It triggered a small tsunami, which caused local flooding. There were an estimated 30,000 casualties. It was the largest of a series of earthquakes that affected Rhodes, starting on 15 March 1481, continuing until January 1482.
+
+==Tectonic setting==
+The island of Rhodes lies on part of the boundary between the Aegean Sea Plate|Aegean Sea and African Plate|African plates. The tectonic setting is complex, with a Neogene history that includes periods of Thrust tectonics|thrusting, Extensional tectonics|extension and Strike-slip tectonics|strike slip. Currently the island is undergoing a counter-clockwise rotation (17° ±5° in the last 800,000 years) associated with the south Aegean sinistral Fault (geology)#Strike-slip faults|strike-slip fault system. The island had also been tilted to the northwest during the Pleistocene, an uplift attributed to a Fault (geology)#Dip-slip faults|reverse fault lying just to the east of Rhodes.
+
+==Damage==
+Sources refer to destruction in Rhodes Town; the Palace of the Grand Master of the Knights of Rhodes was sufficiently damaged to require immediate rebuilding (Rhodes was at the time under siege by the Turks).
+
+==Characteristics==
+
+===Tsunami===
+The tsunami appears to have been relatively minor, estimated at a maximum 1.8 m. However, it was observed on the Levantine coasts and a tsunami deposit|tsunami sediment layer found at Dalaman, on the southwest coast of Turkey, has been dated at 1473 ±46, consistent with this event.
+
+===Earthquake===
+There was a major foreshock on 15 March of that year. Following the mainshock on 3 May, earthquakes (presumably aftershocks) continued until January 1482, with large aftershocks on 5 May, 12 May, 3 October and 18 December. The estimated magnitude for the mainshock is 7.1 on the surface wave magnitude scale.
+
+==References==
+{{Reflist}}
+
+{{Earthquakes in Greece}}
+Category:15th-century earthquakes
+Category:Megathrust earthquakes in Greece
+Category:1481 in Europe|Rhodes earthquake
+Category:Rhodes under the Knights Hospitaller
+Category:1481 disasters

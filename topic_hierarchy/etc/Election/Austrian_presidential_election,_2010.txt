@@ -1,0 +1,288 @@
+{{Use dmy dates|date=November 2012}}
+{{Infobox Election
+| election_name = Austrian presidential election, 2010
+| country = Austria
+| type = presidential
+| ongoing = no
+| previous_election = Austrian presidential election, 2004
+| previous_year = 2004
+| next_election = Austrian presidential election, 2016
+| next_year = 2016
+| election_date = {{Start date|df=yes|2010|04|25}}
+| image1 = [[File:Heinz Fischer Vienna Oct. 2006 001-cropped.jpg|82px]]
+| candidate1 = [[Heinz Fischer]]
+| party1 = Independent (politician)
+| popular_vote1 = 2,508,373
+| percentage1 = 79.3%
+| image2 = [[File:Barbara Rosenkranz Sankt Poelten 20080918 cropped.jpg|85px]]
+| candidate2 = [[Barbara Rosenkranz]]
+| party2 = Freedom Party of Austria
+| popular_vote2 = 481,923
+| percentage2 = 15.2%
+| image3 = [[File:Rudolf Gehring CPÖ cropped.jpg|90px]]
+| candidate3 = [[Rudolf Gehring]]
+| party3 = Christian Party of Austria
+| popular_vote3 = 171,668
+| percentage3 = 5.4%
+| title = President
+| before_election = [[Heinz Fischer]]
+| before_party = Independent (politician)
+| after_election = [[Heinz Fischer]]
+| after_party = Independent (politician)
+}}
+{{Politics of Austria}}
+
+The [[Austria]]n [[presidential election]] took place on 25 April 2010.<ref>{{cite web|url=http://www.salzburg.com/online/7mal24/aktuell/Fischer-kandidiert-fuer-zweite-Amtszeit.html?article=eGMmOI8VdICFv2WnLJLamXN6M4RBlSXzlcfsP0r&img=&text=&mode=&|title=Fischer kündigt Kandidatur per Video an|date=23 November 2009|accessdate=25 April 2010|publisher=''[[Salzburger Nachrichten]]''}}</ref> It was the twelfth election of an Austrian head of state since 1951. The candidates were [[Heinz Fischer]], [[Barbara Rosenkranz]] ([[Freedom Party of Austria|FPÖ]]) and Rudolf Gehring ([[Christian Party of Austria|CPÖ]]). Heinz Fischer won with just under 80% of the valid votes. The turnout was on the historic low of about 54%.
+
+==Candidates==
+
+===[[Social Democratic Party of Austria]]===
+Incumbent President [[Heinz Fischer]] ([[independent (politician)|independent]], former member of the [[Social Democratic Party of Austria|Social Democratic Party]]) announced on 23 November 2009 that he will seek a second term.<ref>{{cite web|url=http://derstandard.at/1256745420089/Fischer-kandidiert-erneut|title=Fischer kandidiert erneut|date=23 November 2009|accessdate=25 April 2010|publisher=''[[Der Standard]]''}}</ref> According to a 27 June 2009, [[Gallup poll|Gallup]] poll for the newspaper [[Österreich (newspaper)|Österreich]], Fischer had a job approval rating of 80%.<ref>{{cite web|url=http://www.oe24.at/oesterreich/politik/Fischer_bei_Praesidenten-Frage_in_Front_0486150.ece|title=Fischer bei Präsidenten-Frage in Front|date=27 June 2009|accessdate=25 April 2010|publisher=oe24.at}}</ref>
+
+===[[Austrian People's Party]]===
+There were rumours that the candidate of the [[Austrian People's Party]] would be either Governor of [[Lower Austria]] [[Erwin Pröll]] or president of the [[Austrian Federal Economic Chamber]] [[Christoph Leitl]]. On 13 October 2009 Pröll announced that he would not run for the Presidency and that he would remain Governor of Lower Austria.<ref>{{cite web|author=Quinn, Kathryn|url=http://www.wienerzeitung.at/DesktopDefault.aspx?TabID=4082&Alias=wzo&cob=444218|title=Pröll will not run for presidency|date=13 October 2009|accessdate=25 April 2010|publisher=''[[Wiener Zeitung]]''}}</ref> Leitl and former governor of Styria [[Waltraud Klasnic]] also declined a presidential run.<ref>{{cite web|url=http://derstandard.at/1254312026461/Klasnic-will-nicht-VP-Kandidatin-werden|title=Klasnic will nicht VP-Kandidatin werden|date=21 October 2009|accessdate=25 April 2010|publisher=''[[Der Standard]]''}}</ref> On 25 February 2010, the People's Party announced that it would not nominate a candidate, and would not officially support any candidate.<ref>{{cite web|url=http://derstandard.at/1266541375748/Bundespraesident-OeVP-ueberlaesst-Fischer-die-Hofburg-kampflos|title=ÖVP überlässt Fischer die Hofburg kampflos|date=24 February 2010|accessdate=25 April 2010|publisher=''[[Der Standard]]''| archiveurl= http://web.archive.org/web/20100501092225/http://derstandard.at/1266541375748/Bundespraesident-OeVP-ueberlaesst-Fischer-die-Hofburg-kampflos| archivedate= 1 May 2010 <!--DASHBot-->| deadurl= no}}</ref>
+
+===[[Freedom Party of Austria]]===
+The [[Freedom Party of Austria|Freedom Party]] announced in June 2009 that it would definitely field a candidate "to prevent Fischer['s reelection]". Possible candidates mentioned included [[Martin Graf]], [[Norbert Steger]], [[Siegfried Dillersberger]], [[Norbert Gugerbauer]], [[Dieter Böhmdorfer]] and [[Wilhelm Brauneder]].<ref>{{cite web|url=http://kurier.at/nachrichten/1927505.php|title=Hier stimmt etwas nicht|accessdate=25 April 2010|publisher=''[[Kurier (Austrian newspaper)|Kurier]]''}} {{Dead link|date=October 2010|bot=H3llBot}}</ref><ref>{{cite web|url=http://derstandard.at/1245820154369/Bundespraesidentenwahl-FPOe-stellt-Kandidaten-auf|title=FPÖ stellt Kandidaten auf|date=26 June 2009|accessdate=25 April 2010|publisher=''[[Der Standard]]''}}</ref><ref>{{cite web|url=http://derstandard.at/1244460960335/FPOe-Organisationen-uebergeben-Unterschriften-an-Graf|title=FPÖ-Organisationen übergeben Unterschriften an Graf|date=18 June 2009|accessdate=25 April 2010|publisher=''[[Der Standard]]''}}</ref> After the Carinthian branch of the [[Alliance for the Future of Austria]] [[The Freedomites in Carinthia|broke away to re-unite]] with the Freedom Party, it was rumoured that [[Barbara Rosenkranz]] would be their candidate.<ref>{{cite web|url=http://news.orf.at/?href=http%3A%2F%2Fnews.orf.at%2Fticker%2F351960.html|title=Zeitung: Rosenkranz soll für FPÖ/FPK um Hofburg kämpfen|accessdate=25 April 2010|publisher=news.ORF.at}}</ref> In early January 2010, [[Heinz-Christian Strache]], leader of the Freedom Party, guaranteed that the party would nominate a candidate to assure that Fischer would not run unopposed.<ref>{{cite web|url=http://orf.at/?href=http%3A%2F%2Forf.at%2Fticker%2F353116.html|title=Hofburg: FPÖ garantiert Fischer-Gegenkandidaten|accessdate=25 April 2010|publisher=news.ORF.at}}</ref> On 28 February 2010, Strache announced in the ''[[Kronen Zeitung]]'' that the Freedom Party would nominate Barbara Rosenkranz as its presidential candidate.<ref>{{cite web|url=http://www.krone.at/krone/S32/object_id__187536/hxcms/index.html|title=Strache schickt Rosenkranz ins Rennen um Hofburg|date=27 February 2010|accessdate=25 April 2010|publisher=''[[Kronen Zeitung]]''}}</ref>
+
+===[[Alliance for the Future of Austria]]===
+[[Alliance for the Future of Austria]] leader [[Josef Bucher]] and General Secretary [[Stefan Petzner]] voiced their support for a presidential candidacy of [[Claudia Haider]], widow of former Alliance leader [[Jörg Haider]], by inviting [[The Greens – The Green Alternative|the Greens]] and the Freedom Party to form a non-partisan committee. [[Carinthia (state)|Carinthia]] Governor [[Gerhard Dörfler]] spoke out against such a candidacy, because he "wouldn't like to join forces with Heinz-Christian Strache's [Freedom Party]", but nonetheless said that Claudia Haider would be a "good candidate, who could finance her campaign on her own". On 17 August, Haider announced that she would not run for President.<ref>{{cite web|url=http://www.oe24.at/oesterreich/politik/BZOe-Streit_um_Claudia_Haider_0483218.ece|title=BZÖ-Streit um Claudia Haider|date=22 June 2009|accessdate=25 April 2010|publisher=oe24.at}}</ref><ref>{{cite web|url=http://www.oe24.at/oesterreich/politik/Haiders-Witwe-kandidiert-nicht-0514866.ece|title=Haiders Witwe kandidiert nicht|date=17 August 2009|accessdate=25 April 2010|publisher=oe24.at}}</ref> On 26 February 2010, Bucher said that he might run as a candidate for his party, because "he could appeal to [People's Party] voters".<ref>{{cite web|url=http://derstandard.at/1267131863958/BZOe-Wahlkampf-um-600000-Euro-moeglich|title=BZÖ: Wahlkampf um 600.000 Euro möglich|date=26 February 2010|accessdate=25 April 2010|publisher=''[[Der Standard]]''}}</ref> On 1 March 2010, the Alliance announced that Bucher would not stand as a candidate, as the odds were clearly against him and they did not want to waste taxpayers' money.<ref>{{cite web|url=http://derstandard.at/1267132052800/Rueckzug-BZOe-schickt-niemanden-ins-Rennen|title=BZÖ schickt niemanden ins Rennen|date=1 March 2010|accessdate=25 April 2010|publisher=''[[Der Standard]]''| archiveurl= http://web.archive.org/web/20100508001842/http://derstandard.at/1267132052800/Rueckzug-BZOe-schickt-niemanden-ins-Rennen| archivedate= 8 May 2010 <!--DASHBot-->| deadurl= no}}</ref>
+
+===[[The Greens – The Green Alternative]]===
+It was expected that former [[The Greens – The Green Alternative|Green Party]] leader [[Alexander Van der Bellen]] might stand in the election, but he stated in January 2009 that if Fischer ran for reelection he would have his support.<ref>{{cite web|url=http://oe1.orf.at/inforadio/101213.html?filter=3|title=Seite nicht gefunden|accessdate=25 April 2010|publisher=[[Ö1]]}}</ref> In June 2009, however, Green party leader [[Eva Glawischnig]] stated that the Greens were considering fielding a candidate, and that Van der Bellen would be a very good candidate.<ref>{{cite web|url=http://oe1.orf.at/inforadio/108140.html?filter=3|title=Seite nicht gefunden|accessdate=25 April 2010|publisher=[[Ö1]]}}</ref> By November 2009, there was still no clear decision from the Greens, even though Van der Bellen  had ruled out a run for the Presidency on 23 November 2009.<ref>{{cite web|url=http://derstandard.at/1252037015584/Bundespraesident-Gruene-ueber-eigenen-Kandidaten-unschluessig|title=Grüne über eigenen Kandidaten unschlüssig|date=10 September 2009|accessdate=25 April 2010|publisher=''[[Der Standard]]''}}</ref><ref>{{cite web|url=http://derstandard.at/1256745427688/Gruene-Entscheidung-Van-der-Bellen-tritt-nicht-an|title=Van der Bellen tritt nicht an|date=23 November 2009|accessdate=25 April 2010|publisher=''[[Der Standard]]''| archiveurl= http://web.archive.org/web/20100402092826/http://derstandard.at/1256745427688/Gruene-Entscheidung-Van-der-Bellen-tritt-nicht-an| archivedate= 2 April 2010 <!--DASHBot-->| deadurl= no}}</ref> On 25 February 2010, the Greens announced they wanted to concentrate on state elections and would not nominate a candidate.<ref>{{cite web|author=Prior, Thomas and Pink, Oliver|url=http://diepresse.com/home/politik/innenpolitik/542552/index.do?_vl_backlink=/home/index.do|title=Hofburg: Parteiinterne Kritik an ÖVP-Verzicht|date=25 February 2010|accessdate=25 April 2010|publisher=''[[Die Presse]]''}}</ref> After Fischer appeared at an event where the Greens questioned him on a number of issues, with questions submitted by voters via the internet, the Greens on 12 April 2010 officially endorsed his candidacy and called for their voters to vote for him, a first in the party's history.<ref>{{cite web|url=http://www.gruene.at/topstories/artikel/lesen/60946/|title=Bundespräsidentschaft: Grüne empfehlen offiziell Wahl Fischers|date=12 April 2010|accessdate=25 April 2010|publisher=[[The Greens – The Green Alternative]]| archiveurl= http://web.archive.org/web/20100417224820/http://www.gruene.at/topstories/artikel/lesen/60946/| archivedate= 17 April 2010 <!--DASHBot-->| deadurl= no}}</ref>
+
+===[[Christian Party of Austria]]===
+The [[Christian Party of Austria|Christian Party]] nominated its chairman [[Rudolf Gehring]] as a presidential candidate.<ref>{{cite web|url=http://derstandard.at/1259281230069/Gehring-Christen-Partei-stellt-Kandidaten-auf|title=Christen-Partei stellt Kandidaten auf|date=4 December 2009|accessdate=25 April 2010|publisher=''[[Der Standard]]''}}</ref> On 25 March 2010, they announced they had gathered the necessary number signatures to run for president.<ref>http://www.kleinezeitung.at/nachrichten/politik/2320734/drei-kandidaten-rittern-um-hoechstes-amt-staat.story</ref>
+
+===Other candidates===
+A former judge from eastern [[Styria]], [[Martin Wabl]], who had twice previously tried to run for president, announced on 6 February 2009 that he would run again.<ref>{{cite web|url=http://derstandard.at/1233586845626|title=Martin Wabl will sich wieder bewerben|date=6 February 2009|accessdate=25 April 2010|publisher=''[[Der Standard]]''}}</ref> Green municipal councillor [[Ulrich Habsburg-Lothringen]], as a descendant of [[House of Habsburg|the former ruling house]] of [[Austria–Hungary]] incapacitated by constitutional law to run for Austria's presidency, stated that he wanted to test the law at Austria's constitutional court if his candidacy is not permitted. [[Bernhard Gregor Honemann]] (nominated by the platform agenda2020.at) also planned to  run.<ref>{{cite web|url=http://derstandard.at/1267132010108/Habsburg-Kandidatur-Zuversicht-fuer-Unterstuetzungserklaerungen|title=Zuversicht für Unterstützungserklärungen|date=1 March 2010|accessdate=25 April 2010|publisher=''[[Der Standard]]''}}</ref> None of these candidates obtained the 6000 signatures necessary to run for president. The signatures submitted were:<ref>{{cite web|url=http://kurier.at/nachrichten/1989438.php|title="Sehr schönes Ergebnis" für Heinz Fischer|accessdate=25 April 2010|publisher=''[[Kurier (Austrian newspaper)|Kurier]]''| archiveurl= http://web.archive.org/web/20100331135720/http://kurier.at/nachrichten/1989438.php| archivedate= 31 March 2010 <!--DASHBot-->| deadurl= no}} {{Dead link|date=October 2010|bot=H3llBot}}</ref>
+* Fischer: 45,000 signatures
+* Rosenkranz: 10,500 signatures
+* Gehring: 8,000 signatures
+
+==Voter statistics==
+According to the federal election commission, 6,355,800 Austrian citizens aged 16+ were eligible to vote in the presidential election. Compared with the 2004 presidential election, the number of eligible voters increased by 324,818, or 5.4%&nbsp;– primarily due to lowering the legal voting age to 16 between the two elections. 3,307,366 women and 3,048,434 men were eligible to vote.<ref>{{cite web|url= http://www.bmi.gv.at/cms/BMI_wahlen/bundespraes/bpw_2010/Wahlberechtigte_E.aspx|title= Bundespräsidentenwahl 2010 - endgültige Zahl der Wahlberechtigten|language= German|publisher= [[Federal Ministry for the Interior (Austria)|Federal Ministry for the Interior]]|accessdate= 30 April 2010| archiveurl= http://web.archive.org/web/20100428221806/http://www.bmi.gv.at/cms/BMI_wahlen/bundespraes/bpw_2010/Wahlberechtigte_E.aspx| archivedate= 28 April 2010 <!--DASHBot-->| deadurl= no}}</ref>
+
+Total number of eligible voters by state:
+
+* Burgenland: 231,257
+* Carinthia: 447,679
+* Lower Austria: 1,267,379
+* Upper Austria: 1,092,760
+* Salzburg: 391,142
+* Styria: 973,009
+* Tyrol: 530,265
+* Vorarlberg: 265,026
+* Vienna: 1,157,283
+
+==Results==
+Heinz Fischer beat Barbara Rosenkranz by scoring 79.3% of the vote.<ref name="bmi">{{cite web|url= http://www.bmi.gv.at/cms/BMI_wahlen/bundespraes/bpw_2010/Ergebnis.aspx|title= Bundespräsidentenwahl 2010|language= German|publisher= [[Federal Ministry for the Interior (Austria)|Federal Ministry for the Interior]]|accessdate= 30 April 2010| archiveurl= http://web.archive.org/web/20100429090253/http://www.bmi.gv.at/cms/BMI_wahlen/bundespraes/bpw_2010/Ergebnis.aspx| archivedate= 29 April 2010 <!--DASHBot-->| deadurl= no}}</ref> Rosenkranz received 15.2%.<ref name="bmi"/> Rudolf Gehring came third by scoring 5.4%.<ref name="bmi"/>
+
+Opinion polls had placed Fischer in a good position on the day of the election.<ref>{{cite web|url=http://news.xinhuanet.com/english2010/world/2010-04/25/c_13266842.htm|title=Austria holds presidential election|date=25 April 2010|accessdate=25 April 2010|publisher=[[Xinhua News Agency]]}}</ref>
+
+Fischer thanked the nation on television: "I am extremely happy and thank the Austrian population for having so much confidence in me".<ref name="CBC World">{{cite web|url=http://www.cbc.ca/world/story/2010/04/25/austria-president-wins.html|title=Austrian president cruises to 2nd term|date=25 April 2010|accessdate=25 April 2010|publisher=[[CBC News]]}}</ref>
+
+Poor voter turnout - only 53.6% voted<ref name="bmi"/> - led again to calls by leaders for the post to be abolished.<ref>{{cite web|author=Scally, Derek|url=http://www.irishtimes.com/newspaper/world/2010/0426/1224269091601.html|title=Poor turnout gives Fischer hollow re-election victory|date=26 April 2010|accessdate=26 April 2010|publisher=''[[The Irish Times]]''}}</ref>
+
+{{Austrian presidential election, 2010}}
+
+==Opinion polls==
+
+===Social Democrats v. Freedom Party v. Christian Party===
+{| class="wikitable sortable" border="1"
+|- 
+! style="width:140px" | Source
+! style="width:80px" | Date
+! style="width:150px" | Social Democrats
+! style="width:170px" | Freedom Party
+! style="width:150px" | Christian Party
+! style="width:40px" | Undecided
+|-
+| [http://www.ots.at/presseaussendung/OTS_20100417_OTS0009/profil-mehr-als-acht-von-zehn-bei-bundespraesidentenwahl-fuer-heinz-fischer Karmasin/Profil]
+| align="center" | 17 April 2010
+| align="center" | '''Heinz Fischer – 82%'''
+| align="center" | Barbara Rosenkranz – 13%
+| align="center" | Rudolf Gehring – 5%
+| align="center" | —
+|-
+| [http://derstandard.at/1271374535289/Umfrage-Fischers-Ansehen-steigt-Rosenkranz-verliert Market/Standard]
+| align="center" | 16 April 2010
+| align="center" | '''Heinz Fischer – 60%'''
+| align="center" | Barbara Rosenkranz – 15%
+| align="center" | Rudolf Gehring – 4%
+| align="center" | 21%
+|-
+| [http://www.oe24.at/oesterreich/politik/Umfrage-17--waehlen-weiss-0690005.ece Gallup/Österreich]
+| align="center" | 16 April 2010
+| align="center" | '''Heinz Fischer – 80%'''
+| align="center" | Barbara Rosenkranz – 16%
+| align="center" | Rudolf Gehring – 4%
+| align="center" | —
+|-
+| [http://derstandard.at/1269449324925/Umfragen-Fischer-liegt-bei-82-Prozent Gallup/Österreich]
+| align="center" | 9 April 2010
+| align="center" | '''Heinz Fischer – 82%'''
+| align="center" | Barbara Rosenkranz – 14%
+| align="center" | Rudolf Gehring – 4%
+| align="center" | —
+|-
+| [http://derstandard.at/1269449324925/Umfragen-Fischer-liegt-bei-82-Prozent Karmasin/Profil]
+| align="center" | 9 April 2010
+| align="center" | '''Heinz Fischer – 82%'''
+| align="center" | Barbara Rosenkranz – 12%
+| align="center" | Rudolf Gehring – 6%
+| align="center" | —
+|-
+| [http://derstandard.at/1269448736365/71-Prozent-fuer-Fischer-13-Prozent-fuer-Rosenkranz Market/Standard]
+| align="center" | 1 April 2010
+| align="center" | '''Heinz Fischer – 71%'''
+| align="center" | Barbara Rosenkranz – 13%
+| align="center" | Rudolf Gehring – 2%
+| align="center" | 14%
+|}
+
+===Social Democrats v. Freedom Party===
+{| class="wikitable sortable" border="1"
+|- 
+! style="width:140px" | Source
+! style="width:100px" | Date
+! style="width:150px" | Social Democrats
+! style="width:190px" | Freedom Party
+! style="width:40px" | Undecided
+|-
+| [http://www.ots.at/presseaussendung/OTS_20100331_OTS0109/atv-oesterreich-trend-fischer-mit-80-favorit-vor-rosenkranz-mit-13 Peter Hajek/ATV]
+| align="center" | 31 March 2010
+| align="center" | '''Heinz Fischer – 80%'''
+| align="center" | Barbara Rosenkranz – 13%
+| align="center" | 7%
+|-
+| [http://www.oe24.at/oesterreich/politik/Nur-mehr-136-Prozent-fuer-Rosenkranz-0675700.ece Gallup/Österreich]
+| align="center" | 27 March 2010
+| align="center" | '''Heinz Fischer – 86%'''
+| align="center" | Barbara Rosenkranz – 14%
+| align="center" | —
+|-
+| [http://www.news.at/articles/1011/13/264505/news-ogm-umfrage-81-prozent-heinz-fischer-19-prozent-rosenkranz OGM/News]
+| align="center" | 17 March 2010
+| align="center" | '''Heinz Fischer – 81%'''
+| align="center" | Barbara Rosenkranz – 19%
+| align="center" | —
+|-
+| [http://www.oe24.at/oesterreich/politik/Rosenkranz-faellt-unter-20--Marke-0663956.ece Gallup/Österreich]
+| align="center" | 12 March 2010
+| align="center" | '''Heinz Fischer – 84%'''
+| align="center" | Barbara Rosenkranz – 16%
+| align="center" | —
+|-
+| [http://derstandard.at/1267743364505/46-Prozent-wuenschen-sich-Alternative-zu-Fischer-und-Rosenkranz Market/Standard]
+| align="center" | 5 March 2010
+| align="center" | '''Heinz Fischer – 65%'''
+| align="center" | Barbara Rosenkranz – 17%
+| align="center" | 18%
+|-
+| [http://www.news.at/articles/1009/13/263410/fischer-stand-74-prozent-staatsoberhaupt OGM/News]
+| align="center" | 3 March 2010
+| align="center" | '''Heinz Fischer – 74%'''
+| align="center" | Barbara Rosenkranz – 26%
+| align="center" | —
+|-
+| [http://www.oe24.at/oesterreich/politik/Rosenkranz-tritt-bei-Hofburg-Wahl-an-0653091.ece Gallup/Österreich]
+| align="center" | 27 February 2010
+| align="center" | '''Heinz Fischer – 79%'''
+| align="center" | Barbara Rosenkranz – 21%
+| align="center" | —
+|-
+| [http://www.oe24.at/oesterreich/politik/Rosenkranz-tritt-bei-Hofburg-Wahl-an-0653091.ece Gallup/Österreich]
+| align="center" | 27 February 2010
+| align="center" | '''Heinz Fischer – 84%'''
+| align="center" | Heinz-Christian Strache – 16%
+| align="center" | —
+|-
+|}
+
+===Social Democrats v. People's Party===
+{| class="wikitable sortable" border="1"
+|- 
+! style="width:140px" | Source
+! style="width:80px" | Date
+! style="width:150px" | Social Democrats
+! style="width:150px" | People's Party
+! style="width:40px" | Undecided
+|-
+| [http://www.krone.at IMAS/Kronen Zeitung]
+| align="center" | 28 June 2009
+| align="center" | '''Heinz Fischer – 62%'''
+| align="center" | Erwin Pröll – 20%
+| align="center" | 18%
+|-
+| [http://www.oe24.at/oesterreich/politik/Fischer_bei_Praesidenten-Frage_in_Front_0486150.ece Gallup/Österreich]
+| align="center" | 27 June 2009
+| align="center" | '''Heinz Fischer – 62%'''
+| align="center" | Erwin Pröll – 25%
+| align="center" | 13%
+|-
+| [http://www.news.at/articles/0926/10/244976/news-umfrage-jeder-oesterreicher-erwin-proell-bundespraesident OGM/News]
+| align="center" | 25 June 2009
+| align="center" | '''Heinz Fischer – 53%'''
+| align="center" | Erwin Pröll – 30%
+| align="center" | 17%
+|-
+| [http://derstandard.at/fs/1245820088005/Proell-holt-auf-Fischer-bleibt-vorne Market/Standard]
+| align="center" | 25 June 2009
+| align="center" | '''Heinz Fischer – 54%'''
+| align="center" | Erwin Pröll – 30%
+| align="center" | 16%
+|-
+| [http://www.oe24.at/oesterreich/politik/Fischer_entscheidet_nach_dem_Sommer_0448359.ece Gallup/Österreich]
+| align="center" | 4 April 2009
+| align="center" | '''Heinz Fischer – 67%'''
+| align="center" | Erwin Pröll – 18%
+| align="center" | 15%
+|-
+|}
+
+===All parties===
+{| class="wikitable sortable" border="1"
+|- 
+! style="width:140px" | Source
+! style="width:100px" | Date
+! style="width:150px" | Social Democrats
+! style="width:150px" | People's Party
+! style="width:190px" | Freedom Party
+! style="width:190px" | Greens
+! style="width:150px" | Alliance
+! style="width:40px" | Undecided
+|-
+| [http://www.oe24.at/oesterreich/politik/Hartes-Match-ums-erste-Amt-0510030.ece Gallup/Österreich]
+| align="center" | 9 August 2009
+| align="center" | '''Heinz Fischer – 50%'''
+| align="center" | Erwin Pröll – 24%
+| align="center" | Martin Graf – 3%
+| align="center" | Alexander Van der Bellen – 8%
+| align="center" | Claudia Haider – 4%
+| align="center" | 11%
+|-
+| [http://www.oe24.at/oesterreich/politik/Fischer_bei_Praesidenten-Frage_in_Front_0486150.ece Gallup/Österreich]
+| align="center" | 27 June 2009
+| align="center" | '''Heinz Fischer – 51%'''
+| align="center" | Erwin Pröll – 17%
+| align="center" | Heinz-Christian Strache – 8%
+| align="center" | Alexander Van der Bellen – 9%
+| align="center" | Claudia Haider – 5%
+| align="center" | 10%
+|-
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.heinzfischer.at Heinz Fischer Campaign Website]
+* [http://www.barbara-rosenkranz.at Barbara Rosenkranz Campaign Website]
+* [http://www.rudolf-gehring.at Rudolf Gehring Campaign Website]
+* [http://www.nsd.uib.no/european_election_database/country/austria/ NSD: European Election Database - Austria] publishes regional level election data (NUTS 1-3); allows for comparisons of election results, 1992-2010
+
+{{Elections in Austria}}
+
+[[Category:2010 elections in Austria]]
+[[Category:Presidential elections in Austria|2010]]

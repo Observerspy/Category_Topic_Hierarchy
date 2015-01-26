@@ -1,0 +1,48 @@
+{{Use dmy dates|date=March 2012}}
+{{Infobox earthquake
+ | title = 1992 Erzincan earthquake
+ | date = {{Start date|df=yes|1992|3|13}}
+ | image              = 
+ | image alt          = 
+ | map2 = {{Location map | Turkey |relief=1
+ | label =
+ | lat = 39.71
+ | long = 39.605
+ | mark = Bullseye1.png
+ | marksize = 40
+ | position = top
+ | width = 250
+ | float = right
+ | caption = }}
+ | depth = 27 km
+ | location = {{coord|39.71|39.605|display=inline,title}} 
+ | magnitude = 6.9 Surface wave magnitude|M<sub>s</sub>
+ | countries affected = Turkey
+ | casualties = 498 }}
+
+On 13 March, the '''1992 Erzincan earthquake''' struck Eastern Turkey. Originating on the North Anatolian Fault, it rocked the country, leaving more than 497 people dead, roughly 2,000 injured, and an unknown amount missing.
+
+== Geology ==
+{{see also|Geology of Turkey}}
+
+Eastern Turkey is dominated by the North Anatolian Fault. The Erzincan basin lies on the intersection of this fault on its northern side. Monitored by more than 10 seismographs, this basin has also provided focal points to at least one past earthquake in 1939.
+
+== Earthquake ==
+{{see also|List of earthquakes in Turkey}}
+
+At 6.7 on the Richter scale, the earthquake was designated as "strong". It was responsible for more than 490 deaths, spread throughout the country of Turkey. More than 3,000 aftershocks rocked the area afterwards.
+
+==Aftermath==
+The provision of housing following the earthquake is now listed by the Chamber of Civil Engineers in Turkey as one of Fifty civil engineering feats in Turkey.
+
+== References ==
+{{reflist}}
+
+{{Earthquakes in Turkey}}
+{{Earthquakes in 1992}}
+
+{{DEFAULTSORT:Erzincan 1992}}
+Category:1992 earthquakes
+Category:Earthquakes in Turkey|1992 Erzincan
+Category:1992 in Turkey
+Category:History of Erzincan Province

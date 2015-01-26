@@ -1,0 +1,47 @@
+{{Earthquake
+|title= 1932 Ierissos earthquake
+|date= {{Start-date|26 September 1932}}
+|map2 = {{Location map | Greece
+ | label=
+ | lat=39.8
+ | long=23.8
+ | mark=Bullseye1.png
+ | marksize=40
+ | position=top
+ | width= 250
+ | float=right
+ | caption=
+ | relief=yes}}
+|magnitude = 7.0
+|depth=40 km
+|location={{coord|39.8|23.8|display=inline,title}}
+|countries affected = Greece, Ierissos
+|tsunami = minor
+|casualties =491
+}}
+The '''1932 Ierissos earthquake''' occurred at 19:20 on 26 September. It caused severe damage in Ierissos and the surrounding part of the Chalkidiki peninsula, with 491 casualties reported.
+
+==Tectonic setting==
+The Aegean Sea is an area of mainly extensional tectonics caused by the subduction of the African Plate beneath Aegean Sea Plate. In the northwest Aegean, extension on approximately W-E trending extensional faults is accompanied by dextral (right lateral) Fault (geology)#Strike-slip faults|strike-slip on SW-NE trending faults, and minor sinistral (left lateral) movement on NW-SE trending faults, accommodating the diffuse plate boundary zone between the Eurasian Plate and the Aegean Sea Plate. The earthquake has been attributed to movement on the Stratoni fault, one of the W-E trending faults that shows predominantly dip-slip extension.
+
+==Damage==
+The earthquake destroyed the town of Ierissos and several villages in the surrounding area.
+
+The minor tsunami caused no damage.
+
+==Characteristics==
+The Stratoni fault was identified as the fault responsible for the 1932 event because of evidence of surface ruptures recorded soon after the earthquake and from the Isoseismal map|pattern of isoseismals, which were elongated in a W-E to NW-SE orientation and similarly orientated volume of recently observed seismicity. From the observation of slickensides along exposed fault planes, the movement along the fault is dip-slip extensional with local areas of oblique slip with a component of sinistral (left-lateral) strike-slip.  The extension direction is currently oriented north-south but, when the fault was formed, was oriented NNE-SSW, perpendicular to the fault trace, possibly due to subsequent clockwise rotation of the area.
+
+The earthquake was followed by three strong aftershocks (M=6.0, 5.7 & 6.2) in the period 26&ndash;29 September, and the largest (M6.3) on 11 May of the following year.
+
+A minor tsunami was reported, which was recorded by a temporary tide gauge, giving a maximum height of 1 m. The movement awoke the operator of a dredger, who saw a current spreading up the Strimonas River about an hour after the earthquake.
+
+==References==
+{{Reflist}}
+
+{{Earthquakes in Greece}}
+Category:Earthquakes in Greece
+Category:1932 earthquakes|Ierissos Earthquake, 1932
+Category:Chalkidiki
+Category:1932 in Greece|Ierissos Earthquake, 1932
+Category:20th-century tsunamis

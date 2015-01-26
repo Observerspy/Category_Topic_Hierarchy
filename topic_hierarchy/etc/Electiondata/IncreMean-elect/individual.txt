@@ -1,0 +1,79 @@
+TOPIC	
+1:voter demographics
+2:vote and seat summaries
+4:chamber of deputies
+5:party conventions
+7:primaries
+8:general election campaign
+9:results by province
+10:campaign slogans
+11:government formation
+13:background
+14:conduct
+17:analysis
+19:presidential debates
+20:turnout
+21:eligibility
+24:media bias
+25:leaders' debates
+26:electoral system
+28:polls
+31:electors
+32:rejected candidates
+33:opinion polls
+34:results
+36:congress of deputies
+37:second round
+38:comparison
+39:official candidate websites
+40:issues
+41:reactions
+42:electoral maps
+43:investiture voting
+44:summary
+45:campaign issues
+46:results by region
+48:health care
+49:vote
+50:nominations
+51:political context
+52:ballot access
+53:official candidates
+54:electronic voting
+57:procedure
+58:candidates
+59:aftermath
+60:early primaries/caucuses
+61:overview
+62:first round
+63:before the primaries
+64:presidential candidates
+66:debates
+67:withdrawn
+69:overall results
+71:economy
+72:votes by state
+74:senate
+76:registered candidates
+77:political parties
+78:result
+79:opinion polling
+81:unsuccessful candidacies
+82:other nominations
+83:other candidates
+84:apportionment
+85:election campaign
+86:controversies
+87:exit polls
+88:timeline
+89:overview of results
+90:campaign
+91:seat by seat results
+92:international observers
+93:post-election
+95:sources
+96:results by state
+97:campaigns
+99:manifestos
+101:candidates by party
+103:endorsements

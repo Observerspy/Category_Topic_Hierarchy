@@ -1,0 +1,38 @@
+{{Earthquake
+| title = 1920 Haiyuan earthquake
+| date = {{start-date|December 16, 1920|December 16, 1920}}<br>(Time in China|Gansu-Sichuan Time)
+| map = 1920 Gansu earthquake.svg
+| depth =
+| magnitude = 7.8&nbsp;Richter magnitude scale|M<sub>L</sub> 8.5
+| location  = {{coord|36.50|N|105.70|E}}<br/>(Haiyuan County|Haiyuan, Ningxia|Ningxia Hui Autonimous Region)
+| countries affected = Republic of China (1912–1949)|Republic of China
+| casualties = 273,400 (List of natural disasters by death toll#Earthquakes|3rd deadliest earthquake of all time)
+| intensity = XII (Mercalli intensity scale|Catastrophic)
+}}
+'''1920 Haiyuan earthquake''' ({{zh|c=海原大地震|p=Hǎiyuán dà dìzhèn}}) occurred on December 16 with an epicenter at {{coord|36.50|N|105.70|E}}, in Haiyuan County, Ningxia Province, Republic of China (1912–1949)|Republic of China.  It was also called the '''1920 Gansu earthquake'''  because Ningxia was a part of Gansu Province when the earthquake occurred.
+
+==History==
+The earthquake hit at 20:05:53 Historical_time_zones_of_China#Chungyuan|Beijing time (12:05:53 UTC), reportedly 7.8 on the Richter magnitude scale, followed by a series of aftershocks for three years.  Today's Chinese media claim the earthquake as of magnitude 8.5, although the scale is not specified.  It caused total destruction (XII - the maximum intensity on the Mercalli intensity scale|Mercalli scale) in the Lijunbu-Haiyuan-Ganyanchi area.
+
+Over 73,000 people were killed in Haiyuan County. A landslide buried the village of Sujiahe in Xiji County. More than 30,000 people were killed in Guyuan County. Nearly all the houses collapsed in the cities of Longde County|Longde and Huining County|Huining. Damage (VI-X) occurred in 7 provinces and regions, including the major cities of Lanzhou, Taiyuan, Xi'an, Xining and Yinchuan. It was felt from the Yellow Sea to Qinghai (Tsinghai) Province and from Inner Mongolia|Nei Mongol (Inner Mongolia) south to central Sichuan Province.
+
+About 200&nbsp;km (125&nbsp;mi) of surface faulting was seen from Lijunbu through Ganyanchi to Jingtai County|Jingtai. There were large numbers of landslides and ground cracks throughout the epicentral area. Some rivers were dammed, others changed course. Seiches from this earthquake were observed in 2 lakes and 3 fjords in western Norway.
+
+Total casualties were reported as 200,000 in a summary published by the United States Geological Survey (USGS), 240,000 according to ''Ningxia Daily'', a Chinese publication in the current administrative area, and 235,502 according to the Catalog of Damaging Earthquakes in the World (Through 2008) maintained by the International Institute of Seismology and Earthquake Engineering.
+
+==See also==
+* List of earthquakes in China
+
+==References==
+{{Reflist}}
+
+{{Earthquakes in China}}
+{{USGS}}
+
+{{DEFAULTSORT:1920 Haiyuan Earthquake}}
+Category:Earthquakes in China|1920 Haiyuan
+Category:1920 in China|Haiyuan Earthquake, 1920
+Category:1920 earthquakes|Haiyuan Earthquake, 1920
+Category:History of Ningxia
+Category:Geography of Ningxia
+Category:Landslides in China

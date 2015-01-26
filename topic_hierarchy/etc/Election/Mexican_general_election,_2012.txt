@@ -1,0 +1,671 @@
+{{Infobox Election
+| election_name = Mexican general election, 2012
+| seats_for_election = All 500 seats to the [[Chamber of Deputies of Mexico|Chamber of Deputies]]
+| country = Mexico
+| type = presidential
+| ongoing = no
+| previous_election = Mexican general election, 2006
+| previous_year = 2006
+| next_election = Mexican general election, 2018
+| next_year = 2018
+| election_date = July 1, 2012
+
+<!--          Enrique Peña Nieto        -->
+| image1 = [[File:Peña Nieto.jpg|113px]]
+| nominee1 = [[Enrique Peña Nieto]]
+| party1 = Institutional Revolutionary Party
+| home_state1 = [[State of Mexico]]
+| popular_vote1 = 19,158,592
+| percentage1 = 39.19%
+
+<!--          Andres Manuel López Obrador        -->
+| image2 = [[File:Andres manuel lopez obrador oct05.jpg|113px]]
+| nominee2 = [[Andrés Manuel López Obrador]]
+| party2 = Party of the Democratic Revolution
+| home_state2 = [[Tabasco]]
+| popular_vote2 = 15,848,827
+| percentage2 = 32.42%
+
+<!--          Josefina Vázquez Mota       -->
+| image4 = [[File:JVM.jpg|115px]]
+| nominee4 = [[Josefina Vázquez Mota]]
+| party4 = National Action Party (Mexico)
+| home_state4 = [[Mexico City]]
+| popular_vote4 = 12,732,630
+| percentage4 = 26.05%
+
+<!--          Gabriel Quadri de la Torre        -->
+| image5 = [[File:Gabriel Quadri de la Torre - World Economic Forum on Latin America.jpg|113px]]
+| nominee5 = [[Gabriel Quadri de la Torre]]
+| party5 = New Alliance Party (Mexico)
+| home_state5 = [[State of Mexico]]
+| popular_vote5 = 1,146,085
+| percentage5 = 2.34%
+
+<!--Map-->
+| map_image = Elecciones Mexico Resultados 2012.svg
+| map_size = 350px
+| map_caption =
+
+<!-- Result -->
+| map_image = Elecciones Mexico Resultados 2012.svg
+| map_size = 250px
+| map_caption = States won by Peña Nieto in green, López Obrador in yellow, Vázquez Mota in blue.
+| title = President
+| before_election = [[Felipe Calderón]]
+| before_party = National Action Party (Mexico)
+| after_election = [[Enrique Peña Nieto]]
+| after_party = Institutional Revolutionary Party
+
+}}{{Politics of Mexico}}
+[[File:Elecciones federales en México de 2012 01.jpg|right|thumbnail|Citizen voting in the ballot box for president in Mexico City]]
+[[File:Elecciones federales en México de 2012 04.JPG|right|thumbnail|Ballots for voting in Mexico City. July 1, 2012.]]
+A '''general election''' was held in [[Mexico]] on Sunday, July 1, 2012. Voters went to the polls to elect, on the federal level:
+* A new [[president of Mexico|President of the Republic]] to serve a six-year term, replacing former President [[Felipe Calderón]]. The current [[Constitution of Mexico]] prohibits any type of presidential re-election.
+* 500 members (300 by the [[first-past-the-post]] system and 200 by [[proportional representation]]) to serve for a three-year term in the [[Chamber of Deputies of Mexico|Chamber of Deputies]].
+* 128 members (three per [[States of Mexico|state]] by first-past-the-post and 32 by proportional representation from [[List of political parties in Mexico|national party]] lists) to serve six-year terms in the [[Senate of Mexico|Mexican Senate]]. In each state, two first-past-the-post seats are allocated to the party with the largest share of the vote, and the remaining seat is given to the first runner-up.
+
+Several local ballots were held on the same day, notably:
+
+* The election of a new [[Head of Government of the Federal District|Head of Government]] and new [[Legislative Assembly of the Federal District|Legislative Assembly]] of the [[Mexican Federal District|Federal District]].
+** [[Federal District of Mexico head of government election, 2012|2012 Federal District head of government election]]
+* Gubernatorial elections in six [[States of Mexico|states]]
+** [[Chiapas gubernatorial election, 2012|Chiapas gubernatorial election]] - held by PAN/PRD before the election
+** [[Guanajuato gubernatorial election, 2012|Guanajuato gubernatorial election]] - held by PAN before the election
+** [[Jalisco gubernatorial election, 2012|Jalisco gubernatorial election]] - held by PAN before the election
+** [[Morelos gubernatorial election, 2012|Morelos gubernatorial election]] - held by PAN before the election
+** [[Tabasco gubernatorial election, 2012|Tabasco gubernatorial election]] - held by PRI before the election
+** [[Yucatán gubernatorial election, 2012|Yucatán gubernatorial election]] - held by PRI before the election
+
+* Municipal and local congressional elections in those six states and in [[Campeche]], [[Colima]], [[Nuevo León]], [[Querétaro]], [[Sonora]], and [[San Luis Potosí]].
+
+==Electoral reform==
+In December 2009, president Felipe Calderón sent a bill to Congress aimed at reducing the number of legislators in both chambers and another mechanism for the presidential election which have not yet been passed. If approved, the following reforms will be implemented:
+* Second round voting in case no presidential candidate receives an absolute majority of the votes.<ref>{{cite news| url=http://www.reuters.com/article/2010/07/05/us-mexico-elections-idUSTRE6643PF20100705 | work=Reuters | title=Mexico state votes signal tough 2012 election race | date=July 5, 2010}}</ref><ref>http://www.electionguide.org/country.php?ID=140</ref>
+* 96 Senators of the Republic, 3 for each state, elected by plurality for a period of six years, renewable once.
+* 400 Federal Deputies (240 by first-past-the-post and 160 by proportional representation) elected for a period of three years with possibility of reelection.
+
+==Presidential candidates==
+<!-- Please list individuals in alphabetical order, keep common style, and do not advocate for or against individuals in this space. -->
+<!-- Please provide at least TWO reliable SECONDARY sources per candidate before adding candidate(s) to this section. See _Wikipedia:Identifying reliable sources_ for guidelines on sourcing.-->
+<!-- Per consensus, only candidates with a bio page on Wikipedia are to be listed in this article -->
+<!-- If adding candidate(s) to this section, please delete them from the Prospective Candidates section.  If deleting undeclared candidates, please consider adding them to Prospective Candidates-->
+<!-- Please do not remove candidates from this section without giving a reason in the edit summary. Do not remove candidates solely because you don't believe they have a chance of winning. -->
+<!-- The photos of withdrawn canddates should remain. This is because eventually all but one will have withdrawn, so it makes sense. When a candidate withdraws, DON'T remove the photo. -->
+The following are individuals who have either formally announced that they are running for president in 2012, or have formed an [[exploratory committee]] for a possible presidential run in 2012.
+
+===National Action Party (PAN) Nomination===
+<!-- Please list individuals in alphabetical order, keep common style, and do not advocate for or against individuals in this space. -->
+<!-- Please provide at least TWO reliable SECONDARY sources per candidate before adding candidate(s) to this section. See _Wikipedia:Identifying reliable sources_ for guidelines on sourcing.-->
+<!-- Per consensus, only candidates with a bio page on Wikipedia are to be listed in this article -->
+<!-- If adding candidate(s) to this section, please delete them from the Prospective Candidates section.  If deleting undeclared candidates, please consider adding them to Prospective Candidates-->
+<!-- Please do not remove candidates from this section without giving a reason in the edit summary. Do not remove candidates solely because you don't believe they have a chance of winning. -->
+<!-- The photos of withdrawn canddates should remain. This is because eventually all but one will have withdrawn, so it makes sense. When a candidate withdraws, DON'T remove the photo. -->
+
+'''Nominee:'''
+* '''[[Josefina Vázquez Mota]], [[Chamber of Deputies (Mexico)|Representative]] from [[Mexico City]]<ref>(September 6, 2011) [http://www.laht.com/article.asp?ArticleId=423523&CategoryId=14091 "Mexican Congresswoman Enters Presidential Contest], Latin American Herald Tribune. Retrieved September 27, 2011</ref><ref>[http://www.eluniversal.com.mx/notas/791413.html "Se despide Vázquez Mota de San Lázaro"], El Universal. Retrieved September 6, 2011.</ref>
+'''Other pre-candidates:'''
+* [[Ernesto J. Cordero|Ernesto Cordero]], former [[Secretariat of Finance and Public Credit|Secretary of Finance and Public Credit]] from [[Mexico City]]<ref>(May 26, 2011) [http://www.reuters.com/article/2011/05/26/us-mexico-cordero-idUSTRE74P7QJ20110526 "Mexico's Cordero takes aim at presidency"], [[Reuters]]. Retrieved September 27, 2011.</ref><ref>(September 9, 2011) [http://online.wsj.com/article/SB10001424053111903285704576561043472381146.html?mod=googlenews_wsj "Mexican Finance Minister Quits to Seek Presidency"], [[Wall Street Journal]]. Retrieved September 27, 2011.</ref>
+* [[Santiago Creel]], [[Senate (Mexico)|Senator]] from [[Mexico City]]<ref>(July 12, 2011) [http://www.excelsior.com.mx/index.php?m=negro-nota&cat=289&id_nota=752237&etitulo=presidenciables "Santiago Creel madruga: arranca carrera a Los Pinos], Excélsior. Retrieved September 6, 2011</ref><ref>Simonnet, Carole (July 12, 2011) [http://busquedas.gruporeforma.com/reforma/Documentos/DocumentoImpresa.aspx "Aaarrancan... Pide Santiago Creel licencia"], [[Reforma]]. Retrieved September 6, 2011.</ref>
+* [[Javier Lozano Alarcón]], withdrew July 21, 2011<ref>(July 21, 2011) [http://impreso.milenio.com/node/8995681 "Lozano se baja de la carrera presidencial"], Milenio. Retrieved September 6, 2011.</ref><ref>(July 21, 2011) [http://busquedas.gruporeforma.com/reforma/Documentos/DocumentoImpresa.aspx "Descarta Lozano ser gallo panista"], Reforma. Retrieved September 6, 2011.</ref>
+* [[Alonso Lujambio]], withdrew August 29, 2011<ref>(August 29, 2011) [http://www.excelsior.com.mx/index.php?m=negro-nota&cat=289&id_nota=764651 "Lujambio declina su aspiración presidencial por el PAN"], Excelsior. Retrieved September 6, 2011.</ref><ref>(August 29, 2011) [http://www.milenio.com/cdb/doc/noticias2011/8183edcfa9d393bc94c9b2852f275ecd "Declina Lujambio aspiración a ser candidato del PAN para 2012"], Milenio. Retrieved September 6, 2011.</ref>
+* [[Emilio González Márquez]], withdrew September 22, 2011<ref>(September 22, 2011) [http://www.excelsior.com.mx/index.php?m=nota&id_nota=769905 "Emilio González deja su búsqueda por la candidatura presidencial de Acción Nacional"], Excelsior. Retrieved September 22, 2011</ref><ref>(September 22, 2011) [http://www.reforma.com/elecciones/articulo/626/1250336/ "Declina Emilio aspiración a 2012"]</ref>
+
+====Pre-Candidates gallery====
+<gallery perrow="5">
+
+File:Jvm 00.jpg|[[Chamber of Deputies (Mexico)|Representative]] '''[[Josefina Vázquez Mota]]''' of [[Mexico City]]
+</gallery>
+
+On Feb. 5th Josefina Vázquez Mota was announced as PAN presidential candidate following her victory in the internal selection process.<ref>(February 5, 2012) [http://www.pan.org.mx/portal/detalle/alcanza_vazquez_mota_55_por_ciento_de_los_votos:_espina/20507 "Alcanza Vázquez Mota 55 por ciento de los votos: Espina"], PAN.org. Retrieved February 6, 2012.</ref>
+
+===Party of the Democratic Revolution (PRD) Nomination===
+<!-- Please list individuals in alphabetical order, keep common style, and do not advocate for or against individuals in this space. -->
+<!-- Please provide at least TWO reliable SECONDARY sources per candidate before adding candidate(s) to this section. See _Wikipedia:Identifying reliable sources_ for guidelines on sourcing.-->
+<!-- Per consensus, only candidates with a bio page on Wikipedia are to be listed in this article -->
+<!-- If adding candidate(s) to this section, please delete them from the Prospective Candidates section.  If deleting undeclared candidates, please consider adding them to Prospective Candidates-->
+<!-- Please do not remove candidates from this section without giving a reason in the edit summary. Do not remove candidates solely because you don't believe they have a chance of winning. -->
+<!-- The photos of withdrawn canddates should remain. This is because eventually all but one will have withdrawn, so it makes sense. When a candidate withdraws, DON'T remove the photo. -->
+'''Nominee''':
+
+* '''[[Andrés Manuel López Obrador]],''' former [[Head of Government of the Federal District]] from [[Tabasco]].<ref>(August 19, 2011) [http://www.excelsior.com.mx/index.php?m=negro-nota&cat=289&id_nota=762357&etitulo=presidenciables "Acepta AMLO encuesta para definir candidatura presidencial"], Excélsior. Retrieved September 6, 2011.</ref><ref>(July 25, 2011) [http://busquedas.gruporeforma.com/reforma/Documentos/DocumentoImpresa.aspx "Prepara AMLO su arranque presidencial"], Reforma. Retrieved September 6, 2011.</ref>
+
+====Candidates====
+* [[Marcelo Ebrard]], withdrew November 15, 2011<ref>(November 15, 2011) [http://www.nytimes.com/2011/11/16/world/americas/mexico-a-familiar-candidate.html?_r=1&scp=1&sq=marcelo%20ebrard&st=cse "Mexico - A Familiar Candidate"], The New York Times. Retrieved November 21, 2011.</ref><ref>(November 15, 2011) [http://latimesblogs.latimes.com/world_now/2011/11/mexico-left-presidential-candidate-lopez-obrador-ebrard.html "Lopez Obrador gets presidential nod from Mexico's left"]. Los Angeles Times. Retrieved November 22, 2011.</ref>
+
+=====Candidates gallery=====
+<gallery perrow="5">
+File:Andres manuel lopez obrador oct05.jpg|Former [[Head of Government of the Federal District]] '''[[Andrés Manuel López Obrador]]''' of [[Tabasco]]
+</gallery>
+
+======Other pre-candidates======
+<small>Never publicly announced intentions to run but was considered a likely contender.
+* [[Cuauhtémoc Cárdenas]], former [[Governor of Michoacán]] and perennial candidate<ref>(August 31, 2011) [http://www.excelsior.com.mx/index.php?m=negro-nota&cat=289&id_nota=765154&etitulo=presidenciables "Formaliza corriente del PRD candidatura de Cárdenas para 2012"], Excelsior. Retrieved September 6, 2011.</ref><ref>(September 6, 2011) [http://www.excelsior.com.mx/index.php?m=negro-nota&cat=289&id_nota=766443&etitulo=presidenciables "Cuauhtémoc Cárdenas declina contender en 2012"], Excelsior. Retrieved September 6, 2011.</ref>
+</small>
+
+===Institutional Revolutionary Party (PRI) Nomination===
+<!-- Please list individuals in alphabetical order, keep common style, and do not advocate for or against individuals in this space. -->
+<!-- Please provide at least TWO reliable SECONDARY sources per candidate before adding candidate(s) to this section. See _Wikipedia:Identifying reliable sources_ for guidelines on sourcing.-->
+<!-- Per consensus, only candidates with a bio page on Wikipedia are to be listed in this article -->
+<!-- If adding candidate(s) to this section, please delete them from the Prospective Candidates section.  If deleting undeclared candidates, please consider adding them to Prospective Candidates-->
+<!-- Please do not remove candidates from this section without giving a reason in the edit summary. Do not remove candidates solely because you don't believe they have a chance of winning. -->
+<!-- The photos of withdrawn canddates should remain. This is because eventually all but one will have withdrawn, so it makes sense. When a candidate withdraws, DON'T remove the photo. -->
+'''Nominee:'''
+
+* '''[[Enrique Peña Nieto]]''', former [[Governor of the State of Mexico]]<ref>(September 20, 2011) [http://www.bbc.co.uk/news/world-latin-america-14927925 "Mexico's Enrique Pena Nieto confirms election ambitions"], [[BBC News]]. Retrieved September 27, 2011</ref><ref>(September 21, 2010) [http://latino.foxnews.com/latino/news/2011/09/21/pena-nieto-announces-run-for-mexico-presidency/ "Mexico's 2012 Presidential Favorite Announces Candidacy"], Fox News Latino. Retrieved September 21, 2012.</ref>
+
+'''Former candidates'''
+* [[Manlio Fabio Beltrones]], withdrew November 21, 2011<ref>(November 22, 2011) [http://www.washingtonpost.com/world/americas/mexico-senator-wont-seek-pris-presidential-nomination-clearing-way-for-pena-nieto/2011/11/22/gIQAuwlJlN_story.html "Mexico senator won’t seek PRI’s presidential nomination, clearing way for Pena Nieto"]. The Washington Post. Retrieved November 22, 2011</ref><ref>(November 22, 2011) [http://latino.foxnews.com/latino/politics/2011/11/22/mexican-senator-drops-bid-for-pri-nomination/ "Mexican senator drops bid for PRI nomination"]. Fox News Latino. Retrieved November 22, 2011.</ref>
+
+====Candidates gallery====
+<gallery perrow="5">
+File:Enrique Peña Nieto - World Economic Forum on Latin America 2010.jpg| Former [[Governor of the State of Mexico|Governor]] '''[[Enrique Peña Nieto]]''' of the [[State of Mexico]]
+</gallery>
+
+===New Alliance Party (PNA) Nomination===
+<!-- Please list individuals in alphabetical order, keep common style, and do not advocate for or against individuals in this space. -->
+<!-- Please provide at least TWO reliable SECONDARY sources per candidate before adding candidate(s) to this section. See _Wikipedia:Identifying reliable sources_ for guidelines on sourcing.-->
+<!-- Per consensus, only candidates with a bio page on Wikipedia are to be listed in this article -->
+<!-- If adding candidate(s) to this section, please delete them from the Prospective Candidates section.  If deleting undeclared candidates, please consider adding them to Prospective Candidates-->
+<!-- Please do not remove candidates from this section without giving a reason in the edit summary. Do not remove candidates solely because you don't believe they have a chance of winning. -->
+<!-- The photos of withdrawn canddates should remain. This is because eventually all but one will have withdrawn, so it makes sense. When a candidate withdraws, DON'T remove the photo. -->
+'''Nominee''':
+
+* '''[[Gabriel Quadri de la Torre]]
+
+====Candidates gallery====
+<gallery perrow="5">
+File:04192012Gabriel quadri119.jpg|Candidate for [[New Alliance Party]] (PNA) with [[Gabriel Quadri de la Torre]].
+</gallery>
+
+==Opinion polls ==
+{|class="wikitable sortable"
+!class="unsortable"|Date
+!Polling company
+![[Josefina Vázquez Mota|Vázquez Mota]]<br/>([[National Action Party (Mexico)|PAN]])
+![[Enrique Peña Nieto|Peña Nieto]]<br/>([[Institutional Revolutionary Party|PRI]]-[[Ecologist Green Party of Mexico|PVEM]])
+![[Andrés Manuel López Obrador|López Obrador]]<br/>([[Party of the Democratic Revolution|PRD]]-[[Citizens' Movement (Mexico)|MC]]-[[Labor Party (Mexico)|PT]])
+![[Gabriel Quadri de la Torre|Quadri]]<br/>([[New Alliance Party (Mexico)|PANAL]])
+!class="unsortable"|Remarks
+|-
+|November 2011
+|''[[Reforma]]''<ref>{{cite web |url=http://www.eleccion2012mexico.com/estadisticas/reforma/noviembre-2011 |title=Competencia general a Noviembre de 2011 |accessdate=April 29, 2012 |language=Spanish }}</ref>
+|align=center|25.0%
+|align=center|'''49.0%'''
+|align=center|26.0%
+|align=center|–
+|Unnominated PAN and PANAL candidates.
+|-
+|{{nowrap|November 2011}}
+|Covarrubias y Asociados<ref>{{cite web |url=http://www.adnpolitico.com/encuestas/2011/11/18/el-aspirante-del-pri-supera-a-lopez-obrador-en-22-puntos |title=Peña encabeza la encuesta encargada por López Obrador |accessdate=April 29, 2012 |author=Everdy M. Luis |language=Spanish <!--|citation=Los datos de la referencia son la preferencia bruta.- PAN: 11%, PRI-PVEM: 49%, PRD-PT-MC: 27%, indecisos/no sabe/no contesto: 13%; de allí se desprende, si se quitan los indecisos para obtener la preferencia efectiva, que el PAN tiene 12.6%, PRI-PVEM: 56.3, PRD-PT-MC: 31% -->}}</ref>
+|align=center|12.6%
+|align=center|'''56.3%'''
+|align=center|31%
+|align=center|–
+|Unnominated PAN and PANAL candidates.
+|-
+|February 2012
+|Grupo Impacto Inteligente 360º<ref>{{cite web |url=http://www.gii360.com.mx/perch/resources/1333396114tendenciaelectoralrumboalfinaldelavedaelectoral.pdf |title=Tendencia electoral rumbo al final de la veda electoral |accessdate=April 29, 2012 <!--|citation=Los datos de la referencia del día 8 February 2012 de la pregunta ¿Por quién votaría usted? son PAN: 23.08%, PRI-PVEM: 31.82%, PRD-PT-MC: 12.24%, indecisos/no sabe/no contesto: 32.86%; de allí se desprende, si se quitan los indecisos que el PAN tiene 34.4%, PRI-PVEM: 47.4, PRD-PT-MC: 18.2%-->}}{{dead link|date=April 2014}}</ref>
+|align=center|34.4%
+|align=center|'''47.4%'''
+|align=center|18.2%
+|align=center|–
+|Unnominated PAN and PANAL candidates.
+|-
+|February 2012
+|Consulta Mitofsky<ref>{{cite web |url=http://consulta.mx/web/images/eleccionesmexicopdf/asivan.pdf |title=Así van... Elección presidencial 2012 en México: Febrero 2012 |accessdate=Abr 29, 2012 |language=Spanish }}</ref>
+|align=center|29.5%
+|align=center|'''48.5%'''
+|align=center|21.0%
+|align=center|1.0%
+|
+|-
+|February 2012
+|''Buendía & Laredo''<ref>{{cite web |url=http://www.buendiaylaredo.com/publicaciones/205/201202_PANORAMA_ELECTORAL_UNIVERSAL.pdf |title=Panorama electoral: Encuesta nacional / Febrero 2012 |language=Spanish |accessdate=April 29, 2012 }}</ref>
+|align=center|32.0%
+|align=center|'''48.0%'''
+|align=center|20.0%
+|align=center|0.0%
+|
+|-
+|February 2012
+|Covarrubias y Asociados<ref>{{cite web |url=http://www.sdpnoticias.com/nota/307227/Pena_Nieto_lider_AMLO_y_Josefina_empatados_en_segundo_lugar_Covarrubias |title =Peña Nieto, líder; AMLO y Josefina empatados en segundo lugar: Covarrubias |accessdate=April 29, 2012 |publisher=SDPnoticias.com |date=February 20, 2012 }}</ref>
+|align=center|27.2%
+|align=center|'''42.3%'''
+|align=center|30.2%
+|align=center|0.3%
+|
+|-
+|February 2012
+|Ipsos/Bimsa<ref>{{cite web |url=http://www.diario.com.mx/notas.php?f=2012/03/09&id=35865edc3b1db673acf3ce5dece5c604 |title=Remonta Obrador 5 puntos; Peña sigue arriba y Josefina en segundo |accessdate=April 29, 2012 |publisher=Diario TV |date=March 9, 2012 |language=Spanish }}</ref>
+|align=center|30%
+|align=center|'''45%'''
+|align=center|25%
+|align=center|0.0%
+|
+|-
+|March  2012
+|Uno TV/María de las Heras<ref name="Mitofsky-abr-2012"/>
+|align=center|27.4%
+|align=center|'''44.0%'''
+|align=center|27.4%
+|align=center|1.2%
+|
+|-
+|March 2012
+|{{nowrap|Grupo Impacto Inteligente 360º<ref>{{cite web |url=http://www.gii360.com.mx/perch/resources/1333396114tendenciaelectoralrumboalfinaldelavedaelectoral.pdf |title=Tendencia electoral rumbo al final de la veda electoral |language=Spanish |accessdate=April 29, 2012 }}</ref>}}
+|align=center|32.6%
+|align=center|'''44.9%'''
+|align=center|22.5%
+|align=center|–
+|PANAL's vote share not shown
+|-
+|March 2012
+|Reforma<ref name="Mitofsky-abr-2012">{{cite web |url=http://consulta.mx/web/images/encuestas2012/20120424_encuestas_pubicas.pdf |title=Encuestas Públicas: Rumbo al 1 de julio |accessdate= April 29, 2012 |language=Spanish }}</ref>
+|align=center|32.0%
+|align=center|'''45.0%'''
+|align=center|22.0%
+|align=center|1.0%
+|
+|-
+|April 2012
+|Uno TV/María de las Heras<ref>{{cite web |url=http://msn.unotv.com/portal/unotv/elecciones/cifras/nuestra-encuesta/nuestra-encuesta-uno-noticias-7-7.html |title=Encuesta Uno TV / María de las Heras 7/7 |accessdate=May 6, 2012 |publisher=Uno TV |date=April 2012 |language=Spanish }}</ref>
+|align=center|30.6%
+|align=center|'''38.9%'''
+|align=center|29.2%
+|align=center|1.3%
+|Carried out between March 24 and March 27
+|-
+|April 2012
+|[[Organizacion Editorial Mexicana|OEM-Parametría]]<ref name="Mitofsky-abr-2012"/>
+|align=center|25%
+|align=center|'''51%'''
+|align=center|23%
+|align=center|1.0%
+|
+|-
+|April 2012
+|[[Excélsior|BGC-''Excélsior'']]<ref name="Mitofsky-abr-2012"/>
+|align=center|29%
+|align=center|'''50%'''
+|align=center|20%
+|align=center|1.0%
+|Carried out between April 9 and April12
+|-
+|April 2012
+|GEA/ISA-''[[Milenio]]''<ref name="Mitofsky-abr-2012"/>
+|align=center|27.9%
+|align=center|'''48.5%'''
+|align=center|22.7%
+|align=center|0.9%
+|
+|-
+|April 2012
+|''[[El Universal (Mexico City)|El Universal]]''/''Buendía & Laredo''<ref name="Mitofsky-abr-2012"/>
+|align=center|22.9%
+|align=center|'''54.3%'''
+|align=center|21.4%
+|align=center|1.4%
+|
+|-
+|April 2012
+|Consulta Mitofsky<ref name="Mitofsky-abr-2012"/>
+|align=center|26.9%
+|align=center|'''50.1%'''
+|align=center|22.3%
+|align=center|0.7%
+|
+|-
+|April 2012
+|Covarrubias y Asociados<ref>{{cite web |url=http://www.opinamexico.org/Elecciones-2012---Presidencial---Covarrubias-y-Asociados-23-04-2012-2012-04-24.html |title=Elecciones 2012 - Presidencial - Covarrubias y Asociados (23-04-2012) |accessdate=May 6, 2012|publisher=Opina México |date=April 24, 2012 |language=Spanish }}</ref>
+|align=center|22.0%
+|align=center|'''42.0%'''
+|align=center|24.0%
+|align=center|1.0%
+|Published on April 23
+|-
+|April 2012
+|BGC-''Excelsior''<ref>{{cite web |url=http://colorelectoral.excelsior.com.mx/nota/q/830478 |title=A dos meses de la elección, Peña Nieto sigue encabezando preferencias |accessdate=May 6, 2012 |language=Spanish |work=[[Excélsior]] |date=May 1, 2012 }}</ref>
+|align=center|28.0%
+|align=center|'''47.0%'''
+|align=center|23.0%
+|align=center|2.0%
+|Carried out between April 19 and April 25
+|-
+|April 2012
+|OEM-Parametría<ref>{{cite web |url=http://www.oem.com.mx/elsoldelcentro/notas/n2524548.htm |title=Encuesta de Parametría |accessdate=May 6, 2012 |publisher=[[Organización Editorial Mexicana]] (OEM) |date=April 30, 2012 |language=Spanish }}</ref>
+|align=center|26.0%
+|align=center|'''49.0%'''
+|align=center|24.0%
+|align=center|1.0%
+|Published on April 30
+|-
+|May 2012
+|GEA/ISA-''Milenio''<ref>{{cite web |url=http://www.milenio.com/cdb/doc/noticias2011/83fcdd0d318873ce1584f9d33c32bd57 |title=A dos meses de la elección, Peña Nieto sigue encabezando preferencias |accessdate=May 6, 2012 |work=Milenio |publisher=Grupo Multimedios |date=May 1, 2012 |language=Spanish }}</ref>
+|align=center|26.1%
+|align=center|'''51.2%'''
+|align=center|21.1%
+|align=center|1.6%
+|Published on May 1
+|-
+|May 2012
+|Consulta Mitofsky<ref>{{cite web |url=http://consulta.mx/web/images/eleccionesmexicopdf/13_Variables_abril_4.pdf |title=Preferencias ciudadanas No. 20 - May 01, 2012 |accessdate=May 6, 2012 |language=Spanish |publisher=Consulta Mitofsky |date=May 1, 2012 }}</ref>
+|align=center|28.0%
+|align=center|'''48.0%'''
+|align=center|23.0%
+|align=center|1.0%
+|Published on May 1
+|-
+|May 2012
+|''El Sol de México''/Parametría<ref>{{cite web |url=http://www.parametria.com.mx/DetalleEstudio.php?E=4366 |title=Encuesta Parametría-El Sol de México. Debate presidencial |accessdate=May 9, 2012 |publisher=Organización Editorial Mexicana |language=Spanish }}</ref>
+|align=center|26.0%
+|align=center|'''49.0%'''
+|align=center|24.0%
+|align=center|1%
+|One week before the candidates' debate
+|-
+|May 2012
+|''El Universal''/Buendía & Laredo<ref>{{cite web |url=http://redpolitica.mx/encuestas/josefina-recupera-terreno-en-preferencias-electorales|title=Josefina recupera terreno; Peña mantiene ventaja |language=Spanish |accessdate=May 6, 2012 |work=El Universal |publisher=El Universal Compañia Periodística Nacional S.A. de C.V. |date=May 6, 2012 }}</ref>
+|align=center|22.9%
+|align=center|'''54.3%'''
+|align=center|21.4%
+|align=center|1.4%
+|Before the candidates' debate
+|-
+|May 2012
+|GEA/ISA-''Milenio''<ref>{{cite web |url=http://www.milenio.com/cdb/doc/noticias2011/ba3affde584f0c18a954d6a77766851a |language=Spanish|title=Encuesta de seguimiento diario MILENIO GEA/ISA |accessdate=May 6, 2012 |work=Milenio |publisher=Grupo Multimedios |date=May 6, 2012 }}</ref>
+|align=center|27.6%
+|align=center|'''49.1%'''
+|align=center|21.9%
+|align=center|1.4%
+|Before the candidates' debate
+|-
+|May 2012
+|''El Universal''<ref>{{cite web |url=http://redpolitica.mx/ruta-electoral/pena-sigue-adelante-amlo-%20%20seria-segundo-encuesta |title=Peña sigue adelante; AMLO sería segundo |accessdate=May 9, 2012 |language=Spanish |publisher=Red Política |date=May 7, 2012}}</ref>
+|align=center|22.0%
+|align=center|'''36.3%'''
+|align=center|23.4%
+|align=center|9.5%
+|After the candidates' debate
+|-
+|May 2012
+|Uno TV/María de la Heras<ref>{{cite web |url=http://www.unonoticias.com/DS/349627/w-De-las-Heras-presenta-datos-tras-panel-de-debate.html |title=De las Heras presenta datos tras panel de debate |accessdate=May 10, 2012 |language=Spanish |publisher=UNO noticias |date=May 7, 2012 }}</ref>
+|align=center|17.98%
+|align=center|16.85%
+|align=center|'''31.46%'''
+|align=center|17.98%
+|After the candidates' debate
+|-
+|May 2012
+|''El Universal''/''Buendía & Laredo''<ref>(May 14, 2012)[http://www.eluniversal.com.mx/notas/847040.html "Rebasa AMLO a Vázquez Mota; Peña conserva ventaja"] (in Spanish).Retrieved May 22, 2012</ref>
+|align=center|23.1%
+|align=center|'''49.6%'''
+|align=center|24.8%
+|align=center|2.1%
+|
+|-
+|May 2012
+|Covarrubias y Asociados<ref>(May 20, 2012)[http://sdpnoticias.com/nota/343519/Se_cierra_la_eleccion_Pena_Nieto_lider_AMLO_se_acerca_JVM_se_estanca title=Se cierra la elección. Peña Nieto líder. AMLO se acerca. JVM se estanca"](in Spanish). Retrieved May 20, 2012</ref>
+|align=center|26.0%
+|align=center|'''40.0%'''
+|align=center|30.0%
+|align=center|4%
+|
+|-
+|May 2012
+|Uno TV/María de las Heras<ref>(May 22, 2012)[http://aristeguinoticias.com/amlo-a-8-puntos-de-pena-encuesta-maria-de-las-heras/?utm_source=rss&utm_medium=rss&utm_campaign=amlo-a-8-puntos-de-pena-encuesta-maria-de-las-heras "Amlo a 8 puntos de Peña. Encuesta María de las Heras"](in Spanish). Retrieved May 22, 2012</ref>
+|align=center|26.0%
+|align=center|'''39.0%'''
+|align=center|31.0%
+|align=center|4.0%
+|
+|-
+|June 2012
+|''Reforma''<ref>(May 31, 2012) [http://sdpnoticias.com/nota/344692/EPN_y_AMLO_empatados_JVM_se_desploma_Reforma "EPN y AMLO empatados; JVM se desploma: Reforma"] (in Spanish). Retrieved June 1, 2012.</ref>
+|align=center|23%
+|align=center|'''38%'''
+|align=center|34%
+|align=center|5%
+|{{nowrap|Gross preference draw between EPN and AMLO}}
+|-
+|June 2012
+|Mitofsky<ref>{{cite web |url=http://consulta.mx/web/index.php/estudios/elecciones-mexico/500-eleccion-2012-en-mexico-variables-fundamentales-para-seguir-el-proceso-electoral |title=ELECCIÓN 2012 EN MÉXICO... PREFERENCIAS CIUDADANAS (05/Jun/2012) |accessdate=June 8, 2012 |language=Spanish |publisher=Consulta Mitofsky |date=May 1, 2012 }}</ref>
+|align=center|20.8%
+|align=center|'''35.8%'''
+|align=center|24.0%
+|align=center|1.6%
+|
+|-
+|June 2012
+|Berumen y asociados<ref>{{cite web |url=http://www.slideshare.net/tercote/encuesta-berumen-12-de-junio?from=ss_embed |title=Encuesta Nacional de Preferencias Electorales (12/June/2012) |accessdate=June 12, 2012 |language=Spanish |publisher=Observatorio Universitario Electoral |date=June 12, 2012 }}</ref>
+|align=center|20.7%
+|align=center|30.9%
+|align=center|'''31.8%'''
+|align=center|Not shown
+|align=left|Gross preference
+|-
+|June 2012
+|BGC-Excelsior <ref>http://www.infoeleccionesmexico.com/noticia-resultados-encuesta-bgc-excelsior-junio-185.html</ref>
+|align=center|28%
+|align=center|'''42%'''
+|align=center|28%
+|align=center|2%
+|
+|-
+|June 2012
+|Berumen y asociados<ref>{{cite web |url=http://www.adnpolitico.com/2012/2012/06/22/berumen-y-el-oue-presentan-resultados-completos-de-su-encuesta
+|title=Berumen detalla encuesta: AMLO 6 puntos abajo de Peña Nieto (22/June/2012) |accessdate=June 23, 2012 |language=Spanish |publisher=adnpolitico |date=June 22, 2012 }}</ref>
+|align=center|18%
+|align=center|'''33.4%'''
+|align=center|27.3%
+|align=center|1.5%
+|align=left|Gross preference
+|-
+|align=center colspan=7|The share of the undefined vote has been excluded from these polls
+|}
+
+==Allegations of media bias and ''Yo Soy 132'' student protests==
+{{Main|Yo Soy 132}}
+Mass protests have taken place in Mexico City against alleged bias towards PRI and Peña Nieto in the print and television media, particularly [[Televisa]].<ref>http://www.aljazeera.com/news/americas/2012/05/201252492924104136.html</ref>
+
+The movement ''Yo Soy 132'' ("I am 132") formed in response to this perceived bias, with initial focus on Peña Nieto as the flagship of "corruption, tyranny and authoritarianism".<ref>http://www.razon.com.mx/spip.php?article124227</ref> On May 11, 2012, Peña Nieto visited [[Universidad Iberoamericana]] and was received with scorn.<ref>http://www.sexenio.com.mx/articulo.php?id=15175</ref> Both printed and televised media reported this as a minor mishap, called the students intolerant, and claimed that they had been paid by leftist organizations. In response, 131 students identified themselves on a [[YouTube]] video by their university IDs and stated that that their actions were independent. This caused a ripple effect as many [[Twitter|tweeted]] "I'm the 132nd student" in solidarity. Mass protests organized by public and private university students then took place across the country. The movement successfully demanded that, unlike the first debate, the second presidential debate be broadcast on national television, and has proposed a third debate to cover a broader scope of issues.<ref>http://www.eluniversal.com.mx/notas/850042.html</ref><ref>http://www.elinfluyente.com/tv-azteca-tambien-cede-el-debate-ira-por-canal-13/</ref>
+
+==Results==
+
+===President===
+{| class=wikitable style=text-align:right
+!Candidate
+!Party
+!Votes
+!%
+|-
+|align=left|[[Enrique Peña Nieto]]||align=left|[[Institutional Revolutionary Party]]||18,727,398||38.15
+|-
+|align=left|[[Andrés Manuel López Obrador]]||align=left|[[Party of the Democratic Revolution]]||15,535,117||31.64
+|-
+|align=left|[[Josefina Vázquez Mota]]||align=left|[[National Action Party (Mexico)|National Action Party]]||12,473,106||25.40
+|-
+|align=left|[[Gabriel Quadri de la Torre]]||align=left|[[New Alliance Party (Mexico)|New Alliance Party]]||1,129,108||2.36
+|-
+|align=left colspan=2|Non-registered candidates||31,660||0.07
+|-
+|align=left colspan=2|Invalid/blank votes||1,191,057||–
+|-
+|align=left colspan=2|'''Total'''||'''49,087,446'''||'''100'''
+|-
+|align=left colspan=2|Registered voters/turnout||77,738,494||63.1
+|-
+|align=left colspan=4|Source: [https://prep2012.ife.org.mx/prep/NACIONAL/PresidenteNacionalVPC.html PREP] (98.95% of polling stations reporting)
+|}
+
+===Chamber of Deputies===
+{| class=wikitable style=text-align:right
+!rowspan=2|Party
+!colspan=3|Proportional representation
+!colspan=3|Constituency
+!rowspan=2|Total<br/>seats
+!rowspan=2|+/–
+|-
+!Votes
+!%
+!Seats
+!Votes
+!%
+!Seats
+|-
+|align=left|[[Institutional Revolutionary Party]]||15,513,478||31.87||49||5,166,531||11.21||163||212||-30
+|-
+|align=left|[[National Action Party (Mexico)|National Action Party]]||12,620,827||25.92||62||12,550,879||27.24||52||114||-28
+|-
+|align=left|[[Party of the Democratic Revolution]]||8,996,089||18.48||44||207678||–||60||104||+41
+|-
+|align=left|[[Ecologist Green Party of Mexico]]||2,963,718||6.08||15||706,695||1.53||14||29||+7
+|-
+|align=left|[[Labor Party (Mexico)|Labor Party]]||2,219,228||4.55||10||77233||–||5||15||+1
+|-
+|align=left|[[New Alliance Party (Mexico)]]||1,986,538||4.08||10||1,977,185||4.29||0||10||+2
+|-
+|align=left|[[Citizens' Movement (Mexico)|Citizens' Movement]]||1,943,855||3.99||10||58096||–||6||16||+10
+|-
+|align=left|[[Party of the Democratic Revolution]]–[[Citizens' Movement (Mexico)|Citizens' Movement]]–[[Labor Party (Mexico)|Labor Party]]||–||–||–||13,088,355||28.41||||||–
+|-
+|align=left|[[Institutional Revolutionary Party]]–[[Ecologist Green Party of Mexico]]||–||–||–||12,533,771||27.20||||||–
+|-
+|align=left|Non-registered candidates||51,473||0.10|| ||51,076||0.11||0|| ||
+|-
+|align=left|Invalid/blank votes||2,378,731||–||–||2,351,092||–||–||–||–
+|-
+|align=left|'''Total'''||'''48,673,937'''||'''100'''||'''200'''||'''48,768,591'''||'''100'''||'''300'''||'''500'''||'''0'''
+|-
+|align=left|Registered voters/turnout||77,547,511||62.76||–||77,547,511||62.44||–||–||–
+|-
+|align=left colspan=9|Source: [https://prep2012.ife.org.mx/prep/NACIONAL/DiputadosNacionalVPP.html PREP] (98.79% of polling stations reporting)
+|}
+
+{{bar box
+| title=Popular Vote
+| titlebar=#ddd
+| width=600px
+| barwidth=410px
+| bars=
+{{bar percent|'''PRI'''|{{Institutional Revolutionary Party/meta/color}}|31.87}}
+{{bar percent|PAN|{{National Action Party (Mexico)/meta/color}}|25.92}}
+{{bar percent|PRD|{{Party of the Democratic Revolution/meta/color}}|18.48}}
+{{bar percent|PVE|{{Ecologist Green Party of Mexico/meta/color}}|6.08}}
+{{bar percent|PT|{{Communist Party/meta/color}}|4.55}}
+{{bar percent|PNA|{{New Alliance Party (Mexico)/meta/color}}|4.08}}
+{{bar percent|MC|{{Respect Party/meta/color}}|3.99}}
+{{bar percent|Other|#777777|5.03}}
+}}
+
+{{bar box
+| title=House seats
+| titlebar=#ddd
+| width=600px
+| barwidth=410px
+| bars=
+{{bar percent|'''PRI'''|{{Institutional Revolutionary Party/meta/color}}|42.40}}
+{{bar percent|PAN|{{National Action Party (Mexico)/meta/color}}|22.80}}
+{{bar percent|PRD|{{Party of the Democratic Revolution/meta/color}}|20.80}}
+{{bar percent|PVE|{{Ecologist Green Party of Mexico/meta/color}}|5.80}}
+{{bar percent|MC|{{Respect Party/meta/color}}|3.20}}
+{{bar percent|PT|{{Communist Party/meta/color}}|3.00}}
+{{bar percent|PNA|{{New Alliance Party (Mexico)/meta/color}}|2.00}}
+}}
+
+===Senate===
+{| class=wikitable style=text-align:right
+!rowspan=2|Party
+!colspan=3|Proportional representation
+!colspan=3|Constituency
+!rowspan=2|Total<br/>seats
+!rowspan=2|+/–
+|-
+!Votes
+!%
+!Seats
+!Votes
+!%
+!Seats
+|-
+|align=left|[[Institutional Revolutionary Party]]||15,679,729||33.1||11||17,119,854||37.3||46||57||+19
+|-
+|align=left|[[National Action Party (Mexico)|National Action Party]]||13,245,088||27.9||9||12,783,068||27.8||29||38||–14
+|-
+|align=left|[[Party of the Democratic Revolution]]||9,353,879||19.7||6||13,288,983||28.9||17||23||–13
+|-
+|align=left|[[Ecologist Green Party of Mexico]]||2,881,923||6.1||2||867,056||1.9||2||4||+4
+|-
+|align=left|[[Labor Party (Mexico)|Labor Party]]||2,339,923||4.9||2||–||–||2||4||+4
+|-
+|align=left|[[Citizens' Movement (Mexico)|Citizens' Movement]]||2,025,045||4.3||1||–||–||–||1||+1
+|-
+|align=left|[[New Alliance Party (Mexico)]]||1,855,403||3.9||1||1,796,816||3.9||0||1||0
+|-
+|align=left|Non-registered candidates||32,567||0.1||0||51,936||0.11||0|| ||
+|-
+|align=left|Invalid/blank votes||2,897,668||–||–||2,701,179||–||–||–||–
+|-
+|align=left|'''Total'''||'''50,310,328'''||'''100'''||'''32'''||'''48,608,892'''||'''100'''||'''96'''||'''128'''||'''0'''
+|-
+|align=left|Registered voters/turnout||77,651,019||64.8||–||77,651,019||62.3||–||–||–
+|-
+|align=left colspan=9|Source: [http://psephos.adam-carr.net/countries/m/mexico/mexico20122.txt Adam Carr]
+|}
+
+The Labor Party senators elected in constituencies ran on joint tickets with the [[Party of the Democratic Revolution]], whilst the winning [[Ecologist Green Party of Mexico]] senators were on a joint list with the [[Institutional Revolutionary Party]].<ref>[http://psephos.adam-carr.net/countries/m/mexico/mexico20122.txt United Mexican States, Legislative Elections of 1 July 2012] Adam Carr</ref>
+
+===Recount===
+Following the elections, López Obrador demanded a full recount, claiming there had been widespread irregularities.<ref name=BBC>[http://www.bbc.co.uk/news/world-18717146 Mexico faces partial recount in presidential election] BBC News, 5 July 2012</ref> The Federal Electoral Institute subsequently announced that there would be a partial recount, with presidential ballots from 78,012 of the 143,132 polling stations to be recounted, whilst ballots for the Congressional elections would be re-examined at two-thirds of polling stations.<ref name=BBC/> On July 6 after a partial recount of approximately 50% of the votes, the [[Federal Electoral Institute]] declared they had found anomalies but that Nieto still had majority and was confirmed as the winner with 38.2% of the popular vote.<ref>{{cite news|title=Mexico's Pena Nieto's presidential victory confirmed|url=http://www.bbc.co.uk/news/18736492|accessdate=6 July 2012 | work=BBC News|date=July 6, 2012}}BBC News</ref> which officially has until 6 September to announce a winner.<ref name=BBC/>
+
+===Request to Invalidate Election===
+On July 12, López Obrador presented his formal complaint to invalidate the election to the [[TEPJF|Electoral Tribunal of the Federal Judiciary]] on grounds of violation of constitutional article 41 which states that the elections must be free and authentic and with equal benefits for all competing parties.<ref>{{cite news| url=http://mexico.cnn.com/nacional/2012/07/13/violaciones-al-articulo-41-de-la-constitucion | work=CNN | title=Lo más popular | date=July 13, 2012}}</ref> Alleging that the Mexican media had treated them with inequality in relation to Peña Nieto and presenting the numerous evidence of paraphernalia used to buy votes for the PRI as well as pre-marked ballots and notarized witness statements of people who sold their votes to the PRI.<ref>http://aristeguinoticias.com/pena-nieto-fue-el-candidato-de-las-televisoras-amlo/</ref> The complaint also pointed towards the PRI's campaign going over budget an alleged 1000% over the established allowed budget by the Federal Electoral Institute which is of 336 million Mexican pesos.<ref>{{cite news| url=http://mexico.cnn.com/nacional/2012/07/13/rebase-de-tope-de-gasto-de-campana | work=CNN | title=Lo más popular | date=July 13, 2012}}</ref> On July 18 López Obrador accused Peña Nieto of using illicit funds and money laundering to finance his campaign.<ref>{{cite news| url=http://www.guardian.co.uk/world/2012/jul/19/lopez-obrador-election-money-laundering | location=London | work=The Guardian | first=Jo | last=Tuckman | title=Mexico presidential runner-up alleges money laundering in election | date=July 19, 2012}}</ref> After presenting new audio evidence regarding the PRI's use of Monex cards, López Obrador commented that it would be better if the Electoral Tribunal invalidated the election and move in an [[interim]] President than to violate the constitution and acting in an "[[anti-democratic]]" way. He said that if the Electoral Tribunal does not invalidate the election, Mexico will be governed by a "gang of evildoers".<ref>http://aristeguinoticias.com/es-preferible-tener-presidente-interino-amlo/</ref>
+On 30 August 2012, the [[TEPJF]], Mexico's highest election-law court rejected the allegations of fraud after they concluded that there was "insufficient evidence of wrongdoing."<ref>{{cite news|title=UPDATE 2-Mexico electoral judges reject challenge to Pena Nieto victory|url=http://in.reuters.com/article/2012/08/31/mexico-election-tribunal-idINL2E8JV0BF20120831|accessdate=31 August 2012|newspaper=[[Reuters]]|date=31 August 2012}}</ref>
+
+==Post-electoral protests and claims of fraud==
+After the preliminary results of the [[Federal Electoral Institute]] announced Enrique Peña Nieto as virtual [[President-elect]], several student protests led by the youth movement [[Yo Soy 132]] and independent citizen movements, have broken out throughout the country claiming the forced imposition of a President and [[electoral fraud]],<ref>http://english.ntdtv.com/ntdtv_en/news_northamerica/2012-07-04/youths-protest-mexican-president-elect-pena-nieto.html</ref><ref>http://www.critica.com.mx/vernoticias.php?artid=44364&mas=5</ref><ref>http://www.sobrepapel.com.mx/vernoticias.php?artids=4453&categoria=10</ref><ref>http://www.frontera.info/EdicionEnLinea/Notas/Noticias/04072012/604835.aspx</ref><ref>{{cite news| url=http://www.bbc.co.uk/news/world-latin-america-18700953 | work=BBC News | title=No early end to Mexico's election stand-off | date=July 4, 2012}}</ref><ref>http://www.elmundo.es/america/2012/07/05/mexico/1341513712.html</ref> as evidence of an alleged [[electoral fraud|fraud]] has surfaced and pointed towards the PRI buying votes by providing voting citizens with store [[credit card]]s of Mexican supermarket chain [[Soriana]].<ref>http://www.bbc.co.uk/mundo/noticias/2012/07/120704_mexico_pena_nieto_entrevista_ao.shtml</ref><ref>http://www.sandiegored.com/noticias/26982/Soriana-gate-las-versiones-de-los-hechos/</ref> Mexico's Federal Electoral Institute (IFE) confirmed on January 2013 that Peña Nieto's party spent $5.2 million in electronic cards throughout the whole campaign. Opposition parties complained that this represented a form of illicit funding, but the IFE claimed the contrary. The PRI party claimed that the electronic cards were intended for party personnel, but this method rose suspicions because some of the money was transacted through "several shadowy companies instead of being disbursed directly from party coffers."<ref name=monexsan>{{cite news|title=Mexico: ruling party used $5.2 million cash cards|url=http://www.mysanantonio.com/news/world/article/Mexico-ruling-party-used-5-2-million-cash-cards-4221504.php|accessdate=27 January 2013|newspaper=[[San Antonio Express-News]]|date=24 January 2013|archiveurl=http://www.webcitation.org/6DzkTqrpy|archivedate=27 January 2013|deadurl=no}}</ref> This also increased the suspicions that the PRI had received illegal donations from corporations (given that this move is prohibited under law). The IFE stated on 24 January 2013 and ruled by 5-4 votes that the fundings were not violating the law, but opposition parties and critics believe that the IFE did not thoroughly investigate the origins of the money.<ref name=monexsan/>
+
+Further alleged evidence arose as pictures of ballots already marked in favor of the PRI, with the logo of the party printed over the marking, have been shared widely over online social networks,<ref>http://sdpnoticias.com/nota/348518/Distribuyen_en_redes_imagen_de_boleta_tachada_a_favor_del_PRI_por_debajo_del_logo_impreso</ref> and there have also been numerous videos and photos of that show the irregularities between local ballot boxes and the official result of those ballot boxes.<ref>http://www.el5antuario.org/2012/07/algunas-sabanas-electorales-para.html</ref> More allegations appeared as videos showing protection of local police patrols protecting supposed "Mapaches". Following a request from Andrés Manuel López Obrador, the [[Federal Electoral Institute]] agreed to recount more than half of the ballots cast in the presidential election. It later reconfirmed the original result.<ref name="Economist 14July">{{cite news |title=Counted out: López Obrador, sore loser |publisher=The Economist |date=14 July 2012 |url=http://www.economist.com/node/21558611}}</ref> The result was endorsed by [[Barack Obama]], the [[president of the United States]], and by the [[Venezuela]]n president [[Hugo Chávez]], who backed López Obrador in a similar dispute in 2006.<ref name="Economist 14July"/>
+
+On July 7, a national protest in opposition of Enrique Peña Nieto was organized through online social networks, and demonstrations occurred in several cities. The protest in [[Mexico City]] was billed as a "mega-march", but the number of demonstrators equalled only around half the number which attended anti-PRI demonstrations held prior to the election.<ref name="Economist 14July"/> Statements from the [[Yo Soy 132]] student movement formally uninvolved themselves from the protest cautioning against violent results; alleging that it may have been organized by a similarly named movement linked to the [[Partido Revolucionario Institucional|PRI]].<ref>{{cite news| url=http://mexico.cnn.com/nacional/2012/07/06/convocan-en-redes-a-marcha-anti-pena-yosoy132-se-deslinda | work=CNN | title=Convocan en redes a marcha anti-Peña; #Yosoy132 se deslinda - México: Voto 2012 - Nacional - CNNMexico.com | date=July 6, 2012}}</ref> Despite the statement the protests effectively took place in 37 cities in [[Mexico]], [[Canada]], [[The United States]], and [[Europe]]<ref>http://www.elmanana.com.mx/notas.asp?id=293001</ref> with no incidents of violence or known involvement of the PRI. Though in [[Xalapa, Veracruz]] a man identified as Juan Pablo Frianzoni, presumed member of the youth PRI group "Juventud Dinamica"; threw chairs at the protesters and then pointed a handgun at them from his balcony. Frianzoni was then apprehended by Police officers who were standing by the protest.<ref>http://sdpnoticias.com/nota/348750/Amenaza_sujeto_armado_a_manifestantes_de_MegaMarcha_en_Verazcruz</ref> [[Televisa]] did not broadcast the National protests, and instead presented a live broadcast of [[Eugenio Derbez]] and [[Alessandra Rosaldo]]'s wedding which was interrupted due to "technical difficulties" when loud protest chants became audible outside of the event.<ref>http://sdpnoticias.com/nota/348752/Cortan_transmision_de_boda_de_Eugenio_Derbez_en_Televisa_tras_protestas_de_MegaMarcha</ref> Derbez however stated that he was in support of the protests, and though he regrets them happening on the day of his wedding; he said he will cherish the memory.<ref>http://sdpnoticias.com/nota/348757/Eugenio_Derbez_toma_con_humor_protestas_en_boda_muestra_apoyo_a_YoSoy132_con_foto</ref>
+
+As of July 15<ref>http://www.milenio.com/cdb/doc/noticias2011/e4e7fe9f7a613accf953b326bc1dc90a</ref> protests and further acts of civil resistance against Peña Nieto and Televisa continue around the country.<ref>http://www.rnw.nl/espanol/bulletin/yosoy132-y-otros-colectivos-se-movilizar%C3%A1n-contra-regreso-del-pri-en-m%C3%A9xico-0</ref> On July 27 protesters set up a 24 hour blockade around the main [[Televisa]] studios in [[Chapultepec]], [[Mexico City]].<ref>{{cite news| url=http://www.guardian.co.uk/world/2012/jul/27/mexican-blockade-televisa-election-scandal | location=London | work=The Guardian | title=Mexican demonstrators blockade Televisa studios over election scandal | date=July 27, 2012}}</ref>
+On August 30 several protesters gathered outside the offices of the [[TEPJF|Electoral Tribunal of the Federal Judiciary]] as the Magistrates declared that the claims made by the left-wing coalition were "unfounded" and were therefore rejected.<ref>http://www.razon.com.mx/spip.php?article136863</ref>
+
+On December 1, 2012, as Peña Nieto was being sworn in as President, protesters rioted outside of the national palace and clashed with [[Mexican Federal Police|Federal Police]] forces while vandalizing hotel structures and setting fires around Mexico City. More than 90 protesters were arrested and several were injured. Mexico City Mayor [[Marcelo Ebrard]] blamed anarchist groups for causing the violent outcomes.<ref>{{cite news| url=http://www.nytimes.com/2012/12/02/world/americas/enrique-pena-nieto-takes-office-as-mexicos-president.html?_r=1& | work=The New York Times | first1=Randal C. | last1=Archibold | first2=Karla | last2=Zabludovsky | title=Enrique Peña Nieto Takes Office as Mexico's President | date=December 1, 2012}}</ref>
+<gallery>
+File:Mega Marcha DF.jpg|Anti-Imposition Protest in [[Mexico City]].
+
+File:Mega Marcha Tijuana.jpg|Anti-Imposition Protest in [[Tijuana, Baja California]].
+</gallery>
+
+{{Clear}}
+
+==References==
+{{reflist|30em}}
+
+==External links==
+{{Commons category|Mexican general election, 2012}}
+* [http://www.ife.org.mx/portal/site/ifev2/Internacional_English/ Federal Electoral Institute]
+
+===Official candidate websites===
+{{refbegin}}
+;National Action Party
+* [https://www.ernestocordero.mx/ Ernesto Cordero]
+* [https://www.santiagocreel.com.mx/ Santiago Creel]
+* [http://www.josefina.mx/ Josefina Vázquez Mota]
+
+;Party of the Democratic Revolution
+* [http://www.amlo.org.mx/ Andrés Manuel López Obrador]
+
+;Institutional Revolutionary Party
+* [http://enriquepenanieto.com/ Enrique Peña Nieto]
+{{refend}}
+{{Mexican elections}}
+
+{{DEFAULTSORT:Mexican Presidential Election, 2012}}
+[[Category:Elections in Mexico]]
+[[Category:2012 elections in Mexico]]
+[[Category:Presidential elections in Mexico]]
+[[Category:2012 elections in North America]]
+[[Category:2012 in Mexico]]

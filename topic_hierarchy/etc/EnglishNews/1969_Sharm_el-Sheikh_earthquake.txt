@@ -1,0 +1,61 @@
+{{Infobox earthquake
+| title = 1969 Sharm el-Sheikh earthquake
+| date = March 31, 1969
+| origintime = 7:15 
+| map = 
+| map2 = {{Location map+ | Egypt
+| relief = 1
+| places = 
+{{Location map~|Egypt|lat=30.05|long=31.23|label=Cairo|label_size=100|mark=ButtonGray.svg}}
+{{Location map~|Egypt|lat=27.6|long=33.9|mark=Bullseye1.png|marksize=40}}
+{{Location map~|Egypt|lat=31.2|long=29.92|label=Alexandria|label_size=100|position=above|mark=ButtonGray.svg}}
+{{Location map~|Egypt|lat=27.26|long=33.81|label=Hurghada|label_size=100|position=above|mark=ButtonGray.svg}}
+| width = 250
+| float = right
+| caption = }} 
+| caption = 
+| magnitude = 6.6 M<sub>S</sub> 
+| intensity = VII (''Very Strong'') 
+| depth = 
+| location = {{coord|27.6|N|33.9|E|display=inline,title}} 
+| type = Fault_(geology)#Dip-slip_faults|Normal fault
+| aftershocks = 
+| countries affected = Egypt
+| casualties = 2 killed, 15 injured 
+}}
+
+The '''1969 Sharm el-Sheikh''' earthquake occurred on March 31 off the southern Sinai peninsula in northeastern Egypt. The epicenter was located near Shadwan island, southwest of the city of Sharm el-Sheikh, at the confluence of the Red Sea and the Gulf of Suez. The shock measured 6.6 on the surface wave magnitude scale, had a maximum reported intensity of VII (''Very Strong'') on the Mercalli Intensity Scale, and was responsible for several deaths and injuries.
+
+==Tectonic setting==
+{{see also|Gulf of Suez Rift|Red Sea Rift}}
+
+This portion of Egypt is adjacent to the African Plate|African and Arabian Plate|Arabian tectonic plates. The Red Sea divides the two and splits, with one branch turning north along the Gulf of Aqaba into the Dead Sea Transform system, and the main trend continuing along the Gulf of Suez. While the earthquake activity in the Gulf of Aqaba is characterized by left-lateral strike-slip faulting, the Gulf of Suez is primarily influenced by extensional tectonics, with increasing extension from north to south.
+
+==Earthquake==
+Although an unrelated earthquake swarm at Gubal island just {{convert|25|km|sp=us}} north of the epicenter of this event was related to reverse faulting, the focal mechanism of the 1969 shock (and a later M5.5 event in the same area) were normal faulting events with Strike and dip|strikes parallel to the Gulf of Suez.
+
+==Damage==
+The shock affected the nearby islands of Tawila and Gubal, knocked people to the ground and caused caused many rockfalls at Shadwan, but due to the uninhabited nature of the islands, no damage was reported there with the exception of some cracking at the base of the Shaker lighthouse. At Hurghada, some cracking occurred in the brick walls of a reinforced concrete power plant, and some plaster cracked at two hotels. Similar effects were seen to the north at Saint Catherine's Monastery. At Sharm el-Sheikh (where people had difficulty standing during the shock) cracks in walls were observed, items fell from shelves, and furniture shifted or overturned. The oil fields along both shores of the Gulf of Suez were not affected.
+
+Further away from the epicentral area the damage was light to non-existent, though it was felt strongly at the port cities of Safaga and Al-Qusayr, Egypt|Queseir, and to the west in Qena. At Asyut a house and a mosque were destroyed, and in Beni Suef a few homes were damaged and a school's staircase fell. In Cairo, people ran into the streets and one home was destroyed and about ten other homes were damaged with five injuries occurring there, but the shock was only felt by a few people further to the north in Alexandria. Total damage and casualties amounted to two deaths, fifteen injuries, and seven mosques destroyed (along with around 100 homes).
+
+==Other events==
+{{see also|1068 Near East earthquake}}
+
+The region near the northern Red Sea, the Gulf of Suez, and the Gulf of Aqaba sees the most seismic activity in Egypt, and the northeastern portion of the country has seen an increase in earthquakes relative to historical times. While the 1969 event was one of the larger events, the M5.8 1992 Cairo earthquake, which struck {{convert|25|km|sp=us}} southwest of the city in the Dahshour area,  was also significant. The M7.3 1995 Gulf of Aqaba earthquake occurred along the Dead Sea Transform system and was the largest event in the 20th century that impacted the region. By comparison, activity near Cairo is not as active, but other smaller events have been reported in the Nile Delta, including small events near Beni Suef in October 1999 and again in November 2006.
+
+==References==
+{{reflist}}
+
+;Sources
+{{refbegin}}
+* {{citation|title=The Seismicity of Egypt, Arabia and the Red Sea: A Historical Review|url=http://books.google.com/books?id=fxnnk2inWT0C&printsec=frontcover&dq=the+seismicity+of+egypt&hl=en&sa=X&ei=HUYTU7eeFcy8oQTIx4LABg&ved=0CDQQ6AEwAA#v=onepage&q=the%20seismicity%20of%20egypt&f=false|first=N. N.|last=Ambraseys|authorlink=Nicholas Ambraseys|first2=C. P.|last2=Melville|first3=R. D.|last3=Adams|year=2005|publisher=Cambridge University Press|isbn=978-0521020251}}
+* {{citation|title=A Study on Seismicity and Tectonic Setting in the Northeastern Part of Egypt|url=http://www.idosi.org/rjes/rjes2%281%2910/2.pdf|first=S. A.|last=Dahy|year=2010|journal=Research Journal of Earth Sciences|publisher=IDOSI Publications|volume=2|number=1|pages=8–13}}
+{{refend}}
+
+{{Earthquakes in Southern Levant}}
+ 
+Category:1969 earthquakes
+Category:Earthquakes in Egypt
+Category:Earthquakes in the Levant
+Category:Sinai Peninsula

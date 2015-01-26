@@ -1,0 +1,86 @@
+{{Infobox election
+|election_name      = Irish presidential election, 2004
+|country            = Ireland
+|type               = presidential
+|ongoing            = no
+|previous_election  = Irish presidential election, 1997
+|previous_year      = 1997
+|next_election      = Irish presidential election, 2011
+|next_year          = 2011
+|election_date      = 22 October 2004<br/>(Unopposed)
+|image1             = [[File:Mary McAleese.jpg|150px]]
+|nominee1           = [[Mary McAleese]]
+|party1             = Independent (politician)
+|popular_vote1      = N/A
+|percentage1        = N/A
+|title              = President
+|before_election    = [[Mary McAleese]]
+|before_party       = Fianna Fáil
+|after_election     = [[Mary McAleese]]
+|after_party        = Independent (politician)
+}}
+The '''Irish presidential election of 2004''' was set for 22 October 2004. However, nominations closed at noon on 1 October and the incumbent [[President of Ireland|president]], [[Mary McAleese]], who had nominated herself in accordance with the provisions of the [[Constitution of Ireland|Constitution]], was the only person nominated. Accordingly, she was re-elected for a second seven-year term of office without the need to hold an election. This was the third time a president was returned unopposed, following [[Seán T. O'Kelly]] in 1952, and [[Patrick Hillery]] in 1983. McAleese was re-inaugurated on 11 November 2004.
+
+==Party positions==
+===Fianna Fáil===
+The [[Fianna Fáil]] party supported its former candidate, Mary McAleese, in her bid for a second term.  Technically, however, McAleese nominated herself rather than seek a nomination from Fianna Fáil.
+
+===Fine Gael===
+The [[Fine Gael]] party also supported Mary McAleese's bid for a second term.
+
+===Labour Party===
+In early 2003, the [[Labour Party (Ireland)|Labour Party]] said that the party would run a candidate, irrespective of the attitudes of other parties, and even in the event of the president seeking a second term. But party leader [[Pat Rabbitte]] appeared less committed during a television interview in November 2003, pointing out that all the party's attentions were focused on the two Irish elections already set for 2004, the [[European Parliament election, 2004 (Ireland)|European Parliament election]] and the [[Irish local elections, 2004|local elections]] to be held on 11 June 2004. Following the significant losses of the ruling Fianna Fáil party in these elections, Labour Party sources suggested the presidential election should not be contested if it were to allow a decisive Fianna Fáil victory so soon after earlier election woes.{{Citation needed|date=June 2011}} Possible candidates were:
+* Former party chairperson and [[Minister for Community, Rural and Gaeltacht Affairs|Minister for Arts, Culture and the Gaeltacht]], [[Michael D. Higgins]]
+* Former [[Tánaiste]] (Deputy Prime Minister) [[Dick Spring]]
+* Former leader [[Ruairi Quinn]]
+* Independent [[Seanad Éireann|Senator]] and gay rights campaigner [[David Norris (politician)|David Norris]]
+* Former [[Social Democratic and Labour Party]] minister in [[Northern Ireland]] and deputy SDLP leader, [[Bríd Rodgers]]
+
+On 16 September 2004, the party's parliamentary party recommended not running a candidate. The final decision was taken by the party's executive body, the National Executive, on 17 September 2004. In a surprisingly tight vote, the executive decided against running Higgins by a majority of one, even though the party leader and parliamentary party had come out strongly against running a candidate.{{Citation needed|date=June 2011}}
+
+===Green Party===
+[[Green Party (Ireland)|Green Party]] [[Teachta Dála|TD]] [[Eamon Ryan]] let it be known that he was interested in seeking a nomination to run. However, practical difficulties included a lack of support from non-Green Party parliamentarians (fourteen of whom would be needed to nominate, as well as the six Green Party TDs), Mary McAleese's personal popularity, and funding issues. Having been endorsed by the party leadership, Ryan subsequently withdrew his name before a meeting of the Green Party National Council<ref>{{cite news|url=http://www.rte.ie/news/2004/0918/president.html|title=Ryan withdraws name as Presidential candidate|work=[[RTÉ News]]|date=18 September 2004}}</ref> and the Green Party ultimately did not run a candidate.
+
+===Sinn Féin===
+[[Sinn Féin]] also supported Mary McAleese's bid for a second term.
+
+===Others===
+Independent TDs or Senators could have nominated an independent candidate, although they would have had difficulty securing the support of the necessary 20 TDs or senators.{{Citation needed|date=June 2011}} Possible candidates included:
+
+* Senator [[David Norris (politician)|David Norris]] – who did not receive a Labour Party nomination
+* Kevin Lee – Former emigrant who had a campaign and contacted local councillors
+* [[Vincent Salafia]] – Environmental activist and anti-motorway campaigner
+* [[Dana Rosemary Scallon]] – Family rights campaigner, candidate in 1997, and former MEP
+* [[Mary Robinson]] (President: 1990–97) – Former presidents who have not served two terms may nominate themselves for election at any stage.
+
+==Independent candidacy==
+Following her defeat in the [[European Parliament election, 2004 (Ireland)|European Parliament election of June 2004]], [[Irish presidential election, 1997|1997 presidential election]] candidate Dana Rosemary Scallon said that she might run as an independent candidate on a platform of opposition to the adoption of the [[Treaty establishing a Constitution for Europe|proposed European Union constitution]]. She initially attempted to repeat her 1997 strategy of seeking nominations from four county councils, and approached all the county councils in the country, but was rebuffed. Shortly before the close of nominations, she turned her attention to attempting to obtain nomination by 20 members of the [[Oireachtas]], but was similarly unsuccessful.
+
+==Criticism of the election==
+In the event of a public vote, it is likely that some of the public would have voted against the incumbent, although it is unknown how much support would have remained for McAleese, as this would have depended on what other candidates were presented. For those who desired a public vote, the main culprits in defeating efforts to nominate other candidates were the main political parties, who blocked any support from county councils. In particular, Fine Gael's alliance with Fianna Fáil was instrumental in blocking candidates such as Dana Rosemary Scallon. Critics of the system{{Who|date=June 2011}} argue that this "agreed election" called into question the need for a supposedly non-political office where only politicians can nominate a candidate, with few powers, that is detached from the people, and to which elections take place only every 7 years.{{Citation needed|date=June 2011}}
+
+==Result==
+{{STV Election box begin5
+ |title      = Irish presidential election, 2004<ref>{{Cite web|url=http://www.electionsireland.org/result.cfm?election=2004P&cons=194|title=Presidential Election November 2004|work=ElectionsIreland.org|accessdate=27 October 2011}}</ref>
+ |numcounts  = 1
+}}
+{{STV Election box candidate5
+ |candidate  = '''[[Mary McAleese]]'''
+ |party      = Independent (politician)
+ |percentage = Unopposed
+ |nominator  = Self-nominated
+ |count1     = ''N/A''
+}}
+{{end}}
+
+==References==
+{{reflist}}
+
+{{Irish elections}}
+{{Use dmy dates|date=June 2011}}
+
+[[Category:2004 elections in Europe]]
+[[Category:2004 in Irish politics]]
+[[Category:Uncontested elections]]
+[[Category:Presidential elections in Ireland]]
+[[Category:Michael D. Higgins]]

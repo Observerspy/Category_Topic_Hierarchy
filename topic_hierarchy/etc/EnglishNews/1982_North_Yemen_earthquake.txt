@@ -1,0 +1,65 @@
+{{Infobox earthquake
+|title = 1982 North Yemen earthquake
+|date = {{Start-date|December 13, 1982}}
+|origintime = 9:12 UTC 
+|map2 = {{Location map+ | Yemen
+ | relief = yes
+ |places =
+{{Location map~|Yemen|lat=14.57|long=44.4|label=Dhamar|position=left|mark=Green pog.svg}}
+{{Location map~|Yemen|lat=15.85|long=44.21|label=Sana'a|mark=Green pog.svg}}
+{{Location map~|Yemen|lat=14.7|long=44.49|mark=Bullseye1.png|marksize=40}}
+ | width = 250
+ | float = right
+ | caption = }}
+|magnitude = 6.0 surface wave magnitude|M<sub>s</sub> 
+|intensity = VIII (''Destructive'') 
+|depth = {{convert|5|km|abbr=on}} 
+|location = {{coord|14.7|44.38|display=inline, title}} 
+|countries affected = Yemen
+|casualties = 2,800 
+}}
+
+The '''1982 North Yemen earthquake''' hit near the city of Dhamar, Yemen|Dhamar, North Yemen (now part of Yemen) on December 13. Measuring 6.0 on the surface wave magnitude scale, with a maximum perceived intensity of VIII (''Destructive'') on the Mercalli Intensity Scale, as many as 2,800 people were killed and another 1,500 injured. The shock occurred within several hundred kilometers of a Plate tectonics|plate boundary in a geologically complex region that includes active volcanoes and Mid-ocean ridge|seafloor spreading ridges. Yemen has a history of destructive earthquakes, though this was the first instrumentally recorded event to be detected on global seismograph networks.
+
+==Tectonic setting==
+{{see also|Afar Triangle|Danakil Depression|Extensional tectonics|Harras of Dhamar}}
+
+The southwestern portion of the Arabian Plate lies adjacent to the Afar Triple Junction (an area of Seafloor spreading|spreading ridges) near the Red Sea. The triple junction marks the intersecting point of the Arabian, African Plate|African, and Somali Plate|Somali plates. Spreading initiated around 5 myr|mya and persists at 6–7.5&nbsp;mm per year in the southern Red Sea and ~10&nbsp;mm per year in the eastern Gulf of Aden. Earthquake activity is normally focused at the undersea ridges, but infrequent small to moderate events occur on land in the interior of the Arabian plate within {{convert|200|-|300|km|abbr=on}} of the centerline of the Red Sea in Yemen, as well as farther to the northwest in the 'Asir Region of Saudi Arabia.
+
+==Earthquake==
+File:USGS Shakemap - 1982 North Yemen earthquake.jpg|thumb|USGS ShakeMap for the event
+{{see also|List of 20th-century earthquakes}}
+
+The event was a first in several classifications. It was the first instrumentally located earthquake in the southern Arabian Peninsula since 1959 and the first shock that resulted in fatalities since 1941. The earthquake was also the first in the area to be detected teleseismically on the Worldwise Standard Seismograph Network and the Global Digital Seismograph Network.
+
+Because the shock occurred {{convert|200|km|sp=us}} from the Red Sea Rift, it was described by Langer et al. as a "plate marginal", rather than an intraplate earthquake|intraplate event. Analysis of the source parameters revealed that the main shock was a complex Normal fault#Dip-slip faults|normal faulting event, and consisted of two equal sized shocks, separated by about 12 seconds. It was compared to the 1983 Coalinga earthquake|1983 Coalinga and 1984 Morgan Hill earthquakes, both of which were events in California which had similar dual shock characteristics.
+
+===Damage===
+The shallow mainshock occurred in a highly populated area {{convert|70|km|sp=us}} south of Sana'a. The primary event and its aftershocks created a zone of destruction between Ma'bar and Dhamar, where older villages were heavily damaged, with adobe or rubble masonry homes suffering the most. Homes and villages that were adjacent to steep slopes or cliffs were susceptible to rockfalls and landslides, but damage was much less pronounced away from the epicentral area, and modern city centers with properly engineered structures were only slightly affected.
+
+The United States Geological Survey reported that 2,800 lives were lost and that another 1,500 were injured. In all, nearly 300 villages were severely damaged or destroyed and about 700,000 were made homeless. The earthquake was felt in North and much of South Yemen as well as into Saudi Arabia.
+
+===Aftershocks===
+Beginning sixteen days after the mainshock a portable seismometer|seismograph network consisting of mostly analog units was deployed in the epicentral area. Six days of recording, capturing thousands of aftershocks, were obtained under its final and optimum configuration. Two of the larger events, the December 29 M5.3 event and the January 8 M4.6 event, were also recorded teleseismically during this period.
+
+==Other events==
+There were 30 specific years where individual or multiple earthquakes were documented in Yemen for the 1,240 years prior to 1982. In 1909, a shock resulted in the deaths of 300 people and damaged 400 homes, and in 1941 two shocks (5.8 & 6.2 surface wave magnitude) killed 1,200 and destroyed 1,400 homes. Other minor events occurred in 1955 and again in 1959.
+
+== References ==
+{{reflist|30em}}
+
+;Sources
+{{refbegin}}
+* {{citation|title=Aftershocks of the 13 December 1982 North Yemen earthquake: Conjugate normal faulting in an extensional setting|url=http://bssa.geoscienceworld.org/content/77/6/2038.abstract?|first=C. J.|last=Langer|first2=G. A.|last2=Bollinger|first3=H. M.|last3=Merghelani|year=1987|journal=Bulletin of the Seismological Society of America|publisher=Seismological Society of America|volume=77|number=6|pages=2038–2055}}
+{{refend}}
+
+==External links==
+* http://earthquake.usgs.gov/earthquakes/eqarchives/significant/sig_1982.php Significant Earthquakes of the World 1982 – United States Geological Survey
+* https://www.geolsoc.org.uk/Plate-Tectonics/Chap3-Plate-Margins/Divergent/Triple-Junction Triple Junction: The Red Sea/East Africa – Geological Society of London
+
+{{Earthquakes in 1982}}
+
+Category:1982 earthquakes|North Yemen
+Category:1982 in Yemen|North Yemen earthquake
+Category:Earthquakes in Yemen
+Category:Earthquakes in Saudi Arabia

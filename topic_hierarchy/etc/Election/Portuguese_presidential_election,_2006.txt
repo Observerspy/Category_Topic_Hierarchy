@@ -1,0 +1,171 @@
+{{Infobox Election
+| election_name = Portuguese presidential election, 2006
+| country = Portugal
+| type = presidential
+| ongoing = no
+| previous_election = Portuguese presidential election, 2001
+| previous_year = 2001
+| next_election = Portuguese presidential election, 2011
+| next_year = 2011
+| election_date = 22 January 2006
+| image1 = [[File:Cavaco Silva 2007 quadrada.jpg|129px]]
+| candidate1 = [[Aníbal Cavaco Silva]]
+| party1 = Social Democratic Party (Portugal)
+| popular_vote1 = 2,773,431
+| percentage1 = 50.5%
+| image2 =  [[File:Manuel Alegre.jpg|136px]] 
+| candidate2 = [[Manuel Alegre]]
+| party2 = Independent  (politician)
+| popular_vote2 = 1,138,297
+| percentage2 = 20.7%
+| image3 = [[File:Mário Soares (2003) square.jpg|129px]]
+| candidate3 = [[Mário Soares]]
+| party3 = Socialist Party (Portugal)
+| popular_vote3 = 785,355
+| percentage3 = 14.3%
+| title = [[President of Portugal|President]]
+| posttitle = President-elect
+| before_election = [[Jorge Sampaio|Sampaio]]
+| before_party = Socialist Party (Portugal)
+| after_election = [[Aníbal Cavaco Silva|Cavaco Silva]]
+| after_party = Social Democratic Party (Portugal)
+}}
+{{Politics of Portugal}}
+The '''Portuguese presidential election''' were held on 22 January 2006 to elect a successor to the incumbent [[President of Portugal|President]] [[Jorge Sampaio]], who was [[term limit|term-limited]] from running for a third consecutive term by the [[Constitution of Portugal]]. The result was a victory in the first round for '''[[Aníbal Cavaco Silva]]''' of the [[Social Democratic Party (Portugal)|Social Democratic Party]] candidate, the former [[Prime Minister of Portugal|Prime Minister]], won 50.54 percent of the vote in the first round, just over the [[majority]] required to avoid a [[Two-round system|runoff election]]. [[Voter turnout]] was 61.53 percent for eligible voters.
+
+==Procedure==
+Any [[Portuguese nationality law|Portuguese citizen]] over 35 years old has the opportunity to run for president. In order to do so it is necessary to gather between 7500 and 15000 signatures and submit them to the [[Portuguese Constitutional Court]].
+
+According to the [[Constitution of Portugal|Portuguese Constitution]], to be elected, a candidate needs a majority (50% + 1). If no candidate gets this majority there will take place a second round between the two most voted candidates.
+
+==Political context==
+In the presidential election of 14 January 2001, the outgoing Socialist [[Jorge Sampaio]] was reelected in the first round with 55% of votes. Because he was term-limited, he was forbidden, by the Constitution, to run for a third consecutive term.
+
+In the [[Portuguese legislative election, 2005|parliamentary elections of 20 February 2005]], the Socialist Party, led by [[José Sócrates]], won for the first time in its history an absolute majority of seats, while the [[Social Democratic Party (Portugal)|Social Democratic Party]] led by [[Prime Minister of Portugal|Prime Minister]] [[Pedro Santana Lopes]] fell below 30%, their worst result since 1983.
+
+To cope with the bad fiscal situation, the government introduced a policy of fiscal restraint, combining higher taxes, lower public treatments and privatization. This policies were not popular and as a result, the Socialists were defeated in the [[Portuguese local election, 2005|local elections]] on 9 October 2005. In the follow up for the presidential elections, the Socialists decided to nominate their former  general secretary, [[Mário Soares]], President of the Republic between 1986 and 1996. This decision divided the party, which led [[Manuel Alegre]], a member of the party parliamentary group, to announce his candidacy as an independent. The Social Democrats opted to support their former leader Aníbal Cavaco Silva, Prime Minister from 1985 to 1995, and presidential candidate defeated in [[Portuguese presidential election, 1996|1996]].
+
+==Candidates==
+Thirteen citizens sought election officially, but only six gathered the 7,500 signatures required under the constitution to be a candidate in the poll:
+
+=== Official candidates ===
+*'''[[Manuel Alegre]]''', a Socialist Party politician who ran without the official backing of his party;
+*'''[[Aníbal Cavaco Silva]]''', Prime Minister from 1985 to 1995, supported by the [[Social Democratic Party (Portugal)|Social Democratic Party]] and by the [[People's Party (Portugal)|People's Party]];
+*'''[[Francisco Louçã]]''', coordinator of the political commission of the [[Left Bloc]];
+*'''[[Garcia Pereira]]''', Secretary-General of the [[PCTP/MRPP]];
+*'''[[Mário Soares]]''', President from 1986 to 1996, the official candidate of the [[Socialist Party (Portugal)|Socialist Party]]; and
+*'''[[Jerónimo de Sousa]]''', Secretary-General of the [[Portuguese Communist Party]], also supported by the [[Ecologist Party "The Greens"]].
+
+All the candidates except for Cavaco Silva are considered to be from the Portuguese political [[left (politics)|left]].
+
+=== Unsuccessful candidacies ===
+The other potential candidates who, according to the [[Portuguese Constitutional Court|Constitutional Court]], did not gather enough signatures, were:
+*'''Josué Rodrigues Gonçalo Pedro''';
+*'''Luís Filipe Guerra''', leader of the [[Humanist Party (Portugal)|Humanist Party]];
+*'''Teresa Lameiro''';
+*'''Manuela Magno''', nuclear physicist;
+*'''Carmelinda Pereira''', leader of the [[Workers Party of Socialist Unity]];
+*'''Luís Botelho Ribeiro'''; and
+*'''Diamantino da Silva''';
+
+==Results==
+[[Image:Pt plelection pr 2006.PNG|right|thumb|250px|Candidate receiving most votes, per district (Azores and Madeira not shown)]]
+{{electiontable|Portuguese presidential election, 2006}}'''Summary of the 22 January 2006 [[Portugal|Portuguese]] [[President of Portugal|presidential]] [[Elections in Portugal|election results]]
+|-
+!style="background-color:#E9E9E9" align=left colspan="2" rowspan="2"|Candidates
+!style="background-color:#E9E9E9" align=left rowspan="2"|Supporting parties 	
+!style="background-color:#E9E9E9" align=right colspan="2"|First round
+|-
+!style="background-color:#E9E9E9" align=right|Votes
+!style="background-color:#E9E9E9" align=right|%
+|-
+|style="width: 10px" bgcolor=#FF9900 align="center" | 
+|align=left|[[Aníbal Cavaco Silva]]
+|align=left|[[Social Democratic Party (Portugal)|Social Democratic Party]], [[People's Party (Portugal)|People's Party]]
+|align="right" |2,773,431 	
+|align="right" |50.54
+|-
+|style="width: 5px" bgcolor=gray align="center" |
+|align=left|[[Manuel Alegre]]
+|align=left|[[Independent (politician)|Independent]]
+|align="right" |1,138,297
+|align="right" |20.74
+|-
+|style="width: 5px" bgcolor=#FF66FF align="center" | 
+|align=left|[[Mário Soares]]
+|align=left|[[Socialist Party (Portugal)|Socialist Party]]
+|align="right" |785,355
+|align="right" |14.31
+|-
+|style="width: 5px" bgcolor=red align="center" | 
+|align=left|[[Jerónimo de Sousa]]
+|align=left|[[Portuguese Communist Party]], [[Ecologist Party "The Greens"]]
+|align="right" |474,083
+|align="right" |8.64
+|-
+|style="width: 5px" bgcolor=#8B0000 align="center" |
+|align=left|[[Francisco Louçã]]
+|align=left|[[Left Bloc]]
+|align="right" |292,198
+|align="right" |5.32
+|-
+|style="width: 5px" bgcolor=#CC0000 align="center" |
+|align=left|[[António Garcia Pereira]]
+|align=left|[[Portuguese Workers' Communist Party|Workers' Communist Party]]
+|align="right" |23,983
+|align="right" |0.44
+|-
+|colspan="3" align=left style="background-color:#E9E9E9"|'''Total valid'''
+|width="65" align="right" style="background-color:#E9E9E9"|'''5,487,347'''
+|width="40" align="right" style="background-color:#E9E9E9"|'''100.00'''
+|-
+|align=right colspan="3"|Blank ballots
+|width="65" align="right" |59,636
+|width="40" align="right" |1.07
+|-
+|align=right colspan="3" |Invalid ballots
+|width="65" align="right"|43,149
+|width="40" align="right"|0.77
+|-
+|colspan="3" align=left style="background-color:#E9E9E9"|'''Total''' (turnout 61.53%)
+|width="65" align="right" style="background-color:#E9E9E9"|'''5,590,132 '''
+|width="40" align="right" style="background-color:#E9E9E9"|
+|-
+|colspan=5 align=left|Source: [http://eleicoes.cne.pt/vector/index.cfm?dia=22&mes=01&ano=2006&eleicao=pr Comissão Nacional de Eleições]
+|}
+
+{{bar box
+|title=Vote share 1st Round
+|titlebar=#ddd
+|width=500px
+|barwidth=310px
+|bars=
+{{bar percent|Aníbal Cavaco Silva|{{Social Democratic Party (Portugal)/meta/color}}|50.54}}
+{{bar percent|Manuel Alegre|{{Independent (politician)/meta/color}}|20.74}}
+{{bar percent|Mário Soares|{{Socialist Party (Portugal)/meta/color}}|14.31}}
+{{bar percent|Jerónimo de Sousa|{{Portuguese Communist Party/meta/color}}|8.64}}
+{{bar percent|Francisco Louçã|{{Left Bloc/meta/color}}|5.32}}
+{{bar percent|António Garcia Pereira|{{Portuguese Workers' Communist Party/meta/color}}|0.44}}
+{{bar percent|Blank/Invalid|#777777|1.84}}
+{{bar percent|Abstencion|Black|38.47}}
+}}
+{{Clear}}
+
+==See also==
+* [[President of Portugal]]
+* [[Portugal]]
+* [[Politics of Portugal]]
+
+==External links==
+*[http://www.cne.pt/ Portuguese Electoral Commission]
+*[http://www.presidenciais.mj.pt/ Official results site, Portuguese Justice Ministry]
+* [http://www.nsd.uib.no/european_election_database/country/portugal/ NSD: European Election Database - Portugal] publishes regional level election data; allows for comparisons of election results, 1990–2010
+
+{{Portuguese elections}}
+
+{{DEFAULTSORT:Portuguese Presidential Election, 2006}}
+[[Category:2006 elections in Europe]]
+[[Category:Presidential elections in Portugal|2006]]
+[[Category:2006 in Portugal|Presidential election]]
+
+[[fr:Élections présidentielles portugaises#2006]]

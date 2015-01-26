@@ -1,0 +1,56 @@
+{{Use dmy dates|date=December 2013}}
+{{Earthquake
+|title= 1991 Racha earthquake
+|date= {{Start-date|29 April 1991}}
+|map2 = {{Location map | Georgia
+ | label=
+ | lat=42.453
+ | long=43.673
+ | mark=Bullseye1.png
+ | marksize=40
+ | position=top
+ | width= 250
+ | float=right
+ | caption=
+ | relief=yes}}
+|magnitude =7.0 Moment magnitude scale|M<sub>w</sub>
+|depth=17 km
+|countries affected = Georgia (country)|Georgia
+|location={{coord|42.453|43.673|display=inline,title}}
+|tsunami = 
+|casualties =270
+}}
+The '''1991 Racha earthquake''' occurred in the province of Racha, Georgia (country)|Georgia, at 9:12 Coordinated universal time|UTC on 29 April. Centered on the districts of Oni, Georgia|Oni and Ambrolauri on the southern foothills of the Greater Caucasus mountains, it killed 270, left approximately 100,000 homeless and caused severe damage, including to several medieval monuments. It had a magnitude of 7.0 and was the most powerful earthquake recorded in the Caucasus.
+
+==Tectonic setting==
+Georgia lies between the two mountain chains of the Greater Caucasus in the north and the Lesser Caucasus in the south. These two sets of mountains have both resulted from the continuing effects of the Continental collision|collision between the Arabian Plate and the Eurasian Plate. The Greater Caucasus consists of a southward-directed fold and thrust belt that has been active since the Oligocene. Racha lies close to the southern margin of this thrust belt and the earthquake is interpreted to be caused by rupture of the active thrust front.
+
+==Damage==
+File:1991 Racha intensity.jpg|thumb|250px|USGS Shake map for the earthquake
+The earthquake affected 700 villages and settlements, destroying 46,000 houses and making 100,000 people homeless. The number of casualties was reduced because most of the inhabitants were working in the fields at the time of the earthquake, 13:13 local time. Many important historical monuments were badly damaged, particularly the Archangel Church near Zemo Krikhi and the Mravaldzali church, which were completely destroyed.
+
+Much of the damage associated with the earthquake was caused by landslides triggered by the shaking, rather than the shaking itself. The most common type were rock falls, followed by debris slides, slumps, earth slides, rock-block slides and rock avalanches. The most destructive was a large debris avalanche, which destroyed the village of Khokheti, killing 50 of the inhabitants. A large mass of Jurassic volcanic rock fell onto water-saturated alluvium, combining to form the debris avalanche. The debris avalanche, which had an estimated volume of over 30 x 10<sup>6</sup> m<sup>3</sup>, swept down a valley through Khokheti, blocking the Gebura River, forming a 100 m high dam, that breached soon afterwards, causing more destruction. Two of the earth slides showed a delayed movement, with most displacement occurring a few days after the main shock. The Chordi landslide was active before the earthquake and showed only minor movement at the time of the main shock. Two to three days later, the slide started to move at about 8 m per day, destroying the village of Chordi. On 18 May, the slide was still moving at 2 m per day. This slide moved on claystone of the Maikop Formation and had a total volume of about 20 x 10<sup>6</sup> m<sup>3</sup>.
+
+The large aftershock on 15 June caused extensive damage in the Java, Georgia|Java to Tskhinvali area. At least 8 people were killed and 200 injured. However, due to a protest rally by the local people, dozens, but not hundreds were killed. The village of Khakhet was destroyed.
+
+==Characteristics==
+The earthquake had a moment magnitude scale|magnitude of 7.0. A maximum intensity of 9 on the Medvedev-Sponheuer-Karnik scale|MSK scale was observed. The calculated focal mechanism showed that the earthquake was a result of low-angle reverse faulting on a fault plane dipping at about 35° to the north-northeast. This was confirmed from the distribution of aftershocks, which defined a clear plane of this orientation. Analysis of the detailed velocity structure around the rupture zone suggested that it coincided with a marked change in seismic velocity, consistent with it representing the interface between Mesozoic sediments and the underlying crystalline basement. The 1500 m high Racha Ridge is thought to have been uplifted by repeated earthquakes of this type.
+
+The mainshock was followed by a complex series of aftershocks extending over several months, which caused further damage and casualties The largest of the aftershocks, which consisted of two events about 2 seconds apart, had a magnitude of M<sub>s</sub> = 6.5 and occurred on 15 June with an epicenter near Java.
+
+==Aftermath==
+The ongoing Georgian-Ossetian conflict complicated the rescue effort.
+
+== References ==
+{{Reflist}}
+
+{{Earthquakes in 1991}}
+
+{{DEFAULTSORT:1991 Racha Earthquake}}
+Category:Earthquakes in Georgia (country)|1991 Racha earthquake
+Category:1991 earthquakes|Racha earthquake
+Category:1991 in Georgia (country)|Racha
+Category:1991 in the Soviet Union|Racha earthquake
+Category:Earthquakes in the Soviet Union|1991 Racha
+Category:Geology of Georgia (country)
+Category:Racha

@@ -1,0 +1,73 @@
+{{Infobox earthquake
+|title = 2004 Al Hoceima earthquake
+|image = <!-- USGS Shakemap - 2004 Al Hoceima earthquake.jpg --> 
+|imagecaption = USGS ShakeMap for the 2004 Al Hoceima earthquake
+|date = {{Start date|2004|2|24|df=y}}
+|origintime = 2:27 UTC 
+|map2 = {{Location map+ | Morocco
+|places=
+{{Location map~|Morocco|lat=30.43|long=-9.6|label=Agadir|label_size=100|position=left|mark=Green pog.svg}}
+{{Location map~|Morocco|lat=35.25|long=-3.93|label=Al Hoceima|label_size=100|position=left|mark=Green pog.svg}}
+{{Location map~|Morocco|lat=35.25|long=-3.933|mark=Bullseye1.png|marksize=40}}
+|relief = yes
+|label =
+|lat = 35.25
+|long = -3.933
+|mark = Bullseye1.png
+|marksize = 40
+|position = top
+|width= 250
+|float = right
+|caption = }}
+|magnitude = 6.4 Moment magnitude scale|M<sub>w</sub> 
+|intensity = IX (''Violent'')
+|pga = 0.24 ''peak ground acceleration|g''
+|depth = {{convert|5.5|km|mi|abbr=on}} 
+|location = {{coord|35.25|-3.933|display=inline, title}}
+|countries affected = Morocco
+|casualties = 629 dead  <br> 926 injured
+}}
+
+The '''2004 Al Hoceima earthquake''' occurred on 24 February near the coast of northern Morocco. The earthquake registered 6.4 on the moment magnitude scale and had a maximum perceived intensity of IX (''Violent'') on the Mercalli Intensity Scale. At least 629 people were killed, 926 injured, 2,539 homes destroyed and more than 15,000 people were made homeless in the Al Hoceima-Imzourene-Beni Abdallah area. 
+
+== Earthquake ==
+
+The moment tensors and pattern of surface cracks indicate left-lateral strike-slip faulting on a buried NE-SW trending fault.
+
+This quake occurred near the epicenter of the magnitude 6.0 Al Hoceima earthquake of May 26, 1994, that injured one person and caused significant damage to adobe buildings.
+
+=== Damage ===
+{{see also|1960 Agadir earthquake|2003 Boumerdès earthquake}}
+
+Ground cracks and landslides were observed between Ajdir and Beni Abdallah and maximum peak ground acceleration of 0.24g was recorded near Imzourene.
+
+=== Aftershocks ===
+Several aftershocks killed at least three people and destroyed previously weakened buildings. This earthquake occurred near the eastern end of the Rif mountain belt, which is part of the diffuse boundary between the African and Eurasian plates.
+
+== References ==
+{{Reflist|refs=
+
+}}
+
+;Sources
+{{refbegin}}
+* {{citation|title=The 1994–2004 Al Hoceima (Morocco) earthquake sequence: Conjugate fault ruptures deduced from InSAR|url=http://web.itu.edu.tr/~cakirz/papers/akoglu_etal_EPSL_2006.pdf|first=A. M.|last=Akoglu|first2=Z.|last2=Cakir|first3=M.|last3=Meghraoui|first4=S.|last4=Belabbes|first5=S. O.|last5=El Alami|first6=S.|last6=Ergintav|first7=H. Serdar|last7=Akyüz|year=2006|journal=Earth and Planetary Science Letters|publisher=Elsevier|volume=252|pages=467–480|doi=10.1016/j.epsl.2006.10.010}}
+* {{citation|title=Source analysis of the Mw 6.3 2004 Al Hoceima earthquake (Morocco) using regional apparent source time functions|url=http://www.ugr.es/~florlis/publicaciones/alhuceimas.pdf|first=D.|last=Stich|first2=F.|last2=de Lis Mancilla|first3=D.|last3=Baumont|first4=J.|last4=Morales|year=2005|journal=Journal of Geophysical Research|publisher=American Geophysical Union |volume=110||number=B06306|pages=1-13|doi=10.1029/2004jb003366}}
+{{refend}}
+
+==External links==
+* ftp://hazards.cr.usgs.gov/maps/sigeqs/20040224/20040224.pdf M6.4 Al Hoceima, Morocco Earthquake of 24 February 2004 – United States Geological Survey|USGS
+* http://earth.esa.int/fringe2005/proceedings/presentations/257_biggs.pdf Buried Strike Slip Faults: The 1994 and 2004 Al Hoceima, Morocco Earthquakes
+* http://www.iris.edu/workshops/2013/assets/pdf/network_reports/el_fellah.pdf Moroccan Seismic Network: Overview – IRIS Consortium
+* http://elsa.jrc.ec.europa.eu/eurocodes2006/pdf/pres240.pdf The seismic design code for buildings: A priority for seismic risk reduction in Morocco
+* https://www.eeri.org/lfe/pdf/morocco_alhoceima_eeri_preliminary_report.pdf Preliminary Observations on the Al Hoceima, Morocco, Earthquake of February 24, 2004 – Earthquake Engineering Research Institute|EERI
+
+{{Earthquakes in 2004}}
+
+Category:2004 earthquakes|Al Hoceima
+Category:2004 in Morocco|Earthquake
+Category:Earthquakes in Morocco
+
+{{Morocco-stub}}
+{{Plazadesoberanía-stub}}
+{{earthquake-stub}}

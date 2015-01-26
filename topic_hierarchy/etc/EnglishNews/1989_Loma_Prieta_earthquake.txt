@@ -1,0 +1,177 @@
+{{Use mdy dates|date=February 2012}}
+{{Earthquake
+|title=1989 Loma Prieta earthquake
+|image=Cypress structure.jpeg
+|image alt=Image of collapsed double-decker freeway structure in Oakland, California
+|date={{Start-date|October 17, 1989|October 17, 1989}}
+|map=1989 Loma Prieta Shake Map.jpg
+|duration=15 seconds
+|map alt=A map showing the earthquake's epicenter in California's Santa Cruz Mountains, and the various levels of earthquake shaking intensity felt in the surrounding region.
+|magnitude=6.9 Moment magnitude scale|M<sub>w</sub>
+|depth={{convert|11|mi|km|0}}
+|location={{Coord|37.040|N|121.877|W|format=dms|region:US-CA_scale:50000_type:event|display=inline,title}}
+|countries affected=United States <br /> (San Francisco Bay Area), (Santa Cruz County, California)
+|intensity = Mostly Mercalli intensity scale|V (strongly felt) to VII (light damage), with localized areas experiencing IX (heavy damage) to X (extreme damage)
+|casualties=63 killed, 3,757 injured
+}}
+
+The '''Loma Prieta earthquake''', also known as the '''Quake of '89''' and the '''World Series Earthquake''', The quake killed 63 people throughout Northern California, people homeless.
+
+The earthquake occurred during the warm-up practice for the third game of the 1989 World Series, featuring both of the Bay Area's Major League Baseball teams, the 1989 Oakland Athletics season|Oakland Athletics and the 1989 San Francisco Giants season|San Francisco Giants. Because of game-related sports coverage, this was the first major earthquake in the United States to have its initial jolt broadcast live on television.
+
+==Epicenter==
+The epicenter of the earthquake was in the Forest of Nisene Marks State Park in Santa Cruz County, California|Santa Cruz County, in a sparsely populated area of the Santa Cruz Mountains (geographical coordinates {{Coord|37.040|-121.877|type:event}}), The quake was named for the nearby Loma Prieta Peak which lies {{convert|5|mi|km|0|abbr=on}} to the northeast in Santa Clara County, California|Santa Clara County.
+
+==Injuries and fatalities==
+File:Loma Prieta EarthquakeDEB.JPG|left|thumb|Seismograph reading from about {{convert|150|mi}} away in Columbia, California
+
+Fifty-seven of the deaths were directly caused by the earthquake; six further fatalities were ruled to have been caused indirectly. occurred in Oakland because of the Cypress Street Viaduct collapse on the Nimitz Freeway (Interstate 880), where the upper level of a double-deck portion of the freeway collapsed, crushing the cars on the lower deck. One {{convert|50|ft|m|0|adj=on}} section of the San Francisco – Oakland Bay Bridge also collapsed, leading to a single fatality, a 23-year-old woman named Anamafi Moala.  Three people were killed in the collapse of buildings along the Pacific Garden Mall in Santa Cruz, and five people were killed in the collapse of a brick wall on Bluxome Street in San Francisco.
+
+When the earthquake hit, the third game of the 1989 World Series baseball championship was just beginning. Because of the unusual circumstance that both of the World Series teams (the San Francisco Giants and Oakland Athletics) were based in the affected area, many people had left work early or were staying late to participate in after work group viewings and parties. As a consequence the normally crowded freeways contained unusually light traffic. If traffic had been normal for a Tuesday rush hour, injuries and deaths would certainly have been higher. The initial media reports failed to take into account the game's effect on traffic and initially estimated the death toll at 300, a number that was corrected to 63 in the days after the earthquake.
+
+==Damage==
+Image:LomaPrieta-SOMA.jpeg|right|thumb|Five people were killed on Sixth Street between Bluxome and Townsend in San Francisco as a brick facade collapsed onto the sidewalk and street.
+The earthquake caused severe damage in some very specific locations in the San Francisco Bay Area, most notably on unstable soil in San Francisco and Oakland, California|Oakland.  Oakland City Hall was evacuated after the earthquake until US$80M seismic retrofit and hazard abatement work was completed in 1995.
+
+In Santa Cruz, California|Santa Cruz, close to the epicenter, 40 buildings collapsed, killing six people. The Ford's department store in Watsonville experienced significant damage, including a crack down the front of the building. In the Old Town historical district of the city of Salinas, unreinforced masonry buildings were partially destroyed.
+
+An estimated 1.4 million people lost power following the quake, mainly due to damaged electrical substations. while KGO (AM)|KGO-AM was off the air for about 40 minutes.  KCBS later won a Peabody Award for their news coverage, as did KGO-TV.
+
+The quake caused an estimated $6 billion
+
+===Marina District===
+Image:LomaPrieta-Marina.jpeg|thumb|A building in the Marina District, San Francisco|Marina District at Beach and Divisadero settled onto its buckled garage supports.
+Four people died in San Francisco's Marina District, four buildings were destroyed by fire, and seven buildings collapsed. Another 63 damaged structures were judged too dangerous to live in. Among the four deaths, one family lost their infant son who choked on dust while trapped for an hour inside their collapsed apartment.
+
+The Marina district was built on a landfill made of a mixture of sand, dirt, rubble, waste and other materials containing a high percentage of groundwater. Some of the fill was rubble dumped into San Francisco Bay after the 1906 San Francisco earthquake, but most was sand and debris laid down in preparation for the Panama-Pacific International Exposition (1915)|1915 Panama-Pacific International Exposition, a celebration of San Francisco's ability to rebound after its terrible catastrophe in 1906.
+
+Image:LomaPrieta-Marina-crushed-car.jpeg|left|thumb|A Ford Tempo#Second generation|Ford Tempo crushed by the third floor of a collapsed apartment building
+At the intersection of Beach and Divisadero Streets in San Francisco, a natural gas main rupture caused a major structure fire. water from the bay was pumped by the fireboat ''Phoenix (fireboat)|Phoenix'', to engines on the shore, and from there sprayed on the fire. The apartment structures that collapsed were older buildings that included ground floor garages, which engineers refer to as a soft story building.
+
+===Santa Cruz and Monterey counties===
+Image:LomaPrieta-PacificGardenMall.jpeg|right|thumb|Santa Cruz's historic Pacific Garden Mall suffered severe damage—three died.
+In Santa Cruz, the Pacific Garden Mall was severely damaged, with falling debris killing three people, half of the six earthquake deaths in the Santa Cruz and Monterey Counties. The four oldest were built in 1894, the five oldest withstood the 1906 San Francisco earthquake.
+
+Immediately, a number of civilians began to free victims from the rubble of Ford's Department Store and the Santa Cruz Coffee Roasting Company — both buildings had collapsed inward on customers and employees alike. The civilians who were helpful initially,  were soon viewed by police and fire officials as a hindrance to operations, with frantic coworkers and friends of a coffee house employee thought to be trapped under the rubble continuing their efforts in the dark. Police arrested those who refused to stop searching. This became a political issue in the following days. The body of a young woman coffee worker was found under a collapsed wall late the next day.
+
+During the first few days following the quake, electric power to most Santa Cruz county subscribers was out, and some areas had no water. Limited phone service remained online, providing a crucial link to rescue workers. Widespread search operations were organized to find possible victims inside the remains of fallen structures. As many as six teams of dogs and their handlers were at work identifying the large number of damaged buildings that held no victims.
+
+The quake claimed one life in Watsonville, California|Watsonville; In other Santa Cruz and Monterey county locations such as Boulder Creek, California|Boulder Creek and Moss Landing, California|Moss Landing, a number of structures were damaged, with some knocked off of their foundations.
+
+===San Francisco – Oakland Bay Bridge===
+Image:Bay Bridge collapse.jpg|upright|thumb|Collapsed upper deck section of the San Francisco–Oakland Bay Bridge
+The San Francisco–Oakland Bay Bridge suffered relatively minor damage, as a {{convert|76|x|50|ft|m|0|adj=on}} section of the upper deck on the eastern cantilever side fell onto the deck below. The quake caused the Oakland side of the bridge to shift {{convert|7|in|cm|0|abbr=on}} to the east, and caused the bolts of one section to shear off, sending the {{convert|250|ST|MT|-1|adj=on}} section of roadbed crashing down like a trapdoor. One of these drivers did not see the open gap in time; the car plunged over the edge and smashed onto the collapsed roadbed. The driver Anamafi Moala died, and the passenger was seriously injured.
+
+===Oakland and Interstate 880/Cypress Viaduct===
+Image:Cypress collapsed.jpg|right|thumb|250px|Collapse of the Cypress Street Viaduct.
+Image:022srUSGSCyprusVia.jpg|left|thumb|Failed support columns and collapsed upper deck of the Cypress Street Viaduct
+The worst disaster of the earthquake was the collapse of the two-level Cypress Street Viaduct of Interstate 880 in West Oakland, Oakland, California|West Oakland. The failure of a {{convert|1.25|mi|km|1|adj=on}} section
+
+Built in the late 1950s, the Cypress Street Viaduct, a stretch of Interstate 880, was a double-deck freeway section made of nonductile reinforced concrete When the earthquake hit, the shaking was amplified on the former marshland, and soil liquefaction occurred.
+
+Image:LomaPrieta-CypressStructure-failed-column.jpeg|left|thumb|upright|Because of improper rebar placement, the columns broke with ease, sending the structure down.
+During the earthquake, the freeway buckled and twisted to its limits before the support columns failed and sent the upper deck crashing to the lower deck. In an instant, 41 people were crushed to death in their cars. Cars on the upper deck were tossed around violently, some of them flipped sideways and some of them were left dangling at the edge of the highway. Nearby residents and factory workers came to the rescue, climbing onto the wreckage with ladders and forklifts Employees from Pacific Pipe (a now-closed factory adjoining the freeway) drove heavy lift equipment to the scene and started using it to raise sections of fallen freeway enough to allow further rescue. Hard-hatted factory workers continued their volunteer operation without stopping night and day until October 21, 1989, when they were forced to pause as U.S. President George H. W. Bush and California Governor George Deukmejian viewed the damage. The stubborn efforts of the rescue workers were rewarded just after dawn on October 21 when survivor Buck Helm was freed from the wreckage, having spent 90 hours trapped in his crushed car under the rubble. Dubbed "Lucky Buck" by the local radio, Helm lived for another 29 days on life support, but finally succumbed to respiratory failure at the age of 57.
+
+Rebuilding the freeway took 11 years. Instead of rebuilding Interstate 880 over the same ground, Caltrans rerouted the freeway further west around the outskirts of West Oakland to provide better access to the Port of Oakland and the San Francisco – Oakland Bay Bridge, and to meet community desires to keep the freeway from cutting through residential areas.
+
+==1989 World Series==
+{{Main|1989 World Series}}
+Among the most notable aspects of the Loma Prieta earthquake is that it was one of only a few times that the onset of an earthquake of such magnitude has occurred during a live network television broadcast, and as a result, the first moments of the earthquake were seen around the world as it happened. The Series was being televised that year by U.S. network Major League Baseball on ABC|ABC. At the moment the quake struck, sportscaster Tim McCarver was narrating taped highlights of the previous Series game. Viewers saw the video signal begin to break up, heard McCarver repeat a sentence as the shaking distracted him, and heard McCarver's colleague Al Michaels exclaim, "I'll tell you what—we're having an earth—."
+
+The network put up a green ABC Sports graphic as the audio was switched to a telephone link. Michaels cracked, "Well folks, that's the greatest open in the history of television, bar none!" accompanied by the excited screams of fans who had no idea of the devastation elsewhere. The Goodyear blimp was aloft above the ballpark to provide aerial coverage of the World Series. Blimp pilot John Crayton reported that he felt four bumps during the quake.
+
+Inside Candlestick Park, fewer than half of the more than 62,000 fans on the upper deck concrete windscreen. Fans reported that the stadium moved in an articulated manner as the earthquake wave passed through it, that the light standards swayed by many feet, and that the concrete upper deck windscreen moved in a wave-like manner over a distance of several feet. Electrical power to the stadium was lost, forcing the game to be postponed. The series did not resume for 10 days. and friends from the stands before evacuating the facility.
+
+Because of the importance of the World Series as a national sporting event, many members of local, regional, and national broadcast media were in attendance, and later broadcast their observations of the aftermath of the earthquake to viewers around the world.
+
+Major League Baseball on CBS Radio|CBS Radio Sports broadcast the 1989 World Series nationally with commentators Jack Buck, Johnny Bench, and John Rooney (sportscaster)|John Rooney. Unlike the television coverage on ABC, CBS Radio was in a commercial break when the earthquake struck. After the earthquake hit, Jack Buck told the listening audience, "I must say about Johnny Bench, folks, if he moved that fast when he played, he would have never hit into a double play. I never saw anybody move that fast in my life."
+
+==Effects on transportation==
+Immediately following the earthquake, San Francisco Bay Area airports closed to conduct visual inspection and damage assessment procedures. San Jose International Airport, Oakland Airport repair costs were assessed at $30 million.
+
+San Francisco Municipal Railway (Muni) lost all power to electric transit systems when the quake hit, but otherwise suffered little damage and no injuries to operators or riders. After 78 hours, 96 percent of Muni services were back in operation, including the cable cars.
+
+The earthquake changed the Bay Area's automobile transportation landscape. Not only did the quake force seismic retrofitting of all San Francisco Bay Area bridges, it caused enough damage that some parts of the region's freeway system had to be demolished.
+* '''San Francisco – Oakland Bay Bridge, Interstate 80 (California)|Interstate 80''': The Bay Bridge was repaired and reopened to traffic in a month. However, the earthquake made it clear that the Bay Bridge, like many of California's toll bridges, required major repair or replacement for long-term viability and safety. Construction on a Eastern span replacement of the San Francisco – Oakland Bay Bridge|replacement for the eastern span began on January 29, 2002. The project was completed on September 2, 2013.
+* '''Cypress Street Viaduct/Nimitz Freeway, Interstate 880''': The double-decked Cypress Street Viaduct, Interstate 880 was demolished soon after the earthquake, and was not rebuilt until July 1997. The rebuilt highway was a single- rather than double-deck structure, and was re-routed around the outskirts of West Oakland, rather than bisecting it, as the Cypress Street Viaduct had done. The former route of the Cypress Street Viaduct was reopened as the ground-level Mandela Parkway.
+* '''Embarcadero Freeway, California State Route 480|State Route 480''': Earthquake damage forced the closure and demolition of San Francisco's incomplete and controversial Embarcadero Freeway (State Route 480). This removal opened up San Francisco's Embarcadero, San Francisco|Embarcadero area to new development. The elevated structure, which ran along San Francisco's waterfront, was later demolished and replaced with a ground-level boulevard.
+* '''Southern Freeway, Interstate 280 (California)|Interstate 280''': Seismic damage also forced the long-term closure of Interstate 280 in San Francisco (north of US 101), another concrete freeway which had never been completed to its originally planned route. The uncompleted northernmost stub of I-280 was demolished during August–October 1995 while one connecting ramp between northbound I-280 and southbound US 101 was opened in December 1995. The full I-280 project was completed in late 1997.
+* '''Central Freeway, U.S. Highway 101 (California)|U.S. Highway 101''': San Francisco's Central Freeway (part of US 101 and a key link to the Bay Bridge Flyover (overpass)|flyover) was another concrete double-deck structure which faced demolition because of safety concerns. Originally terminating at Franklin Street and Golden Gate Avenue near San Francisco's Civic Center, the section past Fell Street was demolished first, then later the section between Mission and Fell Streets. The section from Mission Street to Market Street was rebuilt (completed September 2005) as a single-deck elevated freeway, touching down at Market Street and feeding into Octavia Boulevard, a ground-level urban parkway carrying traffic to and from the major San Francisco traffic arterials that the old elevated freeway used to connect to directly, including Fell and Oak Streets (which serve the city's western neighborhoods) and Franklin and Gough Streets (which serve northern neighborhoods and the Golden Gate Bridge).
+* '''California State Route 17|State Route 17''': The mountain highway was closed for about one month because of a landslide. The route crosses the San Andreas Fault in the Santa Cruz Mountains, near the earthquake's epicenter.
+Image:LomaPrieta-Hwy1.jpeg|thumb|State Route 1 collapsed in western Watsonville over Struve Slough.
+* '''California State Route 1|State Route 1''': In Watsonville, the Struve Slough Bridge collapsed, with concrete/steel support columns punching through the bridge deck like toothpicks. The highway was closed for several months until it could be demolished and rebuilt. Another section of Highway 1 through Monterey suffered damage and had to be rebuilt as well. Additionally, the bridge carrying Highway 1 over the Salinas River (California)|Salinas River near Fort Ord was damaged and subsequently rebuilt.
+* '''Bay Area Rapid Transit''': The BART rail system, which hauled commuters between the East Bay and San Francisco via the Transbay Tube, was virtually undamaged and only closed for post-earthquake inspection. With the Bay Bridge closed because of its damage, the Transbay Tube became the quickest way into San Francisco via Oakland for a month, and ridership increased in the three work weeks following the earthquake, going from 218,000 riders per average weekday to more than 330,000 post-quake, a 50 percent increase. BART instituted round-the-clock train service until December 3 when they returned to their normal schedule.
+* '''Amtrak''': Historic 16th Street Station in downtown Oakland suffered significant damage and was rendered structurally unsound. Amtrak would shift its Oakland operations to new station in Emeryville (Amtrak station)|Emeryville.
+* '''Transbay Ferry|Ferries''': Ferry service between San Francisco and Oakland, which had ended decades before, was revived during the month-long closure of the Bay Bridge as an alternative to the overcrowded BART. A ferry terminal was put together in Alameda, California|Alameda, and the United States Army Corps of Engineers|U.S. Army Corps of Engineers dredged a suitable ferry dock at the Berkeley Marina. Additionally, the demolition of the quake-damaged Embarcadero Freeway led to the San Francisco Ferry Building|Ferry Building Terminal renovation, increasing the efficiency of ferry service to the peninsula. The passenger-only service proved popular and continues to expand its service.
+
+==Science of the earthquake==
+
+===Data on magnetic disturbances===
+After the 1989 Loma Prieta earthquake occurred, a group led by Antony C. Fraser-Smith of Stanford University reported that the event was preceded by disturbances in background magnetic field noise as measured by a sensor placed in Corralitos, California, about {{convert|4.5|mi|0}} from the epicenter. Though this pattern gave scientists new ideas for research into potential Precursor (physics)|precursors to earthquakes, and the Fraser-Smith et al. report remains one of the most frequently cited examples of a specific earthquake precursor, more recent studies have cast doubt on the connection, attributing the Corralitos signals to either unrelated magnetic disturbance or, even more simply, to sensor-system malfunction.
+
+Image:St.Joseph'sSeminary Los Altos USGS.jpg|thumb|One person died when a five-story tower collapsed at St. Joseph's Seminary in Santa Clara County.
+
+==In popular culture==
+* The events in the ''Full House'' episode, Full House episodes (Season 3)|"Aftershocks" (December 8, 1989), took place following the Loma Prieta earthquake; it centered on Stephanie Tanner having a hard time telling her father Danny about how she fears another aftershock might happen and kill him, since he is a widowed single father, as well as other members of the family.
+* ''After The Shock'' (1990), a made-for-TV movie with stories of rescue after the disaster.
+* ''Miracle on Interstate 880'' (1993), a TV movie fictionalization and re-enactment of events at the collapsed Cypress Structure.
+* ''Journeyman (TV series)|Journeyman'' (2007), TV show on NBC in which the main character travels back in time to save a person who died during the earthquake. Occurs in third episode, "Game Three," in reference to the 1989 World Series.
+* ''Midnight Caller'' (1990), TV show set in San Francisco in the aftermath of the earthquake. In the show, a caller jokes about Candlestick Park being renamed "Wiggly Field". 
+* ''Medium (TV series)|Medium'' (2005), TV show on NBC in which a character uses her coincidental presence in Oakland during the earthquake as an opportunity to fake her own death and disappear. Occurs in the episode "Sweet Dreams".
+* ''Fringe (TV series)|Fringe'' (2008), TV show on FOX in which a character's parents were killed in the Oakland Bay Bridge collapse, while The Observer (Fringe)|the Observer was watching her and her parents. Occurs in the episode "August (Fringe)|August". In a later episode ("Amber 31422", November 4, 2010), the alternate Walter Bishop (Fringe)|Walter Bishop refers to October 17, 1989, as the first time he used his amber-based protocol to heal breaches between the two universes.
+* The Grateful Dead performed the Rodney Crowell song "California Earthquake" at their concert in Philadelphia, Pennsylvania, on October 20, 1989, then again three nights later in Charlotte, North Carolina—the only times the band ever performed the song. On December 6, 1989, the band played an earthquake benefit concert at the Oakland-Alameda County Coliseum Arena.
+* Grand Theft Auto: San Andreas (2004 video game by Rockstar Games) takes place in 1992, and the fictional city of San Fierro (based on San Francisco) has a few areas that have been destroyed by the earthquake that took place 3 years before the game took place.
+* Hardcore punk band Loma Prieta takes their name from the earthquake.
+The Danielle Steel novel "Amazing Grace" begins on the day of the earthquake at a charity benefit. It follows four characters affected by the earthquake including a nun, a wife who discovers her husband is unable to mitigate his underhand business dealing in time to save himself and a friend from fraud charges, a photo-journalist who attends AA meetings, and a pop star dominated by a mother reliving her own dreams through her daughter.
+
+==See also==
+{{Portal|San Francisco Bay Area|Disasters}}
+*1994 Northridge earthquake
+*Earthquake engineering
+*List of earthquakes in California
+*List of earthquakes and tsunamis in the United States|List of earthquakes in the United States
+{{-}}
+
+==References==
+;Notes
+{{Reflist|colwidth=30em}}
+
+;Bibliography
+* Fradkin, Philip L. ''Magnitude 8: Earthquakes and Life Along the San Andreas Fault'', University of California Press, 1999. ISBN 0-520-22119-2
+* Gunn, Angus M. ''Encyclopedia of Disasters: Environmental Catastrophes and Human Tragedies'', Greenwood Publishing Group, 2007. ISBN 0-313-34002-1
+* Palm, Risa; Michael E. Hodgson. ''After a California Earthquake: Attitude and Behavior Change'', University Of Chicago Press, 1992. ISBN 0-226-64499-5
+
+=== Seismology ===
+{{Commons category|Loma Prieta earthquake}}
+* http://earthquake.usgs.gov/regional/nca/1989/ USGS: Loma Prieta Earthquake
+* http://www.agu.org/pubs/crossref/2008/2007JB005265.shtml/ Coseismic sediment deformation during the 1989 Loma Prieta earthquake
+
+==External links==
+* {{Internet Archive film clip|id=gov.archives.arc.951729|description="Loma Prieta Earthquake, ca. 1989"}}
+* http://www.wmsb.net/1989earthquake2009.html Reflections 20 Years Later in Loma Prieta
+
+{{Navboxes|list1=
+{{Major League Baseball on ABC}}
+{{Major League Baseball on CBS Radio}}
+{{World Series}}
+{{Oakland Athletics}}
+{{San Francisco Giants}}
+{{Earthquakes in 1989}}
+{{Significant earthquakes in California}}
+}}
+
+{{DEFAULTSORT:Loma Prieta Earthquake}}
+Category:1989 earthquakes|Loma Prieta Earthquake, 1989
+Category:1989 Major League Baseball season
+Category:ABC Sports
+Category:Earthquakes in California
+Category:History of Oakland, California
+Category:History of San Francisco, California
+Category:History of the San Francisco Bay Area
+Category:History of the United States (1980–91)
+Category:Oakland Athletics postseason
+Category:San Francisco Giants postseason
+Category:World Series games
+Category:1989 in California
+Category:20th century in San Francisco, California
+Category:20th century in Oakland, California

@@ -1,0 +1,43 @@
+{{Use dmy dates|date=June 2013}}
+{{Earthquake
+|title= 1930 Irpinia earthquake
+|image=Bundesarchiv Bild 102-10191, Italien, Erdbeben-Katastrophe.jpg
+|date= {{Start-date|df=yes|3 July 1930}}
+|map2 = {{Location map | Italy
+ | label=
+ | lat=41.05
+ | long=15.367
+ | mark=Bullseye1.png
+ | marksize=40
+ | position=top
+ | width= 250
+ | float=right
+ | caption=
+ | relief=yes}}
+|magnitude = 6.6 Surface wave magnitude|M<sub>s</sub>
+|depth=
+|location={{Coord|41.05|15.367|display=inline,title|type:event}}
+|countries affected = Italy, Basilicata
+|tsunami =
+|casualties = 1,404
+}}
+The '''1930 Irpinia earthquake''' occurred at 00:08 UTC on 23 July 1930. It had a Surface wave magnitude|magnitude of 6.6 and caused 1,404 deaths. The epicenter was close to the borders between the regions of Basilicata, Puglia and Campania.
+
+==Tectonic setting==
+The central and southern part of the Apennine Mountains|Apennines has been characterised by extensional tectonics since the Pliocene Epoch (geology)|epoch (i.e. about the last 5 million years), with most of the active faults being normal in type and NW-SE trending.  The extension is due to the back-arc basin in the Tyrrhenian Sea opening faster than the African Plate is Continental collision|colliding with the Eurasian Plate. To the northeast of the Apennine chain, the foreland is in contrast affected by W-E trending strike-slip to oblique-slip faults.
+
+==Damage==
+The area affected was about 6,300&nbsp;km<sup>2</sup>, between the Garigliano River, the Crathis valley, and the Biferno and Murgia areas, including parts of high Irpinia, the Vulture area|Vulture, Sannio Hills|Sannio, Salerno, Naples, the province of Matera and high Puglia. In the most damaged areas, about 70% of the houses were completely destroyed, made worse by the poor quality of the buildings. The death toll was 1,404, with 75% of the victims being in the province of Avellino. The death toll was low considering the level of damage, a fact explained by the number of villagers who were sleeping in the fields during the wheat harvest.
+
+==Characteristics==
+The main shock was preceded by two foreshocks a few hours earlier and followed by 16 aftershocks within the first 24 hours.
+The greatest Seismic scales#Seismic intensity scales|intensity of X (very destructive) on the European Macroseismic Scale was recorded at Aquilonia, Italy|Aquilonia Vecchia, Lacedonia and Villanova del Battista. Intensities of IX (destructive) were recorded at Anzano di Puglia|Anzano degli Irpini, Scampitella, Castel Baronia, Melfi, Montecalvo Sant'Antonio and Trevico.
+The area of maximum intensity is elongated in a roughly W-E direction. Analysis of historical seismograph recordings suggest that the earthquake originated from a north-dipping fault plane striking N100°E.
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:1930 Irpinia Earthquake}}
+Category:Earthquakes in Italy|1930 Irpinia
+Category:1930 earthquakes|Irpinia Earthquake, 1930
+Category:1930 in Italy|Irpinia Earthquake, 1930

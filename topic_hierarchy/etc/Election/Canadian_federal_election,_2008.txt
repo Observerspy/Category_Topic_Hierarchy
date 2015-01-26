@@ -1,0 +1,1676 @@
+{{Use mdy dates|date=May 2011}}
+{{Infobox election
+| election_name      = Canadian federal election, 2008
+| country            = Canada
+| type               = parliamentary
+| party_colour       = no
+| party_name         = no
+| previous_election  = Canadian federal election, 2006
+| previous_year      = 2006
+| previous_MPs       = List of House members of the 39th Parliament of Canada
+| next_election      = Canadian federal election, 2011
+| next_MPs           = List of House members of the 41st Parliament of Canada
+| next_year          = 2011
+| elected_mps        = [[List of House members of the 40th Parliament of Canada|members]]
+| seats_for_election = [[List of Canadian federal electoral districts|308 seats]] in the [[House of Commons of Canada]] <br> 155 seats were needed for a majority
+| election_date      = {{start date|2008|10|14}}
+| opinion_polls      = Opinion polling in the Canadian federal election, 2008
+| turnout            = 58.8%
+| image1             = [[File:Stephen Harper by Remy Steinegger Infobox.jpg|150x150px]]
+| colour1            = {{Canadian party colour|CA|Conservative|nohash}}
+| leader1            = [[Stephen Harper]]
+| leader_since1      = [[Conservative Party of Canada leadership election, 2004|March 20, 2004]]
+| party1             = {{Canadian party colour|CA|Conservative|name}}
+| leaders_seat1      = [[Calgary Southwest]]
+| last_election1     = 124 seats, 36.27%
+| seats_before1      = 127
+| seats1             = 143
+| seat_change1       = +16
+| popular_vote1      = 5,209,069
+| percentage1        = 37.65%
+| swing1             = +1.38[[percentage points|pp]]
+| image2             = [[File:Stéphane Dion.jpg|150x150px]]
+| colour2            = {{Canadian party colour|CA|Liberal|nohash}}
+| leader2            = [[Stéphane Dion]]
+| leader_since2      = [[Liberal Party of Canada leadership election, 2006|December 2, 2006]]
+| party2             = {{Canadian party colour|CA|Liberal|name}}
+| leaders_seat2      = [[Saint-Laurent—Cartierville]]
+| last_election2     = 103 seats, 30.23%
+| seats_before2      = 95
+| seats2             = 77
+| seat_change2       = -18
+| popular_vote2      = 3,633,185
+| percentage2        = 26.26%
+| swing2             = -3.97[[percentage points|pp]]
+| image3             = [[Image:Gilles Duceppe2.jpg|150x150px]]
+| colour3            = {{Canadian party colour|CA|BQ|nohash}}
+| leader3            = [[Gilles Duceppe]]
+| leader_since3      = [[Bloc Québécois leadership election, 1997|March 15, 1997]]
+| party3             = {{Canadian party colour|CA|BQ|name}}
+| leaders_seat3      = [[Laurier—Sainte-Marie]]
+| last_election3     = 51 seats, 10.48%
+| seats_before3      = 48
+| seats3             = 49
+| seat_change3       = +1
+| popular_vote3      = 1,379,991
+| percentage3        = 9.98%
+| swing3             = -0.50[[percentage points|pp]]
+| image4             = [[Image:Jack Layton - 2011.jpg|150x150px]]
+| colour4            = {{Canadian party colour|CA|NDP|nohash}}
+| leader4            = [[Jack Layton]]
+| leader_since4      = [[New Democratic Party leadership election, 2003|January 24, 2003]]
+| party4             = {{Canadian party colour|CA|NDP|name}}
+| leaders_seat4      = [[Toronto—Danforth]]
+| last_election4     = 29 seats, 17.48%
+| seats_before4      = 30
+| seats4             = 37
+| seat_change4       = +7
+| popular_vote4      = 2,515,288
+| percentage4        = 18.18%
+| swing4             = +0.70[[percentage points|pp]]
+| image5             = [[Image:Elizabeth May.jpg|150x150px]]
+| colour5            = {{Canadian party colour|CA|Green|nohash}}
+| leader5            = [[Elizabeth May]]
+| leader_since5      = [[Green Party of Canada leadership election, 2006|August 27, 2006]]
+| party5             = {{Canadian party colour|CA|Green|name}}
+| leaders_seat5      = ''Ran in [[Central Nova]] (Lost)''
+| last_election5     = 0 seats, 4.48%
+| seats_before5      = 1
+| seats5             = 0
+| seat_change5       = -1
+| popular_vote5      = 937,613
+| percentage5        = 6.78%
+| swing5             = +2.30[[percentage points|pp]]
+| map_image          = Canada 2008 Federal Election.svg
+| map_size           = 300px
+| map_caption        =
+| title              = [[Prime Minister of Canada|Prime Minister]]
+| posttitle          = [[Prime Minister of Canada|Prime Minister]] after election
+| before_election    = [[Stephen Harper]]
+| before_party       = {{Canadian party colour|CA|Conservative|name}}
+| after_election     = [[Stephen Harper]]
+| after_party        = {{Canadian party colour|CA|Conservative|name}}
+}}
+
+The '''2008 Canadian federal election''' (more formally, the '''40th Canadian General Election''') was held on Tuesday, October 14, 2008 to elect members to the [[Canada|Canadian]] [[Canadian House of Commons|House of Commons]] of the [[40th Canadian Parliament]] after the [[39th Canadian Parliament|previous parliament]] had been dissolved by the [[Governor General of Canada|Governor General]] on September 7, 2008.  The election yielded a [[minority government]] under the [[Conservative Party of Canada]], led by the incumbent [[Prime Minister of Canada|Prime Minister]], [[Stephen Harper]].
+
+The election call resulted in the cancellation of four [[Canadian federal by-elections, 2008|federal by-elections]] that had been scheduled to occur in September.<ref>{{cite news
+ |title=Four byelections ended after general vote called
+ |url=http://www.ctv.ca/servlet/ArticleNews/story//20080907/byelections_over_080907/20080907?s_name=election2008
+ |work=[[Canadian Press]]
+ |publisher=[[CTV Television Network]]
+ |date=September 7, 2008
+ |accessdate=September 7, 2008}}</ref>
+
+{{TOClimit|limit=4}}
+
+==Background==
+[[Image:Canada Fed election 2008 Ridings.svg|thumb|right|250px|Results by riding]]
+
+{{See also|Fixed election dates in Canada}}
+In 2007, Parliament passed a law fixing federal election dates every four years and scheduling the next election date as October 19, 2009, but the law does not (and constitutionally cannot) limit the powers of the Governor General to dissolve Parliament at any time, such as when [[Opposition (parliamentary)|opposition parties]] bring down the government on a [[Motion of Confidence|vote of confidence]]. In this election there was no loss of a non-confidence vote, but the Prime Minister asked the Governor General to call an election.  The Governor General granted the Prime Minister's request.
+
+===2006 election===
+64.7% of all eligible voters cast ballots in the [[Canadian federal election, 2006|2006 federal election]]. The [[Conservative Party of Canada|Conservative Party]] received the most votes of any single party, with 36% of the vote and 124 seats (127 at dissolution). The Liberal Party won fewer seats than in 2006&nbsp;— 103 seats (96 at dissolution), and 30% of the vote. The Bloc Québécois lost three seats, lowering its total to 51 seats (48 at dissolution), with 10.5% of the vote. The NDP retained its seats held at the [[Dissolution of parliament|dissolution of Parliament]], and won 11 more, making its total 29 seats (30 at dissolution), with 17.5% of the vote. The [[Green Party of Canada|Green Party]] received 4.5% of the vote, a minimal increase from the previous election, but did not win any seats (1 at dissolution). [[Independent (politician)|Independents]] and other parties constituted 1% of the total vote with one independent winning a seat.
+
+===Events since the 2006 election===
+{{details|39th Canadian Parliament}}
+[[Image:Canada 2008 Federal Election seats.svg|thumb|left|250px|Rendition of party representation in the [[40th Canadian parliament]] decided by this election.
+{{legend|#6495ED|Conservatives (143)}}
+{{legend|#F08080|Liberals (77)}}
+{{legend|#87CEFA|Bloc Québécois (49)}}
+{{legend|#F4A460|New Democrats (37)}}
+{{legend|#DCDCDC|Independent (2)}}]]
+{{wikinews|Early Canadian federal election set for October 14}}
+Since the 2006 election, seven [[Member of Parliament|Members of Parliament]] (MPs) had changed party: [[David Emerson]], [[Wajid Khan]], and [[Joe Comuzzi]] from Liberal to Conservative; [[Garth Turner]] from Conservative to Independent to Liberal; [[Blair Wilson]] from Liberal to Independent to Green; [[Louise Thibault]] from Bloc Québécois to Independent; and [[Bill Casey]] from Conservative to Independent. In by-elections, the NDP gained one seat from the Liberal Party, while the Conservative Party gained two seats, one from the Liberals and one from the Bloc Québécois. Four seats were vacant when the election was called: three previously held by the Liberal Party, one by the Bloc Québécois.
+
+[[39th Canadian Parliament|The parliament preceding this election]] was led by the Conservatives, who governed with the smallest minority ever in the Canadian House of Commons, just 40.6% of the seats. Although the average length of a [[hung parliament|minority parliament]] in Canada is 1 year, 5 months, and 22 days, minorities led by the former [[Progressive Conservative Party of Canada|Progressive Conservative Party]] have been much shorter: the longest previous Conservative minority was just 6 months and 19 days.<ref>[http://www.parl.gc.ca/information/about/process/info/parl-dates.asp?lang=E&srt=DESC&Hist=Y&param=MIN Key Dates for each Parliament], ''[[Parliament of Canada]]''</ref> The 39th Parliament became Canada's longest serving Conservative minority on October 24, 2006.
+
+On May 30, 2006, the Conservatives [[table (verb)|table]]d Bill C-16, which would amend the [[Canada Elections Act]] to provide fixed election dates. The bill received royal assent on May 3, 2007. The bill states that there will be an election in 2009, and it would be the first to have a fixed election date, the third Monday in October (October 19, 2009). Despite the bill, on September 7, 2008, the [[Prime Minister of Canada|Prime Minister]] sought the dissolution of the 39th Parliament, and the Governor General agreed to hold a general election on October 14, 2008.
+
+On February 15, 2007, ''[[The Globe and Mail]]'' reported that the Conservatives were preparing for an election expected to be called shortly after the 2007 budget, due on March 19, 2007. Part of the reason for the timing of the election was given as strengthening Conservative poll numbers coupled with the desire to take advantage of the perception that Harper has "better leadership qualities than Liberal counterpart [[Stéphane Dion]]".<ref>[http://www.theglobeandmail.com/servlet/story/RTGAM.20070215.wtories15/BNStory/National/home Tories prepped for March campaign], ''[[The Globe and Mail]]'', February 15, 2007</ref>
+
+On March 17, 2007, an internal Conservative Party memo was leaked to ''[[The Canadian Press]]'', telling members that they "need to be ready to campaign within the next week". The memo asked members to donate $75 to $150 to help to fund the early stages of the election campaign. None of these predictions for a federal election to occur in 2007 proved true, but the majority of [[Pundit (expert)|pundits]] still believed a federal election would be triggered before the fixed election date of October 19, 2009, for sometime in 2008.
+
+[[Stephen Harper]] hinted at the possibility of dissolving parliament on August 14, 2008. Speaking in [[Newfoundland and Labrador]], he cited Stéphane Dion as the main player in making Parliament become increasingly "dysfunctional". "I’m going to have to make a judgment in the next little while as to whether or not this Parliament can function productively," Harper said. This came after repeated [[Motion of no confidence|confidence votes]] that resulted in the NDP and Bloc parties not voting in favour of the government, and the Liberal Party voting in favour or not attending the vote. Rumours of a possible fall election were further fuelled by Harper's announcement of a fourth federal by-election for September 22 in the Toronto riding of [[Don Valley West]].<ref>{{cite news |title=Harper hints at triggering election |url=http://www.cbc.ca/canada/new-brunswick/story/2008/08/14/harper-election.html |publisher=[[CBC News]] |date=August 14, 2008 |accessdate=August 18, 2008 }}</ref><ref>{{cite news |title=Harper calls a 4th federal by-election, sets stage for possible fall general election |url=http://www.cbc.ca/canada/story/2008/08/17/harper-byelection.html |publisher=[[CBC News]] |date=August 17, 2008 |accessdate=August 18, 2008 }}</ref>
+
+On August 27, 2008. Harper asked Governor General [[Michaëlle Jean]] to cancel her trip to the [[2008 Summer Paralympics|Paralympic Games in Beijing]], adding fuel to speculation that the Prime Minister would seek a dissolution. On September 7, 2008 after much speculation, Harper asked the Governor General to call a federal election on October 14, 2008
+
+==Results==
+{{Main|Results of the Canadian federal election, 2008|Results by riding of the Canadian federal election, 2008}}
+
+{| style="width:70%; text-align:center;"
+|+ ↓
+|- style="color:white;"
+|  style="background:cornflowerblue; width:46.43%;" | '''143'''
+|  style="background:lightcoral; width:25%;" | '''77'''
+|  style="background:lightskyblue; width:15.91%;" | '''49'''
+|  style="background:sandybrown; width:12.01%;" | '''37'''
+|  style="background:gray; width:0.1%;" | '''2'''
+|-
+| <span style="color:cornflowerblue;">'''Conservative'''</span>
+| <span style="color:lightcoral;">'''Liberal'''</span>
+| <span style="color:lightskyblue;">'''BQ'''</span>
+| <span style="color:sandybrown;">'''NDP'''</span>
+| <span style="color:gray;">'''I'''</span>
+|}
+{{Canadian federal election, 2008}}
+
+==Vote and seat summaries==
+{{Bar box
+|title=Popular vote
+|titlebar=#ddd
+|width=600px
+|barwidth=410px
+|bars=
+{{Bar percent|Conservative|{{Canadian party colour|CA|Conservative}}|37.65}}
+{{Bar percent|Liberal|{{Canadian party colour|CA|Liberal}}|26.26}}
+{{Bar percent|NDP|{{Canadian party colour|CA|NDP}}|18.18}}
+{{Bar percent|Bloc Québécois|{{Canadian party colour|CA|BQ}}|9.98}}
+{{Bar percent|Green|{{Canadian party colour|CA|Green}}|6.78}}
+{{Bar percent|Others|{{Canadian party colour|CA|Inde}}|1.15}}
+}}
+<br>
+{{Bar box
+|title=Seat totals
+|titlebar=#ddd
+|width=600px
+|barwidth=410px
+|bars=
+{{Bar percent|Conservative|{{Canadian party colour|CA|Conservative}}|46.43}}
+{{Bar percent|Liberal|{{Canadian party colour|CA|Liberal}}|25.00}}
+{{Bar percent|Bloc Québécois|{{Canadian party colour|CA|BQ}}|15.91}}
+{{Bar percent|NDP|{{Canadian party colour|CA|NDP}}|12.01}}
+{{Bar percent|Independents|{{Canadian party colour|CA|Inde}}|0.65}}
+}}
+
+===Results by province===
+{| class="wikitable"
+|- style="background:#ccc;"
+! style="text-align:center;" colspan="3"|Party name
+! style="text-align:center;"|[[British Columbia|BC]]
+! style="text-align:center;"|[[Alberta|AB]]
+! style="text-align:center;"|[[Saskatchewan|SK]]
+! style="text-align:center;"|[[Manitoba|MB]]
+! style="text-align:center;"|[[Ontario|ON]]
+! style="text-align:center;"|[[Quebec|QC]]
+! style="text-align:center;"|[[New Brunswick|NB]]
+! style="text-align:center;"|[[Nova Scotia|NS]]
+! style="text-align:center;"|[[Prince Edward Island|PE]]
+! style="text-align:center;"|[[Newfoundland and Labrador|NL]]
+! style="text-align:center;"|[[Nunavut|NU]]
+! style="text-align:center;"|[[Northwest Territories|NT]]
+! style="text-align:center;"|[[Yukon|YT]]
+! style="text-align:center;"|Total
+{{Canadian party colour|CA|Conservative|row}}
+| rowspan="2"|[[Conservative Party of Canada|Conservative]]
+| Seats:
+| style="text-align:right;"|'''22'''
+| style="text-align:right;"|'''27'''
+| style="text-align:right;"|'''13'''
+| style="text-align:right;"|'''9'''
+| style="text-align:right;"|'''51'''
+| style="text-align:right;"|'''10'''
+| style="text-align:right;"|'''6'''
+| style="text-align:right;"|'''3'''
+| style="text-align:right;"|'''1'''
+| style="text-align:right;"|'''-'''
+| style="text-align:right;"|'''1'''
+| style="text-align:right;"|-
+| style="text-align:right;"|-
+| style="text-align:right;"|'''143'''
+{{Canadian party colour|CA|Conservative|row}}
+| Vote:
+| style="text-align:right;"|44.4
+| style="text-align:right;"|64.6
+| style="text-align:right;"|53.7
+| style="text-align:right;"|48.8
+| style="text-align:right;"|39.2
+| style="text-align:right;"|21.7
+| style="text-align:right;"|39.4
+| style="text-align:right;"|26.1
+| style="text-align:right;"|36.2
+| style="text-align:right;"|16.5
+| style="text-align:right;"|34.8
+| style="text-align:right;"|37.6
+| style="text-align:right;"|32.8
+| style="text-align:right;"|37.6
+{{Canadian party colour|CA|Liberal|row}}
+| rowspan="2"|[[Liberal Party of Canada|Liberal]]
+| Seats:
+| style="text-align:right;"|'''5'''
+| style="text-align:right;"|-
+| style="text-align:right;"|'''1'''
+| style="text-align:right;"|'''1'''
+| style="text-align:right;"|'''38'''
+| style="text-align:right;"|'''14'''
+| style="text-align:right;"|'''3'''
+| style="text-align:right;"|'''5'''
+| style="text-align:right;"|'''3'''
+| style="text-align:right;"|'''6'''
+| style="text-align:right;"|-
+| style="text-align:right;"|-
+| style="text-align:right;"|'''1'''
+| style="text-align:right;"|'''77'''
+{{Canadian party colour|CA|Liberal|row}}
+| Vote:
+| style="text-align:right;"|19.3
+| style="text-align:right;"|11.4
+| style="text-align:right;"|14.9
+| style="text-align:right;"|19.1
+| style="text-align:right;"|33.8
+| style="text-align:right;"|23.7
+| style="text-align:right;"|32.4
+| style="text-align:right;"|29.8
+| style="text-align:right;"|47.7
+| style="text-align:right;"|46.6
+| style="text-align:right;"|29.2
+| style="text-align:right;"|13.6
+| style="text-align:right;"|45.3
+| style="text-align:right;"|26.2
+{{Canadian party colour|CA|BQ|row}}
+| rowspan="2"|[[Bloc Québécois]]
+| Seats:
+| style="text-align:right;"|&nbsp;
+| style="text-align:right;"|&nbsp;
+| style="text-align:right;"|&nbsp;
+| style="text-align:right;"|&nbsp;
+| style="text-align:right;"|&nbsp;
+| style="text-align:right;"|'''49'''
+| style="text-align:right;"|&nbsp;
+| style="text-align:right;"|&nbsp;
+| style="text-align:right;"|&nbsp;
+| style="text-align:right;"|&nbsp;
+| style="text-align:right;"|&nbsp;
+| style="text-align:right;"|&nbsp;
+| style="text-align:right;"|&nbsp;
+| style="text-align:right;"|'''49'''
+{{Canadian party colour|CA|BQ|row}}
+| Vote:
+| style="text-align:right;"|&nbsp;
+| style="text-align:right;"|&nbsp;
+| style="text-align:right;"|&nbsp;
+| style="text-align:right;"|&nbsp;
+| style="text-align:right;"|&nbsp;
+| style="text-align:right;"|38.1
+| style="text-align:right;"|&nbsp;
+| style="text-align:right;"|&nbsp;
+| style="text-align:right;"|&nbsp;
+| style="text-align:right;"|&nbsp;
+| style="text-align:right;"|&nbsp;
+| style="text-align:right;"|&nbsp;
+| style="text-align:right;"|&nbsp;
+| style="text-align:right;"|10.0
+{{Canadian party colour|CA|NDP|row}}
+| rowspan="2"|[[New Democratic Party (Canada)|New Democrat]]
+| Seats:
+| style="text-align:right;"|'''9'''
+| style="text-align:right;"|'''1'''
+| style="text-align:right;"|-
+| style="text-align:right;"|'''4'''
+| style="text-align:right;"|'''17'''
+| style="text-align:right;"|'''1'''
+| style="text-align:right;"|'''1'''
+| style="text-align:right;"|'''2'''
+| style="text-align:right;"|-
+| style="text-align:right;"|'''1'''
+| style="text-align:right;"|-
+| style="text-align:right;"|'''1'''
+| style="text-align:right;"|-
+| style="text-align:right;"|'''37'''
+{{Canadian party colour|CA|NDP|row}}
+| Vote:
+| style="text-align:right;"|25.0
+| style="text-align:right;"|12.7
+| style="text-align:right;"|25.6
+| style="text-align:right;"|24.0
+| style="text-align:right;"|18.2
+| style="text-align:right;"|12.2
+| style="text-align:right;"|21.9
+| style="text-align:right;"|28.9
+| style="text-align:right;"|9.8
+| style="text-align:right;"|33.9
+| style="text-align:right;"|27.6
+| style="text-align:right;"|41.5
+| style="text-align:right;"|9.0
+| style="text-align:right;"|18.2
+{{Canadian party colour|CA|Green|row-name}}
+| Vote:
+| style="text-align:right;"|9.4
+| style="text-align:right;"|8.8
+| style="text-align:right;"|5.6
+| style="text-align:right;"|6.8
+| style="text-align:right;"|8.0
+| style="text-align:right;"|3.5
+| style="text-align:right;"|6.2
+| style="text-align:right;"|8.0
+| style="text-align:right;"|4.7
+| style="text-align:right;"|1.7
+| style="text-align:right;"|8.4
+| style="text-align:right;"|5.5
+| style="text-align:right;"|13.0
+| style="text-align:right;"|6.8
+{{Canadian party colour|CA|Inde|row}}
+| rowspan="2"|[[Independent (politics)|Independent / No affiliation]]
+| Seats:
+| style="text-align:right;"| 
+| style="text-align:right;"|
+| style="text-align:right;"|
+| style="text-align:right;"| 
+| style="text-align:right;"| 
+| style="text-align:right;"|'''1'''
+| style="text-align:right;"|
+| style="text-align:right;"|'''1'''
+| style="text-align:right;"|
+| style="text-align:right;"|&nbsp;
+| style="text-align:right;"|&nbsp;
+| style="text-align:right;"|&nbsp;
+| style="text-align:right;"|&nbsp;
+| style="text-align:right;"|'''2'''
+{{Canadian party colour|CA|Inde|row}}
+| Vote:
+| style="text-align:right;"|
+| style="text-align:right;"|&nbsp;
+| style="text-align:right;"|
+| style="text-align:right;"|&nbsp;
+| style="text-align:right;"|
+| style="text-align:right;"|0.6
+| style="text-align:right;"|&nbsp;
+| style="text-align:right;"|6.6
+| style="text-align:right;"|&nbsp;
+| style="text-align:right;"|&nbsp;
+| style="text-align:right;"|&nbsp;
+| style="text-align:right;"|&nbsp;
+| style="text-align:right;"|&nbsp;
+| style="text-align:right;"|0.7
+{{Canadian party colour|CA|Inde|row}}
+|Total seats:
+! style="text-align:right;"| 
+! style="text-align:right;"|36
+! style="text-align:right;"|28
+! style="text-align:right;"|14
+! style="text-align:right;"|14
+! style="text-align:right;"|106
+! style="text-align:right;"|75
+! style="text-align:right;"|10
+! style="text-align:right;"|11
+! style="text-align:right;"|4
+! style="text-align:right;"|7
+! style="text-align:right;"|1
+! style="text-align:right;"|1
+! style="text-align:right;"|1
+! style="text-align:right;"|308
+|}
+
+===Missing ballot boxes===
+[[Image:Canadian-Federal-2008.png|thumb|right|250px|Graphic display of results of 2008 Canadian federal election across the provinces.]]
+In [[Quebec City]], several ballot boxes containing votes from advance polls disappeared after the close of advance polling on October 7. The boxes were stored in a closet at the home of a deputy returning officer.<ref name="ballotbox">{{Cite news
+|url=http://www.theglobeandmail.com/servlet/story/LAC.20081013.ELECTIONBALLOTS13SB/TPStory/National
+|title=Missing ballot boxes recovered in Quebec
+|last=Séguin
+|first=Rhéal
+|date=October 13, 2008
+|accessdate=October 14, 2008
+|location=Toronto
+|work=The Globe and Mail}}</ref> Although there was no tampering of the boxes or the votes, three deputy returning officers were fired.<ref name="ROfired">{{cite news
+|url=http://www.thestar.com/FederalElection/article/516760
+|title=Elections Canada fires 3 officials over missing ballot boxes
+|publisher=[[Toronto Star]]
+|date=October 14, 2008
+|accessdate=October 14, 2008}}</ref> Deputy returning officers are the only polling officials allowed to handle ballots during the vote count and the law did allow for them to store the sealed boxes as may be necessary in large remote rural ridings.  However the boxes were returned a day late after the riding returning officer ordered their return.<ref name="ROfired2">{{cite web
+|url=http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20081010/scrutineers_election2008_081013?s_name=election2008&no_ads=
+|title=Workers dismissed after missing ballot boxes found
+|publisher=[[CTV News]]
+|date=October 13, 2008
+|accessdate=December 5, 2008}}</ref>
+
+===Strategic voting===
+A number of political leaders and popular websites supported [[strategic voting]] in the election, mostly against the Conservative Party. The reasons varied from regional, such as [[Newfoundland and Labrador]] premier [[Danny Williams (politician)|Danny Williams]] and his "[[Anything But Conservative]]" campaign, to ideological. The popular website VoteForEnvironment.ca, which received over one million page views in the first 12 days of its existence<ref>[http://www.londontopic.ca/article.php?artid=11132 Anti-Harper/Tory, pro-environment website slammed with pageviews] ''LondonTopic.ca''. October 6, 2008.</ref> and whose founders were interviewed on CBC and other mainstream media, showed regional breakdowns per riding and offered recommendations based on which candidate was most likely to beat the Conservative candidate. If the Conservative candidate had little chance of winning the riding or was strongly entrenched, the site recommended "vote with your heart". Similarly, a vote swapping organization on [[Facebook]] entitled "Anti-Harper Vote Swap Canada" also gained press.<ref name="vote_swap">{{cite web
+|url=http://www.thetyee.ca/Mediacheck/2008/10/09/StratVote/
+|title=Strategic Voting 2.0
+|last=Thompson
+|first=David
+|publisher=[[The Tyee]]
+|date=October 9, 2008
+|accessdate=October 14, 2008}}</ref> The premise of that organization is that eligible voters in different electoral districts may exchange their votes, so that an opponent of a Conservative candidate in each district might have a better chance of being elected in that district. Elections Canada deemed the practice legal.<ref name="legal_swap">{{cite news
+|url=http://www.thestar.com/FederalElection/article/516769
+|title=7,000 ready to swap votes
+|publisher=[[Toronto Star]]
+|date=October 14, 2008
+|accessdate=October 14, 2008}}</ref>
+
+Green Party leader Elizabeth May sent out mixed signals about strategic voting. On October 12, she recommended that in close ridings, supporters of green policies should consider voting for the NDP or Liberals to defeat the Conservatives,<ref>Tutton, Michael. [http://www.thestar.com/federalelection/article/516393 May says to vote NDP or Liberal in close ridings]. ''The Toronto Star''. October 12, 2008.</ref> but on the same day she said: "I do not support strategic voting and I have not advised voters to choose any candidate other than Green".<ref>[http://news.aol.ca/article/may-strategic/377529/ Green party says leader not calling for strategic voting to block Tories]. ''CBC News''. October 12, 2008.</ref> In addition, during the final days of the campaign the Liberals attempted to attract strategic NDP and Green votes to stop the Conservatives, and the Conservatives attempted to attract Bloc votes to stop the Liberals.<ref>[http://canadianpress.google.com/article/ALeqM5jqbY2PX4an9d4mAwcAheUmCmasxA Dion urges Greens to go red, May muddies waters]. ''The Canadian Press''. October 12, 2008.{{dead link|date=November 2012|bot=Legobot}}</ref>
+
+===Voter identification===
+
+Some students, homeless, and transient voters were turned away at the polls when they were unable to provide identification showing or otherwise confirming a place of residence. The legislation introduced in 2007 requires all voters to show one or two pieces of identification which confirm the voter's name and address, or to be vouched for by another voter who is able to show such identification.<ref>{{cite news |title=New ID rules cause confusion at polls |url=http://www.cbc.ca/news/canadavotes/story/2008/10/14/poll-problems.html?ref=rss |publisher=[[CBC News]] |date=October 14, 2008 |accessdate=October 15, 2008 |deadurl=yes}} {{Dead link|date=April 2011|bot=RjwilmsiBot}}</ref>
+
+{| class="wikitable  sortable" style="float:right;"
+|-
+! Region !! Turnout (%)
+|-
+|[[Alberta]]
+|52.9
+|-
+|[[British Columbia]]
+|61.0
+|-
+|[[Manitoba]]
+|56.8
+|-
+|[[New Brunswick]]
+|62.8
+|-
+|[[Newfoundland and Labrador]]
+|48.1
+|-
+|[[Northwest Territories]]
+|48.6
+|-
+|[[Nova Scotia]]
+|60.7
+|-
+|[[Nunavut]]
+|49.4
+|-
+|[[Ontario]]
+|59.1
+|-
+|[[Prince Edward Island]]
+|69.5
+|-
+|[[Saskatchewan]]
+|59.4
+|-
+|[[Quebec]]
+|61.1
+|-
+|[[Yukon]]
+|63.7
+|}
+
+===Voter turnout===
+{{See also|Voter turnout in Canada}}
+[[Voter turnout]] was the lowest in Canadian election history, as 58.8% of the [[Voters|electorate]] cast a ballot.<ref>{{cite web|last=Pomfret|first=R|title=Voter Turnout at Federal Elections and Referendums|url=http://www.elections.ca/content.aspx?section=ele&dir=turn&document=index&lang=e|work=Elections Canada Online|publisher=Elections Canada|accessdate=February 10, 2012}}</ref> All federally funded parties except for the Greens attracted fewer total votes than in 2006; the Greens received nearly 280,000 more votes. The Conservatives lost about 170,000 votes, the Liberals 850,000, the Bloc 170,000 and the NDP 70,000.  Some voters were at first turned away because of failure to meet new and stricter proof of address requirements, including 2/3 of those attempting to vote at [[Dalhousie University]], for example.   The effect this may have had on voter turnout is unknown.<ref>{{cite news| url=http://www.cbc.ca/news/canadavotes/story/2008/10/14/ns-voting-day.html | work=CBC News | title=Polls close in Nova Scotia | date=October 14, 2008 | deadurl=yes}} {{Dead link|date=April 2011|bot=RjwilmsiBot}}</ref>
+
+===Judicial recounts===
+
+In a federal election, a [[judicial recount]] is automatically ordered in a riding where the [[margin of victory]] is less than 0.1% (one one-thousandth) of the votes cast. In cases where there is a larger but still narrow margin of victory, an elector can request a judicial recount.
+
+Judicial recounts were ordered in six ridings. In one case, [[Brossard—La Prairie]], the judicial recount overturned the reported victor, giving the seat to the Liberals' [[Alexandra Mendès]] instead of the Bloc incumbent [[Marcel Lussier]].
+
+In four other ridings, the recount confirmed the election results, although Liberal [[Ujjal Dosanjh]]'s margin in Vancouver South was reduced from 33 votes to just 20.<ref>[http://www.marketwatch.com/news/story/Elections-Canada-Announces-Results-Judicial/story.aspx?guid={F7BADC37-6EAC-413E-8B08-570B4AFC18FE} Elections Canada Announces Results of Judicial Recount in the Electoral District of Vancouver South]</ref><ref>[http://www.elections.ca/enr/recounts/59034_e.htm Elections Canada – Election Night Results]{{dead link|date=February 2012}}</ref> This was the slimmest victory of any riding in the entire election, until the results of the Kitchener-Waterloo recount reduced Peter Braid's margin of victory to a mere 17 votes. Dosanjh's Conservative opponent, Wai Young, appealed the recount to the [[Supreme Court of British Columbia]], citing that not all of the ballot boxes were fully recounted.<ref>[http://www.theglobeandmail.com/servlet/story/LAC.20081028.BCBRIEFS28-1/TPStory/National "Tory candidate to appeal recount"], ''[[The Globe and Mail]]'', October 28, 2008.</ref> All ballots were eventually counted by November 4, confirming Dosanjh's victory by 20 votes, after the initial partial recount indicated a margin of 22 votes.
+
+In a sixth riding, the recount was cancelled when the elector who had requested it withdrew the request.
+
+{| border="1" cellpadding="4" cellspacing="0" style="width:70%; border-collapse:collapse;"
+|- style="background:darkgrey;"
+! rowspan=2| Riding
+! colspan=4| Initial validated results - First and second place
+! rowspan=2| Recount type
+! rowspan=2| Recount date
+! colspan=4| Judicially certified results - First and second place
+|- style="background:lightgrey;"
+|
+| Candidate
+| Votes
+| %
+|
+| Candidate
+| Votes
+| %
+|-
+| rowspan=2| [[Egmont (electoral district)|Egmont]], PEI
+| {{Canadian politics/party colours/Conservative}}| &nbsp;
+| [[Gail Shea]], [[Conservative Party of Canada|Con.]]
+| 8,122
+| 44.0%
+| rowspan=2| Requested
+| rowspan=2| October 23, 2008
+| {{Canadian politics/party colours/Conservative}}| &nbsp;
+| [[Gail Shea]], [[Conservative Party of Canada|Con.]]
+| 8,110
+| 43.9%
+|-
+| {{Canadian politics/party colours/Liberal}}| &nbsp;
+| [[Keith Milligan]], [[Liberal Party of Canada|Lib.]]
+| 8,060
+| 43.6%
+| {{Canadian politics/party colours/Liberal}}| &nbsp;
+| [[Keith Milligan]], [[Liberal Party of Canada|Lib.]]
+| 8,055
+| 43.6%
+|-
+| rowspan=2| [[Brossard—La Prairie]], QC
+| {{Canadian politics/party colours/BQ}}| &nbsp;
+| [[Marcel Lussier]], [[Bloc Québécois|BQ]]
+| 19,202
+| 32.6%
+| rowspan=2| Requested
+| rowspan=2| October 24, 2008
+| {{Canadian politics/party colours/Liberal}}| &nbsp;
+| [[Alexandra Mendès]], [[Liberal Party of Canada|Lib.]]
+| 19,103
+| 32.6%
+|-
+| {{Canadian politics/party colours/Liberal}}| &nbsp;
+| [[Alexandra Mendès]], [[Liberal Party of Canada|Lib.]]
+| 19,110
+| 32.4%
+| {{Canadian politics/party colours/BQ}}| &nbsp;
+| [[Marcel Lussier]], [[Bloc Québécois|BQ]]
+| 19,034
+| 32.5%
+|-
+| rowspan=2| [[Brampton West]], ON
+| {{Canadian politics/party colours/Liberal}}| &nbsp;
+| [[Andrew Kania]], [[Liberal Party of Canada|Lib.]]
+| 21,739
+| 40.3%
+| rowspan=2| Requested
+| rowspan=2| November 6, 2008
+| {{Canadian politics/party colours/Liberal}}| &nbsp;
+| [[Andrew Kania]], [[Liberal Party of Canada|Lib.]]
+| 21,746
+| 40.3%
+|-
+| {{Canadian politics/party colours/Conservative}}| &nbsp;
+| [[Kyle Seeback]], [[Conservative Party of Canada|Con.]]
+| 21,516
+| 39.9%
+| {{Canadian politics/party colours/Conservative}}| &nbsp;
+| [[Kyle Seeback]], [[Conservative Party of Canada|Con.]]
+| 21,515
+| 39.9%
+|-
+| rowspan=2| [[Kitchener—Waterloo (electoral district)|Kitchener—Waterloo]], ON
+| {{Canadian politics/party colours/Conservative}}| &nbsp;
+| [[Peter Braid]], [[Conservative Party of Canada|Cons.]]
+| 21,851
+| 36.1%
+| rowspan=2| Automatic
+| rowspan=2| October 31, 2008
+| {{Canadian politics/party colours/Conservative}}| &nbsp;
+| [[Peter Braid]], [[Conservative Party of Canada|Cons.]]
+| 21,830
+| 36.1%
+|-
+| {{Canadian politics/party colours/Liberal}}| &nbsp;
+| [[Andrew Telegdi]], [[Liberal Party of Canada|Lib.]]
+| 21,803
+| 36.0%
+| {{Canadian politics/party colours/Liberal}}| &nbsp;
+| [[Andrew Telegdi]], [[Liberal Party of Canada|Lib.]]
+| 21,813
+| 36.0%
+|-
+| rowspan=2| [[Esquimalt—Juan de Fuca]], BC
+| {{Canadian politics/party colours/Liberal}}| &nbsp;
+| [[Keith Martin (politician)|Keith Martin]], [[Liberal Party of Canada|Lib.]]
+| 20,042
+| 34.2%
+| rowspan=2| Requested
+| rowspan=2 colspan=5 | ''Judicial recount terminated at the request of the elector who had requested it''
+|-
+| {{Canadian politics/party colours/Conservative}}| &nbsp;
+| [[Troy DeSouza]], [[Conservative Party of Canada|Con.]]
+| 19,974
+| 34.1%
+|-
+| rowspan=2| [[Vancouver South]], BC
+| {{Canadian politics/party colours/Liberal}}| &nbsp;
+| [[Ujjal Dosanjh]], [[Liberal Party of Canada|Lib.]]
+| 16,101
+| 38.5%
+| rowspan=2| Automatic
+| rowspan=2| November 4, 2008
+| {{Canadian politics/party colours/Liberal}}| &nbsp;
+| [[Ujjal Dosanjh]], [[Liberal Party of Canada|Lib.]]
+| 16,110
+| 38.5%
+|-
+| {{Canadian politics/party colours/Conservative}}| &nbsp;
+| [[Wai Young]], [[Conservative Party of Canada|Con.]]
+| 16,068
+| 38.4%
+| {{Canadian politics/party colours/Conservative}}| &nbsp;
+| [[Wai Young]], [[Conservative Party of Canada|Con.]]
+| 16,090
+| 38.4%
+|}
+
+==Timeline==
+{{main|Timeline of the Canadian federal election, 2008}}
+
+*February 6, 2006: Harper [[Cabinet of Canada|Cabinet]] is sworn in.
+*May 3, 2007: Bill C-16 receives [[Royal Assent]]. This bill states that the next election must be held on October 19, 2009, unless there is an earlier dissolution.
+*August 26, 2008: Harper indicates he may call an election for the fall of 2008; Parliament could be dissolved as early as the week of September 1–6.
+*August 29, 2008: Harper meets with Gilles Duceppe, the leader of the Bloc Québécois in an attempt to find common ground between the Bloc and the Conservatives.
+*August 30, 2008:
+** Former Liberal MP [[Blair Wilson]] joins the Green Party after being an Independent for nearly a year in the riding of [[West Vancouver—Sunshine Coast—Sea to Sky Country]] in [[British Columbia]]. Wilson becomes the first Member of Parliament for the Green Party.
+** Harper meets with [[Jack Layton]], the leader of the New Democrats in an attempt to find common ground between the NDP and the Conservatives.
+*September 1, 2008: Harper meets with Stéphane Dion, the leader of the Liberals, in an attempt to find common ground between the Liberals and the Conservatives, and avert the dissolution of Parliament, allowing the fall session to continue as planned. However, after a twenty-minute meeting at [[24 Sussex Drive]], the PM's official residence, Dion emerges stating there is no common ground between the two parties, and that an election is certain.
+*September 5, 2008: The [[Office of the Prime Minister (Canada)|Prime Minister's Office]] (PMO) announces that Prime Minister Stephen Harper will visit the Governor General at 9 am on September 7, 2008 to ask for the dissolution of the 39th Parliament and a general election on October 14, 2008.<ref>{{cite web
+| title=Public events for September&nbsp;7, 2008
+| url=http://www.pm.gc.ca/eng/media.asp?category=4&id=2266
+| work=[[Office of the Prime Minister (Canada)|Office of the Prime Minister]]
+| date=September 5, 2008
+| accessdate = September 7, 2008}}</ref>
+*September 7, 2008: Prime Minister Harper asks Governor General Michaëlle Jean to call a general election on October 14, 2008. She accepts the request.<ref name="drive">{{cite news
+| title=PM talks the talk but doesn't walk to Rideau Hall
+| url=http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20080907/election2008_green_efforts_080907/20080907?s_name=election2008
+| work=[[CTV News]]
+| date=September 7, 2008
+| accessdate=September 7, 2008}}</ref>
+*October 14, 2008: Elections held for members of the House of Commons in the [[40th Canadian Parliament]].<ref name="Letters Patent">[http://www.gazette.gc.ca/rp-pr/p2/2008/2008-09-08-x4/pdf/g2-142x4.pdf Three letters patent] dissolving Parliament, setting calling election, and summoning a new Parliament.</ref>
+*November 4, 2008: Writs to be returned to the Chief Election Officer.<ref name="Letters Patent"/>
+*November 10, 2008: 40th Parliament summoned.<ref name="parliament summoned">{{cite news
+| title=Proclamation Summoning Parliament to Meet on November&nbsp;18, 2008
+| url=http://gazetteducanada.gc.ca/partII/2008/20081110-x5/html/extra5-e.html
+| work=[[Canada Gazette]]
+| date=November 10, 2008
+| accessdate=December 9, 2008}} {{Dead link|date=October 2010|bot=H3llBot}}</ref>
+*December 1, 2008: The Liberals and NDP sign agreement<ref name="proposed_coalition_Liberals_and_NDP">{{cite news
+| title=An Accord on a Cooperative Government to Address the Present Economic Crisis
+| url=http://www.liberal.ca/pdf/docs/081201_Accord_en_signed.pdf
+| work=[[Liberal Party of Canada]], [[New Democratic Party (Canada)|New Democratic Party]]
+| date=December 1, 2008
+| accessdate=December 9, 2008}} {{Dead link|date=November 2010|bot=H3llBot}}</ref> on proposed coalition government to replace the governing Conservatives under Prime Minister Harper.<ref name="deal_news">{{cite news
+| title=Liberals, NDP, Bloc sign deal on proposed coalition
+| url=http://www.cbc.ca/canada/story/2008/12/01/coalition-talks.html
+| work=[[CBC News]]
+| date=December 1, 2008
+| accessdate=December 9, 2008}}</ref>
+*December 1, 2008: The Liberals, NDP, and Bloc Québécois sign "policy accord"<ref name="policy_accord_Liberals_NDP_and_BQ">{{cite news
+| title=A Policy Accord to Address the Present Economic Crisis
+| url=http://www.liberal.ca/pdf/docs/081201_Policy_Frame_en_signed.pdf
+| work=[[Liberal Party of Canada]], [[New Democratic Party (Canada)|New Democratic Party]], [[Bloc Québécois]]
+| date=December 1, 2008
+| accessdate=December 9, 2008}} {{Dead link|date=November 2010|bot=H3llBot}}</ref> whereby the Bloc would support a Liberal/NDP government for at least 18 months.<ref name="deal_news"/>
+*December 4, 2008: Parliament prorogued by the Governor General during the [[2008 Canadian parliamentary dispute|parliamentary dispute]] on advice of the Prime Minister.<ref name="prorogued">{{cite news
+| title=Proclamation Proroguing Parliament to January&nbsp;26, 2009
+| url=http://gazetteducanada.gc.ca/partII/2008/20081205-x6/html/si144-e.html
+| work=[[Canada Gazette]]
+| date=December 5, 2008
+| accessdate=December 9, 2008}} {{Dead link|date=October 2010|bot=H3llBot}}</ref>
+*January 26, 2009: Parliament to reconvene for second session.<ref name="prorogued"/>
+
+==Pre-election==
+{{refimprove section|date=September 2008}}
+Prime Minister Stephen Harper said he was considering calling an election because of a lack of cooperation in Parliament, saying "all the signs indicate that this Parliament is at the end of its productiveness," while in [[Inuvik, Northwest Territories|Inuvik]], [[Northwest Territories]]. The Conservative Party of Canada fueled rumours of an oncoming election when it released several [[campaign advertising|campaign advertisements]] that focused on a range of issues, and attacked the Liberal Party of Canada for their proposed [[carbon tax]]. The [[Office of the Prime Minister (Canada)|Prime Minister's Office]] (PMO) confirmed that Harper would call an election for October 14 after meeting with New Democratic Party leader [[Jack Layton]] and Bloc Québécois leader [[Gilles Duceppe]], which gave the Prime Minister little hope that a fall session of Parliament can be productive, PMO officials said.<ref>[http://www.cbc.ca/news/canadavotes/story/2008/08/30/harper-layton.html Layton says no doubt there will be federal election], [[CBC News]], March 21, 2007</ref> Senior government officials announced on the first of September that Stephen Harper would ask the Governor General, [[Michaëlle Jean]], to dissolve parliament and call an election for October 14, after he met with Liberal leader Stéphane Dion who called the meeting a "charade". Dion said the two were unable to agree on how to make the upcoming session of Parliament, slated to begin September 15, more productive.
+
+Liberal Party members gathered in [[Winnipeg]] on September 2, for a three day caucus which changed from preparing for a new parliamentary session to a strategy session to formulate a plan to attack the Conservatives while healing internal party rifts that have surfaced in recent weeks. Conservatives began spending at least $60 million on pre-election funding projects to a wide variety of institutions and groups. A few announcements have been big, including [[Minister of Industry (Canada)|Industry Minister]] [[Jim Prentice]]'s pledge of $25 million for the expansion of the [[Northlands]] exhibition facility in [[Edmonton]]. But the Tories have also announced a number of smaller projects, including $40,000 for the 2008 55+ Games and $25,000 for the Peace Window of the Holy Trinity Anglican Church in Winnipeg. The announcements have also been spread out across the country. The Atlantic region is to get more than $500,000 for youth jobs and eight cultural organizations. The Association of Book Publishers of [[British Columbia]] will receive $81,000. Jack Layton attacked the Conservative Party as bribing the public and doing the same thing they used to complain about the Liberals doing before elections.
+
+A survey conducted by [[Michael John Adams|Environics]] found that 38 per cent of Canadians would vote for the Conservative party if an election were held immediately, 28 per cent would vote for the Liberal party, 19 for the NDP, eight for the Bloc Québécois and seven for the Green party. The poll shows Conservatives taking early leads in [[Ontario]], British Columbia and [[Canadian Prairies|the Prairies]]. In [[Atlantic Canada]], Liberals still hold a strong majority, while in Quebec the Bloc Québécois leads while the Conservatives and Liberals are almost tied for second. When asked, most Canadians said the Conservatives would handle the economy better, while most said the Liberals would handle the environment better.
+
+On September 7, Harper officially asked for the dissolution of Parliament, and called for an election on October 14.
+
+==Election campaign==
+The 40th Canadian Federal Election campaign officially began at 8:20 a.m. Eastern Daylight Time when Governor General Michaëlle Jean accepted Stephen Harper's request to dissolve Parliament and call an election for October 14, 2008. The party leaders jumped right into the campaign, with [[Stéphane Dion]] attacking the Conservative's record, presenting the Liberal plan, and rejected the accusation by Harper that the Liberal party is a risky choice. [[Jack Layton]] took a more forceful approach than previous elections, in which the New Democratic Party has just tried to maintain a high number of seats in Parliament to influence government. Layton has made it clear he will campaign for the position of prime minister itself this time, but also returned to a longstanding NDP theme: alleged abuses by big business. He promised to stop what he called "ripoffs" by big oil, cellphone and banks, and his attacks are expected to focus on the Conservatives and all but ignore the Liberals. [[Elizabeth May]] of the Green Party said Canadians would care enough about the environment to vote for her party, as long as she was able to get into the television debates. Stephen Harper has stated his objection to including the Green Party into television debates because of the similar policies of the Green and Liberal party, and how it would be unfair. Bloc Québécois Leader [[Gilles Duceppe]] said the Conservatives must be prevented from winning a majority, and the [[Bloc Québécois|BQ]] is the only party that can do that. Duceppe compared Harper to [[President of the United States|US President]] [[George W. Bush]], and said the government is incompetent.
+
+===Leaders' Debates===
+The two [[Canadian leaders debates#2008 debates|Leaders' Debates of 2008]], one each in French and English, included the leaders of five parties, Stephen Harper of the Conservatives, Stéphane Dion of the Liberals, Jack Layton of the NDP, Gilles Duceppe of the Bloc Québécois and Elizabeth May of the Green Party.
+
+The French-language debate aired on Wednesday, October 1 from 8 to 10 p.m. [[Eastern Time Zone|EDT]], moderated by [[Stéphan Bureau]], a journalist and host. The English-language debate aired Thursday, October 2 from 9 to 11 p.m. EDT, with [[Steve Paikin]] of [[TVOntario]] as moderator.
+
+====Participation====
+{{Wikinews|Canada's leadership debate: the Green Party will take part}}
+Three parties&nbsp;— the Conservatives, the Bloc Québécois and the NDP&nbsp;— opposed the inclusion of the Green Party, citing statements made by Green Party leader Elizabeth May to the effect that the best outcome of the election would be a Liberal-led government, and a deal struck between the Green Party and Liberals where the Liberals would not run in May's riding, Central Nova, and the Green party in Liberal leader Stéphane Dion's riding, Saint-Laurent—Cartierville, which they say make May a "second Liberal candidate".<ref>{{cite news|url = http://www.cbc.ca/news/canadavotes/story/2008/09/10/elxn-may-debates.html|title = May to take battle over debate exclusion to court|accessdate = September 10, 2008|last = [[Canadian Broadcasting Corporation]]|authorlink = |date=September 2008 | work=CBC News |deadurl=yes}} {{Dead link|date=April 2011|bot=RjwilmsiBot}}</ref>
+
+Stephen Harper and Jack Layton are reported to have said that if the Green Party were included, they would not participate in the Leaders' Debates. Dion said that while he supports May's inclusion, he would not attend if Harper does not, and the Bloc Québécois has stated it will not boycott the debates if May is included.<ref>{{cite web | title= Green leader blames Harper, Layton for being barred from debates| work=canada.com | url=http://www.canada.com/windsorstar/story.html?id=ce3e7a10-554b-4aa7-ad89-5bef5927cd98 | accessdate=September 9, 2008}}</ref> The media consortium in charge of the debate, made up of the [[Canadian Broadcasting Corporation|CBC]], [[CTV Television Network|CTV]], [[Global Television Network|Global Television]] and [[TVA (TV network)|TVA]], had decided that it would prefer to broadcast the debates with the four major party leaders, rather than risk not at all or with minimal participation. The Green Party indicated they had begun procedures to lodge a formal complaint with the [[Canadian Radio-television and Telecommunications Commission]],<ref>{{cite web | title=News Release - 2008 Leaders' Debates | work=CNW group | url=http://www.newswire.ca/en/releases/archive/September2008/08/c2613.html | accessdate=September 9, 2008}}</ref><ref name="CBC08sep08">{{cite news|url = http://www.cbc.ca/news/canadavotes/story/2008/09/08/greens-debates.html|title = Greens can't participate in leaders debates, networks rule|accessdate = September 9, 2008|last = [[Canadian Broadcasting Corporation]]|authorlink = |date=September 2008 | work=CBC News |deadurl=yes}} {{Dead link|date=April 2011|bot=RjwilmsiBot}}</ref> as they have in past federal elections.
+
+On September 10, Harper and Layton released statements that they would not oppose May's inclusion in the debate, citing public backlash and protests&nbsp;— with neither acknowledging making the threat of boycotting the debate&nbsp;— and that the media consortium would reconvene to discuss the matter. Layton stated that "debating about the debate" had become a "distraction", and that he had only one condition, that Stephen Harper be there. In response, spokespeople for Stephen Harper announced they would not stand alone in opposition to the Green Party's inclusion in the debates and also changed their position on the matter.<ref>{{cite news|url = http://www.cbc.ca/news/canadavotes/story/2008/09/10/elxn-may-debates.html|title = Harper, Layton willing to let Green leader debate|accessdate = September 10, 2008|last = [[Canadian Broadcasting Corporation]]|authorlink = |date=September 2008 | work=CBC News |deadurl=yes}} {{Dead link|date=April 2011|bot=RjwilmsiBot}}</ref> Later that day the consortium announced that May would be allowed to participate in the debate.<ref>{{cite news|url = http://www.cbc.ca/news/canadavotes/story/2008/09/10/elxn-may-debates.html|title = Green leader allowed into debates, networks confirm|accessdate = September 10, 2008|last = [[Canadian Broadcasting Corporation]]|authorlink = |date=September 2008 | work=CBC News |deadurl=yes}} {{Dead link|date=April 2011|bot=RjwilmsiBot}}</ref>
+
+====Format change====
+On September 30, Harper announced that he would ask for the 12 minutes on the economy scheduled for the Leader's Debate to be extended to an hour, citing that the [[Financial crisis of 2007–2008|financial crisis affecting the U.S.]] "has deepened since the debate format was finalized", a change which would require agreement from the other parties in the debate to be approved. The NDP released a statement soon after that they supported the move, while public response has been concerned that other topics such as the environment would not end up with enough time to cover the issue.<ref name="cbc Harper asks for full hour on economy">{{cite news |title=Harper asks for full hour on economy during leaders' debates |url=http://www.cbc.ca/news/canadavotes/story/2008/09/30/harper-debates.html |last = [[Canadian Broadcasting Corporation]] |date=September 30, 2008 |accessdate=September 30, 2008 | work=CBC News}}</ref>
+
+On October 1, the day of the first debate, it was announced that both debates would get extended time, from 12 to 30 minutes, for the economy, and leaders would not give opening and closing statements, to allow for longer discussions on the economy without removing time from other topics. It was also revealed that instead of leaders standing at individual podiums for the debate, as had been done in past years, the debate would be done in a [[round table]] format.<ref name="cbc Economy dominate debate">{{cite news |title=Economy to dominate French-language debate |url=http://www.cbc.ca/news/canadavotes/story/2008/10/01/debates-economy.html |last = [[Canadian Broadcasting Corporation]] |date=October 1, 2008 |accessdate=October 1, 2008 | work=CBC News}}</ref>
+
+====Debates====
+
+=====French debate=====
+Much of French debate revolved around the economy and the environment, with the two topics repeatedly being brought up in discussions allotted for other topics. Stephen Harper came under criticism from every other leader in nearly every topic, especially the economy and environment, with the other party leaders stating that Harper's politics had led to Canada's current crises in those two areas. Their points included that Harper's environmental plan was considered the worst of all developed countries by organizations around the world, with Elizabeth May labeling it "a type of fraud,"<ref name="cbc Harper targeted in French Debate">{{cite news |title=Harper targeted on economy, crime in French debate |url=http://www.cbc.ca/news/canadavotes/story/2008/10/01/debate-french.html |last = [[Canadian Broadcasting Corporation]] |date=October 2, 2008 |accessdate=October 2, 2008 | work=CBC News}}</ref> and that his attempts to remove regulations in the financial sectors, similar to those done by the [[Presidency of George W. Bush|Bush administration]] in the United States, have led Canada to being nearly as hard hit by the [[Financial crisis of 2007–2008|current financial crisis]] as the United States.<ref name="cbc Harper targeted in French Debate" />
+
+Continuous comparisons of Harper to [[George W. Bush]] were made over the course of the debate, with Jack Layton stating at one point that with Bush ending his presidency at the end of the year, Harper would be "the last leader of a developed country to follow the [[Bush doctrine]]".<ref name="cbc Harper targeted in French Debate" />
+
+=====English debate=====
+Following the same tone as the French debate, much of the discussion revolved around the economy and the environment. The other four leaders keep criticizing Harper, especially for his lack of an economic platform despite asking for the format change to focus more on the economy in light of the ongoing financial crisis, and instead using the time to criticize the economic platforms of the other leaders.<ref name="cbc Leaders to Harper: Show economic Platform" /> May lashed out at Harper for not understanding that Canadians were worried about their homes, jobs and finances, and comparing the current situation to [[Dutch disease]], Dion stated that the only thing that keeps Canada from being hit as hard by the crisis as the US are laws created by the previous Liberal government that the Conservatives had been attempting to overturn, Duceppe repeatedly criticized Harper for financial practices and attitudes similar to the [[Presidency of George W. Bush|Bush administration]], and Layton at one point stated that Harper's position showed he was either incompetent or uncaring to the situation, and asked which one he was, to which Harper did not respond. Harper also came under criticism for his laissez-faire attitude to the job sector, supporting primarily the oil companies and companies that outsource jobs in the manufacturing sector.
+
+When it turned to the environment, the Carbon Tax proposal came up repeatedly, with both Dion and May supporting it, although May to more ambitious figures than Dion, pointing out it was the most recommended and proven way to deal with carbon emissions by countries and organizations around the world, noting the growth that Sweden and Germany have had with this system.<ref name="cbc Leaders to Harper: Show economic Platform" /> Harper criticized the plan, saying would increase taxpayers' burden and that Dion should be "honest with the people" that some environmental measures will cost the economy and said the plan includes $40 billion in carbon taxes and $26 billion in tax cuts.<ref name="cbc Leaders to Harper: Show economic Platform" /> Dion defended the Liberal's Green Shift, saying that "[Harper's statements are] not true at all", and that "for every dollar that we will raise, you will have a tax cut, and these tax cuts will be on your income".<ref name="cbc Leaders to Harper: Show economic Platform" /> Duceppe commented that he would like targets to be applied to individual provinces, thereby allowing Quebec to financially benefit due to already-implemented greenhouse gas reductions.<ref name="cbc Leaders to Harper: Show economic Platform" /> Layton, who favours a [[Emissions trading|cap-and-trade system]], said that it is a "figment of Mr. Harper's imagination" that emissions will fall under his plan.<ref name="cbc Leaders to Harper: Show economic Platform" /> When Harper sought to outline his government's record on other environmental fronts, giving examples of his minority government supported the preservation of hundreds of thousands of hectares of environmentally sensitive land through the [[Nature Conservancy of Canada]], and that the government declared a protected marine area by [[Lake Superior]] and created a whale sanctuary by [[Baffin Island]], May responded by saying "The only word he said that's true is on national parks".<ref name="cbc Leaders to Harper: Show economic Platform" />
+
+Layton also criticized Dion for his lack of accomplishments as official opposition during the minority government, and his party's previous leader's broken promises in areas such as Child Care and Pharmacare.<ref name="cbc Leaders to Harper: Show economic Platform" />
+
+Duceppe painted the Conservative government's $45 million in national arts and culture funding cuts as an assault on the province's identity, saying "How can you recognize the Quebec nation and then cut culture [funding], which is the soul of a nation?" followed by citing the economic benefits of culture.<ref name="cbc Leaders to Harper: Show economic Platform" />
+
+Harper also said he had erred in calling for Canada's participation in the 2003 U.S.-led invasion of Iraq, saying "It was absolutely an error, it's obviously clear", adding that the claim of weapons of mass destruction proved false.<ref name="cbc Leaders to Harper: Show economic Platform">{{cite news |title=Show us the platform, party leaders dare Harper on economy |url=http://www.cbc.ca/news/canadavotes/story/2008/10/02/english-debate-night.html |last = [[Canadian Broadcasting Corporation]] |date=October 3, 2008 |accessdate=October 3, 2008 | work=CBC News}}</ref>
+
+Commenting on the debate, Layton said that he "thoroughly enjoyed" May's contributions to the debate.<ref name="cbc Barbs fly over economy">{{cite news |title=Barbs fly over economy as leaders return to campaign trail |url=http://www.cbc.ca/news/canadavotes/story/2008/10/03/debate-follow.html |last = [[Canadian Broadcasting Corporation]] |date=October 3, 2008 |accessdate=October 3, 2008 | work=CBC News}}</ref> Reporter [[Julie Van Dusen]] said that Harper managed to take the hits calmly, as "someone must have told him … if you fight back or get too partisan, you're going to alienate voters, especially women".<ref name="cbc Barbs fly over economy"/> Duceppe said he was happy to have forced Harper to admit his support of joining the Iraq war in 2003 was a mistake, adding he will use the admission in the campaign as "Exhibit A" that the Conservative leader lacks solid judgment skills, and that Harper was weakened when he confirmed he does not support a refundable tax credit for the manufacturing industry to encourage companies to improve productivity.<ref name="cbc Barbs fly over economy"/>
+
+===Issues===
+
+====Arts====
+Stephen Harper had cut $45 million from arts funding while in office, a move that drew much criticism from the other leaders and [[Quebec]] citizens, with most leaders seeking to restore the funding. The Conservatives have stated that the money is being reallocated to other arts and cultural programs, including various official languages projects, the 400th anniversary of [[Quebec City]] and projects connected with the [[2010 Winter Olympics|2010 Vancouver-Whistler Winter Olympic Games]], although the Conservative's refusal to have a parliamentary review of their cuts and for a moratorium on the measures until the [[Canadian House of Commons Standing Committee on Canadian Heritage|House of Commons Heritage Committee]] had a chance to hold hearings on culture and arts funding has most opposition members calling foul.<ref name="cbc Layton reverse Harper Art Cuts">{{cite news |url=http://www.cbc.ca/news/canadavotes/story/2008/09/23/opposition-arts.html |title= Layton vows to reverse Harper arts cuts, bolster culture funding |publisher=CBC News |date=September 23, 2008 |accessdate=September 23, 2008 |deadurl=yes}} {{Dead link|date=April 2011|bot=RjwilmsiBot}}</ref>
+
+Both Stéphane Dion and Jack Layton have promised to reverse the cut, with Dion also promising to increase funding to [[Canada Council for the Arts]] to $360 million, while Layton also promised to bring income averaging for artists to the national level and providing an annual tax exemption of $20,000 for income earned by copyright and residuals, stating that "one of the key things we must do, before we start giving $50-billion tax giveaways to banks and oil companies, is to protect and promote the arts" and "stable, sure and appropriate funding" for [[Canadian Broadcasting Corporation|CBC/Radio-Canada]] while also protecting [[Telefilm Canada]] and the [[Canadian Television Fund]].<ref name="cbc Layton reverse Harper Art Cuts"/>
+
+Harper has said that he believes that the issue is a "niche topic", and that "ordinary Canadians" are not particularly concerned with the issue.<ref name="cbc Actors condemn Harper">{{cite news |url=http://www.cbc.ca/news/canadavotes/story/2008/09/24/artist-protests.html |title= Actors condemn Harper's culture cuts |publisher=CBC News |date=September 24, 2008 |accessdate=September 24, 2008 |deadurl=yes}} {{Dead link|date=April 2011|bot=RjwilmsiBot}}</ref> A group of Canadian performers, which included [[Art Hindle]], [[Wendy Crewson]] and [[Gordon Pinsent]], held a press conference on September 24, saying the cuts would cripple the Canadian arts industry.<ref name="cbc Actors condemn Harper"/>
+
+On September 29, Harper unveiled a new tax credit plan worth an estimated $150 million a year to encourage parents to enroll their kids in arts programs like music and drama. The credit will apply on up to $500 of eligible fees for children under 16 who participate in eligible arts activities. Harper said that "[the Conservatives] spend a lot more on culture and arts" but "in a way that we ensure is an effective use of taxpayers' money and ultimately, in this case, benefits families and all of society as well". Harper has come under criticism when the week before he expressed his opinion that "ordinary working people were unable to relate to taxpayer-subsidized cultural elites when they see them at a rich gala on television".<ref name="cp Harper offers kid's art tax break">{{cite news |url=http://canadianpress.google.com/article/ALeqM5jeUfgJm9yH22rTH5VaCrKj3HQQGg |title= Harper offers tax breaks to parents with kids in arts programs |publisher=The Canadian Press |date=September 30, 2008 |accessdate=September 30, 2008}}{{dead link|date=November 2012|bot=Legobot}}</ref>
+
+====Alleged Cadman bribe attempt====
+{{main|Chuck Cadman#Legal controversy}}
+In early 2008 it was alleged that Independent MP [[Chuck Cadman]] of [[Surrey North]], who was terminally ill with cancer at the time, had been offered a half-million life insurance policy in exchange for voting against the proposed Liberal budget in May 2005, which he turned down. Under section 119 of the [[Criminal Code of Canada]], it is illegal to bribe an MP. Accordingly, Opposition Liberal party Intergovernmental Affairs critic [[Dominic LeBlanc]] asked the [[Royal Canadian Mounted Police]] (RCMP) in February 2008 to investigate this allegation, that the Conservatives had offered Mr. Cadman a million-dollar life insurance policy in exchange for his support on the budget vote. In May 2008, the RCMP announced that there was not enough evidence to support charges.<ref name="cbc-2008-05-16" >{{cite news
+|url=http://www.cbc.ca/canada/story/2008/05/16/rcmp-cadman.html
+|title=No charges to be laid in Cadman Affair: RCMP
+|publisher=CBC News
+|date=May 16, 2008
+|accessdate=July 9, 2008}}</ref>
+Cadman died in July. The following month, Harper stated in a court deposition that any such million-dollar offer would have to be authorized by him, and that he did not issue any such authorization.<ref>{{cite web
+| last = Cornell Catana Reporting Services
+| title = Stephen Harper, Sworn: Cross-Examination by Mr. Paliare
+| work = Macleans.ca
+| accessdate = September 4, 2008
+| date = September 4, 2008
+| url = http://www.macleans.ca/files/pdf/harperdepo.pdf
+|format=PDF}}</ref><ref>{{Cite news
+| last = Tim Naumetz
+| title = Harper testifies he authorized offer to Cadman
+| work = Globe and Mail
+| accessdate = September 4, 2008
+| date = September 4, 2008
+| url = http://www.theglobeandmail.com/servlet/story/LAC.20080904.CADMAN04/TPStory/TPNational/Politics/
+| location=Toronto
+}}</ref> There is currently an ongoing legal battle between the Liberals and the Conservatives over the matter.
+
+On September 24, while campaigning in Surrey North, Stephen Harper's campaign team barred reporters from talking with the local Conservative candidate, [[Dona Cadman]], who is Chuck Cadman's widow. The campaign team called in the [[Royal Canadian Mounted Police]] (RCMP), and ordered them to "Keep [the reporters] out" while Cadman was taken away by staff. Harper spokesman [[Kory Teneycke]] later stated that he had not seen the incident, but the local candidates did not need to be interviewed, that "Local candidates' priority is campaigning in their local ridings, and not talking to the national media", and that it should be enough that they hold daily news conferences with the party's most prominent members.<ref name="cbc Tories use RCMP to block media" >{{cite news
+|url=http://www.cbc.ca/news/canadavotes/story/2008/09/23/cadman-dispute.html
+|title=Tories use RCMP to block media from talking to candidate Cadman
+|publisher=CBC News
+|date=September 24, 2008
+|accessdate=September 24, 2008
+|deadurl=yes}} {{Dead link|date=April 2011|bot=RjwilmsiBot}}</ref>
+
+The incident has reminded people of Conservative tactics during the 2006 election, where attempts by the media to speak with local candidates were stopped by campaign personnel, especially the [[Harold Albrecht]] incident, where campaign officials forced Albrecht to stay in a restaurant kitchen when journalists attempted to interview him.<ref name="cbc Tories use RCMP to block media" />
+
+The Conservatives chose former U.S. [[Federal Bureau of Investigation]] agent [[Bruce Koenig]] to analyze a tape of reporter [[Tom Zytaruk]] interviewing Harper on the Cadman bribe attempt. The tape was a key piece of evidence in the ongoing legal battle. On October 10, Koenig announced that the tape had not been altered in any way, contrary to the claims by Stephen Harper that it had been altered.<ref name="cbc Cadman tape not altered" >{{cite news |url=http://www.cbc.ca/canada/story/2008/10/10/cadman-tape.html
+|title=Audio expert says Cadman tape not altered
+|publisher=CBC News
+|date=October 10, 2008
+|accessdate=October 10, 2008}}</ref>
+
+====Canadian involvement in Afghanistan====
+{{main|Canada's role in the invasion of Afghanistan}}
+The ongoing [[Afghanistan–Canada relations|involvement]] of the [[Canadian Forces]] in [[Afghanistan]] may also influence voters. Desmond Morton, a political science professor at [[McGill University]] suggested that the Conservatives could be blamed for the war because they have extended the mission twice, despite the fact that it was then Liberal Leader [[Jean Chrétien]] who was Canada's prime minister when Canada's current military involvement in Afghanistan first started in 2001. Both the Conservatives and Liberals have at various times agreed to extend the mission(s) to at least 2011, so this may result in some Canadians who are strongly against Canada's ongoing involvement, who might have otherwise typically voted either Liberal or Conservative in the past, to take their votes elsewhere in 2008.<ref>{{cite news|url=http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20080907/election2008_afghanistan_080907/20080907?s_name=election2008&no_ads=|title=Deaths in Afghanistan could hurt Tory campaign|accessdate=September 8, 2008|publisher=[[CTV News]]}}</ref>
+
+====Cities and infrastructure====
+Toronto Mayor [[David Miller (Canadian politician)|David Miller]] has spoken out that the parties need to focus more on cities and their infrastructure, stating that 8 out of 10 Canadians live in cities, and that so far only the [[Canadian green party|Green party]] has revealed a platform on the issue, with a national transit strategy and plans to give cities a permanent revenue source to help fix a growing infrastructure backlog. Miller stated he will not endorse a specific party, but urges people to choose a party that will "help cities thrive". He disagrees with Stephen Harper's opinion that "cities are not of national importance".<ref name="cbc Toronto mayor suggests Greens">{{cite news |url=http://www.cbc.ca/news/canadavotes/story/2008/09/17/miller-election.html |title=Toronto mayor suggests Greens best bet for cities |publisher=CBC News |date=September 17, 2008 |accessdate=September 17, 2008 |deadurl=yes}} {{Dead link|date=April 2011|bot=RjwilmsiBot}}</ref>
+
+On September 18, Stéphane Dion pledged to spend more than $70 billion over the next 10 years to improve Canada's infrastructure if elected, and budget surpluses that exceed a $3-billion contingency fund to infrastructure projects, particularly those with a green focus, calling Canada's cities and towns "the engines of our economy". [[Stephen Harper]] immediately lashed out at the spending proposal, saying Dion was "promising money no government could afford" and that the Conservative's infrastructure plans "are modest and affordable within the four-year budget we've published".<ref name="cbc Dion pledges $70B infrastructure">{{cite news |url=http://www.cbc.ca/news/canadavotes/story/2008/09/18/dion-infrastructure.html |title=Dion promises $70B infrastructure boost |publisher=CBC News |date=September 18, 2008 |accessdate=September 18, 2008 |deadurl=yes}} {{Dead link|date=April 2011|bot=RjwilmsiBot}}</ref>
+
+On September 23, [[Montreal]] and Toronto mayors [[Gérald Tremblay]] and David Miller laid out their demands for urban municipalities, describing cities' current financial problems as a national issue, saying that cities have become the country's economic, social and cultural development engines and need appropriate support, and that they need better "fiscal tools" to continue their role as Canada's economic engines or the country will suffer. They listed [[Homelessness]], [[gridlock|traffic gridlock]], [[public transit|crowded buses]] and overstretched [[police department]]s as just a few of the symptoms, that "These problems are too big and too important to be solved on the backs of property taxpayers" and that "in order to remain competitive, transport goods efficiently and attract new talent, our cities require quality infrastructure, affordable housing and first-rate recreational and cultural facilities". [[Jean Perrault]], president of the [[Federation of Canadian Municipalities]] and mayor of [[Sherbrooke]], [[Quebec]], has stated that things like the [[Federal Gas Tax Fund]] were an important federal commitment, but that more is needed to tackle cities' overwhelming infrastructure needs.<ref name="cbc Cities need more power">{{cite news |url=http://www.cbc.ca/news/canadavotes/story/2008/09/23/mtl-fcmelection0923.html |title=Cities need more power to thrive: mayors |publisher=CBC News |date=September 23, 2008 |accessdate=September 23, 2008 |deadurl=yes}} {{Dead link|date=April 2011|bot=RjwilmsiBot}}</ref>
+
+On September 29, Layton announced plans to direct one cent per litre of the gas tax, approximately $400 million a year, into transit projects across the country, and direct $350 million from the sale of carbon permits to big polluters, saying that "the major polluters would be the ones paying to make transit greener, not you and your families", and that "fighting climate change requires investing in transit, and that's what our plan does".<ref name="cbc gas pays for Transit: Layton">{{cite news |url=http://www.cbc.ca/news/canadavotes/story/2008/09/29/layton-transit.html |title=Use gas tax to pay for public transit: Layton |publisher=CBC News |date=September 29, 2008 |accessdate=September 30, 2008 |deadurl=yes}} {{Dead link|date=April 2011|bot=RjwilmsiBot}}</ref>
+
+====Economy====
+Polls have suggested that the [[economy of Canada|economy]] is the major issue going into this election, especially with the resulting high price of gas, along with rising prices of other goods and services, such as food, and the possible impact the [[Financial crisis of 2007-2008|current financial crisis]] may have on Canada. Some experts say that Canada has just narrowly dodged a [[recession]], although the economy is in its worst shape since 1991.<ref>{{cite news|url=http://www.ctv.ca/servlet/ArticleNews/story//20080906/economy_elxn_080906/20080906?&s_name=election2008 |last = CTV |title=CTV News Election 2008|accessdate=September 12, 2008}}</ref>
+
+Both Dion and Harper have said that the others' plans will lead Canada into a recession, while Dion also stated that Harper has "mismanaged a once-booming economy into one with growth dropping to among the lowest of the [[G8]] nations".<ref name="cbc Dion pledges $70B infrastructure" />
+
+The Conservatives have stated possible negative consequences that could happen to the economy based on Liberal [[election promise]]s if they were to be elected.<ref name="cbc Dion pledges $70B infrastructure" /> As of September 20, 2008, Liberal election promises have totaled in excess of $80 billion spending over the next decade.<ref name="80B">{{cite web |title=Farming aid pushes Liberal pledges past $80B mark |url=http://www.nationalpost.com/news/canada/story.html?id=808864 |last = [[Canadian Broadcasting Corporation]] |date=September 20, 2008 |accessdate=September 20, 2008}} {{Dead link|date=October 2010|bot=H3llBot}}</ref>  In contrast, the cost of programs promised by the Conservatives to date is less than $2 billion annually.<ref name="80B"/> Stephen Harper, the Prime Minister, has criticized the Liberal's spending promises, saying they are making "mind-boggling" spending plans that he predicts would send Canada into deficit.<ref name="80B"/>
+
+After the rejection of the [[Proposed bailout of United States financial system|proposed bailout of the United States financial system]] and resulting market fluctuation all over the world, including the [[Toronto Stock Exchange]], Jack Layton called for Harper to call a special meeting for federal party leaders to discuss the potential effects of the U.S economic crisis on Canadians, suggestion the afternoon of October 1, since all leaders would be in Ottawa for the [[#Leaders' Debates|first Leaders' Debate]] that night. A spokesman for Harper later reported that Harper would not call such a meeting, and to save discussion for the Leader's Debate, as "[they] will have an opportunity later this week to debate&nbsp;— not behind closed doors but in front of all Canadians&nbsp;— the issues at stake not [just] for our economy but for our country".<ref name="cbc PM rebuffs US crisis meeting">{{cite news |title=PM rebuffs NDP call for federal leaders' meeting on U.S. crisis |url=http://www.cbc.ca/news/canadavotes/story/2008/09/29/layton-mtg.html |last = [[Canadian Broadcasting Corporation]] |date=September 30, 2008 |accessdate=September 30, 2008 | work=CBC News}}</ref> Harper later announced that he would ask for the 12 minutes on the economy scheduled for the Leader's Debate to be extended to an hour, citing that the financial crisis affecting the U.S. "has deepened since the debate format was finalized", a change which would require agreement from the other parties in the debate to be approved. The NDP released a statement soon after that they supported the move, while public response has been concerned that other topics such as the environment would not end up with enough time to cover the issue.<ref name="cbc Harper asks for full hour on economy" /> All the leaders supported the idea, and the opening and closing statements were dropped and the allotted time for the economy extended to 30 minutes without affecting the other topics.<ref name="cbc Economy dominate debate" />
+
+During the Leaders' Debates Harper repeatedly came under fire for lack of an economic plan in the current time of crisis and while campaigning, and for his lack of ability to explain how he would deal with the current crisis, merely repeating that Canada was unlikely to face such a crisis as he had made "different choices" than the US while in power without being able to explain what those different choices were, as all of his examples were immediately compared to practices done by the [[Presidency of George W. Bush|Bush administration]], and insisted that Canadians "don't panic". In response to mounting pressure from the public, Harper announced on October 3 that he would reveal his party's platform, including economic matters, on October 7, one week before the election.<ref name="cbc Barbs fly over economy" />
+
+====Environment====
+{{wikinews|Canadian scientists protest Harper's attacks on science}}
+
+Shortly after the election was called, Harper was criticized for using a four-vehicle [[motorcade]] that included a van and [[Sport utility vehicle|SUV]] to travel the {{convert|395|m|abbr=on}} across the street from the door of [[24 Sussex Drive]] to the door of [[Rideau Hall]] to dissolve parliament.<ref name="drive"/> In return, the Conservatives criticized the Liberal party's decision to use a 29-year-old [[Boeing 737-200]] for campaigning, saying that the older airplane's poor fuel efficiency demonstrates hypocrisy on environmental matters. Daniel Lauzon, a spokesperson for the Liberals, denied their airplane was substantially less efficient than the Conservatives' [[Airbus A319]].<ref name="nationalpostfuel">{{cite news |url=http://www.nationalpost.com/news/canada/story.html?id=776106 |title=Fuel use of Liberal campaign jet under attack |accessdate=September 12, 2008 |date=September 8, 2008 |first=Peter |last=Kuitenbrouwer |publisher=[[The National Post]]}}</ref>
+
+The Tories have been previously criticized for backing out of Canada's commitments under the [[Kyoto Protocol]].<ref name="slate canada">{{cite news |url=http://www.slate.com/id/2199929/ |title=What's the Matter With Canada? |first=Christopher |last=Flavelle |date=September 12, 2008 |publisher=[[Slate (magazine)|Slate]] |accessdate=September 12, 2008}}</ref> Their new plan requires industries to reduce the rate at which they generate [[greenhouse gases]], with a goal of reducing overall emissions by 45 to 65 percent by 2050.<ref name="cbc cleanair">{{cite news |url=http://www.cbc.ca/canada/story/2006/10/19/clean-act.html |title=Tory bill aimed at cutting greenhouse gases in half by 2050 |publisher=CBC News |date=October 9, 2006 |accessdate=September 13, 2008}}</ref> The plan has been criticized by groups such as the [[Sierra Club]], who called it "completely inadequate".<ref name="Sierra Club Report Card">{{cite news
+| title=Greens tops, Tories flops in Sierra Club climate-change report card
+| url=http://www.cbc.ca/technology/story/2008/09/05/reportcard.html
+| work=[[CBC News]]
+| date=September 5, 2008
+| accessdate=September 7, 2008}}</ref> Criticism has focused on the use of "intensity-based" targets, for which emission reductions are relative to overall production, so overall emissions could potentially increase if production also increases.<ref name="cbc cleanair"/> This is in contrast to a "hard cap" on emissions, for which the overall amount cannot increase. The Conservatives' plan includes a hard cap to begin in 2020 or 2025,<ref name="cbc cleanair"/> while environmental groups have advocated for an immediate hard cap.<ref name="cbc cleanair" /><ref name="Sierra Club Report Card"/>
+
+The Liberals have developed a "[[Ecotax|Green Shift]]" plan, creating a [[carbon tax]] that will be coupled with reductions to [[income tax]] rates. The proposal was to tax greenhouse gas emissions, starting at $10 (Canadian) per ton of CO2 and reaching $40 (Canadian) per ton within four years. The plan would engage in revenue recycling by matching the tax with reductions in the income tax.<ref>Jones, Nicola. “Green issues dominate election: Climate change is high on Canadian agenda.” Nature, September 17, 2008</ref> Criticism of the Green Shift plan has focused on its economic effects, with the Conservatives predicting it would cause a "big recession".<ref name="cpcarbontax">{{cite news |url=http://canadianpress.google.com/article/ALeqM5guTSMQRJqWWNB97ASPKDGOMEpQvA |title=Liberal carbon tax threatens national unity, economy: Harper |publisher=[[Canadian Press]] |date=September 12, 2008 |accessdate=September 12, 2008}}{{dead link|date=November 2012|bot=Legobot}}</ref> When pressed by reporters to provide evidence of this impact, Harper "wasn't able to cite a study that specifically modelled the impact of the Liberal Green Shift plan",<ref name="greenshiftrecession">{{Cite news
+|url=http://www.theglobeandmail.com/servlet/story/RTGAM.20080911.welxnharper0911/BNStory
+|title=Tory's ‘recession' threat based on old numbers
+|publisher=[[The Globe and Mail]]
+|date=September 11, 2008
+|accessdate=October 2, 2008
+|location=Toronto
+|deadurl=yes}} {{Dead link|date=October 2010|bot=H3llBot}}</ref> instead citing an older economic model about the implementation of the Kyoto Protocol.
+
+One [[truck]]ing association claimed the Liberal carbon tax plan could put up to 10,000 jobs in jeopardy in Moncton alone.<ref name="canadaeast truckers">{{cite news |url=http://timestranscript.canadaeast.com/news/article/408284 |title=Atlantic director says Liberal proposal jeopardizes 10,000 Hub City jobs, will cost industry another $500M a year |publisher=Canadaeast News Service |first=David |last=Shipley |date=September 8, 2008 |accessdate=September 12, 2008}}</ref> Environmental activist [[David Suzuki]] has come out in support of Dion's plan, saying "To oppose [the carbon tax plan], it's just nonsense. It's certainly the way we got to go"<ref name="Suzuki For Dion">{{cite news |url=
+http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20080518/carbontax_liberals_080518?s_name=&no_ads= |title=Suzuki slams NDP, Tories, backs Dion's carbon tax |publisher=[[Canadian Press]] |date=May 18, 2008 |accessdate=September 12, 2008}}</ref> and giving an interview explaining why it is the most effective way to solve the environmental crisis.<ref name="cbc Suzuki explains carbon tax">{{cite news |url=
+http://www.cbc.ca/news/canadavotes/story/2008/10/01/f-suzuki-carbontax.html |title=David Suzuki explains why he thinks a carbon tax is the way to go |publisher=[[Canadian Broadcasting Corporation]] |date=October 1, 2008 |accessdate=October 2, 2008 |deadurl=yes}} {{Dead link|date=April 2011|bot=RjwilmsiBot}}</ref>
+
+The NDP's plan for the environment has focused on [[emissions trading]], claiming their system will decrease greenhouse emissions by 80% by 2050.<ref name="tostar ndp environment">{{cite news |url=http://www.thestar.com/FederalElection/article/497925 |title=Layton hypes green strategy |first=Richard |last=Brennan |publisher=[[The Toronto Star]] |date=September 12, 2008 |accessdate=September 13, 2008}}</ref> The plan includes a series of financial incentives to retrofit [[public transit]] systems and transition the economy to be "[[Green-collar worker|green-collar]]". The plan would also halt new [[Athabasca Oil Sands|oil sands]] development until emissions have been capped.<ref name="np ndp environment">{{cite news |url=http://network.nationalpost.com/np/blogs/posted/archive/2008/09/11/ndp-calls-for-80-greenhouse-gas-emission-reduction-by-2050.aspx |title=Layton lays out NDP's environment platform |publisher=The [[National Post]] |first=Chris |last=Boutet |date=September 11, 2008 |accessdate=September 13, 2008}}</ref> Layton has also criticized the Liberal carbon tax plan, stating it taxes families instead of polluters.<ref name="ctv layton carbon">{{cite news |url=http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20080907/election2008_2_080911/20080911?s_name=election2008 |title=Layton calls Liberal carbon tax 'wrong' |publisher=[[Canadian Press]] |date=September 11, 2008 |accessdate=September 13, 2008}}</ref>
+
+====Equalization====
+{{main|Anything But Conservative}}
+[[Danny Williams (politician)|Danny Williams]], the [[Progressive Conservative Party of Newfoundland and Labrador|Progressive Conservative]] premier of [[Newfoundland and Labrador]], launched a campaign called [[Anything But Conservative]], primarily targeted at Harper and the federal Conservatives. He opposes a Conservative majority, due in part to Harper's promise during the 2006 election to modify the [[equalization payments|equalization]] formula to fully share offshore oil revenues with the province, which Williams says Harper has broken, and what Harper has stated he will do with a majority government.<ref name="gam Harper: Canada more Conservative">{{cite news |title=Harper: Canada a more conservative country |url=http://www.theglobeandmail.com/servlet/story/RTGAM.20080913.wconservative0913/BNStory/politics/home |last = [[Globe and Mail]] |date=September 13, 2008 |accessdate=October 3, 2008 |location=Toronto |work=The Globe and Mail}}</ref> Accordingly, all but one member of the provincial PC caucus supported not voting Conservative in this election.{{Citation needed|date=October 2008}}
+
+Leo Power, a veteran of federal politics and the Conservative Party of Canada's campaign co-chair for Newfoundland and Labrador, said raising money and recruiting volunteers has proved difficult, and blames Williams's ABC campaign, saying it has cut deep into the federal election machine that is struggling to compete. Power has also said his party's best hope of winning a seat in the province is in the riding of [[Avalon (electoral district)|Avalon]] with incumbent candidate [[Fabian Manning]].<ref name="cbc Tory org Blames ABC">{{cite news |title=Tory organizer blames ABC campaign for party's woes |url=http://www.cbc.ca/canada/newfoundland-labrador/story/2008/10/02/power-abc.html |last = [[Canadian Broadcasting Corporation]] |date=October 3, 2008 |accessdate=October 3, 2008 | work=CBC News}}</ref> Manning was defeated by Liberal [[Scott Andrews (politician)|Scott Andrews]], while [[St. John's East]] and [[St. John's South—Mount Pearl]], which were represented by Conservatives not running for re-election, were won by the NDP and Liberals, respectively, leaving the Conservatives with no representatives in Newfoundland and Labrador.
+
+====Leadership====
+Since before the election was announced, the Conservative party ran attack ads about Dion, saying he was not a capable leader. Dion criticized the Conservatives for running the ads.<ref>[http://www.cbc.ca/canada/story/2007/01/28/ads-dion.html "Tories launch attack ads aimed at Dion"], [[cbc.ca]], January 29, 2007.</ref>
+
+On October 9, Stephen Harper called into question the abilities of Liberal leader Dion after footage from the false starts of an interview on [[CTV Atlantic]], and later rebroadcast on ''[[Mike Duffy Live]]'', were aired to the public, and criticized Dion's grasp of the English language and the strength of the Liberals' plan for the Canadian economy.
+
+The footage shows interviewer [[Steve Murphy (Canadian news anchor)|Steve Murphy]] asking Dion the question: "If you were the Prime Minister now, what would you have done about the economy, and this crisis, that Mr. Harper has not done?".  Dion had difficulty in understanding the question, repeatedly asking Murphy to clarify if he meant if Dion was Prime Minister now, next Tuesday on election day, last week, last month, 60 weeks ago, or two and a half years ago.  Eventually, after three start overs to the interview, Dion responded with what he would do if elected Prime Minister in the future. CTV initially agreed to restart the interviews and not air the false starts but changed their minds and announced that they felt it was their responsibility to show it.<ref>{{cite news|url=http://network.nationalpost.com/np/blogs/posted/archive/2008/10/10/stephane-dion-responds-to-interview-gaffe-it-was-difficult-to-understand-and-harper-has-no-class.aspx|title=Stéphane Dion responds to interview gaffe: It was 'difficult to understand' and Harper has 'no class'|last=Yum|first=Kenny|date=October 10, 2008|publisher=National Post|accessdate=October 12, 2008}}</ref> Harper responded to the clips by saying that "When you're running a trillion-and-a-half-dollar economy you don't get a chance to have do-overs, over and over again" and "What this incident actually indicates very clearly is Mr. Dion and the Liberal Party really don't know what they would do on the economy", and when told that the difficulties were in part due to English being Dion's second language, Harper said: "I don't think this is a question of language at all. The question was very clear. It was asked repeatedly".<ref>{{cite web|url=http://network.nationalpost.com/np/blogs/fullcomment/archive/2008/10/09/not-st-233-phane-dion-s-finest-hour.aspx |title=Not Stéphane Dion's finest hour - Full Comment |publisher=Network.nationalpost.com |accessdate=October 16, 2008}}</ref><ref>{{cite news|url=http://www.thestar.com/article/515212 |title=TheStar.com &#124; Federal Election &#124; Tories show video to play up Dion's language difficulties |publisher=Thestar.com |author=ATV |date= October 9, 2008|accessdate=October 16, 2008 | location=Toronto}}</ref><ref>{{cite news|url=http://www.cbc.ca/news/canadavotes/story/2008/10/09/dion-ctv.html |title=CBC.ca - Canada Votes - Conservatives jump on Dion interview |publisher=Cbc.ca |author=CBC News |date= October 9, 2008|accessdate=October 16, 2008}}</ref><ref>{{cite news|url=http://www.theglobeandmail.com/servlet/story/RTGAM.20081009.welxndionatv1009/BNStory/politics/home?cid=al_gam_mostview |title=http://www.theglobeandmail.com: Liberals slam Tories for &#8216;shamelessly' attacking Dion |publisher=Theglobeandmail.com |author=Tu Thanh Ha And Jane Taber And Steven Chase |accessdate=October 16, 2008 |location=Toronto}}</ref>
+
+[[Mark Dunn]], a spokesman for Dion, accused the Tories of making fun of the Liberal leader's hearing issues. Dion responded to Harper's comments, saying Harper had "no class", saying "I did not understand the question", and "Maybe it's because I have a hearing problem, maybe because [English is] my second language, but I did not understand the question".<ref name="cbc Dion Strikes Back">{{cite news|url = http://www.cbc.ca/news/canadavotes/story/2008/10/10/dion-invu.html |title = Dion strikes back at Harper's criticisms of his leadership |accessdate = October 10, 2008|last = [[Canadian Broadcasting Corporation]]|authorlink = |date=October 2008 | work=CBC News |deadurl=yes}} {{Dead link|date=April 2011|bot=RjwilmsiBot}}</ref> Both the Conservatives and the CTV have come under criticism for their handling of the footage, but they have stated they stand by their actions.<ref name="cbc Dion Strikes Back" /> Duceppe has called Harper's comments a "double standard", saying that many English-speaking politicians have little or no ability to speak French, yet francophones are somehow always expected to be perfect, and that the attack was an attempted "low blow".  But Duceppe also took the opportunity to criticise Dion, suggesting he understood the question.  "The real question is that I think Dion understood the question.  The real problem wasn't the language, it was the substance," Duceppe said, "He had nothing to say".<ref name="cbc Harper's Double Standards: Duceppe">{{cite news|url = http://www.cbc.ca/news/canadavotes/story/2008/10/10/duceppe-dion.html |title = Harper's criticism of Dion interview 'double standard': Duceppe |accessdate = October 10, 2008|last = [[Canadian Broadcasting Corporation]]|authorlink = |date=October 2008 | work=CBC News |deadurl=yes}} {{Dead link|date=April 2011|bot=RjwilmsiBot}}</ref> Layton also defended Dion, saying he has "struggled with questions, too".<ref name="cbc Harper's Double Standards: Duceppe" />
+
+Former Prime Minister [[Jean Chrétien]] has come out criticizing Harper's leadership abilities, noting especially Harper's controlling ways with his cabinet ministers, saying he would have quit if former prime minister [[Pierre Elliott Trudeau]] had treated him that way, that "Mr. Dion was a minister for nine years. And Mr. Harper arrived there with no experience and it shows", that the phrase 'Tory times are bad times', in use since the 1930s, was still true and that "Harper destroyed 50 years of relationships with China", Canada's second biggest trading partner after the US, noting both past Liberal and Progressive Conservative governments sought to maintain its dealings with the key trading partner. Former Prime Minister [[Paul Martin]] has also supported Dion's plans and abilities, and many have noted Dion's ability to get both Chrétien and Martin to support him, despite Chrétien and Martin's ongoing feud.<ref name="cbc 'Tory times are bad times': Chrétien">{{cite news|url = http://www.cbc.ca/news/canadavotes/story/2008/10/10/chretien-dion.html |title = 'Tory times are bad times': Chrétien |accessdate = October 10, 2008|last = [[Canadian Broadcasting Corporation]]|authorlink = |date=October 2008 | work=CBC News |deadurl=yes}} {{Dead link|date=April 2011|bot=RjwilmsiBot}}</ref>
+
+====Listeriosis outbreak====
+{{main|2008 Canadian listeriosis outbreak}}
+The [[Minister of Agriculture (Canada)|Minister of Agriculture]] [[Gerry Ritz]], who has already been criticized by Canada's food scientists for his handling of the [[2008 Canadian listeriosis outbreak|2008 listeriosis outbreak]],<ref name="CBC:Food Union against Ritz">{{cite news
+| title=Food scientists' union joins opposition calls for Ritz's firing
+| url=http://www.cbc.ca/news/canadavotes/story/2008/09/19/ritz-listeriosis.html
+| work=[[CBC News]]
+| date=September 20, 2008
+| accessdate=September 20, 2008
+| deadurl=yes}} {{Dead link|date=April 2011|bot=RjwilmsiBot}}</ref> has also been criticized for making inappropriate comments, further angering the families of those affected.{{Citation needed|date=October 2008}} Ritz had joked about the outbreak while he was on a conference call with scientists and political staffers on August 30, saying the political fallout from the outbreak was "like a death by a thousand cuts, or should I say cold cuts". In addition, when he was informed of a listeriosis-related death in [[Prince Edward Island]], he quipped: "Please tell me it's [Liberal agriculture critic] [[Wayne Easter]]". Despite calls for Ritz's resignation from the other parties and the public, Stephen Harper has supported Ritz and rebuffed calls for his resignation.<ref name="Families angry about Ritz">{{cite news
+| title=Families angry about Ritz's listeriosis jokes
+| url=http://www.cbc.ca/canada/story/2008/09/18/listeriosis-families.html
+| work=[[CBC News]]
+| date=September 18, 2008
+| accessdate=September 19, 2008}}</ref>
+
+The [[Public Service Alliance of Canada]] revealed to the media that the Conservative party plans to cut federal funding to meat inspection programs by $3 million, effectively ending their operation in Manitoba, Saskatchewan and British Columbia.<ref name="Conservatives pull meat inspection">{{cite news
+| title=Conservatives to pull out of provincial meat inspection programs if elected: union
+| url=http://www.cbc.ca/canada/story/2008/09/18/meat-inspection.html
+| work=[[CBC News]]
+| date=September 19, 2008
+| accessdate=September 19, 2008}}</ref>
+
+====Speech plagiarism====
+On September 30, it was revealed by [[Bob Rae]] of the Liberal Party that on March 20, 2003, Stephen Harper had [[Plagiarism|plagiarized]] a speech that called for troops to be [[2003 invasion of Iraq|deployed to Iraq to assist the US invasion]] from Australian Prime Minister [[John Howard]], which Howard had delivered two days before, on March 18.<ref name="cbc Harper plagiarizes speech on Iraq">{{cite news
+| title=Liberals accuse Harper of plagiarizing speech on Iraq
+| url=http://www.cbc.ca/news/canadavotes/story/2008/09/30/rae-harper.html
+| work=[[CBC News]]
+| date=September 30, 2008
+| accessdate=September 30, 2008
+| deadurl=yes}} {{Dead link|date=April 2011|bot=RjwilmsiBot}}</ref>
+
+Following Rae's statement, Harper's spokesman [[Kory Teneycke]] dismissed the issue as irrelevant, saying "I'm not going to get into a debate about a five-year-old speech that was delivered three Parliaments ago, two elections ago, when the prime minister was the leader of a party that no longer exists".<ref name="cbc Harper plagiarizes speech on Iraq" />
+
+The Canadian Alliance staff member and former [[Fraser Institute]] policy analyst, Owen Lippert, who wrote that speech was working on the current election campaign at Conservative campaign headquarters. On September 30, 2008 he issued a statement and resigned as a result of the incident.<ref name="CBCplagiarize">{{cite news|url = http://www.cbc.ca/news/canadavotes/story/2008/09/30/rae-harper.html|title = Harper staffer quits over plagiarized 2003 speech on Iraq|accessdate = October 2, 2008|last = [[Canadian Broadcasting Corporation|CBC]]|authorlink = |date=September 2008 | work=CBC News |deadurl=yes}} {{Dead link|date=April 2011|bot=RjwilmsiBot}}</ref>
+
+He stated:
+{{cquote|Pressed for time, I was overzealous in copying segments of another world leader’s speech. Neither my superiors in the Office of the Leader of the Opposition nor the leader of the Opposition was aware that I had done so.<ref name="CBCplagiarize" /> }}
+
+On October 3, there was a second plagiarism allegation from the Liberals, who said that Harper had copied several sentences from a speech by former Ontario premier [[Mike Harris]]. Harper denied the allegation, saying "we're talking about a couple of sentences of fairly standard political rhetoric".<ref>[http://www.cbc.ca/news/canadavotes/story/2008/10/04/harper-plagiarism.html Harper denies latest allegations of speech plagiarism]. ''CBC News''. October 4, 2008.</ref>
+
+On October 6, the Conservatives contended that Dion had also committed plagiarism when, as Minister of the Environment in 2005, he went to a [[United Nations]] conference on climate change to deliver a speech which had substantial similarities to the executive summary of a year old UN report.  The Liberal party did not respond to the plagiarism allegation.<ref>{{cite news|url=http://www.thestar.com/FederalElection/article/513799 |title=TheStar.com - Tories accuse Dion of plagiarism |publisher=Thestar.com |date= October 8, 2008|accessdate=October 16, 2008 | location=Toronto | first=Les | last=Whittington}}</ref><ref>{{cite web|url=http://www.citynews.ca/news/news_27724.aspx |title=CityNews: Turnaround: Tories Claim Stéphane Dion Plagiarized Someone Else's Speech |publisher=Citynews.ca |author=CityNews.ca Staff |date=October 7, 2008 |accessdate=October 16, 2008}}</ref>
+
+===Controversies===
+
+====Candidates====
+
+=====Conservative=====
+Chris Reid, the Conservative candidate from [[Toronto Centre]], resigned over controversial statements on his blog, which advocated revising Canadian [[gun control]] legislation to legalize [[concealed carry|concealed carriage]] of handguns.<ref>{{cite news|url=http://www.thestar.com/FederalElection/article/504069 |title=TheStar.com |publisher=TheStar.com |date=2008-09-23 |accessdate=2012-02-02 |location=Toronto |first=Petti |last=Fong}}</ref> He was replaced by David Gentili.
+
+The Conservatives apologized after an aide to [[Pontiac (electoral district)|Pontiac]] candidate [[Lawrence Cannon]] told [[Aboriginal peoples in Canada|Aboriginal]] protesters that they were free to meet with Cannon "if you behave and you're sober and there's no problems and if you don't do a sit down and whatever".<ref>{{cite news| last = Curry| first = Bill| title = Tories apologize for 'sober' remark to aboriginal protester| publisher = [[The Globe and Mail]]| date = September 18, 2008| url = http://www.theglobeandmail.com/servlet/story/RTGAM.20080918.welxncanapolgy0918/BNStory/Front| accessdate = November 28, 2008| location=Toronto}}</ref>
+
+=====Liberal=====
+Liberal candidate Simon Bédard was also asked to resign after he reiterated his 1990 comments, suggesting that lethal force should have been used in the [[Oka Crisis]].<ref>{{cite web|last=Ottawa |first=The |url=http://www.canada.com/ottawacitizen/news/story.html?id=e8e54944-b517-4728-b263-219b3787d619 |title=Ottawa Citizen |publisher=Canada.com |date=2008-09-12 |accessdate=2012-02-02}}</ref><ref>{{cite web|last=Gazette |first=Montreal |url=http://www.canada.com/topics/news/features/decisioncanada/story.html?id=cdbe8c09-5c11-402f-9817-c321c4ff75a8 |title=Canada.com |publisher=Canada.com |date=2008-09-11 |accessdate=2012-02-02}}</ref>
+
+Liberal candidate Lesley Hughes was dropped by the Liberal Party after making controversial comments about the [[September 11, 2001 attacks]].  She continued to campaign as an independent, though she appeared as a Liberal on the ballot.<ref>[http://www.winnipegsun.com/canadavotes/news/2008/10/02/6954726.html Winnipeg Sun]{{dead link|date=February 2012}}</ref>
+
+=====NDP=====
+Andrew McKeever, an NDP candidate in [[Durham (electoral district)|Durham]], announced on October 3 that he would resign from the election campaign after it was revealed that he had posted comments on [[Facebook]] in which he called one war activist a “fascist bitch” and threatened to beat up another person. Mr. McKeever wrote comments peppered with expletives and calling the operators of a war resister website “Nazis.” McKeever was also quoted as saying “I like the part in ''Schindler’s List'' when the guard starts waxing the prisoners.” McKeever’s decision to drop out of the race came with just over a week left in the campaign, meaning his name would remain on the ballot. One week before the publication of McKeever's resignation, NDP leader Jack Layton defended McKeever and refused to make him step down.
+
+[[Julian West (politician)|Julian West]], the candidate for the riding of [[Saanich—Gulf Islands]], dropped out of the race after details surfaced about an environmental event he attended 12 years ago when he went skinny-dipping and asked two teenagers to body-paint him. Two other candidates in British Columbia who were proponents of marijuana decriminalization&nbsp;— [[Dana Larsen]] and Kirk Tousaw&nbsp;— resigned earlier after videos they had produced for Internet site Pot-TV were released to the media. One of the videos, filmed in 2000, showed Mr. Larsen, former leader of the [[BC Marijuana Party]], preparing to light up a joint before driving a car, after having taken the short-acting hallucinogenic drug DMT earlier in the evening.<ref>[http://network.nationalpost.com/np/blogs/posted/archive/2008/10/04/facebook-flame-war-forces-ndp-candidate-to-resign.aspx National Post]{{dead link|date=February 2012}}</ref><ref>http://pot-tv.net/archive/shows/pottvshowse-403.html</ref>
+
+=====Green=====
+John Shavluk, the Green candidate in [[Newton—North Delta]], was removed from the party's slate of candidates on September 4, just before the election call, after it was revealed that he had previously published comments in his blog about the [[September 11 attacks]] in 2001, in which he referred to the [[World Trade Center]] as "the shoddily built Jewish world bank headquarters".<ref>{{cite web|last=McNair|first=Adrian|title=Elizabeth May and the John Shavluk Story {{!}} Unambiguously Ambidextrous|url=http://unambig.com/elizabeth-may-and-the-john-shavluk-story/|accessdate=25 April 2013}}</ref>  He was replaced by Liz Walker as the Green Party candidate, but remained on the ballot as an independent.
+
+=====Independent=====
+At an all-candidates debate staged for a high school student audience in [[Sudbury (electoral district)|Sudbury]] on September 29, independent candidate [[David Popescu (politician)|David Popescu]] responded to a question about same-sex marriage by stating that "homosexuals should be executed". His remarks were widely criticized across Canada, and the [[Greater Sudbury Police Service]] announced an investigation into whether the comments constituted a crime under Canadian [[hate speech]] legislation.<ref name=Canwest1>[http://www.canada.com/topics/news/features/decisioncanada/story.html?id=015205ac-a93c-4239-8e4f-abbc1d6bb836 Sudbury police investigate independent candidate over gay comments], Canwest News Service, October 1, 2008.</ref> He was subsequently investigated by the [[Toronto Police]] as well, after a radio interview on October 2 in which he specifically advocated the execution of [[Egale Canada]] executive director [[Helen Kennedy]].<ref>[http://toronto.ctv.ca/servlet/an/local/CTVNews/20081007/Sudbury_remarks_081007/20081007/?hub=TorontoNewHome "Sudbury candidate probed after second anti-gay remark"], [[CTV Television Network|ctv.ca]], October 8, 2008.</ref>
+
+====Vandalism====
+Supporters of Ontario Liberal MPs [[Carolyn Bennett]] ([[St. Paul's (electoral district)|St. Paul's]]) and [[Gerard Kennedy]] ([[Parkdale—High Park]]) who had Liberal signs outside their houses were subject to [[vandalism]] during the later hours of October 3, including graffiti, phone and cable lines being cut, and damage to vehicles that included brake cutting. Toronto police reported over 30 incidents of vandalism as of October 6.<ref>[http://www.cbc.ca/news/canadavotes/story/2008/10/06/vandalism-highpark.html More cars damaged as election vandalism spreads in Toronto], ''[[CBCnews.ca]]'', October 6, 2008</ref> Some of the victims did not realize their brakes had been cut until they were in traffic, and there was at least one near-accident.<ref>[http://www.theglobeandmail.com/servlet/story/LAC.20081006.ELECTIONVANDALS6/TPStory/National Vandals target Toronto Liberals, ''[[The Globe and Mail]]'', October 6, 2008]</ref> Liberal Senator [[Jerry Grafstein]] was one of the residents who reported vandalism to his car.<ref name="grafstein">[http://www.thestar.com/FederalElection/article/516047 "Liberal senator's Cadillac damaged"], ''[[Toronto Star]]'', October 11, 2008.</ref>
+
+Vandalism was also reported at the campaign offices of Trinity—Spadina Liberal candidate [[Christine Innes]] and Beaches—East York [[New Democratic Party (Canada)|New Democratic Party]] candidate [[Marilyn Churley]],<ref name="grafstein"/> as well as in Niagara Falls.<ref name="Niagara Falls Review">[http://www.niagarafallsreview.ca/ArticleDisplay.aspx?e=1237572 Police confirm three reports of brakes damage], Niagara Falls Review, October 8, 2008.</ref>
+
+====Legality of the election====
+
+After the election was called, [[Democracy Watch (Canada)|Democracy Watch]], an Ottawa-based advocacy group, filed a legal suit claiming that the election call was illegal<ref>{{cite news|url=http://www.thestar.com/article/692575|title=Judge to rule if 2008 Harper election call legal | work=The Star | location=Toronto | first=Sue | last=Bailey | date=September 8, 2009 | accessdate=April 28, 2010}}</ref> because it violated the 2007 amendments to the [[Canada Elections Act]]. These amendments, introduced by the Harper government, set fixed dates for elections, and fulfilled a 2006 promise made by Harper to end the Prime Minister's ability to call snap elections.
+
+On September 17, 2009, the [[Federal Court of Canada]] ruled that the election was not unfair, and therefore not illegal. Democracy Watch's appeal to the Federal Court of Appeal was also dismissed, and the Supreme Court denied leave to hear a further appeal.<ref>{{cite news |first=Sue |last=Bailey |title=Supreme Court will not weigh in on Harper fixed-election case |url=http://www.thestar.com/news/canada/article/925158--supreme-court-will-not-weigh-in-on-harper-fixed-election-case |agency=The Canadian Press |newspaper=The Toronto Star |date=January 20, 2011 |accessdate=April 12, 2011 }}</ref>
+
+==Target seats==
+The following is a list of ridings which had narrowly been lost by the indicated party in the 2006 election. For instance, under the Liberal column are the 15 seats in which they came closest to winning but did not. Listed is the name of the riding, followed by the party which was victorious (in parentheses) and the margin, in terms of percentage of the vote, by which the party lost.
+
+These ridings were targeted by the specified party because the party had lost them by a very slim margin in the 2006 election.
+
+Up to 15 are shown, with a maximum margin of victory of 15%.
+
+<nowiki>*</nowiki> Indicates incumbent not running again. To clarify further; this is a list of federal election winners with their party in parentheses, and their margin as a percentage of the vote over the party whose list the seat is on (not the same as the margin of victory if the party potentially "targeting" the seat in that list did not finish second in the previous election). "Won" means that the targeting party won the seat from the incumbent party. "Held" means the incumbent party held the seat.
+
+{| class="wikitable"
+|-
+! style="background:#6495ed;"| [[Conservative Party of Canada|Conservative]]
+! style="background:#f08080;"| [[Liberal Party of Canada|Liberal]]
+|- valign="top"
+|
+#[[Desnethé—Missinippi—Churchill River]], SK (Lib) 0.3%* (won)†
+#[[Brant (electoral district)|Brant]], ON (Lib) 0.9% (won)
+#[[West Nova]], NS (Lib) 1.1% (won)
+#[[Vancouver Island North]], BC (NDP) 1.1% (won)
+#[[Oakville (electoral district)|Oakville]], ON (Lib) 1.3% (won)
+#[[West Vancouver—Sunshine Coast—Sea to Sky Country]], BC (Lib) 1.5% (won)‡
+#[[Huron—Bruce]], ON (Lib) 1.8%* (won)
+#[[London West]], ON (Lib) 2.2% (won)
+#[[Madawaska—Restigouche]], NB (Lib) 2.4% (held)
+#[[Newton—North Delta]], BC (Lib) 3.6% (held)
+#[[Saint Boniface (electoral district)|Saint Boniface]], MB (Lib) 3.6% (won)
+#[[Saint John (electoral district)|Saint John]], NB (Lib) 3.6% (won)
+#[[Mississauga South]], ON (Lib) 4.1% (held)
+#[[Richmond (British Columbia federal electoral district)|Richmond]], BC (Lib) 4.1% (won)
+#[[Random—Burin—St. George's]], NL (Lib) 4.7% (held)
+|
+#[[Parry Sound—Muskoka]], ON (Con) <0.1% (held)
+#[[Winnipeg South]], MB (Con) 0.3% (held)
+#[[Glengarry—Prescott—Russell]], ON (Con) 0.4% (held)
+#[[Tobique—Mactaquac]], NB (Con) 0.9% (held)
+#[[St. Catharines (electoral district)|St. Catharines]], ON (Con) 1.1% (held)
+#[[Ahuntsic (electoral district)|Ahuntsic]], QC (BQ) 1.7% (held)
+#[[Fleetwood—Port Kells]], BC (Con) 1.9% (held)
+#[[London—Fanshawe]], ON (NDP) 1.9% (held)
+#[[Ottawa—Orléans]], ON (Con) 2.0% (held)
+#[[Simcoe North]], ON (Con) 2.0% (held)
+#[[Brossard—La Prairie]], QC (BQ) 2.2% (won)
+#[[Papineau (electoral district)|Papineau]], QC (BQ) 2.2% (won)
+#[[Burnaby—Douglas]], BC (NDP) 2.6% (held)
+#[[Barrie (electoral district)|Barrie]], ON (Con) 2.7% (held)
+#[[Kitchener—Conestoga]], ON (Con) 2.7% (held)
+|-
+! style="background:#87cefa;"| [[Bloc Québécois]]
+! style="background:#f4a460;"| [[New Democratic Party (Canada)|New Democratic]]
+|- valign="top"
+|
+#[[Louis-Hébert (electoral district)|Louis-Hébert]], QC (Con) 0.4% (won)
+#[[Beauport—Limoilou]], QC (Con) 1.6% (held)
+#[[Charlesbourg—Haute-Saint-Charles]], QC (Con) 2.7% (held)
+#[[Hull—Aylmer]], QC (Lib) 3.3% (held)
+#[[Honoré-Mercier (electoral district)|Honoré-Mercier]], QC (Lib) 3.8% (held)
+#[[Pontiac (electoral district)|Pontiac]], QC (Con) 5.0% (held)
+#[[Laval—Les Îles]], QC (Lib) 6.1% (held)
+#[[Outremont (electoral district)|Outremont]], QC (Lib) 6.3%¹ (held by NDP)
+#[[Bourassa (electoral district)|Bourassa]], QC (Lib) 11.4% (held)
+#[[Jonquière—Alma]], QC (Con) 12.8% (held)
+#[[Portneuf—Jacques-Cartier]], QC (Ind) 13.9% (held)
+|
+#[[Thunder Bay—Superior North]], ON (Lib) 1.0%* (won)
+#[[Newton—North Delta]], BC (Lib) 1.6% (held)
+#[[Thunder Bay—Rainy River]], ON (Lib) 1.7% (won)
+#[[Algoma—Manitoulin—Kapuskasing]], ON (Lib) 3.7% (won)
+#[[Nickel Belt]], ON (Lib) 4.6%* * (won)
+#[[Esquimalt—Juan de Fuca]], BC (Lib) 4.6% (held)
+#[[Welland (electoral district)|Welland]], ON (Lib) 4.8% (won)
+#[[Oshawa (electoral district)|Oshawa]], ON (Con) 5.2% (held)
+#[[Pitt Meadows—Maple Ridge—Mission]], BC (Con) 5.2% (held)
+#[[Beaches—East York]], ON (Lib) 5.4% (held)
+#[[Kenora (electoral district)|Kenora]], ON (Lib) 5.7% (won by Conservatives)
+#[[Saskatoon—Rosetown—Biggar]], SK (Con) 6.5%* (held)
+#[[Central Nova]], NS (Con) 7.8% (held)
+#[[South Shore—St. Margaret's]], NS (Con) 8.3% (held)
+#[[Fleetwood—Port Kells]], BC (Con) 8.3% (held)
+|-
+| colspan=2|  
+† Won by the Conservatives<ref>{{cite web|url=http://en.wikipedia.org/wiki/Desneth%C3%A9%E2%80%94Missinippi%E2%80%94Churchill_River |title=Desnethé—Missinippi—Churchill River - Wikipedia, the free encyclopedia |publisher=En.wikipedia.org |accessdate=2012-02-02}}</ref> in an intervening by-election with more than a 15% margin over the Liberals.<br>
+‡ The incumbent had become an independent and was sitting as a Green at the time of dissolution.<br>
+¹ Won by the NDP in an intervening [[By-elections to the 39th Canadian Parliament#Outremont|by-election]] with more than a 19% margin over the Liberals.
+|}
+[[Image:LNC Byelection.JPG|thumb|right|250px|[[Lawn sign]]s for all the major candidates decorate an intersection during the London North Centre by-election]]
+
+*The [[Green Party of Canada]] did not come within 15% of winning any riding in the 2006 election, but came 9.0% short of winning [[London North Centre]], ON (Lib) in a November 2006 by-election.
+
+===Targeted Cabinet ministers===
+The following Cabinet ministers were elected by a margin of less than 10% in 2006:
+#[[Tony Clement]], Health and Federal Economic Initiative for Northern Ontario: 0.1% over Lib in [[Parry Sound—Muskoka]], ON
+#[[Lawrence Cannon]], Transport, Infrastructure and Communities: 5.0% over BQ in [[Pontiac (electoral district)|Pontiac]], QC
+#[[Jim Flaherty]], Finance: 5.7% over Lib in [[Whitby—Oshawa]], ON
+#[[Rob Nicholson]], Justice: 5.9% over Lib in [[Niagara Falls (electoral district)|Niagara Falls]], ON
+#[[Peter MacKay]], Defence and Atlantic Opportunities: 7.8% over NDP in [[Central Nova]], NS
+#[[John Baird (Canadian politician)|John Baird]], Environment: 9.0% over Lib in [[Ottawa West—Nepean]], ON
+
+==Potential fall of government==
+
+{{main|2008 Canadian parliamentary dispute}}
+
+On December 1, 2008, as the result of opposition dissatisfaction with the government's economic update (which failed to include stimulus measures to help the Canadian economy contend with the [[Economic crisis of 2008|global crisis]] and included a 'poison pill' regarding the cessation of public party financing), the leaders of the Liberal Party, New Democratic Party, and Bloc Québécois announced they had reached an agreement to approach the [[Governor General of Canada|Governor General]] for the purpose of forming a [[coalition government]]. Combined, the three opposition parties constitute a majority of seats in the House of Commons. Parliament was due to vote on a [[motion of no-confidence|no-confidence motion]] on December 8; if successful, the Liberals and NDP would have formally asked the Governor General to form a coalition minority government for 30 months, while the BQ pledged to support for at least 18 months. Liberal leader Stéphane Dion would have become prime minister until the selection of his successor at the Liberal leadership convention in May 2009, and a coalition [[Cabinet of Canada|cabinet]] would have comprised 18 Liberal (including a finance minister) and 6 NDP ministers. Governor General [[Michaëlle Jean]] had cut short a [[state visit]] to [[Europe]] "in light of the current political situation in Canada".<ref>{{cite news|url=http://www.cbc.ca/canada/story/2008/12/01/coalition-talks.html|title=Liberals, NDP, Bloc sign deal on proposed coalition | work=CBC News | date=December 1, 2008}}</ref>
+On December 4, 2008, Jean granted Harper's request to [[Prorogation in Canada|prorogue]] Parliament until January 26, 2009, thereby staving off the prospect of an imminent change in government.<ref>{{cite news|url=http://www.cbc.ca/canada/story/2008/12/04/harper-jean.html|title=GG agrees to suspend Parliament: Harper |publisher=[[Canadian Broadcasting Corporation|CBC]]|accessdate=December 4, 2008|date=December 4, 2008}}</ref>
+
+==Opinion polls==
+[[Image:2008FederalElectionPolls.png|thumb|Plot of Opinion Polls during the election period]]
+{{main|Opinion polling in the Canadian federal election, 2008}}
+
+==Endorsements==
+{{further|Newspaper endorsements in the Canadian federal election, 2008}}
+
+==Candidates by party==
+*[[Bloc Québécois candidates, 2008 Canadian federal election]]
+*[[Christian Heritage Party candidates, 2008 Canadian federal election]]
+*[[Conservative Party candidates, 2008 Canadian federal election]]
+*[[Green Party candidates, 2008 Canadian federal election]]
+*[[Liberal Party candidates, 2008 Canadian federal election]]
+*[[New Democratic Party candidates, 2008 Canadian federal election]]
+
+==Seats that changed hands==
+
+===Incumbent MPs not running for re-election===
+
+====Conservatives====
+
+{| border="1" cellpadding="4" cellspacing="0" style="width:40%; border-collapse:collapse;"
+|- style="background:darkgrey;"
+!colspan=2|Electoral District
+!colspan=2|Resigning incumbent
+!colspan=2|Succeeded by
+|-
+| style="background:whitesmoke;"|NL
+| style="background:whitesmoke;"|[[St. John's East]]
+|{{Canadian politics/party colours/Conservative}}| &nbsp;
+|[[Norman Doyle]]<ref>[http://www.cbc.ca/canada/newfoundland-labrador/story/2007/03/13/doyle-retires.html Veteran St. John's MP Doyle retiring from politics], ''[[CBC News]]'', March 13, 2007</ref>
+|{{Canadian politics/party colours/NDP}}| &nbsp;
+|[[Jack Harris (Newfoundland and Labrador politician)|Jack Harris]]
+|-
+| style="background:whitesmoke;"|NL
+| style="background:whitesmoke;"|[[St. John's South—Mount Pearl]]
+|{{Canadian politics/party colours/Conservative}}| &nbsp;
+|[[Loyola Hearn]]<ref name="theglobeandmail1">[http://www.theglobeandmail.com/servlet/story/RTGAM.20080902.wemerson03/BNStory/National/home Emerson won't run again: sources], ''[[The Globe and Mail]]'', September 2, 2008</ref>
+|{{Canadian politics/party colours/Liberal}}| &nbsp;
+|[[Siobhán Coady]]
+|-
+| style="background:whitesmoke;"|ON
+| style="background:whitesmoke;"|[[Thunder Bay—Superior North]]
+|{{Canadian politics/party colours/Conservative}}| &nbsp;
+|[[Joe Comuzzi]]<ref>[http://www.tbsource.com/Localnews/index.asp?cid=111281 Comuzzi won't run in upcoming election], ''[[Thunder Bay's Source]]'', September 5, 2008</ref>
+|{{Canadian politics/party colours/NDP}}| &nbsp;
+|[[Bruce Hyer]]
+|-
+| style="background:whitesmoke;"|MB
+| style="background:whitesmoke;"|[[Portage—Lisgar]]
+|{{Canadian politics/party colours/Conservative}}| &nbsp;
+|[[Brian Pallister]]<ref>[http://www.winnipegsun.com/News/Manitoba/2008/01/10/4764970-sun.html Pallister to quit politics], ''[[Winnipeg Sun]]'', January 10, 2008</ref>
+|{{Canadian politics/party colours/Conservative}}| &nbsp;
+|[[Candice Hoeppner]]
+|-
+| style="background:whitesmoke;"|SK
+| style="background:whitesmoke;"|[[Palliser (Saskatchewan electoral district)|Palliser]]
+|{{Canadian politics/party colours/Conservative}}| &nbsp;
+|[[Dave Batters]]<ref>[http://www.cbc.ca/canada/saskatchewan/story/2008/09/02/batters-quits.html Sask. MP Batters won't run again, citing depression], ''[[CBC News]]'', September 2, 2008</ref>
+|{{Canadian politics/party colours/Conservative}}| &nbsp;
+|[[Ray Boughen]]
+|-
+| style="background:whitesmoke;"|SK
+| style="background:whitesmoke;"|[[Prince Albert (electoral district)|Prince Albert]]
+|{{Canadian politics/party colours/Conservative}}| &nbsp;
+|[[Brian Fitzpatrick (Canadian politician)|Brian Fitzpatrick]]<ref>[http://www.cbc.ca/canada/saskatchewan/story/2007/01/08/fitzpatrick.html Sask. Tory MP says he won't run again], ''[[CBC News]]'', January 9, 2007</ref>
+|{{Canadian politics/party colours/Conservative}}| &nbsp;
+|[[Randy Hoback]]
+|-
+| style="background:whitesmoke;"|SK
+| style="background:whitesmoke;"|[[Saskatoon—Rosetown—Biggar]]
+|{{Canadian politics/party colours/Conservative}}| &nbsp;
+|[[Carol Skelton]]<ref>[http://www.canada.com/topics/news/politics/story.html?id=c7ed3241-2d5a-4ec0-ab28-89622184137a Tory cabinet minister to step down], ''[[CanWest News Service]]'', August 3, 2007</ref>
+|{{Canadian politics/party colours/Conservative}}| &nbsp;
+|[[Kelly Block]]
+|-
+| style="background:whitesmoke;"|AB
+| style="background:whitesmoke;"|[[Calgary Northeast]]
+|{{Canadian politics/party colours/Conservative}}| &nbsp;
+|[[Art Hanger]]<ref>[http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20071010/art_hanger_071010/20071010?hub=QPeriod Alta. MP Art Hanger won't run in next election], ''[[CTV News]]'', October 10, 2007</ref>
+|{{Canadian politics/party colours/Conservative}}| &nbsp;
+|[[Devinder Shory]]
+|-
+| style="background:whitesmoke;"|AB
+| style="background:whitesmoke;"|[[Edmonton—St. Albert]]
+|{{Canadian politics/party colours/Conservative}}| &nbsp;
+|[[John G. Williams]]<ref>[http://www.cbc.ca/canada/edmonton/story/2006/08/10/williams-retires.html Edmonton-St. Albert MP won't run again], ''[[CBC News]]'', August 11, 2006</ref>
+|{{Canadian politics/party colours/Conservative}}| &nbsp;
+|[[Brent Rathgeber]]
+|-
+| style="background:whitesmoke;"|AB
+| style="background:whitesmoke;"|[[Edmonton—Sherwood Park]]
+|{{Canadian politics/party colours/Conservative}}| &nbsp;
+|[[Ken Epp]]<ref>[http://www.canada.com/edmontonjournal/news/cityplus/story.html?id=d2b9dd9e-6b5a-4e6f-a35f-faa3a1a32dda&k=50425 Thirteen years long enough for MP Ken Epp], ''[[Edmonton Journal]]'', August 18, 2006</ref>
+|{{Canadian politics/party colours/Conservative}}| &nbsp;
+|[[Tim Uppal]]
+|-
+| style="background:whitesmoke;"|AB
+| style="background:whitesmoke;"|[[Medicine Hat (federal electoral district)|Medicine Hat]]
+|{{Canadian politics/party colours/Conservative}}| &nbsp;
+|[[Monte Solberg]]<ref>[http://www.theglobeandmail.com/servlet/story/RTGAM.20080904.wsolberg0904/BNStory/National/home Solberg retiring from politics], ''[[The Globe and Mail]]'', September 3, 2008</ref>
+|{{Canadian politics/party colours/Conservative}}| &nbsp;
+|[[LaVar Payne]]
+|-
+| style="background:whitesmoke;"|AB
+| style="background:whitesmoke;"|[[Red Deer (electoral district)|Red Deer]]
+|{{Canadian politics/party colours/Conservative}}| &nbsp;
+|[[Bob Mills (politician)|Bob Mills]]<ref>[http://www.canada.com/calgaryherald/news/city/story.html?id=a125836d-91d5-4ec2-8df0-2f822f314771 Longtime Red Deer MP won't pursue sixth term], ''[[Calgary Herald]]'', February 8, 2008</ref>
+|{{Canadian politics/party colours/Conservative}}| &nbsp;
+|[[Earl Dreeshen]]
+|-
+| style="background:whitesmoke;"|AB
+| style="background:whitesmoke;"|[[Wild Rose (electoral district)|Wild Rose]]
+|{{Canadian politics/party colours/Conservative}}| &nbsp;
+|[[Myron Thompson]]<ref>[http://www.canada.com/edmontonjournal/news/story.html?id=fdbe2ed5-f770-4440-b329-2f362ef0a5f2 Thompson will leave politics], ''[[Edmonton Journal]]'', June 19, 2007</ref>
+|{{Canadian politics/party colours/Conservative}}| &nbsp;
+|[[Blake Richards]]
+|-
+| style="background:whitesmoke;"|BC
+| style="background:whitesmoke;"|[[Kamloops—Thompson—Cariboo]]
+|{{Canadian politics/party colours/Conservative}}| &nbsp;
+|[[Betty Hinton]]<ref>[http://www.bettyhinton.ca/index.asp?id=446 MP Betty Hinton Will Not Seek Re-election], ''bettyhinton.ca'', October 10, 2007</ref>
+|{{Canadian politics/party colours/Conservative}}| &nbsp;
+|[[Cathy McLeod]]
+|-
+| style="background:whitesmoke;"|BC
+| style="background:whitesmoke;"|[[Vancouver Kingsway]]
+|{{Canadian politics/party colours/Conservative}}| &nbsp;
+|[[David Emerson]]<ref name="theglobeandmail1"/>
+|{{Canadian politics/party colours/NDP}}| &nbsp;
+|[[Don Davies]]
+|}
+
+====Liberals====
+
+{| border="1" cellpadding="4" cellspacing="0" style="width:40%; border-collapse:collapse;"
+|- style="background:darkgrey;"
+!colspan=2|Electoral District
+!colspan=2|Resigning incumbent
+!colspan=2|Succeeded by
+|-
+| style="background:whitesmoke;"|NL
+| style="background:whitesmoke;"|[[Random—Burin—St. George's]]
+|{{Canadian politics/party colours/Liberal}}| &nbsp;
+|[[Bill Matthews]]<ref>[http://www.cbc.ca/canada/newfoundland-labrador/story/2007/04/03/matthews-retires.html Time right to retire, Liberal MP Matthews says], ''[[CBC News]]'', April 3, 2007</ref>
+|{{Canadian politics/party colours/Liberal}}| &nbsp;
+|[[Judy Foote]]
+|-
+| style="background:whitesmoke;"|PEI
+| style="background:whitesmoke;"|[[Egmont (electoral district)|Egmont]]
+|{{Canadian politics/party colours/Liberal}}| &nbsp;
+|[[Joe McGuire]]<ref>[http://www.cbc.ca/canada/prince-edward-island/story/2007/03/07/mcguire-retires.html Veteran P.E.I. MP to retire], ''[[CBC News]]'', March 7, 2007</ref>
+|{{Canadian politics/party colours/Conservative}}| &nbsp;
+|[[Gail Shea]]
+|-
+| style="background:whitesmoke;"|NB
+| style="background:whitesmoke;"|[[Fredericton (electoral district)|Fredericton]]
+|{{Canadian politics/party colours/Liberal}}| &nbsp;
+|[[Andy Scott (politician)|Andy Scott]]<ref>[http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20070305/andy_scott_070305/20070305?hub=Politics Veteran Liberal MP Andy Scott to quit politics], ''[[CTV News]]'', March 5, 2007</ref>
+|{{Canadian politics/party colours/Conservative}}| &nbsp;
+|[[Keith Ashfield]]
+|-
+| style="background:whitesmoke;"|QC
+| style="background:whitesmoke;"|[[LaSalle—Émard]]
+|{{Canadian politics/party colours/Liberal}}| &nbsp;
+|[[Paul Martin]]<ref>[http://www.theglobeandmail.com/servlet/story/RTGAM.20061213.wxlapierre13/BNStory/National/home Liberal MPs to step aside in Montreal], ''[[The Globe and Mail]]'', December 13, 2006</ref>
+|{{Canadian politics/party colours/Liberal}}| &nbsp;
+|[[Lise Zarac]]
+|-
+| style="background:whitesmoke;"|ON
+| style="background:whitesmoke;"|[[Brampton West]]
+|{{Canadian politics/party colours/Liberal}}| &nbsp;
+|[[Colleen Beaumier]]<ref>[http://www.northpeel.com/news/article/55864 Longtime MP resigns and opens door for new election candidate], ''[[The Brampton Guardian]]'', September 5, 2008</ref>
+|{{Canadian politics/party colours/Liberal}}| &nbsp;
+|[[Andrew Kania]]
+|-
+| style="background:whitesmoke;"|ON
+| style="background:whitesmoke;"|[[Etobicoke North]]
+|{{Canadian politics/party colours/Liberal}}| &nbsp;
+|[[Roy Cullen]]<ref>[http://www.cbc.ca/canada/toronto/story/2008/02/21/cullen.html Etobicoke MP will not run in next election], ''[[CBC News]]'', February 21, 2008</ref>
+|{{Canadian politics/party colours/Liberal}}| &nbsp;
+|[[Kirsty Duncan]]
+|-
+| style="background:whitesmoke;"|ON
+| style="background:whitesmoke;"|[[Huron—Bruce]]
+|{{Canadian politics/party colours/Liberal}}| &nbsp;
+|[[Paul Steckle]]<ref>[http://www.lfpress.ca/newsstand/News/Local/2007/03/07/3710078.html Veteran MP to retire from politics], ''[[The London Free Press]]'', March 7, 2007</ref>
+|{{Canadian politics/party colours/Conservative}}| &nbsp;
+|[[Ben Lobb]]
+|-
+| style="background:whitesmoke;"|ON
+| style="background:whitesmoke;"|[[Newmarket—Aurora]]
+|{{Canadian politics/party colours/Liberal}}| &nbsp;
+|[[Belinda Stronach]]<ref>[http://www.thestar.com/Article/202105 Belinda Stronach to quit politics], ''[[Toronto Star]]'', April 11, 2007</ref>
+|{{Canadian politics/party colours/Conservative}}| &nbsp;
+|[[Lois Brown]]
+|-
+| style="background:whitesmoke;"|ON
+| style="background:whitesmoke;"|[[Nickel Belt]]
+|{{Canadian politics/party colours/Liberal}}| &nbsp;
+|[[Raymond Bonin]]<ref>[http://www.northernlife.ca/news/LocalNews/2006/11-16-06-bonin_retires.asp?NLStory=11-16-06-bonin_retires MP Ray Bonin doesn’t plan to run again], ''[[Northern Life (newspaper)|Northern Life]]'', November 16, 2006</ref>
+|{{Canadian politics/party colours/NDP}}| &nbsp;
+|[[Claude Gravelle]]
+|-
+| style="background:whitesmoke;"|ON
+| style="background:whitesmoke;"|[[Scarborough Southwest]]
+|{{Canadian politics/party colours/Liberal}}| &nbsp;
+|[[Tom Wappel]]<ref>[http://www.cbc.ca/canada/story/2007/03/23/wappel-retiring.html Outspoken Liberal MP Wappel retiring], ''[[CBC News]]'', March 23, 2007</ref>
+|{{Canadian politics/party colours/Liberal}}| &nbsp;
+|[[Michelle Simson]]
+|-
+| style="background:whitesmoke;"|NU
+| style="background:whitesmoke;"|[[Nunavut (electoral district)|Nunavut]]
+|{{Canadian politics/party colours/Liberal}}| &nbsp;
+|[[Nancy Karetak-Lindell]]<ref>[http://www.nunatsiaq.com/archives/61222/news/nunavut/61222_01.html It’s my last term as MP, Nancy Karetak-Lindell says], ''[[Nunatsiaq News]]'', December 22, 2006</ref>
+|{{Canadian politics/party colours/Conservative}}| &nbsp;
+|[[Leona Aglukkaq]]
+|}
+
+====Bloc Québécois====
+
+{| border="1" cellpadding="4" cellspacing="0" style="width:40%; border-collapse:collapse;"
+|- style="background:darkgrey;"
+!colspan=2|Electoral District
+!colspan=2|Resigning incumbent
+!colspan=2|Succeeded by
+|-
+| style="background:whitesmoke;"|QC
+| style="background:whitesmoke;"|[[Drummond (electoral district)|Drummond]]
+|{{Canadian politics/party colours/BQ}}| &nbsp;
+|[[Pauline Picard]]
+|{{Canadian politics/party colours/BQ}}| &nbsp;
+|[[Roger Pomerleau]]
+|-
+| style="background:whitesmoke;"|QC
+| style="background:whitesmoke;"|[[Longueuil—Pierre-Boucher]]
+|{{Canadian politics/party colours/BQ}}| &nbsp;
+|[[Caroline St-Hilaire]]
+|{{Canadian politics/party colours/BQ}}| &nbsp;
+|[[Jean Dorion]]
+|-
+| style="background:whitesmoke;"|QC
+| style="background:whitesmoke;"|[[Repentigny (electoral district)|Repentigny]]
+|{{Canadian politics/party colours/BQ}}| &nbsp;
+|[[Raymond Gravel]]<ref>[http://www.cbc.ca/canada/montreal/story/2008/09/03/mtl-raymondgravel0903.html#articlecomments Priest MP leaves politics after pressure from Vatican], ''[[CBC News]]'', September 3, 2008</ref>
+|{{Canadian politics/party colours/BQ}}| &nbsp;
+|[[Nicolas Dufour]]
+|-
+| style="background:whitesmoke;"|QC
+| style="background:whitesmoke;"|[[Rivière-des-Mille-Îles (electoral district)|Rivière-des-Mille-Îles]]
+|{{Canadian politics/party colours/BQ}}| &nbsp;
+|[[Gilles Perron]]
+|{{Canadian politics/party colours/BQ}}| &nbsp;
+|[[Luc Desnoyers]]
+|}
+
+====New Democrats====
+
+{| border="1" cellpadding="4" cellspacing="0" style="width:40%; border-collapse:collapse;"
+|- style="background:darkgrey;"
+!colspan=2|Electoral District
+!colspan=2|Resigning incumbent
+!colspan=2|Succeeded by
+|-
+| style="background:whitesmoke;"|NS
+| style="background:whitesmoke;"|[[Halifax (electoral district)|Halifax]]
+|{{Canadian politics/party colours/NDP}}| &nbsp;
+|[[Alexa McDonough]]<ref>[http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20080602/mcdonough_retires_080602/ Alexa McDonough retires from federal politics], ''[[CTV News]]'', June 2, 2008</ref>
+|{{Canadian politics/party colours/NDP}}| &nbsp;
+|[[Megan Leslie]]
+|-
+| style="background:whitesmoke;"|MB
+| style="background:whitesmoke;"|[[Elmwood—Transcona]]
+|{{Canadian politics/party colours/NDP}}| &nbsp;
+|[[Bill Blaikie]]<ref>[http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20070315/blaikie_reelection_070315/20070315?hub=Canada NDP's Bill Blaikie won't seek re-election], ''[[CTV News]]'', March 15, 2007</ref>
+|{{Canadian politics/party colours/NDP}}| &nbsp;
+|[[Jim Maloway]]
+|-
+| style="background:whitesmoke;"|BC
+| style="background:whitesmoke;"|[[Surrey North]]
+|{{Canadian politics/party colours/NDP}}| &nbsp;
+|[[Penny Priddy]]<ref>[http://www.canada.com/vancouversun/news/story.html?id=dfb292ec-1b3d-4e22-bf9c-f86af9b73d57 NDP's Penny Priddy says she won't run again], ''[[Vancouver Sun]]'', July 16, 2008</ref>
+|{{Canadian politics/party colours/Conservative}}| &nbsp;
+|[[Dona Cadman]]
+|}
+
+===Vacancies upon dissolution===
+
+[[Canadian federal by-elections, 2008|By-elections in progress]] in four vacant ridings were cancelled when the general election was called.
+
+{| border="1" cellpadding="4" cellspacing="0" style="width:40%; border-collapse:collapse;"
+|- style="background:darkgrey;"
+!colspan=2|Electoral District
+!colspan=2|Previous MP
+!colspan=2|New MP
+|-
+| style="background:whitesmoke;"|QC
+| style="background:whitesmoke;"|[[Saint-Lambert (electoral district)|Saint-Lambert]]
+|{{Canadian politics/party colours/BQ}}| &nbsp;
+|[[Maka Kotto]]
+|{{Canadian politics/party colours/BQ}}| &nbsp;
+|[[Josée Beaudin]]
+|-
+| style="background:whitesmoke;"|QC
+| style="background:whitesmoke;"|[[Westmount—Ville-Marie]]
+|{{Canadian politics/party colours/Liberal}}| &nbsp;
+|[[Lucienne Robillard]]
+|{{Canadian politics/party colours/Liberal}}| &nbsp;
+|[[Marc Garneau]]
+|-
+| style="background:whitesmoke;"|ON
+| style="background:whitesmoke;"|[[Don Valley West]]
+|{{Canadian politics/party colours/Liberal}}| &nbsp;
+|[[John Godfrey]]
+|{{Canadian politics/party colours/Liberal}}| &nbsp;
+|[[Rob Oliphant]]
+|-
+| style="background:whitesmoke;"|ON
+| style="background:whitesmoke;"|[[Guelph (electoral district)|Guelph]]
+|{{Canadian politics/party colours/Liberal}}| &nbsp;
+|[[Brenda Chamberlain]]
+|{{Canadian politics/party colours/Liberal}}| &nbsp;
+|[[Frank Valeriote]]
+|}
+
+===Defeated incumbents===
+
+====Conservatives====
+
+{| border="1" cellpadding="4" cellspacing="0" style="width:40%; border-collapse:collapse;"
+|- style="background:darkgrey;"
+!colspan=2 |Electoral District
+!colspan=2|Incumbent
+!colspan=2|Defeated by
+|-
+| style="background:whitesmoke;"|NL
+| style="background:whitesmoke;"|[[Avalon (electoral district)|Avalon]]
+|{{Canadian politics/party colours/Conservative}}| &nbsp;
+|[[Fabian Manning]]
+|{{Canadian politics/party colours/Liberal}}| &nbsp;
+|[[Scott Andrews (politician)|Scott Andrews]]
+|-
+| style="background:whitesmoke;"|QC
+| style="background:whitesmoke;"|[[Louis-Hébert]]
+|{{Canadian politics/party colours/Conservative}}| &nbsp;
+|[[Luc Harvey]]
+|{{Canadian politics/party colours/BQ}}| &nbsp;
+|[[Pascal-Pierre Paillé]]
+|-
+| style="background:whitesmoke;"|ON
+| style="background:whitesmoke;"|[[Mississauga—Streetsville]]
+|{{Canadian politics/party colours/Conservative}}| &nbsp;
+|[[Wajid Khan]]
+|{{Canadian politics/party colours/Liberal}}| &nbsp;
+|[[Bonnie Crombie]]
+|-
+| style="background:whitesmoke;"|AB
+| style="background:whitesmoke;"|[[Edmonton—Strathcona]]
+|{{Canadian politics/party colours/Conservative}}| &nbsp;
+|[[Rahim Jaffer]]
+|{{Canadian politics/party colours/NDP}}| &nbsp;
+|[[Linda Duncan]]
+|}
+
+====Liberals====
+
+{| border="1" cellpadding="4" cellspacing="0" style="width:40%; border-collapse:collapse;"
+|- style="background:darkgrey;"
+!colspan=2 |Electoral District
+!colspan=2|Incumbent
+!colspan=2|Defeated by
+|-
+| style="background:whitesmoke;"|NS
+| style="background:whitesmoke;"|[[West Nova]]
+|{{Canadian politics/party colours/Liberal}}| &nbsp;
+|[[Robert Thibault]]
+|{{Canadian politics/party colours/Conservative}}| &nbsp;
+|[[Greg Kerr]]
+|-
+| style="background:whitesmoke;"|NB
+| style="background:whitesmoke;"|[[Miramichi (electoral district)|Miramichi]]
+|{{Canadian politics/party colours/Liberal}}| &nbsp;
+|[[Charles Hubbard (politician)|Charles Hubbard]]
+|{{Canadian politics/party colours/Conservative}}| &nbsp;
+|[[Tilly O'Neill-Gordon]]
+|-
+| style="background:whitesmoke;"|NB
+| style="background:whitesmoke;"|[[Saint John (electoral district)|Saint John]]
+|{{Canadian politics/party colours/Liberal}}| &nbsp;
+|[[Paul Zed]]
+|{{Canadian politics/party colours/Conservative}}| &nbsp;
+|[[Rodney Weston]]
+|-
+| style="background:whitesmoke;"|ON
+| style="background:whitesmoke;"|[[Algoma—Manitoulin—Kapuskasing]]
+|{{Canadian politics/party colours/Liberal}}| &nbsp;
+|[[Brent St. Denis]]
+|{{Canadian politics/party colours/NDP}}| &nbsp;
+|[[Carol Hughes]]
+|-
+| style="background:whitesmoke;"|ON
+| style="background:whitesmoke;"|[[Brant (electoral district)|Brant]]
+|{{Canadian politics/party colours/Liberal}}| &nbsp;
+|[[Lloyd St. Amand]]
+|{{Canadian politics/party colours/Conservative}}| &nbsp;
+|[[Phil McColeman]]
+|-
+| style="background:whitesmoke;"|ON
+| style="background:whitesmoke;"|[[Halton (electoral district)|Halton]]
+|{{Canadian politics/party colours/Liberal}}| &nbsp;
+|[[Garth Turner]]
+|{{Canadian politics/party colours/Conservative}}| &nbsp;
+|[[Lisa Raitt]]
+|-
+| style="background:whitesmoke;"|ON
+| style="background:whitesmoke;"|[[Kenora (electoral district)|Kenora]]
+|{{Canadian politics/party colours/Liberal}}| &nbsp;
+|[[Roger Valley]]
+|{{Canadian politics/party colours/Conservative}}| &nbsp;
+|[[Greg Rickford]]
+|-
+| style="background:whitesmoke;"|ON
+| style="background:whitesmoke;"|[[Kitchener Centre]]
+|{{Canadian politics/party colours/Liberal}}| &nbsp;
+|[[Karen Redman]]
+|{{Canadian politics/party colours/Conservative}}| &nbsp;
+|[[Stephen Woodworth (politician)|Stephen Woodworth]]
+|-
+| style="background:whitesmoke;"|ON
+| style="background:whitesmoke;"|[[Kitchener—Waterloo (electoral district)|Kitchener—Waterloo]]
+|{{Canadian politics/party colours/Liberal}}| &nbsp;
+|[[Andrew Telegdi]]
+|{{Canadian politics/party colours/Conservative}}| &nbsp;
+|[[Peter Braid]]
+|-
+| style="background:whitesmoke;"|ON
+| style="background:whitesmoke;"|[[London West]]
+|{{Canadian politics/party colours/Liberal}}| &nbsp;
+|[[Sue Barnes]]
+|{{Canadian politics/party colours/Conservative}}| &nbsp;
+|[[Ed Holder]]
+|-
+| style="background:whitesmoke;"|ON
+| style="background:whitesmoke;"|[[Mississauga—Erindale]]
+|{{Canadian politics/party colours/Liberal}}| &nbsp;
+|[[Omar Alghabra]]
+|{{Canadian politics/party colours/Conservative}}| &nbsp;
+|[[Bob Dechert]]
+|-
+| style="background:whitesmoke;"|ON
+| style="background:whitesmoke;"|[[Oak Ridges—Markham]]
+|{{Canadian politics/party colours/Liberal}}| &nbsp;
+|[[Lui Temelkovski]]
+|{{Canadian politics/party colours/Conservative}}| &nbsp;
+|[[Paul Calandra]]
+|-
+| style="background:whitesmoke;"|ON
+| style="background:whitesmoke;"|[[Oakville (electoral district)|Oakville]]
+|{{Canadian politics/party colours/Liberal}}| &nbsp;
+|[[Bonnie Brown (politician)|Bonnie Brown]]
+|{{Canadian politics/party colours/Conservative}}| &nbsp;
+|[[Terence Young (politician)|Terence Young]]
+|-
+| style="background:whitesmoke;"|ON
+| style="background:whitesmoke;"|[[Sudbury (electoral district)|Sudbury]]
+|{{Canadian politics/party colours/Liberal}}| &nbsp;
+|[[Diane Marleau]]
+|{{Canadian politics/party colours/NDP}}| &nbsp;
+|[[Glenn Thibeault]]
+|-
+| style="background:whitesmoke;"|ON
+| style="background:whitesmoke;"|[[Thornhill (electoral district)|Thornhill]]
+|{{Canadian politics/party colours/Liberal}}| &nbsp;
+|[[Susan Kadis]]
+|{{Canadian politics/party colours/Conservative}}| &nbsp;
+|[[Peter Kent]]
+|-
+| style="background:whitesmoke;"|ON
+| style="background:whitesmoke;"|[[Thunder Bay—Rainy River]]
+|{{Canadian politics/party colours/Liberal}}| &nbsp;
+|[[Ken Boshcoff]]
+|{{Canadian politics/party colours/NDP}}| &nbsp;
+|[[John Rafferty (Canadian politician)|John Rafferty]]
+|-
+| style="background:whitesmoke;"|ON
+| style="background:whitesmoke;"|[[Welland (electoral district)|Welland]]
+|{{Canadian politics/party colours/Liberal}}| &nbsp;
+|[[John David Maloney|John Maloney]]
+|{{Canadian politics/party colours/NDP}}| &nbsp;
+|[[Malcolm Allen (politician)|Malcolm Allen]]
+|-
+| style="background:whitesmoke;"|MB
+| style="background:whitesmoke;"|[[Churchill (electoral district)|Churchill]]
+|{{Canadian politics/party colours/Liberal}}| &nbsp;
+|[[Tina Keeper]]
+|{{Canadian politics/party colours/NDP}}| &nbsp;
+|[[Niki Ashton]]
+|-
+| style="background:whitesmoke;"|MB
+| style="background:whitesmoke;"|[[Saint Boniface (electoral district)|Saint Boniface]]
+|{{Canadian politics/party colours/Liberal}}| &nbsp;
+|[[Raymond Simard]]
+|{{Canadian politics/party colours/Conservative}}| &nbsp;
+|[[Shelly Glover]]
+|-
+| style="background:whitesmoke;"|BC
+| style="background:whitesmoke;"|[[Richmond (British Columbia federal electoral district)|Richmond]]
+|{{Canadian politics/party colours/Liberal}}| &nbsp;
+|[[Raymond Chan]]
+|{{Canadian politics/party colours/Conservative}}| &nbsp;
+|[[Alice Wong]]
+|-
+| style="background:whitesmoke;"|BC
+| style="background:whitesmoke;"|[[North Vancouver (electoral district)|North Vancouver]]
+|{{Canadian politics/party colours/Liberal}}| &nbsp;
+|[[Don Bell]]
+|{{Canadian politics/party colours/Conservative}}| &nbsp;
+|[[Andrew Saxton]]
+|}
+
+====New Democrats====
+
+{| border="1" cellpadding="4" cellspacing="0" style="width:40%; border-collapse:collapse;"
+|- style="background:darkgrey;"
+!colspan=2|Electoral District
+!colspan=2|Incumbent
+!colspan=2|Defeated by
+|-
+| style="background:whitesmoke;"|ON
+| style="background:whitesmoke;"|[[Parkdale—High Park]]
+|{{Canadian politics/party colours/NDP}}| &nbsp;
+|[[Peggy Nash]]
+|{{Canadian politics/party colours/Liberal}}| &nbsp;
+|[[Gerard Kennedy]]
+|-
+| style="background:whitesmoke;"|BC
+| style="background:whitesmoke;"|[[Vancouver Island North]]
+|{{Canadian politics/party colours/NDP}}| &nbsp;
+|[[Catherine J. Bell|Catherine Bell]]
+|{{Canadian politics/party colours/Conservative}}| &nbsp;
+|[[John Duncan (Canadian politician)|John Duncan]]
+|}
+
+====Bloc Québécois====
+
+{| border="1" cellpadding="4" cellspacing="0" style="width:40%; border-collapse:collapse;"
+|- style="background:darkgrey;"
+!colspan=2|Electoral District
+!colspan=2|Incumbent
+!colspan=2|Defeated by
+|-
+| style="background:whitesmoke;"|QC
+| style="background:whitesmoke;"|[[Brossard—La Prairie]]
+|{{Canadian politics/party colours/BQ}}| &nbsp;
+|[[Marcel Lussier]]
+|{{Canadian politics/party colours/Liberal}}| &nbsp;
+|[[Alexandra Mendès]]<ref>[http://www.theglobeandmail.com/servlet/story/RTGAM.20081024.wrecount1024/BNStory/Front "Liberals win seat in Quebec following recount"], ''[[The Globe and Mail]]'', October 24, 2008.</ref>
+|-
+| style="background:whitesmoke;"|QC
+| style="background:whitesmoke;"|[[Papineau (electoral district)|Papineau]]
+|{{Canadian politics/party colours/BQ}}| &nbsp;
+|[[Vivian Barbot]]
+|{{Canadian politics/party colours/Liberal}}| &nbsp;
+|[[Justin Trudeau]]
+|}
+
+====Greens====
+
+{| border="1" cellpadding="4" cellspacing="0" style="width:40%; border-collapse:collapse;"
+|- style="background:darkgrey;"
+!colspan=2|Electoral District
+!colspan=2|Incumbent
+!colspan=2|Defeated by
+|-
+| style="background:whitesmoke;"|BC
+| style="background:whitesmoke;"|[[West Vancouver—Sunshine Coast—Sea to Sky Country]]
+|{{Canadian party colour|CA|Green|background}}| &nbsp;
+|[[Blair Wilson]]
+|{{Canadian politics/party colours/Conservative}}| &nbsp;
+|[[John Weston (politician)|John Weston]]
+|}
+
+====Independents====
+
+{| border="1" cellpadding="4" cellspacing="0" style="width:40%; border-collapse:collapse;"
+|- style="background:darkgrey;"
+!colspan=2|Electoral District
+!colspan=2|Incumbent
+!colspan=2|Defeated by
+|-
+| style="background:whitesmoke;"|QC
+| style="background:whitesmoke;"|[[Rimouski-Neigette—Témiscouata—Les Basques]]
+|{{Canadian politics/party colours/Independent}}| &nbsp;
+|[[Louise Thibault]]
+|{{Canadian politics/party colours/BQ}}| &nbsp;
+|[[Claude Guimond]]
+|}
+
+==See also==
+{{Portal|Canadian politics}}
+*[[List of Canadian federal general elections]]
+*[[List of political parties in Canada]]
+*[[Federal political financing in Canada]]
+*[[Voter turnout in Canada]]
+
+==References==
+{{Reflist|colwidth=30em}}
+
+==Further reading==
+* {{citation |last =Pammett|first =Jon H  |coauthor=  Christopher Dornan|year =2009 |title =The Canadian Federal Election of 2008 |url =http://books.google.ca/books?id=NAtePUeHIh0C&lpg=PP1&dq=Canadian%20federal%20general%20elections&pg=PP1#v=onepage&q&f=true |publisher=Dundurn Press |isbn=	9781554884070 |accessdate = }}
+
+==External links==
+*{{wikisource inline}}
+
+===Projections and predictions===
+*[http://www.democraticspace.com/canada2008 DemocraticSPACE Seat Projections]
+*[http://www.electionprediction.org/2007_fed/index.html Election Prediction Project]
+*[http://www.trendlines.ca/electcanada.htm Trendlines Research]  Daily chart tracking of average of 11 Riding Projection models
+*[http://paulitics.wordpress.com/2008-election-seat-projection/ Paulitics 2008 Election Seat Projection]
+
+{{Canadian federal election, 2008A}}
+{{election canada}}
+{{pp-move-indef}}
+
+[[Category:2008 elections in Canada]]
+[[Category:Canadian federal election, 2008|*]]

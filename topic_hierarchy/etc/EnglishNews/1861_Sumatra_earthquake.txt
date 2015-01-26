@@ -1,0 +1,47 @@
+{{Earthquake
+|title= 1861 Sumatra earthquake
+|date= {{Start-date|February 16, 1861}}
+|map2 = {{Location map | Indonesia Sumatra
+ | label=
+ | lat=1.0
+ | long=97.5
+ | mark=Bullseye1.png
+ | marksize=40
+ | position=top
+ | width= 250
+ | float=right
+ | caption=}}
+|magnitude = 8.5 Moment magnitude scale|M<sub>w</sub>
+|depth=
+|location={{coord|1.0|97.5|display=inline,title}}
+|countries affected = Sumatra, Dutch East Indies
+|tsunami = yes
+|casualties = several thousand
+}}
+File:Plate setting Sunda megathrust.png|thumb|Plate tectonic setting of Sunda megathrust|250px
+File:USGS Sunda Trench.JPG|thumb|250px|Rupture areas for the 1861, 1833 and 2004 earthquakes and area of main shock and aftershocks for the 2005 event, showing similarity to 1861 quake
+The '''1861 Sumatra earthquake''' occurred on February 16, 1861. It was the last in a sequences of earthquakes that ruptured adjacent parts of the Sumatran segment of the Sunda megathrust. It caused a devastating tsunami which led to several thousand fatalities. The earthquake was felt as far away as the Malay peninsula and the eastern part of Java. The rupture area for the 2005 Sumatra earthquake is similar to that estimated for the 1861 event.
+
+==Background==
+The island of Sumatra lies on the Convergent boundary|convergent plate boundary between the Indo-Australian Plate and the Eurasian Plate. The convergence between these plates is highly oblique near Sumatra, with the displacement being accommodated by near pure Fault (geology)#Dip-slip faults|dip-slip faulting along the subduction zone, known as the Sunda megathrust, and near pure Fault (geology)#Strike-slip faults|strike-slip faulting along the Great Sumatran fault. The major slip events on the subduction zone interface are typically of megathrust type. Historically, great or giant megathrust earthquakes have been recorded in 1797 Sumatra earthquake|1797, 1833 Sumatra earthquake|1833, 1861, 2004 Indian Ocean earthquake|2004, 2005 Sumatra earthquake|2005 and September 2007 Sumatra earthquake|2007, most of them being associated with devastating tsunamis. Smaller (but still large) megathrust events have also occurred in the small gaps between the areas that slip during the larger events, in 1935 Sumatra earthquake|1935, 1984 Northern Sumatra earthquake|1984, 2000 Sumatra earthquake|2000 and 2002 Sumatra earthquake|2002.
+
+==Damage==
+Villages along the seaward side of the Batu Islands  were devastated. The combined effects of the earthquake and tsunami caused several thousand fatalities.
+
+==Characteristics==
+
+===Earthquake===
+There is evidence of coseismic uplift of Nias, with exposure of reefs and rock piers. There were six major aftershocks over the next seven months, the last of which, on September 27, caused a damaging tsunami.
+
+===Tsunami===
+At least 500&nbsp;km of coastline were affected by the tsunami with run-ups of up to 7m recorded on the southwest side of Nias.
+
+==References==
+{{Reflist}}
+{{SumatraMegathrust}}
+
+Category:Megathrust earthquakes in Sumatra
+Category:19th-century tsunamis
+Category:1861 earthquakes|Sumatra Earthquake, 1861
+Category:19th century in Indonesia
+Category:1861 in Asia|Sum

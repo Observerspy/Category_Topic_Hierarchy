@@ -1,0 +1,81 @@
+Image:Cascadia subduction zone USGS.png|thumb|250px|Cascadia subduction zone
+The '''1700 Cascadia earthquake''' occurred along the Cascadia subduction zone on January 26 with an estimated moment magnitude scale|moment magnitude of 8.7–9.2.  The megathrust earthquake involved the Juan de Fuca Plate that underlies the Pacific Ocean, from mid-Vancouver Island in British Columbia, Canada, south along the Pacific Northwest coast as far as northern California, USA. The length of the fault rupture was about {{convert|1000|km|mi|sp=us|abbr=off}} with an average slip of {{convert|20|m|sp=us}}.
+
+The earthquake caused a tsunami that struck the coast of Japan, and may also be linked to the Bridge of the Gods (land bridge)|Bonneville Slide.
+
+==Evidence of the earthquake==
+Evidence supporting the occurrence of the 1700 earthquake has been gathered into the 2005 book ''The Orphan Tsunami of 1700'', by geologist Brian Atwater and others.
+
+The evidence suggests that it took place at about 21:00 on January 26, 1700 (Old Style and New Style dates|NS). Although there were no written records in the region at the time, the earthquake's precise time is nevertheless known from Japanese records of a tsunami that has not been tied to any other Pacific Rim earthquake.  The most important clue linking the tsunami in Japan and the earthquake in the Pacific Northwest comes from studies of tree rings (dendrochronology), which show that Thuja plicata|red cedar trees killed by lowering of coastal forests into the tidal zone by the earthquake have outermost growth rings that formed in 1699, the last growing season before the tsunami.  Local Indigenous American oral traditions describing a large quake also exist, although these do not specify the date. There are many areas in the Pacific Northwest with drowned groves of trees that also show evidence of the earthquake.
+
+==Future threats==
+Image:Cascadia earthquake sources.png|thumb|250px|left|Cascadia earthquake sources
+{| class="wikitable sortable" align="top"
+|+ Great Earthquake Summary
+! est. year !! interval<br/>(years)
+|-
+| 1700 AD || 
+|-
+| 1310 AD || 390
+|-
+| 810 AD || 500
+|-
+| 400 AD || 410
+|-
+| 170 BC || 570
+|-
+| 600 BC || 430
+|}
+
+The geological record reveals that "great earthquakes" (those with moment magnitude scale|moment magnitude 8 or higher) occur in the Cascadia subduction zone about every 500 years on average, often accompanied by tsunamis.  There is evidence of at least 13 events at intervals from about 300 to 900 years with an average of 570–590 years.  Previous earthquakes are estimated to have occurred in 1310 AD, 810 AD, 400 AD, 170 BC and 600 BC.
+
+As seen in the 1700 quake, the 2004 Indian Ocean earthquake, and the 2011 Tōhoku earthquake and tsunami, subduction zone earthquakes can cause large tsunamis, and many coastal areas in the region have prepared tsunami evacuation plans in anticipation of a possible future Cascadia earthquake.  However, the major nearby cities, notably Seattle, Portland, Oregon|Portland, Vancouver, Victoria, British Columbia|Victoria, and Tacoma, Washington|Tacoma, which are located on inland waterways rather than on the coast, would be sheltered from the full brunt of a tsunami.  These cities do have many vulnerable structures, especially bridges and unreinforced brick buildings; consequently, most of the damage to the cities would probably be from the earthquake itself. One expert asserts that buildings in Seattle are vastly inadequate even to withstand an earthquake of the size of the 1906 San Francisco earthquake, much less the much greater one that may well occur.
+
+Recent findings conclude that the Cascadia subduction zone is more complex and volatile than previously believed. In 2010 geologists predicted a 37 percent chance of an M8.2+ event within 50 years, and a 10 to 15 percent chance that the entire Cascadia subduction zone will rupture with an M9+ event within the same time frame. Geologists have also determined the Pacific Northwest is not prepared for such a colossal quake. The tsunami produced could reach heights of {{convert|80|to|100|ft|m}}.
+
+Some other subduction zones have such earthquakes every 100 to 200 years; the longer interval results from slower plate motions.  The rate of convergence between the Juan de Fuca Plate and the North American Plate is {{convert|60|mm|in}} per year.
+
+==Similar megathrust earthquakes==
+Other megathrust earthquakes are the slightly more powerful 1964 Alaskan 1964 Alaska earthquake|Good Friday Earthquake measured at moment magnitude scale|moment magnitude 9.2; the 1960 1960 Valdivia earthquake|Great Chilean Earthquake measured at 9.5; the Kamchatka earthquakes of 1737 (est. mag. 8.3) and 1952 (measured at 9.0); the 2004 Indian Ocean earthquake and tsunami|2004 Indian Ocean earthquake at 9.1; the 2010 Chile earthquake at 8.8; and the 2011 Tōhoku earthquake and tsunami|2011 Tōhoku earthquake at 9.0.
+
+==See also==
+*1949 Queen Charlotte Islands earthquake
+*Geology of the Pacific Northwest
+*List of earthquakes
+*List of earthquakes in Canada
+*List of earthquakes and tsunamis in the United States
+
+==References==
+{{Reflist}}
+
+==External links==
+
+===General===
+*http://earthquake.usgs.gov/earthquakes/states/events/1700_01_26.php Historic Earthquakes — United States Geological Survey
+*http://www.nrcan.gc.ca/earth-sciences/energy-mineral/geology/geodynamics/earthquake-processes/8595 Giant earthquakes beneath Canada's West coast — Natural Resources Canada
+*http://www.crew.org/sites/default/files/CREWCascadiaFinal.pdf Cascadia Subduction Zone Earthquakes: A magnitude 9.0 earthquake scenario — The Cascadia Region Earthquake Workgroup 2005
+
+===Native and Japanese accounts===
+*http://www.pnsn.org/blog/2012/09/04/native-american-stories-expand-history Native American Stories expand history — Pacific Northwest Seismic Network
+*http://walrus.wr.usgs.gov/tsunami/NAlegends.html Native American Legends of Tsunamis in Pacific NW — United States Geological Survey
+*http://www.agu.org/pubs/crossref/2003/2003JB002521.shtml Fault slip and seismic moment of the 1700 Cascadia earthquake inferred from Japanese tsunami descriptions — Journal of Geophysical Research
+*http://www.sciencedaily.com/releases/2003/10/031031062553.htm Japanese Shipwreck Adds To Evidence Of Great Cascadia Earthquake In 1700 — Science Daily
+
+===Current hazards===
+*http://pubs.usgs.gov/circ/c1187/ Surviving a Tsunami—Lessons from Chile, Hawaii, and Japan — United States Geological Survey
+*http://www.oregonlive.com/news/index.ssf/2009/04/big_earthquake_coming_sooner_t.html Big earthquake coming sooner than we thought, Oregon geologist says — ''The Oregonian''
+
+{{Earthquakes in Canada}}
+{{Oregon Early History}}
+
+{{DEFAULTSORT:Cascadia Earthquake}}
+Category:1700 in Canada
+Category:Megathrust earthquakes in Canada|1700 Cascadia
+Category:Megathrust earthquakes in the United States|1700 Cascadia
+Category:Earthquakes in California|1700 Cascadia
+Category:Tsunamis in Japan|1700 Cascadia
+Category:1700 earthquakes|1700 Cascadia
+Category:Earthquakes in Washington (state)|1700 Cascadia
+Category:Earthquakes in Oregon|1700 Cascadia
+Category:Earthquakes in British Columbia|1700 Cascadia
+Category:18th-century Tsunamis|1700 Cascadia

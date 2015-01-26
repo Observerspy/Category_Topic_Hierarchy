@@ -1,0 +1,37 @@
+{{Earthquake
+|title=May 30, 1998 Afghanistan earthquake
+|date= {{Start date|1998|5|30}}
+|map = 1998May30Afghanistan.jpg
+|magnitude = 6.9 Richter magnitude scale|M<sub>w</sub>
+|depth={{convert|33|km|mi|0}}
+|location={{coord|37.10|N|70.11|E}}
+|countries affected = {{AFG}}
+|casualties = Approximately 4000-4500 dead. 10,001 injured
+}}
+
+The '''May 30, 1998 Afghanistan earthquake''' occurred at 06:22 UTC on May 30, 1998, in northern Afghanistan in the Takhar Province. The affected area was controlled by the United Islamic Front for the Salvation of Afghanistan.
+
+==Overview==
+The magnitude of the earthquake was 6.9 on the Richter scale. Between 4,000-4,500 people died in the earthquake in Takhar and Badakhshan Province|Badakhshan provinces. Nearly 7,000 families were affected and estimated 16,000 houses were destroyed or damaged.
+
+Like many other poorer developing nations, Afghanistan was ill equipped to face this kind of natural disaster. The country had no forms of protection or hazard micronization. Houses were mainly built of mud brick with shallow foundation. The villages were built on unstable slopes. Many villages were entirely buried due to the landslides triggered by the quake. Aftershocks continued for a month. The earthquake was also felt at Mazar-e Sharif, Kabul, Andijan, Samarkand, Islamabad, Peshawar, Rawalpindi and Dushanbe.
+
+==Relief efforts==
+Several problems appeared during the relief operation. The affected region was remote and lacked any modern telecommunication. The local culture prohibited male physicians to examine, or even speak to women. There was no available accurate map of the affected region. However this problem was solved as the pilots of the first Tajikistan helicopters served with the Soviet Armed Forces in the area during the Soviet war in Afghanistan and knew many of the villages. Relief efforts were also delayed because of blocked roads, bad weather and political turmoil in the region.
+
+Relief effort by several agencies in Afghanistan was administered from neighboring Pakistan as many organizations learned from previous bitter experience not to base too many assets in Kabul or in any other city in Afghanistan. A sub-base for the relief efforts was established in Rostaq in the Takhar Province near Afghanistan-Tajikistan border, which in spite of lacking airfield had open spaces for helicopter operations and a road link to Tajikistan. A worldwide appeal for helicopters was made to assist in the relief operations.
+
+The United Nations (UN) and several non-governmental organizations (NGOs) were involved in the relief efforts of the affected area. A joint relief operation was mounted by the UN, the International Committee of the Red Cross (ICRC), the International Federation of Red Cross and Red Crescent Societies (IFRC) and a number of national and international NGOs.
+
+==See also==
+*February 4, 1998 Afghanistan earthquake
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Afghanistan Earthquake May}}
+{{Earthquakes in 1998}}
+Category:Earthquakes in Afghanistan|1998 05
+Category:1998 earthquakes
+Category:1998 in Afghanistan
+Category:History of Takhar Province

@@ -1,0 +1,55 @@
+{{Expand Italian|Terremoto del Molise|topic=hist|date=April 2009}}
+{{Infobox earthquake
+| title= 2002 Molise earthquake
+|date= {{Start date|2002|10|31}}
+|map2 = {{Location map | Italy | relief = 1
+ | label =
+ | lat = 41.73
+ | long = 14.89
+ | mark = Bullseye1.png
+ | marksize = 40
+ | position = top
+ | width = 250
+ | float = right
+ | caption =}}
+| magnitude = 5.9 Moment magnitude scale|M<sub>w</sub>
+| countries affected = {{ITA}}
+| casualties = 28 killed
+| location = {{coord|41.73|14.89|type:event_region:IT|display=inline,title}}
+|}}
+The '''2002 Molise earthquake''' hit the Italy|Italian regions of Molise and Puglia on October 31 at 10:32:58 (UTC). The shock had a moment magnitude of 5.9 and depth of {{convert|10.0|km|mi|abbr=on}}. 
+
+Most of the victims of the earthquake suffered when a school collapsed in the town of San Giuliano di Puglia.  26 of the 51 pupils there died, together with one of their teachers. In particular, none of the 9 children of the 4th class (born in 1996) survived.
+
+==First shock==
+
+During the night between 30 October and 31 October there had already been three minor earthquakes, with the strongest at 3.27 (a magnitude of 3.5 on the Richter Scale, IV-V on the Mercalli intensity scale).
+
+The strongest tremor took place at 11.32 on Friday 31 October 2002 in the area of lower Molise, which is situated in the north-east of the Province of Campobasso.  It reached from the Frentani Mountains to the Fortore valley.  It lasted for 60 seconds and could be felt distinctly in the centre of Molise, in the Capitanata, the Province of Chieti, and could be perceived in the Marche, Bari, Benevento, Matera, Brindisi, Rome, Naples, Potenza, Salerno, Taranto and Pescara.
+
+San Giuliano di Puglia was near the epicentre (located between Campobasso, Larino and the Apennine Mountains|Apennine Dauno). Due to the quake part of the roof of the school building "Francesco Iovine" collapsed. The school included a kindergarten, a primary school and a middle school. The roof landed on the lower part of the school. There were 57 children, 8 teachers and 2 caretakers trapped under the rubble.
+
+== Tectonics ==
+According to the United States Geological Survey:
+
+<blockquote>Preliminary focal mechanism#Moment tensor solutions|moment tensor solutions for this earthquake imply that the shock occurred as the result of movement on a strike-slip fault (geology)|fault. The fault would be either a north-south, left-lateral fault or an east-west, right-lateral fault. Some geologists have hypothesized that a major component of the relative motion between the African plate and Eurasian Plate|Eurasian plate is accommodated on a north-south, left-lateral, boundary that passes near the epicenter of the earthquake.</blockquote>
+
+<blockquote>The boundary is thought to accommodate slip of 5 - 10 mm/ year. The preliminary Focal mechanism|focal-mechanisms are consistent with this model. It is noteworthy, however, that many destructive earthquakes in Italy occur as the result of deformation of the earth's crust that is not related in a simple way to the present-day movements of the African and Eurasian plates. Until detailed studies of this earthquake are completed, hypotheses on the earthquake's relationship to large-scale plate-tectonic processes are speculative.</blockquote>
+
+== Similar earthquakes ==
+*2008 Lake Kivu earthquake
+
+== References ==
+{{Reflist}}
+
+== External links ==
+*http://earthquake.usgs.gov/eqcenter/eqinthenews/2002/uskyar/ USGS - Magnitude 5.9 Southern Italy
+*http://news.bbc.co.uk/2/hi/europe/2382131.stm In pictures: Italy school tragedy (BBC)
+
+{{Earthquakes in 2002}}
+
+{{DEFAULTSORT:2002 Molise Earthquake}}
+Category:2002 earthquakes|Molise
+Category:Earthquakes in Italy|2002 Molise
+Category:2002 in Italy|Molise
+Category:History of Molise

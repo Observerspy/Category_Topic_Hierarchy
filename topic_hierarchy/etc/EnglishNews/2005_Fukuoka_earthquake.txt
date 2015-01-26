@@ -1,0 +1,63 @@
+{{More footnotes|date=June 2009}}
+{{Earthquake
+|title=2005 Fukuoka earthquake
+|date= {{Start date|2005|3|20}}
+|map2 = {{Location map | Japan
+ | label=
+ | lat=33.73
+ | long=130.18
+ | mark=Bullseye1.png
+ | marksize=40
+ | position=top
+ | width= 250
+ | float=right
+ | caption=
+ |relief=yes}}
+|magnitude = 6.6 Moment magnitude scale|M<sub>w</sub>
+|depth=
+|location={{Coord|33|44|18|N|130|10|30|E}}
+|aftershocks=
+|countries affected = Japan, Fukuoka
+|casualties = 1 dead, 500 injured
+}}
+File:Fukuoka-Quake MagDistribution English.PNG|right|thumb|Strength of the initial quake, measured using the Japanese intensity scale, as recorded throughout south-western Japan.
+File:Fukuoka Quake 2005 Seismicity KegoDansou.png|right|thumb|Seismic activity (orange, yellow) following the initial quake, indicated by the star. The previously known location of the Kego fault is indicated by the long brown line that runs from northwest to southeast.
+
+The '''Fukuoka earthquake''' struck Fukuoka Prefecture, Japan at 10:53 am Japan Standard Time|JST on March 20, 2005, and lasted for approximately 1 minute. The Japan Meteorological Agency (JMA) measured it as peaking at a magnitude of 7.0 (6.6) and named it and its subsequent aftershocks the {{Nihongo|''Fukuoka Prefecture Western Offshore Earthquakes''|福冈県西方冲地震}}. The quake occurred along a previously unknown Fault (geology)|fault in the Genkai Sea, North of Fukuoka, Fukuoka|Fukuoka city, and the residents of Genkai island were forced to evacuate as houses collapsed and landslides occurred in places. Investigations subsequent to the earthquake determined that the new fault was most likely an extension of the known Kego fault that runs through the centre of the city.
+
+Fukuoka is not as seismically active as many other parts of Japan, and was known prior to the earthquake as one of Japan's safest locations in terms of natural disasters; the previous earthquake, a magnitude 5, had occurred over a hundred years ago and it had been centuries since the city had experienced a serious earthquake.
+
+==Description==
+The earthquake occurred along a yet-undiscovered extension of the Kego fault in the Sea of Genkai. Genkai-jima|Genkai island, a part of Nishi-ku, Fukuoka|western district was the most severely damaged area and almost all island residents were forced to evacuate. One person was killed, 70 people were severely injured and 1,017 received attention for minor injuries. Aftershocks continued intermittently throughout the following weeks as construction crews worked to rebuild damaged buildings throughout the city. Traditional Japanese houses, particularly in the areas of Daimyō and Imaizumi, were the most heavily damaged and many were marked for demolition. Insurance payments for damages were estimated at approximately 15.8 billion yen.
+
+Fukuoka's most famous major fault, the Kego fault, runs northwest to southeast, roughly parallel to Nishi-Nippon Railroad|Nishitetsu's Tenjin Omuta Line|?muta train line, and was thought to be 22&nbsp;km long, terminating at Hakata Bay. It is estimated to be able to produce earthquakes as strong as magnitude 7 at the epicenter approximately once every 15,000 years. When a center is located at a depth of 10&nbsp;km, it would cause an earthquake of a lower-6 magnitude (similar to the March 20, 2005 earthquake) in downtown Fukuoka. The probability of an earthquake along the known length of the Kego fault occurring within 30 years was estimated at 0.4% prior to the March 20, 2005 earthquake, but this probability has been revised upwards since. According to a National Institute of Advanced Industrial Science and Technology presentation April 12, 2005 http://www.asahi.com/special/050320/TKY200504120267.html, supposing the last Kego earthquake had occurred 13,000 years ago, the probability of major activity within 30 years had been revised to 7%, or it were 7,000 years ago, the probability had been revised to 4%. Suppose that an earthquake had occurred along the Kego fault within the last 2000 years, the risk would be unchanged.
+
+==M5.8 aftershock on April 20==
+A new after-quake hit at 6:11 a.m. April 20 on Japan's southern main island of Kyūshū, the Central Meteorological Agency reported. Although considerable time had passed since the first quake, the aftershock was not unexpected. The quake, which swayed buildings and shattered some outer walls, was measured to have magnitude of 5.8. 2 and 56 people were severely and slightly injured and treated at a hospital in Fukuoka due to the quake and there were temporary closures of major highways, railway services and Fukuoka's airport. Following reports that the city has only prepared for earthquakes up to a magnitude of 6.5, the aftershock renewed fears that the quakes http://www.sevo.kyushu-u.ac.jp/HYPO/ might cause the Kego faultline to become active again beneath Fukuoka, leading to an earthquake as big as, or bigger than, the March 20 quake.
+
+In order to more accurately estimate the risk of ongoing or increased seismic activity, teams from University of Tokyo|Tokyo University, Kochi University|Kōchi University, Hiroshima University and Oita University|?ita University surveyed Hakata Bay to determine how far the Kego fault extends. Preliminary results, announced May 1, 2005 indicated that the fault extends nearly as far as Nokonoshima, 2.5&nbsp;km out into the bay, though no sign of recent activity along the fault was uncovered. The teams also discovered a new fault in the Higashi-ku portion of Hakata Bay. Later findings indicated that the faultline responsible for both the March 20 and April 20 quakes was likely an extension of the Kego fault, making its total length approximately 40&nbsp;km.
+
+==Images==
+<gallery>
+Image:Fukuoka Earthquake 20050320 Maruzen.jpg|Fukuoka Building, located in Fukuoka's popular shopping district, sustained serious damage during the initial quake as many of its windows shattered.
+Image:Fukuoka Earthquake Wall.jpg|A wall, located in Yakuin, Chuo-ku, damaged by the March 20, 2005 earthquake.
+Image:Fukuoka Earthquake 20050605 Shikanoshima.jpg|A landslide upon surrounding road of Shikanoshima, the cape at the edge of Higashi-ku, damaged by the March 20 and April 20, 2005 earthquakes.
+</gallery>
+
+==References==
+{{reflist}}
+
+==External links==
+{{wikinews|Powerful earthquake rocks southern Japan, tsunami warnings issued}}
+*http://www.sevo.kyushu-u.ac.jp/HYPO/index-e.html Seismic activity in and around Kyūshū, courtesy of Kyūshū University
+*http://go-fubar.com/mag_en/articles/161/ 20 March 2005 Earthquake eye-witness report
+*http://faculty.samford.edu/~djohnso2/fukuokaquake/index.html From Fukuoka with photos
+*http://www.ireysbar.com/ireyspanish/gallery/2005-Fukuoka-Earthquake.html Pictures of 2005-Fukuoka Earthquake
+*{{Coord|33.738333|130.175|format=dms|display=inline,title|type:landmark_region:JP_scale:10000}}
+
+{{Earthquakes in 2005}}
+
+{{DEFAULTSORT:2005 Fukuoka Earthquake}}
+Category:Earthquakes in Japan|2005 Fukuoka
+Category:2005 earthquakes|Fukuoka Earthquake, 2005
+Category:2005 in Japan|Fukuoka earthquake

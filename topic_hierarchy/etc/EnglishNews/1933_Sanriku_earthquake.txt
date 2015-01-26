@@ -1,0 +1,62 @@
+{{Infobox earthquake
+|title = 1933 Sanriku earthquake
+|image = Kamaishi Bay after 1933 tsunami.jpg
+|imagecaption = Kamaishi Bay, Iwate after 1933 earthquake and tsunami
+|date = Thursday, {{start-date| March 2, 1933}}
+|map2 = {{Location map | Japan
+ | label =
+ | lat = 39.46 
+ | long = 144.42
+ | mark = Bullseye1.png
+ | marksize = 40
+ | position = top
+ | width = 250
+ | float = right
+ | caption =
+ | relief = yes }}
+|magnitude = 8.4 Moment magnitude scale|Mw
+|depth =
+|location = {{coord|39|7.7|N|144|7|E|display=inline,title}}
+|countries affected = Japan, United States
+|tsunami = Yes
+|casualties = 3000+ dead
+}}
+
+File:1933 Sanriku Earthquake damage at Kamaishi 01.jpg|right|thumb|Damage at Kamaishi
+
+The {{nihongo|'''1933 Sanriku earthquake'''|昭和三陆地震|Shōwa Sanriku Jishin}} occurred on the Sanriku Coast|Sanriku coast of the Tōhoku region of Honshū, Japan on March 2. The associated tsunami caused widespread damage.
+
+==History==
+The epicenter of the 1933 Sanriku earthquake was located offshore, {{convert|290|km|mi}} 
+east of the city of Kamaishi, Iwate. The initial shock occurred at 0231 AM local time on March 3, 1933 (1731 GMT March 2, 1933). The earthquake measured 8.4 on the moment magnitude scale  and was in approximately the same location as the 1896 Meiji-Sanriku earthquake. The epicenter occurred far enough away from the town that the earthquake itself did little damage to buildings. Approximately three hours after the main shock was a magnitude 6.8 aftershock, followed by 76 more aftershocks (with a magnitude of 5.0 or greater) over a period of six months.
+
+This earthquake was an intraplate earthquake in the Pacific Plate. The focal mechanism of this earthquake showed that it was a normal faulting earthquake.
+
+==Damage==
+Although the earthquake did little damage, the associated tsunami, which was recorded to reach the height of {{convert|28.7|m|ft}} at ?funato, Iwate, caused extensive damage, destroyed many homes and caused numerous casualties  The death toll came to 1522 people confirmed dead, 1542 missing, and 12,053 injured. Hardest hit was the town of Tarō, Iwate (now part of Miyako, Iwate|Miyako city), with 98% of its houses destroyed and 42% of its population killed.
+
+==See also==
+*Seismicity of the Sanriku coast
+**869 Jogan Sanriku earthquake
+**1896 Meiji-Sanriku earthquake
+**2011 Tōhoku earthquake
+
+==Notes==
+{{reflist}}
+
+;Sources
+{{refbegin}}
+* Clancey, Gregory. (2006). http://books.google.com.sg/books?id=m0eUSUtm0iMC ''Earthquake Nation: The Cultural Politics of Japanese Seismicity.'' Berkeley: University of California Press.  10-ISBN 0-520-24607-1; 13-ISBN 978-0-520-24607-2 (cloth)
+{{refend}}
+
+==External links==
+* http://www.criticalpast.com/video/65675076532_natural-disasters_rubble-on-ground_people-gather_damaged-buildings Historic video footage of devastation following 1933 Sanriku Earthquake
+
+{{Earthquakes in Japan}}
+
+Category:Earthquakes in Japan
+Category:1933 earthquakes|Sanriku
+Category:1933 in Japan|Sanriku
+Category:Empire of Japan
+Category:Tsunamis in Japan
+Category:20th-century tsunamis

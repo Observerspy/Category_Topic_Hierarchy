@@ -1,0 +1,56 @@
+{{Earthquake
+|title= 1993 Southwest-off Hokkaido Earthquake
+|date= {{Start-date|July 12, 1993}}
+|map2 = {{Location map | Japan
+ | label=
+ | lat=42.851
+ | long=139.197
+ | mark=Bullseye1.png
+ | marksize=50
+ | position=top
+ | width= 250
+ | float=right
+ | caption=
+ | relief=yes}}
+|magnitude = 7.7 Moment magnitude scale|M<sub>w</sub>
+|depth=17 km
+|location={{coord|42.851|139.197|display=inline,title}}
+|countries affected = Japan, Hokkaido
+|tsunami = yes
+|casualties = 230
+}}
+The {{nihongo|'''1993 southwest-off Hokkaido earthquake'''|北海道南西冲地震|Hokkaidō Nansei Oki Jishin}} occurred at 13:17:12 coordinated universal time|UTC on {{date|12 July 1993}} in the Sea of Japan near the island of Hokkaido.
+
+==Tectonic setting==
+The earthquake occurred in the backarc region of the convergent boundary where the Pacific Plate Subduction|subducts beneath the Eurasian Plate.
+
+==Damage==
+The earthquake shaking caused moderately severe damage, VIII on the Mercalli scale. The tsunami reached Okushiri between 2 and 7 minutes after the earthquake. A tsunami warning was given 5 minutes after the earthquake by the Japanese Meteorological Agency|JMA. However, this was too late for the inhabitants of Okushiri. The quake caused fires to start in the town of Okushiri, adding greatly to the total damage.
+
+==Characteristics==
+===Earthquake===
+The earthquake had two distinct shocks. The first lasted for 20 seconds, while the second lasted 35 seconds.
+
+The rupture occurred on a fault that dipped at 24 degrees to the east. It had an estimated length of 150&nbsp;km with a displacement of 2.5 m. The island of Okushiri subsided by 5&ndash;80&nbsp;cm.
+
+===Tsunami===
+The tsunami inundated large parts of Okushiri, despite its tsunami defenses. Okushiri had been struck by another 1983 Sea of Japan earthquake|tsunami 10 year earlier. A maximum run-up of 32 m was recorded on the western part of the island near Monai. A tsunami was widely observed in the Sea of Japan with a run-up of 3.5 m at Akita Prefecture|Akita in northern Honshu, up to 4.0 m in southeastern Russia and up to 2.6 m on the coast of South Korea.
+
+===Landslide===
+The Okushiri-port landslide involved a volume of 1.5 x 10<sup>5</sup> m? of rock. The slide failure occurred at the base of a Volcanic rock|volcanic breccia bed (geology)|bed. The slide occurred in two phases that may match the two separate shocks recorded for the earthquake.
+
+==Aftermath==
+The destructive power of this tsunami led to an overhaul of the sea defences on Okushiri involving the construction of tsunami sluices on a river and strengthened embankments. New escape routes were also provided and help was given for households to purchase emergency broadcast receivers.
+
+==References==
+{{Reflist}}
+
+{{Earthquakes in Japan}}
+
+{{DEFAULTSORT:1993 southwest-off Hokkaido earthquake}}
+Category:Earthquakes in Japan|1993 Hokkaido earthquake
+Category:Tsunamis in Japan
+Category:History of Hokkaido|1993 southwest-off Hokkaido earthquake
+Category:1993 earthquakes|Hokkaido
+Category:20th-century tsunamis
+Category:Landslides in Japan

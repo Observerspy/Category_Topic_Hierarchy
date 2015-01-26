@@ -1,0 +1,71 @@
+{{Earthquake
+| title              = 1997 Umbria and Marche earthquake
+| date               = {{Start date|1997|9|26|11|40|26|Z}}
+| image              = Volta_Cimabue.jpg
+| map2               = {{Location map | Italy
+ | label        = 
+ | lat          = 43.084
+ | long         = 12.812
+ | mark         = Bullseye1.png
+ | marksize     = 40
+ | position     = right
+ | width        = 250
+ | float        = right
+ | caption      = 1997 Umbria and Marche earthquake
+ | relief=yes
+}}
+| magnitude          = 6.1 Moment magnitude scale|M<sub>w</sub>
+| depth              = {{convert|10|km|abbr=on}}
+| location           = {{coord|43.084|12.812|display=inline,title}}
+| countries affected = {{ITA}} (Umbria, Marche)
+| tsunami            = 
+| casualties         = 11 dead<br />100 injured
+}}
+The '''1997 Umbria and Marche earthquake''' occurred in the regions of Umbria and Marche, Central Italy|central Italy on the morning of September 26, 1997.  It was preceded by a foreshock almost as strong as the main quake.  The foreshock occurred at 2:33&nbsp;am Central European Summer Time|CEST (0:33 UTC), rated 5.7 on the Richter scale, and the second &ndash; the main shock &ndash; occurred at 11:40&nbsp;am CEST (9:40 UTC), rated 6.1 on the Richter scale. Their epicentre was in Annifo.
+
+There were several thousands of foreshocks and aftershocks from May 1997 to April 1998, more than thirty of which had a Richter magnitude more than 3.5. 11 people are known to have died following the shocks of September 26, 1997.
+
+==List of foreshocks and aftershocks==
+Only shocks (both foreshocks and aftershocks) with magnitude 5.0 or higher are listed. Shocks with magnitude 5.5 or higher are highlighted in light blue. The main shock with magnitude 6.1 M<sub>w</sub> is highlighted in dark blue.
+{| class="wikitable sortable" border="1"
+! Date <br />(YYYY-MM-DD) !! Time <br />(UTC) !! Latitude !! Longitude !! Depth !! Magnitude
+|- style="background: #ccccff"
+| 1997-09-26 || 0:33:12 || 43.048° N || 12.879° E || {{convert|10|km|mi|0|abbr=on}} || 5.7 (M<sub>w</sub>)
+|- style="background: #9999ff"
+| 1997-09-26 || 11:40:26 || 43.084° N || 12.812° E || {{convert|10|km|mi|0|abbr=on}} || 6.1 (M<sub>w</sub>)
+|-
+| 1997-09-26 || 9:47:38 || 43.163° N || 12.752° E || {{convert|10|km|mi|0|abbr=on}} || 4.7 (M<sub>L</sub>)
+|-
+| 1997-10-03 || 8:55:21 || 43.075° N || 12.794° E || {{convert|10|km|mi|0|abbr=on}} || 5.3 (M<sub>w</sub>)
+|- style="background: #ccccff"
+| 1997-10-06 || 23:24:52 || 43.045° N || 12.835° E || {{convert|10|km|mi|0|abbr=on}} || 5.5 (M<sub>w</sub>)
+|- 
+| 1997-10-12 || 11:08:36 || 42.901° N || 12.897° E || {{convert|10|km|mi|0|abbr=on}} || 5.3 (M<sub>L</sub>)
+|- style="background: #ccccff"
+| 1997-10-14 || 15:23:10 || 42.962° N || 12.892° E || {{convert|10|km|mi|0|abbr=on}} || 5.6 (M<sub>L</sub>)
+|-
+| 1997-11-09 || 19:07:33 || 42.903° N || 12.948° E || {{convert|10|km|mi|0|abbr=on}} || 5.0 (M<sub>L</sub>)
+|-
+| 1998-03-26 || 16:26:11 || 43.255° N || 12.969° E || {{convert|10|km|mi|0|abbr=on}} || 5.4 (M<sub>w</sub>)
+|-
+| 1998-04-03 || 7:26:36 || 43.164° N || 12.701° E || {{convert|10|km|mi|0|abbr=on}} || 5.2 (M<sub>w</sub>)
+|-
+| 1998-04-05 || 15:52:20 || 43.185° N || 12.719° E || {{convert|10|km|mi|0|abbr=on}} || 5.0 (M<sub>L</sub>)
+|}
+
+==See also==
+* List of earthquakes in Italy
+* Earthquake engineering
+
+==Notes==
+{{Reflist}}
+
+==External links==
+* http://storing.ingv.it/cfti4med/ CFTI4med
+* http://www.youtube.com/watch?v=u1Fer3yMo5I&hl=it Video of earthquake
+
+{{Earthquakes in 1997}}
+
+Category:1997 earthquakes|Umbria and Marche earthquake
+Category:1997 in Italy|Umbria and Marche earthquake
+Category:Earthquakes in Italy|1997 Umbria and Marche earthquake

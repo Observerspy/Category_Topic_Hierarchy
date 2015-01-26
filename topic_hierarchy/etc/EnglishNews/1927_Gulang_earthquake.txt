@@ -1,0 +1,42 @@
+{{Infobox earthquake
+|title= 1927 Gulang earthquake
+|date= {{Start-date|May 22, 1927}}
+|map2 = {{Location map many | Tibetan Plateau
+ | label=
+ | lat=37.39
+ | long=102.31
+ | mark=Bullseye1.png
+ | marksize=40
+ | position=top
+ | width= 250
+ | float=right
+ | caption=}}
+|magnitude = 7.6 Moment magnitude scale|M<sub>w</sub>
+|depth=
+|location={{coord|37.39|102.31|display=inline,title}}
+|countries affected = Kansu, Republic of China (1912–1949)|Republic of China
+|tsunami = 
+|casualties = 40,900 
+}}
+File:TibetanPlateauTectonics.png|thumb|250px|Tectonic setting of the Tibetan Plateau showing main fault zones
+The '''1927 Gulang earthquake''' occurred at 6:32 a.m. on 22 May (22:32 UTC on 21 May). This 7.6 Moment magnitude scale|magnitude event had an epicenter near Gulang, Kansu in the Republic of China (1912–1949)|Republic of China. There were more than 40,900 casualties. It was felt up to 700&nbsp;km away.
+
+==Geology==
+The continental collision between the Indian Plate and the Eurasian Plate has formed the Himalayas and the large uplifted area of the Tibetan Plateau. The northeastern part of Tibet is affected by the eastward lateral spreading of the Tibetan Plateau. This spreading is accommodated by a series of sinistral (left-lateral) Fault (geology)#Strike-slip faults|strike-slip faults, including the Altyn Tagh fault|Altyn Tagh, Haiuyan, Kunlun fault|Kunlun and Xianshuihe fault system|Xianshuihe faults, combined with Thrust fault|thrusting on the Longmenshan fault. The earthquake ruptured the complex thrust fault system in the Qilian Mountains transpressional zone, formed at a restraining bend on the Haiyuan fault. Another segment of the Haiyuan fault was responsible for the 1920 Haiyuan earthquake.
+
+==Damage==
+In the area of greatest intensity, all cave dwellings and 90% of houses were destroyed. In Gulang, almost the only thing left standing was a 20 m long section of the city walls and some decorated archways. In Gulang county 4,000 people and 30,000 domestic animals were killed. In Wuwei, Gansu|Wuwei, most of the city walls collapsed as did many temples, towers and civilian houses, 35,000 people and 200,000 horses and oxen were killed. In the area around Yongchang County|Yongchang many primary schools, forts, stockaded villages and temples were destroyed, killing 809 people. In Shandan County more than 5,800 houses were destroyed and many cave dwellings collapsed, leaving 886 people dead.
+
+The ground was extensively fissured, with fissures up to 14&nbsp;km in length, 6–13 m wide and 7 m deep. A large landslide at Dongchuan buried several villages and blocked the road for a year.
+
+==Characteristics==
+The Seismic scales#Magnitude scales|magnitude of this earthquake has been variously calculated as 7.6 on the moment magnitude scale and 8.0&ndash;8.3 on the surface wave magnitude scale.
+
+==References==
+{{Reflist}}
+
+{{Earthquakes in China}}
+
+Category:Earthquakes in China
+Category:1927 earthquakes|Gulang Earthquake, 1927
+Category:1927 in China|Gulang Earthquake, 1927

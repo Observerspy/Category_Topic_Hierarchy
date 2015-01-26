@@ -1,0 +1,146 @@
+{{Infobox Election
+| election_name = Russian presidential election, 2008
+| country = Russia
+| type = presidential
+| ongoing = no
+| previous_election = Russian presidential election, 2004
+| previous_year = 2004
+| next_election = Russian presidential election, 2012
+| next_year = 2012
+| election_date =  2 March 2008
+| image1 = [[File:Dmitry Medvedev official large photo -5.jpg|115px]]
+| nominee1 = '''[[Dmitry Medvedev]]'''
+| party1 = United Russia
+| popular_vote1 = '''52,530,712'''
+| percentage1 = 71.2%
+| image2 = [[File:Gennady Zyuganov 2012-05-01.jpg|106px]]
+| nominee2 = [[Gennady Zyuganov]]
+| party2 = Communist Party of the Russian Federation
+| popular_vote2 = 13,243,550
+| percentage2 = 18.0%
+| image3 = [[File:Wladimir Schirinowski crooped.jpeg|136px]]
+| nominee3 = [[Vladimir Zhirinovsky]]
+| party3 = Liberal Democratic Party of Russia
+| popular_vote3 = 6,988,510
+| percentage3 = 9.5%
+| title = President
+| before_election = [[Vladimir Putin]]
+| after_election = [[Dmitry Medvedev]]
+| before_party = Independent (politician)
+| after_party = United Russia
+}}{{Politics of Russia}}
+
+'''Presidential elections''' were held in [[Russia]] on 2 March 2008. They resulted in the election of [[Dmitry Medvedev]] as the third [[President of Russia]]. Medvedev, whose candidacy was supported by incumbent president [[Vladimir Putin]] and five political parties ([[United Russia]], [[Fair Russia]], [[Agrarian Party of Russia|Agrarian Party]], [[Civilian Power]], [[Russian Ecological Party "The Greens"]]), received 71% of the vote, and defeated candidates from the [[Communist Party of the Russian Federation]], the [[Liberal Democratic Party of Russia]] and the [[Democratic Party of Russia]].<ref>[http://exile.ru/articles/detail.php?ARTICLE_ID=8606&IBLOCK_ID=35 Reintroducing: The Democratic Party Of Russia], [[The eXile]], June 15, 2007.</ref><ref>[http://www.reuters.com/article/reutersEdge/idUSL2949331420080130?sp=true Presidential candidate Bogdanov denies Kremlin ties], [[Reuters]], January 30, 2008.</ref>
+
+The fairness of the election was disputed, with official monitoring groups giving conflicting reports. Some reported that the election was free and fair, while others reported that not all candidates had equal media coverage and that [[Kremlin]] opposition was treated unfairly. Monitoring groups found a number of other irregularities.<ref name=golos/> The head of the electoral commission [[Vladimir Churov]] and the European election monitoring group [[Parliamentary Assembly of the Council of Europe|PACE]] said the results reflected the will of the people.<ref name=rt/><ref name=ri/><ref name=b/>
+
+The [[Organization for Security and Co-operation in Europe]] (OSCE) election monitoring group refused to monitor the election because of what it called "severe restrictions on its observers by the Russian government", a charge Russia vehemently rejected, calling the decision "unacceptable".<ref name=os/><ref name=n/>
+
+==Сandidates==
+===Registered candidates===
+Four candidates registered their nomination with the [[Central Election Commission of Russia|Central Electoral Commission]]:
+
+*[[Andrei Vladimirovich Bogdanov|Andrey Bogdanov]], leader of the [[Democratic Party of Russia]]. Registered candidate on January 24.
+* [[Dmitry Medvedev]], nonpartisan, Deputy Prime Minister since 2005. He was supported by incumbent president [[Vladimir Putin]] and nominated by the parties [[United Russia]], [[Fair Russia]], [[Agrarian Party of Russia|Agrarian Party]], [[Russian Ecological Party "The Greens"]] and [[Civilian Power]]. Registered candidate on January 21.
+* [[Vladimir Zhirinovsky]], Deputy Speaker of the [[State Duma]] and leader of the [[Liberal Democratic Party of Russia]]. He ran for the presidency on three prior occasions: in 1991, 1996 and 2000. His best result was third with 7.81% support. Registered candidate on December 26.<ref>[http://www.cikrf.ru/postancik/Zp070620.jsp Центральная избирательная комиссия Российской Федерации]{{dead link|date=February 2011}}</ref>
+* [[Gennady Zyuganov]], Leader of the [[Communist Party of the Russian Federation]] and former presidential candidate, who ran for President in 1996 (when he came short just a few percent of the votes) and 2000, but not in 2004.<ref>Kommersant Moscow. [http://www.kommersant.com/p-10880/Zyuganov_Presidential_Election/ Zyuganov Announces His Presidential Bid]. 2007-06-11</ref> Officially nominated on December 15, 2007 with 215 of 218 votes in favor.<ref>ITAR-TASS [http://www.itar-tass.com/eng/level2.html?NewsID=12182727&PageNum=0 Communist leader Zyuganov nominated for Russia presidency]. 2007-12-15.</ref> Registered candidate on December 26.<ref>[http://www.cikrf.ru/postancik/Zp070623.jsp Центральная избирательная комиссия Российской Федерации]{{dead link|date=February 2011}}</ref>
+
+[[Boris Nemtsov]], former Vice Prime Minister in [[Sergei Kiriyenko's Cabinet]], was nominated by the [[Union of Rightist Forces]] on December 18, 2007<ref>[http://www.kyivpost.com/bn/28019/ Kyiv Post. Russian opposition party SPS nominates Nemtsov as presidential candidate]{{dead link|date=February 2011}}</ref> and became a registered candidate on December 22.<ref>[http://www.cikrf.ru/postancik/Zp070638.jsp Центральная избирательная комиссия Российской Федерации]{{dead link|date=February 2011}}</ref> He withdrew his bid on December 26, 2007 and called on his supporters to vote for Kasyanov instead.<ref>{{cite web|url=http://en.rian.ru/russia/20071226/94208045.html |title=RIA Novosti - Russia - Opposition candidate Nemtsov quits Russian presidential race |publisher=En.rian.ru |date= |accessdate=2011-02-19}}</ref>
+
+===Dismissed candidates===
+[[Central Election Commission of Russia|Central Election Commission]] disqualified a number of candidates.
+
+* [[Mikhail Kasyanov]], a former [[Prime Minister of Russia|Prime Minister]] and current leader of the [[People's Democratic Union (Russia)|People's Democratic Union]], was the fifth candidate. It was not known if Kasyanov would continue his candidacy after Garry Kasparov had entered the race, but on December 8, 2007 he reaffirmed he would run in the election.<ref>People's Daily Online. [http://english.people.com.cn/90001/90777/90853/6317339.html Russian ex-PM nominated presidential candidate]. 2007-12-08.</ref> Registered candidate on December 14.  He had registered successfully, but later it was decided that too many of his signatures of support were forged<ref>{{cite web|url=http://www.themoscowtimes.com/stories/2008/01/23/011.html |title=Investigators Target Kasyanov Camp |publisher=Themoscowtimes.com |date=2008-01-23 |accessdate=2011-02-19}}</ref> and he was disqualified.<ref>{{cite web|url=http://news.bbc.co.uk/2/hi/europe/7211622.stm |title=Europe &#124; Kasyanov barred from Russian poll |publisher=BBC News |date=2008-01-27 |accessdate=2011-02-19}}</ref> Kasyanov appealed the decision to the Supreme Court,<ref>{{cite web|author=english@peopledaily.com.cn |url=http://english.people.com.cn/90001/90777/6349816.html |title=Former Russian PM challenges refusal to register him as presidential candidate - People's Daily Online |publisher=English.people.com.cn |date=2008-02-02 |accessdate=2011-02-19}}</ref> which rejected the appeal on February 6, 2008.<ref>{{cite web|author=english@peopledaily.com.cn |url=http://english.people.com.cn/90001/90777/6351794.html |title=Russian court rejects former PM's request to enter presidential race - People's Daily Online |publisher=English.people.com.cn |date=2008-02-06 |accessdate=2011-02-19}}</ref>  Bogdanov has also had a similar criminal investigation opened against him, but it was reported that even if the accusations are proven, his candidacy will not be dismissed.<ref>News.ru. [http://www.newsru.com/russia/31jan2008/podpisi.html Прокуратура выявила факт подделки подписей в поддержку Богданова. Но участь Касьянова ему не грозит]. 2008-01-31.</ref>
+
+* [[Vladimir Bukovsky]] - Soviet-era dissident.<ref>The Moscow Times. [http://www.themoscowtimes.com/stories/2007/05/29/013.html Bukovsky to Run for President] 2007-05-29</ref> On August 3, 2007 he received a new [[Russian passport]] at the Russian Embassy in [[London]].  He arrived in [[Moscow]] in October to launch his campaign.  His bid was refused on the grounds that he didn't live in Russia in the last 10 years.<ref>[http://www.cikrf.ru/postancik/Zp070644.jsp Об отказе в регистрации группы избирателей, созданной для поддержки самовыдвижения Владимира Константиновича Буковского кандидатом на должность Президента Российской Федерации, и ее уполномоченных представителей]{{dead link|date=February 2011}}</ref>
+
+* [[Nikolai Kuryanovich]] - Ultra nationalist member of the [[State Duma]]; an open admirer of both [[Adolf Hitler]] and [[Joseph Stalin]].<ref>BBC News. [http://www.bbc.co.uk/mediaselector/check/player/nol/newsid_7100000/newsid_7106700?redirect=7106706.stm&news=1&nbram=1&nbwm=1&bbwm=1&bbram=1&asb=1 Neo-Nazis on rise in Russia].</ref>
+
+* [[Oleg Shenin]] - The leader of the small, hard line  [[Communist Party of the Soviet Union (Shenin)]], which should not be confused with the larger [[Union of Communist Parties|UCP-CPSU]]. His bid was not registered due to bureaucratic mistakes in his documents.<ref>ЦентрИзбирКом [http://www.cikrf.ru/postancik/Zp070627.jsp . Постановление Об отказе в регистрации группы избирателей, созданной  для поддержки самовыдвижения Олега Семеновича Шенина кандидатом на должность Президента Российской Федерации, и ее уполномоченных представителей]</ref>
+
+===Non-candidates===
+Many Russian politicians publicly indicated their intention to run for President in 2008, but failed to submit their nomination:
+
+*[[Garry Kasparov]], former [[World Chess Champion]] and [[United Civil Front]] leader.  Before announcing his candidacy, he was previously inclined to endorse [[Viktor Gerashchenko]].<ref>Washingtonpost.com. [http://www.washingtonpost.com/wp-dyn/content/article/2007/06/14/AR2007061402096_pf.html Accidental Allies in Russian Politics]. 2007-06-15.q</ref> He failed to nominate by the deadline, citing government obstructions in finding a suitable congress venue as the reason.<ref>[http://www.nytimes.com/2007/12/13/world/europe/13russia.html?partner=rssnyt&emc=rss Kasparov Says He Was Forced to End Bid for Presidency], Andrew Kramer, [[The New York Times]], December 13, 2007</ref>
+
+* [[Alexander Donskoy]], mayor of [[Arkhangelsk]].  He was charged with abuse of office, detained for several months and released on March 6, 2008 with a probationary sentence.<ref>[http://svobodanews.ru/Article/2008/03/06/20080306192652010.html Мэр Архангельска получил три года условно; приговор будет оспорен]{{ru icon}}, Igor Kluchnikov, [[Radio Svoboda]], March 6, 2008</ref>
+
+* [[Viktor Gerashchenko]] - Former head of the Central Bank and former deputy of the nationalist [[Rodina (political party)|Rodina]] party who has now joined the [[The Other Russia (coalition)|Other Russia]] coalition.  He was initially the favored candidate of [[Garry Kasparov]].
+
+* [[Sergei Gulyayev]] - Former [[St Petersburg]] [[Yabloko]] regional legislator who announced his intention to run, despite the fact that [[Yabloko]]'s leader has also declared his intention to stand.<ref>The Moscow Times. [http://www.themoscowtimes.com/stories/2007/06/26/014.html Gulyayev to Run for President]. 2007-06-26.</ref>  Gulyayev was the fourth candidate from the [[The Other Russia (coalition)|Other Russia]] coalition to announce his candidacy.
+
+* [[Gennadiy Seleznyov]] - Former [[Speaker of the Duma]] (in 1995-2003); former member of the [[Communist Party of the Russian Federation|CPRF]]; leader of the [[socialist]] [[Party of Russia's Rebirth]].
+
+* [[Grigory Yavlinsky]], Leader of the [[Yabloko]] party, who also stood for the presidency in 1996 and in 2000,<ref>The Moscow Times. [http://www.themoscowtimes.com/stories/2007/06/18/011.html Yavlinsky Ready to Run in '08]. 2007-06-18.</ref> was widely expected to run for the presidency as a candidate of united liberal parties. However, at the Yabloko congress, on December 14, 2007, it was announced that Yavlinsky and his party would support the candidacy of Bukovsky.<ref>{{cite web|url=http://www.iht.com/articles/ap/2007/12/14/europe/EU-POL-Russia-Presidential-Election.php |title=Liberal Yavlinsky, perennial Russian candidate, not running for president |publisher=International Herald Tribune |date=2009-03-29 |accessdate=2011-02-19}}</ref>
+
+* [[Fair Russia]] announced on December 7, 2007 that they would not nominate their own candidate and would support another party's candidate instead (likely [[United Russia]]'s).<ref>RIA Novosti [http://en.rian.ru/russia/20071207/91354495.html A Just Russia party will not nominate presidential candidate]. 2007-12-07.</ref>
+
+==Campaign==
+Following his appointment as First Deputy Prime Minister, many political observers expected Medvedev to be nominated as Putin's successor for the 2008 presidential elections.<ref>[http://www.rferl.org/featuresarticle/2007/01/19EAFDE9-0C0D-43BC-99A5-BBD88912B086.html Russia: President's Potential Successor Debuts At Davos].  January 31, 2007.</ref> There were other potential candidates, such as [[Sergei Ivanov|Sergey Ivanov]] and [[Viktor Zubkov]], but on December 10, 2007, President Putin announced that Medvedev was his preferred successor. Four parties supporting Putin also declared Medvedev to be their candidate to the post - [[United Russia]], [[Fair Russia]], [[Agrarian Party of Russia]] and [[Civilian Power]].<ref>{{ru icon}} [http://lenta.ru/news/2007/12/10/medvedev/ Дмитрий Медведев выдвинут в президенты России] Lenta.ru</ref> [[United Russia]] held its [[party congress]] on December 17, 2007 where by [[secret ballot]] of the [[delegate]]s, Medvedev was officially endorsed as their candidate in the 2008 presidential election.<ref>[http://www.itar-tass.com/eng/level2.html?NewsID=12188392&PageNum=0 United Russia endorses D Medvedev as candidate for presidency] ITAR-TASS, December 17, 2007.</ref> He formally registered his candidacy with the [[Central Election Commission of Russia|Central Election Commission]] on December 20, 2007 and said he would step down as chairman of Gazprom, since under the current laws, the president is not permitted to hold another post.<ref>[http://www.bloomberg.com/apps/news?pid=20601085&sid=aO3DYm6Qk.Nc Medvedev Registers for Russian Presidency, Will Leave Gazprom], Bloomberg, December 20, 2007.</ref> Sources close to Gazprom and Medvedev have told the [[Vedomosti]] newspaper that Medvedev may be replaced by Putin at Gazprom.<ref>[http://news.yahoo.com/s/nm/20071221/wl_nm/putin_gazprom_dc_2 Putin may become Gazprom chairman], Reuters, December 21, 2007.</ref> His registration was formally accepted as valid by the Russian Central Election Commission on January 21, 2008.<ref>{{ru icon}} [http://cikrf.ru/postancik/Zp080688.jsp О регистрации Дмитрия Анатольевича Медведева кандидатом на должность Президента Российской Федерации], Decision No. 88/688-5 of the Central Election Commission of the Russian Federation, January 21, 2008.</ref>
+
+In January 2008, Medvedev launched his presidential campaign with stops in the [[oblast|regions]].<ref>[http://news.yahoo.com/s/nm/20080117/wl_nm/russia_medvedev_dc_1 Putin's successor dismisses fears of state "grab"], Reuters, January 17, 2008.</ref>
+In his first speech since he was endorsed, Medvedev announced that, as President, he would appoint Vladimir Putin to the post of [[Prime Minister of Russia|prime minister]] to head the [[Government of Russia|Russian government]].<ref>[http://www.nytimes.com/2007/12/11/world/europe/medvedev-speech.html Speech by Dmitry A. Medvedev], New York Times, December 11, 2007</ref> Although constitutionally barred from a third consecutive presidential term, such a role would allow Putin to continue as an influential figure in Russian politics<ref>[http://www.themoscowtimes.com/stories/2007/11/08/011.html Drive Starts to Make Putin 'National Leader'] The Moscow Times, November 8, 2007</ref> Putin pledged that he would accept the position of prime minister should Medvedev be elected president. Election posters portrayed the pair side-by-side with the slogan "Together we will win" ("{{Lang|ru|Вместе победим}}").<ref>{{cite web|url=http://news.bbc.co.uk/1/hi/world/europe/7136556.stm |title=World &#124; Europe &#124; Profile: Dmitry Medvedev |publisher=BBC News |date=2008-05-07 |accessdate=2011-02-19}}</ref> 
+
+During the pre-election debates on the [[Zvezda (TV channel)|Star TV]] on February 20, Nikolai Gotsa, a representative of Bogdanov, accused Vladimir Zhirinovsky and his party of lying to and betraying their supporters. He accused them of voting in favor of government initiatives they criticize when in public. Zhirinovsky replied fiercely, insulting Gotsa and calling him a "sick man, a [[Schizophrenia|schizoid]]", "bastard", and punched him when they went off the cameras. Bogdanov and Gotsa launched a legal issue against Zhirinovsky. On February 28, in another debate, Bogdanov claimed he had a personal talk with Zhirinovsky, and that the latter had threatened his life and demanded to withdraw the issue.<ref>{{cite web|url=http://www.itar-tass.com/eng/level2.html?NewsID=12414064&PageNum=0 |title=Bogdanov versus Zhirinovsky, five-year prison term asked |publisher=Itar-tass.com |date= |accessdate=2011-02-19}}</ref>
+
+==Opinion polls==
+{{main|Opinion polling for the Russian presidential election, 2008}}
+
+According to opinion polls taken prior to the election, up to 82% of people said that they would vote for [[Dmitry Medvedev]], the candidate endorsed by Vladimir Putin as his preferred successor. The second most popular candidate was [[Gennady Zuganov]], Leader of the Communist Party of Russia, who was expected to receive between 6% and 15% of the vote.<ref>{{cite web|url=http://news.bbc.co.uk/1/hi/world/europe/7216102.stm |title=Rivals in Kremlin race |publisher=BBC News |date=2008-01-30 |accessdate=2011-02-19}}</ref>
+An opinion poll by the [[VCIOM|Yury Levada Analytical Center]], taken in September after [[Vladimir Putin]] announced he would head the electoral list of [[United Russia]] in the 2007 Parliamentary elections, showed a commanding lead for [[Sergei Ivanov]] and [[Dmitry Medvedev]], with 34% and 30% of the vote respectively. [[Viktor Zubkov]] and [[Sergei Glazyev]] received only 4% of the vote each.<ref>Angus Reid Global Monitor. [http://www.angus-reid.com/polls/view/ivanov_leads_zubkov_negligible_in_russia/ Ivanov Leads, Zubkov Negligible in Russia] 2007-10-03.</ref>
+
+==Conduct==
+{{main|Fairness of Russian presidential election, 2008}}
+
+The [[Organization for Security and Cooperation in Europe]], in its capacity as an international election standards watchdog, refused to monitor the election because of what it called severe restrictions on its observers by the Russian government.<ref>[http://www.cnn.com/2008/WORLD/europe/03/03/russia.election/index.html Vote rig claim after Putin ally landslide - CNN.com]{{dead link|date=February 2011}}</ref> After weeks of negotiations, Russia agreed to increase the observer numbers for the ODIHR mission and extend the time frame for its visit, but the ODIHR claimed that the offer still didn't meet their requirements, insisting that it needed to send at least 50 of its observers to Russia on February 15, five days before the date proposed by Moscow, in order effectively monitor the election campaign.<ref name="os"/>
+
+Russia responded by insisting that it was complying fully with its international obligations and that its invitation for 400 monitors meets international standards. It accused the OSCE of attempting to politicize the dispute and that it suspected ODIHR's intention from the outset was to boycott the election, saying that the ODIHR had displayed "contempt for basic ethical norms ... which, it seems, indicates that ODIHR from the start was not even trying to agree on mutually acceptable conditions for monitoring."<ref name=n>[http://www.nationalpost.com/news/world/story.html?id=292473 Election watchdog scraps plans to monitor Russian vote] [[National Post]] Retrieved on March 19, 2008</ref> 
+
+Russian Foreign Minister [[Sergey Lavrov]] stated that {{cquote|The Russian side consented to 25 observers arriving this week and the rest of them on February, 25. Our proposal was denied. The Office (OSCE) insisted it will not send its observers to Russia unless Moscow accepts its demands. This is an ultimatum a self-respecting country cannot accept.<ref>[http://russiatoday.ru/election/news/21582 300+ monitor Russian poll; OSCE skips], [[Russia Today]], March 2, 2008</ref>}}
+
+Russia's Foreign Ministry spokesman, Mikhail Kamynin, said "The ODIHR flatly rejected a compromise without providing any clear explanations for its position. We believe such actions are unacceptable." Kamynin added that Moscow "deeply regretted" the OSCE refusal, accusing the organization, which he said generally sends 10-20 experts to observe election campaigns one or two weeks ahead of polls, of political bias against Russia.<ref name=os>[http://en.rian.ru/russia/20080207/98680172.html Wrap: OSCE election watchdog to boycott Russian polls - tensions rise], [[RIA Novosti]], February 7, 2008</ref>
+
+An incident arose during the election when three out of nine members of the [[Biysk]] Electoral Commission refused to sign the protocols citing widespread falsifications in their ''Priobsky Division''. The rest of commission decided to approve the protocols as the alleged abuse was not reported during the election.<ref>[http://www.fedpress.ru/federal/polit/vibori/id_89970.html Voices of outrage in a Biysk territorial election commission]{{ru icon}}, ''FederalPress'' March 5, 2008</ref>
+
+Representatives from the [[GOLOS Association|GOLOS]] monitoring group stated that "the Election Day was held in a relatively quiet atmosphere in contrast to the [[Russian legislative election, 2007|State Duma election day]]. Such large-scale violations observed then as campaigning next to polling stations, transporting of voters, intimidation of voters and others were practically non-existent." They did however report irregularities in the election.<ref name=golos>[http://golos.org/IMG/doc/GOLOS_statement_ENG_for_website.doc STATEMENT # 3 OF GOLOS ASSOCIATION ON THE RESULTS OF SHORT-TERM MONITORING OF PRESIDENTIAL ELECTIONS ON MARCH 2, 2008], The [[GOLOS Association]], Moscow, March 3, 2008</ref> 
+
+The [[Commonwealth of Independent States]] observer mission said the election was free, fair and in line with international standards. "The CIS observer mission states that the election is a major factor in the further democratization of public life in the Russian Federation, and recognizes it as free, open and transparent," said Nauryz Aidarov, head of the CIS mission.<ref name=ri>[http://en.rian.ru/world/20080303/100488297.html PACE says Medvedev won Russian polls, but doubts fairness], [[RIA Novosti]], March 3, 2008.</ref>
+
+Observers from the [[Shanghai Cooperation Organization]] said the election was free, fair and in line with international standards.<ref name=rt>[http://russiatoday.ru/election/news/21638 Thumping mandate for Medvedev] [[Russia Today]] Retrieved on March 19, 2008</ref>
+
+An observing group from [[Parliamentary Assembly of the Council of Europe]] stated that the result of the election was a "reflection of the will of an electorate whose democratic potential was, unfortunately, not tapped". They said "In the elections, which had more the character of a plebiscite on the last eight years in this country, the people of Russia voted for the stability and continuity associated with the incumbent President and the candidate promoted by him. The President-elect will have a solid mandate given to him by the majority of Russians."<ref name="Harding">[http://www.guardian.co.uk/world/2008/mar/03/russia.eu Russia election not free or fair, say observers] by Luke Harding, [[The Guardian]], March 3, 2008</ref><ref>[http://assembly.coe.int/ASP/Press/StopPressView.asp?ID=2013 Russian Presidential election: for an election to be good it takes a good process, not just a good election day], [[Parliamentary Assembly of the Council of Europe|PACE]], Strasbourg, March 3, 2008</ref> 
+
+The head of Russia's electoral commission [[Vladimir Churov]] said that media coverage for the presidential election had been "fair but not equal".<ref name=b>[http://news.bbc.co.uk/2/hi/europe/7270323.stm Russia official admits media bias] [[BBC News]] Retrieved on March 19, 2008</ref>
+
+''[[The Economist]]'' reported that Medvedev has been mentioned over six times more often than his three rivals in 1,000 different news sources, according to figures from SCAN, a media database owned by Interfax, but stated that this could be due to Medvedev's high profile job as chairman of the state-owned gas monopoly, [[Gazprom]].<ref>[http://www.economist.com/research/articlesBySubject/displaystory.cfm?subjectid=7933596&story_id=10757103 No contest] The economist [Feb 28th 2008]</ref>
+
+A report by the ''[[International Herald Tribune]]'' described Medvedev's election as "the culmination of Putin's efforts to consolidate control over the government, business and the news media since taking office eight years ago."<ref>[http://www.iht.com/articles/2008/03/02/europe/russia.php Medvedev is victor in Russia election] by Clifford J. Levy [[International Herald Tribune]], March 2, 2008</ref>
+
+Russian ''[[Novaya Gazeta]]'' claimed that there were forged election protocols and cases when independent observers were not allowed to monitor the election process.<ref>[http://www.novayagazeta.ru/data/2008/16/11.html Фальсификация] Retrieved on March 12, 2008</ref> Journalist [[Victor Shenderovich]] claims that only 3.5% of voters came to the elections in certain North Caucasus regions according to independent observers, whereas the Central Election committee reporter more than 90% turnaround.<ref>{{cite web|url=http://www.echo.msk.ru/programs/plsyrok/499824-echo/ |title=Шендерович, писатель, журналист Виктор |publisher=Echo.msk.ru |date= |accessdate=2011-02-19}}</ref>
+
+==Results==
+{{Russian presidential election, 2008}}
+
+===Reactions===
+According to [[Russia Today]], many in the Western media portrayed Russia's presidential election as nothing but a farce. It reported that the claims of rigging the election were not supported by the various international election monitoring organizations in attendance.<ref>{{cite web|url=http://www.guide2womenleaders.com/Slovakia_Parliament.htm |title=Slovakia Parliament |publisher=Guide2womenleaders.com |date= |accessdate=2011-02-19}}</ref>{{Failed verification|date=October 2010}}
+
+Political analyst and [[United Russia]] member, [[Sergey Alexandrovich Markov|Sergei Markov]], said that the outcome of this poll was predetermined because of how much support the Russian people show for Vladimir Putin's policies. "The Russian people have seen how successful these policies have been, and they want them to continue", he says. Markov cited fears that the West would interfere and change the course of the election, like they did in [[Ukraine]] and [[Georgia (country)|Georgia]].<ref>[http://news.bbc.co.uk/2/hi/europe/7263293.stm#markov Viewpoints: Russian presidential election] [[BBC]] Retrieved on March 12, 2008</ref>
+
+==See also==
+*[[Bald – hairy]]
+
+==References== 
+{{reflist|2}}
+
+==External links==
+*[http://trendlines.ca/electrussia.htm TrendLines Research International Election Projections] Monthly Tracking chart of polling sentiment for the 3 leading contenders in next Russian Presidential election.
+* [http://www.vybory.izbirkom.ru/region/region/izbirkom?action=show&root=1&tvd=100100022249920&vrn=100100022176412&region=0&global=1&sub_region=0&prver=0&pronetvd=null&vibid=100100022249920&type=227 Official results] {{ru icon}}
+*[http://news.bbc.co.uk/2/hi/europe/7263293.stm BBC NEWS Viewpoints: Russian presidential election] Six Russians give their views on the election and predict the outcome. 
+*[http://www.youtube.com/v/xGfwlkGNrBM]; [http://www.youtube.com/v/-E2ieEsmqBM] - YouTube videos of electoral officials in [[Moscow]] trying to prevent the observers from registering an election fraud (they claim the box was stuffed with pro-Medvedev ballots prior to the poll opening); electoral officials attempting to expel observers with simulated terrorist threat and air-strike sirens.
+
+{{Russian elections}}
+
+[[Category:2008 elections in Russia]]
+[[Category:2008 in Russia|Presidential election]]
+[[Category:Presidential elections in Russia|2008]]
+[[Category:Dmitry Medvedev]]

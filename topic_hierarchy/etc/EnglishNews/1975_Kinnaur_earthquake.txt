@@ -1,0 +1,50 @@
+{{Use dmy dates|date=December 2013}}
+{{Earthquake
+|title= 1975 Kinnaur earthquake
+|date= {{Start-date|January 19, 1975}}
+|map2 = {{Location map | India
+ | label=
+ | lat=32.46
+ | long=78.432
+ | mark=Bullseye1.png
+ | marksize=50
+ | position=top
+ | width= 250
+ | float=right
+ | caption=
+ | relief=yes}}
+|magnitude = 6.8 Surface wave magnitude|M<sub>s</sub>
+|depth= 33 km
+|location={{coord|32.46|78.43|display=inline,title}}
+|countries affected = {{IND}}, Himachal Pradesh
+|tsunami =
+|casualties = 47
+}}
+File:Ki Monastery.jpg|thumb|right|Key Monastery and the Spiti Valley, seriously affected by the Kinnaur earthquake
+The '''1975 Kinnaur earthquake''' occurred in the early afternoon (local time) (08:02 Coordinated universal time|UTC) of 19 January. It had a magnitude of 6.8 on the surface wave magnitude scale and a maximum perceived intensity of IX (''violent'') on the Mercalli intensity scale, causing extensive damage in Himachal Pradesh, in northern India. Landslides, rock falls and avalanches caused major damage to the Hindustan-Tibet Road. The earthquake affected many monasteries and buildings in the state and led to an extensive restoration work in the late 1970s and early 1980s in Himachal Pradesh. The Spiti Valley|Spiti and Parachu valleys in particular suffered the greatest damage being on the north-south Kaurik-Chango fault,  causing damage to landmarks such as Key Monastery and Tabo Monastery.
+
+==Tectonic setting==
+The state of Himachal Pradesh lies towards the southern boundary of the Himalayan mountain belt, which was formed by the continental collision|collision between the Indian Plate and the Eurasian Plate. The mountain building that formed the Himalayas is an example of thrust tectonics and is dominated by thrust faulting. The estimated recurrence interval for earthquakes along this fault zone is about 10,000 years.
+
+==Earthquake==
+The earthquake rupture is estimated to be about 25&nbsp;km in length and 575&nbsp;km<sup>2</sup> in area, with a displacement of about 0.6 m. The mainshock was preceded by a major foreshock.
+
+The isoseismal map|isoseismal lines for the earthquake are elongated in a north-south direction, parallel to the strike of the Kaurik-Chango Fault Zone. The focal mechanism of the earthquake indicates normal faulting along a north-south trending, west-dipping fault.
+
+==Damage==
+The areas most strongly affected by the earthquake were the districts of Kinnaur and Lahaul and Spiti district|Lahaul-Spiti. The worst affected villages were in the Parachu and Spiti river valleys. The village of Karauk showed the greatest degree of damage, with no building being unaffected. Buildings sited on slopes or at the base of slopes were not only affected by the shaking but by boulders falling from the hills above them. The performance of the different types of residential buildings varied greatly. Houses made from mud,either directly or as sun-dried bricks showed damage over a wide area (up to 100&nbsp;km from the epicenter) and those in the epicentral area were often severely damaged. Unreinforced masonry structures were also badly affected, particularly those made of "random rubble stone masonry" (RRSM) with mud mortar, some of them having collapsed completely. The best performing buildings were barrack type houses constructed from corrugated iron covering a timber frame, which generally showed little or no damage.
+
+The many monasteries and temples in the area were mostly badly damaged. They were often constructed with mudbrick or RRSM walls and had heavy roofs. Strong vertical motion during the earthquake led to excessive loads on the upper part of the supporting walls causing them to bulge outwards.
+
+There were many landslides, rockfalls and avalanches triggered by the earthquake.
+
+==Aftermath==
+Damaged temples and monasteries were repaired or rebuilt immediately after the earthquake.
+
+==References==
+{{Reflist}}
+
+Category:1975 in India
+Category:1975 earthquakes|Kinnaur Earthquake, 1975
+Category:Earthquakes in India|1975 Kinnaur
+Category:History of Himachal Pradesh (1947–present)

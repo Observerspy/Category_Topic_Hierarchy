@@ -1,0 +1,250 @@
+{{Use dmy dates|date=October 2013}}
+{{Infobox election
+| election_name = German federal election, 2013
+| country = Germany
+| type = parliamentary
+| ongoing = no
+| previous_election = German federal election, 2009
+| previous_year = 2009
+|next_election   = Next German federal election
+| next_year = Next
+| seats_for_election = All 598 seats in the [[Bundestag]], as well as 33 [[overhang seat]]s
+| majority_seats = 316
+| election_date = 22 September 2013
+| turnout = 71.5% (voting eligible)<ref name="Voter turnout 2013">{{cite web|title=Voter turnout by election year|url=http://www.bundeswahlleiter.de/en/glossar/texte/Wahlbeteiligung.html|website=Website of the Federal Returning Officer's Office|publisher=The Federal Returning Officer|accessdate=7 November 2014}}</ref>
+
+<!--      CDU/CSU      -->
+| image1 = [[File:Bundeskanzlerin Angela Merkel bei einer Wahlkampfveranstaltung 2013 (Recortada).jpg|170x170px]]
+| leader1 = [[Angela Merkel]]
+| leader_since1 = 10 April 2000
+| party1 = CDU/CSU
+| leaders_seat1 = [[Vorpommern-Rügen – Vorpommern-Greifswald I|Vorpommern-Greifswald I]]
+| last_election1 = 239 seats, 33.8%
+| seats_before1 = 
+| seats1 = '''311'''
+| seat_change1 = {{increase}}72
+| popular_vote1 = '''18,165,446'''
+| percentage1 = '''41.5%'''
+| swing1 = {{increase}}7.8 [[Percentage point|pp]]
+
+<!--      SPD   -->
+| image2 = [[File:Peer Steinbrück in Münster (2012).jpg|170x170px]]
+| leader2 = [[Peer Steinbrück]]
+| leader_since2 = 28 September 2012 <br/><small>(as chancellor candidate)</small>
+| party2 = Social Democratic Party of Germany
+| leaders_seat2 = [[North Rhine-Westphalia]]
+| last_election2 = 146 seats, 23.0%
+| seats_before2 = 
+| seats2 =193
+| seat_change2 = {{increase}}47
+| popular_vote2 = 11,252,215 
+| percentage2 = 25.7%
+| swing2 = {{increase}}2.7 [[Percentage point|pp]]
+
+<!--      Left   -->
+| image3 = [[File:Gregor Gysi Bundestagwahl 2013 Die Linke.jpg|170x170px]]
+| leader3 = [[Gregor Gysi]]
+| leader_since3 = 21 January 2013<ref>http://en.die-linke.de/index.php?id=11534</ref>
+| party3 = The Left (Germany)
+| leaders_seat3 =[[Berlin Treptow - Köpenick (electoral district)|Berlin Treptow-Köpenick]]
+| last_election3 = 76 seats, 11.9%
+| seats_before3 = 
+| seats3 = 64
+| seat_change3 = {{decrease}}12
+| popular_vote3 = 3,755,699
+| percentage3 = 8.6%
+| swing3 = {{decrease}}3.3 [[Percentage point|pp]]
+
+<!--      Greens   -->
+| image4 = [[File:Trittin, Jürgen-0126.jpg|170x170px]]
+| leader4 = [[Jürgen Trittin]]
+| leader_since4 = 10 November 2012
+| party4 = Alliance '90/The Greens
+| leaders_seat4 = [[Thuringia]]
+| last_election4 = 68 seats, 10.7%
+| seats_before4 = 
+| seats4 = 63
+| seat_change4 = {{decrease}}5
+| popular_vote4 = 3,694,057
+| percentage4 = 8.4%
+| swing4 = {{decrease}}2.3 [[Percentage point|pp]]
+
+<!--  FDP  -->
+| image5 = [[File:Rainer Brüderle-Carschten2.jpg|170x170px]]
+| leader5 = [[Rainer Brüderle]]<ref>{{cite news |coauthors= |title=Rösler bleibt FDP-Chef - Brüderle als Spitzenkandidat |url=http://www.spiegel.de/politik/deutschland/roesler-bleibt-fdp-chef-bruederle-als-spitzenkandidat-a-878784.html |work= |accessdate=21 January 2013}}</ref>
+| leader_since5 = 21 January 2013 <br/><small>(as top candidate)</small>
+| party5 = Free Democratic Party (Germany)
+| leaders_seat5 = [[Rhineland-Palatinate]]
+| last_election5 = 93 seats, 14.6%
+| seats_before5 = 
+| seats5 = 0
+| seat_change5 = {{decrease}}93
+| popular_vote5 = 2,083,533
+| percentage5 = 4.8%
+| swing5 = {{decrease}}9.8 [[Percentage point|pp]]
+
+<!-- map -->
+| map_image   = German Federal Election - Party list vote results by state - 2013.png
+| map_size    = 180px
+| map_caption = [[Party list]] election results by state: blue denotes states where [[CDU/CSU]] had the plurality of votes, and pink denotes states where the [[SPD]] had the plurality of votes
+
+| title = [[Chancellor of Germany (Federal Republic)|Chancellor]]
+| posttitle = Resulting Chancellor
+| before_election = [[Angela Merkel]]
+| before_party = CDU/CSU
+| after_election =[[Angela Merkel]]
+| after_party = CDU/CSU
+
+}}
+
+{{politics of Germany}}
+
+A '''federal election''' was held on 22 September 2013 to elect the members of the 18th [[Bundestag]] of [[Germany]].<ref name="dates&deadlines">{{cite web|url=http://www.bundeswahlleiter.de/en/bundestagswahlen/BTW_BUND_13/terminkalender_btw13/ |title=Dates and deadlines for the Election to the 18th German Bundestag on 22 September 2013 |publisher=[[Federal Returning Officer|The Federal Returning Officer]] |accessdate=23 September 2013 |quote=Casting of votes as a rule from 8 a.m. to 6 p.m.}}</ref> The [[Christian Democratic Union of Germany|Christian Democratic Union]]/[[Christian Social Union of Bavaria|Christian Social Union]] ([[CDU/CSU]]) of Chancellor [[Angela Merkel]] won their best result since [[German federal election, 1990|1990]], with nearly 42% of the vote and nearly 50% of the seats. However, their coalition partner the [[Free Democratic Party (Germany)|Free Democrats]] (FDP) failed to get over 5% of the vote, thus denying them seats in the Bundestag for the first time in their history.
+
+Merkel's party reached a [[coalition agreement]] with the main opposition party the [[Social Democratic Party of Germany|Social Democrats]] (SPD) to form a [[Grand coalition (Germany)|grand coalition]]. The SPD leadership conducted a ratification vote by their broader membership before the agreement was made final.
+
+== Background ==
+In the last [[German federal election, 2009|federal election in 2009]], the [[Christian Democratic Union (Germany)|Christian Democratic Union]] (CDU); its Bavarian sister party, the [[Christian Social Union of Bavaria|Christian Social Union]] (CSU); and the [[Free Democratic Party (Germany)|Free Democratic Party]] (FDP) won the election with [[Angela Merkel]] as [[Chancellor of Germany|Chancellor]] and [[Guido Westerwelle]] as [[Vice-Chancellor of Germany|Vice-Chancellor]].<ref>{{en icon}} [http://www.lejournalinternational.fr/German-elections-Politikverdrossenheit-and-rightist-fears_a1255.html « German elections: Politikverdrossenheit and rightist fears »], Katrin Heilmann, Le Journal International, 22 September 2013</ref>
+
+== Date ==
+The date of the German federal election is governed by the [[Basic Law for the Federal Republic of Germany|Basic Law]] for the Federal Republic of Germany (Germany's de facto constitution) and the Federal Election Law (Bundeswahlgesetz).
+
+Article 39 of the Basic Law states that the Bundestag shall be elected between 46 and 48 months after the beginning of the legislative period.<ref name="Grundgesetz">[http://www.gesetze-im-internet.de/englisch_gg/englisch_gg.html Basic Law for the Federal Republic of Germany]. Official translation. Retrieved 13 August 2012.</ref> As the 17th Bundestag convened on 27 October 2009, the election was scheduled between 27 August and 27 October 2013.<ref>[http://dip21.bundestag.de/dip21/btp/17/17001.pdf Stenographic protocol of the first session of the Bundestag]. 27 October 2009. Retrieved 13 August 2012.</ref>  To avoid school holidays, a date in late September is usually chosen; this made 15 or 22 September 2013 the most likely dates.<ref>[http://www.wahlrecht.de/termine.htm Dates for elections in Germany]. Wahlrecht.de. Retrieved 13 August 2012.</ref> Indeed, the Federal President ordered 22 September 2013 to be the election day upon the recommendation of the federal government.<ref>[http://www.bundespraesident.de/SharedDocs/Pressemitteilungen/DE/2013/02/130208-Bundestagswahl.html?nn=1892032 Anordnung des Bundespräsidenten über die Bundestagswahl 2013]. Website of the German Federal President. 8 March 2013. Retrieved 9 March 2013.</ref>
+
+Polling stations were open from 8:00 to 18:00.<ref name="dates&deadlines" />
+
+== Electoral system ==
+According to Article 18 of the [[Basic Law for the Federal Republic of Germany]], everyone over the age of eighteen is entitled to vote. The Bundestag is elected using [[mixed-member proportional representation]]. Voters have two votes: with their first they elect a member of Bundestag for their constituency, with the second they vote for a party. Subject to a party obtaining a [[mixed member proportional#Surpassing thresholds|minimum threshold vote]], the overall seat assignment in the Bundestag is proportionally distributed according to the second (party) votes. A party who wins more districts in a given state than it is entitled to according to the number of party votes it received in that state keeps these [[overhang seat|"overhang" seats]].  A party must either win 5 percent of the vote or at least three constituency seats in order to qualify for MMP.
+
+In 2008, some modifications to the electoral system were required under an order of the [[Federal Constitutional Court of Germany|Federal Constitutional Court]]. The court had found a provision in the Federal Election Law by which it was possible for a party to experience a [[negative vote weight]], thus ''losing'' seats due to ''more'' votes, violated the constitutional guarantee of the electoral system being equal and direct.<ref>{{cite web|url=http://www.bverfg.de/entscheidungen/cs20080703_2bvc000107.html |title=Federal Constitutional Court decision on the Federal Election Law |publisher=Bverfg.de |date= |accessdate=20 September 2013}}</ref>
+
+The court allowed three years for these changes, so the [[German federal election, 2009|2009 federal election]] was not affected. The changes were due by 30 June 2011, but appropriate legislation was not completed by that deadline. A new electoral law was enacted in late 2011, but declared unconstitutional once again by the Federal Constitutional Court upon lawsuits from the opposition parties and a group of some 4,000 private citizens.<ref>[http://www.bverfg.de/entscheidungen/fs20120725_2bvf000311.html Decision of the Federal Constitutional Court]. 25 July 2012. Retrieved 13 August 2012.</ref>
+
+Finally, four of the five factions in the Bundestag agreed on an electoral reform whereby the number of seats in the Bundestag will be increased as much as necessary to ensure that any overhang seats are [[overhang seat#Dealing with overhang seats|compensated]] through apportioned [[leveling seat]]s, to ensure full proportionality according to the political party's share of party votes at the national level.<ref>[http://dipbt.bundestag.de/dip21/btd/17/118/1711819.pdf Bill amending the Federal Election Law]. 11 December 2012. Retrieved 25 December 2012.</ref> The Bundestag approved and enacted the new electoral reform in February 2013.<ref>{{cite web|author=ZEIT ONLINE GmbH, Hamburg, Germany |url=http://www.zeit.de/politik/deutschland/2013-02/bundestag-wahlrecht-beschluss |title=Bundestag: Deutschland hat ein neues Wahlrecht &#124; ZEIT ONLINE |publisher=Zeit.de |date=22 February 2013 |accessdate=20 September 2013}}</ref>
+
+== Chancellor-candidates ==
+Although the "chancellor-candidates" (''Kanzlerkandidaten'') play a very important role in election campaigns, their "office" is not regulated in any law. So it is up to each party to determine how (and if at all) to name a "chancellor-candidate".
+
+The SPD names a chancellor-candidate while the CDU and the CSU name a common one. The smaller Bundestag parties (FDP, Left and Greens) usually<ref>The FDP named their chairman, Guido Westerwelle, chancellor-candidate in [[German federal election, 2002|2002]].</ref> do not name a chancellor-candidate as it is very improbable for such a candidate to actually be elected chancellor. They instead name one or two persons (''Spitzenkandidaten'') who are to become the faces of that party's campaign. Fringe parties sometimes name a chancellor-candidate<ref>For example, the Bürgerrechtsbewegung Solidarität with its chancellor-candidate Helga Zepp-LaRouche in the 2009 election. See [http://www.helga-zepp-larouche.de/node/118 Die BüSo wird Recht behalten: Weltfinanzsystem kurz vor der Desintegration!]. Retrieved 13 August 2012.</ref> although there is nearly no chance for them to win seats in the Bundestag (especially due to the required minimum quota of votes required to be granted any seats) much less have their candidate become chancellor.
+
+While a sitting chancellor is usually named chancellor-candidate for his or her own party, the main opposition party's process to determine their chancellor-candidate differs. Most times, such a person is determined in an inner party circle and then anointed in a party convention.
+
+As the CDU/CSU is the main government party, CDU chairwoman (and incumbent chancellor) [[Angela Merkel]] was not challenged as chancellor-candidate. In the SPD, the situation was a bit less clear: There were four candidates in the discussion. While [[Sigmar Gabriel]], the party chairman, [[Frank-Walter Steinmeier]], the parliamentary caucus leader, and [[Peer Steinbrück]], former minister-president of Nordrhein-Westfalen and former federal minister of Finance, were quasi-official contenders for the candidacy, incumbent Nordrhein-Westfalen minister-president [[Hannelore Kraft]] denied interest in the candidacy.<ref>[http://www.augsburger-allgemeine.de/politik/Steinbrueck-Steinmeier-oder-doch-Hannelore-Kraft-id20425166.html Steinbrück, Steinmeier - oder doch Hannelore Kraft?]. Augsburger Allgemeine. 3 June 2012. Retrieved 13 August 2012.</ref>
+
+Gabriel, Steinmeier and Steinbrück all had a bad electoral record as they all had led their party into painful defeats in state or general elections (Gabriel and Steinbrück lost their inherited minister-president offices in 2003 and 2005, Steinmeier failed as a chancellor-candidate in 2009). On 28 September 2012, the party announced that Steinbrück would be the SPD's chancellor-candidate.<ref>{{cite web|title=Steinbrück wird Kanzlerkandidat|trans_title=Steinbrück to be chancellor-candidate|language=German|date=28 September 2012|accessdate=28 September 2012|publisher=[[ARD (broadcaster)|ARD]]|url=http://tagesschau.de/inland/spd930.html}}</ref>
+
+== Campaign ==
+After taking heat domestically for bailing out other European countries, Finance Minister [[Wolfgang Schäuble]] took the step of mentioning that Greece would need a third bailout. This was in stark contrast to his colleagues who had refrained from making such measures in light of the election, it particularly followed Chancellor Angela Merkel's dismissal of a potential future bailout. In reaction to the statement and the dithering, the Social Democrats' Peer Steinbrueck said that it was "time that Ms. Merkel tells people the truth;" while the Greens' [[Jürgen Trittin]] also criticized Merkel.<ref>{{cite web|author=Financial Crisis |url=http://www.telegraph.co.uk/finance/financialcrisis/10255527/Greece-needs-third-bail-out-admits-German-finance-minister.html |title=Greece needs third bail-out, admits German finance minister |publisher=Telegraph |date= |accessdate=20 September 2013}}</ref>
+
+Merkel also became the first chancellor to visit [[Dachau concentration camp]] after an invitation by former inmate [[Max Mannheimer]], who leads a survivor group. She said: "What happened at the concentration camps was and continues to be incomprehensible," while also warning of a rising tide of anti-Semitism and racism as a threat to democracy in Europe.
+Her visit was welcomed by residents of the town due to its historic nature but was also suggested as a vote ploy ahead of the election.<ref>{{cite web|url=http://www.aljazeera.com/news/europe/2013/08/20138212732885348.html |title=German chancellor visits former Nazi camp - Europe |publisher=Al Jazeera English |date= |accessdate=20 September 2013}}</ref> She also campaigned on Germany's unemployment record that fell to a two-decade low during her premiership, progress towards a balanced budget and the eurozone's advantages for Germany’s exports. However, there were questions asked about her legacy and a potential heir to the party leadership.<ref>{{cite web|last=Czuczka |first=Tony |url=http://www.bloomberg.com/news/2013-09-19/merkel-seeks-mandate-to-top-thatcher-as-third-term-risks-loom.html |title=Merkel Seeks Mandate to Top Thatcher as Third-Term Risks Loom |publisher=Bloomberg |date= |accessdate=20 September 2013}}</ref> Campaigning in the "hot phase"<ref>{{cite news|url=http://www.aljazeera.com/indepth/inpictures/2013/09/20139211330063866.html |title=Germany's election campaign draws to a close |first=Sam |last=Bollier |work=[[Al Jazeera]] |date=21 September 2013 |accessdate=22 September 2013}}</ref> ended on 21 September as Merkel appealed to voters to support her against [[Euroscepticism|eurosceptics]].<ref>{{cite web|url=http://www.aljazeera.com/news/europe/2013/09/2013921141238756448.html |title=Germany rivals conclude election campaigns |work=[[Al Jazeera]] |date=21 September 2013 |accessdate=22 September 2013}}</ref>
+
+=== Televised debates ===
+A 90-minute televised debate between the two leading contenders was held on 1 September.<ref>{{cite web|url=http://www.aljazeera.com/news/europe/2013/09/20139182555766505.html |title=Merkel to face rival in German TV debate - Europe |publisher=Al Jazeera English |date= |accessdate=20 September 2013}}</ref> The smaller-party top-ranking candidates [[Rainer Brüderle]] (FDP), [[Jürgen Trittin]] (Bündnis 90/Grüne) and [[Gregor Gysi]] (Die Linke) held a separate debate on 2 September.
+
+== Opinion polling ==
+{{Main|Opinion polling for the German federal election, 2013}}
+
+In Germany, there are regular opinion polls during the whole of the legislative period. Germany's major polling agencies are [[Allensbach Institute|Allensbach]], Emnid, [[Forsa Institute|Forsa]], Forschungsgruppe Wahlen, GMS, Infratest dimap and INSA/[[YouGov]]. August 2013 opinion polls suggested that the CDU/CSU and FDP (black–yellow coalition) would be just short of or just above an absolute majority, rather than the SPD and Greens (red–green coalition), partners in the 1998–2005 [[Gerhard Schröder|Schröder]] government.<ref>{{cite web|url=http://pollytix.eu/pollytix-german-election-trend |title=Average of polling chart by pollytix |publisher=Pollytix.eu |date= |accessdate=20 September 2013}}</ref>
+
+== Results ==
+[[File:Direktmandate nach Partei und Vorsprung – Bundestagswahl 2013, endgueltiges Ergebnis.svg|thumb|right|Parliamentary districts won by each party <br/> Dark blue: CSU, Light Blue: CDU, Red: SPD, Purple: The Left, Green: Alliance 90 / The Greens]]
+The [[Christian Democratic Union of Germany|Christian Democratic Union]] (CDU) and the [[Christian Social Union of Bavaria]] (CSU) scored 42 percent of the vote, their best result since tallying 44% in the [[German federal election, 1990|1990 election]].  Since some 15 percent of the vote went to parties that fell short of the 5% threshold, the CDU/CSU came up just five seats short of a majority. The Free Democratic Party (FDP), junior partner in the outgoing [[coalition government]], failed to pass the 5% threshold and therefore went without representation for the first time in the party's history. A new eurosceptic party, the [[Alternative for Germany]], nearly won seats but like the FDP was shut out by narrowly missing the 5% threshold.<ref>{{cite web|url=http://newsok.com/merkel-triumphs-in-german-vote-but-allies-crushed/article/feed/594439 |title=Merkel triumphs in German vote but allies crushed |publisher=News OK |date=18 September 2013 |accessdate=23 September 2013}}</ref><ref>{{cite web|last=Wittrock |first=Philipp |url=http://www.spiegel.de/international/germany/conservatives-react-to-success-of-merkel-in-german-election-a-923824.html |title=Conservatives React to Success of Merkel in German Election |publisher=SPIEGEL ONLINE|date= |accessdate=23 September 2013}}</ref> This will also mean that only four parties will form the Bundestag for the first time since the [[West German federal election, 1987|1987 election]] (CDU/CSU operate as one Bundestag group).
+
+{{German federal election, 2013}}
+
+{{bar box
+| title=Popular Vote
+| titlebar=#ddd
+| width=600px
+| barwidth=410px
+| bars=
+{{bar percent|'''CDU/CSU'''|{{Christian Democratic Union (Germany)/meta/color}}|41.54}}
+{{bar percent|SPD|{{Social Democratic Party of Germany/meta/color}}|25.73}}
+{{bar percent|DIE LINKE|{{The Left (Germany)/meta/color}}|8.59}}
+{{bar percent|B'90/GRÜNE|{{Alliance '90/The Greens/meta/color}}|8.45}}
+{{bar percent|FDP|{{Free Democratic Party (Germany)/meta/color}}|4.76}}
+{{bar percent|AfD|{{Alternative for Germany/meta/color}}|4.70}}
+{{bar percent|PIRATEN|{{Pirate Party Germany/meta/color}}|2.19}}
+{{bar percent|Other|#777777|4.02}}
+}}
+
+{{bar box
+| title=Bundestag seats
+| titlebar=#ddd
+| width=600px
+| barwidth=410px
+| bars=
+{{bar percent|'''CDU/CSU'''|{{Christian Democratic Union (Germany)/meta/color}}|49.29}}
+{{bar percent|SPD|{{Social Democratic Party of Germany/meta/color}}|30.59}}
+{{bar percent|DIE LINKE|{{The Left (Germany)/meta/color}}|10.14}}
+{{bar percent|B'90/GRÜNE|{{Alliance '90/The Greens/meta/color}}|9.98}}
+}}
+
+=== Results by state ===
+Second Vote ("Zweitstimme", or votes for party list)
+{| class="wikitable sortable" style="text-align:right"
+|-
+! [[States of Germany|State]]<ref>[http://www.bundeswahlleiter.de/en/bundestagswahlen/BTW_BUND_13/ergebnisse/landesergebnisse/ Land (sic) results]</ref> results in %|| [[Christlich Demokratische Union Deutschlands|CDU]]/[[Christlich-Soziale Union in Bayern|CSU]]|| [[Sozialdemokratische Partei Deutschlands|SPD]]|| [[Die Linke|LINKE]]|| [[Bündnis 90/Die Grünen|GRÜNE]]|| [[Freie Demokratische Partei|FDP]]|| [[Alternative für Deutschland|AfD]] || all others
+|-
+| align="left"| {{flag|Baden-Württemberg}} || '''45.7''' || 20.6 || 4.8 || 11.0 || 6.2 || 5.2 || 6.5
+|-
+| align="left"| {{flag|Bavaria}} || '''49.3''' || 20.0 || 3.8 || 8.4 || 5.1 || 4.2 || 9.2
+|-
+| align="left"| {{flag|Berlin}} || '''28.5''' || 24.6 || 18.5 || 12.3 || 3.6 || 4.9 || 7.6
+|-
+| align="left"| {{flag|Brandenburg}} || '''34.8''' || 23.1 || 22.4 || 4.7 || 2.5 || 6.0 || 6.5
+|-
+| align="left"| {{flag|Bremen}} || 29.3 || '''35.7''' || 10.1 || 12.1 || 3.4 || 3.7 || 5.7
+|-
+| align="left"| {{flag|Hamburg}} || 32.2 || '''32.4''' || 8.8 || 12.6 || 4.8 || 4.1 || 5.1
+|-
+| align="left"| {{flag|Hesse}} || '''39.2''' || 28.8 || 6.0 || 9.9 || 5.6 || 5.6 || 4.9
+|-
+| align="left"| {{flag|Mecklenburg-Vorpommern}} || '''42.5''' || 17.8 || 21.5 || 4.3 || 2.2 || 5.6 || 6.1
+|-
+| align="left"| {{flag|Lower Saxony}} || '''41.1''' || 33.1 || 5.0 || 8.8 || 4.2 || 3.7 || 4.1
+|-
+| align="left"| {{flag|North Rhine-Westphalia}} || '''39.8''' || 31.9 || 6.1 || 8.0 || 5.2 || 3.9 || 5.1
+|-
+| align="left"| {{flag|Rhineland-Palatinate}} || '''43.3''' || 27.5 || 5.4 || 7.6 || 5.5 || 4.8 || 5.9
+|-
+| align="left"| {{flag|Saarland}} || '''37.8''' || 31.0 || 10.0 || 5.7 || 3.8 || 5.2 || 6.5
+|-
+| align="left"| {{flag|Saxony}} || '''42.6''' || 14.6 || 20.0 || 4.9 || 3.1 || 6.8 || 8.0
+|-
+| align="left"| {{flag|Saxony-Anhalt}} || '''41.2''' || 18.2 || 23.9 || 4.0 || 2.6 || 4.2 || 5.9
+|-
+| align="left"| {{flag|Schleswig-Holstein}} || '''39.2''' || 31.6 || 5.2 || 9.4 || 5.6 || 4.6 || 4.4
+|-
+| align="left"| {{flag|Thuringia}} || '''38.8'''|| 16.1 || 23.4 || 4.9 || 2.6 || 6.2 || 8.0
+|}
+
+=== Reactions ===
+Merkel said: "It was a strong vote to take responsibility in Germany, but also in Europe and the world."<ref>{{cite news|url=http://news.yahoo.com/more-merkel--the-upshot-from-the-german-election-142122721.html |title=More Merkel: The upshot of the German election |work=[[Yahoo! News]] |date=23 September 2013 |accessdate=1 October 2013 |first=Marc |last=Young}}</ref> Peer  Steinbrück announced his withdrawal from top politics and intends to focus on his ordinary tasks as a member of parliament.<ref>{{cite news|url=http://www.spiegel.de/international/germany/press-review-and-news-roundup-on-german-coalition-talks-a-925327.html |title= World From Berlin: Coalition Talks Could Last Into January |work=[[Spiegel Online]] |date=30 September 2013 |first=David |last=Crossland |accessdate=1 October 2013}}</ref>
+
+== Government formation ==
+Many SPD insiders do not want to work with The Left. One day after the election, Merkel announced that she had already spoken with the SPD, but would not rule out other possibilities.<ref>{{cite news|url=http://www.aljazeera.com/indepth/features/2013/09/201392495038862444.html |title=Germany's Merkel looks for 'grand coalition' |work=[[Al Jazeera]] |first=Sam |last=Bollier |authorlink=Sam Bollier |date=24 September 2013 |accessdate=15 December 2013}}</ref> An opinion poll conducted shortly after the election showed that 65% of SPD members were opposed to entering a Merkel-led grand coalition,<ref>{{cite news|url=http://www.reuters.com/article/2013/09/27/us-germany-spd-poll-idUSBRE98Q0QY20130927 |title=Majority of SPD members oppose coalition with Merkel: poll |work=[[Reuters]] |date=27 September 2013 |accessdate=1 October 2013 |first=Michelle |last=Martin |first2=Gareth |last2=Jones}}</ref> however the SPD executive voted to enter coalition talks<ref>{{cite news |url=http://www.globaltimes.cn/content/814807.shtml#.UkclVX-p0Y4 |title=German SPD agrees to meet with Merkel |work=[[Global Times]] |date=29 September 2013 |accessdate=1 October 2013 |agency=[[Agence France-Press]]}}</ref> with the proviso that they would seek a vote from their membership before making a final agreement on entering a coalition.<ref>{{cite news |url=http://main.omanobserver.om/?p=17145 |title=Merkel ally attacks left plan to poll members over tie-up |work=[[Oman Daily Observer]] |date=28 September 2013 |accessdate=1 October 2013}}</ref>
+
+The Greens were "open" to coalition talks with the CDU/CSU,<ref>{{cite news |url=http://www.dw.de/greens-open-to-coalition-talks-with-merkels-cdu/a-17121330 |title=Greens open to coalition talks with Merkel's CDU |work=[[Deutsche Welle]] |date=28 September 2013 |accessdate=1 October 2013 |agency=[[Agence France-Press|AFP]], [[Deutsche Presseagentur|dpa]], [[Reuters]]}}</ref> but CSU leaders said they opposed a coalition with the Greens.<ref>{{cite news|url=http://www.thestar.com.my/News/World/2013/09/24/Merkel-camp-eyes-tieup-with-Social-Democrats-shuns-Greens.aspx |title=Merkel camp eyes tie-up with Social Democrats, shuns Greens |work=[[The Star (Malaysia)|The Star]] |date=24 September 2013 |accessdate=1 October 2013 |first=Annika |last=Breidthardt}}</ref> The Greens announced they would not consider going into coalition with the Left.<ref name="FT1">{{cite news|url=http://www.ft.com/intl/cms/s/0/ab5476ac-2406-11e3-b506-00144feab7de.html#axzz2fjUu6AUF |title=Merkel begins search for coalition partner after election win |work=[[Financial Times]] |date=23 September 2013 |accessdate=15 December 2013}} {{Subscription required}}</ref>
+
+Formal talks began in the first week of October when Merkel met SPD leaders on 4 October. She said: "Europe is watching us, the world is watching us. We have the common responsibility to build a stable government." She also planned to hold talks with the Greens the following week.<ref>{{cite news|url=http://www.aljazeera.com/news/europe/2013/10/merkel-set-for-tricky-coalition-talks-201310461129632480.html |title=Merkel, rivals to continue coalition talks |work=[[Al Jazeera]] |agency=[[Reuters]] |date=4 October 2013 |accessdate=15 December 2013}}</ref> After five weeks of negotiations that culminated in an all-night session 27–28 November, the CDU/CSU reached agreement with the SPD to form a new coalition government. Issues resolved in the talks included the planned introduction of a minimum hourly wage of €8.50 in 2015 and no new taxes. The deal depended on approval by the SPD rank and file, with a poll set for 6 December.<ref>{{cite news|url=http://www.spiegel.de/international/germany/merkel-reaches-agreement-to-form-new-german-government-a-935934.html |title= Coalition Deal: Merkel Reaches Agreement on Next Government |work=[[Spiegel Online]] |date=27 November 2013 |first=Daryl |last=Lindsey |accessdate=15 December 2013}}</ref><ref>{{cite news|url=http://www.bbc.co.uk/news/world-europe-25116115 |title=Deal reached on new government for Germany under Merkel |date=27 November 2013 |work=[[BBC News]] |accessdate=15 December 2013}}</ref><ref>{{cite news|url=http://www.nytimes.com/2013/11/28/world/europe/merkel-and-rivals-strike-deal-on-new-german-government.html?hp&_r=0 |title=German Rivals Reach Pact for Coalition Government |work=[[The New York Times]] |date=27 November 2013 |first=Alison |last=Smale |first2=Melissa |last2=Eddy |accessdate=15 December 2013}}</ref> On 14 December, 76% of the SPD's members voted for the coalition to go ahead. The [[Third Merkel cabinet|new government]] under Chancellor Angela Merkel was sworn in on 17 December.<ref>{{cite news|url=http://www.aljazeera.com/news/europe/2013/12/german-party-clears-way-third-merkel-term-20131214142726226800.html |title=German party clears way for third Merkel term  |work=[[Al Jazeera]] |date=15 December 2013 |accessdate=15 December 2013}}</ref>
+
+== See also ==
+*[[List of German Bundestag constituencies]]
+*''[[Merkel-Raute]]'': Described by ''[[The Guardian]]'' as "probably one of the most recognisable hand gestures in the world", [[Angela Merkel]]'s trademark has become a [[political symbolism|political symbol]] used by both her supporters and opponents.<ref name=guardian>{{cite news|title='Merkel diamond' takes centre stage in German election campaign|url=http://www.theguardian.com/world/german-elections-blog-2013/2013/sep/03/angela-merkel-diamond-german-election-campaign|accessdate=8 September 2013|newspaper=[[The Guardian]]|date=3 September 2013}}</ref>
+
+== References ==
+{{Reflist|30em}}
+
+== External links ==
+{{Commons category|2013 Germany Bundestagswahl}}
+*[http://www.bundeswahlleiter.de/en/index.html Official voting results from the Federal Returning Officer]
+
+{{German federal elections}}
+{{2013 elections in Germany}}
+
+{{DEFAULTSORT:German Federal Election, 2013}}
+[[Category:2013 elections in Germany]]
+[[Category:Federal elections in Germany|2013]]
+[[Category:Angela Merkel]]

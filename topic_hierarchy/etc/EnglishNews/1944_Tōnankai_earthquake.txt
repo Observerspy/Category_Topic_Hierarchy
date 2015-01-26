@@ -1,0 +1,58 @@
+{{Earthquake
+|title= 1944 Tōnankai earthquake
+|date= 1944-12-07 
+|origintime         = 1335 Time in Japan|JST
+|map2 = {{Location map | Japan
+ | label=
+ | lat=34.0
+ | long=137.1
+ | mark=Bullseye1.png
+ | marksize=50
+ | position=top
+ | width= 250
+ | float=right
+ | caption=
+ | relief=yes}}
+|magnitude = 8.1 Moment magnitude scale|M<sub>w</sub>
+|depth={{convert|30|km|mi|0|abbr=on}}
+|location={{coord|34.0|137.1|display=inline,title}}
+|countries affected = Empire of Japan, Tōkai region, Wakayama Prefecture|Wakayama
+|tsunami = yes
+|casualties = 1,223
+}}
+The '''1944 Tōnankai earthquake''' occurred at 13:35 local time (04:35 Coordinated universal time|UTC) on 7 December. It had an estimated magnitude of 8.1 on the moment magnitude scale and a maximum felt intensity of greater than 5 Japan Meteorological Agency seismic intensity scale|shindo (about VIII (''destructive'') on the Mercalli intensity scale). It triggered a large tsunami that caused serious damage along the coast of Wakayama Prefecture and the Tōkai region. Together the earthquake and tsunami caused 1,223 casualties.
+
+==Damage==
+There was severe damage from the earthquake on the eastern side of the Kii Peninsula particularly in the cities of Shingū, Wakayama|Shingū and Tsu, Mie|Tsu. A total of 26,146 houses were destroyed by the shaking, including 11 that burned down and a further 3,059 houses were destroyed by the tsunami. Nearly 47,000 houses were seriously damaged by the combined effects of the earthquake and tsunami. There were 1,223 people killed and a further 2,135 were seriously injured.
+
+==Tectonic setting==
+
+The southern coast of Honshū runs parallel to the Nankai Trough, which marks the subduction of the Philippine Sea Plate beneath the Eurasian Plate. Movement on this convergent plate boundary leads to many earthquakes, some of them of Megathrust earthquake|megathrust type. The Nankai megathrust has five distinct segments (A-E) that can rupture independently, the segments have ruptured either singly or together repeatedly over the last 1300 years. Nankai megathrust earthquakes|Megathrust earthquakes on this structure tend to occur in pairs, with a relatively short time gap between them. The 1944 event, which ruptured the C & D segments was followed two years late by the 1946 Nankaidō earthquake, rupturing segments A & B. In addition to these two events, there were two similar earthquakes in 1854. In each case the northeastern segment ruptured before the southwestern segment.
+
+==Characteristics==
+File:RuptureAreasNankaiMegathrust.png|Rupture areas on the megathrust beneath the Nankai Trough|thumb|260px
+
+===Earthquake===
+Felt intensities of greater than Shindo 5 were recorded along the southern coast of Honshū, with Shindo 3&ndash;4 in Tokyo. The observed teleseismic response and tsunami records have been matched using a rupture area of 220 x 140&nbsp;km and a maximum displacement of 2.3 m. It has been suggested that splay faults, linking back into the plate interface, have had an important role in generating large tsunamigenic earthquakes along the Nankai trough. The 1944 event could have occurred on such a splay fault.
+
+===Tsunami===
+The maximum recorded wave height was 10 meters on the Kumano, Mie|Kumano coast. Run-ups in excess of 5 meters were also recorded at several locations along the coasts of Mie Prefecture|Mie and Wakayama Prefectures. The tsunami was observed along the Pacific coast of Japan from Izu Peninsula to Kyushu, and recorded by tide gauges from Alaska to Hawaii.
+
+==Future seismic hazard==
+The segment of the megathrust to the east of the rupture area for the 1944 earthquake has not ruptured since 1854 and the likelihood of a 'Tokai earthquake' is considered to be high. There is no evidence that this segment has ruptured on its own in the past, although this cannot be ruled out. Any rupture of segment E may also include segments C & D, possibly causing a repeat of the damaging 1854 Ansei-Tokai earthquake.
+
+==References==
+{{Reflist}}
+
+{{NankaiTroughMegathrust}}
+{{Earthquakes in Japan}}
+
+{{DEFAULTSORT:Tonankai earthquake, 1944}}
+Category:Megathrust earthquakes in Japan|1944 Tōnankai
+Category:1944 earthquakes
+Category:Tsunamis in Japan|1944 Tōnankai
+Category:1944 in Japan
+Category:20th-century tsunamis
+Category:Empire of Japan|1944
+Category:History of Mie Prefecture
+Category:History of Wakayama Prefecture

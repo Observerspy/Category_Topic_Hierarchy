@@ -1,0 +1,71 @@
+{{Earthquake
+|title= 1692 Jamaica earthquake
+|date= {{Start date|1692|06|07|11|43||}}
+|map2 = {{Location map | Jamaica
+ | label=
+ | lat=18.00
+ | long=-76.5
+ | mark=Bullseye1.png
+ | marksize=40
+ | position=top
+ | width= 250
+ | float=right
+ | caption=
+ | relief=yes}}
+|magnitude = 7.5 Moment magnitude scale|M<sub>w</sub>
+|depth= 10 km
+|location={{coord|18.00|-76.5|display=inline,title}}
+|countries affected = Jamaica
+|tsunami = Yes
+|casualties = +/- 2,000 
+}}
+The '''1692 Jamaica earthquake''' struck Port Royal, Jamaica on June 7. A stopped pocket watch found in the harbour in 1969
+
+==Tectonic setting==
+File:Gon?ve microplate.png|thumb|280px|The Gon?ve microplate, showing the main fault zones that bound it
+The island of Jamaica lies on the boundary between the Caribbean Plate and the Gon?ve Microplate. The Gon?ve microplate is a {{convert|1100|km|abbr=on}} long strip of mainly oceanic crust formed by the Cayman spreading ridge within a Extensional tectonics#Releasing bends along strike-slip faults|strike-slip pull apart basin on the northern Transform fault|transform margin of the Caribbean Plate with the North American Plate. The 1692 event is thought to have occurred on one of these strike-slip faults.
+
+==Damage==
+File:Port Royal.JPG|thumb|240px|Old map of Port Royal
+File:PortRoyalEarthquakeMap.jpg|thumb|240px|Map of Port Royal showing shorelines before and after the earthquake
+Two-thirds of the town, amounting to {{convert|33|acre}}, sank into the sea immediately after the main shock.
+
+Before the earthquake, the town consisted of 6,500 inhabitants living in about 2,000 buildings, many constructed of brick and with more than one storey, and all built on loose sand. During the shaking, the sand Soil liquefaction|liquefied and the buildings, along with their occupants, appeared to flow into the sea.
+During the mainshock the sand was said to have formed waves. Fissures repeatedly opened and closed, crushing many people. After the shaking stopped, the sand again solidified, trapping many victims.
+
+At Liguanea (present Kingston, Jamaica|Kingston), all the houses were destroyed and water was ejected from {{convert|40|ft|m|adj=mid|-deep}} wells. Almost all the houses at St. Jago (Spanish Town) were also destroyed.
+
+There were many landslides throughout the island.
+
+A pocket watch, made in the Netherlands by the France|French maker Blondel, was recovered during underwater archaeology|archaeological investigations led by Edwin Albert Link|Edwin Link in 1969.
+
+==Aftermath==
+Even before the destruction was complete, some of the survivors began looting, breaking into homes and warehouses. The dead were also robbed and stripped, and, in some cases, had fingers cut off to remove the rings that they wore.
+
+In the immediate aftermath of the earthquake, it was common to ascribe the destruction to divine retribution on the people of Port Royal for their sinful ways. Members of the Jamaica Council declared: "We are become by this an instance of God Almighty's severe judgement."  This view of the disaster was not confined to Jamaica; in Boston, the Reverend Cotton Mather said in a letter to his uncle: "Behold, an accident speaking to all our English America."
+
+After the earthquake, the town was partially rebuilt. But the colonial government was relocated to Spanish Town, which had been the capital under Spain|Spanish rule. Port Royal was devastated by a fire in 1703 and a hurricane in 1722. Most of the sea trade moved to Kingston. By the late 18th century, Port Royal was largely abandoned.
+
+==Characteristics==
+
+===Earthquake===
+There were three separate shocks, each with increasing intensity, culminating in the main shock. The estimated size of the event was 7.5 on the moment magnitude scale.
+
+Despite reports of the town flowing into the sea, the main result of the earthquake was subsidence in the area of liquefaction. The probable triggering of the Judgement Cliff landslide during the earthquake occurred along the line of the Enriquillo-Plantain Garden fault system|Plantain Garden fault. Movement on this structure has been suggested as the cause of the earthquake.
+
+===Landslides===
+The Judgement Hill landslide is a complex rock-slide slump with a volume of about 80 × 10<sup>6</sup> m<sup>3</sup>. The slip surface is found within zones of clay and shale with gypsum at the base of a limestone unit. This landslide occurred shortly after the earthquake but it remains possible that heavy rain over the few days after the event was the final trigger for the slip.
+
+===Tsunami===
+The sea was observed to retreat by about {{convert|300|yd|m abbr=on}} at Liganeau (probably near Kingston) while at Yallahs it withdrew {{convert|1|mi|km|abbr=on}}. It returned as a {{convert|6|ft|m|abbr=on}} high wave that swept over the land. One possible cause of the tsunami is thought to be the slump and grainflow into the harbour from beneath the town itself, although the waves in the harbour may be better described as seiches and larger waves reported elsewhere, such as at Saint Ann Parish|Saint Ann's Bay, are explained as the result of an entirely separate submarine landslide, also triggered by the earthquake.
+
+==Future seismic hazard==
+Estimates of current deformation of Jamaica suggest that sufficient strain has accumulated to generate a M=7.0&ndash;7.3 earthquake, similar in size to the 1692 event. This may mean that a repeat of this event is imminent, although this estimate relies on many assumptions, such as that none of the motion on the Plantain Garden fault is accommodated aseismically.
+
+==References==
+{{Reflist|colwidth=30em}}
+
+{{DEFAULTSORT:1692 Jamaica Earthquake}}
+Category:Earthquakes in Jamaica|1692 Jamaica earthquake
+Category:1692 in the Caribbean|Jamaica Earthquake, 1692
+Category:1692 earthquakes|Jamaica Earthquake, 1692

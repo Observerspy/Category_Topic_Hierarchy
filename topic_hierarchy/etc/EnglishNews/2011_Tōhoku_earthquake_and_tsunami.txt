@@ -1,0 +1,497 @@
+{{Redirect|2011 Miyagi earthquake|the aftershock that occurred on 7 April|April 2011 Miyagi earthquake}}
+{{redirects here|Japan tsunami|other earthquakes and tsunamis in Japan|List of earthquakes in Japan}}
+{{Use dmy dates|date=September 2011}}
+
+<!-- Please try to follow the 2004 Indian Ocean earthquake and tsunami article as a blueprint for how to shape this disaster article.  -->{{pp-move-indef}}
+{{Infobox earthquake
+| title = 2011 Tōhoku Earthquake and Tsunami
+| image = SH-60B helicopter flies over Sendai.jpg
+| image alt = An aerial view of tsunami damage in Tōhoku
+| imagecaption = An aerial view of damage in the Sendai region with black smoke coming from the Nippon Oil Sendai oil refinery
+| map = Tsunami map Tohoku2011.svg
+| map alt = 
+| caption = Peak tsunami wave height summits, color-coded with red representing most severe
+| image name =
+| map2 =
+| mapsize =
+| date = 11 March 2011
+| origintime = 14:46:23 Japan Standard Time|JST (UTC+09:00)
+| duration = 6&nbsp;minutes
+| magnitude = 9.0 Moment magnitude scale|(M<sub>w</sub>)
+| depth = {{Convert|30|km|mi|0|abbr=on}}
+| location = {{Coord|38.322|N|142.369|E|type:event_scale:50000000|display=inline,title}}
+| type = Megathrust earthquake
+| countries affected = Japan (primary)<br>Pacific Rim (tsunami, secondary)
+| damage = Tsunami wave, flooding, landslides, fires, building and infrastructure damage, nuclear incidents including radiation releases
+| intensity = Mercalli intensity scale|IX - Violent
+| PGA = 2.99 ''peak ground acceleration|g''
+| tsunami =Up to {{Convert|40.5|m|ft|abbr=on}}<br>in Miyako, Iwate|Miyako, Iwate Prefecture|Iwate, Tōhoku region|Tōhoku
+| landslide =no
+| foreshocks = 7
+| aftershocks = 10,688 (as of 7 April 2014)<!-- It means "Different number of maximum seismic intensity of the aftershock earthquake table one or more seismic intensity", the total(総计) listed at the end includes the main shock. -->
+| casualties =  {{2011 Tohoku earthquake and tsunami casualties dead}}<br> {{2011 Tohoku earthquake and tsunami casualties injured}} <br>{{2011 Tohoku earthquake and tsunami casualties missing}}<!--casualties section in body-->}}
+
+The {{Nihongo|'''2011 earthquake off the Pacific coast of Tōhoku'''|东北地方太平洋冲地震|Tōhoku-chihō Taiheiyō Oki Jishin}} was a moment magnitude scale|magnitude 9.0 (M<sub>w</sub>) submarine earthquake|undersea megathrust earthquake off the coast of Japan that occurred at 14:46 Japan Standard Time|JST (05:46 UTC) on Friday 11 March 2011, and also known as the '''2011 Tohoku earthquake''',
+
+<!-- Do not edit casualty numbers here. To update casualty numbers, visit:
+http://en.wikipedia.org/wiki/Template:2011_Tōhoku_earthquake_and_tsunami_casualties_dead
+http://en.wikipedia.org/wiki/Template:2011_Tōhoku_earthquake_and_tsunami_casualties_injured
+http://en.wikipedia.org/wiki/Template:2011_Tōhoku_earthquake_and_tsunami_casualties_missing
+-->
+On 10 February 2014, a Japanese National Police Agency (Japan)|National Police Agency report confirmed {{2011 Tōhoku earthquake and tsunami casualties dead}} {{2011 Tōhoku earthquake and tsunami casualties injured}} and {{2011 Tōhoku earthquake and tsunami casualties missing}} across twenty Prefectures of Japan|prefectures, as well as 127,290 buildings totally collapsed, with a further 272,788 buildings 'half collapsed', and another 747,989 buildings partially damaged. Japanese Prime Minister Naoto Kan said, "In the 65 years after the end of World War II, this is the toughest and the most difficult crisis for Japan." Around 4.4&nbsp;million households in northeastern Japan were left without electricity and 1.5&nbsp;million without water.
+
+The tsunami caused 2011 Japanese nuclear accidents|nuclear accidents, primarily the International Nuclear Event Scale|level 7 nuclear meltdown|meltdowns at three reactors in the Fukushima Daiichi nuclear disaster|Fukushima Daiichi Nuclear Power Plant complex, and the associated evacuation zones affecting hundreds of thousands of residents. Many electrical generators were taken down, and at least three nuclear reactors Fukushima Daiichi nuclear disaster|suffered explosions due to hydrogen gas that had built up within their outer containment buildings after cooling system failure. Residents within a {{Convert|20|km|mi|0|abbr=on}} radius of the Fukushima Daiichi Nuclear Power Plant and a {{Convert|10|km|mi|1|abbr=on}} radius of the Fukushima Daini Nuclear Power Plant were evacuated. In addition, the U.S. recommended that its citizens evacuate up to {{Convert|80|km|mi|0|abbr=on}} of the plant.
+
+Early estimates placed insured losses from the earthquake alone at US$14.5 to $34.6&nbsp;billion. The Bank of Japan offered Japanese yen|?15&nbsp;trillion (US$183&nbsp;billion) to the banking system on 14 March in an effort to normalize market conditions.
+The World Bank's estimated economic cost was US$235&nbsp;billion, making it the costliest natural disaster in world history.
+
+==Earthquake==
+
+{{Location map+|Japan|width=225|float=right|border=yes|caption=Map showing the epicenter of the earthquake|places=
+{{Location map~|Japan|lat=38.322|long=142.369|mark=Bullseye1.png|marksize=40|position=top}}
+{{Location map~|Japan|lat=35.7|long=139.715|label=Tokyo|position=left|mark=Green pog.svg}}
+{{Location map~|Japan|lat=38.26|long=140.87|label=Sendai|position=left|mark=Green pog.svg}}}}
+File:C0001xgp wcmt smt.gif|thumb|USGS centroid moment tensor solution of the main tremor showing a visual representation of focal mechanism
+The 9.0 Moment magnitude scale|magnitude (Moment magnitude scale|M<sub>W</sub>) submarine earthquake|undersea megathrust earthquake occurred on 11 March 2011 at 14:46 Japan Standard Time|JST (05:46 UTC) in the north-western Pacific Ocean at a relatively shallow depth of 32&nbsp;km (19.9&nbsp;mi), The earthquake was initially reported as 7.9&nbsp;M<sub>W</sub> by the USGS before it was quickly upgraded to 8.8 &nbsp;M<sub>W</sub>, then to 8.9 &nbsp;M<sub>W</sub>,
+
+The main earthquake was preceded by a number of large foreshocks, with hundreds of aftershocks reported. One of the first major foreshocks was a 7.2&nbsp;M<sub>W</sub> event on 9 March, approximately 40&nbsp;km (25&nbsp;mi) from the epicenter of the 11 March earthquake, with another three on the same day in excess of 6.0&nbsp;M<sub>W</sub>. Following the main earthquake on 11 March, a 7.0&nbsp;M<sub>W</sub> aftershock was reported at 15:06 JST (6:06 UTC), succeeded by a 7.4 &nbsp;M<sub>W</sub> at 15:15 JST (6:16 UTC) and a 7.2 &nbsp;M<sub>W</sub> at 15:26 JST (6:26 UTC).
+
+One minute before the earthquake was felt in Tokyo, the Earthquake Early Warning (Japan)|Earthquake Early Warning system, which includes more than 1,000 seismometers in Japan, sent out warnings of impending strong shaking to millions. It is believed that the early warning by the Japan Meteorological Agency (JMA) saved many lives. The warning for the general public was delivered about 8 seconds after the first P wave was detected, or about 31 seconds after the earthquake occurred. However, the estimated intensities were smaller than the actual ones in some places in Kanto and Tohoku regions. This was thought to be because of smaller estimated earthquake magnitude, smaller estimated fault plane, shorter estimated fault length, not having considered the shape of the fault, etc. There were also cases where large differences between estimated intensities by the Earthquake Early Warning system and the actual intensities occurred in the aftershocks and triggered earthquakes.
+
+===Geology===
+File:Map of Sendai Earthquake 2011.jpg|thumb|Map of the Tōhoku earthquake and aftershocks on 11–14 March
+File:SeismicAreas JapanTrenchEarthquakes.png|thumb|Hypocentral region boundaries (Source: The Japanese Headquarters for Earthquake Research Promotion)
+This earthquake occurred where the Pacific Plate is subduction|subducting under the plate beneath northern Honshu; which plate is a matter of debate amongst scientists. A quake of this magnitude usually has a rupture length of at least 500&nbsp;km (300&nbsp;mi) and generally requires a long, relatively straight fault surface. Because the plate boundary and subduction zone in the area of the Honshu rupture is not very straight, it is unusual for the magnitude of its earthquake to exceed 8.5; the magnitude of this earthquake was a surprise to some seismologists. The Hypocenter|hypocentral region of this earthquake extended from offshore Iwate Prefecture to offshore Ibaraki Prefecture. The Japanese Meteorological Agency said that the earthquake may have ruptured the fault zone from Iwate to Ibaraki with a length of 500&nbsp;km (310&nbsp;mi) and a width of 200&nbsp;km (120&nbsp;mi). Analysis showed that this earthquake consisted of a set of three events. The earthquake may have had a mechanism similar to that of 869 Jogan Sanriku earthquake|another large earthquake in 869 with an estimated surface wave magnitude (Surface wave magnitude|M<sub>s</sub>) of 8.6, which also created a large tsunami. Other major earthquakes with tsunamis struck the Sanriku Coast region 1896 Meiji-Sanriku earthquake|in 1896 and 1933 Sanriku earthquake|in 1933.
+
+In a study of N. Uchida and T. Matsuzawa, it was pointed out that the source area of this earthquake has a relatively high coupling coefficient surrounded by areas of relatively low coupling coefficients in the west, north, and south. From the averaged coupling coefficient of 0.5&ndash;0.8 in the source area and the seismic moment, it was estimated that the slip deficit of this earthquake was accumulated over a period of 260&ndash;880 years, which is consistent with the recurrence interval of such great earthquakes estimated from the tsunami deposit data. The seismic moment of this earthquake accounts for about 93% of the estimated cumulative moment from 1926 to March 2011. Hence, earthquakes with magnitudes about 7 since 1926 in this area only had released part of the accumulated energy. In the area near the trench, the coupling coefficient is high, which could act as the source of the large tsunami.
+
+Most of the foreshocks are interplate earthquakes with thrust-type focal mechanisms. Both interplate and intraplate earthquakes appeared in the aftershocks offshore Sanriku coast with considerable proportions.
+
+The strong ground motion registered at the maximum of 7 on the Japan Meteorological Agency seismic intensity scale in Kurihara, Miyagi|Kurihara, Miyagi Prefecture. Three other prefectures—Fukushima Prefecture|Fukushima, Ibaraki Prefecture|Ibaraki and Tochigi Prefecture|Tochigi—recorded an upper 6 on the JMA scale. Seismic stations in Iwate Prefecture|Iwate, Gunma Prefecture|Gunma, Saitama Prefecture|Saitama and Chiba Prefecture measured a lower 6, recording an upper 5 in Tokyo.
+
+In Russia, the main shock could be felt in Yuzhno-Sakhalinsk (MSK 4) and Kurilsk (MSK 4). The aftershock at 06:25 UTC could be felt in Yuzhno-Kurilsk (MSK 5) and Kurilsk (MSK 4).
+
+===Energy===
+File:2011 Japan Earthquake Tokyo Tower.jpg|thumb|Damage to the antenna of Tokyo Tower
+
+This energy of the seismic waves from the earthquake was Moment magnitude scale#Radiated seismic energy|surface energy (M<sub>e</sub>)  {{nowrap|1.9 ± 0.5×10<sup>17</sup>}} joules, which is nearly double that of the 9.1-magnitude 2004 Indian Ocean earthquake and tsunami that killed 230,000 people. If harnessed, the seismic energy from this earthquake would power a city the size of Los Angeles for an entire year. The seismic moment (M<sub>0</sub>), which represents a physical size for the event, was calculated by the USGS at 3.9×10<sup>22</sup> joules, slightly less than the 2004 Indian Ocean quake.
+
+<!--please don't change PGA values without reference to the talk page discussion-->
+Japan's National Research Institute for Earth Science and Disaster Prevention (NIED) calculated a peak ground acceleration of 2.99&nbsp;g-force|''g'' (29.33&nbsp;m/s?).{{#Tag:ref|The 2011 Tōhoku earthquake and tsunami has been assigned GLIDE identifier EQ-2011-000028-JPN by the Asian Disaster Reduction Center.|name="fn_2"|group="fn"}} The largest individual recording in Japan was 2.7&nbsp;g, in the Miyagi Prefecture, 75&nbsp;km from the epicentre; the highest reading in the Tokyo metropolitan area was 0.16&nbsp;g.
+
+===Geophysical effects===
+Portions of northeastern Japan shifted by as much as 2.4&nbsp;m (7.9&nbsp;Foot (unit)|ft) closer to North America, and another early estimate put the amount of slippage at as much as 40&nbsp;m (130&nbsp;ft).  On 6 April the Japanese coast guard said that the quake shifted the seabed near the epicenter 24&nbsp;meters (79&nbsp;ft) and elevated the seabed off the coast of Miyagi prefecture by 3&nbsp;meters.  A report by the Japan Agency for Marine-Earth Science and Technology, published in ''Science (journal)|Science'' on 2 December 2011, concluded that the seabed in the area between the epicenter and the Japan Trench moved 50 meters east-southeast and rose about 7 meters as a result of the quake.  The report also stated that the quake had caused several major landslides on the seabed in the affected area.
+
+File:Soil-liquefaction at Shinkiba after 2011 Tohoku Pacific Ocean offshore earthquake.jpg|thumb|left|Soil liquefaction in Koto, Tokyo|Kōtō, Tokyo
+
+The Earth's Rotation around a fixed axis|axis shifted by estimates of between {{Convert|10|cm|in|0|abbr=on}} and {{Convert|25|cm|in|0|abbr=on}}. The speed of the Earth's rotation increased, shortening the day by 1.8 microseconds due to the redistribution of Earth's mass. for an earthquake of this magnitude. The earthquake also generated sound waves detected by the GOCE satellite, which thus Role of chance in scientific discoveries|serendipitously became the first seismograph in orbit.
+
+Soil liquefaction was evident in areas of reclaimed land around Tokyo, particularly in Urayasu, Chiba|Urayasu, Chiba, Chiba|Chiba City, Funabashi, Chiba|Funabashi, Narashino, Chiba|Narashino (all in Chiba Prefecture) and in the Koto, Tokyo|Koto, Edogawa, Tokyo|Edogawa, Minato, Tokyo|Minato, Chūō, Tokyo|Chūō, and ?ta, Tokyo|?ta Wards of Tokyo.  Approximately 30 homes or buildings were destroyed and 1,046 other buildings were damaged to varying degrees.  Nearby Haneda Airport, built mostly on reclaimed land, was not damaged. Odaiba also experienced liquefaction, but damage was minimal.
+
+Shinmoedake, a volcano in Kyushu, erupted three days after the earthquake. The volcano had previously erupted in January 2011; it is not known if the later eruption was linked to the earthquake. In Antarctica, the seismic waves from the earthquake were reported to have caused the Whillans Ice Stream to slip by about 0.5&nbsp;m (1.6&nbsp;ft).
+
+File:Shindomap 2011-03-11 Tohoku earthquake.png|thumb|Map of Japan Meteorological Agency seismic intensity scale|seismic intensity observations resulting from mainshock
+The first sign international researchers had that the earthquake caused such a dramatic change in the Earth’s rotation came from the United States Geological Survey which monitors Global Positioning Satellite stations across the world.  The Survey team had several GPS monitors located near the scene of the earthquake.  The GPS station located nearest the epicenter moved almost {{convert|4|m|abbr=on}}.  This motivated government researchers to look into other ways the earthquake may have had large scale effects on the planet.  Scientists at NASA’s Jet Propulsion Laboratory did some calculations and determined that the Earth’s rotation was changed by the earthquake to the point where the days are now 1.8 microseconds shorter.
+
+Dr. Richard Gross, one of the head researchers working for NASA, explained that the way the Earth rotates is not very smooth, like an old car wobbling on its axle.  The earthquake's effect was as if a person took a hammer and whacked the car's axle, causing it to shift and the car to drive differently.  The powerful earthquake hit the Earth’s axle, causing it to spin in a slightly different way.
+
+===Aftershocks===
+{{further|List of foreshocks and aftershocks of the 2011 Tōhoku earthquake}}
+
+Japan has experienced over 1000 aftershocks since the earthquake, with 80 registering over magnitude 6.0&nbsp;M<sub>w</sub> and several of which have been over magnitude 7.0&nbsp;M<sub>w</sub>. A magnitude 7.4&nbsp;M<sub>w</sub> at 15:08(JST),  7.9&nbsp;M<sub>w</sub> at 15:15 and a 7.7&nbsp;M<sub>w</sub> quake at 15:26 all occurred on 11 March. A month later, a April 2011 Miyagi earthquake|major aftershock struck offshore on 7 April with a magnitude of 7.1&nbsp;M<sub>w</sub>. Its epicenter was underwater, 66&nbsp;km (41&nbsp;mi) off the coast of Sendai. The Japan Meteorological Agency assigned a magnitude of 7.4 M<sub>JMA</sub>, while the U.S. Geological Survey lowered it to 7.1 M<sub>w</sub>. At least four people were killed, and electricity was cut off across much of northern Japan including the loss of external power to Higashidōri Nuclear Power Plant and Rokkasho Reprocessing Plant. Four days later on 11 April, another April 2011 Fukushima earthquake|magnitude 7.1 M<sub>w</sub> aftershock struck Fukushima, causing additional damage and killing a total of three people.  On 7 December 2012 a 2012 Kamaishi earthquake|large aftershock of magnitude 7.3&nbsp;M<sub>w</sub> caused a minor tsunami, and again on 26 October 2013 small tsunami waves were recorded after a 7.1&nbsp;M<sub>w</sub> aftershock.
+
+As of 16 Mar 2012 aftershocks continued, totaling 1887 events over magnitude 4.0; a regularly updated map showing all shocks of magnitude 4.5 and above near or off the east coast of Honshu in the last seven days showed over 20 events.
+As of 6 December 2013 there have been a total of 776 aftershocks of 5.0M or greater, 112 of 6.0M or greater, and 8 over 7.0 M as reported by the Japanese Meteorological Agency.
+
+The number of aftershocks was associated with decreased health across Japan.
+
+==Tsunami==
+File:2011Sendai-NOAA-Energylhvpd9-05.jpg|thumb|Energy map of the tsunami from National Oceanic and Atmospheric Administration|NOAA
+
+An upthrust of 6 to 8&nbsp;meters along a 180-km wide seabed at 60&nbsp;km offshore from the east coast of Tōhoku,
+
+===Japan===
+The tsunami warning issued by the Japan Meteorological Agency was the most serious on its warning scale; it rated as a "major tsunami", being at least 3&nbsp;m (9.8&nbsp;ft) high. The actual height prediction varied, the greatest being for Miyagi at 6&nbsp;m (20&nbsp;ft) high. The tsunami inundated a total area of approximately {{convert|561|km2|sqmi|abbr=on}} in Japan.
+
+File:2011-Sendai-Tsunami-DART-21413-AB.png|thumb|left|Water column height on 11 March 2011 at Deep-ocean Assessment and Reporting of Tsunamis|DART Station, 690 NM southeast of Tokyo
+
+The earthquake took place at 14:46 JST (GMT 6:46) around 67&nbsp;km (42&nbsp;mi) from the nearest point on Japan's coastline, and initial estimates indicated the tsunami would have taken 10 to 30&nbsp;minutes to reach the areas first affected, and then areas farther north and south based on the geography of the coastline. Just over an hour after the earthquake at 15:55 JST, a tsunami was observed flooding Sendai Airport, which is located near the coast of Miyagi Prefecture, with waves sweeping away cars and planes and flooding various buildings as they traveled inland. The impact of the tsunami in and around Sendai Airport was filmed by an NHK News helicopter, showing a number of vehicles on local roads trying to escape the approaching wave and being engulfed by it. A 4&nbsp;m high tsunami hit Iwate Prefecture. Wakabayashi-ku, Sendai|Wakabayashi Ward in Sendai was also particularly hard hit.  At least 101 designated tsunami evacuation sites were hit by the wave.
+
+Like the 2004 Indian Ocean earthquake and tsunami, the damage by surging water, though much more localized, was far more deadly and destructive than the actual quake. There were reports of entire towns destroyed from tsunami-hit areas in Japan, including 9,500 missing in Minamisanriku, Miyagi|Minamisanriku; one thousand bodies had been recovered in the town by 14 March 2011.
+
+Among several factors causing the high death toll from the tsunami, one was the unexpectedly large size of the water surge. The tsunami walls at several of the affected cities were based on much smaller tsunami heights. Also, many people caught in the tsunami thought that they were located on high enough ground to be safe.
+
+File:SendaiAirportMarch16.jpg|thumb|left|Tsunami flooding on the Sendai Airport runway
+
+Large parts of Kuji and the southern section of ?funato including the port area were almost entirely destroyed. Also largely destroyed was Rikuzentakata, Iwate|Rikuzentakata, where the tsunami was reportedly three stories high. Other cities reportedly destroyed or heavily damaged by the tsunami include Kamaishi, Iwate|Kamaishi, Miyako, Iwate|Miyako, ?tsuchi, Iwate|?tsuchi, and Yamada, Iwate|Yamada (in Iwate Prefecture), Namie, Fukushima|Namie, Sōma, Fukushima|Sōma and Minamisōma, Fukushima|Minamisōma (in Fukushima Prefecture) and Shichigahama, Miyagi|Shichigahama, Higashimatsushima, Miyagi|Higashimatsushima, Onagawa, Miyagi|Onagawa, Natori, Miyagi|Natori, Ishinomaki, Miyagi|Ishinomaki, and Kesennuma, Miyagi|Kesennuma (in Miyagi Prefecture). The most severe effects of the tsunami were felt along a 670-km (420&nbsp;mi)-long stretch of coastline from Erimo, Hokkaido, in the north to ?arai, Ibaraki, in the south, with most of the destruction in that area occurring in the hour following the earthquake. Near ?arai, people captured images of a huge whirlpool that had been generated by the tsunami. The tsunami washed away the sole bridge to Miyatojima, Miyagi, isolating the island's 900 residents. A two meter high tsunami hit Chiba Prefecture about 2 1/2 hours after the quake, causing heavy damage to cities such as Asahi, Chiba|Asahi.
+
+On 13 March 2011, the Japan Meteorological Agency (JMA) published details of tsunami observations recorded around the coastline of Japan following the earthquake. These observations included tsunami maximum readings of over 3&nbsp;m (9.8&nbsp;ft) at the following locations and times on 11 March 2011, following the earthquake at 14:46 JST:
+* 15:12 JST – off Kamaishi, Iwate|Kamaishi – 6.8&nbsp;m (22&nbsp;ft)
+* 15:15 JST – ?funato – 3.2&nbsp;m (10&nbsp;ft) or higher
+* 15:20 JST – Ishinomaki, Miyagi|Ishinomaki-shi Ayukawa – 3.3&nbsp;m (11&nbsp;ft) or higher
+* 15:21 JST – Miyako, Iwate|Miyako – 4.0&nbsp;m (13.1&nbsp;ft) or higher
+* 15:21 JST – Kamaishi – 4.1&nbsp;m (13&nbsp;ft) or higher
+* 15:44 JST – Erimo, Hokkaido|Erimo-cho Shoya – 3.5&nbsp;m (11&nbsp;ft)
+* 15:50 JST – Sōma, Fukushima|Sōma – 7.3&nbsp;m (24&nbsp;ft) or higher
+* 16:52 JST – ?arai – 4.2&nbsp;m (14&nbsp;ft)
+
+Many areas were also affected by waves of 1 to 3&nbsp;meters (3.3 to 9.8&nbsp;ft) in height, and the JMA bulletin also included the caveat that ''"At some parts of the coasts, tsunamis may be higher than those observed at the observation sites."'' The timing of the earliest recorded tsunami maximum readings ranged from 15:12 to 15:21, between 26 and 35&nbsp;minutes after the earthquake had struck. The bulletin also included initial tsunami observation details, as well as more detailed maps for the coastlines affected by the tsunami waves.
+
+JMA also reported offshore tsunami height recorded by telemetry from Mooring (watercraft)|moored GPS wave height meter buoys as follows:
+* offshore of central Iwate Prefecture|Iwate (Miyako, Iwate|Miyako) – 6.3&nbsp;m (20&nbsp;ft)
+* offshore of northern Iwate Prefecture|Iwate  (Kuji) – 6.0&nbsp;m (18&nbsp;ft)
+* offshore of northern Miyagi Prefecture|Miyagi (Kesennuma) – 6.0&nbsp;m (18&nbsp;ft)
+
+On 25 March 2011, Port and Airport Research Institute (PARI) reported tsunami height by visiting the port sites as follows:
+
+File:20110311Houshu.ogg|thumb|NOAA animation of the tsunami's propagation
+
+* Port of Hachinohe – 5–6&nbsp;m (16–19&nbsp;ft)
+* Port of Hachinohe area – 8–9&nbsp;m (26–29&nbsp;ft)
+* Port of Kuji, Iwate|Kuji – 8–9&nbsp;m (26–29&nbsp;ft)
+* Port of Kamaishi, Iwate|Kamaishi – 7–9&nbsp;m (23–30&nbsp;ft)
+* Port of ?funato, Iwate|?funato – 9.5&nbsp;m (31&nbsp;ft)
+* Run up height, port of ?funato, Iwate|?funato area – 24&nbsp;m (79&nbsp;ft)
+* Fishery port of Onagawa, Miyagi|Onagawa – 15&nbsp;m (50&nbsp;ft)
+* Port of Ishinomaki, Miyagi|Ishinomaki – 5&nbsp;m (16&nbsp;ft)
+* Shiogama section of Shiogama, Miyagi|Shiogama-Sendai port – 4&nbsp;m (13&nbsp;ft)
+* Sendai section of Shiogama-Sendai port – 8&nbsp;m (26&nbsp;ft)
+* Sendai Airport area – 12&nbsp;m (39&nbsp;ft)
+
+A joint research team from Yokohama National University and the University of Tokyo also reported that the tsunami at Ryōri Bay (绫里白浜), ?funato was about 30&nbsp;m high. They found fishing equipment scattered on the high cliff above the bay. This height is deemed the record in Japan historically, as of reporting date, that exceeds 38.2&nbsp;m (125&nbsp;ft) from the 1896 Meiji-Sanriku earthquake. It was also estimated that the tsunami reached heights of up to 40.5 metres (133&nbsp;ft) in Miyako in Tōhoku's Iwate Prefecture.  The inundated areas closely matched those of the 869 Jogan Sanriku earthquake|869 Sanriku tsunami.
+
+A Japanese government study found that only 58% of people in coastal areas in Iwate, Miyagi, and Fukushima prefectures heeded tsunami warnings immediately after the quake and headed for higher ground.  Of those who attempted to evacuate after hearing the warning, only five percent were caught in the tsunami.  Of those who didn't heed the warning, 49% were hit by the water.
+
+===Elsewhere across the Pacific===
+File:Midway bonin petrel 2011 tsunami.jpg|thumb|A Bonin Petrel trapped in the sand on Midway Atoll by the tsunami, before being rescued.
+Shortly after the earthquake, the Pacific Tsunami Warning Center (PTWC) in Hawaii issued tsunami watches and announcements for locations in the Pacific. At 07:30 UTC, PTWC issued a widespread tsunami warning covering the entire Pacific Ocean. prompting some evacuations, and causing boats to be banned from the waters surrounding the island for 12 hours following the wave strike, leaving many island residents in the area without means of getting to work.
+
+File:Boats left nearby the 'costanera' for safety in Pichilemu, March 11, 2011.jpg|thumb|left|Fishing boats moved to higher ground in anticipation of tsunami arrival, in Pichilemu, Chile
+In the Philippines, waves up to 0.5&nbsp;m (1.6&nbsp;ft) high hit the eastern seaboard of the country. Some houses along the coast in Jayapura, Indonesia were destroyed. Authorities in Wewak, East Sepik, Papua New Guinea evacuated 100 patients from the city's Boram Hospital before it was hit by the waves, causing an estimated US$4&nbsp;million in damages. Hawaii estimated damage to public infrastructure alone at US$3&nbsp;million, with damage to private properties, including resort hotels such as Four Seasons Resort Hualalai, estimated at tens of millions of dollars. It was reported that a 1.5&nbsp;m (5&nbsp;ft) high wave completely submerged Midway Atoll|Midway Atoll's reef inlets and Spit Island, killing more than 110,000 nesting seabirds at the Midway Atoll National Wildlife Refuge. Some other South Pacific countries, including Tonga and New Zealand, and U.S. territories American Samoa and Guam, experienced larger-than-normal waves, but did not report any major damage. However in Guam some roads were closed off and people were evacuated from low-lying areas.
+
+Along the Pacific Coast of Mexico and South America, tsunami surges were reported, but in most places caused little or no damage. The surge in Chile was large enough to damage more than 200 houses,
+
+File:TsunamiDebrisWatch.JPG|thumb|A sign informing beachgoers about proper tsunami debris disposal procedures at Cape Lookout (Oregon)|Cape Lookout State Park, Oregon, USA
+
+The tsunami broke icebergs off the Sulzberger Ice Shelf in Antarctica, {{convert|13000|km|mi}} away. The main iceberg measured {{convert|9.5|x|6.5|km|mi}} (approximately the area of Manhattan Island) and about {{convert|80|m|ft}} thick. A total of {{convert|125|km2|sqmi acre}} of ice broke away.
+
+As of April 2012, wreckage from the tsunami spread around the oceans, including a soccer ball which was found in Alaska and a Japanese motorcycle found in British Columbia, Canada.
+
+== Land subsidence ==
+File:Subsidence in Shin-Urayasu Sta after 2011 Sendai earthquake.JPG|thumb|Land subsidence and soil liquefaction at Shin-Urayasu Station in Urayasu, Chiba, near Tokyo
+
+The Geospatial Information Authority of Japan reported land subsidence based on the height of triangulation stations in the area measured by Global Positioning System|GPS as compared to their previous values from 14 April 2011.
+* Miyako, Iwate – 0.50&nbsp;m (1.64&nbsp;ft)
+* Yamada, Iwate – 0.53&nbsp;m (1.73&nbsp;ft)
+* ?tsuchi, Iwate – 0.35&nbsp;m (1.14&nbsp;ft)
+* Kamaishi, Iwate – 0.66&nbsp;m (2.16&nbsp;ft)
+* ?funato, Iwate – 0.73&nbsp;m (2.39&nbsp;ft)
+* Rikuzentakata, Iwate – 0.84&nbsp;m (2.75&nbsp;ft)
+* Kesennuma, Miyagi – 0.74&nbsp;m (2.42&nbsp;ft)
+* Minamisanriku, Miyagi – 0.69&nbsp;m (2.26&nbsp;ft)
+* Oshika Peninsula, Miyagi Prefecture|Miyagi – 1.2&nbsp;m (3.93&nbsp;ft)
+* Ishinomaki, Miyagi – 0.78&nbsp;m (2.55&nbsp;ft)
+* Higashimatsushima, Miyagi – 0.43&nbsp;m (1.41&nbsp;ft)
+* Iwanuma, Miyagi – 0.47&nbsp;m (1.54&nbsp;ft)
+* Sōma, Fukushima – 0.29&nbsp;m (0.95&nbsp;ft)
+
+Scientists say that the subsidence is permanent.  As a result, the communities in question are now more susceptible to flooding during high tides.
+
+==Casualties==
+File:Signpost of prayer and wish.JPG|thumb|Memorials amongst the ruins, Natori
+
+The National Police Agency (Japan)|National Police Agency has confirmed {{2011 Tōhoku earthquake and tsunami casualties dead}} {{2011 Tōhoku earthquake and tsunami casualties injured}} and {{2011 Tōhoku earthquake and tsunami casualties missing}} across twenty Prefectures of Japan|prefectures.
+
+Of the 13,135 fatalities recovered by 11 April 2011, 12,143 or 92.5% died by drowning.  Victims aged 60 or older accounted for 65.2% of the deaths, with 24% of total victims being in their 70s.  As of March 2012, Japanese police data showed that 70% of the 3,279 still missing were aged 60 or over, all found, including 893 in their 70s and 577 in their 80s.  Of the total confirmed victims, 14,308 drowned, 667 were crushed to death or died from internal injuries, and 145 perished from burns.
+
+File:2011 Earthquake and Tsunami near Sendai, Japan.jpg|thumb|upright|left|Tsunami damage between Sendai and Sendai Bay.
+
+Save the Children reports that as many as 100,000 children were uprooted from their homes, some of whom were separated from their families because the earthquake occurred during the school day. 236 children were orphaned in the prefectures of Iwate Prefecture|Iwate, Miyagi Prefecture|Miyagi and Fukushima Prefecture|Fukushima by the disaster; 1,580 children lost either one or both parents, 846 in Miyagi, 572 in Iwate, and 162 in Fukushima.  The quake and tsunami killed 378 elementary, middle-school, and high school students and left 158 others missing.  One elementary school in Ishinomaki, Miyagi, Okawa Elementary, lost 74 of 108 students and 10 of 13 teachers and staff.
+
+The Japanese Foreign Ministry has confirmed the deaths of nineteen foreigners. Among them are two English teachers from the United States affiliated with the JET Programme|Japan Exchange and Teaching Program; a Canadian missionary in Shiogama, Miyagi|Shiogama; and citizens of China, North and South Korea, Taiwan, Pakistan and the Philippines.
+
+By 9:30 UTC on 11 March, Google Person Finder, which was previously used in the 2010 Haiti earthquake|Haitian, 2010 Chile earthquake|Chilean, and 2011 Christchurch earthquake|Christchurch, New Zealand earthquakes, was collecting information about survivors and their locations. The Next of kin|Next of Kin Registry (NOKR) is assisting the Japanese government in locating next of kin for those missing or deceased.
+
+Japanese funerals are normally elaborate Buddhist ceremonies which entail cremation. The thousands of bodies, however, exceeded the capacity of available crematoriums and morgues, many of them damaged, and there were shortages of both kerosene—each cremation requires 50&nbsp;liters—and dry ice for preservation. The single crematorium in Higashimatsushima, Miyagi|Higashimatsushima, for example, could only handle four bodies a day, although hundreds were found there. Governments and the military were forced to bury many bodies in hastily dug mass graves with rudimentary or no rites, although relatives of the deceased were promised that they would be cremated later.
+
+The tsunami is reported to have caused several deaths outside of Japan. One man was killed in Jayapura, Papua (province)|Papua, Indonesia after being swept out to sea. A man who is said to have been attempting to photograph the oncoming tsunami at the mouth of the Klamath River, south of Crescent City, California, was swept out to sea. His body was found on 2 April along Ocean Beach in Fort Stevens State Park, Oregon, some {{convert|330|mi|km}} to the north.
+
+Noted individual fatalities within Japan included 104-year old Takashi Shimokawara, holder of the world athletics records in the men's shot put, discus throw and javelin throw for the over-100s age category. He was killed by the earthquake and tsunami at Kamaishi, Iwate.
+
+As of 27 May 2011, three Japan Ground Self-Defense Force members had died while conducting relief operations in Tōhoku.  As of March 2012, the Japanese government had recognized 1,331 deaths as indirectly related to the earthquake, such as caused by harsh living conditions after the disaster.  As of 30 April 2012, 18 people had died and 420 had been injured while participating in disaster recovery or clean-up efforts.
+
+==Damage and effects==
+File:Distant view of Rikuzentakata.jpg|thumb|Panorama of the Hirota Peninsula in Rikuzentakata swept away
+File:MinatoAfterTohokuEarthquake.jpg|thumb|Aerial photo of Minato, devastated by both the earthquake and subsequent tsunami
+
+The degree and extent of damage caused by the earthquake and resulting tsunami were enormous, with most of the damage being caused by the tsunami. Video footage of the towns that were worst affected shows little more than piles of rubble, with almost no parts of any structures left standing. Estimates of the cost of the damage range well into the tens of billions of US dollars; before-and-after satellite photographs of devastated regions show immense damage to many regions. Although Japan has invested the equivalent of billions of dollars on anti-tsunami seawalls which line at least 40% of its 34,751&nbsp;km (21,593&nbsp;mi) coastline and stand up to 12&nbsp;m (39&nbsp;ft) high, the tsunami simply washed over the top of some seawalls, collapsing some in the process.
+
+File:Effect of 2011 Sendai earthquake in Tokyo (cropped).jpg|thumb|left|A fire which broke out in Tokyo after the earthquake
+Japan's National Police Agency (Japan)|National Police Agency said on 3 April 2011, that 45,700 buildings were destroyed and 144,300 were damaged by the quake and tsunami. The damaged buildings included 29,500 structures in Miyagi Prefecture, 12,500 in Iwate Prefecture and 2,400 in Fukushima Prefecture.  Three hundred hospitals with 20 beds or more in Tōhoku were damaged by the disaster, with 11 being completely destroyed.  The earthquake and tsunami created an estimated 24–25&nbsp;million tons of rubble and debris in Japan.
+
+An estimated 230,000 automobiles and trucks were damaged or destroyed in the disaster.  As of the end of May 2011, residents of Iwate, Miyagi, and Fukushima prefectures had requested deregistration of 15,000 vehicles, meaning that the owners of those vehicles were writing them off as unrepairable or unsalvageable.
+
+===Ports===
+File:Ship on the port CROP.jpg|thumb|Ship and crane damage at Sendai port
+
+All of Japan's ports were briefly closed after the earthquake, though the ones in Tokyo and southwards soon re-opened. Fifteen ports were located in the disaster zone. The north-eastern ports of Hachinohe, Sendai, Ishinomaki and Onahama were destroyed, while the Port of Chiba (which serves the hydrocarbon industry) and Japan's ninth-largest container port at Kashima, Ibaraki|Kashima were also affected, though less severely. The ports at Hitachinaka, Hitachi, Soma, Shiogama, Kesennuma, Ofunato, Kamashi and Miyako were also damaged and closed to ships. All 15 ports reopened to limited ship traffic by 29 March 2011.  A total of 319 fishing ports, about 10% of Japan's fishing ports, were damaged in the disaster.  Most were restored to operating condition by 18 April 2012.
+
+The Port of Tokyo suffered slight damage; the effects of the quake included visible smoke rising from a building in the port with parts of the port areas being flooded, including soil liquefaction in Tokyo Disneyland's parking lot.
+
+===Dams and water problems===
+
+File:Fujinuma Dam failure.JPG|thumb|Dam failure at Fujinuma
+
+{{Update|section|date=March 2013}}The Fujinuma Dam|Fujinuma irrigation dam in Sukagawa ruptured, causing flooding and washing away five homes. Eight people were missing and four bodies were discovered by the morning.<!--  --> Reportedly, some locals had attempted to repair leaks in the dam before it completely Dam failure|failed. On 12 March, 252 dams were inspected and it was discovered that six embankment dams had shallow cracks on their crests. The reservoir at one concrete gravity dam suffered a small non-serious Slope stability|slope failure. All damaged dams are functioning with no problems. Four dams within the quake area were unreachable. When the roads clear, experts will be dispatched to conduct further investigations.
+
+In the immediate aftermath of the calamity, at least 1.5&nbsp;million households were reported to have lost access to water supplies. By 21 March 2011, this number fell to 1.04&nbsp;million.
+
+===Electricity===
+File:Power Grid of Japan.svg|thumb|A map of Japan's electricity distribution network shows the geographic divide between 50 hertz systems and 60 hertz systems
+
+According to the Japanese trade ministry, around 4.4&nbsp;million households served by Tōhoku Electric Power (TEP) in northeastern Japan were left without electricity. Several nuclear and conventional power plants went offline after the earthquake, reducing TEPCO's total capacity by 21 GW. Rolling blackouts began on 14 March due to power shortages caused by the earthquake. The Tokyo Electric Power Company (TEPCO), which normally provides approximately 40 Gigawatt|GW of electricity, announced that it could only provide about 30 GW. This was because 40% of the electricity used in the greater Tokyo area was supplied by reactors in the Niigata Prefecture|Niigata and Fukushima Prefecture|Fukushima prefectures. The reactors at the Fukushima Daiichi Nuclear Power Plant|Fukushima Daiichi and Fukushima Daini Nuclear Power Plant|Fukushima Dai-ni plants were automatically taken offline when the first earthquake occurred and sustained major damage related to the earthquake and subsequent tsunami. Rolling blackouts of approximately three hours were experienced throughout April and May while TEPCO scrambled to find a temporary power solution.  The blackouts affected Tokyo, Kanagawa Prefecture|Kanagawa, Eastern Shizuoka Prefecture|Shizuoka, Yamanashi Prefecture|Yamanashi, Chiba Prefecture|Chiba, Ibaraki Prefecture|Ibaraki, Saitama Prefecture|Saitama, Tochigi Prefecture|Tochigi, and Gunma Prefecture|Gunma prefectures. Voluntary reduced electricity use by consumers in the Kanto area helped reduce the predicted frequency and duration of the blackouts. By 21 March 2011, the number of households in the north without electricity fell to 242,927.
+
+File:Devastation in Minamisōma after tsunami.jpg|thumb|left|Damage to electricity transmission lines
+
+Tōhoku Electric Power was not able to provide the Kanto region with additional power, because TEP's power plants were also damaged in the earthquake. Kansai Electric Power Company (Kepco) cannot share electricity, because its system operates at 60 hertz, whereas TEPCO and TEP operate their systems at 50 hertz; this is due to early industrial and infrastructure development in the 1880s that left Japan without a unified national power grid. Two substations, one in Shizuoka Prefecture and one in Nagano Prefecture, were able to convert between frequencies and transfer electricity from Kansai to Kanto and Tōhoku, but their capacity to do so is limited to 1 GW. With the damage to so many power plants, it may be years before a long-term solution can be found.
+
+In effort to help alleviate the shortage, three steel manufacturers in the Kanto region are contributing electricity produced by their in-house conventional power stations to TEPCO for distribution to the general public. Sumitomo Metal Industries can produce up to 500 MW, JFE Holdings|JFE Steel 400 MW, and Nippon Steel 500 MW of electric power  Auto and auto parts makers in Kanto and Tohoku agreed in May 2011 to operate their factories on Saturdays and Sundays and close on Thursdays and Fridays to assist in alleviating the electricity shortage during the summer of 2011.
+
+===Oil, gas and coal===
+File:Cosmo Oil explosion 2 20110311CROP.jpg|thumb|upright|Fire at the Cosmo Oil refinery in Ichihara, Chiba|Ichihara
+
+A {{convert|220000|oilbbl|m3|adj=on}}-per-day It was extinguished after ten days, injuring six people, and destroying storage tanks. Others halted production due to safety checks and power loss.
+In Sendai, a {{convert|145000|oilbbl|m3|adj=on}}-per-day refinery owned by the largest refiner in Japan, Nippon Oil|JX Nippon Oil & Energy, was also set ablaze by the quake.
+
+An analyst estimates that consumption of various types of oil may increase by as much as {{convert|300000|oilbbl|m3}} per day (as well as LNG), as back-up power plants burning fossil fuels try to compensate for the loss of 11 GW of Japan's nuclear power capacity.
+
+The city-owned plant for importing liquefied natural gas in Sendai was severely damaged, and supplies were halted for at least a month.
+
+In addition to refining and storage, several power plants were damaged. These include Sendai #4, New-Sendai #1 and #2, Haranomachi #1 and #2, Hirono #2 and #4 and Hitachinaka #1.
+
+===Nuclear power plants===
+{{further|2011 Japanese nuclear accidents}}
+File:Nuclear plants Japan in 2011.svg|right|thumb|400x|Position of Japanese nuclear power stations and the spreading of the initial tsunami
+The Fukushima Daiichi Nuclear Power Plant|Fukushima Daiichi, Fukushima Daini Nuclear Power Plant|Fukushima Daini, Onagawa Nuclear Power Plant and Tōkai Nuclear Power Plant|Tōkai nuclear power stations, consisting of a total eleven reactors, were Scram|automatically shut down following the earthquake. Higashidōri Nuclear Power Plant|Higashidōri, also on the northeast coast, was already shut down for a periodic inspection. Cooling is needed to remove decay heat after a Generation II reactor has been shut down, and to maintain spent fuel pools. The backup cooling process is powered by emergency diesel generators at the plants and at Rokkasho Reprocessing Plant|Rokkasho nuclear reprocessing plant. At Fukushima Daiichi and Daini, tsunami waves overtopped seawalls and destroyed diesel backup power systems, leading to severe problems at Fukushima Daiichi, including three large explosions and radioactive leakage. Subsequent analysis found that many Japanese nuclear plants, including Fukushima Daiichi, were not adequately protected against tsunami. Over 200,000 people were evacuated.
+
+The 7 April aftershock caused the loss of external power to Rokkasho Reprocessing Plant and Higashidori Nuclear Power Plant but backup generators were functional. Onagawa Nuclear Power Plant lost 3 of 4 external power lines and temporarily lost cooling function in its spent fuel pools for "20 to 80&nbsp;minutes". A spill of "up to 3.8&nbsp;liters" of radioactive water also occurred at Onagawa following the aftershock.
+
+A report by the IAEA in 2012 found that the Onagawa Nuclear Power Plant, the closest nuclear plant to the epicenter of the 2011 earthquake and tsunami, had remained largely undamaged.  The plant's 3 reactors automatically shut down without damage and all safety systems functioned as designed.  The plant's 14 meter (46-foot) high seawall successfully withstood the tsunami.
+
+Europe's European Commissioner for Energy|Energy Commissioner Günther Oettinger addressed the European Parliament on 15 March, explaining that the nuclear disaster was an "apocalypse".  As the nuclear crisis entered a second month, experts recognized that Fukushima Daiichi is not the worst nuclear accident ever, but it is the most complicated. Nuclear experts stated that Fukushima will go down in history as the second-worst nuclear accident ever.... while not as bad as Chernobyl disaster, worse than Three Mile Island accident. It could take months or years to learn how damaging the release of dangerous isotopes has been to human health and food supplies, and the surrounding countryside.
+
+Later analysis indicated three reactors at Fukushima I (Units 1, 2, and 3) had suffered meltdowns and continued to leak coolant water,
+
+====Fukushima meltdowns====
+<!-- This section is an introduction to the articles Fukushima Daiichi nuclear accidents. -->
+
+{{main|Fukushima Daiichi nuclear disaster|Timeline of the Fukushima Daiichi nuclear disaster}}
+
+File:VOA Herman - April 12 2011 Namie-11.jpg|thumb|Loose livestock roam the evacuation zone
+
+Japan declared a state of emergency following the failure of the cooling system at the Fukushima Daiichi Nuclear Power Plant, resulting in the evacuation of nearby residents. Officials from the Japanese Nuclear and Industrial Safety Agency reported that radiation levels inside the plant were up to 1,000 times normal levels, and that radiation levels outside the plant were up to 8 times normal levels. Later, a state of emergency was also declared at the Fukushima Daini Nuclear Power Plant|Fukushima Daini nuclear power plant about 11&nbsp;km (7&nbsp;mi) south. This brought the total number of problematic reactors to six.
+
+It was reported that radioactive iodine was detected in the tap water in Fukushima, Tochigi, Gunma, Tokyo, Chiba, Saitama, and Niigata, and radioactive cesium in the tap water in Fukushima, Tochigi and Gunma. Radioactive cesium, iodine, and strontium were also detected in the soil in some places in Fukushima. There may be a need to replace the contaminated soil. Many radioactive hotspots were found outside the evacuation zone, including Tokyo. Food products were also found contaminated by radioactive matter in several places in Japan. On 5 April 2011, the government of the Ibaraki Prefecture banned the fishing of sand lance after discovering that this species was contaminated by radioactive cesium above legal limits. As late as July 2013 slightly elevated levels of radioactivity were found in beef on sale at Tokyo markets. No death or morbidity has so far been reported as a result of the radioactive emissions.
+
+====Incidents elsewhere====
+A fire occurred in the turbine section of the Onagawa Nuclear Power Plant following the earthquake. The blaze was in a building housing the turbine, which is sited separately from the plant's reactor, The plant was shut down as a precaution.
+
+On 13 March the lowest-level state of emergency was declared regarding the Onagawa plant as radioactivity readings temporarily exceeded allowed levels in the area of the plant. Tohoku Electric Power Co. stated this may have been due to radiation from the Fukushima Daiichi nuclear accidents but was not from the Onagawa plant itself.
+
+As a result of the 7 April aftershock, Onagawa Nuclear Power Plant lost 3 of 4 external power lines and lost cooling function for as much as 80&nbsp;minutes. A spill of a couple liters of radioactive water occurred at Onagawa.
+
+The number 2 reactor at Tōkai Nuclear Power Plant was shut down automatically. however, the Japan Atomic Power Company stated that there was a second operational pump sustaining the cooling systems, but that two of three diesel generators used to power the cooling system were out of order.
+
+===Wind power===
+None of Wind power in Japan|Japan's commercial wind turbines, totaling over 2300 MW in nameplate capacity, failed as a result of the earthquake and tsunami, including the Kamisu offshore wind farm directly hit by the tsunami.
+
+===Transport===
+File:Rokko-Bridge fell,Namegata-city,Japan.jpg|thumb|A highway bridge damaged and severed
+
+Japan's transport network suffered severe disruptions. Many sections of Tōhoku Expressway serving northern Japan were damaged. The expressway did not reopen to general public use until 24 March 2011. All railway services were suspended in Tokyo, with an estimated 20,000 people stranded at major stations across the city. In the hours after the earthquake, some train services were resumed. Most Tokyo area train lines resumed full service by the next day—12 March. Twenty thousand stranded visitors spent the night of 11–12 March inside Tokyo Disneyland.
+
+A tsunami wave flooded Sendai Airport at 15:55 JST,
+
+File:Shinchi Sta 20110404.jpg|thumb|left|Remains of Shinchi Station
+
+Various train services around Japan were also canceled, with JR East suspending all services for the rest of the day. in the worst-hit areas, 23 stations on 7 lines were washed away, with damage or loss of track in 680 locations and the 30-km radius around the Fukushima Daiichi nuclear plant unable to be assessed.
+
+There were no derailments of Shinkansen bullet train services in and out of Tokyo, but their services were also suspended.
+
+Derailments were minimized because of an early warning system that detected the earthquake before it struck. The system automatically stopped all high-speed trains, which minimized the damage.
+
+The Tōhoku Shinkansen line was worst hit, with JR East estimating that 1,100 sections of the line, varying from collapsed station roofs to bent power pylons, will need repairs. Services on the Tōhoku Shinkansen partially resumed only in Kantō area on 15 March, with one round-trip service per hour between Tokyo Station|Tokyo and Nasushiobara Station|Nasu-Shiobara, and Tōhoku area service partially resumed on 22 March between Morioka Station|Morioka and Shin-Aomori Station|Shin-Aomori. Services on Akita Shinkansen resumed with limited numbers of trains on 18 March. Service between Tokyo and Shin-Aomori Station|Shin-Aomori was restored by May, but at lower speeds due to ongoing restoration work; the pre-earthquake timetable was not reinstated until late September.
+
+File:Carried train in Ishinomaki Line .JPG|thumb|Train washed away uphill from Onagawa Station
+
+The rolling blackouts brought on by the crises at the nuclear power plants in Fukushima had a profound effect on the rail networks around Tokyo starting on 14 March. Major railways began running trains at 10–20&nbsp;minute intervals, rather than the usual 3–5&nbsp;minute intervals, operating some lines only at rush hour and completely shutting down others; notably, the Tōkaidō Main Line, Yokosuka Line, Sōbu Main Line and Chūō-Sōbu Line were all stopped for the day. This led to near-paralysis within the capital, with long lines at train stations and many people unable to come to work or get home. Railway operators gradually increased capacity over the next few days, until running at approximately 80% capacity by 17 March and relieving the worst of the passenger congestion.
+
+===Telecommunications===
+File:Fallen power poles in Ishinomaki.jpg|thumb|Damaged utility pole in Ishinomaki
+
+Cellular and landline phone service suffered major disruptions in the affected area. and some American telecommunications and VoIP companies such as AT&T, Sprint Nextel|Sprint, Verizon, T-Mobile and VoIP companies such as netTALK and Vonage have offered free calls to (and in some cases, from) Japan for a limited time, as did Germany's Deutsche Telekom.
+
+===Defense===
+Matsushima Air Field of the Japan Self-Defense Force in Miyagi Prefecture was struck by the tsunami, flooding the base and resulting in damage to all 18 Mitsubishi F-2 fighter jets of the 21st Fighter Training Squadron. 12 of the aircraft were scrapped, while the remaining 6 were slated for repair at a cost of 80 billion yen ($1 billion), exceeding the original cost of the aircraft. At the 2nd Regional Headquarters of the Japan Coast Guard in Shiogama, Miyagi, 2 patrol boats were swept away.
+
+===Space center===
+JAXA (Japan Aerospace Exploration Agency) evacuated the Tsukuba Space Center in Tsukuba, Ibaraki. The Center, which houses a control room for part of the International Space Station, was shut down and some damage was reported.
+The Tsukuba control center resumed full operations for the space station's Kibo laboratory and the HTV cargo craft on 21 March 2011.
+
+===Cultural properties===
+File:Monuments fell down by 2011 Tōhoku Earthquake in Tokiwa-shrine.JPG|thumb|Damage to a Tōrō|traditional lantern at Tokiwa Jinja|Tokiwa shrine in Mito, Ibaraki|Mito City
+
+754 Cultural Properties of Japan|cultural properties were damaged across nineteen prefectures, including five National Treasures of Japan|National Treasures (at Zuigan-ji, ?saki Hachiman-gū, Shiramizu Amidadō, and Seihaku-ji); 160 Important Cultural Properties of Japan|Important Cultural Properties (including at Sendai Tōshō-gū, the Kōdōkan (Mito)|Kōdōkan, and Entsū-in (Matsushima)|Entsū-in, with its Namban art|western decorative motifs); one hundred and forty-four Monuments of Japan (including Matsushima, Takata-matsubara, Yūbikan, and the Site of Tagajō); six Groups of Traditional Buildings; and four Important Tangible Folk Cultural Properties. Stone monuments at the UNESCO World Heritage Site: Shrines and Temples of Nikkō were toppled. In Tokyo, there was damage to Koishikawa Kōrakuen, Rikugien Garden|Rikugien, Hamarikyu Gardens|Hamarikyū Onshi Teien, and the walls of Edo Castle. Information on the condition of collections held by museums, libraries and archives is still incomplete. There was no damage to the Historic Monuments and Sites of Hiraizumi in Iwate prefecture, and the recommendation for their inscription on the List of World Heritage Sites in Japan|UNESCO World Heritage List in June was seized upon as a symbol of international recognition and recovery.
+
+==Aftermath==
+File:Rescued from Tsunami at Ishinomaki.JPG|thumb|upright|Rescue operations in the floodwaters in downtown Ishinomaki
+<!-- (This is a summary only – see main article for supporting references.) -->{{Main|Aftermath of the 2011 Tōhoku earthquake and tsunami}}
+
+The aftermath of the earthquake and tsunami included both a humanitarian crisis and a major economic impact. The tsunami resulted in over 340,000 displaced people in the Tōhoku region, and shortages of food, water, shelter, medicine and fuel for survivors. In response the Japanese government mobilized the Self-Defence Forces (under Joint Task Force - Tohoku, led by Lieutenant General Eiji Kimizuka), while many countries sent search and rescue teams to help search for survivors. Aid organizations both in Japan and worldwide also responded, with the Japanese Red Cross reporting $1&nbsp;billion in donations. The economic impact included both immediate problems, with industrial production suspended in many factories, and the longer term issue of the cost of rebuilding which has been estimated at ?10&nbsp;trillion ($122&nbsp;billion). In comparison to the 1995 Great Hanshin earthquake, the East Japan Earthquake brought serious damage to an extremely wide range.
+
+The aftermath of the twin disasters also left Japan's coastal cities and towns with nearly 25 million tons of debris. In Ishinomaki alone, there were 17 trash collection sites 180 metres long and at least 4.5 metres high. An official in the city's government trash disposal department estimated that it would take three years to empty these sites.
+
+==Humanitarian response==
+{{Main|Humanitarian response to the 2011 Tōhoku earthquake and tsunami}}
+File:2011TsunamiFireVehicles.jpg|thumb|upright|Rescue operations in the floodwaters in downtown Ishinomaki
+
+According to Japan's foreign ministry, 116 countries and 28 international organizations offered assistance. Japan specifically requested assistance from teams from Australia, New Zealand, South Korea, and the United States.
+
+==Media coverage==
+File:Anti nuclear rally in Tokyo on Sunday 27 March 2011.JPG|thumb|Protesting following the disaster
+
+Japan's national public broadcaster, NHK, and JSTV|Japan Satellite Television suspended their usual programming to provide ongoing coverage of the situation. Other nationwide Japanese and international TV networks also broadcast uninterrupted coverage of the disaster. Ustream.tv|Ustream Asia broadcast live feeds of NHK, Tokyo Broadcasting System, Nippon TV, Fuji TV, TV Asahi, TV Tokyo, Tokyo MX, TV Kanagawa, and CNN on the Internet starting on 12 March 2011. YokosoNews, an Internet webcast in Japan, dedicated its broadcast to the latest news gathered from Japanese news stations, translating them in real time to English. All warnings were broadcast by NHK in five languages: Japanese, English, Mandarin, Korean and Portuguese (Japan has small Chinese, Korean and Brazilian populations).
+
+It was noted that the Japanese news media has been at times overly cautious to avoid panic and reliant on confusing statements by experts and officials.
+
+In this national crisis, the Japanese government provided Japanese Sign Language (JSL) interpreting at the press conferences related to the earthquake and tsunami. Television broadcasts of the press conferences of Prime Minister Naoto Kan and Chief Cabinet Secretary Yukio Edano included simultaneous JSL interpreters standing next to the Japanese flag on the same platform.
+
+According to Jake Adelstein, most Japanese media accepted and parroted the misinformation put out by the Japanese government and TEPCO about the unfolding Fukushima nuclear crisis. Notable exceptions, according to Adelstein, were newspapers ''Sankei Shimbun'' and ''Chunichi Shimbun'' which questioned the accuracy of the information coming from the government and TEPCO. Because of the unquestioning nature of most Japanese media to hold to the "party line", many Japanese mid-level officials and experts spoke to foreign media to get their opinions and observations publicized.
+
+Atsushi Funahashi, director of ''Nuclear Nation'' notes that "when the overseas media was calling Fukushima a ‘Nuclear meltdown|meltdown,’ the Japanese government and media waited two months before admitting it."
+
+==Scientific and research response==
+
+A large amount of data was collected that provides "the possibility to model in great detail what happened during the rupture of an earthquake."
+
+Seismologists had anticipated that the "big one" would strike the same place as the 1923 Great Kantō earthquake—in the Sagami Trough, southwest of Tokyo.
+
+== See also ==
+File:Fukushima7.png|thumb|Fukushima radiation comparison to other incidents and standards, with graph of recorded radiation levels and specific accident events.''(Note: Does not include all radiation readings from Fukushima Daini site)''
+
+* 2011 Japanese nuclear accidents
+* Aftermath of the 2011 Tōhoku earthquake and tsunami
+* Health crisis
+* Humanitarian response to the 2011 Tōhoku earthquake and tsunami
+* List of cities and towns severely damaged by the 2011 Tōhoku earthquake and tsunami
+* List of foreshocks and aftershocks of the 2011 Tōhoku earthquake
+* List of earthquakes#Largest earthquakes by magnitude|List of largest earthquakes
+* Nuclear power in Japan#Seismicity|Nuclear power in Japan, section Seismicity
+* ''Ryō Un Maru''
+* Seismicity in Japan
+** List of earthquakes in Japan
+** List of historic tsunamis
+** Seismicity of the Sanriku coast
+* Hideaki Akaiwa
+
+==Notes==
+{{Reflist
+| group="fn"
+| refs =
+{{#Tag:ref|In the early days after the earthquake some other names were proposed and used. The Japan Meteorological Agency announced the English name as '''The 2011 off the Pacific coast of Tōhoku Earthquake'''.  NHK used {{Nihongo|'''Tōhoku Kantō Great Earthquake disaster'''|东北関东大震灾|Tōhoku Kantō Daishinsai}};  {{Nihongo|'''Tōhoku-Kantō Great Earthquake'''|东北?関东大地震|Tōhoku-Kantō Daijishin}} was used by Kyodo News, Tokyo Shimbun and Chunichi Shimbun; {{Nihongo|'''East Japan Giant Earthquake'''|东日本巨大地震|Higashi Nihon Kyodaijishin}} was used by Yomiuri Shimbun, Nihon Keizai Shimbun and TV Asahi, and {{Nihongo|'''East Japan Great Earthquake'''|东日本大地震|Higashi Nihon Daijishin}} was used by Nippon Television, Tokyo FM and TV Asahi.|name="fn_1"|group="fn"}}
+}}
+{{Clear}}
+
+==References==
+{{Reflist|colwidth=30em|refs=}}
+
+==Further reading==
+*{{cite book | last = Architectural Institute of Japan (editor) | first = | title = Preliminary Reconnaissance Report of the 2011 Tohoku-Chiho Taiheiyo-Oki Earthquake | edition = | url =  | accessdate =  | year = 2012 | series= | publisher = Springer | location =  | isbn =  | issn = | OCLC =  | page = 460}}
+*{{cite book | last = Birmingham | first = Lucy | first2 = David | last2 = McNeill | title = Strong in the Rain:  Surviving Japan's Earthquake, Tsunami and Fukushima Nuclear Disaster | edition = | url =  | accessdate =  | year = 2012 | series= | publisher = Palgrave Macmillan | location =  | isbn =  | issn = | OCLC =  | page = 256}}
+
+==External links==
+{{sister project links|commons=Category:2011 Tōhoku earthquake|wikt=no|q=no|b=no|s=no|v=no|species=no|n=Category:2011 Sendai earthquake and tsunami}}
+*http://www.pbs.org/wgbh/nova/earth/japan-killer-quake.html Japan's Killer Quake - Nova (TV series)|NOVA
+* Japan Meteorological Agency seismic intensity scale|Shindo scale http://www.seisvol.kishou.go.jp/eq/shindo_db/db_map/201103/11/A20110311144600000000038000000000142540000000100000079J0000007000000_map.html map of Japan in 2011 Tōhoku earthquake from Japan Meteorological Agency (Japanese)
+* http://documentarystorm.com/nature-biology/countdown-to-catastrophe-megaquake-japan-and-beyond/ Countdown to Catastrophe: MegaQuake – Japan and Beyond (documentary)
+* http://earthquake.usgs.gov/earthquakes/recenteqsww/Quakes/usc0001xgp.php Earthquake Report from United States Geological Survey (USGS)
+* http://earthquake.usgs.gov/earthquakes/eqarchives/poster/2011/20110311.php Poster of the Great Tohoku Earthquake from United States Geological Survey (USGS)
+* http://www.ngdc.noaa.gov/hazard/honshu_11mar2011.shtml Tsunami and Water Level Data from National Geophysical Data Center (NOAA/NGDC)
+* http://supersites.earthobservations.org/sendai.php Scientific information about the Tohoku earthquake
+* {{YouTube|id=xylDxj6-9dY|title=Earthquake Swarm Google Earth Animation}}
+* http://ptwc.weather.gov/ Pacific Tsunami Warning Center at National Oceanic and Atmospheric Administration (NOAA)
+* https://community.apan.org/hadr/japan_earthquake/default.aspx Japan Earthquake 2011 All Partners Access Network (APAN)
+* http://www.esri.com/services/disaster-response/japan-earthquake-tsunami-2011-map/index.html Japan Incident Map at Esri
+* http://reliefweb.int/sites/reliefweb.int/files/resources/DE687B15F54FBFBD8525785500636B6C-map.pdf Map of Tsunami Inundation Areas in Japan from http://www.reliefweb.int/rw/rwb.nsf/db900SID/RKRR-8EZP8P?OpenDocument&rc=3&emid=EQ-2011-000028-JPN ReliefWeb
+* http://www.boston.com/bigpicture/2011/03/massive_earthquake_hits_japan.html Massive earthquake hits Japan Photos from ''The Boston Globe''
+* http://www.abc.net.au/news/events/japan-quake-2011/beforeafter.htm Japan Earthquake: before and after aerial and satellite images from ABC News, credited to http://google-latlong.blogspot.com/2011/03/post-earthquake-images-of-japan.html Post-earthquake images of Japan
+* http://www.nytimes.com/interactive/2011/03/13/world/asia/satellite-photos-japan-before-and-after-tsunami.html Satellite Photos of Japan, Before and After the Quake and Tsunami ''The New York Times''
+* http://www.disasterscharter.org/web/charter/activation_details?p_r_p_1415474252_assetId=ACT-359 Diverse satellite imagery taken under the aegis of the International Charter on Space and Major Disasters
+* http://wiki.esipfed.org/index.php/110311_JapanEarthquake 110311 JapanEarthquake at the Federation of Earth Science Information Partners (ESIP Federation)
+* http://www.google.com/crisisresponse/japanquake2011.html 2011 Japanese Earthquake and Tsunami at Google Crisis Response
+* http://wiki.crisiscommons.org/wiki/Honshu_Quake Japan Earthquake and Tsunami Datafeeds gathering and http://wiki.crisiscommons.org/wiki/Japan_Data_Profile Japan Data Profile inputs for Common Operational Datasets at CrisisCommons
+* http://reliefweb.int/rw/dbc.nsf/doc108?OpenForm&rc=3&emid=EQ-2011-000028-JPN Japan: Earthquake and Tsunami – Mar 2011 ReliefWeb
+* http://www.nytimes.com/packages/flash/newsgraphics/2011/0311-japan-earthquake-map/index.html Map of the Damage From the Japanese Earthquake ''The New York Times''
+* http://ias.umn.edu/phenomena/bat-faculty-interviews/japan-in-crisis-2011/ Japan in Crisis: A Series of Interviews with Scholars by Peter Shea at the University of Minnesota
+* http://www.sciencemag.org/site/feature/data/hottopics/japanquake/ Special: The Tohoku-Oki Earthquake, Japan – free-access scientific papers from ''Science'' magazine
+* http://www.r-bloggers.com/analysis-of-japanese-earthquakes-data/ Statistical Analysis of Japanese Earthquakes Data
+*{{Dmoz|Science/Earth_Sciences/Natural_Disasters_and_Hazards/Earthquakes/Past_Earthquakes/Sendai%2C_Japan_2011}}
+* http://www.news-world.us/pics/2011/03/11/japan-gigantic-earthquake-and-tsunami-2011/ Japan Gigantic Earthquake and Tsunami 2011
+* http://cake.fiu.edu/Tsunami/ TerraFly Timeline Aerial Imagery of 2011 Tsunami in Ishinomaki damage
+* http://e.nagasaki.mapping.jp/p/japan-earthquake.html The East Japan Earthquake Archive (Testimonies of survivors, Photographs and Videos on Google Earth)
+
+===Tsunami videos===
+;Minamisanriku, Miyagi|Minami Sanriku
+* video of tsunami, shot from Shizugawa High School (志津川高校): {{cite web |format='''video''' |url=http://www.youtube.com/watch?v=8vZR0Rq1Rfw |work=YouTube |title=南三陆町志津川高校から见た津波の様子 |trans_title=Tsunami attacking in Minami-Sanriku |language=Japanese |date=11 March 2011 |accessdate=21 April 2011| archiveurl= http://web.archive.org/web/20110422211147/http://www.youtube.com/watch?v=8vZR0Rq1Rfw| archivedate= 22 April 2011 <!--DASHBot-->| deadurl= no}} {{Coord|38.6813|141.4398|dim:10|name=location where video was shot, ±10 meters |display=inline}}
+** another video from a similar vantage point as above, showing a wider-angle view of some parts: {{cite web |format='''video''' |url=http://www.youtube.com/watch?v=omY9cwaFAy0 |work=YouTube |title=画质调整版　南三陆町　志津川 japan earthquake, tsunami |date=11 March 2011 |accessdate=26 April 2011| archiveurl= http://web.archive.org/web/20110428005750/http://www.youtube.com/watch?v=omY9cwaFAy0| archivedate= 28 April 2011 <!--DASHBot-->| deadurl= no}}{{dead link|date=February 2012}}
+* video of tsunami, shot from Shizugawa Junior High School (志津川中学校): {{cite web |format='''video''' |url=http://www.youtube.com/watch?v=jxng4VE8ptw |work=YouTube |title=南三陆町を袭った津波の一部始终 |trans_title=tsunami Minamisanriku, Miyagi, japan |language=Japanese |date=11 March 2011 |accessdate=21 April 2011| archiveurl= http://web.archive.org/web/20110422211158/http://www.youtube.com/watch?v=jxng4VE8ptw| archivedate= 22 April 2011 <!--DASHBot-->| deadurl= no}}{{dead link|date=February 2012}} {{Coord|38.6864|141.4433|dim:10|name=location where video was shot, ±10 meters |display=inline}}
+;Miyako, Iwate|Miyako
+* cars tossed and ships tipping over: {{cite web |format='''video''' |title=东北?関东地震　宫古市の港に到达した津波 |url=http://www.youtube.com/watch?v=NztouaHuCXw |work=YouTube |date=11 March 2011 |accessdate=201-04-25}}{{dead link|date=May 2012}} {{coord|39.6412|141.9573|dim:10|name=location where video was shot, ±10 meters |display=inline}}
+;Kamaishi, Iwate|Kamaishi
+* From a hillside: {{cite web |format='''video''' |url=http://www.youtube.com/watch?v=TRDpTEjumdo |work=YouTube |title=Fresh footage of huge tsunami waves smashing town in Japan |publisher=RussiaToday |language=Japanese |date=11 March 2011 |accessdate=27 April 2011| archiveurl= http://web.archive.org/web/20110428005758/http://www.youtube.com/watch?v=TRDpTEjumdo| archivedate= 28 April 2011 <!--DASHBot-->| deadurl= no}} {{coord|39.2754|141.8884|dim:10|name=location where video was shot, ±10 meters |display=inline}}
+* From the Post Office building near the waterfront: {{cite web |format='''video''' |url=http://www.youtube.com/watch?v=1ikus_TEaGI |work=YouTube |title=Caught on Tape: Tsunami hits Japan port town |publisher=CBS |date=11 March 2011 |accessdate=27 April 2011| archiveurl= http://web.archive.org/web/20110428005802/http://www.youtube.com/watch?v=1ikus_TEaGI| archivedate= 28 April 2011 <!--DASHBot-->| deadurl= no}} {{coord|39.27425|141.8887|dim:10|name=location where video was shot, ±10 meters |display=inline}}
+;Kesennuma, Miyagi|Kesennuma
+* from the waterfront: {{cite web |format='''video''' |url=http://www.youtube.com/watch?v=iQfdl7y-blE |work=YouTube |title=Japan Earthquake 2011 – Japan Tsunami 2011.mp4 |date=11 March 2011 |accessdate=27 April 2011| archiveurl= http://web.archive.org/web/20110428005804/http://www.youtube.com/watch?v=iQfdl7y-blE| archivedate= 28 April 2011 <!--DASHBot-->| deadurl= no}} {{coord|38.89155|141.5878|dim:10|name=location where video was shot, ±10 meters |display=inline}}
+;Shiogama, Miyagi|Shiogama
+* same incident as above, shot from rooftop parking lot: {{cite web |format='''video''' |url=http://www.youtube.com/watch?v=zjHLeGYxdq4 |work=YouTube |title=东北地方太平洋冲地震 津波 塩灶港.mov |date=11 March 2011 |accessdate=27 April 2011| archiveurl= http://web.archive.org/web/20110428005809/http://www.youtube.com/watch?v=zjHLeGYxdq4| archivedate= 28 April 2011 <!--DASHBot-->| deadurl= no}} {{coord|38.31897|141.02528|dim:10|name=location where video was shot, ±10 meters |display=inline}}
+;Sendai
+* spreading across farmland towards a road, near the Miyagi Prefecture Route 10 (県道10号) bridge across the Natori River: {{cite web |format='''video''' |url=http://www.youtube.com/watch?v=k4w27IczOTk |work=YouTube |publisher=Associated Press / NHK World |title=Raw Video: Tsunami Slams Northeast Japan |date=11 March 2011 |accessdate=28 April 2011| archiveurl= http://web.archive.org/web/20110429052616/http://www.youtube.com/watch?v=k4w27IczOTk| archivedate= 29 April 2011 <!--DASHBot-->| deadurl= no}} {{coord|38.182|140.952|dim:500|name=location where video was shot, ±200 meters |display=inline}}
+* Sendai Airport: cars and aircraft being washed away: {{cite web |format='''video''' |url=http://www.youtube.com/watch?v=YANatbCq9Zw |work=Asahi Shimbun |location=Japan |title=【海上保安庁提供】仙台空港を袭う津波 |language=Japanese |date=11 March 2011 |accessdate=7 May 2011| archiveurl= http://web.archive.org/web/20110507220353/http://www.youtube.com/watch?v=YANatbCq9Zw| archivedate= 7 May 2011 <!--DASHBot-->| deadurl= no}}
+;Unidentified location
+*Gross, Richard. (2011, 19 March)  “Japan Earthquake May Have Shifted Earth’s Axis” NPR online, http://www.npr.org/2011/03/18/134658880/Japan-Earthquake-May-Have-Changed-Earths-Axis
+*video of tsunami sweeping cars on the street filmed by in-car camera: {{cite web |format='''video''' |url=http://www.youtube.com/watch?v=YANatbCq9Zw |title=津波にのまれた车载カメラ – 20110616放送 NEWS ZERO}}
+* http://www.r-bloggers.com/analysis-of-japanese-earthquakes-data/ Analysis of Japanese Earthquakes Data
+*http://www.preventionweb.net/english/professional/news/tags/index.php/pw:jpnearthquake2011/Great%20East%20Japan%20Earthquake%202011/ PreventionWeb Great East Japan Earthquake 2011 
+
+{{2011 Tōhoku earthquake and tsunami}}
+{{Earthquakes in 2011}}
+{{JapanTrenchMegathrust}}
+{{Earthquakes in Japan}}
+
+{{DEFAULTSORT:2011 Tohoku Earthquake And Tsunami}}
+Category:2011 Tōhoku earthquake and tsunami| 
+Category:2011 earthquakes|Tohoku
+Category:2011 in Japan|Earthquake
+Category:21st-century tsunamis
+Category:Coasts of Japan
+Category:Civilian nuclear power accidents
+Category:Midway Atoll
+Category:History of Tokyo
+Category:Megathrust earthquakes in Japan
+Category:2011 natural disasters in the United States|Tohoku
+Category:Natural disasters in British Columbia
+Category:Natural disasters in California
+Category:Natural disasters in Hawaii
+Category:Natural disasters in Oregon
+Category:Natural disasters in Papua New Guinea
+Category:Natural disasters in Peru
+Category:Natural disasters in Washington (state)
+Category:Nuclear energy in Japan
+Category:Postwar Japan
+Category:Sendai
+Category:Tōhoku region
+Category:Tsunamis in Chile
+Category:Tsunamis in Japan
+Category:Tsunamis in the United States
+
+{{Link FA|ms}}

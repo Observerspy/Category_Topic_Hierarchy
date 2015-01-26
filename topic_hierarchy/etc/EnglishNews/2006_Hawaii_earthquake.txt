@@ -1,0 +1,83 @@
+{{Earthquake
+| title = 2006 Hawaii earthquake
+| date = {{Start date|2006|10|15|mf=y}}
+ | map2 = {{Location map | USA Hawaii
+ | relief = yes
+ | label =
+ | lat = 19.820
+ | long = -156.027
+ | mark = Bullseye1.png
+ | marksize = 40
+ | position = top
+ | width = 250
+ | float = right
+ | caption = }}
+| magnitude = 6.7 Moment magnitude scale|M<sub>w</sub>
+| depth = {{convert|29|km|mi|0|sp=us}}
+| location = {{Coord|19.820|N|156.027|W|}}
+| countries affected = Hawaii, United States
+| casualties = No reported deaths 
+}}
+
+The '''2006 Hawaii earthquake''' was an offshore earthquake occurring {{convert|21|km|sp=us}} southwest from Puakō, Hawai'i|Puakō and {{convert|21|km|abbr=on}} north of Kailua-Kona, Hawaii (island)|Hawai{{okina}}i, just offshore of the Kona Airport, on Sunday October 15, 2006, at 7:07:49 AM local time (17:07:49 (UTC)). It measured 6.7 on the moment magnitude scale, and was located at {{Coord|19.820|N|156.027|W|}}, at a depth of {{convert|29|km|mi|abbr=on}}.  It produced several aftershocks, including one that measured a magnitude of 6.1 seven minutes after the main shock.  The Pacific Tsunami Warning Center measured a four-inch (102&nbsp;mm)  tsunami on the coast of the Big Island.
+
+Mercalli intensity scale|Modified Mercalli Intensity was measured at Force VII-VIII on the western side of the island of Hawaii, and Force VI on eastern Maui. Force V shaking intensity was felt all the way to Oahu, where patches of moderate damage were reported.
+
+The earthquake caused property damage, injuries, landslides, power outages, and airport delays and closures.
+
+==Damage==
+File:USGS Shakemap - 2006 Hawaii earthquake.jpg|thumb|left|USGS ShakeMap for the 2006 Hawaii earthquake
+
+The most severe damage caused by the earthquake was focused on the north and western sides of the island of Hawaii. Damage was also quite heavy on the eastern side of Maui, and minor damage spread all the way out to western Oahu, {{convert|170|mi|km}} away from the earthquake's epicenter. On the Hawaii (island)|Big Island, many houses had large cracks and broken windows, and at least 61 buildings were destroyed and Red-tagged structure|red-tagged by officials. Almost all houses in west Hawaii reported extensive internal damage but most avoided significant structural damage, the reason being that most of the buildings in the area around the epicenter of the earthquake have been built in the last few decades and are well constructed. Even so, over $200 million in damage occurred.
+
+The largest and most luxurious hotels on the Island of Hawaii also happened to be clustered within ten miles (16&nbsp;km) of the earthquake's epicenter along the Kohala coast. The 1965 Mauna Kea Beach Hotel had its entire south end collapse, and the hotel's top floor was considered "destroyed." The hotel closed December 1 after a month-long inspection revealed that the building was unsafe and in danger of collapse. After a $150 million renovation, the hotel reopened in December, 2008.  The Hapuna Prince Hotel was temporarily evacuated after the earthquake due to structural damage, broken glass and flooding caused by broken water pipes.
+
+Many roads and bridges collapsed or had deep cracks, and clean-up crews had to work for days to remove debris from the countless landslides. Many landmarks on the island were greatly affected. The Kalahikiola Congregational Church in Kohala, Hawaii|Kohala was destroyed due to the collapse of the church's stone walls; the Hawi smoke stack, a relic of the old sugarcane trade, completely collapsed as well. The Hulihee Palace in Kailua-Kona, Hawai'i|Kailua Kona suffered extensive structural damage. Another popular tourist area, Kealakekua Bay, home of the white monument to Captain Cook|Captain James Cook, was swept over by massive landslides that caused the entire bay and its surrounding areas to momentarily disappear in a thick cloud of brown dust.
+
+Image:2006 Hawaii earthquake.JPG|thumb|Cliff falling in Waipio Valley during the earthquake
+
+After the earthquake, the owners of the Kohala Ditch – the Surety Kohala Corporation – finished an evaluation of the damage to, and future safety of, the “Ditch”.  They determined that they could not repair the ditch to allow the flumin' the ditch tours to continue safely; the tours have been discontinued. Over 150,000 people in the 10 years prior had enjoyed this {{convert|22|mi|km|sing=on}} kayaking tour down old irrigation ditches.
+
+===Mauna Kea Observatory===
+{{main|Mauna Kea Observatory}}
+
+During the earthquake and aftershocks, a number of the telescopes at the Mauna Kea Observatory sustained minor damage, primarily Keck telescopes|Kecks 1 and 2, and the CFHT.  The CFHT was operational and back online as of October 19, however the Kecks were not restored to full operation until February 28, 2007.
+
+===Blackouts===
+Power plants on Maui and the Big Island automatically shut off power to prevent damage, and generators tripped on Oahu, causing overloads in the electrical grid.  The Oahu power outages lasted 14 hours in some locations; only half of Hawaiian Electric Company|Hawaiian Electric Company's (HECO) Oahu customers had power restored before 9 pm, while outages generally lasted to about 5 pm on Maui and Hawaii. Power was restored to all HECO circuits by 1:55 am; however, there were isolated blackouts due to local problems, such as blown fuses. Power in Laie and Kahuku was not restored until 3 am.  In Honolulu and Kahe, HECO generators shut down, and other generators tried to compensate, resulting in uneven loads on Oahu's electrical network and causing the system to shut down to prevent damage.
+
+==Political reaction==
+{{Update|date=April 2010}}
+Democratic and Republican representatives were angered by the length of the power failure, calling for an investigation into proposed legislation to  speed up blackout recovery. Governor Linda Lingle and some Hawaii State Senators said that Carlito Caliboso, chairman of the Public Utilities Commission, had been asked to research the outage and decide whether to begin a formal investigation.
+
+==Images==
+<gallery>
+Image:CRW_9000_RT16.jpg|Keokea Beach Park pavilion
+File:Hulihee Palace south wall.JPG|Hulihee Palace South wall, January 2007
+Image:Huihee Palace after 2006 earthquake.jpg|Earthquake damage at the Hulihee Palace in January 2007
+</gallery>
+
+==See also==
+{{Commons category|2006 Hawaii earthquake}}
+*List of earthquakes in the United States
+
+==References==
+{{Reflist|30em|refs=
+
+}}
+
+==External links==
+{{Wikinews|6.7 magnitude quake shakes Hawaii}}
+* http://www.msnbc.msn.com/id/15278030/ Report on the declaration of a state of emergency
+* http://earthquake.usgs.gov/eqcenter/eqinthenews/2006/ustwbh/ USGS Preliminary Earthquake Report
+* http://www.msnbc.msn.com/id/15400920/ Historic Palace Damaged, but Blessed
+* http://www.insurancejournal.com/news/west/2006/10/27/73645.htm Hawaii County Cuts Red Tape for Big Island Repairs
+* http://the.honoluluadvertiser.com/article/2006/Oct/26/br/br2405839176.html Parts of Kealakekua Bay State Historical Park Closed
+
+{{Earthquakes in 2006}}
+
+{{DEFAULTSORT:2006 Hawaii Earthquake}}
+Category:2006 earthquakes|Hawaii earthquake
+Category:2006 natural disasters in the United States|Hawaii earthquake
+Category:Earthquakes in Hawaii
+Category:2006 in Hawaii

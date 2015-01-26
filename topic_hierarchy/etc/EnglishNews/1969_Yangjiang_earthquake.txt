@@ -1,0 +1,44 @@
+{{Use dmy dates|date=November 2011}}
+{{Earthquake
+|title= 1969 Yangjiang earthquake
+|date= {{Start-date|df=yes|25 July 1969}}
+|map2 = {{Location map many | China Guangdong
+ | caption= <!-- leave blank -->
+ | lat=21.61
+ | long=111.83
+ | mark=Bullseye1.png
+ | marksize=40
+ | position=top
+ | label2=Hong Kong
+ | lat2=22.27833
+ | long2=114.158889
+ | position=right
+ | width= 250
+ | float=right
+ }}
+|magnitude = 6.4 Moment magnitude scale|M<sub>w</sub>
+|depth=10 km
+|intensity=VIII
+|location={{coord|21.61|111.83|display=inline,title}}
+|countries affected = China, Yangjiang
+|casualties = 3,000
+}}
+The '''1969 Yangjiang earthquake''' occurred on 26 July, at 6:49&nbsp;am, Beijing local time (25 July 22:49 Coordinated Universal Time|UTC). It had a magnitude of 6.4 on the Moment magnitude scale and a maximum perceived intensity of VIII (destructive) on the Mercalli intensity scale It struck the city of Yangjiang and caused over 10,700 houses to collapse, severely damaging a further 36,000. The earthquake also caused landslides and sandblows were observed along the coast and along some rivers in the area of Yangjiang. The earthquake was also felt in Hong Kong. There were an unconfirmed total of 3,000 deaths.
+
+==Tectonic setting==
+Guangdong|Guangdong Province lies in a tectonically stable part of China, which has relatively low seismicity. The area forms part of the passive margin between the  continental crust of China and the oceanic crust of the northern part of the South China Sea. Within the stable South China Block, there are three zones of higher earthquake activity, one of which is the Southeast China Coast seismic zone running through Guangdong and Fujian Provinces. This zone follows the South China Maritime Fold Belt, which was formed by a subduction event during the Late Jurassic to Early Cretaceous epochs. The area is currently in a compressive stress regime with the maximum horizontal stress orientated northwest-southeast. This results from a combination of the continuing Continental collision|collision between the Indian Plate|Indian and Eurasian Plates and the subduction of the Philippine Sea Plate.
+
+==Earthquake==
+The earthquake occurred on a steeply-dipping fault Strike and dip|striking nearly east-west. The focal mechanism shows mainly dextral (right lateral) Fault (geology)#Strike-slip faults|strike-slip faulting. The magnitude and number of the recorded foreshocks and aftershocks were unusually small, considering the size of the mainshock.
+
+==Damage==
+The epicentral area lay mostly in Yangjiang County, affecting an area measuring 19&nbsp;km by 10&nbsp;km, elongated west to east. In the whole county, a total of 10,762 houses were completely destroyed, a further 35,965 were severely damaged and another 90,840 suffered some damage. In Xinyi, Guangdong|Xinyi about 1,200 houses suffered some damage and several were destroyed. The earthquake was also strongly felt in Fengkai County|Fengkai, Huaiji County|Huaiji, Xinzhong, Deqing County, Guangdong|Deqing, Zhaoqing, Yunan County|Yunan, Zengcheng, Gaohe and Panyu District|Panyu, although there was no serious damage in these areas. Minor damage was also reported in Hong Kong. A report of 3,000 casualties caused by this earthquake is described as "unconfirmed".
+
+==References==
+{{reflist|colwidth=30em}}
+
+{{Earthquakes in China}}
+
+Category:1969 earthquakes|Yangjiang Earthquake, 1969
+Category:Earthquakes in China
+Category:1969 in China

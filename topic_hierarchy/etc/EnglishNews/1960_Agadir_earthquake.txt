@@ -1,0 +1,85 @@
+{{Infobox earthquake
+| title = 1960 Agadir earthquake
+| date = {{start-date|February 29, 1960|February 29, 1960}}
+| origintime = 23:40 UTC
+| map2 = {{Location map | Morocco
+| relief = 1
+| label =
+| lat = 30.4
+| long = -9.6
+| mark = Bullseye1.png
+| marksize = 40
+| position = top
+| width= 250
+| float = right
+| caption = }}
+| duration = < 15 seconds 
+| magnitude = 5.7 Moment magnitude scale|M<sub>w</sub> 
+| depth = 2 – 3 km 
+| location = {{coord|30.5|-9.6|display=inline, title}} 
+| countries affected = Morocco
+| foreshocks = Feb 23 (MM III) <br> Feb 29 (MM VI) 
+| aftershocks = March 22 (MM VI) <br> April 17 (MM VI) 
+| intensity = {{nowrap|X – XI (''Devastating'' - ''Extreme'') }}
+| casualties = ~ 12,000 deaths <br> ~ 12,000 injured }}
+
+The '''1960 Agadir earthquake''' occurred on Monday, February 29 at 23:40 Western European Time (UTC+00:00). Despite its moderate Moment magnitude scale|moment magnitude of 5.7, its maximum perceived intensity was X – XI (''Devastating'' to ''Extreme'') on the Mercalli intensity scale. Around 12,000 people (about a third of the city's population of the time) were killed and another 12,000 injured with at least 35,000 people left homeless, making it the most destructive and deadliest earthquake in Morocco|Moroccan history. The earthquake's shallow hypocenter|focus, close proximity to the port city of Agadir, and unsatisfactory construction methods were all reasons declared by earthquake engineers and seismologists as to why it was so destructive.
+
+== Earthquake ==
+{{see also|List of 20th-century earthquakes}}
+
+While the shock was recorded by seismographs around the world, few of these stations were close enough to the scene to locate the epicenter with high accuracy, but with what information was available the instrumental location was determined to have been {{convert|8|km|sp=us}} to the north-northwest of the Kasbah. Macroseismic observations (establishing the locations with the highest observed instensity) placed the epicenter about {{convert|1|km|sp=us}} north of Yachech. A sequence of minor foreshocks preceded the main event. The first shock occurred on February 23 with an intensity of III or IV (''Slight'' to ''Moderate'') and on the day of the disaster, a more significant foreshock with an intensity of VI (''Strong'') caused alarm around the lunchtime hour.
+
+The mainshock took place on the third day of the Muslim observance of Ramadan, immediately collapsing many hotels, apartments, markets, and office buildings. Underground water mains broke and sewer systems crumbled. The Kasbah, a dilapidated fortress which had stood for centuries, crumbled on the side of a hill. With no water pressure and most fire stations having collapsed (killing their occupants) many fires were left burning in the resort city of Agadir with few firefighters and resources to fight them. With nearly seventy percent of the city in ruins, no rescue operations were able to be initiated or arranged from within Agadir. By morning the French army and sailors from the United States Sixth Fleet approached the coast, anchored, and prepared for the rescue process.
+
+British author Gavin Maxwell was staying in Morocco at the time of the disaster and his book ''The Rocks Remain'' opens with a vivid description drawn from his own experiences and those of others in the area, including important personages in the Moroccan government who numbered among his friends.
+
+=== Response ===
+{{see also|French aircraft carrier La Fayette (R96)}}
+
+Mohammed V of Morocco|Mohammed V broadcast a request that all cities of Morocco prepare and send aid. He and his son, Crown Prince Moulay Hassan, flew to the area along with several cabinet ministers to observe the impact firsthand. In his role as Imam, he gave special dispensation to rescue workers to set aside the requirement to abstain from food and drink during daylight in Ramadan, but many workers nevertheless continued to fast.
+
+Upon arrival, Rear Admiral Frank Akers (commander of the U.S. fleet air arm in the eastern Atlantic and Mediterranean) toured the scene and reported that the Agadir hospital was in ruins. One of the many victims of the disaster was author and lawyer Lord Maugham (Robin Maugham, nephew of British author W. Somerset Maugham). He was treated at a hospital in Casablanca for minor injuries he received while at the Saada resort when it collapsed — he had been trapped under a fallen beam for several hours. The city of Agadir was evacuated two days after the earthquake in order to avoid the spread of disease.
+
+File:USGS Shakemap - 1960 Agadir, Morocco earthquake.jpg|thumb|USGS ShakeMap showing the intensity of the earthquake
+
+The rescue work was hampered both by the level of destruction and by the weather — temperatures were unusually high for the time of year, reaching 104 degrees F (40 deg C) in the shade. Rapid putrefaction of the thousands of corpses created a foul and unhealthy atmosphere, and adherence to the Ramadan fast caused further strain on rescue workers. Many victims also refused medical treatment, believing that to accept it would constitute breaking their fast. Rescue workers were equipped with gas masks, and quicklime was spread over areas where rescue was considered hopeless, to destroy the rotting corpses — the risk of killing buried survivors as well being accepted. Disinfectant and DDT were sprayed over the ruins from lorries and helicopters to control disease and kill the swarms of flies which were attracted to the scene. The ruins also became infested by rats from the destroyed sewer network and rat poison was spread to kill them; larger animals, such as stray dogs and cats which fed on the human corpses, were shot. Looters were also attracted to the destruction; they were shot on sight and their bodies dumped in mass graves along with those of the victims. These measures were viewed as callous and brutal by those remote from the scene, but given the scale of the destruction and the rapid infestation of the ruins by potential carriers of disease, drastic measures were necessary in order to prevent still further loss of life from epidemic.
+
+=== Damage ===
+{{see also|Earthquake engineering}}
+
+Construction in Agadir progressed rapidly between 1945 and 1955, with specific conditions that may have contributed to the high degree of destruction. Challenging designs were often undertaken with untrained workers, and a lack of good supervision was typical, along with an accelerated effort to finish the job. As there had been no serious earthquakes prior to 1960, construction in the city had been done without consideration of seismic activity. Masonry buildings of more than one story did not fare well, but reinforced concrete structures varied dramatically in their response. For example, some of the highest of this type collapsed completely, while a good number of them resisted the shock well, and some others escaped damage altogether. In most cases of complete collapse, the design of the buildings lacked with respect to building regulations, as these were not a primary concern of the architects and inadequate enforcement of the ordinances was also a factor.
+
+Many quarters of the city consisted entirely of buildings constructed from rammed earth|pisé. These had essentially zero earthquake resistance and disintegrated completely into dust. In these areas rescue work was impossible and survival rates were negligible; for example, in the Talbourdjt area, out of 5000 inhabitants fewer than ten survived.
+
+=== Tsunami ===
+{{see also|List of historic tsunamis}}
+
+The March 2, 1960 edition of the ''Los Angeles Times'' described how a tsunami was reported to have come ashore shortly after the earthquake, stating "A tidal wave curled in across the white beaches and lanced 300 yd. into the town. The city dock was cut in two, a Spanish shipmaster radioed." 
+
+== References ==
+{{reflist|30em|refs=
+
+
+
+
+}}
+
+;Sources
+{{refbegin}}
+* {{citation|title=The Earthquake of Agadir, Morocco|author=AISE|year=1962|edition=1st|publisher=American Iron and Steel Institute|asin=B000H5AJDG}}
+{{refend}}
+
+== External links ==
+* http://web.archive.org/web/20060818155723/http://dailyheadlines.uark.edu/images/hotelsaadabeforeandafter.jpg A hotel, before and after the earthquake
+* http://news.bbc.co.uk/onthisday/hi/dates/stories/february/29/newsid_3829000/3829809.stm Thousands dead in Moroccan earthquake – BBC News
+* http://www.nfb.ca/film/once_agadir ''Once... Agadir'', a 1971 documentary film about the Agadir earthquake
+* http://www.agadir1960.com Agadir en 1960 et le tremblement de terre du 29 février 1960 {{fr icon}}
+* http://www.pbase.com/beunard/agadir_earthquake Pictures of the earthquake
+* http://earthquake.usgs.gov/regional/world/events/1960_02_29.php Historical earthquakes - Agadir, Morocco – United States Geological Survey
+
+{{DEFAULTSORT:1960 Agadir Earthquake}}
+Category:History of Agadir|E
+Category:Earthquakes in Morocco|1960 Agadir
+Category:1960 earthquakes|Agadir earthquake, 1960
+Category:1960 in Morocco|Agadir Earthquake, 1960

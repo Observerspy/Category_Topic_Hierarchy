@@ -1,0 +1,334 @@
+{{Use dmy dates|date=July 2013}}
+{{Infobox election
+| election_name = German federal election, 2009
+| country = Germany
+| type = parliamentary
+| ongoing = no
+| previous_election = German federal election, 2005
+| previous_year = 2005
+| next_election = German federal election, 2013
+| next_year = 2013
+| seats_for_election = All 598 seats (plus 24 overhangs) in the [[Bundestag]] <br> 312 seats were needed for a majority
+| election_date      = {{Start date|df=yes|2009|09|27}}
+| turnout = 70.8% (voting eligible)<ref name="Voter turnout 2009">{{cite web|title=Voter turnout by election year|url=http://www.bundeswahlleiter.de/en/glossar/texte/Wahlbeteiligung.html|website=Website of the Federal Returning Officer's Office|publisher=The Federal Returning Officer|accessdate=7 November 2014}}</ref>
+
+<!--      CDU/CSU      -->
+| image1 = [[File:Angela Merkel Bundestagwahl 2009 CDU,CSU.jpg|170x170px]]
+| leader1 = [[Angela Merkel]]
+| party1 = CDU/CSU
+| leaders_seat1 =[[Stralsund – Nordvorpommern – Rügen (electoral constituency)|Stralsund – Rügen]]
+| last_election1 = 226 seats
+| seats1 = 239
+| seat_change1 = {{increase}}13
+| popular_vote1 = 14,658,515
+| percentage1 = 33.8%
+| swing1 = {{decrease}}1.4
+
+<!--      SPD   -->
+| image2 = [[File:Frank-Walter Steinmeier 20090902-DSCF9761.jpg|170x170px]] 
+| leader2 = [[Frank-Walter Steinmeier]]
+| party2 = Social Democratic Party of Germany
+| last_election2 = 222 seats
+| leaders_seat2 =[[Brandenburg an der Havel – Potsdam-Mittelmark I – Havelland III – Teltow-Fläming I|Brandenburg an der Havel]]
+| seats2 = 146
+| seat_change2 = {{decrease}}76
+| popular_vote2 = 9,990,488
+| percentage2 = 23.0%
+| swing2 = {{decrease}}11.2
+
+<!--      FDP   -->
+| image3 = [[File:Guido westerwelle.jpg|170x170px]]
+| leader3 = [[Guido Westerwelle]]
+| party3 = Free Democratic Party (Germany)
+| last_election3 = 61 seats
+| leaders_seat3=[[North Rhine-Westphalia]]
+| seats3 = 93
+| seat_change3 = {{increase}}32
+| popular_vote3 = 6,316,080
+| percentage3 = 14.6%
+| swing3 = {{increase}}4.8
+
+<!--      Left   -->
+| image4 = [[File:Gregor Gysi Bundestagwahl 2009 Die Linke.jpg|170x170px]] 
+| leader4 = [[Gregor Gysi]]
+| party4 =The Left (Germany)
+|leaders_seat4 = [[Berlin Treptow – Köpenick (electoral district)|Berlin Treptow – Köpenick]]
+| last_election4 = 54 seats
+| seats4 = 76
+| seat_change4 = {{increase}}22
+| popular_vote4 = 5,155,933
+| percentage4 = 11.9%
+| swing4 = {{increase}}3.2
+
+<!--      Greens   -->
+| image5 = [[File:Trittin juergen hamm.jpg|170x170px]] 
+| leader5 = [[Jürgen Trittin]]
+| party5 = Alliance '90/The Greens
+|leaders_seat5 = [[Berlin]]
+| last_election5 = 51 seats
+| seats5 = 68
+| seat_change5 = {{increase}}17
+| popular_vote5 = 4,643,272
+| percentage5 = 10.7%
+| swing5 = {{increase}}2.6
+<!--    Parties  End -->
+
+| map_image = German Federal Election - Party list vote results by state - 2009.png
+| map_size = 180px
+| map_caption = [[Party list]] election results by state: blue denotes states where [[CDU/CSU]] had the plurality of votes; purple denotes states where [[Die Linke]] had the plurality of votes; and pink denotes states where the [[SPD]] had the plurality of votes
+| title = [[Chancellor of Germany (Federal Republic)|Chancellor]]
+| posttitle = Elected Chancellor
+| before_election = [[Angela Merkel]]
+| before_party = CDU/CSU
+| after_election = [[Angela Merkel]]
+| after_party = CDU/CSU
+}}
+
+'''German federal elections''' took place on 27 September 2009 to elect the members of the [[Bundestag]], the federal [[parliament]] of Germany.<ref>{{cite news |first= |last= |authorlink= |coauthors= |title=Der Wahltermin für die Bundestagswahl 2009 |url=http://www.bundeswahlleiter.de/de/bundestagswahlen/BTW_BUND_09 |work=[[Federal Returning Officer|Der Bundeswahlleiter]] |publisher= |date= |accessdate= 5 January 2009}}</ref>  Preliminary results showed that the [[Christian Democratic Union (Germany)|Christian Democratic Union]] (CDU), its [[Bavaria]]n sister party, the [[Christian Social Union of Bavaria|Christian Social Union]] (CSU), and the [[Free Democratic Party (Germany)|Free Democratic Party]] (FDP) won the election, and the three parties announced their intention to form a new centre-right government with [[Angela Merkel]] as [[Chancellor of Germany|Chancellor]]. Their main opponent, [[Frank-Walter Steinmeier]]'s [[Social Democratic Party of Germany|Social Democratic Party]] (SPD), conceded defeat.<ref>{{cite news |date=27 September 2009 |url=http://www.telegraph.co.uk/news/worldnews/europe/germany/6237210/Merkels-rival-concedes-defeat-in-German-election.html |title=Merkel's rival concedes defeat in German election |publisher=Telegraph |accessdate=28 September 2009 | location=London}}</ref>  The Christian Democrats previously governed in coalition with the FDP in most of the 1949–1966 governments of [[Konrad Adenauer]] and [[Ludwig Erhard]] and the 1982–1998 governments of [[Helmut Kohl]].
+
+==Campaign==
+
+Since the [[German federal election, 2005|2005 election]], Chancellor Angela Merkel (CDU) had governed in a [[grand coalition]] with the SPD. However, it was her stated goal to win a majority for CDU/CSU and FDP (the CDU/CSU's traditional coalition partner) in 2009.
+
+Foreign minister and [[Vice-Chancellor of Germany|Vice Chancellor]] [[Frank-Walter Steinmeier]] (SPD) was formally nominated as his party's chancellor-candidate at a convention on 18 October 2008.<ref>{{cite news |first= |last= |authorlink= |coauthors= |title=Frank-Walter Steinmeier zum SPD-Kanzlerkandidaten gewählt |url=http://www.spd.de/menu/1759371 |work=[[Social Democratic Party of Germany|Sozialdemokratische Partei Deutschlands]] |publisher= |date=18 October 2008 |accessdate= }} {{Dead link|date=March 2012}}</ref> He aimed to form a government in which the SPD was the strongest party, but which also excluded the left-socialist party [[The Left (Germany)|The Left]].{{Citation needed|date=March 2012}}
+
+The election campaign was considered exceptionally boring,<ref>{{cite web |url=http://www.spiegel.de/international/germany/0,1518,651614,00.html |title=Apathy in Germany: Record Low Voter Turnout Expected in National Election |work=[[Der Spiegel]] |date=25 September 2009 |accessdate=27 September 2009}}</ref> which may be attributable to a perceived lack of charisma on the part of the leaders of the CDU and SPD.<ref>{{cite news |url=http://news.bbc.co.uk/2/hi/europe/8256413.stm |title='Merkel factor' could decide German vote |date=17 September 2009 |accessdate=27 September 2009 |work=BBC News}}</ref> Another reason pointed to for the sedate campaign is that the CDU and SPD both defended the record of their grand coalition, as well as facing the possibility of having to continue the grand coalition in a friendly manner.<ref>{{cite web |url=http://socialistworker.org/2009/09/25/left-german-elections |title=The left in the German elections |date=25 September 2009 |accessdate=27 September 2009 |work=[[Socialist Worker]] Online}}</ref> Merkel was content with the low-key campaign style, which was largely seen as benefiting her party because of her high approval ratings.<ref>{{cite news |url=http://www.latimes.com/news/nationworld/world/la-fg-germany-election27-2009sep27,0,6021371.story?track=rss |title=German election a yawner for voters |date=27 September 2009 |accessdate=27 September 2009 |work=[[Los Angeles Times]] | first=Henry | last=Chu}}</ref>
+
+One of the lighter moments in the campaign came when CDU candidate [[Vera Lengsfeld]] released a campaign poster featuring herself and Merkel in a way that emphasised their [[cleavage (breasts)|cleavage]]. The poster bore the slogan "We have more to offer" (German: "''Wir haben mehr zu bieten''").<ref>{{cite web |title=German Politician Uses Merkel's Cleavage to Woo Voters |date=11 August 2009 |accessdate=28 September 2009 |url=http://www.spiegel.de/international/germany/0,1518,641787,00.html}}</ref>
+
+The federal election was the final and most important election in what is called a ''Superwahljahr'' (super election year) in Germany. In addition to the election of a new Bundestag, also scheduled for 2009 were the election to the [[European Parliament]] on 7 June, seven [[local election]]s on the same day, five [[Elections in Germany#State elections in the Federal Republic of Germany|state elections]] and an additional local election in August and  September  and the [[German presidential election, 2009|election]] of the [[President of Germany]] by the [[Bundesversammlung (Germany)|Federal Assembly]] on 23 May.
+
+==Opinion polls==
+
+The CDU/CSU and FDP, with an average vote share of around 50% in pre-election polling during the weeks before the election, were clearly ahead of the other traditional coalition partners in Germany, SPD and the [[Alliance '90/The Greens|Greens]].<ref>{{cite web| url=http://www.abehnisch.com/btw09.html |publisher=Alexej Behnisch |accessdate=21 July 2009 |date=17 July 2009 |title=Opinion Poll Tracker Bundestagswahl 2009 Germany's Federal Election}}</ref>
+
+{| class="wikitable sortable"
+|- class="hintergrundfarbe5" style="text-align:center"
+! style="text-align:left;" |Institute
+! style="text-align:left;" |Date
+! class="unsortable" style="width:4em" | [[Christian Democratic Union (Germany)|CDU]]/[[Christian Social Union of Bavaria|CSU]]
+! class="unsortable" style="width:4em" | [[Social Democratic Party of Germany|SPD]]
+! class="unsortable" style="width:4em" | [[Alliance '90/The Greens|Greens]]
+! class="unsortable" style="width:4em" | [[Free Democratic Party (Germany)|FDP]]
+! class="unsortable" style="width:4em" | [[The Left (Germany)|The Left]]
+! class="unsortable" style="width:4em" | Others
+|-  class="hintergrundfarbe2" style="text-align:center"
+| style="text-align:left" |Forschungsgruppe Wahlen<ref name="Wahlumfragen-Link" />
+| 18 Sept
+| 36%
+| 25%
+| 10%
+| 13%
+| 11%
+| 5%
+|-  class="hintergrundfarbe2" style="text-align:center"
+| style="text-align:left" |Forsa
+| 16 Sept
+| 37%
+| 24%
+| 11%
+| 12%
+| 10%
+| 6%
+|-  class="hintergrundfarbe2" style="text-align:center"
+| style="text-align:left" |Allensbach
+| 16 Sept
+| 36%
+| 22.5%
+| 12%
+| 12.5%
+| 12%
+| 6%
+|-  class="hintergrundfarbe2" style="text-align:center"
+| style="text-align:left" |Forschungsgruppe Wahlen<ref name="Wahlumfragen-Link" />
+| 11 Sept
+| 36%
+| 23%
+| 11%
+| 14%
+| 11%
+| 5%
+|-  class="hintergrundfarbe2" style="text-align:center"
+| style="text-align:left" |Infratest dimap<ref name="Wahlumfragen-Link" />
+| 10 Sept
+| 35%
+| 23%
+| 12%
+| 14%
+| 12%
+| 4%
+|- class="hintergrundfarbe2" style="text-align:center"
+| style="text-align:left" |[[Allensbach Institute|Allensbach]]<ref>[http://www.faz.net/s/Rub4D6E6242947140018FC1DA8D5E0008C5/Doc~EAB7357638589470496F63602B8BE2E6D~ATpl~Ecommon~Scontent.html?rss_politik Allensbach-Umfrage: Vorsprung für Schwarz-Gelb schrumpft.] FAZ.NET,  9 September 2009</ref>
+| 9 Sept
+| 35%
+| 22.5%
+| 13%
+| 13%
+| 11.5%
+| 5%
+|- style="text-align:center"
+| style="text-align:left" |Forschungsgruppe Wahlen<ref name="Wahlumfragen-Link">{{cite web|url=http://www.wahlrecht.de/umfragen/index.htm |title=Sonntagsfrage&nbsp;– Umfragen zur Bundestagswahl (Wahlumfrage, Wahlumfragen) |publisher=Wahlrecht.de |date= |accessdate=28 September 2009}}</ref>
+| 4 Sept
+| 37%
+| 23%
+| 11%
+| 15%
+| 10%
+| 4%
+|- style="text-align:center"
+| style="text-align:left" |Emnid<ref name="Wahlumfragen-Link" />
+| 3 Sept
+| 34%
+| 26%
+| 11%
+| 14%
+| 11%
+| 4%
+|-  style="text-align:center"
+| style="text-align:left" |INFO GmbH<ref name="Wahlumfragen2-Link">{{cite web|url=http://www.wahlrecht.de/umfragen/weitere-umfragen.htm |title=Sonntagsfrage&nbsp;– Umfragen zur Bundestagswahl weiterer Institute |publisher=Wahlrecht.de |date= |accessdate=28 September 2009}}</ref>
+| 2 Sept
+| 35%
+| 23%
+| 12%
+| 14%
+| 11%
+| 4%
+|- style="text-align:center"
+| style="text-align:left" |[[Allensbach Institute|Allensbach]]<ref name="Wahlumfragen-Link" />
+| 1 Sept
+| 35.5%
+| 23%
+| 13.5%
+| 14%
+| 9.5%
+| 4.5%
+|-  class="hintergrundfarbe2" style="text-align:center"
+| style="text-align:left" |GMS<ref name="Wahlumfragen-Link" />
+| 24 Aug
+| 37%
+| 23%
+| 13%
+| 13%
+| 9%
+| 5%
+|}
+
+==Results==
+[[File:Bundestag Wahlkreise 2009 Erststimmenmehrheit.svg|thumb|right|Parliamentary districts won by<br>
+<span style="color:#000000;">■</span> – CDU
+<span style="color:#00008B;">■</span> – CSU
+<span style="color:#FF0000;">■</span> – SPD
+<span style="color:#C71585;">■</span> – The Left
+<span style="color:#32CD32;">■</span> – Greens]]
+[[File:Bundestagswahl2009 Zweitstimmen.svg|right|thumb|Party list results by constituency]]
+The [[Christian Democratic Union of Germany|Christian Democratic Union]] (CDU), the [[Christian Social Union of Bavaria]] (CSU), and the  [[Free Democratic Party (Germany)|Free Democratic Party]] (FDP) were able to form a centre-right government, with [[Angela Merkel]] of the CDU continuing as the [[Chancellor of Germany|Chancellor]] and the leader of the FDP, [[Guido Westerwelle]], becoming [[Foreign Minister of Germany|Foreign Minister]] and [[Vice-Chancellor of Germany|Vice-Chancellor]].<ref>{{cite news|url=http://www.bloomberg.com/apps/news?pid=20601087&sid=acOIBUgWZgQ4 |title=Merkel’s FDP Coalition Partner Approves Four-Year Policy Plan | work=Bloomberg | date=25 October 2009}}</ref>
+
+The CDU/CSU received a slightly lower proportion than in the previous election, with the Bavarian CSU receiving its lowest vote share in decades.<ref>{{cite web |url=http://www.spiegel.de/international/germany/0,1518,651688,00.html |title=Boost for the FDP: The German Election's Biggest Winner |date=28 September 2009 |accessdate=28 September 2009 |work=[[Der Spiegel]] Online}}</ref> Overall, the CDU/CSU had their worst vote share in 60 years<ref>[http://www.economist.com/world/europe/displayStory.cfm?story_id=14530467&source=features_box_main The Economist, 28 September 2009]</ref> In contrast, their preferred coalition partner, the liberal FDP, gained nearly 5% points to give it 14.6% of the vote, the best result of its history. The big loser of the election was the [[Social Democratic Party of Germany|SPD]] which received its worst result ever in a federal election, receiving only 23% of the total party vote and suffering the biggest percentage loss of any party in German federal election history in 60 years. The two other parties represented in the [[Bundestag]], the Left and the Greens, both made large gains and received the highest vote share of their respective histories. For the first time, The Left won constituency seats outside its traditional stronghold of East Berlin. As a result of the losses by the SPD and the gains by the FDP, the alliance of the CDU/CSU and FDP received an outright majority of seats, ensuring that Angela Merkel would continue as Chancellor.
+
+Had the CDU/CSU and FDP failed to win a majority of seats, possible alternative coalitions may have included a continuation of the grand coalition of CDU/CSU and SPD. A [[traffic light coalition]] (SPD–FDP–Greens) was specifically ruled out by FDP leader [[Guido Westerwelle]].<ref>[http://www.spiegel.de/international/germany/0,1518,643586-2,00.html Spiegel Interview With FDP Leader Westerwelle, 18 August 2009]</ref>
+
+{{German federal election, 2009}}
+{| style="width:70%; text-align:center;"
+|+ ↓
+|- style="color:white;"
+| style="background:black; width:33.8;" | '''239'''
+| style="background:red; width:23.0%;" | '''146'''
+| style="background:gold; width:14.6%;" | '''93'''
+| style="background:brown; width:11.9%;" | '''76'''
+| style="background:green; width:10.7%;" | '''68'''
+|-
+| <span style="color:black;">'''CDU/CSU'''</span>
+| <span style="color:red;">'''SPD'''</span>
+| <span style="color:gold;">'''FDP'''</span>
+| <span style="color:brown;">'''PDS'''</span>
+| <span style="color:green;">'''Grüne'''</span>
+|}
+{{bar box
+| title=Popular Vote
+| titlebar=#ddd
+| width=600px
+| barwidth=410px
+| bars=
+{{bar percent|'''CDU/CSU'''|{{Christian Democratic Union (Germany)/meta/color}}|33.80}}
+{{bar percent|SPD|{{Social Democratic Party of Germany/meta/color}}|23.03}}
+{{bar percent|FDP|{{Free Democratic Party (Germany)/meta/color}}|14.56}}
+{{bar percent|DIE LINKE (PDS)|{{The Left (Germany)/meta/color}}|11.89}}
+{{bar percent|B'90/GRÜNE|{{Alliance '90/The Greens/meta/color}}|10.71}}
+{{bar percent|PIRATEN|{{Pirate Party Germany/meta/color}}|1.95}}
+{{bar percent|Other|#777777|4.06}}
+}}
+
+{{bar box
+| title=Bundestag seats
+| titlebar=#ddd
+| width=600px
+| barwidth=410px
+| bars=
+{{bar percent|'''CDU/CSU'''|{{Christian Democratic Union (Germany)/meta/color}}|38.42}}
+{{bar percent|SPD|{{Social Democratic Party of Germany/meta/color}}|23.47}}
+{{bar percent|FDP|{{Free Democratic Party (Germany)/meta/color}}|14.95}}
+{{bar percent|DIE LINKE (PDS)|{{The Left (Germany)/meta/color}}|12.22}}
+{{bar percent|B'90/GRÜNE|{{Alliance '90/The Greens/meta/color}}|10.93}}
+}}
+
+==Results by state==
+{| class="wikitable sortable" style="text-align:right"
+|-
+! [[States of Germany|State]] || CDU/CSU<br>(%) || SPD<br>(%) || FDP<br>(%) || Left<br>(%) || Green<br>(%) || others<br>(%)
+|-
+| align="left"| {{flag|Baden-Württemberg}} || '''34.5''' || 19.3 || 18.8 || 7.2 || 13.9 || 6.3
+|-
+| align="left"| {{flag|Bavaria}} || '''42.6''' || 16.8 || 14.7 || 6.5 || 10.8 || 8.6
+|-
+| align="left"| {{flag|Berlin}} || '''22.8''' || 20.2 || 11.5 || 20.2 || 17.4 || 7.9
+|-
+| align="left"| {{flag|Brandenburg}} || 23.6 || 25.1 || 9.3 || '''28.5''' || 6.1 || 7.4
+|-
+| align="left"| {{flag|Bremen}} || 23.9 || '''30.3''' || 10.6 || 14.2 || 15.4 || 5.6
+|-
+| align="left"| {{flag|Hamburg}} || '''27.9''' || 27.4 || 13.2 || 11.2 || 15.6 || 4.7
+|-
+| align="left"| {{flag|Hesse}} || '''32.2''' || 25.6 || 16.6 || 8.5 || 12.0 || 5.1
+|-
+| align="left"| {{flag|Mecklenburg-Vorpommern}} || '''33.2''' || 16.6 || 9.8 || 29.0 || 5.5 || 5.9
+|-
+| align="left"| {{flag|Lower Saxony}} || '''33.2''' || 29.3 || 13.3 || 8.6 || 10.7 || 4.9
+|-
+| align="left"| {{flag|North Rhine-Westphalia}} || '''33.1''' || 28.5 || 14.9 || 8.4 || 10.1 || 5.0
+|-
+| align="left"| {{flag|Rhineland-Palatinate}} || '''35.0''' || 23.8 || 16.6 || 9.4 || 9.7 || 5.5
+|-
+| align="left"| {{flag|Saarland}} || '''30.7''' || 24.7 || 11.9 || 21.2 || 6.8 || 4.7
+|-
+| align="left"| {{flag|Saxony}} || '''35.6''' || 14.6 || 13.3 || 24.5 || 6.7 || 5.3
+|-
+| align="left"| {{flag|Saxony-Anhalt}} || 30.1 || 16.9 || 10.3 || '''32.4''' || 5.1 || 5.2
+|-
+| align="left"| {{flag|Schleswig-Holstein}} || '''32.2''' || 26.8 || 16.3 || 7.9 || 12.7 || 4.1
+|-
+| align="left"| {{flag|Thuringia}} || '''31.2''' || 17.6 || 9.8 || 28.8 || 6.0 || 6.6
+|}
+
+Source: [[Bundeswahlleiter]]<ref>[http://www.bundeswahlleiter.de/de/bundestagswahlen/BTW_BUND_09/ergebnisse/landesergebnisse/ Vorläufiges Ergebnis der Bundestagswahl 2009 in den Ländern]</ref>
+
+==References==
+{{Reflist|colwidth=30em}}
+
+==Further reading==
+*{{cite journal |last=Faas |first=Thorsten |year=2010 |title=The German Federal Election of 2009: Sprouting Coalitions, Drooping Social Democrats |journal=West European Politics |volume=33 |issue=4 |pages=894–903 |doi=10.1080/01402381003794670 }}
+*{{cite book |editor-first=Eric |editor-last=Langenbacher |title=Between Left and Right: The 2009 Bundestag Elections and the Transformation of the German Party System |location=New York |publisher=Berghahn Books |year=2011 |isbn=978-0-85745-222-1 }} Scholarly studies.
+
+==External links==
+* [http://www.bundeswahlleiter.de/en/bundestagswahlen/BTW_BUND_09/ Official voting results from the Federal Returning Officer]
+* [http://www.wahlrecht.de/umfragen/index.htm Opinion poll tracker with data]
+* [http://www.abehnisch.com/btw09.html Opinion poll tracker with graph and monthly average]
+* [http://www.bei-der-wahl-am.de/en/german-elections-for-the-bundestag-candidates/ The Candidates]
+* Analysis of the election by Ingo Schmidt: [http://www.socialistproject.ca/bullet/255.php The German Federal Elections: Centre-Right Wins Majority, Social Democracy Suffers Crushing Defeat, The Left Receives a Boost]
+{{German federal elections}}
+
+{{Use British English|date=August 2010}}
+
+{{DEFAULTSORT:German Federal Election, 2009}}
+[[Category:Federal elections in Germany|2009]]
+[[Category:2009 elections in Germany]]
+[[Category:Angela Merkel]]

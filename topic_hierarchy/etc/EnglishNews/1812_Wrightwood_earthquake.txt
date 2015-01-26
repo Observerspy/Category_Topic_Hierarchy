@@ -1,0 +1,44 @@
+{{Earthquake
+|title = 1812 Wrightwood earthquake
+|date = {{Start-date|December 8, 1812}}
+|map2 = {{Location map+ | California
+ | relief = yes
+|places =
+{{Location map~|California|lat=33.76|long=-118.20|label=Long Beach|position=bottom|mark=Green pog.svg}}
+{{Location map~|California|lat=34.09|long=-118.10|label=San Gabriel|position=left|mark=Green pog.svg}}
+{{Location map~|California|lat=34.37|long=-117.65|mark=Bullseye1.png|marksize=40}}
+ | width = 250
+ | float = right
+ | caption = }}
+|magnitude = 6.9 M<sub>L</sub> 
+|intensity = VIII (''Destructive'') 
+|depth =
+|location = {{Coord|34.37|N|117.65|W|region:US-CA_type:event|display=inline}}
+|countries affected = Southern California <br> United States
+|tsunami = 
+|casualties = 40 
+}}
+
+The '''1812 Wrightwood earthquake''', also known as the '''San Juan Capistrano earthquake''', occurred on December 8 in Southern California 7:00 AM (Pacific Time Zone|Pacific time). It is thought to be the result of a rupture of the southern segment of the San Andreas Fault for an estimated length of {{convert|170|km|sp=us}} near Wrightwood, California, though the epicenter's location is not precisely known, and other proposed sources for the event exist. The earthquake had a magnitude of 6.9 and a maximum perceived intensity of VIII (''Destructive'') on the Mercalli intensity scale.
+
+==Earthquake==
+{{see also|List of earthquakes in California}}
+
+Analysis of the what limited information is available about the earthquake was performed in the 1980s by seismologists Toussan Toppozada, Jack F. Evernden, and others. It is known that damage occurred in San Gabriel, California|San Gabriel, and this group came up with a proposed epicenter along the south half of the Newport-Inglewood Fault zone, the source of the 1933 Long Beach earthquake. It was determined that the lack of damage at San Buenaventura, in what is now known as Ventura, California|Ventura, limited the possible source of the event to that right-lateral fault.
+
+==Damage==
+Several of the Roman Catholic missions in the area experienced heavy damage. The Mission San Gabriel Arcángel's bell structure collapsed and at the Mission San Juan Capistrano forty American Indians were killed as the earthquake happened during the first service. The service was being held on a Tuesday, for the Feast of the Immaculate Conception celebration, which is universally celebrated every December 8.
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* http://www.data.scec.org/significant/wrightwood1812.html Wrightwood earthquake at the Southern California Earthquake Center
+* http://earthquake.usgs.gov/earthquakes/states/events/1812_12_08.php Historic Earthquakes — Southwest of San Bernardino County, California at the United States Geological Survey
+
+{{Significant earthquakes in California}}
+
+{{DEFAULTSORT:Wrightwood earthquake 1812}}
+Category:Earthquakes in California
+Category:1812 earthquakes
+Category:History of Southern California

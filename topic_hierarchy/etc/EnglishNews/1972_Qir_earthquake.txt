@@ -1,0 +1,47 @@
+{{Earthquake
+|title= 1972 Qir earthquake
+|date= {{Start-date|April 10, 1972}}
+|map2 = {{Location map | Iran |relief=1
+ | label=
+ | lat=28.4
+ | long=52.8
+ | mark=Bullseye1.png
+ | marksize=40
+ | position=top
+ | width= 250
+ | float=right
+ | caption=}}
+|magnitude = 6.7 Moment magnitude scale|M<sub>w</sub>
+|intensity= IX
+|depth= 11
+|location={{coord|28.4|52.8|display=inline,title}}
+|countries affected = Iran, Tabriz
+|tsunami = 
+|casualties = 5,374{{rp|128}}
+}}
+File:ZagrosFTB.png|thumb|260px|Zagros fold and thrust belt
+The '''1972 Qir earthquake''' occurred at 05:37 local time (02:06 Coordinated Universal Time|UTC) on April 10, 1972. It had a magnitude of 6.7 on the moment magnitude scale and a maximum perceived intensity of IX (''Violent'') on the Mercalli intensity scale. The epicenter|epicentre was in the Fars Province|province of Fars in southern Iran. The earthquake caused the destruction of Qir and serious damage to towns and villages in the surrounding area. The estimated number of deaths is 5,374, with a further 1,710 injured.
+
+==Tectonic setting==
+{{main|Zagros fold and thrust belt}}
+The earthquake occurred in the Fars Domain of the Zagros fold and thrust belt, which forms part of the continental collision|collisional zone between the Arabian Plate and the Eurasian Plate. The Fars Domain lies at the southeastern end of the Zagros and is part of the 'simply folded belt', which is characterised by detachment folding over the late Neoproterozoic Hormuz salt layer. Most earthquakes have epicenters beneath the salt layer and are thought to represent Fault (geology)#Dip-slip faults|reverse faulting in the underlying Basement (geology)|basement, possibly involving the reactivation of older rift faults.
+
+==Earthquake==
+The earthquake is thought to have been caused by rupture along a WNW-ESE trending reverse fault. The focal mechanism suggests that the reverse fault is moderately-dipping to either south or north.
+
+The earthquake was preceded by a series of foreshocks in March 1972, which caused some of the inhabitants of Hingam and Karzin to move out of their houses.
+
+==Damage==
+Initial casualty reports (compiled on April 28, 1972) showed that there were 3,399 deaths in Qir (two-thirds of the population), with a further 889 injured.{{rp|127}} There were 400 deaths in Gavakei (almost half of the population) and a further 300 in Bian (a third of the population) and 150 in Sekehravan (about a quarter of the population). The total number of deaths based on initial reports was 5,374 with a further 1,710 injured.{{rp|127}}
+
+The methods of construction used in that affected area led to the high levels of damage.{{rp|72}} Most buildings were built of adobe brick with a relatively heavy flat roof of thick date palm beams resting directly on the brick walls. The addition of layers of mud and straw for waterproofing increased the load on the walls.{{rp|10}} These structures have a very low resistance to earthquake shaking and most of the deaths occurred due to the collapse of such buildings.{{rp|73}} More modern types of construction generally fared little better, as they were not properly engineered and lacked many of the elements that would have made them more resistant.{{rp|35}} Even some of the engineered buildings were badly damaged due to poor design and construction techniques, such as a lack of anchoring between the steel roof I-beams and the reinforced concrete tie-beams on which they rested.{{rp|40}} One structure, the Shahabad bridge that was well-engineered and constructed using modern techniques, was almost undamaged, compared to the adobe houses in a neighbouring village, all of which collapsed.{{rp|54}}
+
+The earthquake caused damage to qanats (water tunnels), with the destruction of 180 wells. The flow of some springs was disrupted.
+
+==References==
+{{Reflist}}
+
+{{Earthquakes in Iran}}
+
+Category:1972 earthquakes
+Category:Earthquakes in Iran

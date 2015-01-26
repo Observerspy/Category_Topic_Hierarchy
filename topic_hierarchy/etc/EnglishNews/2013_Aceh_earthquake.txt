@@ -1,0 +1,71 @@
+{{Infobox earthquake
+|title              = 2013 Aceh earthquake
+|image              = 
+|image alt          = 
+|imagecaption       =
+|map                = 
+|map alt            = 
+|image name         =
+|map2 = {{Location map | Indonesia Sumatra
+ | relief = yes
+ | label =
+ | lat = 4.698
+ | long = 96.687
+ | mark = Bullseye1.png                                   
+ | marksize = 40
+ | position = top
+ | width = 250
+ | float = right
+ | caption = }}
+|mapsize            = 
+|caption            =
+|date               = {{Start date|2013|07|02}} 
+|origintime         = 07:37:02 UTC
+|duration           = 15 seconds
+|magnitude          = 6.2 Moment magnitude scale|M<sub>w</sub> 
+|depth              =  {{convert|10|km|mi|0|abbr=on}} 
+|location           =  {{coord|4.698|N|96.687|E|region:ID_type:event|display=inline,title}} 
+|type               =
+|countries affected = Indonesia
+|damage             = 4,292 houses damaged
+|intensity          = 
+|PGA                = <!-- NN''Peak ground acceleration|g'' -->
+|tsunami            = 
+|landslide          = Yes
+|foreshocks         =
+|aftershocks        = 4.3, 5.5, 5.2 Moment magnitude scale|M<sub>w</sub>
+|casualties         = 35 dead, 8 missing, 276 injured
+}}
+
+The '''2013 Aceh earthquake''' was a magnitude 6.1 Moment magnitude scale|M<sub>w</sub> earthquake struck the province of Aceh on the Indonesian island of Sumatra on July 2, 2013,.  The quake killed at least 35 people and injured 276 others.  Approximately 4,300 homes were damaged or destroyed.
+
+==Background==
+Earthquakes are common in Sumatra as it lies at the convergent boundary where the Sunda Plate is subduction|subducting beneath the Indo-Australian Plate. The plates are converging obliquely at a rate of 60 mm per year and the right lateral component is accommodated by strike-slip fault|strike-slip faulting within Sumatra, mainly on the Great Sumatran fault. In 2004, Sumatra was devastated by the 2004 Indian Ocean earthquake and tsunami|Sumatra–Andaman earthquake and resulting tsunami that killed tens of thousands in the area and 230,000 people around the Indian Ocean.  In 2009, 2009 Sumatra earthquakes|an earthquake near Padang on Sumatra killed more than 1,000. In April 2012, 2012 Indian Ocean earthquakes|an 8.6-magnitude quake killed five people in Aceh.
+
+==Earthquake characteristics==
+At 2:37pm local time (07:37 UTC) on July 2, 2013, a 6.1 magnitude earthquake struck at a depth of {{convert|10|km|mi}} with an epicenter near Sumatra's northwestern tip, {{convert|55|km|mi}} south of Bireun.  The quake lasted approximately 15 seconds and was felt from regional capital Banda Aceh to Bener Meriah.
+
+==Damage==
+File:Geumpa Gayo.JPG|thumb|left|A damaged house caused by earthquake
+
+As of July 5, the official death toll stood at 35, with eight people still missing.  
+
+In Bener Meriah, nine deaths were reported.  Several hundred residents slept outdoors the night of July 2, afraid to return to their homes for fear of aftershocks.
+
+In Central Aceh, 26 deaths were reported.  A mosque collapse killed six children and trapped 14 others.  Rescuers dug through the rubble throughout the night of July 2-3, but did not locate any of the trapped children.  Numerous landslides occurred in the district and 1,368 houses were destroyed. A further 2,135 houses suffered minor damaged. On July 3, a local official commented "People are still frightened, especially after the aftershocks last night. Nobody dared to stay at home. Everyone slept on the roads or in car parks."  The main hospital was overcrowded with patients, causing tents to be set up outside to handle the overflow.
+
+==Response==
+A government plane and helicopter were sent in to assist local police and soldiers in rescue efforts. Three truckloads of bottled water, food, and other supplies were dispatched to the region.  The Aceh Disaster Mitigation Office said more help would be provided when they had better data on what was needed.
+
+On July 3, 40 billion Indonesian rupiah|rupiah (approximately US$4 million) was allocated for emergency relief efforts.  A one-week emergency response period, which can be extended if necessary, was enacted in Bener Meriah.
+
+==References==
+{{Portalbar|Indonesia|Disasters|2010s}}
+{{reflist|30em}}
+
+{{Earthquakes in 2013|state=expanded}}
+
+Category:2013 earthquakes|Aceh
+Category:2013 in Indonesia
+Category:Earthquakes in Indonesia
+Category:History of Aceh

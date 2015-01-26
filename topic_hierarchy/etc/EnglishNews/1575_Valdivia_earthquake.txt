@@ -1,0 +1,45 @@
+{{Earthquake
+|title = 1575 Valdivia earthquake
+|date = {{Start-date|December 16, 1575}}
+|map2 = {{Location map | South America |relief = 1
+ | label =
+ | lat = -39.8
+ | long = -73.2
+ | mark = Bullseye1.png
+ | marksize = 40
+ | position = top
+ | width = 250
+ | float = center
+ | caption = }}
+|magnitude = 8.5 
+|depth =
+|location = {{coord|-39.8|-73.2|type:event|display=inline,title}} 
+|countries affected = Valdivia, Chile|Valdivia, Chile
+|tsunami = 
+|casualties = 
+}}
+
+The '''1575 Valdivia earthquake''' occurred in Chile and caused the subsequent flood of Valdivia, Chile|Valdivia much like the 1960 Valdivia earthquake caused the ensuing Ri?ihuazo flooding.  It occurred at 14:30 local time on December 16, 1575. It had an estimated magnitude of 8.5 on the surface wave magnitude scale. Pedro Mari?o de Lobera, who was Corregidor (position)|corregidor of Valdivia by that time, wrote that the waters of the river opened like the Red Sea, one part flowing upstream and one downstream. Mari?o de Lobera also evacuated the city until the dam at ''Laguna de Anigua'' (nowadays Ri?ihue Lake) burst. At that moment he wrote that, while many Indians died, no Spaniards did, as the settlement of Valdivia was moved temporarily away from the riverside. 
+         
+
+==References==
+{{Reflist|refs=
+
+}}
+
+==External links==
+*http://www.nature.com/nature/journal/v437/n7057/full/nature03943.html Predecessors to the 1960 earthquake - Nature.com
+
+{{Earthquakes in Chile}}
+
+{{DEFAULTSORT:Valdivia, 1575}}
+Category:1575 in Chile
+Category:History of Los Ríos Region|1575 Valdivia earthquake
+Category:Megathrust earthquakes in Chile|1575 Valdivia earthquake
+Category:16th-century earthquakes
+Category:1575 in science
+Category:1575 natural disasters
+
+
+{{chile-hist-stub}}
+{{earthquake-stub}}

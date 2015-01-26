@@ -1,0 +1,191 @@
+{{Use mdy dates|date=September 2011}}
+{{Infobox earthquake
+|title = Great Hanshin Earthquake
+|image = Port of Kobe Earthquake Memorial Park2.jpg|300px
+|imagecaption = Damage from the Great Hanshin Earthquake is kept intact at the Earthquake Memorial Park near the port of Kobe. The elevated Hanshin Expressway, in the background, was partially toppled by the earthquake.
+|date = {{Start date|1995|1|17}}
+| map2 = {{Location map+|Japan|width=250|float=none|border=none|caption=Map showing the epicenter of the earthquake
+|places=
+{{Location map~|Japan|lat=34.598|long=135.045|mark=Bullseye1.png |marksize=40|position=top}}
+{{Location map~|Japan|lat=35.68|long=139.75|label=Tokyo |position=left|mark=Green pog.svg}}
+{{Location map~|Japan|lat=34.69|long=135.19|label=Kobe |position=left|mark=Green pog.svg}}|relief=yes}}
+|magnitude=Moment magnitude scale|Mw 6.8<!-- Please do not change this number unless you first read http://earthquake.usgs.gov/eqcenter/eqarchives/significant/sig_1995.php and confirm that the USGS has changed its number.  --> (United States Geological Survey|USGS)
+Mj 7.3 (adjusted from 7.2; Japan Meteorological Agency|JMA scale)
+|depth = {{convert|16|km|abbr=on}}
+|PGA = 0.8 ''peak ground acceleration|g''
+|countries affected = Japan
+|location = Awaji Island, Japan
+|casualties = 6,434 killed  around 300,000 left homeless
+}}
+
+File:Hanshin-Awaji earthquake 1995 346.jpg|thumbnail|180px|Fire fighting
+
+The '''Great Hanshin earthquake''', or '''Kobe earthquake''', occurred on Tuesday, January 17, 1995, at 05:46 Japan Standard Time|JST (January 16 at 20:46 UTC) in the southern part of Hyōgo Prefecture, Japan. It measured 6.8 on the moment magnitude scale (United States Geological Survey|USGS), on the northern end of Awaji Island, 20&nbsp;km away from the city of Kobe.
+
+Approximately 6,434 people lost their lives (final estimate as of December 22, 2005); about 4,600 of them were from Kobe. Among major cities, Kobe, with its population of 1.5&nbsp;million, was the closest to the epicenter and hit by the strongest tremors. This was Japan's worst earthquake in the 20th century after the 1923 Great Kantō earthquake|Great Kantō earthquake in 1923, which claimed 140,000 lives. It caused approximately ten trillion yen ($100&nbsp;billion) in damage, 2.5% of Japan's GDP at the time.
+
+==Seismic intensity==
+It was the first time that earthquake tremors in Japan were officially measured at seismic intensity (''shindo'' in Japanese) of the highest Level 7 on the Japan Meteorological Agency seismic intensity scale|scale of Japan Meteorological Agency (JMA). 
+: Note: After this earthquake, seismic intensity observation in Japan was fully mechanized (from April 1996) and JMA seismic intensity Levels 5 and 6 were each divided into 2 levels (from October 1996).
+
+An on-the spot investigation by JMA concluded that tremors by this earthquake were at seismic intensity of 
+: Level 7 in particular areas in northern Awaji Island (now Awaji, Hyōgo|Awaji City) and in the cities of Kobe, Ashiya, Hyōgo|Ashiya, Nishinomiya, Hyōgo|Nishinomiya and Takarazuka, Hyōgo|Takarazuka.
+
+Tremors were valued at seismic intensity of Levels 6 to 4 at observation points in Kansai region|Kansai, Chūgoku region|Chūgoku, Shikoku and Chūbu region|Chūbu regions.
+: Level 6 in the cities of Sumoto, Hyōgo|Sumoto (in Awaji Island) and Kobe (both in Hyōgo Prefecture). 
+: Level 5 in the cities of Toyooka, Hyōgo|Toyooka (in Hyōgo Prefecture), Hikone, Shiga|Hikone (in Shiga Prefecture) and Kyoto. 
+: Level 4 in the prefectures of Hyōgo Prefecture|Hyōgo, Shiga Prefecture|Shiga, Kyoto Prefecture|Kyoto, Fukui Prefecture|Fukui, Gifu Prefecture|Gifu, Mie Prefecture|Mie, Osaka Prefecture|Osaka, Nara Prefecture|Nara, Wakayama Prefecture|Wakayama, Tottori Prefecture|Tottori, Okayama Prefecture|Okayama, Hiroshima Prefecture|Hiroshima, Tokushima Prefecture|Tokushima, Kagawa Prefecture|Kagawa and Kōchi Prefecture|Kōchi.
+
+==Foreshocks and aftershocks==
+
+The Mj 7.3 earthquake struck at 05:46 Japan Standard Time|JST on the morning of January 17, 1995. It lasted for 20 seconds. During this time the south side of the Nojima Fault moved 1.5m to the right and 1.2 meters downwards. This was because the earthquake's focus was so near the surface and its epicenter so near to Kobe.
+
+There were four foreshocks, beginning with the largest (Mj 3.7) at 18:28 on the previous day.
+
+Within five weeks, about 50 aftershocks (Mj 4.0 or greater) were observed.
+:By May 23, 1995: 1983 aftershocks in total, 249 felt.
+:By Oct. 31, 1995: 2309 aftershocks in total, 302 felt.
+:By Oct. 31, 1996: 2522 aftershocks in total, 408 felt.
+
+==Damage==
+{| cellspacing=0 cellpadding=4 style="float:right; margin:0 0 .5em 1em; border:1px solid #aaa; font-size:90%"
+| colspan=2 style="background:#6cf; font-size:100%;" align=center |'''Fatality rates'''
+|-
+|Nada-ku, Kobe|Nada-ku, Kobe || 0.703%
+|-
+|Higashinada-ku, Kobe|Higashinada-ku, Kobe || 0.692%
+|-
+|Nagata-ku, Kobe|Nagata-ku, Kobe || 0.596%
+|-
+|Ashiya, Hyōgo|Ashiya || 0.468%
+|-
+|Hyōgo-ku, Kobe|Hyōgo-ku, Kobe || 0.365%
+|-
+|Nishinomiya || 0.239%
+|-
+|colspan=2 align=right | ''http://bmj.bmjjournals.com/cgi/content/full/313/7065/1133 source'' (payment required to see full article)
+|}
+The effects can be divided into primary and secondary effects.
+Primary effects included the ruin of 150,000 buildings, the collapse of 1&nbsp;km of the Hanshin Expressway, the destruction of 120 of the 150 quays in the port of Kobe, and fires which raged over large portions of the city.  Secondary effects included disruption of the electricity supply. Residents were afraid to return home because of aftershocks that lasted several days (74 of which were strong enough to be felt).
+
+===Damage in cities and the suburbs===
+{{Refimprove section|date=April 2013}}
+File:Hanshin-Awaji earthquake 1995 338.jpg|right|thumb|upright|Damage at Sannomiya, Kobe
+File:Kobe34.jpg|right|thumb|upright|Houses destroyed
+File:Nagata001.JPG|right|thumb|upright|Shopping streets destroyed at Nagata, Kobe
+File:Great Hanshin-Awaji Earthquake ikuta-shindo-shotengai img340.jpg|right|thumb|upright|Damage at Sannomiya, Kobe
+
+The majority of deaths, over 4,000, occurred in cities and the suburbs in Hyōgo Prefecture.  A total of 68 children under the age of 18 were orphaned, while 332 additional children lost one parent.
+
+One in five of the buildings in the worst-hit area were completely destroyed (or rendered uninhabitable). About 22% of the offices in the central business district were rendered unusable, and over half of the houses in that area were deemed unfit to live in. High rise buildings that were built after the modern 1981 building code suffered little; however, those that were not constructed to these standards suffered serious structural damage. Most of the older traditional houses had heavy tiled roofs which weighed around 2 tons, intended to resist the frequent typhoons that plagued Kobe, but they were only held up by a light wood support frame. When the wood supports gave way, the roof crushed the unreinforced walls and floors in a "pancake" collapse. Newer homes have reinforced walls and lighter roofs to avoid this, but are more susceptible to typhoons.
+
+The extent of the damage was much greater than in the similar-magnitude Northridge earthquake in Los Angeles, which occurred exactly one year earlier. The difference was in part due to the type of ground beneath Kobe and the construction of its buildings (e.g. many unreinforced masonry buildings collapsed). The immediate population bases of the two areas (Kobe area and San Fernando Valley of Los Angeles) were roughly the same – about 2 million; however, only 72 people died in the Northridge quake, compared to the more than 6,000 in Kobe.
+
+===Transportation infrastructure damage===
+The damage to highways and subways was the most graphic image of the earthquake, and images of the collapsed elevated Hanshin Expressway made front pages of newspapers worldwide. Most people in Japan believed those structures to be relatively safe from earthquake damage because of the steel-reinforced concrete design. Though the initial belief was construction had been negligent, it was later shown that most of the collapsed structures were constructed properly according to the building codes in force in the 1960s. However, the steel-reinforcement specifications in the 1960s regulations had already been discovered to be inadequate and revised several times, the latest revision being in 1981, which proved effective but grandfather clause|only applied to new structures.
+
+Ten spans of the Hanshin Expressway Route 43 in three locations in Kobe and Nishinomiya were knocked over, blocking a link that carried forty percent of Osaka-Kobe road traffic. Half of the elevated expressway's piers were damaged in some way, and the entire route was not reopened until September 30, 1996. Three bridges on the less heavily used Route 2 were damaged, but the highway was reopened well ahead of Route 43 and served as one of the main intercity road links for a time. The Meishin Expressway was only lightly damaged, but was closed during the day until February 17, 1995 so that emergency vehicles could easily access the hardest-hit areas to the west. It wasn't until July 29 that all four lanes were open to traffic along one section {{Harvcol|Kitamura|Yamamoto|Fujii|1998|p=240}}. Many surface highways were clogged for some time due to the collapse of higher-capacity elevated highways.
+
+Most railways in the region were also damaged. In the aftermath of the earthquake, only 30% of the Osaka-Kobe railway tracks were operational. Daikai Station on the Kobe Rapid Railway line collapsed, bringing down part of National Route 30 above it. Wooden supports collapsed inside supposedly solid concrete pilings under the tracks of the Shinkansen high-speed rail line, causing the entire line to shut down. However, the railways rebounded quickly after the quake, reaching 80% operability in one month.
+
+Artificial islands, such as the modern Rokkō Island and Port Island, in Kobe suffered some subsidence due to liquefaction of the soil; the water breaking to the surface did not come from the sea. However, the newly completed artificial island supporting Kansai International Airport was not significantly affected, due to being further away from the epicenter and because it was built to the latest standards. The Akashi Kaikyo Bridge, under construction near the earthquake's epicenter, was not damaged but was reportedly lengthened by a full meter due to horizontal displacement along the activated tectonic fault.
+
+==Response==
+File:Hanshin-Awaji earthquake 1995 Kashiwai-building 001.jpg|thumbnail|180px|Immediately before the collapse of the Kashiwai building
+
+In the aftermath, both citizens and specialists lost faith in the technology of their Earthquake warning system|early warning systems and earthquake construction techniques. The national government of Japan led by Prime Minister Tomiichi Murayama was criticized for not acting quickly enough to save many people, for poorly managing Japanese volunteers, and for initially refusing help from foreign nations, including the United States, South Korea, Mongolia, and the United Kingdom. The language barriers and the obvious lack of Japanese medical license|medical licensing by foreign volunteers were cited as justification. In response to the widespread devastation, the Japanese government increased its spending on earthquake-resistant building structures.{{Citation needed|date=May 2009}}
+
+===Local response===
+Local hospitals struggled to keep up with demand for medical treatment, largely due to collapsed or obstructed "lifelines" (roads) that kept supplies and personnel from reaching the affected areas. People were forced to wait in corridors due to the overcrowding and lack of space. Some people had to be operated on in waiting rooms and corridors.
+
+Approximately 1.2&nbsp;million volunteers were involved in relief efforts during the first three months following the earthquake. Retailers such as Daiei and 7-Eleven used their existing supply networks to provide necessities in affected areas, while Nippon Telegraph and Telephone|NTT and Motorola provided free telephone service for victims. Even the Yamaguchi-gumi ''yakuza'' syndicate was involved in distributing food and supplies to needy victims.
+
+To help speed the recovery effort, the government closed most of the Hanshin Expressway network to private vehicles from 6:00&nbsp;am to 8:00&nbsp;pm daily and limited traffic to buses, taxis and other designated vehicles {{Harvcol|Kitamura|Yamamoto|Fujii|1998|p=260}}. To keep the light rail system running even though it had quite severely damaged sections, shuttle buses were commissioned to transfer patrons to stations around damaged sections {{Harvcol|Kitamura|Yamamoto|Fujii|1998|p=256}}.
+
+==Other effects==
+File:Hanshin-Awaji earthquake 1995 337.jpg|250px|thumb|right
+
+===Economic impacts===
+The earthquake caused approximately ten trillion yen or $102.5&nbsp;billion in damage, 2.5% of Japan's GDP at the time. Most of the losses were uninsured, as only 3% of property in the Kobe area was covered by earthquake insurance, compared to 16% in Tokyo.
+
+The quake ravaged many of the facilities of what was then the world's sixth-largest container port and the source of nearly 40% of Kobe's industrial output.
+
+The sheer size of the earthquake caused a major decline in Japanese stock markets, with the Nikkei 225 index plunging by 1,025 points on the day following the quake. This financial damage was the immediate cause for the collapse of Barings Bank due to the actions of Nick Leeson, who had speculated vast amounts of money on Japanese and Singaporean derivatives. Discussions of Japan's "Lost Decade (Japan)|Lost Decade" tend towards purely economic analysis and neglect the impact of the earthquake on the Japanese economy which at the time was already suffering from recession.
+
+Despite this devastation in a big production center, the local economy recovered very quickly. Even though less than half the port facilities had been rebuilt by that stage, within a year import volumes through the port had recovered fully and export volumes were nearly back to where they would have been without the disaster. Less than 15 months after the earthquake, in March 1996, manufacturing activity in greater Kobe was at 98% of its projected pre-quake level.
+
+===The earthquake and volunteerism===
+File:Japan Trip (2271).jpg|left|thumb|200px|Local memorial in Kobe. "We won't forget that time"
+
+The fact that volunteers from all over Japan converged on Kobe to help victims of the quake was an important event in the history of volunteerism in Japan. The year 1995 is often regarded as a turning point in the emergence of volunteerism as a major form of civic engagement.
+
+In December 1995, the government declared January 17 a national "Disaster Prevention and Volunteerism Day", and the week from January 15 to 21 a national "Disaster Prevention and Volunteerism Week", to be commemorated with lectures, seminars, and other events designed to encourage voluntary disaster preparedness and relief efforts.
+
+===Effect on disaster prevention planning===
+The earthquake proved to be a major wake-up call for Japanese disaster prevention authorities. Japan installed rubber blocks under bridges to absorb the shock and rebuilt buildings further apart to prevent collateral damage. The national government changed its disaster response policies in the wake of the earthquake, and its response to the 2004 Chūetsu earthquake was significantly faster and more effective. The Ground Self-Defense Forces were given automatic authority to respond to earthquakes over a certain magnitude, which allowed them to deploy to the Niigata Prefecture|Niigata region within minutes. Control over fire response was likewise handed over from local fire departments to a central command base in Tokyo and Kyoto.
+
+In response to the widespread damage to transportation infrastructure, and the resulting effect on emergency response times in the disaster area, the Ministry of Land, Infrastructure and Transport began designating special disaster prevention routes and reinforcing the roads and surrounding buildings so as to keep them as intact as possible in the event of another earthquake. Hyōgo's prefectural government invested millions of yen in the years following the quake to build earthquake-proof shelters and supplies in public parks.
+
+Elsewhere in Japan, the Tokyo metropolitan government set up an emergency food and water supply network based around petrol stations, which were mostly unaffected in the Hanshin earthquake. However, citizens' groups have taken up the bulk of disaster planning, partly out of distrust for the government still held after the disaster in Kobe.{{Citation needed|date=May 2009}}
+
+===Memorials===
+File:Fire char kobe 2005.0117.jpg|thumb|1.17 memorial in Kobe
+
+The Kobe Luminarie, a small city of Christmas lights, is set up in the middle of Kobe City, as well as near Shin-Kobe Station every December in commemoration of the earthquake. Large "1.17" digits are illuminated at Higashi Yuenchi Park next to Kobe City Hall on January 17 of each year.
+
+==Name==
+Outside Japan, the earthquake is commonly known as the Kobe earthquake. In Japan, the disaster by this earthquake is officially called {{nihongo|The Great Hanshin-Awaji Earthquake Disaster|阪神?淡路大震灾|Hanshin-Awaji Daishinsai}}, which is often shortened to {{nihongo|The Great Hanshin Earthquake Disaster|阪神大震灾|Hanshin Daishinsai}}. ''Hanshin'' means the region between Osaka and Kobe. In the scientific literature it is often called {{nihongo|The 1995 Southern Hyōgo Prefecture Earthquake|平成7年(1995年)兵库県南部地震|Heisei 7 nen (1995 nen) Hyōgo-ken Nanbu Jishin}}, the name chosen by the Japan Meteorological Agency in the week after the main shock.
+
+==Mechanism of the earthquake==
+File:Nojima fault top view.jpg|thumb|200px|A section of the Nojima Fault
+Most of the largest earthquakes in Japan are caused by subduction of the Philippine Sea Plate or Pacific Plate, with mechanisms that involve either energy released within the subducting plate or the accumulation and sudden release of stress in the overlying plate. Earthquakes of these types are especially frequent in the coastal regions of northeastern Japan.
+
+The Great Hanshin earthquake belonged to a third type, called an "inland shallow earthquake". Earthquakes of this type occur along active faults. Even at lower magnitudes, they can be very destructive because they often occur near populated areas and because their hypocenters are located less than 20&nbsp;km below the surface. The Great Hanshin earthquake began north of the island of Awaji, which lies just south of Kobe. It spread toward the southwest along the Nojima Fault on Awaji and toward the northeast along the Suma and Suwayama faults, which run through the center of Kobe. Observations of deformations in these faults suggest that the area was subjected to east-west compression, which is consistent with previously known crustal movements. Like other earthquakes recorded in western Japan between 1891 and 1948, the 1995 earthquake had a strike-slip mechanism that accommodated east-west shortening of the Eurasian Plate due to its collision with the Philippine Sea Plate in central Honshu.
+
+==See also==
+*Seconds From Disaster#Episodes|National Geographic ''Seconds From Disaster'' episodes
+*2011 Tōhoku earthquake and tsunami
+
+==References==
+{{refbegin}}
+*{{Cite book | last=Kitamura| first= R.| last2=Yamamoto| first2= T. | last3=Fujii| first3= S. |year=1998| chapter=Impacts of the Hanshin-Awaji Earthquake on Traffic and Travel – Where Did All the Traffic Go? | editor=Cairns, S., Hass-Klau, C. & Goodwin, P. | title=Traffic Impact of Highway Capacity Reductions: Assessment of the Evidence | publisher=Landor Publishing | place=London | pages=239–261 | ref=harv | postscript=. }}
+*http://www.hp1039.jishin.go.jp/eqchreng/eqchrfrm.htm Seismic Activity in Japan. Headquarters for Earthquake Research Promotion. Retrieved on 2009-05-06.
+{{refend}}
+* 『阪神大震灾』読売新闻大阪本社编、1995年6月（読売新闻大阪本社夕刊1995年2月20日－7月15日）ISBN4-643-95090-0{{ja}}
+<!--ページ数の右方の记载が引用かコメントか判断できないため--><!--**p26 「ひかり」発车直前、高架落下
+** p36 「神戸?震度6」情报空白18分－神戸海洋気象台と洲本测候所の记录が送信できなかった
+** p42 兵库県の卫星通信机能が动作しなかった
+** p46 目前の惨状 発表と落差-高见裕一、武村正义
+** p48 陆上自卫队第三师団第36普通科连队（伊丹、黒川雄三）の「近傍派遣」
+** p68 「くにかぜ2号」（国土地理院、运用は海上自卫队徳岛航空群）の情报が政府中枢に届かなかった
+** p93 自卫队の空撮 届かない-->
+* 『阪神大震灾の教训』日経アーキテクチャ编、1995年、ISBN4-8222-0411-1{{ja}}
+<!--** p14-17、p80-81 芦屋浜シーサイドタウン
+** p69 JIA调査では、81年新耐震基准の鉄骨造りでも、4割以上が修复不能だった
+** p140–142 81年基准の鉄筋コンクリートでも、関东大震灾に対してギリギリの安全性である-->
+
+==Footnotes==
+{{reflist|2}}
+
+==External links==
+{{Commons category|1995 Great Hanshin earthquake|Great Hanshin earthquake}}
+* http://www.city.kobe.lg.jp/safety/hanshinawaji/revival/promote/img/january.2009.pdf City.Kobe.jp, The Great Hanshin-Awaji Earthquake Statistics and Restoration Progress
+* http://www.kkr.mlit.go.jp/en/topics_hanshin.html MLIT.go.jp, Great Hanshin Earthquake Restoration
+* http://sinsai.fdma.go.jp/search/ FDMA.go.jp, Hanshin Earthquake Information Database {{ja icon}}
+* Anderson, http://www.cnr.colostate.edu/avprojects/98proj/world_volc/web_docs/kobe.html CNR.Colostate.edu, "The Kobe Earthquake of 1995"
+* Chang & Nojima, http://www.cive.gifu-u.ac.jp/~nojima/pdf/2000_transportation_a.pdf GIFU-U.ac.jp, "Measuring Post-Disaster Transportation System Performance: The 1995 Kobe Earthquake in Comparative Perspective"
+* Kunii et al., http://www.ippnw.org/MGS/V2N4Kunii.html IPPNW.org, "The Medical and Public Health Response to the Great Hanshin-Awaji Earthquake in Japan: A Case Study in Disaster Planning"
+* Sawada and Shimizutani, http://www.e.u-tokyo.ac.jp/cemano/research/DP/documents/coe-f-55.pdf E.U.-Tokyo.ac.jp, Are People Insured Against Natural Disasters? Evidence from the Great Hanshin-Awaji (Kobe) Earthquake in 1995
+
+{{coord|34.598333|N|135.035|E|source:placeopedia|display=title}}
+
+{{Earthquakes in 1995}}
+{{Earthquakes in Japan}}
+
+{{DEFAULTSORT:Great Hanshin Earthquake}}
+Category:Earthquakes in Japan
+Category:1995 earthquakes|Hanshin-Awaji
+Category:Heisei period
+Category:1995 in Japan
+Category:History of Hyōgo Prefecture
+Category:Kobe

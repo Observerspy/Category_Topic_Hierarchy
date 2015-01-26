@@ -1,0 +1,1083 @@
+{{About||other elections in Mexico during 2006|2006 Mexican elections|election disputes and controversies|Mexican general election 2006 controversies}}
+{{Infobox Election
+| election_name = Mexican general election, 2006
+|seats_for_election = All 500 seats to the [[Chamber of Deputies of Mexico|Chamber of Deputies]]
+| country = Mexico
+| type = presidential
+| ongoing = no
+| previous_election = Mexican general election, 2000
+| previous_year = 2000
+| next_election = Mexican general election, 2012
+| next_year = 2012
+| election_date =  July 2, 2006
+
+<!--        Felipe Calderón Hinojosa       -->
+| image1 = [[File:Felipe Calderon H.jpg|110px]]
+| nominee1 = [[Felipe Calderón]]
+| party1 = National Action Party (Mexico)
+| home_state1 = [[Michoacán]]
+| popular_vote1 = '''15,000,284'''
+| percentage1 = '''35.89%'''
+
+<!--          Andrés Manuel López Obrador        -->
+| image2 = [[File:Andrés Manuel López Obrador en 2008 cropped.jpg|130px]]
+| nominee2 = [[Andrés Manuel López Obrador]]
+| party2 = Party of the Democratic Revolution
+| home_state2 = [[Tabasco]]
+| popular_vote2 = 14,756,350
+| percentage2 = 35.31%
+
+<!--          Roberto Madrazo Pintado        -->
+| image3 = [[File:Roberto Madrazo.jpg|115px]]
+| nominee3 = [[Roberto Madrazo]]
+| party3 = Institutional Revolutionary Party
+| home_state3 = [[Tabasco]]
+| popular_vote3 = 9,301,441
+| percentage3 = 22.26%
+| map_image = 2006 Mexican election per state.svg
+| map_size = 350px
+| map_caption = Presidential election results map. <span style="color:#3333FF;">Blue</span> denotes states won by Calderón (16), <span style="color:#FFE153;">Yellow</span> denotes those won by López Obrador (15+DF). Numbers indicate the number of each state.
+| title = President
+| before_election = [[Vicente Fox]]
+| before_party = National Action Party (Mexico)
+| after_election = [[Felipe Calderón]]
+| after_party = National Action Party (Mexico)
+}}
+
+A '''general election''' was held in [[Mexico]] on Sunday, July 2, 2006. Voters went to the polls to elect, on the federal level:
+*A new [[president of Mexico|President of the Republic]] to serve a six-year term, replacing then Mexican President [[Vicente Fox]] (ineligible for re-election under the [[Constitution of Mexico|1917 Constitution]]).
+*500 members (300 by the [[first-past-the-post]] system and 200 by [[proportional representation]]) to serve for a three-year term in the [[Chamber of Deputies of Mexico|Chamber of Deputies]].
+*128 members (three per [[States of Mexico|state]] by first-past-the-post and 32 by proportional representation from [[List of political parties in Mexico|national party]] lists) to serve six-year terms in the [[Senate of Mexico|Senate]]. In each state, two first-past-the-post seats are allocated to the party with the largest share of the vote, and the remaining seat is given to the first runner-up.
+
+[[2006 Mexican elections|Several local ballots]] were also held on the same day, most notably:
+*The election of a new [[Head of Government of the Federal District|Head of Government]] and new [[Legislative Assembly of the Federal District|Legislative Assembly]] of the [[Mexican Federal District|Federal District]]. See: [[2006 Mexican Federal District election]].
+*Gubernatorial elections in the [[States of Mexico|states]] of [[Guanajuato]], [[Jalisco]] and [[Morelos]].
+*Municipal and local congressional elections in those three states and in [[Campeche]], [[Colima]], [[Nuevo León]], [[Querétaro]], and [[Sonora]]. [[San Luis Potosí]] also elected a new local congress.
+
+==Presidential election==
+{{wikinews|Mexican conservative wins presidential election}}
+On September 5, 2006, [[Felipe Calderón Hinojosa]] was declared President-Elect<ref>[http://www.eluniversal.com.mx/notas/373197.html Proponen magistrados declarar Presidente electo a Calderón - El Universal - Elecciones<!-- Bot generated title -->]</ref> by the [[Federal Electoral Tribunal]] after a highly controversial post-electoral process.
+
+Eight political parties participated in the 2006 presidential election; five of them joined forces in two different electoral coalitions.
+
+Competition was intense, with the [[National Action Party (Mexico)|National Action Party]] (PAN) eager to hold on to the presidency for a second period, the [[Institutional Revolutionary Party]] (PRI) equally keen to regain the office it lost in the [[Mexican general election, 2000|2000 election]] for the first time in 71 years (then in coalition with the [[Ecologist Green Party of Mexico]]), and the [[Party of the Democratic Revolution]] (PRD) (then in coalition with [[Convergence (Mexico)|Convergence]] and the [[Labor Party (Mexico)|Labor Party]]) believing itself to have a good chance to win after disappointments in the two previous elections.
+
+===Preliminary results===
+
+On July 6, 2006 the [[Federal Electoral Institute]] (IFE) announced the final vote count in the 2006 presidential election, resulting in a narrow margin of 0.58 percentage points of victory for [[Felipe Calderón Hinojosa]] (PAN). Calderon's victory was confirmed by the Federal courts on September 5, 2006, and he was declared President-elect of Mexico.<ref>[http://www.eluniversal.com.mx/notas/373240.html Declara TEPJF a Felipe Calderón presidente electo - El Universal - Elecciones<!-- Bot generated title -->]</ref> However, [[Andrés Manuel López Obrador]] (PRD), and his party, alleged irregularities in over 30% of the country's polling stations, and still after an unsuccessful judicial appeal of election results the PRD continued to call for street protests.<sup>[[Mexican general election 2006 controversies|details]] </sup>
+
+====Quick count====
+The IFE declared at 11:00 pm on July 2, 2006 that the statistics yielded by the official quick count indicated that the  presidential election was too close to call, meaning that the difference between the two front-runners was smaller than their [[margin of error]], or 0.3% of the vote.<ref>[http://www.eluniversal.com.mx/notas/359521.html Aplaza IFE hasta el miércoles definición de elección presidencial - El Universal - Elecciones<!-- Bot generated title -->]</ref> The IFE further declared that the official count, which began on Wednesday, July 5, 2006, was to determine which candidate will be recognized as president elect.
+
+Nevertheless, front-running presidential candidates [[Felipe Calderón Hinojosa]] (PAN) and [[Andrés Manuel López Obrador]] (PRD) declared themselves the winners, basing their speeches on a number of private [[Exit poll|exit-polls]], some quoted and some not quoted, that gave a lead within the margin of error. PAN chairman [[Manuel Espino Barrientos]] requested that IFE declare a winner by the night of July 3, 2006.<ref>[http://www.esmas.com/noticierostelevisa/mexico/548062.html Pide PAN a IFE dar resultados esta noche :: México :: esmas<!-- Bot generated title -->]</ref>
+
+Preliminary results clearly showed that PRI-PVEM candidate [[Roberto Madrazo]] did not have a realistic chance of winning the presidency. Those results also showed that the smaller parties ([[New Alliance Party (Mexico)|Nueva Alianza]] and [[Social Democratic and Peasant Alternative Party|Alternativa Socialdemócrata y Campesina]]) would retain their registration.
+
+The so-called "foreign vote", whereby for the first time Mexican citizens living abroad were allowed to vote, albeit solely in the presidential contest, totalled only slightly more than 32,000 voters. The overall turn-out for this election was approximately 59% of the eligible voters.
+
+====Preliminary Electoral Results Program====
+The Preliminary Electoral Results Program (''Programa de Resultados Electorales Preliminares'', or PREP) is mandated by law to provide a quick estimate of the electoral results, but it has no authority to determine the outcome of the election.
+
+This point was made repeatedly by IFE President [[Luis Carlos Ugalde|Ugalde]] in his official statements as the 2006 electoral process unfolded.<ref>http://www.ife.org.mx/discursosLCU.htm</ref>
+The use of the PREP has been criticized because its data has been used by one candidate to proclaim his victory and by the other as supposed evidence of fraud. However, the PREP tends to predict the winner accurately when the difference between candidates is more than 1% (a condition that was not met in this election).
+
+IFE information coordinator René Miranda dismissed PRD allegations that the changes in PREP's numbers were statistically improbable, saying the PREP was used objectively and impartially to "reflect the reality of the country".<ref>{{cite news
+| url = http://blog.washingtonpost.com/mexicovotes/2006/07/amlo_unveils_his_ammo.html
+| title = AMLO Unveils His Ammo
+| work=The Washington Post
+| accessdate=May 12, 2010
+}}</ref>
+
+===Official count===
+After the PREP was concluded on 4 July, the official district-based counts were begun on Wednesday 5 July 2006.  In accordance with the Federal Code of Electoral Procedures and Institutions (COFIPE), each of Mexico's 300 congressional districts tabulated the votes recorded on the tally sheets (the "actas") for each voting precinct in their district. "In some cases, such as when a tally sheet was illegible, the sealed ballot packets were opened and recounted."<ref>[http://www.alternet.org/story/39763/?comments=view&cID=171338&pID=168952 AlterNet: Evidence of Election Fraud Grows in México<!-- Bot generated title -->]</ref> All under the eyes of any election observers that any political party cared to provide.
+
+The district committee results, along with the ballots, were then transferred to the IFE in [[Mexico City]], which resulted in the running total shown below.<ref>[http://www.esmas.com/noticierostelevisa/mexico/547829.html Mantiene IFE empate, el miércoles resultado final :: México :: esmas<!-- Bot generated title -->]</ref> Early returns favored López Obrador, but by 04:07 [[Central Time Zone (North America)|Mexico City time]], Calderón overtook him.
+By 07:45, Calderón was leading by approximately 0.33% of the vote.
+
+<div style="float:right;"><timeline>
+ImageSize = width:450 height:225
+PlotArea = left:30 bottom:20 top:20 right:20 
+TimeAxis = orientation:horizontal format:yyyy
+AlignBars = justify
+DateFormat = x.y
+Period     = from:0 till:45.0
+TimeAxis   = orientation:horizontal
+AlignBars  = early
+Colors     =
+  id:gray     value:rgb(0.97,0.97,0.97)
+  id:PAN      value:rgb(0.4, 0.6, 1)
+  id:PRD      value:rgb(1, 0.84314, 0)
+  id:PRI      value:rgb(0.8, 0, 0)
+  id:ALT      value:rgb(0.2, 0.2, 0.8)
+  id:NA       value:rgb(0,0.6667,0.6667)
+  id:darkgray     value:rgb(0.27,0.27,0.27)
+  id:midgray     value:rgb(0.57,0.57,0.57)
+ScaleMajor = gridcolor:midgray increment:10 start:0
+ScaleMinor = gridcolor:gray increment:1 start:0
+
+BarData=
+  barset:Candidates
+
+PlotData=
+  width:15 fontsize:S textcolor:black align:left anchor:from shift:(10,-4) color:red
+  barset:Candidates  
+  from:0 till:36.38 color:PAN width:20 align:left fontsize:S text:"[[Felipe Calderón]] (36.38%)"
+  from:0 till:35.34 color:PRD width:20 align:left fontsize:S text:"[[Andrés Manuel López Obrador]] (35.34%)"
+  from:0 till:21.57 color:PRI width:20 align:left fontsize:S text:"[[Roberto Madrazo]] (21.57%)"
+  from:0 till:2.81 color:ALT width:20 align:left fontsize:S text:"      [[Patricia Mercado]] (2.81%)"
+  from:0 till:0.99 color:NA width:20 align:left fontsize:S text:"[[Roberto Campa]] (0.99%)"
+  from:0 till:0.72 color:midgray width:20 align:left fontsize:S text:"[[Write-in candidates]] (0.72%)"  
+  from:0 till:2.14 color:darkgray width:20 align:left fontsize:S text:"    Double votes / null votes (2.14%)"
+
+TextData=
+  pos:(165,215) fontsize:M text:PREP vote breakdown
+  pos:(145,205) fontsize:S text:per PREP data on 0200 UTC July 3
+  pos:(400,1) fontsize:S text:(percent)
+</timeline>
+
+</div>
+[[File:2006 Mexican elections - President.png|thumb|300px|Calderón vs. López Obrador in IFE reports. Note that this shows only the percentages between 34% and 37.5%.]]
+
+The volatility in the vote count was not unexpected. From the beginning, the IFE stated that running totals should not be construed as a trend, and that the official result would be released only when all polling stations had been counted.  Several northern states, which strongly favored the PAN party in the PREP results, were slow in counting their ballots.<ref>[http://www.eluniversal.com.mx/notas/360427.html Registran siete estados un avance mayor a 90% en cómputo - El Universal - Elecciones<!-- Bot generated title -->]</ref><ref>[http://www.eluniversal.com.mx/notas/360397.html Prevé Vázquez Mota que se revierta ventaja de AMLO en horas - El Universal - Elecciones<!-- Bot generated title -->]</ref> This delay was at least partially attributable to the double-checking of district station totals with the actual ballot counts,
+that any political party may ask for under Mexican law.<ref>[http://www.eluniversal.com.mx/notas/360432.html Justifica Ugalde atraso de conteos distritales - El Universal - Elecciones<!-- Bot generated title -->]</ref>
+
+On 6 July, having narrowly lost the preliminary official count, López Obrador declared his intent
+to challenge the results before the [[Federal Electoral Tribunal]] (TEPJF), and demand a full recount of all ballots in Mexico City.<ref>{{cite news| url=http://news.bbc.co.uk/2/hi/americas/5150440.stm | work=BBC News | title=Mexico vote result on knife-edge | date=July 6, 2006 | accessdate=May 12, 2010}}</ref> On 8 July, his supporters met at Mexico City's [[Plaza de la Constitución|Zócalo]] square to start what Obrador called "the defense of the popular vote".<ref>[http://www.eluniversal.com.mx/notas/360507.html Impugnará AMLO elección; convoca a mitin en el Zócalo - El Universal - Elecciones<!-- Bot generated title -->]</ref>  The PRD also made a presentation on alleged election irregularities, including (as reported in ''[[La Jornada]]''), allegations that around 7:00 PM, the IFE's running scoreboard vote tally blinked zero for all candidates for a period of 4 minutes.{{Citation needed|date=January 2009}}
+
+The election-inspired protests were largely peaceful, and according to former IFE president [[José Woldenberg]], well within the law.  However some unions and PRD supporters called for "civil resistance" if the courts decided to ratify Calderón's victory.<ref>http://www.elnorte.com/nacional/articulo/653878/ Amagan sindicatos con resistencia civil (requires subscription)</ref>  Some, like editorialist Armando Fuentes Aguirre, expressed concern that this could lead to armed conflict.
+
+On 5 September 2006 the Federal Electoral Court declared Calderón the definitive winner.
+
+The final vote tally of the top two candidates was Calderón 35.89% (15,000,284 votes), López Obrador 35.31% (14,756,350 votes),<ref>[http://www.eluniversal.com.mx/noticias.html El Universal, el periódico de México líder en noticias y clasificados<!-- Bot generated title -->]</ref><ref>[http://www.eleconomista.com.mx/articulos/2006-07-06-15296 El Economista.com.mx<!-- Bot generated title -->]</ref><ref>[http://www.jornada.unam.mx/2006/07/07/003n1pol.php Ugalde se adelanta al TEPJF y declara ganador a Felipe Calderón<!-- Bot generated title -->]</ref> a difference of 243,934 (or 0.58%) votes.
+
+Election monitors from the [[European Union]] stated on 8 July that they found no irregularities that could have affected the transparency of the results and that could have impacted the results.<ref>[http://news.bbc.co.uk/2/hi/americas/5160188.stm  EU says disputed Mexico vote fair] ''BBC News''</ref> Other election monitors found many examples of fraud and irregularities and demanded a full recount {{Citation needed|date=April 2011}}. See also: [[Mexican general election 2006 controversies]]
+
+Earlier media reports had indicated that in two separate incidents, one in [[Ciudad Nezahualcóyotl]] and one in [[Xalapa]], used ballots and other electoral materials were found in rubbish dumps.<ref>[http://www.eluniversal.com.mx/notas/360330.html Encuentran actas electorales en basurero de Veracruz] ''El Universal''</ref><ref>[http://www.eluniversal.com.mx/notas/360006.html Hallan papelería electoral en basurero de bordo de Xochiaca] ''El Universal''</ref><ref>[http://www.economista.com.mx/articulos/2006-07-04-15123/ Encuentran papelería electoral en basurero de Neza] ''El Economista''</ref> ''Reforma'' later reported that this supposed electoral material was found to be photocopies and did not influence the election. [[Al Giordano]], though, in a July 8 ''[[Narco News]]'' article, has a ''La Jornada'' photo of three completed color ballots found in a Mexico City trash can.<ref>[http://www.narconews.com/Issue42/article1967.html [[Al Giordano]]'s Mexico election fraud series. Part 2,] 8 July 2006. Writing for ''[[Narco News]].''
+:See also [http://www.narconews.com/Issue42/article1962.html part 1  (July 5)], [http://www.narconews.com/Issue42/article1972.html part 3  (July 11)],  [http://narcosphere.narconews.com/story/2006/8/5/142225/7442 part 4  (August 5)], [http://www.narconews.com/Issue42/article2010.html part 5 (August  14)].</ref>
+
+{| class="wikitable" cellpadding=2 cellspacing=2
+|- bgcolor=#cccccc
+! Time<br>([[Central Daylight Time|CDT]])
+! Polling<br>stations<br>counted
+! [[Felipe Calderón|Calderón Hinojosa]]
+! [[Andrés Manuel López Obrador|López Obrador]]
+! [[Roberto Madrazo|Madrazo Pintado]]
+!Link
+|-  align=center
+|| 12:02 ||25.38% || 34.39% || 36.98% ||  22.03% || [http://www.eluniversal.com.mx/notas/360219.html]
+|- align=center
+|| 13:00 || 35.95% || 34.36% ||37.06% || ||  [http://elecciones.jornada.com.mx/amlo-con-ventaja-de-2-71-sobre-calderon-en-el-conteo-de-actas-hasta-las-13-horas]
+|-  align=center
+|| 13:33 || 40.05% || 34.41% ||36.99% ||  21.99% || [http://www.eluniversal.com.mx/notas/360239.html]
+|- align=center
+|| 14:33 || 50.16% || 34.39%|| 37.15% || 21.88% || [http://www.eluniversal.com.mx/notas/360259.html]
+|- align=center
+|| 15:06 || 54.92% || 34.56% ||37.11% || 21.77% || [http://www.eluniversal.com.mx/notas/360275.html]
+|- align=center
+|| 15:42 || 60.07% || 34.56% || 37.09% || ||
+|- align=center
+|| 16:01 || 62.61% || 34.53% ||37.09% || ||
+|-  align=center
+|| 16:13 || 64.34% || 34.56% || 36.98% ||   21.92% || [http://www.eluniversal.com.mx/notas/360284.html]
+|- align=center
+|| 16:29 || 65.68% || 34.60% || 36.91% ||  21.94% || [http://www.eluniversal.com.mx/notas/360296.html]
+|- align=center
+|| 17:02 || 69.01% || 34.64% || 36.81% || 21.98% || [http://www.eluniversal.com.mx/notas/360305.html]
+|- align=center
+|| 17:31 || 71.46% || 34.56% || 36.87% ||  22.02% || [http://www.eluniversal.com.mx/notas/360316.html]
+|- align=center
+|| 17:39 || 72.86% || 34.55% || 36.86% ||  22.03% || [http://www.eluniversal.com.mx/notas/360319.html]
+|- align=center
+|| 17:51 || 73.58% || 34.57% || 36.85% || 22.02% || [http://www.eluniversal.com.mx/notas/360325.html]
+|- align=center
+|| 18:04 || 74.68% || 34.60% || 36.81% || 22.03% || [http://www.eluniversal.com.mx/notas/360326.html]
+|- align=center
+|| 18:12 || 75.08% || 34.62% || 36.78% ||  22.05% || [http://elecciones.jornada.com.mx/con-75-08-de-las-actas-computadas-en-los-distritos-amlo-tiene-ventaja-de-2-16/]
+|- align=center
+|| 18:25 || 76.46% || 34.62% || 36.76% ||  22.07% || [http://www.eluniversal.com.mx/notas/360328.html]
+|- align=center
+|| 18:42 || 77.93% || 34.63% || 36.73% || 22.09% || [http://www.eluniversal.com.mx/notas/360327.html]
+|- align=center
+|| 18:57 || 79.21% || 34.65% || 36.71% || 22.10% || [http://www.eluniversal.com.mx/notas/360341.html]
+|- align=center
+|| 19:09 || 80.12% || 34.67% || 36.69% || 22.11% || [http://www.eluniversal.com.mx/notas/360342.html]
+|- align=center
+|| 19:22 || 81.04% || 34.68% || 36.65% || 22.12% || [http://www.eluniversal.com.mx/notas/360344.html]
+|- align=center
+|| 19:43 || 82.46% || 34.71% || 36.60% || 22.15% || [http://www.eluniversal.com.mx/notas/360343.html]
+|- align=center
+|| 19:56 || 83.53% ||  34.73% || 36.55% || 22.18% || [http://www.eluniversal.com.mx/notas/360355.html]
+|- align=center
+|| 20:11 || 84.13% ||  34.74% || 36.52% || 22.19% || [http://www.eluniversal.com.mx/notas/360359.html]
+|- align=center
+|| 20:24 || 84.84% ||  34.74% || 36.51% || 22.20% || [http://www.eluniversal.com.mx/notas/360359.html]
+|- align=center
+|| 20:32 || 85.34% ||  34.77% || 36.49% || 22.20% || [http://www.eluniversal.com.mx/notas/360359.html]
+|- align=center
+|| 20:46 || 85.98% ||  34.79% || 36.47% || 22.19% || [http://www.eluniversal.com.mx/notas/360359.html]
+|- align=center
+|| 21:00 || 86.19% ||  34.81% || 36.46% ||  || [http://elecciones.jornada.com.mx/con-86-19-de-las-actas-computadas-en-los-distritos-amlo-tiene-ventaja-de-1-65]
+|- align=center
+|| 21:20 || 87.05% ||  34.85% || 36.44% ||  || [http://elecciones.jornada.com.mx/con-87-05-de-las-actas-computadas-en-los-distritos-amlo-tiene-ventaja-de-1-65]
+|- align=center
+|| 21:47 || 88.40% ||  34.96% || 36.33% ||  || [http://elecciones.jornada.com.mx/con-88-40-de-las-actas-computadas-en-los-distritos-amlo-tiene-ventaja-de-1-37]
+|- align=center
+|| 23:03 || 91.71% ||  35.09% || 36.15% || 22.22% || [http://www.tvazteca.com/hechos/archivos2/2006/7/133387.shtml]
+|- align=center
+|| 23:10 || 91.86% ||  35.10% || 36.14% ||  || [http://elecciones.jornada.com.mx/con-91-86-de-las-actas-computadas-en-los-distritos-amlo-tiene-ventaja-de-1-04]
+|- align=center
+|| 23:23 || 92.45% ||  35.13% || 36.09% || 22.23% || [http://www.tvazteca.com/hechos/archivos2/2006/7/133387.shtml]
+|- align=center
+|| 23:28 || 92.57% ||  35.14% || 36.08% || 22.23% || [http://www.tvazteca.com/hechos/archivos2/2006/7/133387.shtml]
+|- align=center
+|| 23:35 || 92.83% ||  35.16% || 36.06% || 22.24% || [http://www.tvazteca.com/hechos/archivos2/2006/7/133387.shtml]
+|- align=center
+|| 23:45 || 93.10% ||  35.17% || 36.05% || 22.24% || [http://www.tvazteca.com/hechos/archivos2/2006/7/133387.shtml]
+|- align=center
+|| 23:50 || 93.20% ||  35.17% || 36.03% || 22.24% || [http://www.tvazteca.com/hechos/archivos2/2006/7/133387.shtml]
+|- align=center
+|| 23:54 || 93.32% ||  35.18% || 36.03% || 22.25% || [http://www.tvazteca.com/hechos/archivos2/2006/7/133387.shtml]
+|- align=center
+|| 00:00 || 93.44% ||  35.21% || 36.00% || 22.25% || [http://www.tvazteca.com/hechos/archivos2/2006/7/133387.shtml]
+|- align=center
+|| 00:05 || 93.57% ||  35.22% || 35.99% || 22.25% || [http://www.tvazteca.com/hechos/archivos2/2006/7/133387.shtml]
+|- align=center
+|| 00:10 || 93.77% ||  35.22% || 35.99% || 22.25% || [http://www.tvazteca.com/hechos/archivos2/2006/7/133387.shtml]
+|- align=center
+|| 00:20 || 94.09% ||  35.24% || 35.97% || 22.25% || [http://www.tvazteca.com/hechos/archivos2/2006/7/133387.shtml]
+|- align=center
+|| 00:30 || 94.32% ||  35.26% || 35.95% || 22.25% || [http://www.tvazteca.com/hechos/archivos2/2006/7/133387.shtml]
+|- align=center
+|| 00:45 || 94.61% ||  35.28% || 35.92% || 22.26% || [http://www.tvazteca.com/hechos/archivos2/2006/7/133387.shtml]
+|- align=center
+|| 00:50 || 94.69% ||  35.29% || 35.91% || 22.26% || [http://www.tvazteca.com/hechos/archivos2/2006/7/133387.shtml]
+|- align=center
+|| 01:00 || 94.76% ||  35.30% || 35.90% || 22.26% || [http://www.tvazteca.com/hechos/archivos2/2006/7/133387.shtml]
+|- align=center
+|| 01:10 || 94.92% ||  35.32% || 35.88% || 22.26% || [http://www.tvazteca.com/hechos/archivos2/2006/7/133387.shtml]
+|- align=center
+|| 01:15 || 95.06% ||  35.32% || 35.87% || 22.26% || [http://www.tvazteca.com/hechos/archivos2/2006/7/133387.shtml]
+|- align=center
+|| 01:20 || 95.17% ||  35.33% || 35.86% || 22.26% || [http://www.tvazteca.com/hechos/archivos2/2006/7/133387.shtml]
+|- align=center
+|| 01:25 || 95.40% ||  35.34% || 35.85% || 22.26% || [http://www.tvazteca.com/hechos/archivos2/2006/7/133387.shtml]
+|- align=center
+|| 01:30 || 95.48% ||  35.35% || 35.84% || 22.27% || [http://www.tvazteca.com/hechos/archivos2/2006/7/133387.shtml]
+|- align=center
+|| 01:40 || 95.64% ||  35.37% || 35.82% || 22.27% || [http://www.tvazteca.com/hechos/archivos2/2006/7/133387.shtml]
+|- align=center
+|| 01:45 || 95.72% ||  35.37% || 35.81% || 22.27% || [http://www.tvazteca.com/hechos/archivos2/2006/7/133387.shtml]
+|- align=center
+|| 01:55 || 95.79% ||  35.39% || 35.80% || 22.27% || [http://www.tvazteca.com/hechos/archivos2/2006/7/133387.shtml]
+|- align=center
+|| 02:00 || 95.93% ||  35.40% || 35.79% || 22.28% || [http://www.tvazteca.com/hechos/archivos2/2006/7/133387.shtml]
+|- align=center
+|| 02:05 || 96.08% ||  35.41% || 35.77% || 22.28% || [http://www.tvazteca.com/hechos/archivos2/2006/7/133387.shtml]
+|- align=center
+|| 02:10 || 96.20% ||  35.42% || 35.76% || 22.28% || [http://www.tvazteca.com/hechos/archivos2/2006/7/133387.shtml]
+|- align=center
+|| 02:20 || 96.36% ||  35.44% || 35.75% || 22.27% || [http://www.tvazteca.com/hechos/archivos2/2006/7/133387.shtml]
+|- align=center
+|| 02:28 || 96.42% ||  35.45% || 35.74% || 22.27% || [http://www.tvazteca.com/hechos/archivos2/2006/7/133387.shtml]
+|- align=center
+|| 02:35 || 96.48% ||  35.45% || 35.73% || 22.27% || [http://www.tvazteca.com/hechos/archivos2/2006/7/133387.shtml]
+|- align=center
+|| 02:40 || 96.54% ||  35.46% || 35.73% || 22.27% || [http://www.tvazteca.com/hechos/archivos2/2006/7/133387.shtml]
+|- align=center
+|| 02:50 || 96.85% ||  35.49% || 35.70% || 22.27% || [http://www.tvazteca.com/hechos/archivos2/2006/7/133387.shtml]
+|- align=center
+|| 03:00 || 96.89% ||  35.49% || 35.70% || 22.27% || [http://www.tvazteca.com/hechos/archivos2/2006/7/133387.shtml]
+|- align=center
+|| 03:10 || 97.03% ||  35.51% || 35.68% || 22.27% || [http://www.tvazteca.com/hechos/archivos2/2006/7/133387.shtml]
+|- align=center
+|| 03:15 || 97.08% ||  35.52% || 35.67% || 22.27% || [http://www.tvazteca.com/hechos/archivos2/2006/7/133387.shtml]
+|- align=center
+|| 03:25 || 97.19% ||  35.54% || 35.66% || 22.27% || [http://www.tvazteca.com/hechos/archivos2/2006/7/133387.shtml]
+|- align=center
+|| 03:30 || 97.19% ||  35.55% || 35.65% || 22.26% || [http://www.tvazteca.com/hechos/archivos2/2006/7/133387.shtml]
+|- align=center
+|| 03:40 || 97.37% ||  35.56% || 35.63% || 22.26% || [http://www.tvazteca.com/hechos/archivos2/2006/7/133387.shtml]
+|- align=center
+|| 03:42 || 97.44% ||  35.57% || 35.62% || 22.27% || [http://www.tvazteca.com/hechos/archivos2/2006/7/133387.shtml]
+|- align=center
+|| 03:55 || 97.51% ||  35.58% || 35.61% || 22.27% || [http://www.tvazteca.com/hechos/archivos2/2006/7/133387.shtml]
+|- align=center
+|| 04:00 || 97.58% ||  35.59% || 35.61% || 22.27% || [http://www.tvazteca.com/hechos/archivos2/2006/7/133387.shtml]
+|- align=center
+|| 04:07 || 97.70% ||  35.60% || 35.59% || 22.27% || [http://www.eluniversal.com.mx/notas/360333.html]
+|- align=center
+|| 04:15 || 97.84% ||  35.62% || 35.57% || 22.27% || [http://www.tvazteca.com/hechos/archivos2/2006/7/133387.shtml]
+|- align=center
+|| 04:25 || 97.92% ||  35.63% || 35.56% || 22.27% || [http://www.tvazteca.com/hechos/archivos2/2006/7/133387.shtml]
+|- align=center
+|| 04:45 || 98.05% ||  35.65% || 35.54% || 22.27% || [http://www.tvazteca.com/hechos/archivos2/2006/7/133387.shtml]
+|- align=center
+|| 05:00 || 98.18% ||  35.66% || 35.53% || 22.27% || [http://www.tvazteca.com/hechos/archivos2/2006/7/133387.shtml]
+|- align=center
+|| 05:25 || 98.41% ||  35.68% || 35.51% || 22.28% || [http://www.tvazteca.com/hechos/archivos2/2006/7/133387.shtml]
+|- align=center
+|| 06:22 || 98.91% ||  35.74% || 35.44% ||  || [http://www1.reforma.com/default.htm]
+|- align=center
+|| 06:56 || 99.02% ||  35.76% || 35.43% || 22.27% || [http://www.tvazteca.com/hechos/archivos2/2006/7/133387.shtml]
+|- align=center
+|| 07:48 || 99.21% ||  35.77% || 35.42% || 22.27% || [http://www.tvazteca.com/hechos/archivos2/2006/7/133387.shtml]
+|- align=center
+|| 08:23 || 99.31% ||  35.79% || 35.40% || || [http://www.eluniversal.com.mx/noticias.html]
+|- align=center
+|| 08:31 || 99.36% ||  35.80% || 35.39% || || [http://www.eluniversal.com.mx/noticias.html]
+|- align=center
+|| 09:56 || 99.56% ||  35.82% || 35.37% || 22.27% || [http://www.tvazteca.com/hechos/archivos2/2006/7/133387.shtml]
+|- align=center
+|| 10:45 || 99.64% ||  35.84% || 35.35% || 22.27% || [http://www.tvazteca.com/hechos/archivos2/2006/7/133387.shtml]
+|- align=center
+|| 11:27 || 99.73% ||  35.85% || 35.34% ||   || [http://www.cronica.com.mx/nota.php?id_nota=249717]
+|- align=center
+|| 12:59 || 99.94% ||  35.87% || 35.32% || 22.27% || [http://www.tvazteca.com/hechos/archivos2/2006/7/133387.shtml]
+|- align=center
+|| 14:00 || 99.98% || 35.88% || 35.31% || || [http://elecciones.jornada.com.mx/con-99-98-de-las-actas-computadas-en-los-distritos-felipe-calderon-tiene-ventaja-de-0-57/]
+|- align=center
+|| 15:10 || 100.0% ||  35.89% || 35.31% || 22.26% || [http://www.eluniversal.com.mx/notas/360635.html]
+|}
+<timeline>
+ImageSize = width:450 height:225
+PlotArea = left:30 bottom:20 top:20 right:20 
+TimeAxis = orientation:horizontal format:yyyy
+AlignBars = justify
+DateFormat = x.y
+Period     = from:0 till:45.0
+TimeAxis   = orientation:horizontal
+AlignBars  = early
+Colors     =
+  id:gray     value:rgb(0.97,0.97,0.97)
+  id:PAN      value:rgb(0.4, 0.6, 1)
+  id:PRD      value:rgb(1, 0.84314, 0)
+  id:PRI      value:rgb(0.8, 0, 0)
+  id:ALT      value:rgb(0.2, 0.2, 0.8)
+  id:NA       value:rgb(0,0.6667,0.6667)
+  id:darkgray     value:rgb(0.27,0.27,0.27)
+  id:midgray     value:rgb(0.57,0.57,0.57)
+ScaleMajor = gridcolor:midgray increment:10 start:0
+ScaleMinor = gridcolor:gray increment:1 start:0
+
+BarData=
+  barset:Candidates
+
+PlotData=
+  width:15 fontsize:S textcolor:black align:left anchor:from shift:(10,-4) color:red
+  barset:Candidates  
+  from:0 till:35.89 color:PAN width:20 align:left fontsize:S text:"[[Felipe Calderón]] (35.89%)"
+  from:0 till:35.31 color:PRD width:20 align:left fontsize:S text:"[[Andrés Manuel López Obrador]] (35.31%)"
+  from:0 till:22.26 color:PRI width:20 align:left fontsize:S text:"[[Roberto Madrazo]] (22.26%)"
+  from:0 till:2.70 color:ALT width:20 align:left fontsize:S text:"      [[Patricia Mercado]] (2.70%)"
+  from:0 till:0.96 color:NA width:20 align:left fontsize:S text:"[[Roberto Campa]] (0.96%)"
+  from:0 till:0.71 color:midgray width:20 align:left fontsize:S text:"[[Write-in candidates]] (0.71%)"  
+  from:0 till:2.16 color:darkgray width:20 align:left fontsize:S text:"    Double votes / null votes (2.16%)"
+
+TextData=
+  pos:(165,215) fontsize:M text:Final vote breakdown
+  pos:(151,205) fontsize:S text:per IFE data on 0000 UTC July 7
+  pos:(400,1) fontsize:S text:(percent)
+</timeline>
+
+===Results by state===
+Based on the official results of the [[Federal Electoral Institute]]
+{| class="wikitable" cellpadding=2 cellspacing=2 width=81%
+|- bgcolor=#cccccc
+! style="background: gold" width=12%| [[States of Mexico|State]]
+! style="background: gold" width=8%| [[Felipe Calderón|Calderón]]
+! style="background: gold" width=8%| [[Andrés Manuel López Obrador|López Obrador]]
+! style="background: gold" width=8%| [[Roberto Madrazo|Madrazo]]
+! style="background: gold" width=8%| [[Patricia Mercado|Mercado]]
+! style="background: gold" width=8%| [[Roberto Campa|Campa]]
+! style="background: gold" width=8%| [[Write-in]]
+! style="background: gold" width=8%| None
+|-
+| [[Aguascalientes]] || align="right"| '''193,588''' ||align="right"| 89,920 ||align="right"| 97,935 ||align="right"| 16,275 ||align="right"| 5,597 ||align="right"| 3,335 ||align="right"| 7,669
+|-
+| [[Baja California]] || align="right"| '''450,186''' ||align="right"| 224,275 ||align="right"| 203,233 ||align="right"| 35,917 ||align="right"| 13,522 ||align="right"| 6,488 ||align="right"| 17,099
+|-
+| [[Baja California Sur]] || align="right"| 62,127 ||align="right"| '''77,875''' ||align="right"| 29,874 ||align="right"| 5,470 ||align="right"| 1,475 ||align="right"| 1,225 ||align="right"| 2,801
+|-
+| [[Campeche]] || align="right"| 99,526 ||align="right"| '''101,192''' ||align="right"| 87,412 ||align="right"| 4,756 ||align="right"| 8,470 ||align="right"| 1,652 ||align="right"| 9,514
+|-
+| [[Chiapas]] || align="right"| 215,358 ||align="right"| '''551,749''' ||align="right"| 427,351 ||align="right"| 15,065 ||align="right"| 7,378 ||align="right"| 8,395 ||align="right"| 47,327
+|-
+| [[Chihuahua (state)|Chihuahua]] || align="right"| '''523,914''' ||align="right"| 212,069 ||align="right"| 341,916 ||align="right"| 31,414 ||align="right"| 20,375 ||align="right"| 6,540 ||align="right"| 25,405
+|-
+| [[Coahuila]] || align="right"| '''400,894''' ||align="right"| 225,117 ||align="right"| 245,960 ||align="right"| 26,450 ||align="right"| 8,412 ||align="right"| 8,192 ||align="right"| 14,919
+|-
+| [[Colima]] || align="right"| '''107,880''' ||align="right"| 61,434 ||align="right"| 76,586 ||align="right"| 5,284 ||align="right"| 1,567 ||align="right"| 784 ||align="right"| 4,591
+|-
+| [[Mexican Federal District|Distrito Federal]] || align="right"| 1,325,474 ||align="right"| '''2,813,112''' ||align="right"| 413,644 ||align="right"| 175,517 ||align="right"| 27,152 ||align="right"| 14,833 ||align="right"| 69,553
+|-
+| [[Durango]] || align="right"| '''255,229''' ||align="right"| 128,881 ||align="right"| 153,990 ||align="right"| 11,188 ||align="right"| 5,769 ||align="right"| 6,113 ||align="right"| 10,873
+|-
+| [[Guanajuato]] || align="right"| '''1,155,403''' ||align="right"| 301,463 ||align="right"| 368,789 ||align="right"| 49,753 ||align="right"| 18,611 ||align="right"| 17,136 ||align="right"| 49,896
+|-
+| [[Guerrero]] || align="right"| 160,253 ||align="right"| '''510,217''' ||align="right"| 263,035 ||align="right"| 16,809 ||align="right"| 10,493 ||align="right"| 7,132 ||align="right"| 24,172
+|-
+| [[Hidalgo (Mexico)|Hidalgo]] || align="right"| 251,772 ||align="right"| '''385,750''' ||align="right"| 235,926 ||align="right"| 25,702 ||align="right"| 15,360 ||align="right"| 6,444 ||align="right"| 24,636
+|-
+| [[Jalisco]] || align="right"| '''1,435,334''' ||align="right"| 559,266 ||align="right"| 705,925 ||align="right"| 93,836 ||align="right"| 37,739 ||align="right"| 16,537 ||align="right"| 61,729
+|-
+| [[México (state)|México]] || align="right"| 1,771,515 ||align="right"| '''2,469,093''' ||align="right"| 1,033,110 ||align="right"| 215,857 ||align="right"| 61,494 ||align="right"| 48,075 ||align="right"| 101,188
+|-
+| [[Michoacán]] || align="right"| 515,600 ||align="right"| '''615,535''' ||align="right"| 283,157 ||align="right"| 29,951 ||align="right"| 8,229 ||align="right"| 10,780 ||align="right"| 31,845
+|-
+| [[Morelos]] || align="right"| 226,340 ||align="right"| '''312,815''' ||align="right"| 111,118 ||align="right"| 24,736 ||align="right"| 12,129 ||align="right"| 6,901 ||align="right"| 15,062
+|-
+| [[Nayarit]] || align="right"| 69,097 ||align="right"| '''152,999''' ||align="right"| 123,284 ||align="right"| 7,730 ||align="right"| 3,840 ||align="right"| 1,919 ||align="right"| 6,978
+|-
+| [[Nuevo León]] || align="right"| '''865,006''' ||align="right"| 282,384 ||align="right"| 488,402 ||align="right"| 51,760 ||align="right"| 31,112 ||align="right"| 11,343 ||align="right"| 39,211
+|-
+| [[Oaxaca]] || align="right"| 226,304 ||align="right"| '''620,062''' ||align="right"| 428,026 ||align="right"| 19,482 ||align="right"| 5,620 ||align="right"| 7,672 ||align="right"| 42,017
+|-
+| [[Puebla]] || align="right"| '''743,831''' ||align="right"| 639,659 ||align="right"| 460,183 ||align="right"| 50,234 ||align="right"| 20,418 ||align="right"| 16,227 ||align="right"| 53,614
+|-
+| [[Querétaro]] || align="right"| '''322,975''' ||align="right"| 160,383 ||align="right"| 133,188 ||align="right"| 16,536 ||align="right"| 6,028 ||align="right"| 5,823 ||align="right"| 15,451
+|-
+| [[Quintana Roo]] || align="right"| 111,485 ||align="right"| '''147,839''' ||align="right"| 105,086 ||align="right"| 8,801 ||align="right"| 2,768 ||align="right"| 2,729 ||align="right"| 7,014
+|-
+| [[San Luis Potosí]] || align="right"| '''462,329''' ||align="right"| 204,983 ||align="right"| 207,602 ||align="right"| 23,648 ||align="right"| 8,360 ||align="right"| 7,470 ||align="right"| 37,332
+|-
+| [[Sinaloa]] || align="right"| '''363,461''' ||align="right"| 301,709 ||align="right"| 263,553 ||align="right"| 20,620 ||align="right"| 6,717 ||align="right"| 5,397 ||align="right"| 19,227
+|-
+| [[Sonora]] || align="right"| '''468,288''' ||align="right"| 240,114 ||align="right"| 175,365 ||align="right"| 23,187 ||align="right"| 6,914 ||align="right"| 3,724 ||align="right"| 16,345
+|-
+| [[Tabasco]] || align="right"| 31,975 ||align="right"| '''512,743''' ||align="right"| 344,526 ||align="right"| 4,261 ||align="right"| 1,906 ||align="right"| 1,582 ||align="right"| 14,120
+|-
+| [[Tamaulipas]] || align="right"| '''506,177''' ||align="right"| 324,491 ||align="right"| 317,849 ||align="right"| 25,025 ||align="right"| 12,424 ||align="right"| 15,853 ||align="right"| 24,103
+|-
+| [[Tlaxcala]] || align="right"| 140,128 ||align="right"| '''180,487''' ||align="right"| 59,672 ||align="right"| 11,130 ||align="right"| 3,426 ||align="right"| 6,504 ||align="right"| 8,883
+|-
+| [[Veracruz]] || align="right"| 1,006,676 ||align="right"| '''1,036,474''' ||align="right"| 727,638 ||align="right"| 55,971 ||align="right"| 17,777 ||align="right"| 25,396 ||align="right"| 72,412
+|-
+| [[Yucatán]] || align="right"| '''364,353''' ||align="right"| 125,152 ||align="right"| 260,116 ||align="right"| 12,962 ||align="right"| 4,504 ||align="right"| 6,784 ||align="right"| 15,284
+|-
+| [[Zacatecas]] || align="right"| 167,806 ||align="right"| '''187,088''' ||align="right"| 128,392 ||align="right"| 13,523 ||align="right"| 6,218 ||align="right"| 9,004 ||align="right"| 13,224
+|-
+|style="background: #FFFFFF" align="center"|'''Total''' || style="background: #FFFFFF" align="right"| '''15,000,284''' ||style="background: #FFFFFF" align="right"| 14,756,350 ||style="background: #FFFFFF" align="right"| 9,301,441 ||style="background: #FFFFFF" align="right"| 1,128,850 ||style="background: #FFFFFF" align="right"| 401,804 ||style="background: #FFFFFF" align="right"| 297,989 ||style="background: #FFFFFF" align="right"| 904,604
+|}
+
+===Post-election controversy===
+{{main|Mexican general election 2006 controversies}}
+{{wikinews|No full recount in Mexican election}}
+Soon after it was clear that the official count would result with [[Felipe Calderón]] ahead, [[Andrés Manuel López Obrador]] stated that he and his party, the [[Party of the Democratic Revolution|PRD]], would fight for a "vote-by-vote" general recount.
+
+He presented nine boxes and 900 pages of supposed evidence alleging mathematical electoral irregularities in 50,000 polling places to the [[Federal Electoral Tribunal]] (TEPJF). In addition, he claimed that in areas with large numbers of López Obrador supporters, election officials nullified 900,000 votes.<ref>{{cite news| url=http://www.bloomberg.com/apps/news?pid=20601086&sid=aNsnNRANcLuE&refer=latin_america | work=Bloomberg | title=Lopez Obrador Plans Protest Camps to Press Recount (Update1) | date=July 30, 2006}}</ref>
+
+[[File:Supporters of López Obrador marching in Guanajuato, 2006.jpg|thumb|right|Supporters of López Obrador marching in Guanajuato]]López Obrador and his supporters began organizing mass protests, marches, and civil disobedience, culminating in a massive rally in [[Mexico City]]'s historic [[Zócalo]] on 30 July 2006. Estimates of the crowd at the rally range from 500,000 to 3,000,000 supporters.<ref>{{cite news| url=http://www.latimes.com/news/nationworld/world/la-fg-mexico17jul17,0,1043192.story | work=Los Angeles Times | accessdate=May 12, 2010 | deadurl=yes}} {{Dead link|date=October 2010|bot=H3llBot}}</ref> Additionally, López Obrador's campaign has set up ''plantones'', or encampments, inside the Zócalo and along [[Paseo de la Reforma]], one of [[Mexico City]]'s main arteries, for 47 days and slowing traffic for hours. The encampents were widely unpopular, as 65% of inhabitants in Mexico City opposed them.<ref name="opone">[http://www.eluniversal.com.mx/nacion/141694.html ''Se opone al plantón 65% en DF''] August 14, 2006 ''El Universal''.</ref>
+
+On Saturday, 5 August, the TEPJF met in public session to decide the outcome of López Obrador's request for a recount. The seven magistrates voted unanimously that there was only sufficient legal justification to order the recount of 11,839 ballot boxes in 155 districts (9.2% of the total), thus rejecting López Obrador's public demand that all votes and ballot boxes be recounted. [http://www.jornada.unam.mx:3128/solo-procede-el-recuento-en-11-839-casillas-y-no-en-la-totalidad-tepjf] The Tribunal based its decision of a partial recount on its finding that, despite publicly demanding a vote by vote general recount, López Obrador's party only presented legal claims to less than 44,000 polling stations, or less than 34%. Therefore, legally, only those 44,000 polling stations were deemed controversial by the TEPJF. The Tribunal ruled that the non-controversial votes should not be recounted, because "the certainty asked by the Coalition (of López Obrador's party) is tied to the respect of the citizen counts in non-controversial polling stations". However, the Tribunal did certify that principles of certainty in the elections called for a justified recount in some of the controversial stations, as irregularities were found.<ref>[http://busquedas.gruporeforma.com/utilerias/imdservicios3W.DLL?JSearchformatS&file=MTY/NORTE01/00546/00546719.htm&palabra=menos%20de%2044&siteelnorte Defienden Certeza de Proceso Electoral], El Norte, August 8, 2006 (requires subscription)</ref>
+
+In the western state of [[Jalisco]] alone, 2,705 ballot boxes (33% of the state's total) will be recounted due to "evident mathematical errors". The state with the highest percentage of ballot boxes to be reopened is [[Aguascalientes]] with 436 or 35% of its 1,226 total ballot boxes. Other states with a high percentage of ballot boxes authorized to be opened include:
+[[Tamaulipas]], 942 ballot boxes (or 23.7% of total ballot boxes); [[Campeche]], 170 (18.3%); [[Chihuahua (state)|Chihuahua]], 727 (15%); [[Durango]], 344 (15.4%); [[Nuevo León]], 508 (10%); [[San Luis Potosí]], 495 (16%); [[Sinaloa]], 334 (7.7%); [[Yucatán]], 228 (10.5%); [[Zacatecas]], 221 (9.23%); [[Querétaro]], 9.4%.
+
+States with small percentages include: [[Chiapas]], 81 ballot boxes (1.6%); [[Mexican Federal District|Distrito Federal]], 227 (1.85%); [[Estado de México]], 362 (2.33%); [[Michoacán]], 300 (5.5%); [[Morelos]], 124 (6%); [[Puebla]], 194 (3.22%); [[Veracruz]], 396 (6.56%); and [[Quintana Roo]], 10 (0.8%).<ref>[http://www.jornada.unam.mx/2006/08/06/006n1pol.php En algunos estados panistas se recontará en 35% de casillas<!-- Bot generated title -->]</ref>
+
+The recount commenced on Wednesday, 9 August, [http://www.cbc.ca/world/story/2006/08/09/mexico-recount.html (CBC)] [http://www.voanews.com/english/2006-08-09-voa20.cfm (VOA)] and concluded on Sunday, 13 August. Only after calculated the recounted votes will the TEPJF declare the candidate with the most votes as president-elect.<ref>[http://www.cronica.com.mx/nota.php?id_nota=254629 Rechaza el TEPJF recuento voto por voto / 6 de Febrero de 2008<!-- Bot generated title -->]</ref>
+
+On Friday, August 11, both disputing parties held press conferences, in which, despite the TEPJF's insistence that no recount results would be released until Sunday, each provided their own internal figures based on their observers in the recount. These figures clashed dramatically; according to the PAN, 75% of the votes had been recounted and the results confirmed that the initial count was "perfect", with fewer than three errors per ballot box and no [[systemic bias]]. (This is the message that most of the press reported, although others reported that the "75% without errors" figure was out of the completed, not the total, recount; still, the figures were hard to square with Coalition claims.) The Coalition claimed that only 60% of the recount was complete, and that in this recount their party had gained an average of 29 votes per ballot box. (Again, this was the message in most of the press, though other press outlets seemed to imply that the Coalition claims included lost or excess ballots as well as miscounted ones.). [http://www.proceso.com.mx/noticia.html?nid=43016&cat=2]
+
+On August 28, the TEPJF announced the results of the partial recount, subtracting 81,080 votes for Calderón, 76,897 votes for López Obrador, 63,114 for Roberto Madrazo, 5,962 for Patricia Mercado, 2,743 for Roberto Campa, and 7,940 for the remaining candidates. A total of 237,736 votes were annulled out of the approximately 4 million votes recounted. Than means around 6% of the recounted votes were annulled.<ref>[http://www.nytimes.com/2006/08/28/world/americas/28cnd-mexico.html?hp&ex=1156824000&en=febdbcc5e379a14f&ei=5094&partner=homepage "Mexican Court Rejects Election Fraud Challenges"]. James C. McKinley Jr., ''[[New York Times]]'', 28 August 2006.</ref><ref name="multiple2">[http://scoop.epluribusmedia.org/story/2006/8/30/64611/4216 "Mexican Court Rejects Election Fraud"]. ''ePluribus Media'' article, 30 August 2006.</ref>
+
+Despite the Tribunal's ruling, and despite the ruling being based on his party's decision of not contesting all polls judicially, López Obrador continues to demand the "vote-by-vote" general recount, promising to continue civil disobedience and sit-ins. He was quoted as saying, "We don't want a portion of democracy. We want 100% democracy." [http://news.bbc.co.uk/2/hi/americas/5251252.stm]
+
+A day before the end of the recount, López Obrador's coalition threatened with national mobilizations to prevent the "imposition" of Calderón, if the PAN candidate was confirmed winner of the election. [http://www.eluniversal.com.mx/notas/368336.html]
+
+===Calls for electoral reform===
+
+On Thursday November 23, 2006 the European Union (EU) election observer mission presented its final report.<ref name=eumission>[http://ec.europa.eu/comm/external_relations/human_rights/eu_election_ass_observ/mexico/index.htm "The EU's Human rights and Democratisation Policy - European Union deploys Election Observation Mission to Mexico"].</ref><ref name=eufinrep>[http://ec.europa.eu/comm/external_relations/human_rights/eu_election_ass_observ/docs/2006_24_11_final_report_mexico.pdf "European Union Election Observation Mission Mexico 2006 Final Report"]. 23 November 2006.</ref> The report was generally positive and defended the official result of the July 2 presidential election saying they "reflect[ed] the legitimate will of the Mexican people." However, the report also expressed concerns and raised several criticisms, both general and specific, of the electoral process and the election. The report includes 48 specific recommendations for future reform to "strengthen the electoral process", such as introducing random automatic recounts in the case of a close election, shortening the campaign period, considering the introduction of a [[Two-round system|two round run-off]] system for presidential elections, and general clarifications in the electoral law (e.g., clarifying the grounds for requesting a recount and for the annulling of the election).
+
+A November 24, 2006 article by ''[[The Herald Mexico]]'' reports:<ref name=herald22095>[http://www.eluniversal.com.mx/miami/22095.html "EU team slams high costs"]. ''[[The Herald Mexico]]'', 24 November 2006.</ref> "All of Mexico's major parties have called for reforms to electoral laws, including clearer limits on funding, greater transparency on campaign spending and a shorter campaign period."
+
+The article also reports: "The EU mission, headed by Spanish Deputy [[José Salafranca Sánchez-Neira|José Ignacio Salafranca]], said on Thursday that a runoff election would help the nation's electoral system, especially following results as close as this year's, when Felipe Calderón beat Andrés Manuel López Obrador by less than a percentage point. In a news conference, Salafranca said that while a second round would be expensive, it would give 'greater democratic legitimacy' to the result."
+
+===Presidential candidates===
+There were five registered candidates for the 2006 presidential election:
+{| class="wikitable" cellpadding=2 cellspacing=2
+|- bgcolor=#cccccc
+!style="background-color:#E9E9E9" align=center colspan=2|Party/Alliance
+!style="background-color:#E9E9E9" align=center|Photo
+!style="background-color:#E9E9E9" align=center|Candidate
+!style="background-color:#E9E9E9" align=center|Slogan
+|-
+|bgcolor=#3333FF|
+|| [[National Action Party (Mexico)|National Action Party]]
+|| [[File:Felipe Calderon H.jpg|50px]]||[[Felipe Calderón]]|| ''Para que vivamos mejor''<br />"So we can live better"
+|-
+|bgcolor=#FFE153|
+|| [[Coalition for the Good of All]] ([[Party of the Democratic Revolution|PRD]], [[Labor Party (Mexico)|PT]], [[Convergence (Mexico)|Convergence]])
+|| [[File:Andres Manuel Lopez Obrador.jpg|50px]]||[[Andrés Manuel López Obrador]]|| ''Por el bien de todos, primero los pobres''<br />"For the Good of All, the poor are first"
+|-
+|bgcolor=#CC0000|
+|| [[Alliance for Mexico]] ([[Institutional Revolutionary Party|PRI]], [[Ecologist Green Party of Mexico|PVEM]])
+|| [[File:Roberto Madrazo.jpg|50px]]||[[Roberto Madrazo]]|| ''Mover a México para que las cosas se hagan''<br />"Moving Mexico to get things done"
+|-
+|bgcolor=#FF3300|
+|| [[Social Democratic and Peasant Alternative Party]]
+|| <!-- Deleted image removed: [[File:Patriciamercado.PNG|50px]] -->||[[Patricia Mercado|Patricia Mercado Castro]]|| ''Palabra de mujer''<br />"A woman's word"
+|-
+|bgcolor=#2DBBEA|
+|| [[New Alliance Party (Mexico)|New Alliance Party]]
+||
+|| [[Roberto Campa|Roberto Campa Cifrián]]
+||  ''Uno de tres''<br />"One out of three"
+|}
+
+A non-registered candidate, [[Víctor González Torres]] (nicknamed "Dr. Simi" after the mascot of his national drugstore franchise) made a massive marketing campaign to enter the election, in spite of not being registered as an official candidate, and ran as a [[write-in candidate]]. His franchise slogan is "The same only cheaper", but his campaign one is "To serve God and the people of Mexico". Ironically, he has frequently stressed the fact that he pays all of his own campaign expenses, thus being the "cheapest" candidate. He was not considered a formal candidate but many press sources still publish his sayings and complaints against IFE, while some sources consider him a sort of "comic relief".
+
+===Summary===
+{{Mexican presidential election, 2006}}
+
+{| class=wikitable style="font-size:95%; text-align:right;"
+|+'''Summary of the 2 July 2006 [[President of Mexico|Mexican presidential]] preliminary election results'''
+|-
+!style="background-color:#E9E9E9" align=center colspan=2|Candidates
+!style="background-color:#E9E9E9" align=center|Party
+!style="background-color:#E9E9E9" align=center|Votes
+!style="background-color:#E9E9E9" align=center|%
+|-
+|bgcolor=#3333FF|
+|align=left|[[Felipe Calderón]]
+|align=left|[[National Action Party (Mexico)|National Action Party]]
+|14,027,214
+|36.38%
+|-
+|bgcolor=#FFE153|
+|align=left|[[Andrés Manuel López Obrador]]
+|align=left|[[Coalition for the Good of All]] (PRD, PT, CV)
+|13,624,506
+|35.34%
+|-
+|bgcolor=#CC0000|
+|align=left|[[Roberto Madrazo]]
+|align=left|[[Alliance for Mexico]] (PRI, PVEM)
+|8,318,886
+|21.57%
+|-
+|bgcolor=#FF3300|
+|align=left|[[Patricia Mercado]]
+|align=left|[[Social Democratic and Peasant Alternative Party]]
+|1,085,966
+|2.81%
+|-
+|bgcolor=#2DBBEA|
+|align=left|[[Roberto Campa Cifrián]]
+|align=left|[[New Alliance Party (Mexico)|New Alliance]]
+|384,317
+|0.99%
+|-
+|bgcolor=#E3E3E3|
+|align=left colspan=2|''Write in''
+|281,145
+|0.72%
+|-
+|bgcolor=#E3E3E3|
+|align=left colspan=2|''Blank/Invalid''
+|827,317
+|2.14%
+|-
+|align=left colspan=3 style="background-color:#E9E9E9"|'''Total'''
+|width="75" align="right" style="background-color:#E9E9E9"|'''38,549,351'''
+|width="30" align="right" style="background-color:#E9E9E9"|'''100.00%'''
+|-
+|align="left" colspan=6| <small>Source: [[Instituto Federal Electoral]] [http://prep2006.ife.org.mx/PREP2006/prep2006.html]</small>
+|}
+
+===Polls===
+
+[[Opinion poll]]s in the run-up to the election showed López Obrador and Calderón neck and neck. The last polls conducted before the polling blackout that begins eight days before the election all showed López Obrador and Calderón tied with the results within the margins of error. Both ''[[Reforma]]'' and ''[[El Universal (Mexico City)|El Universal]]'' newspapers, considered by many to be [[Mexico City]]'s most influential, gave López Obrador a two point edge over Calderón.
+
+The candidates of the smaller parties also gained ground at the expense of Roberto Madrazo and López Obrador. The last poll from ''El Universal'' showed [[Patricia Mercado]] of [[Social Democratic and Farmer Alternative]] had gained enough support for her party to retain its registry.  In the latest Zogby poll, Madrazo, however, trailed the leader Calderón by only 8 points and was only 4 points behind López Obrador.
+
+Averaging the last ten polls conducted before the polling blackout (between 20 June and 23 June), López Obrador edged out Calderón by a razor-thin half percentage point with 35.1%. Calderón had 34.6% and Madrazo came in third with 26%.
+{| class="wikitable" cellpadding=2 cellspacing=2
+|- bgcolor=#cccccc
+! '''Date''' !! '''Publisher''' !! '''Source''' !! '''López Obrador''' !! '''Calderón''' !! '''Madrazo'''
+|-
+||June 23, 2006 || ''[[Reforma]]'' ||[http://www.presidencia.com.mx/cgi-local/encuestasmedios.pl?numero=65] || '''36%''' || 34% || 25%
+|-
+||June 23, 2006 || ''[[El Universal (Mexico City)|El Universal]]'' ||[http://www.presidencia.com.mx/cgi-local/encuestasmedios.pl?numero=66] || '''36%''' || 34% || 26%
+|-
+||June 23, 2006 || ''[[Ulises Beltran y Asociados]]'' ||[http://www.presidencia.com.mx/cgi-local/encuestasmedios.pl?numero=67] || '''34%''' || '''34%''' || 26%
+|-
+||June 22, 2006 || ''[[Milenio Diario]]'' ||[http://www.milenio.com/guadalajara/milenio/portada.asp] || '''35.4%''' || 30.5% || 29.6%
+|-
+||June 22, 2006 || ''[[GEA-ISA]]'' ||[http://www.isa.org.mx/contenido/GIMX0606bp.pdf] || 36% || '''38%''' || 23%
+|-
+||June 22, 2006 || ''[[Alducin y Asociados]]'' ||[http://www.presidencia.com.mx/cgi-local/encuestasmedios.pl?numero=63] || 34% || '''38%''' || 24%
+|-
+||June 22, 2006 || ''[[Consulta Mitofsky]]'' ||[http://www.presidencia.com.mx/cgi-local/encuestasmedios.pl?numero=64] || '''36%''' || 33% || 27%
+|-
+||June 21, 2006 || ''[[Indermerc]]'' ||[http://www.indemerc-harris.com] || '''33%''' || 32% || 28%
+|-
+||June 21, 2006 || ''[[Marketing Político]]'' ||[http://www.marketingpolitico.com.mx/Encuestas/Junio%202006/Encuesta%20Nacional%20Junio%202006.pdf] || 34% || '''37%''' || 26%
+|-
+||June 20, 2006 || ''[[Parametría]]'' ||[http://www.nuevoexcelsior.com.mx/Excelsior/macros/GenericNewsWithPhoto.jsp?contentid=4305&version=1] || '''36.5%''' || 32.5% || 27%
+|-
+||June 19, 2006 || ''[[Zogby International|Zogby]]'' ||[http://www.voanews.com/english/2006-06-19-voa56.cfm] || 31% || '''35%''' || 27%
+|-
+||June 14, 2006 || ''[[Reforma]]'' ||[http://www.hnpnews.com/articulo.php?idart=18204&cat=Pol%C3%ADtica] || '''37%''' || 35% || 23%
+|-
+||June 13, 2006 || ''[[Milenio Diario]]'' ||[http://www.omnia.com.mx/noticias/27636/chihuahua/] || '''34.2%''' || 31% || 29.6%
+|-
+||June 13, 2006 || ''[[Consulta Mitofsky]]'' ||[http://www.tiempo.com.mx/not_detalle.php?id_n=8402] || '''35%''' || 32% || 28%
+|-
+||June 12, 2006 || ''[[El Universal (Mexico City)|El Universal]]'' ||[http://www.eluniversal.com.mx/graficos/animados/presid-jun2-06.html] || 34% || '''37%''' || 22%
+|-
+||June 11, 2006 || ''[[GEA-ISA]]'' ||[http://www.isa.org.mx/contenido/Gimx0606ap.pdf] || 35% || '''39%''' || 23%
+|-
+||June 6, 2006 || ''[[El Universal (Mexico City)|El Universal]]'' ||[http://www.eluniversal.com.mx/graficos/animados/presid-jun06.html] || '''36%''' || '''36%''' || 24%
+|-
+||June 6, 2006 || ''[[Parametría]]'' ||[http://www.parametria.com.mx/es_cartaext.php?id_carta=138] || '''35.5%''' || 34.4% || 27%
+|-
+||June 5, 2006 || ''[[BGC, Beltrán y Asociados]]'' ||[http://www.bgc.com.mx/] || '''35%''' || '''35%''' || 26%
+|-
+||May 29, 2006 || ''[[Milenio Diario]]'' ||[http://www.milenio.com/MediaCenter/Fotos/2006/Mayo/29/herasg.jpg]|| '''33%''' || '''33%''' || 30%
+|-
+||May 29, 2006 || ''[[Consulta Mitofsky]]'' ||[http://www.consulta.com.mx/interiores/99_pdfs/11_elecciones_pdf/NA20060529_AsiVan_LaminasTelevisa_Noche.pdf]|| '''34%''' || '''34%''' || 28%
+|-
+||May 28, 2006 || ''[[GEA-ISA]]'' ||[http://www.isa.org.mx/contenido/Gimx0605p.pdf]|| 31% || '''40%''' || 27%
+|-
+||May 24, 2006 || ''[[Reforma]]'' |||| 35% || '''39%''' || 22%
+|-
+||May 19, 2006 || ''[[Zogby International|Zogby]]'' ||[http://www.zogby.com/news/ReadNews.dbm?ID=1114] || 29% || '''34%''' || 22%
+|-
+||May 15, 2006 || ''[[El Universal (Mexico City)|El Universal]]'' ||[http://www.eluniversal.com.mx/graficos/animados/presid-mayo06.html] || 35% || '''39%''' || 21%
+|-
+|May 8, 2006 || ''[[Parametría]]'' || [http://www.parametria.com.mx/es_cartaext.php?id_carta=134] || 34% || '''36%''' || 26%
+|-
+|May 4, 2006 || ''[[GEA-ISA]]'' || [http://www.isa.org.mx/contenido/Gimx0604p.pdf] || 31% || '''41%''' || 25%
+|-
+|May 3, 2006 || ''[[Consulta Mitofsky]]'' |||| 34% || '''35%''' || 27%
+|-
+|May 3, 2006 || ''[[Reforma]]'' |||| 33% || '''40%''' || 22%
+|-
+|May 2, 2006 || ''[[Milenio Diario]]'' ||[http://www.milenio.com/monterrey/milenio/nota.asp?id=79083]|| 33% || '''36%''' || 28%
+|-
+|April 23, 2006 || ''[[Parametría]]'' || [http://www.parametria.com.mx/es_cartaext.php?id_carta=131] || '''35%'''|| 33% || 28%
+|-
+|April 17, 2006 || ''[[El Universal (Mexico City)|El Universal]]'' ||[http://www.eluniversal.com.mx/nacion/137387.html]|| '''38%''' || 34% || 25%
+|-
+|April 6, 2006 || ''[[Milenio Diario]]'' || || '''34%''' || 31% || 31%
+|-
+|April 6, 2006 || ''[[Arcop]]*'' || || 33% || '''36%''' || 29%
+|-
+|March 27, 2006 || ''[[Consulta Mitofsky]]'' || || '''37.5%''' || 30.6% || 28.8%
+|-
+|March 27, 2006 || ''[[BIMSA]]'' || || '''31.2%''' || 25.5% || 21.4%
+|-
+|March 21, 2006 || ''[[GEA-ISA]]'' || [http://www.isa.org.mx/contenido/Gimx0603p.pdf] || 34% || '''36%''' || 28%
+|-
+|March 16, 2006 || ''[[Reforma]]'' || || '''41%''' || 31% || 25%
+|-
+|March 13, 2006 || ''[[El Universal (Mexico City)|El Universal]]'' || || '''42%''' || 32% || 24%
+|-
+|February 22, 2006 || ''[[Consulta Mitofsky]]'' || [http://www.consulta.com.mx] || '''39.4%''' || 29.8% || 27.5%
+|-
+|February 21, 2006 || ''[[GEA-ISA]]'' ||
+[http://www.isa.org.mx/contenido/Gimx0602p.pdf]
+|| '''34%''' || 27% || 22%
+|-
+|February 21, 2006 || ''[[Reforma]]'' || [http://www.reforma.com.mx] || '''38%''' || 31% || 29%
+|-
+|February 20, 2006 || ''[[El Universal (Mexico City)|El Universal]]'' || [http://www.eluniversal.com.mx/graficos/animados/presid-feb06.html] || '''30%''' || 27% || 22%
+|-
+|January 23, 2006 || ''[[GEA-ISA]]'' ||
+[http://www.isa.org.mx/contenido/Gimx0601p.pdf]
+|| 35% || 35% || 29%
+|-
+|January 26, 2006 || ''[[El Universal (Mexico City)|El Universal]]'' || [http://www.eluniversal.com.mx/graficos/animados/presid-ene06.html] || '''33%''' || 27% || 20%
+|-
+|January 20, 2006 || ''[[Parametria]]'' || [http://www.parametria.com.mx/es_cartaext.php?id_carta=118] || '''35.7%''' || 27.4% || 26.2%
+|-
+|January 20, 2006 || ''[[TV Azteca]]'' || [http://www.todito.com/paginas/noticias/184139.html] || '''38%''' || 31% || 28%
+|-
+|January 19, 2006 || ''[[Reforma]]'' || [http://www.wilsoncenter.org/news/docs/Reforma%20Polls%201.19.06.PDF] || '''34%''' || 26% || 22%
+|-
+|January 19, 2006 || ''[[La Jornada]]'' * || [http://www.jornada.unam.mx/2006/01/19/010n1pol.php] || '''39%''' || 27% || 22%
+|-
+|January 18, 2006 || ''[[Consulta Mitofsky]]'' || [http://www.consulta.com.mx/interiores/11_elecciones/elec_Asivan0106.html] || '''38.7%''' || 31% || 29.2%
+|-
+|January 8, 2006 || ''[[Milenio Diario]]'' * || [http://www.milenio.com/nota.asp?id=254799] || 28% || '''30%''' || 25%
+|-
+|December 5, 2005 || ''[[Univision]].com'' || [http://www.univision.com/content/content.jhtml?cid=739966] || '''34.8%''' || 28.8% || 30.4%
+|-
+|November 21, 2005 || ''[[Reforma]]'' || [http://www.consulta.com.mx/interiores/99_pdfs/11_elecciones_pdf/elec_NA20051113_AsiVan.pdf] || '''29%''' || 28% || 21%
+|-
+|November 5, 2005 || ''[[El Universal (Mexico City)|El Universal]]'' || [http://www.eluniversal.com.mx/graficos/animados/presid-nov05.html] || '''34%''' || 22% || 18%
+|-
+! '''Date''' !! '''Publisher''' !! '''Source''' !! '''López Obrador''' !! '''Calderón''' !! '''Madrazo'''
+|}
+
+:<nowiki>*</nowiki> Polls conducted by Arcop (published in ''Milenio'' and showed the first lead of Calderón over López Obrador) and Covarrubias (published in ''La Jornada'', and the one that showed the highest lead of López Obrador) are internal polls, and generally not as reliable as the others.
+
+===Assets, liabilities and annual expenses===
+As of January 2005, only three candidates had made a public declaration of assets, liabilities and annual expenses. These figures were given in [[Mexican peso|peso]]s, the total value of assets of each candidate follows at an [[exchange rate]] of 10.62 pesos to one [[United States dollar]] (Source: [http://www.banamex.com/ Banamex]):
+
+{| class="wikitable" cellpadding=2 cellspacing=2
+|- bgcolor=#cccccc
+! '''Candidate''' !! '''Assets'''!! '''Liabilities''' !! Annual Expenses''' !! '''As of (Date)''' !! '''Source'''
+|-
+| López Obrador ||MX$ 1,295,358 / US$ 121,973 || 0 ||MX$ 1,165,650 / US$ 109,760|| June 3, 2004 ||
+|-
+| Calderón ||MX$ 8,803,885 / US$ 828,991 || &ndash; || &ndash; || January 19, 2006 ||
+|-
+| Madrazo ||MX$ 29,398,668 / US$ 2,768,236 ||MX$ 39,290 / US$ 2,758||MX$ 475,000 / US$ 44,727 || January 19, 2006 ||
+|}
+
+===Presidential debates===
+A first presidential debate was held on 25 April 2006 with the presence of all candidates with the notable exception of López Obrador. López Obrador had refused to participate in all debates, and said he would only participate in one since long before the first debate was scheduled. The rest of the candidates agreed on leaving an ''empty chair'' to symbolize that the fifth candidate was indeed invited.
+
+The ''silla vacía'' (Spanish for "empty chair") became the topic of political commentary shows and the press. ''[[Excélsior]]'' called the empty chair a "double-edged sword"<ref name="Excelsior1">[http://www.nuevoexcelsior.com.mx/XStatic/excelsior/template/noticia.aspx?s=1&sl=1&n=4293 ''La silla vacía puede ser arma de dos filos''] ("Empty chair can be a double-edged sword") 4 April 2006 ''[[Excélsior]]''. Retrieved on 6 May 2006.</ref> coinciding with other publications and TV shows that leaving the empty chair could be construed as an insult to the audience and an attack to López Obrador. However, by the date of the debates, the statistical tendency in many polls had confirmed Calderón at the second spot and López Obrador still with a single digit advantage over him.
+
+After the first debate some political commentators, media outlets, and polls indicated that Calderón<ref name="Opinionr">[http://www.laopinion.com/primerapagina/?rkey=00000000000000084330 ''Dan como ganador del debate a Calderón''] ("Calderón seen as the winner of debate") 27 April 2006 ''Prensa Latina''. Retrieved on 6 May 2006.</ref> was seen as the winner of the debate, Mercado as the pleasant surprise of the night.<ref name="Cronica">[http://www.cronica.com.mx/nota.php?idc=238139 ''Gana Calderón; Mercado sorprende; pierde López ''] ("Calderón wins, Mercado surprises, López loses") April 26, 2006 ''La Crónica''. Retrieved on 6 May 2006.</ref> and a nervous Madrazo as the worst performer of the night.<ref name="Excelsior2">[http://www.nuevoexcelsior.com.mx/XStatic/excelsior/template/noticia.aspx?s=1&sl=1&sc=469&n=-4460 ''La opinión de Excélsior en torno al debate''] ("What Excélsior thinks in regards to the debate") April 26, 2006 ''Excélsior''. Retrieved on 6 May 2006.</ref> However, political analysts also said that the debate was unnecessarily full of promises and personal attacks. Analysts considered that López Obrador was negatively affected by his absence and polls later confirmed Calderón having replaced López Obrador as the leading candidate.
+
+A second debate took place on 6 June of the same year, from 20:30 to 22:30,<ref name="Madrazr">[http://www.eluniversal.com.mx/notas/350907.html ''Confirma Madrazo participación en segundo debate''] ("Madrazo Confirms Participation in Second Debate") 23 May 2006 ''El Universal''. Retrieved on 2 June 2006</ref> Central Time, with the confirmed presence of all candidates, including López Obrador. Media outlets have given results to telephone polls applied post-debate showing a mixed tendency. Most, like ''Reforma'' and ''Presente'', gave Felipe Calderón the lead, but a few, like ''Diario Monitor'', gave it to Andrés Manuel López Obrador.
+
+However, the rise of López Obrador in voter preference polls since the debate seems to indicate that it was the PRD candidate who won it. One of the main causes for this victory may have been the [[Felipe Calderón#hildebrando|Hildebrando]] accusation that López Obrador made during the debate.
+
+Before the debate, [[Carlos Ahumada]]'s wife threatened to release tapes involving allies of López Obrador in suspected acts of corruption, but the release was cancelled due to an attempted murder which is still under investigation. (See: [[Videoscandals (México)#2006 Videoscandals|Videoscandals]]).<ref name="Seattle Times">[http://www.kabc.com/goout.asp?u=http://images.radcity.net/5147/ "Shooting adds twist to Mexican elections"]. Retrieved 11 June 2006.</ref>
+
+Victor González Torres, a national pharmacy entrepreneur nicknamed "Dr. Simi", declared himself a non-registered [[write-in candidate]] and tried to enter the building where the debate was to take place. González Torres demanded to be allowed participation in the debate, but he was not allowed to enter the building where he made the demand. He even brought his own chair. Candidates with no political parties are not permitted to compete in elections under Mexican law, and votes for all write-in candidates are counted together, regardless of which write-in candidate the vote was cast.
+
+==Congressional Election==
+Eight political parties participated in the 2006 congressional election to renew all seats in the [[Senate of Mexico|upper]] and [[Chamber of Deputies of Mexico|lower]] houses of [[Congress of Mexico|Congress]].
+
+In the current session of Congress, no party holds a majority.
+
+Preliminary results below are as of 3 July 06:41 [[UTC]].
+
+===Chamber of Deputies===
+
+====Summary====
+{{Mexican deputies election, 2006}}
+
+====Comparison====
+{| class="wikitable" border="1" cellspacing="2" cellpadding="2" style="font-size:90%"
+|- bgcolor="#cccccc" align="center" valign="bottom"
+! colspan=2 rowspan=2| Party
+! colspan=3 | [[LIX Legislature of the Mexican Congress|LIX Legislature]], 2003
+! colspan=2 | LIX Leg. at dissolution
+! colspan=3 | [[LX Legislature of the Mexican Congress|LX Legislature]], 2006
+! colspan=3 | Change, 2003–2006
+|-
+! Deputies
+! % of<br>Chamber
+! % of<br>Vote
+! Deputies
+! % of<br>Chamber
+! Deputies
+! % of<br>Chamber
+! % of<br>Vote
+! Deputies
+! % of<br>Chamber
+! % of<br>Vote
+|-
+{{Party name with colour|National Action Party (Mexico)|National Action Party}}
+| 149
+| 29.8%
+| 23.1%
+| 148
+| 29.6%
+| '''206'''<!--139 direct election, 69 by proportional representation-->
+| '''41.2%'''
+| '''33.7%'''
+| + 57
+| + 11.8%
+| + 10.8%
+|-
+{{Party name with colour|Party of the Democratic Revolution}}
+| 97
+| 19.4%
+| 17.6%
+| 97
+| 19.4%
+| '''(160)'''<ref name="PRD">PREP figures give Congressional totals by alliance, not party.  PRD totals here thus include Labor and Convergence votes as well</ref><!--99 direct election, 60 by proportional representation-->
+| '''(32.0%)'''<ref name="PRD" />
+| '''(29.0%)'''<ref name="PRD" />
+| (+ 63)<ref name="PRD" />
+| (+ 10.6%)<ref name="PRD" />
+|
+|-
+{{Party name with colour|Institutional Revolutionary Party}}
+| 224
+| 44.8%
+| 30.6%
+| 203
+| 40.6%
+| '''(121)'''<ref name="PRI">PREP figures give Congressional totals by alliance, not party.  PRI totals here thus include Green votes as well</ref><!--62 direct election, 57 by proportional representation-->
+| '''(24.2%)'''<ref name="PRI" />
+| '''(27.6%)'''<ref name="PRI" />
+| (- 103)<ref name="PRI" />
+| (- 24.4%)<ref name="PRI" />
+|
+|-
+{{Party name with colour|New Alliance Party (Mexico)|PANAL}}
+| -
+| -
+| -
+| -
+| -
+| '''9'''<!--All by proportional representation-->
+| '''1.8%'''
+| '''4.7%'''
+| + 9
+| + 1.8%
+| + 4.7%
+|-
+{{Party name with colour|Social Democratic and Peasant Alternative Party}}
+| -
+| -
+| -
+| -
+| -
+| '''4'''<!--All by proportional representation-->
+| '''0.8%'''
+| '''2.2%'''
+| + 4
+| + 0.8%
+| + 2.2%
+|-
+{{Party name with colour|Ecologist Green Party of Mexico}}
+| 17
+| 3.4%
+| 4.0%
+| 17
+| 3.4%
+| '''&nbsp;'''
+| '''&nbsp;'''
+| '''(n/a)'''<ref name="PRI" />
+|
+|
+| (n/a)<ref name="PRI" />
+|-
+{{Party name with colour|Labour Party (Mexico)|Labour Party}}
+| 6
+| 1.2%
+| 2.4%
+| 6
+| 1.2%
+| '''&nbsp;'''
+| '''&nbsp;'''
+| '''(n/a)'''<ref name="PRD" />
+|
+|
+| (n/a)<ref name="PRD" />
+|-
+{{Party name with colour|Convergence (Mexico)|Convergence}}
+| 5
+| 1.0%
+| 2.3%
+| 5
+| 1.0%
+| '''&nbsp;'''
+| '''&nbsp;'''
+| '''(n/a)'''<ref name="PRD" />
+|
+|
+| (n/a)<ref name="PRD" />
+|-
+|
+| Independent
+| 2
+| 0.4%
+|
+| 24
+| 4.8%
+|
+|
+|
+|
+|
+|
+|-
+!colspan=2 | Total
+!500
+!100
+!100
+!500
+!100
+!500
+!100
+!100
+!colspan=3|
+|}
+
+===Senate===
+<!--SEAT DATA CALCULATED FROM http://prep.monitor.com.mx/PREP2006/SENADORES/nacional_Sen.html -->
+
+====Summary====
+{{Mexican Senate election, 2006}}
+
+====Comparison====
+{| class="wikitable" border="1" cellspacing="2" cellpadding="2" style="font-size:90%"
+|- bgcolor="#cccccc" align="center" valign="bottom"
+! colspan=2 rowspan=2| Party
+! colspan=3 | [[LVIII Legislature of the Mexican Congress|LVIII Legislature]], 2000
+! colspan=2 | [[LIX Legislature of the Mexican Congress|LIX Leg.]] at dissolution
+! colspan=3 | [[LX Legislature of the Mexican Congress|LX Legislature]], 2006
+! colspan=3 | Change, 2000–2006
+|-
+! Senators
+! % of<br>Chamber
+! % of<br>Vote
+! Senators
+! % of<br>Chamber
+! Senators
+! % of<br>Chamber
+! % of<br>Vote
+! Senators
+! % of<br>Chamber
+! % of<br>Vote
+|-
+{{Party name with colour|National Action Party (Mexico)}}
+| 46
+| 35.9%
+| †
+| 47
+| 36.7%
+| '''52'''
+| '''40.6%'''
+| '''34.1%'''
+| + 6
+| + 4.7%
+| - 1.8%
+|-
+{{Party name with colour|Party of the Democratic Revolution}}
+| 15
+| 11.7%
+| †
+| 15
+| 11.7%
+| '''(36)'''<ref name="PRD" />
+| '''(28.1%)'''<ref name="PRD" />
+| '''(29.8%)'''<ref name="PRD" />
+| (+ 19)<ref name="PRD" />
+| (+ 14.8%)<ref name="PRD" />
+|
+|-
+{{Party name with colour|Institutional Revolutionary Party}}
+| 60
+| 46.9%
+| 36.7%
+| 58
+| 45.3%
+| '''(39)'''<ref name="PRI" />
+| '''(30.7%)'''<ref name="PRI" />
+| '''(27.4%)'''<ref name="PRI" />
+| (- 27)<ref name="PRI" />
+| (- 21.1%)<ref name="PRI" />
+|
+|-
+{{Party name with colour|New Alliance Party (Mexico)}}
+| -
+| -
+| -
+| -
+| -
+| '''1'''
+| '''0.8%'''
+| '''4.2%'''
+| + 1
+| + 0.8%
+| + 4.2%
+|-
+{{Party name with colour|Social Democratic and Peasant Alternative Party}}
+| -
+| -
+| -
+| -
+| -
+|
+|
+| '''2.0%'''
+| + 1
+| + 0.8%
+| + 2.0%
+|-
+{{Party name with colour|Ecologist Green Party of Mexico}}
+| 5
+| 3.9%
+| †
+| 5
+| 3.9%
+|
+|
+| (n/a)<ref name="PRI" />
+|
+|
+| (n/a)<ref name="PRI" />
+|-
+{{Party name with colour|Labour Party (Mexico)}}
+| 1*
+| 0.8%
+| †
+| 1*
+| 0.8%
+|
+|
+| (n/a)<ref name="PRD" />
+|
+|
+| (n/a)<ref name="PRD" />
+|-
+{{Party name with colour|Convergence (Mexico)}}
+| 1*
+| 0.8%
+| †
+| 1*
+| 0.8%
+|
+|
+| (n/a)<ref name="PRD" />
+|
+|
+| (n/a)<ref name="PRD" />
+|-
+|
+| Independent
+| 0
+| 0.0%
+|
+| 1*
+| 0.8%
+|
+|
+|
+|
+|
+|
+|-
+!colspan=2 | Total
+!128
+!100
+!100
+!128
+!100
+!128
+!100
+!100
+!colspan=3|
+|}
+*<nowiki>*</nowiki> - Non-attached members
+*† - Ran as part of slate.
+
+==See also==
+*[[Mexican elections, 2006|Full list of elections in Mexico in 2006]]
+
+==Footnotes==
+{{reflist}}
+
+==External links==
+* [http://www.socialistworker.org/2006-2/594/594_04_Mexico.shtml What's at stake in Mexico's election?] Socialist Worker
+* [http://prep.eluniversal.com.mx/ Preliminary election results], this is a constantly updated count of actual ballots as they are tallied into the electoral system. Not a survey, these are actual results.
+* [http://coha.org/ Opinion pieces on the election] Link to the Council on Hemispheric Affairs, a think tank that has covered the 2006 presidential elections from Mexico.
+* [http://www.cepr.net/publications/mexico_recount_2006_08.pdf An Analysis of Mexico's Recounted Ballots] Issue Brief by the Center for Economic and Policy Research, August 2006.
+* [http://web.mit.edu/polisci/research/mexico06 Mexico 2006 Panel Study]
+
+{{Mexican elections}}
+
+{{DEFAULTSORT:Mexican General Election, 2006}}
+[[Category:2006 elections in Mexico]]

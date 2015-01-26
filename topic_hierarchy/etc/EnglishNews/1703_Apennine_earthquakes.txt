@@ -1,0 +1,106 @@
+{{Earthquake
+| title              = 1703 Apennine earthquakes
+| date               = {{Start-date|df=yes|14 January 1703}}
+| map2               = {{Location map+ | Italy
+ | float        = none
+ | width        = 250
+ | places = 
+  {{Location map~ | Italy
+  | label        = 14 January
+  | lat          = 42.7
+  | long         = 13.07
+  | mark         = Cercle rouge 100%.svg
+  | marksize     = 8
+  | position     = top }}
+  {{Location map~ | Italy
+  | label        = 16 January
+  | lat          = 42.62
+  | long         = 13.1
+  | mark         = Cercle rouge 100%.svg
+  | marksize     = 8
+  | position     = right }}
+  {{Location map~ | Italy
+  | label        = 2 February
+  | lat          = 42.43
+  | long         = 13.3
+  | mark         = Cercle rouge 100%.svg
+  | marksize     = 8
+  | position     = bottom }}
+  | relief=yes}}
+| magnitude          = 6.7-6.2-6.7 Magnitude Richter Scale|Richter
+| depth              =
+| location           = {{Coord|42.7|13.07|display=inline}}<br/>(first earthquake in sequence)
+| countries affected = {{ITA}}
+| tsunami            =
+| casualties         =
+}}
+The '''1703 Apennine earthquakes''' were a sequence of three earthquakes of Richter magnitude scale|magnitude ≥6 that occurred in the central Apennines of Italy, over a period of 19 days. The epicenters were near Norcia (14 January), Montereale (AQ)|Montereale (16 January) and L'Aquila (2 February), showing a southwards progression over about 36&nbsp;km. These events involved all of the known active Fault (geology)|faults between Norcia and L'Aquila. although because of the overlap in areas affected by the three events, casualty numbers remain highly uncertain.
+
+==Tectonic setting==
+The central part of the Apennines has been characterised by extensional tectonics since the Pliocene Epoch (geology)|epoch (i.e. about the last 5 million years), with most of the active faults being normal in type and NW-SE trending.  The extension is due to the back-arc basin in the Tyrrhenian Sea opening faster than the African Plate is Continental collision|colliding with the Eurasian Plate.
+
+==The Norcia earthquake==
+The earthquake occurred at 18:00 UTC on 14 January with an estimated magnitude of 6.7.
+
+===Damage===
+There was extensive damage in the area around Norcia, with Spoleto and Rieti also affected. Ground rupture was observed at several locations and these have been confirmed by modern investigations.
+
+===Casualties===
+Estimates of the death toll vary from 6,240
+
+==The Montereale earthquake==
+The earthquake occurred at 13:30 UTC on 16 January with an estimated magnitude of 6.2. It is thought to have been caused by movement on the Montereale Fault. Damage was recorded in Montereale, Cittareale, Accumoli and Amatrice. Although of lower magnitude than the other two events, this earthquake was still felt in Rome. The estimated intensity for this event is VIII (Destructive). No separate casualty figures are available for this event.
+
+==The L'Aquila earthquake==
+The earthquake occurred at 11:05 UTC on 2 February with an estimated magnitude of 6.7. It was caused by movement on the Mt. Marine Fault.
+
+===Damage===
+Most of the buildings in L’Aquila were badly damaged or completely destroyed. Damage was reported from as far away as Rome. The earthquake caused a huge landslide on the Mt. Marine ridge, a large slope failure near Posta (RI)|Posta and Soil liquefaction|liquefaction along the Aterno River.
+
+===Casualties===
+Estimates of the death toll vary from 2,500 to 5,000.
+
+==Summary of earthquakes==
+{{GeoGroupTemplate|section=Summary of earthquakes}}
+ {| class=wikitable
+! Name!! Date!! Time!! Coordinates!! Magnitude!! Intensity
+|-
+| Norcia
+| 14 January
+| 18:00
+| {{coord|42.70|13.07|display=inline,title}}
+| 6.7
+| XI
+|-
+| Montereale
+| 16 January
+| 13:30
+| {{coord|42.62|13.10}}
+| 6.2
+| VIII
+|-
+| L'Aquila
+| 2 February
+| 11:05
+| {{coord|42.43|13.30}}
+| 6.7
+| X
+|}
+
+==Relationship between the events==
+Some seismologists interpret these events as related. It has been suggested that the Norcia earthquake led directly to the Montereale event, which had the effect of further loading the fault at Aquila, thus triggering the final event.
+
+==See also==
+*1783 Calabrian earthquakes
+*Coulomb stress transfer
+
+==References==
+{{Reflist|30em}}
+
+{{DEFAULTSORT:1703 Apennine Earthquakes}}
+Category:Earthquakes in Italy|1703 Apennine earthquakes
+Category:1703 earthquakes|Apennine Earthquakes, 1703
+Category:1703 in Italy|Apennine earthquakes
+Category:L'Aquila
+
+{{Use dmy dates|date=June 2013}}

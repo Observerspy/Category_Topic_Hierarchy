@@ -1,0 +1,105 @@
+{{Infobox earthquake
+|title = 1999 Izmit earthquake
+|date = {{Start date|1999|8|17|df=yes}}
+|origintime = 00:02 UTC
+|image = Izmit eart6.jpg
+|image alt = Damage from the Izmit earthquake
+|map = 1999 ?zmit earthquake map.svg
+|depth = {{convert|17|km|abbr=on}}
+|location = 40.702?N 29.987?E 
+|magnitude = 7.4 Moment magnitude scale|M<sub>w</sub>  7.5 Moment magnitude scale|M<sub>w</sub>
+|countries affected = {{flag|Turkey}}
+|casualties = 17,127 dead, 43,953 injured (official Turkish estimate)
+}}
+
+The '''1999 ?zmit earthquake''' (also known as the '''?zmit|Kocaeli''' or '''G?lcük, Kocaeli|G?lcük earthquake''') occurred with a Moment magnitude scale|moment magnitude of 7.4 that struck northwestern Turkey on 17 August at about 3:02 a.m. local time. The event lasted for 37 seconds, killing around 17,000 people and leaving approximately half a million people homeless. The nearby city of Izmit was very badly damaged.
+
+==Damage and casualties==
+{{see also|Earthquake engineering|}}
+
+File:Izmit eart2.jpg|thumb|Damage from the Izmit earthquake
+
+An official Turkish estimate of October 19, 1999, placed the toll at 17,127 killed and 43,959 injured, but many sources suggest the actual figure may have been closer to 45,000 dead and a similar number injured. Reports from September 1999 show that 120,000 poorly engineered houses were damaged beyond repair, 30,000  houses were heavily damaged, 2,000 other buildings collapsed and 4,000 other buildings were heavily damaged.{{Citation needed|date=March 2008}} 300,000 people were left homeless after the earthquake.  The estimated amount of damage is equivalent to 23 billion dollars (USD)
+
+The earthquake was heavily felt in this industrialized and densely populated urban area of the country, including oil refineries, several automotive plants, and the Turkish navy headquarters and arsenal in G?lcük Naval Base|G?lcük, increasing the severity of the loss of life and property. The earthquake also caused considerable damage in Istanbul, about {{convert|70|km|mi}} away from the earthquake's epicenter.
+
+There was extensive damage to several bridges and other structures on the Trans-European Motorway (European route E80), including 20 viaducts, 5 tunnels, and some overpasses. Damage ranged from spalling concrete to total Porch collapse|deck collapse.
+
+The quake sparked a disastrous fire at the Tüpra? petroleum refinery. The fire began at a state-owned tank farm and was initiated by naphtha that had sloshed out of a holding tank. Breakage in water pipelines, results of the quake, nullified attempts at extinguishing the fire. Aircraft were called in to douse the flames with foam. The fire spread over the next few days, warranting the evacuation of the area within three miles of the refinery. The fire was declared under control five days later after claiming at least seventeen tanks and untold amounts of complex piping.
+
+==Geology==
+{{see also|List of earthquakes in Turkey}}
+
+The Izmit earthquake had a rupture length of {{convert|150|km|mi|sp=us}} extending from the city of Düzce all the way into the Sea of Marmara along the Gulf of ?zmit. Offsets along the rupture were as large as 5.7 meters (18.7&nbsp;ft).
+
+The earthquake occurred along the western portion of the North Anatolian Fault Zone (NAFZ). The Anatolian Plate, which consists primarily of Turkey, is being pushed west about 2–2.5&nbsp;cm (0.8–1.0&nbsp;in) a year, as it is squeezed between the Eurasian Plate to the north and the Arabian Plate to the south. Major earthquakes in Turkey result mainly from slip along the NAFZ or the East Anatolian Fault.
+
+The earthquake caused a tsunami in the Sea of Marmara that was about 2.5 meters high.
+
+Destruction in Istanbul was concentrated in the Avc?lar district to the west of the city. Avc?lar was built on relatively weak ground mainly composed of poorly consolidated Cenozoic sedimentary rocks, which makes this district vulnerable to any earthquake.
+
+==International response==
+File:USGS Shakemap - 1999 Izmit earthquake.jpg|thumb|ShakeMap showing the intensity of the Izmit earthquake
+{{see also|Greek–Turkish earthquake diplomacy}}
+
+A massive international response was mounted to assist in digging for survivors and assisting the wounded and homeless. Rescue teams were dispatched within 24–48 hours of the disaster, and the assistance to the survivors was channeled through NGOs and the Red Crescent.
+
+The following table shows the breakdown of rescue teams by country in the affected locations:
+
+{| class="wikitable" border="1" cellspacing="2" cellpadding="1" style="border-collapse: collapse; font-size: 95%;"
+|- bgcolor="cccccc"
+! Location
+! Search and Rescue Teams From:
+|-
+| G?lcük, Kocaeli|G?lcük, ?zmit|Kocaeli || Hungary, Israel, France, South Korea
+|-
+| Yalova || Germany, Hungary, Israel, Poland, United Kingdom, France, Austria, Romania, South Korea
+|-
+| Avc?lar, Istanbul || Germany, Greece
+|-
+| ?zmit, ?zmit|Kocaeli || Russia, Hungary, France, Germany, Austria, Switzerland, USA, ICE-SAR|Iceland, South Korea
+|-
+| Sakarya Province|Sakarya || Bulgaria, Germany, Spain, Egypt
+|-
+| Düzce || Poland, United Kingdom
+|-
+| Bayrampasa, Istanbul || Italy
+|-
+| Kartal, Istanbul || Azerbaijan
+|}
+
+'''Search and Rescue Effort as of August 19, 1999. Source: USAID'''
+
+In total, rescue teams from twelve countries assisted in the rescue effort.
+
+<!-- link does not exist
+Greece was the first nation to pledge aid and support to hard-stricken Turkey. Within hours of the earthquake, the Greek Ministry of Foreign Affairs contacted their counterparts in Turkey, and the minister sent his personal envoys to Turkey. The Greek Ministry of Public Order sent in a rescue team of 24 people and 2 trained rescue dogs, as well as fire extinguishing planes to help with putting out the fire in the TUPRAS Oil refinery.
+-->
+The U.K announced an immediate grant of ?50,000 to help the Turkish Red Crescent, while the International Red Cross and Red Crescent pledged ?4.5 million to help victims. Blankets, medical supplies and food were flown from London Stansted Airport|Stansted airport. Engineers from Thames Water went to help restore water supplies. India also assisted by providing 32,000 tents and 2 million rupees to help in the reconstruction process.
+
+US President Bill Clinton and Pakistani Prime Minister of Pakistan|Prime Minister Nawaz Sharif later visited Istanbul and ?zmit to examine the level of destruction and meet with the survivors.
+
+==References==
+{{Reflist}}
+
+==External links==
+{{commons|1999 Izmit earthquake}}<!--Don't replace with "Izmir". They are two different cities.-->
+* http://nisee.berkeley.edu/turkey/report.html Initial Geotechnical Observations of the August 17, 1999, Izmit Earthquake – National Information Service for Earthquake Engineering
+* http://earthquake.usgs.gov/research/geology/turkey/index.php 1999 Izmit, Turkey Earthquake – United States Geological Survey
+* http://marsite.eu/ New Directions in Seismic Hazard Assessment through Focused Earth Observation in the Marmara Supersite
+{{Earthquakes in 1999}}
+{{Earthquakes in Turkey}}
+
+{{coord|40.702|N|29.987|E|display=title}}
+
+{{DEFAULTSORT:Izmit 1999}}
+Category:Earthquakes in Turkey|1999 Izmit
+Category:1999 in Turkey
+Category:1999 earthquakes
+Category:History of Izmit
+Category:History of Düzce Province
+Category:History of Istanbul Province
+Category:History of Kocaeli Province
+Category:History of Sakarya Province
+Category:History of Yalova Province
+Category:20th-century tsunamis

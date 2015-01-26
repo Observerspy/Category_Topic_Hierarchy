@@ -1,0 +1,132 @@
+{{Use mdy dates|date=March 2012}}
+{{Infobox earthquake
+|title = 2010 Baja California earthquake
+|image = April 2010 Baja California earthquake intensity USGS.jpg
+|image alt = A large red circle which mark the area where the quake felt stronger. A star mark the epicenter.
+|imagecaption = USGS shake map of the Baja California earthquake
+|map =
+|map alt =
+|image name =
+|map2 = {{Location map | Mexico
+| label =
+| lat = 32.128
+| long = -115.303
+| mark = Bullseye1.png
+| marksize = 40
+| position = top
+| width = 250
+| float = right
+| caption = 
+ | relief=yes}}
+|caption = Quake epicenter
+|map alt = The earthquake's epicenter is shown in northwestern Mexico.
+|date = 15:40 Pacific Time Zone|PDT, April 4, 2010
+|origintime =
+|duration = 89 seconds
+|magnitude = 7.2 Moment magnitude scale|M<sub>w</sub>
+|depth = {{convert|10|km|mi|0|sp=us}}
+|location = {{Coord|32.128|N|115.303|W|display=title,inline|region:MX-BCN_type:event}}
+|type =
+|countries affected =  Mexico<br />United States
+|damage =
+|intensity = IX
+|tsunami = No
+|landslide = Yes
+|aftershocks = Yes
+|casualties = 4 killed, at least 100 injured in the vicinity of Mexicali.
+}}
+
+The '''2010 Baja California earthquake''' (also known as '''2010 Easter earthquake''', '''2010 Sierra El Mayor earthquake''', or '''2010 El Mayor – Cucapah earthquake''') was an earthquake of 7.2 magnitude on the moment magnitude scale. It started {{convert|26|km|sp=us}} south of Guadalupe Victoria, Baja California|Guadalupe Victoria, Baja California, Mexico, at a depth of {{convert|10|km|abbr=on}}. Four&nbsp;people were killed and 100&nbsp;people were injured.
+
+The quake was widely felt throughout the Western United States, some Southern United States|Southern zones, and Northwest Mexico. The earthquake was the strongest to rock Southern California in at least 18&nbsp;years (since the 1992 Landers earthquake (M 7.3)), if not longer: the next most recent comparable earthquake—the 1952 Kern County earthquake (M 7.3)—was 58 years earlier. Each of these earthquakes had a similar magnitude, and was also felt across a large swath of North America.
+
+==Geology==
+The quake was believed to have occurred on the Laguna Salada Fault, which is about {{convert|60|km|sp=us}} to {{convert|80|km|abbr=on}} long and straddles the California–Baja California border.
+
+By the distribution of aftershocks and using radar interferometry, the main shock rupture was found to have occurred on a previously unmapped fault in the Cucapa Mountains and beneath the Colorado River Delta. This fault line was named the Indiviso Fault, after the nearby town of El Indiviso. A liquefaction zone bounded by the Cerro Prieto Fault and the Laguna Salada Fault was observed.
+
+==Timeline==
+
+===Precursors and foreshocks===
+Mexicali, El Centro, San Diego, Ensenada, and Tijuana are situated in a very active seismic zone and surrounded by important faults. An earthquake of such magnitude had been expected around the fault situated in the southeast of Mexicali.
+
+Before the M<sub>w</sub> 7.2 earthquake occurred, the surrounding area had been seismically active in 2009. Several foreshocks began from April 1, 2010, with magnitudes of 3, 4 and 5.
+
+===April 4 quake===
+The earthquake measured 7.2 on the moment magnitude scale that started {{convert|25|km|sp=us}} south of Guadalupe Victoria, Baja California|Guadalupe Victoria, Baja California, at a depth of {{convert|10|km|abbr=on}}. Since the earthquake occurred on this day, it has been also called the Easter Sunday Earthquake.
+
+The April 4 quake was the second largest earthquake in Baja California history after the 1892 Laguna Salada earthquake at a disputed magnitude 7.2 to 7.8 of the richter scale, and was well recorded in Southern California, especially in the Imperial valley.
+
+On April 5, 2010 EQECAT, Inc. estimated the total economic damage from this event would not exceed $1 billion (USD), and insured losses will not exceed $300 million (USD).
+
+===Aftershocks and related quakes===
+File:Laguna Salada fault - USGS map.gif|thumb|150px|left|Laguna Salada Fault|Laguna Salada fault (outlined in red).|alt=The fault is located in Southern California.
+File:April 2010 Baja California aftershock intensity USGS.jpg|thumb|150px|left|USGS shakemap of one of the strongest aftershocks of the Baja California earthquake.|alt=The red star marks the place of the strongest movement.
+File:Usgs 201004041854.png|thumb|right|Map of northern Baja California and Southern California with earthquakes shortly after the main earthquake.|alt=Areas where the greatest impact of earthquakes, as well as the magnitudes, and where were located.
+
+Three&nbsp;aftershocks with a magnitude of at least 5&nbsp;have been reported; one at a magnitude of 5.2,
+
+By six&nbsp;hours after the earthquake more than 90&nbsp;aftershocks or triggered earthquakes between magnitude 3.0&nbsp;and 5.1&nbsp;were recorded in northern Baja California and southern California. This included a magnitude 3&nbsp;event {{convert|5|km|sp=us}} off the coast of Malibu, California. By the early hours of the following morning, scientists had measured 100&nbsp;aftershocks.
+
+Pat Abbott, a professor emeritus of geology at San Diego State University, said, "Any quake of this size seems to pass some kind of threshold where it’s large enough to disturb or trigger other faults. In cases like this, that often means increasing stress on other faults, which makes them more prone to movement. The energy seems to be moving northward toward the San Andreas Fault. I don’t want to anthropomorphize, but it’s like this quake was goading the San Andreas."
+
+In the early morning hours of April 10, 2010, an aftershock measuring magnitude 4.4&nbsp;was felt throughout most of Southern California and Baja California. It was said to have lasted about ten seconds. No injuries or damage were reported. Another aftershock measuring a similar magnitude struck Southern California on the morning of April 11.
+
+Seismologists in the California Institute of Technology of Pasadena announced a 10 percent chance of another earthquake on the same magnitude (7.3) or greater to strike within the first week, and 5 percent in the rest of the month of April 2010. It also falls on the state of California's Earthquake Preparedness month, as state and FEMA officials urge the state citizens to take preparations, and schools and businesses conduct earthquake drills across the state. The California Geological survey added 50 new faults to its map of faults several weeks after the earthquake.
+
+Geological field work as of April 5, 2010, by Dr. Thomas Rockwell, professor of geology at San Diego State University, indicates about one meter of right-lateral surface faulting and 0.3 to 0.5 meters of vertical road offset on a fault that is located east of Laguna Salada Fault. Whether or not this is the Cerro Prieto Fault is unclear as of April 5. This is a developing field situation, as geologists are working to locate and measure the lateral extent of the surface faulting.
+
+A strong aftershock with a magnitude of 5.7 occurred on June 14, 2010 at 9:26:58&nbsp;pm PDT, with an epicenter near Ocotillo in southwestern Imperial County and a focal depth of 5.0&nbsp;km.
+
+On July 7, 2010, a 5.4-magnitude earthquake, triggered by the April 10, 2010 quake, occurred on the San Jacinto Fault, the most seismically active fault in California and one of two that exhibited signs of increased pressure following the Mexico quake. It was centered 15 miles (20 kilometers) northwest of the town of Borrego Springs. The quake in April transferred stress to fault zones farther north, triggering the quake. The quake rattled buildings in downtown Los Angeles, toppled bottles off shelves and briefly halted rides at Disneyland.
+
+==Impact==
+
+===Mexico===
+Baja California state capital Mexicali was reported by Comisión Federal de Electricidad (CFE) Director General Alfredo Elias Ayub|Alfredo Elías Ayub as being without electricity. one of which was caused by a collapsed house. At least 100&nbsp;people were injured in Mexicali and its suburbs. Major damage to irrigation systems occurred, severely impacting over 80,000 acres of agriculture in the Mexicali Valley. Groundwater flowed to the surface, flooding fields and damaging hundreds of miles of irrigation canals. 25,000 people overall were impacted by the earthquake.
+
+CNN reported that, "Pictures from Mexicali showed the sides ripped off buildings, toppled telephone poles, cracked roads, and supermarket aisles strewn with food that had fallen off shelves." and windows were broken at the Chamber of Commerce in the city.
+
+The quake was felt for about 40 seconds in Tijuana, Baja California, located {{convert|174|km|sp=us}} to the west-southwest, where it caused buildings to sway and knocked out power in parts of the city. Families celebrating Easter ran out of the homes. Rescuers trying to reach Mexicali from Tijuana were slowed by a landslide along the highway.
+
+The day after the quake, Governor of Baja California|Baja California Governor José Guadalupe Osuna asked the federal government for a state of emergency to be declared. President of Mexico|President Felipe Calderón visited the Mexicali area on Monday, April 5, to inspect the damage first-hand.
+
+The earthquake's epicenter was close to the coast of the Gulf of California about 30 miles from the shore. Mexican authorities in the states of Sonora, Sinaloa, Jalisco and Nayarit posted a tsunami advisory in 5:00&nbsp;pm local time. But no tsunamis were reported within one hour of the posting. {{Citation needed|date=April 2010}}
+
+===United States===
+File:Response imgs for quake.jpg|thumb|right|A map showing the amount of responses by people to USGS about the quake.|alt=A map showing the affected area. It shows the intensity of quakes, as well as the cities affected.
+United States Geological Survey seismology|seismologist Dr. Lucy Jones said at least 20&nbsp;million people in the United States and Mexico, including most of Southern California, felt the quake. Skyscrapers shook in San Diego, California, {{convert|180|km|sp=us}} northwest of the epicenter. The San Diego International Airport also had a water leak at Gate&nbsp;33 in Terminal&nbsp;2, and the terminal was evacuated for about 10&nbsp;minutes due to fears of a natural gas leak. and reoccupied once deemed to be safe.
+
+Electric service was disrupted across most of the Imperial Valley.
+
+In El Centro, California, gas leaks, water main breaks, and collapsed chimneys and balconies were reported. and another man was injured when a sign fell on him. One city hospital had so many people, that the Salvation Army sent a truck with water canteens and sandwiches.
+
+It was felt in downtown Los Angeles, and in a Century City, Los Angeles, California|Century City high-rise in Los Angeles. The rides in Disneyland were temporarily closed for inspection. In the Yuma, Arizona area, 3,369 residents experienced a "relatively momentary power outage" from the quake, "but most were back in service shortly afterward".
+
+== See also ==
+* 2009 Gulf of California earthquake
+* 2010 earthquakes
+* Cerro Prieto Geothermal Power Station
+* List of 21st century earthquakes
+* List of earthquakes in Mexico
+{{Clear}}
+
+==References==
+{{Reflist|colwidth=30em}}
+
+==External links==
+{{Commons|2010 Baja California earthquake}}
+* http://earthquake.usgs.gov/earthquakes/dyfi/events/ci/14607652/us/index.html USGS page on this quake with maps and charts including: a map of aftershocks and a map of where people in the United States reported the quake
+* http://igppweb.ucsd.edu/~fialko/baja.html Home page of PhD Y.Fialko, University of California San Diego Rupture characteristics of M7.2 Sierra El Mayor (Mexico) earthquake including coseismic interferograms provided by the space agencies ESA and JAXA.
+
+{{Earthquakes in 2010}}
+{{Significant earthquakes in California}}
+{{Earthquakes in Mexico}}
+
+Category:2010 earthquakes|Baja California
+Category:Earthquakes in Mexico
+Category:2010 in Mexico|Baja California earthquake
+Category:Earthquakes in California|B
+Category:Lower Colorado River Valley
+Category:Gulf of California
+Category:History of Baja California

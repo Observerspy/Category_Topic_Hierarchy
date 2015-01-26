@@ -1,0 +1,731 @@
+{{For|other earthquakes in and about Chile during 2010|List of earthquakes in Chile occurring in 2010}}
+{{Use dmy dates|date=April 2014}}
+{{pp-move-indef}}
+{{Infobox earthquake
+| title = 2010 Chile earthquake
+| date = {{Start date|2010|02|27|df=yes}}
+| origintime = 03:34 Time in Chile|CST (UTC-03:00)
+| image = 2010 Chile earthquake - Building destroyed in Concepción.jpg
+| image alt = Collapsed building in Concepción, Chile|Concepción.
+| map2 = File:2010 Chile earthquake epicenter.png|240px|border|alt=
+| caption = Epicenter of the 2010 Chile earthquake
+| magnitude = 8.8 Moment magnitude scale|M<sub>w</sub>
+| intensity = Mercalli intensity scale|MM VIII or Modified Mercalli intensity|MM IX
+| PGA = 0.65 ''peak ground acceleration|g''
+| depth = {{convert|35|km|mi|0}} or {{convert|30.1|km|mi|0}}
+| location = {{Coord|35.909|S|72.733|W|type:event|display =inline,title}} or {{Coord|36.290|S|73.239|W|type:event|display =inline}}
+| countries affected = Chile, Argentina
+| tsunami = Yes
+| casualties = 525 died, 25 missing.
+}}
+
+{{wikinews|NASA scientist: Chile earthquake may have shifted Earth's axis, shortened day}}
+File:Torre O?Higgins conce.jpg|thumb|right|The partially collapsed 21-story O'Higgins Tower, Concepción
+
+The '''2010 Chile earthquake''' occurred off the coast of central Chile on Saturday, 27 February 2010, at 03:34 Time in Chile|local time (06:34 UTC), having a magnitude of 8.8 on the moment magnitude scale, with intense shaking lasting for about three minutes. The earthquake was felt in the capital Santiago, Chile|Santiago at MM VII (Very Strong) or MM VIII. Tremors were felt in many Argentina|Argentine cities, including Buenos Aires, Córdoba, Argentina|Córdoba, Mendoza, Argentina|Mendoza and La Rioja, Argentina|La Rioja. Tremors were felt as far north as the city of Ica (city)|Ica in southern Peru (approx. 2400&nbsp;km).
+
+The earthquake triggered a tsunami which devastated several coastal towns in south-central Chile and damaged the port at Talcahuano. Tsunami warnings were issued in 53 countries, and about 9% of the population in the affected regions lost their homes.
+
+On 10 March, Swiss Reinsurance Co. estimated that the Chilean quake would cost insurance companies between 4 and 7 billion dollars. The rival German-based Munich Re AG made the same estimate. Earthquake's losses to the economy of Chile are estimated at US$15–30 billion.
+
+==Location==
+According to the USGS the epicenter of the earthquake was about {{convert|3|km|mi|abbr=in}} off the coast of Pelluhue commune in the Maule Region. This is about {{convert|6|km|mi|abbr=in}} west of the village of Chovellén, {{convert|15|km|mi|abbr=in}} southwest of the town of Pelluhue and at a point approximately {{convert|100|km|mi|abbr=in}} away from the following four provincial capitals: Talca (to the north-east), Linares, Chile|Linares (to the east), Chillán (to the south-east) and Concepción, Chile|Concepción (to the south). Chile's Seismological Service located the quake's epicenter at about {{convert|34|km|mi|abbr=in}} off the coast of ?uble Province in the Biobío Region. This is {{convert|60|km|mi|abbr=in}} north of Concepción and {{convert|170|km|mi|abbr=in}} south-west of Talca.
+
+== Seismology and geology ==
+{{Main|Nazca Plate|geology of Chile}}
+The earthquake took place along the boundary between the Nazca Plate|Nazca and South American Plate|South American tectonic plates, at a location where they convergent boundary|converge at a rate of eighty millimeters (about three inches) a year. This earthquake was characterized by a thrust fault|thrust-faulting focal mechanism, caused by the subduction of the Nazca plate beneath the South American Tectonic Plates.
+
+Chile has been at a convergent plate boundary that generates megathrust earthquakes since the Paleozoic era (500 million years ago). In historical times the Chilean coast has suffered many megathrust earthquakes along this plate boundary, including the strongest earthquake ever measured, which is the 1960 Valdivia earthquake. Most recently, the boundary ruptured in 2007 causing the 2007 Antofagasta earthquake in northern Chile.
+
+The segment of the fault zone which ruptured in this earthquake was estimated to be over {{Convert|700|km|abbr=on}} long with a displacement of almost 10 meters, or 120 years of accumulated plate movement. It lay immediately north of the {{Convert|1000|km|abbr=on}} segment which ruptured in the great earthquake of 1960. Preliminary measurements show that the entire South American Plate moved abruptly westward during the quake. A research collaborative of Ohio State and other institutions have found, using GPS, that the earthquake shifted Santiago 11&nbsp;inches (28&nbsp;cm) to the west-southwest and moved Concepción at least {{convert|3|m|0}} to the west. The earthquake also shifted other parts of South America from the Falkland Islands to Fortaleza, Brazil. For example, it moved Argentina's capital of Buenos Aires about one inch (2.5&nbsp;cm) to the west. Several cities south of Cobquecura were also raised, by up to 3 meters. The maximum recorded peak ground acceleration was at Concepcion, with a value of 0.65 ''g'' (6.38&nbsp;m/s<sup>2</sup>).
+
+File:2010 Maule earthquake intensity USGS.jpg|thumb|USGS shake map of the earthquake
+
+=== Compared with past earthquakes ===
+{{see also|Earthquakes in 2010}}
+This was the strongest earthquake affecting Chile since the magnitude 9.5 1960 Valdivia earthquake (the most energetic earthquake ever measured in the world), and it was the strongest earthquake worldwide since the 2004 Indian Ocean earthquake and until the 2011 Tōhoku earthquake. It is tied with the 1906 Ecuador-Colombia earthquake|1906 Ecuador-Colombia and 1833 Sumatra earthquake|1833 Sumatra earthquakes as the List of earthquakes#Largest earthquakes by magnitude|sixth strongest earthquake ever measured, approximately 500 times more powerful than the 7.0 Moment magnitude scale|M<sub>w</sub> earthquake in Haiti 2010 Haiti earthquake|in January 2010.
+
+=== Aftershocks ===
+An aftershock of 6.2 was recorded 20&nbsp;minutes after the initial quake. The USGS said that "a large vigorous aftershock sequence can be expected from this earthquake".
+
+Shortly after the mainshock seismologists installed a dense network of seismometer along the whole rupture area. This network captured 20.000 aftershocks in the 6 months after the mainshock and shows a detailed picture of the structure of the Chilean margin. Seismicity is focused in the depth range 25–35&nbsp;km and in an deeper band of between 45 and 50&nbsp;km depth. Around 10.000 aftershocks occurred in the region of two large aftershocks in the Pichilemu region.
+
+A 6.9-magnitude offshore earthquake struck approximately 300 kilometers southwest of, and less than 90 minutes after, the initial shock; however, it is not clear if that quake is related to the main shock. A separate 2010 Salta earthquake|earthquake of magnitude 6.3 occurred in Salta, Argentina, at 15:45 UTC on 27 February, at a depth of {{Convert|38.2|km|abbr=on}}; two people were injured and one died in Salta. This earthquake was followed on 1 March, at 06:32 UTC by a magnitude 4.9 aftershock. Four other earthquakes above M5.0, some possible aftershocks, also occurred near the border in Argentina following the Chile earthquake; a magnitude 5.0 earthquake occurred in Mendoza, Argentina|Mendoza on 28 February, a M5.3 earthquake in Neuquen and a M5.2 in San Juan (Argentina)|San Juan on 2 March, and a M5.1 quake in Mendoza on 4 March.
+
+Another strong earthquake occurred on 4 March, at 22:39&nbsp;UTC in Antofagasta in northern Chile, with a magnitude of 6.3.
+
+Minor quakes generated by the main one could be felt as far away as S?o Paulo, Brazil,
+
+On 5 March, two aftershocks above M6.0 were reported. The first was a 6.3-magnitude off the coast of the Biobío Region. The second was near the epicenter of the original quake at 08:47 local time with a magnitude of 6.6.
+
+On 11 March, the March 2010 Chile earthquake (strength 6.9, treated by some as an aftershock of the February 2010 earthquake) was reported, followed quickly by further aftershocks measuring 6.7 and 6.0. The epicenter of the 6.9 quake was in Pichilemu, O'Higgins Region.
+
+On 15 March, two aftershocks of the February 2010 earthquake were reported, one at magnitude 6.1 at 08:08:28 local time offshore Maule Region|Maule, and another at magnitude 6.7 with the epicenter located offshore the Biobío Region, near Cobquecura, at 23:21:58 local time. This tremor was followed by two minor aftershock, one occurring 45 minutes later, measuring M5.5. No tsunami was reported and there were no tsunami warnings issued.
+
+On 17 March, at 14:38:37 local time, an earthquake of magnitude 5.2 was recorded in Aisén Region|Aisén, in Southern Chile. Another magnitude 5.2 earthquake was recorded in Los Lagos Region|Los Lagos the next day. On 26 March, at 10:52:06 local time, a magnitude 6.2 earthquake hit the Atacama Region|Atacama region, in Northern Chile.
+
+{{wikinews|6.5 magnitude aftershock hits Bío Bío, Chile}}
+
+The Biobio Region of Chile has had strong aftershocks of this earthquake. The first one was a magnitude 6.7 Moment magnitude scale|M<sub>W</sub> earthquake that struck off the coast of Biobío Region|Biobío, Chile, at 23:21 on 15 March 2010 at the epicenter, at a depth of {{convert|18|km|mi|0}}. The second earthquake struck on land in the region at 22:58 (UTC) on 2 April 2010 at 5.9 Moment magnitude scale|M<sub>W</sub> and at a depth of 39&nbsp;km. The third struck on 10:03 (UTC) on 23 April 2010 at 6.2 Moment magnitude scale|M<sub>W</sub>. The Pacific Tsunami Warning Center said that historical data indicates that this quake will not generate a tsunami but still advised of the possibility. On 3 May, at 19:09 an earthquake magnitude 6.4 Moment magnitude scale|M<sub>W</sub> struck off Biobío Region|Biobío, Chile, at the epicenter, at a depth of {{convert|20|km|mi|0}}. The epicenter was {{convert|55|km|mi|0}} south of Lebu, Chile|Lebu. On 14 July 2010, another 6.5 magnitude earthquake occurred in the area.
+
+===2011 aftershocks===
+On 2 January at 17:20:18 local time, a 7.1 magnitude aftershock occurred 70 kilometers northwest of Temuco, Chile. On Lautaro, Chile|Lautaro, Ca?ete, Chile|Ca?ete, Nueva Imperial, Traiguén and Carahue the quake was felt at intensity VI (strong) of the Mercalli scale. In Temuco it was perceived at intensity V (moderate). In Talcahuano, Concepción, Chile|Concepción, Chillán, Osorno, Chile|Osorno and Valdivia it shook at intensity IV (light). According to the USGS the earthquake's epicenter was located on the ground, east of the coastal town of Tirúa in the Araucanía Region. However, according the University of Chile's Seismological Service, the seismic event was located 134 kilometers off the coast of Tirúa, measuring a magnitude 6.9 Richter magnitude scale|M<sub>L</sub>. The University of Chile also reported that the localities who received the strongest shaking (VI) were Curanilahue, Lebu, Chile|Lebu and Tirúa. In Concepción, Talcahuano and Temuco it was felt at intensity V, and in Chillán and Valdivia at intensity IV.
+
+A magnitude 6.2 M<sub>w</sub> aftershock struck the coast of Biobío Region|Biobío, Chile at a shallow Hypocenter|depth of 15.1&nbsp;km (9.4&nbsp;mi) on 1 June 2011 at 08:55&nbsp;local time (12:55 &nbsp;UTC). It was centered just offshore Arauco Province near a moderately populated area, with most structures in its vicinity reported to be resistant to earthquake shaking. Strong shaking registering at VI on the Mercalli intensity scale|Mercalli scale was felt in Lebu, Chile|Lebu, just 7&nbsp;km (4&nbsp;) south of the epicenter, lasting for approximately one minute. Some residents in coastal areas panicked and evacuated their homes. The earthquake was followed by a moderate magnitude 5.1 M<sub>w</sub> tremor that occurred about 52 minutes later to the northeast of the main shock epicenter at an estimated depth of 26.9&nbsp;km (16.7&nbsp;mi). Initial estimates from the USGS placed its intensity at a magnitude of 6.4 M<sub>w</sub>.
+
+===Geophysical impact===
+Seismologists estimate that the earthquake was so powerful that it may have shortened the length of the day by 1.26 microseconds and moved the Earth's figure axis by 8&nbsp;cm or 2.7 milliarcseconds. Precise GPS measurement indicated the telluric movement moved the entire city of Concepción 3.04 meters (10&nbsp;ft) to the west. The capital Santiago, Chile|Santiago experienced a displacement of almost 24 centimeters (10&nbsp;in) west, and even Buenos Aires, about {{convert|1350|km|mi}} from Concepción, shifted 4 centimeters (1.5&nbsp;in). It is estimated that Chile's territory could have expanded 1.2&nbsp;km? as a result.
+
+The earthquake also caused seiches to occur in Lake Pontchartrain to the north of New Orleans, United States, located nearly {{convert|7500|km|mi}} from the epicenter of the quake.
+
+== Damage and casualties ==
+{{wikinewspar2|Chilean earthquakes: in pictures|Chilean earthquakes in the O'Higgins Region: a photoessay}}
+People were found dead after the earthquake struck, mostly under buildings and inside cars. Many people were also seriously injured. Most injuries were reported in Santiago and Maule.
+
+According to an Associated Press Television News cameraman, some buildings collapsed in Santiago, Chile|Santiago and there were power outages in parts of the city. Santiago's Comodoro Arturo Merino Benítez International Airport|International Airport seemed to have been damaged and the airport authority closed off all flight operations for 24&nbsp;hours from around 12:00 UTC.
+
+Santiago's national Fine Arts Museum was badly damaged and did not reopen until 9 March 2010. An apartment building's two-story parking lot collapsed, wrecking 68 cars. According to one health official, three hospitals in Santiago collapsed, and a dozen more south of the capital also suffered significant damage.
+<gallery>
+File:Casa Pelluhue tras terremoto 2010.jpg|House uprooted to the streets of Pelluhue after the tsunami.
+File:Chile Earthquake 2010 - Maipú 1.JPG|A severely damaged building in Maipú, Chile|Maipú, Santiago.
+File:Canal ifarle tsunami.jpg|Tsunami in Talcahuano, Biobío Region.
+File:Vespucio Norte Highway after 2010 earthquake.jpg|Collapsed Vespucio Norte Express Highway in Santiago.
+File:2010 Chile earthquake - Carretera de la fruta.jpg|Fruit Road, O'Higgins Region.
+</gallery>
+In Valparaíso, a tsunami wave of 1.29 m was reported. The port of Valparaíso was ordered to be closed due to the damage caused by the earthquake. The port started to resume limited operations on 28 February. In Vi?a del Mar, a touristic city and part of Greater Valparaíso, several buildings were structurally damaged, principally in the district Plan de Vi?a.
+
+Many cities in Maule region were seriously affected by the earthquake. Curanipe, only 8&nbsp;km (5&nbsp;mi) from the epicenter, was hit by a tsunami after the earthquake and still remained isolated from outside as of 28 February. A surfer said the tsunami "...was like the one in Thailand, a sudden rise of water. One could not estimate the dimension of the wave, because it was advancing foam. There were 10 to 15 rises, the last one being at 08:30 in the morning." In Talca, the capital of Maule region, many dead were trapped in the rubble. The administrative building was uninhabitable, and the authorities had to be set up in the parade ground. All but two of the local hospital's thirteen wings were in ruins. Dr. Claudio Martínez was quoted as saying, "We're only keeping the people in danger of dying." Hospital staff attempted to transport some patients to Santiago on Sunday morning, but roads were blocked.
+
+Damaged buildings and fires were reported in Concepción. The fifteen-story residential building "Alto Río" fell backwards, horizontally lay on the ground, and trapped many of the residents. As the building was newly completed, 19 of the apartments were occupied and 36 were unknown if there were residents therein. A 2.34&nbsp;m (7.68&nbsp;ft) tsunami wave hit Talcahuano, a port city and part of the Greater Concepción|Concepción conurbation. The tsunami caused serious damage to port facilities and lifted boats out of the water. In the fishing town of Dichato, which has 7,000 residents, it was the third tsunami wave that ended up being the most damaging.
+
+Dilapidated buildings could be seen on the streets of Temuco, about 400&nbsp;km (250&nbsp;mi) from the epicenter. The adobe of some buildings fell. Fa?ades fell in pieces and crushed cars. Two people were reported dead because of not having been able to escape from a nightclub. On 27 February, it was reported that "to find an open business is almost impossible" ("Encontrar un negocio abierto es casi imposible").
+
+In Chile, 370,000 homes were damaged. This is down from early reports on 3 March of 802 people dead.
+
+The Chilean National Emergency Office (''ONEMI|Oficina Nacional de Emergencia'') estimated that the intensity of the earthquake was 9 on the Mercalli scale in the Biobío Region and 8 in Santiago. USGS put the intensity in Talcahuano at Mercalli scale|MM VIII, in Santiago and Concepción at MM VII and in Valparaíso at MM VI.
+
+On 10 March, Swiss Reinsurance Co. estimated that the Chilean quake would cost the insurance industry between 4 and 7 billion dollars. And this is the same estimate made by the rival German-based Munich Re AG.
+<gallery align="center">
+File:Terremoto Chile 2010-Incendio fabrica plastico.jpg|Fire at a plastics plant, Santiago, Chile.
+File:2010 Chile earthquake - Hospital of Temuco.jpg|''Hernán Henríquez Hospital'' of Temuco had to be evacuated after the earthquake.
+File:2010 Chile earthquake - Car destroyed in Temuco.jpg|A car crushed by the rubble of a collapsed building in Temuco.
+</gallery>
+
+===Modified Mercalli intensities for some localities===
+
+{| class="wikitable sortable"
+|-
+! Locality !! Country !! USGS !! Population
+|-
+| Angol || {{flagu|Chile}} || VII ||  || 45k
+|-
+| Antofagasta || {{flagu|Chile}} ||  || II || 
+|-
+| Arauco, Chile|Arauco || {{flagu|Chile}} || VIII ||  || 25k
+|-
+| Buín || {{flagu|Chile}} || VII ||  || 55k
+|-
+| Bulnes, Chile|Bulnes || {{flagu|Chile}} || VII ||  || 13k
+|-
+| Cabrero, Chile|Cabrero || {{flagu|Chile}} || VII ||  || 18k
+|-
+| Calama, Chile|Calama || {{flagu|Chile}} ||  || II || 
+|-
+| Ca?ete, Chile|Ca?ete || {{flagu|Chile}} || VII ||  || 20k
+|-
+| Carahue || {{flagu|Chile}} || VI ||  || 12k
+|-
+| Cauquenes || {{flagu|Chile}} || VII ||  || 31k
+|-
+| Chiguayante || {{flagu|Chile}} || VII ||  || 83k
+|-
+| Chillán || {{flagu|Chile}} || VII ||  || 150k
+|-
+| Chimbarongo || {{flagu|Chile}} || VII ||  || 17k
+|-
+| Coihueco || {{flagu|Chile}} || VII ||  || 7k
+|-
+| Collipulli || {{flagu|Chile}} || VII ||  || 16k
+|-
+| Concepción, Chile|Concepción || {{flagu|Chile}} || VII || IX || 215k
+|-
+| Constitución, Chile|Constitución || {{flagu|Chile}} || VII ||  || 38k
+|-
+| Copiapó || {{flagu|Chile}} ||  || III || 
+|-
+| Coquimbo || {{flagu|Chile}} || VI || V || 
+|-
+| Coronel, Chile|Coronel || {{flagu|Chile}} || VIII ||  || 93k
+|-
+| Corral || {{flagu|Chile}} || IV ||  || 4k
+|-
+| Curanilahue || {{flagu|Chile}} || VII ||  || 31k
+|-
+| Curicó || {{flagu|Chile}} || VII ||  || 102k
+|-
+| Cutral-Co || {{flagu|Argentina}} || IV ||  || 47k
+|-
+| El Monte, Chile|El Monte || {{flagu|Chile}} || VII ||  || 23k
+|-
+| Freire || {{flagu|Chile}} || VI ||  || 8k
+|-
+| General Roca || {{flagu|Argentina}} || IV ||  || 73k
+|-
+| Graneros || {{flagu|Chile}} || VII ||  || 23k
+|-
+| La Calera (Chile)|La Calera || {{flagu|Chile}} || VII ||  || 49k
+|-
+| Huayco || {{flagu|Chile}} ||  || III || 
+|-
+| Illapel || {{flagu|Chile}} || V ||  || 23k
+|-
+| Laja, Chile|Laja || {{flagu|Chile}} || VII ||  || 17k
+|-
+| La Ligua || {{flagu|Chile}} || VI ||  || 25k
+|-
+| La Unión, Chile|La Unión || {{flagu|Chile}} || IV ||  || 26k
+|-
+| Lampa, Chile|Lampa || {{flagu|Chile}} || VII ||  || 29k
+|-
+| Las ?nimas ||  || V ||  || 30k
+|-
+| Las Gaviotas || {{flagu|Argentina}} || V ||  || 2k
+|-
+| Lautaro, Chile|Lautaro || {{flagu|Chile}} || VII ||  || 22k
+|-
+| Lebu, Chile|Lebu || {{flagu|Chile}} || VII ||  || 22k
+|-
+| Limache || {{flagu|Chile}} || VI ||  || 36k
+|-
+| Linares, Chile|Linares || {{flagu|Chile}} || VII ||  || 70k
+|-
+| Llaillay || {{flagu|Chile}} || VI ||  || 17k
+|-
+| Loncoche || {{flagu|Chile}} || V ||  || 16k
+|-
+| Longaví || {{flagu|Chile}} || VII ||  || 6k
+|-
+| Los Andes, Chile|Los Andes || {{flagu|Chile}} || VI ||  || 57k
+|-
+| Los ?ngeles, Bío Bío|Los ?ngeles || {{flagu|Chile}} || VII ||  || 125k
+|-
+| Lota, Chile|Lota || {{flagu|Chile}} || VII ||  || 50k
+|-
+| Machali || {{flagu|Chile}} || VI ||  || 28k
+|-
+| Melipilla || {{flagu|Chile}} || VII ||  || 63k
+|-
+| Mendoza, Argentina|Mendoza || {{flagu|Argentina}} || IV ||  || 877k
+|-
+| Molina, Chile|Molina || {{flagu|Chile}} || VII ||  || 29k
+|-
+| Mulchén || {{flagu|Chile}} || VII ||  || 22k
+|-
+| Nacimiento, Chile|Nacimiento || {{flagu|Chile}} || VII ||  || 21k
+|-
+| Neuquén || {{flagu|Argentina}} || IV ||  || 242k
+|-
+| Nueva Imperial || {{flagu|Chile}} || VI ||  || 19k
+|-
+| Osorno, Chile|Osorno || {{flagu|Chile}} || V ||  || 136k
+|-
+| Paine, Chile|Paine || {{flagu|Chile}} || VII ||  || 33k
+|-
+| Panguipulli || {{flagu|Chile}} || V ||  || 16k
+|-
+| Parral, Chile|Parral || {{flagu|Chile}} || VII ||  || 27k
+|-
+| Pe?aflor, Chile|Penaflor || {{flagu|Chile}} || VII ||  || 66k
+|-
+| Penco || {{flagu|Chile}} || VII ||  || 46k
+|-
+| Pitrufquen || {{flagu|Chile}} || VI ||  || 14k
+|-
+| Puerto Montt || {{flagu|Chile}} ||  || V || 
+|-
+| Quillota || {{flagu|Chile}} || VII ||  || 68k
+|-
+| Quilpué || {{flagu|Chile}} || VII ||  || 130k
+|-
+| Rancagua || {{flagu|Chile}} || VII || VIII || 213k
+|-
+| Rengo, Chile|Rengo || {{flagu|Chile}} || VII ||  || 38k
+|-
+| Río Bueno, Chile|Río Bueno || {{flagu|Chile}} || IV ||  || 15k
+|-
+| Salamanca || {{flagu|Chile}} || V ||  || 13k
+|-
+| San Antonio || {{flagu|Chile}} || VII ||  || 86k
+|-
+| San Bernardo, Chile|San Bernardo || {{flagu|Chile}} || VI ||  || 250k
+|-
+| San Carlos, Chile|San Carlos || {{flagu|Chile}} || VII ||  || 32k
+|-
+| San Clemente || {{flagu|Chile}} || VII ||  || 14k
+|-
+| San Felipe, Chile|San Felipe || {{flagu|Chile}} || VII ||  || 59k
+|-
+| San Javier, Chile|San Javier || {{flagu|Chile}} || VII ||  || 22k
+|-
+| San Juan, Argentina|San Juan || {{flagu|Argentina}} || IV ||  || 447k
+|-
+| San Luis, Argentina|San Luis || {{flagu|Argentina}} || IV ||  || 184k
+|-
+| San Martín de los Andes|San Martín || {{flagu|Argentina}} || IV ||  || 83k
+|-
+| San Rafael, Mendoza|San Rafael || {{flagu|Argentina}} || IV ||  || 109k
+|-
+| San Vicente, Chile|San Vicente || {{flagu|Chile}} || VII ||  || 23k
+|-
+| Santa Cruz, Chile|Santa Cruz || {{flagu|Chile}} || VII ||  || 33k
+|-
+| Santiago, Chile|Santiago || {{flagu|Chile}} || VII || VIII || 4,837k
+|-
+| Talagante || {{flagu|Chile}} || VII ||  || 52k
+|-
+| Talca || {{flagu|Chile}} || VII || VIII || 197k
+|-
+| Talcahuano || {{flagu|Chile}} || VII ||  || 253k
+|-
+| Temuco || {{flagu|Chile}} || VI || VIII || 238k
+|-
+| Teno || {{flagu|Chile}} || VII ||  || 7k
+|-
+| Tierra Amarilla || {{flagu|Chile}} ||  || III || 
+|-
+| Tomé || {{flagu|Chile}} || VII ||  || 47k
+|-
+| Traiguén || {{flagu|Chile}} || VII ||  || 14k
+|-
+| Valdivia || {{flagu|Chile}} || V || VI || 133k
+|-
+| Valparaíso || {{flagu|Chile}} || VII || VI || 282k
+|-
+| Victoria, Chile|Victoria || {{flagu|Chile}} || VII ||  || 25k
+|-
+| Vicu?a || {{flagu|Chile}} ||  || III-IV || 
+|-
+| Vilcún || {{flagu|Chile}} || VI ||  || 9k
+|-
+| Villa Alemana || {{flagu|Chile}} || VI ||  || 97k
+|-
+| Villarrica, Chile|Villarrica || {{flagu|Chile}} || VII ||  || 32k
+|-
+| Vi?a del Mar || {{flagu|Chile}} || VI || VI || 295k
+|-
+| Yumbel || {{flagu|Chile}} || VII ||  || 11k
+|}
+<small>Notes: USGS=United States Geological Survey, SS=Chile's Seismological Service.</small>
+
+===Identified fatalities===
+<center>
+{| class="wikitable sortable"
+|+ Deaths caused by the earthquake and tsunami by region
+|- style="background:#eaeaea;"
+! Region
+! 27. February
+! 28. February
+! 1. March
+! 2. March
+! 3. March
+! style="border-left: 2px #aaa solid;" | 4. March
+! 5. March
+! 8. March
+|-
+|<span style="display:none">050</span>Valparaíso Region|Valparaíso
+| style="text-align:right;"| 4
+| style="text-align:right;"| 16
+| style="text-align:right;"| 16
+| style="text-align:right;"| 18
+| style="text-align:right;"| 20
+| style="border-left:2px #aaa solid; text-align:right;"| 16
+| style="text-align:right;"|
+| style="text-align:right;"| 24
+|-
+|<span style="display:none">055</span>Región Metropolitana de Santiago|Metropolitana
+| style="text-align:right;"| 13
+| style="text-align:right;"| 36
+| style="text-align:right;"| 38
+| style="text-align:right;"| 38
+| style="text-align:right;"| 38
+| style="border-left:2px #aaa solid; text-align:right;"| 21
+| style="text-align:right;"|
+| style="text-align:right;"| 23
+|-
+|<span style="display:none">060</span>O'Higgins Region|O'Higgins
+| style="text-align:right;"| 12
+| style="text-align:right;"| 46
+| style="text-align:right;"| 48
+| style="text-align:right;"| 48
+| style="text-align:right;"| 48
+| style="border-left:2px #aaa solid; text-align:right;"| 3
+| style="text-align:right;"|
+| style="text-align:right;"| 46
+|-
+|<span style="display:none">070</span>Maule Region|Maule
+| style="text-align:right;"| 34
+| style="text-align:right;"| 541
+| style="text-align:right;"| 544
+| style="text-align:right;"| 587
+| style="text-align:right;"| 587
+| style="border-left:2px #aaa solid; text-align:right;"| 177
+| style="text-align:right;"|
+| style="text-align:right;"| 269
+|-
+|<span style="display:none">080</span>Biobio Region|Biobio
+| style="text-align:right;"| 10
+| style="text-align:right;"| 64
+| style="text-align:right;"| 64
+| style="text-align:right;"| 92
+| style="text-align:right;"| 92
+| style="border-left:2px #aaa solid; text-align:right;"| 56
+| style="text-align:right;"|
+| style="text-align:right;"| 120
+|-
+|<span style="display:none">090</span>Araucanía Region|Araucanía
+| style="text-align:right;"| 5
+| style="text-align:right;"| 5
+| style="text-align:right;"| 13
+| style="text-align:right;"| 13
+| style="text-align:right;"| 14
+| style="border-left:2px #aaa solid; text-align:right;"| 6
+| style="text-align:right;"|
+| style="text-align:right;"| 15
+|- class="sortbottom" style="background:#eaeaea;"
+| '''National total'''
+| style="text-align:right;"| 78
+| style="text-align:right;"| 708
+| style="text-align:right;"| 723
+| style="text-align:right;"| 796
+| style="text-align:right;"| 799
+| style="border-left:2px #aaa solid; text-align:right;"| 279
+| style="text-align:right;"| 452
+| style="text-align:right;"| 497
+|}</center>File:Víctimas del terremoto de Chile de 2010.svg|center|500px|Geographic distribution of the death toll (red: caused by the earthquake; blue: caused by the tsunami).
+
+===Population with destroyed or severely damaged homes===
+
+The table below shows the percentage of the population whose homes were destroyed or were severely damaged by the earthquake and tsunami in the six most affected regions. The data was collected in May and June 2010.
+
+{| class="wikitable"
+|-
+! Region !! % of pop.
+|-
+| Valparaíso Region|Valparaíso || style="text-align:right;"| 7.4
+|-
+| Santiago Metropolitan Region|Santiago || style="text-align:right;"| 4.8
+|-
+| O'Higgins Region|O'Higgins || style="text-align:right;"| 12.2
+|-
+| Maule Region|Maule || style="text-align:right;"| 20.7
+|-
+| Biobío Region|Biobío || style="text-align:right;"| 17.8
+|-
+| Araucanía Region|Araucanía || style="text-align:right;"| 5.1
+|-
+! Total (six regions) !! 8.8
+|}
+<small>'''Source:''' http://www.mideplan.gob.cl/encuesta-post-terremoto/documentos/informe-encuesta-post-terremoto.pdf Casen Post-Earthquake Survey, Ministry of Planning.</small>
+
+=== Humanitarian response ===
+{{Main|Humanitarian response to the 2010 Chile earthquake|Timeline of relief efforts after the 2010 Chile earthquake}}
+Despite President Michelle Bachelet's earlier statement that Chile would only ask for international aid once it had assessed the extent of the damage, Appeals for humanitarian aid were issued by the UK-based Oxfam, Save the Children and others.
+
+Chilean television host Don Francisco (television host)|Don Francisco led a telethon called ''Chile helps Chile'' with the goal of raising 15 billion Chilean peso|pesos (about US$29 million) needed to build 30,000 emergency houses ("mediaguas"). The charity event, which ran for 24 hours in Santiago starting on Friday 5 March at 22:00, was summoned by the government and organized by several Chilean NGOs. At 23:00 on Saturday the goal was doubled, collecting 30.2 billion pesos (about US$58 million).
+
+The Chilean NGO Un Techo para Chile constructed 23,886 transitional houses for families affected by the earthquake.
+
+== Conditions in the aftermath ==
+
+=== Chaos and disorder ===
+{{wikinews|Wikinews investigates the reconstruction of Pichilemu, Chile after February earthquake}}
+Nearly half the places in the country were declared "catastrophe zones", and curfews were imposed in some areas of looting and public disorder. On 28 February 2010, a day after the earthquake, some affected cities were chaotic, with extensive looting of supermarkets in Concepción, Chile|Concepción. Items stolen included not only food and other necessities, but also electronic goods and other durable merchandise. To control vandalism, a special force of Carabineros de Chile|''carabineros'' (police) was sent to disperse rioters with tear gas and water cannons. However, measures were taken late. The outgoing president didn't want to remind people of the Dictatorship years by militarizing the streets, thus failed to provide assistance on time to the city. When the situation became unsustainable and all sectors of the population were demanding actions, the government authorized the use of the military to control the affected cities. Despite these and other government acts (including the curfews), pillaging continued in both urban and rural areas of the affected zones. Reportedly, military police arrested 160 in Concepción on 1 and 2 March.
+
+File:Tsunami_damage_in_Pichilemu,_Chile_(27_Feb._2010).jpg|thumb|left|Kiosks destroyed by the tsunami in Pichilemu.
+
+In Concepción, despite the militarization of the zone, mobs continued to steal from supermarkets and went as far as to set one store ablaze. The government warned looters they would face the full weight of the law, as penalties for stealing are increased under a state of catastrophe. A week after the quake the police —tipped by neighbors— arrested three people with massive quantities of looted goods stashed in their homes. Other looted goods such as mattresses, furniture, television sets and other electronic appliances were abandoned in the streets of Concepción during the following days.
+
+File:Museo de Arte Contemporáneo Earthquake in Chile.jpg|right|thumb|The damaged Chilean National Museum of Fine Arts|Museum of Fine Art|200px
+
+According to the BBC on 5 March, the city and fishing port of Talcahuano, which lies but a few kilometers down the coast from Concepción, has been left largely to fend for itself. Neighbourhood vigilante groups, including one led by a public works employee with a gun license, and the few police present allow such behavior as residents' siphoning fuel from tanks at a petrol station, but step in if someone starts to attack a cash machine. One man stated, "I've personally saved dozens of people from attack in this apartment block."
+
+Chileans living in regions not affected by the earthquake (including those living abroad) also grieved, as they sought to learn more regarding kinsmen and friends affected by the earthquake. In the hardest-hit zones there was no communication with the exterior because of the failure of electricity and the destruction of telephone lines.
+
+===Prison escape===
+In the prison of El Manzano (prison)|El Manzano in Concepción, a prison riot began after a failed escape attempt by the inmates. Different parts of the prison were set afire and the riot was brought under control only after the guards shot into the air and received help from military units.
+
+By 1 March, prison guards in a prison in Chillán had recaptured 36 of 203 prisoners who had escaped following the earthquake. During their escape, prisoners burned seven houses close to the prison. A witness in Chillán asserted that he had been robbed by prisoners with a machine gun who had also forced his girlfriend to kiss them. Another witness alleged sexual abuse|sexual molestation by around twenty men who were believed to be escaped prisoners. The leading Chilean newspaper ''El Mercurio'' described the situation in Chillán as reminiscent of the "Wild West".
+
+=== Government response ===
+Four hours after the earthquake, when the death count was still low, President Bachelet gave a press conference in which she informed the population of the situation and stated that Chile did not yet need international aid.
+However, about two million people were affected by the quake with more than 500,000 houses uninhabitable. In many cities, people slept in tents, in parks or simply on the streets for fear of aftershocks. The government began distributing food and other vital aid around the country.
+
+On 28 February, President Bachelet said that her government had reached an agreement with the major supermarkets which would allow them to give away basic foodstuffs in stock to people affected by the earthquake.
+By 28 February, the Santiago Metro rapid-transit network was already partially up and running and expected to be fully operative on the following day, 1 March.
+
+On 4 March, President-elect Sebastián Pi?era, who assumed office on 11 March, was quoted as saying that his goals were "to cope with the emergency needs of citizens, find people who are still missing, provide prompt and timely assistance to the sick and wounded, and restore law and order so that people can return to peace."
+
+=== Economic recovery ===
+Authorities of the central port city of San Antonio speaking on 3 March 2010, stated that the port had returned to eighty percent of capacity. On the same date, Raul Maturana, a spokesman for the Federation of Port Workers' union, stated that the port of Valparaíso was operating normally. However, ports in southern Chile, which were closer to the epicenter, remained closed.
+
+On 4 March, President Bachelet said that Chile would need international loans and three to four years to rebuild.
+
+===Food scarcity===
+On 10 March the National Commission for Agricultural emergencies (CNEA) assured that milk and wheat prices would not rise, despite fears of lack of fuel supply for transport and harvest of these products. In the same CNEA report the mill associations of central and southern Chile are said to have expressed that they had currently no production difficulties. Despite of this in 11 March newspaper La Segunda cited the president of the bakeries association complaining on unjustified price rises for flour, who said of cases of price rises of 10 to 20%.
+
+The earthquake affected production at the Compa?ía de Cervecerías Unidas (CCU) and Cervecería Chile factories that together have a 90% share of the Chilean beer market. With an average annual per capita consumption of 36 liters, scarcity caused prices to rise from 990–1500 to 2000 Chilean pesos per litre. CCU responded by increasing capacity of their plant in Temuco that did not suffer major damage during the earthquake and by importing beer from their factories in Argentina. 50 trucks with beer are reported to have reached Santiago from Argentina. In March 2010, ten CCU executives said that the country will not run out of beer and that within two to three months production levels would be normalized. Liquor store owners expressed complaints regarding a beer rationing scheme implemented by CCU. The scarcity favoured consumption of "premium beers" like Kunstmann and Pace?a.
+
+== Tsunami ==
+A Tsunami warning system|tsunami warning was first declared for Chile and Peru, and a tsunami watch for Ecuador, Colombia, Antarctica, Panama and Costa Rica. The warning was later extended to a Pacific Ocean-wide warning, covering all coastal areas on the Pacific Ocean except the west coast of the United States, British Columbia, and Alaska. Hawaiian media reported that tsunami warning sirens first sounded at 06:00 local time. The U.S. Tsunami Warning Center issued advisories about potential tidal waves of less than {{Convert|1|m|abbr=on}} striking the Pacific Ocean coastline between California and most of Alaska late in the afternoon or through the evening 12 or more hours after the initial earthquake.
+Although the earthquake killed far fewer people than the Haitian earthquake less than 7 weeks prior, it was still devastating.
+The tsunami warning was cancelled for all countries except Japan and Russia in PTWC Bulletin 18 of 00:12 UTC on 28 February 2010.
+
+In general, tsunamis tend to come in several waves, of which the first may not be the highest.
+
+File:2010 Chile earthquake - NOAA buoy 34142 - water column height short.png|frame|right|The tsunami's passage as recorded by National Data Buoy Center Deep-ocean Assessment and Reporting of Tsunamis (DART) buoy 34142, located in the southeastern Pacific Ocean 630 nautical miles (1170 km) southwest of Lima, Peru.
+
+The U.S. National Weather Service's Pacific Tsunami Warning Center issued a Tsunami warning system|tsunami warning throughout a huge swathe of the Pacific region, including Antarctica. A warning was also issued for the Oceania and Pacific Islands nations and territories of American Samoa, Australia, the Cook Islands, the Federated States of Micronesia (including the FSM states of Chuuk State|Chuuk, Kosrae, Pohnpei and Yap), Fiji, French Polynesia, Guam, Hawaii, Jarvis Island, Johnston Island, the Kermadec Islands, Kiribati, Marcus Island, the Marshall Islands, Midway Island, New Caledonia, New Zealand, Niue, the Northern Mariana Islands, Palau, Papua New Guinea, Pitcairn Islands, Samoa, the Solomon Islands, Tokelau, Tonga, Tuvalu, Wallis and Futuna and Wake Island. the Philippines, Russia and Republic of China|Taiwan.
+
+Coastal areas of Canada's westernmost province British Columbia was under a tsunami advisory, and this was the most alarming advisory as the earthquake occurred during the same time as the 2010 Winter Olympics in Vancouver. The first wave was expected to reach southern British Columbia at 15:11&nbsp; local time.
+
+A tsunami advisory was also issued for coastal areas of California, Oregon, Washington (U.S. state)|Washington and southern Alaska in the United States. This tsunami advisory was canceled as of 07:13
+UTD on 28 February.
+
+Russian authorities lifted a tsunami alert for the Kamchatka coast, after the arrival of a 0.8&nbsp;m (2.6&nbsp;ft) surge that caused no damage. The tsunami was also reported to be small along the Japanese coast, and passed without incident. Many coastal areas in Japan had been evacuated as a precaution.
+
+The projections use DART (Deep-ocean Assessment and Reporting of Tsunamis) gauges spread along the sea floor, which is a fairly new technology. Initial deep sea readings showed wave height of 25 centimeters, which is huge for deep water, according to Gerard Fryer of the Pacific Tsunami Warning Center. He went on to say, "although it was huge, we didn't quite know what it meant because we haven't much experience with those. As we get more under our belts, we'll get better."
+
+===Chile===
+File:Augustin-balcony-after.jpg|thumb|right|Agustín Ross balcony damaged after the earthquake and tsunami in Pichilemu.
+
+Some 30 minutes after the first shock, consecutive tsunamis hit coastal towns, among which Constitución, Chile|Constitución suffered the hardest damage; A wave amplitude of {{convert|2.34|m|ft|abbr=on|2}} was recorded at Talcahuano in the Biobío Region. Robinson Crusoe Island, the largest of the Juan Fernández Islands, was struck by a large wave led to the deaths of four people on the island, with eleven people reported as missing, according to Provincial Governor Ivan De La Maza. President Bachelet is reported to have sent an aid mission to the remote island.
+
+As a precaution against the coming tsunami, partial evacuation was ordered in Easter Island, about 3,510&nbsp;km (2,180&nbsp;mi) away from the coast of Chile. The tsunami wave arrived in Easter Island at 12:05 UTC, measuring 0.35&nbsp;m (1.15&nbsp;ft).
+
+
+On 27 February, defense minister Francisco Vidal (Chilean politician)|Francisco Vidal said that the Chilean Navy had made a mistake by not immediately issuing a tsunami warning after the earthquake, a step that could have helped coastal villagers flee to higher ground sooner. However, an alarm was later sounded by port captains and saved some lives. Mariano Rojas Bustos, then head of Chile's oceanographic service SHOA, which is part of the country's navy, was later fired for the organization's failure to provide clear warnings about the tsunami.
+
+=== Oceania ===
+;New Zealand
+Initially, the New Zealand Ministry of Civil Defence and Emergency Management (CDEM) said they did not expect a tsunami to reach New Zealand, while surges up to {{Convert|1|m|abbr=on}} high were reported in the northern North Island. By mid afternoon (local time), Civil Defence had downgraded the tsunami warning to an alert, while still advising that sea levels could change quickly for up to 24 hours from the initial surge.
+
+;Antarctica
+The U.S. Antarctic Program's coastal station along the Antarctic Peninsula, Palmer Station, went on a tsunami alert shortly after the earthquake struck Chile. To prepare for a possible tsunami, station personnel removed all Zodiac boats from the water and moved any materials from low-lying areas that waves could have swept away. Personnel also retreated to the station's highest building, GWR, while the tsunami warning was in effect, Ellis said. Palmer personnel developed a tsunami emergency plan following the 2004 earthquake in the Indian Ocean that created a tsunami that killed more than 230,000 people in 14 countries. While no noticeable tsunami occurred at Palmer, the station tide monitor displayed bumps of several centimeters, signifying that a small wave had indeed reached the shores of Anvers Island.
+
+;Australia
+The Joint Australian Tsunami Warning Center (JATWC) sent out tsunami warnings for New South Wales, Queensland, Lord Howe Island, Norfolk Island, Tasmania, and Victoria (Australia)|Victoria. The organization warned of the possibility of dangerous waves, strong ocean currents and foreshore flooding to occur on the east coast of Australia for several hours on Sunday.
+As a result of the warnings, patrolled beaches in New South Wales and Queensland remained closed (red flags) and lifeguards ushered people to leave the water. However beach goers and surfers ignored the warnings. Numerous onlookers also crowded parts of the shore to view potential effects of the tsunami.
+The beach ban was lifted by the end of the day and there was no reports of damage, flooding or other emergencies. Tsunami waves of between 10&nbsp;cm and 50&nbsp;cm were recorded and their surges were believed to have created strong currents. Increases in sea levels include: Norfolk Island 50&nbsp;cm, Gold Coast, Queensland|Gold Coast (Qld) 20&nbsp;cm, Port Kembla, New South Wales|Port Kembla (NSW) 14&nbsp;cm, Southport Island|Southport (Tas) 17&nbsp;cm.
+
+;French Polynesia
+A wave measuring up to {{Convert|1.8|m|abbr=on}} high struck portions of French Polynesia between 15:50 to 17:50 UTC with no reports of injuries {{As of|2010|02|28|lc=on|df=US}}. Cars and other automobiles were banned from roads closer than {{Convert|500|m|abbr=on}} from the Pacific Ocean.
+
+Réseau France Outre-mer in Papeete reported that a wave measuring less than {{Convert|1|m|abbr=on}} passed east of the Gambier Islands with no damage, according to Monique Richeton, the mayor of Rikitea. Residents of the Tuamotus, which are low-lying, were told to move to the highest points on the island.
+
+;American Samoa
+The first wave was expected to reach American Samoa, which is still recovering from the 2009 Samoa earthquake|2009 Samoa earthquake and tsunami, at 08:51 local time. Many coastal towns, including the main city of Pago Pago, had already been heavily damaged in the 2009 tsunami. The first wave arrived on Pago Plaza at 21:58 UTC.
+
+;Philippines
+The Philippine Institute of Volcanology and Seismology (Phivolcs) issued an advisory that tsunami wave(s)
+were expected to hit the eastern coast of the Philippines on Sunday between 05:00 and 06:30 UTC (13:00 and 14:30 local). Residents of 19 eastern provinces "are advised to prepare for possible evacuation." However, at 15:15 on 28 February 2010, all warnings have been cancelled.
+
+;Hawaii
+United States Senators Daniel Inouye and Daniel Akaka issued a joint press release announcing the first tsunami evacuation in Hawaii since 1994. Warning sirens were sounded throughout the state, as hotels in Waikiki evacuated tourists at 6&nbsp;a.m. People in tall buildings were encouraged to move above the third floor. Waves measuring nine 2.7 metres high were originally predicted to strike Hilo Bay on the Big Island of Hawai'i at 11:05 local time (21:05 GMT), but by 11:18, major receding and waves had not been reported on the shoreline. By 11:40, several waves hit the islands amounting to raising and lowering of the sea near the coast, and a fourth wave hit around 13:12. The tsunami warning for Hawaii was canceled in the early afternoon on Saturday, 27 February.
+
+Gerard Fryer, a geophysicist for the Pacific Tsunami Warning Center was quoted as saying: “We expected the waves to be bigger in Hawaii, maybe about 50 percent bigger than they actually were." Early in the morning, the Center expected waves of 3 metres. In actuality, the highest tsunami waves ended up being about 1.5 to 1.8 metres peak to trough.
+
+=== North America ===
+;British Columbia
+At around 23:00 UTC (15:00 local), a tsunami warning was issued for coastal British Columbia. Extra precautions were already in place due to the 2010 Winter Olympics being held in Vancouver at the time.
+
+;California
+Small waves were expected in Southern California, and receding was reported at Long Beach, California|Long Beach. Minor damage was reported on some coastal areas. The tsunami damaged navigation buoys at Ventura, California|Ventura. Additionally, a boat was torn loose from its mooring and minor erosion occurred within Ventura Harbor. Damage to docks and pilings in the area was moderate.
+
+;Guerrero
+In Guerrero, surges of between 30&nbsp;cm and 1 meter and receding of up to 10 m were reported, and three small vessels were sunk at Tecpán de Galeana (municipality)|Tecpán de Galeana. The state tourism authorities announced they would be sending a letter to the CNN news network to protest the "alarming" way in which it had forecast a tsunami for the major tourist destination of Acapulco.
+
+===Tsunami-related aid given===
+{{Expand section|date=March 2010}}
+Argentina has sent construction teams to Chiloé Island to help reconstruct some of the washed away coastal buildings. In July 2010, the government of Argentina released a statement that they would lend $300 million to Chile for reconstruction efforts using Argentine goods.
+
+=== Data ===
+The following data, published by the Pacific Tsunami Warning Center and the National Tsunami Warning Center, lists measured and reported values of the tsunami when it arrived at specific places. Some data is taken from the Chilean Army.
+
+{|class="wikitable sortable"
+|+Tsunami arrival data
+|-
+! Station
+! Country or territory
+! Latitude
+! Longitude
+! Time (UTC)
+! Height (m)
+! Height (ft)
+|-
+|Pichilemu ||{{flagu|Chile}}|| 34.23 S || 72.0 W || 06:48 || 3.02 || 10.0
+|-
+|Talcahuano ||{{flagu|Chile}}|| 36.9 S || 75.4 W || 06:53 || 2.34 || 7.7
+|-
+|Valparaíso ||{{flagu|Chile}}|| 33 S || 71.6 W || 07:08 || 1.29 || 4.2
+|-
+|Corral, Chile|Corral ||{{flagu|Chile}}|| 39.9 S || 73.4 W || 07:39 || 0.90 || 2.9
+|-
+|Desventuradas Islands|San Felix ||{{flagu|Chile}}|| 26.3 S || 80.1 W || 08:15 || 0.53 || 1.7
+|-
+| Caldera ||{{flagu|Chile}}|| 27.1 S || 70.8 W || 08:34 || 0.45 || 1.5
+|-
+| Ancud ||{{flagu|Chile}}|| 41.9 S || 73.8 W || 08:38 || 0.62 || 2.0
+|-
+| Coquimbo ||{{flagu|Chile}}|| 30 S || 71.3 W || 08:52 || 1.32 || 4.3
+|-
+| Iquique ||{{flagu|Chile}}|| 20.2 S || 70.1 W || 09:07 || 0.28 || 0.9
+|-
+| Deep-ocean Assessment and Reporting of Tsunamis|DART Lima || {{flagu|Peru}} || 18 S || 86.4 W || 09:41 || 0.24 || 0.8
+|-
+| Antofagasta ||{{flagu|Chile}}|| 23.2 S || 70.4 W || 09:41 || 0.49 || 1.6
+|-
+| Arica ||{{flagu|Chile}}|| 18.5 S || 70.3 W || 10:08 || 0.94 || 3.1
+|-
+| Callao ||{{flagu|Peru}}|| 12.1 S || 77.2 W || 10:29 || 0.36 || 1.2
+|-
+| Easter Island ||{{flagu|Chile}}|| 27.2 S || 109.5 W || 12:05 || 0.35 || 1.1
+|-
+| Quepos ||{{flagu|Costa Rica}}|| 9.45 N || 84.15 W || 14:16 || 0.24 || 0.8
+|-
+| Galapagos Islands ||{{flagu|Ecuador}} || 0.4 S || 90.3 W || 14:52 || 0.35 || 1.2
+|-
+| Deep-ocean Assessment and Reporting of Tsunamis|DART Marquesas Islands || {{flagu|French Polynesia}} || 8.5 S || 125 W || 15:31 || 0.18 || 0.6
+|-
+| Rikitea ||{{flagu|French Polynesia}}|| 23.1 S || 134.9 W || 15:59 || 0.15 || 0.5
+|-
+| Deep-ocean Assessment and Reporting of Tsunamis|DART Manzanillo, Colima|Manzanillo || || 16.0 N || 107 W || 16:11 || 0.07 || 0.2
+|-
+| Manzanillo, Colima|Manzanillo ||{{flagu|Mexico}}|| 19.1 N || 104.3 W || 17:05 || 0.32 || 1.0
+|-
+| Hiva Oa ||{{flagu|French Polynesia}}|| 9.8 S || 139.0 W || 17:41 || 1.79 || 5.9
+|-
+| Nuku Hiva ||{{flagu|French Polynesia}}|| 8.9 S || 140.1 W || 17:45 || 0.95 || 3.1
+|-
+| Papeete ||{{flagu|French Polynesia}}|| 17.5 N || 149.6 W || 18:10 || 0.16 || 0.5
+|-
+| Cabo San Lucas ||{{flagu|Mexico}}|| 22.9 N || 109.9 W || 18:33 || 0.36 || 1.2
+|-
+| Rarotonga ||{{flagu|Cook Islands}}|| 21.2 S || 159.8 W || 19:07 || 0.15 || 0.5
+|-
+| Acapulco ||{{flagu|Mexico}}|| 16.8 N || 99.9 W || 19:31 || 0.62 || 2.0
+|-
+|Deep-ocean Assessment and Reporting of Tsunamis|DART San Diego|| ||32.2 N||120.7 W||19:31||0.06||0.2
+|-
+| Lottin Point ||{{flagu|New Zealand}}|| 37.6 S || 178.2 E || 19:34 || 0.15 || 0.5
+|-
+| Deep-ocean Assessment and Reporting of Tsunamis|DART Tonga || || 23 S || 168.1 W || 20:03 || 0.04 || 0.1
+|-
+| Apia ||{{flagu|Samoa}}|| 13.8 S || 171.8 W || 20:18 || 0.13 || 0.4
+|-
+|Nukualofa||{{flagu|Tonga}}||21.1 S||175.2 W||20:24||0.1||0.3
+|-
+|Pago Pago||{{flagu|American Samoa}}||14.3 S||170.7 W||20:27 ||0.22||0.7
+|-
+|Monterey, California||{{flagu|United States}}||36.6 N||121.9 W||20:31 ||0.28||1.1
+|-
+|San Diego, California||{{flagu|United States}}||32.7 N||117.2 W||20:36||0.13||0.4
+|-
+|San Francisco, California||{{flagu|United States}}||37.8 N||122.5 W||21:20||0.26||0.8
+|-
+|Hilo, Hawaii||{{flagu|United States}}||19.7 N||154.9 W||21:20||0.86||2.8
+|-
+|Lāna?i|Kuamalapau, Hawaii||{{flagu|United States}}||20.8 N||156.9 W||21:36||0.18||0.6
+|-
+|Kahului, Hawaii||{{flagu|United States}}||20.9 N||156.5 W||21:47||0.98||3.2
+|-
+|Santa Barbara, California||{{flagu|United States}}||34.4 N||119.7 W||21:50||0.53||1.7
+|-
+|Kalaeloa Airport|Barber's Point, Hawaii||{{flagu|United States}}||21.3 N||158.1 W||21:57||0.12||0.4
+|-
+|Honolulu, Hawaii||{{flagu|United States}}||21.3 N||150.4 W||22:00||0.25||0.8
+|-
+|Kawaihae, Hawaii||{{flagu|United States}}||20 N||155.5 W||22:11||0.52||1.7
+|-
+|Crescent City, California||{{flagu|United States}}||41.7 N||124.2 W||22:13||0.37||1.2
+|-
+|Vanuatu||{{flagu|Vanuatu}}||17.8 S||168.3 E||22:46||0.15||0.5
+|-
+|Johnston Atoll||{{flagu|United States}}||16.7 N||169.5 W||22:48||0.22||0.7
+|-
+|Nawiliwili Bay|Nawiliwili, Hawaii||{{flagu|United States}}||22 N||159.4 W||23:23||0.37||1.2
+|-
+|Sitka, Alaska||{{flagu|United States}}||57.1 N||135.3 W||00:11 28 Feb||0.08||0.3
+|-
+|Guam||{{flagicon|Guam}} Guam||13.4 N||144.7 E||03:07||0.16||0.5
+|-
+|Minamitorishima||{{flagu|Japan}}||24.1N||153.5E||03:43||0.1||0.3
+|-
+|Deep-ocean Assessment and Reporting of Tsunamis|DART Saipan|| ||19.1 N||155.8 E||03:55||0.08||0.3
+|-
+|Otsuchi, Iwate{{Citation needed|date=March 2010}}||{{flagu|Japan}}||39.21 N||141.54 E||06:43||1.45||4.35
+|-
+|Yamada, Iwate{{Citation needed|date=March 2010}}||{{flagu|Japan}}||39.47 N||141.95 E||08:14||1.61||4.85
+|-
+|Hachinohe, Aomori{{Citation needed|date=March 2010}}||{{flagu|Japan}}||40.30 N||141.29 E||08:44||0.9||2.7
+|-
+|Nemuro, Hokkaido{{Citation needed|date=March 2010}}||{{flagu|Japan}}||43.20 N||145.35 E||09:23||1.0||3.0
+|-
+|Kuji, Iwate{{Citation needed|date=March 2010}}||{{flagu|Japan}}||40.11 N||141.46 E||10:01||1.2||3.6
+|-
+|Susaki, Kochi{{Citation needed|date=March 2010}}||{{flagu|Japan}}||33.24 N||133.17 E||10:42||1.2||3.6
+|-
+|Shibushi, Kagoshima{{Citation needed|date=March 2010}}||{{flagu|Japan}}||31.30 N||131.03 E||10:56||1.0||3.0
+|}
+
+<div class="center">{{Gallery
+|File:2010 Chile earthquake NOAA tsunami travel time projection 2010-02-27.jpg|Tsunami ETA NOAA (hour 0{{=}}06:34 UTC 27 Feb)
+|File:2010 Chile earthquake NOAA tsunami projection 2010-02-27.png|The energy model map of the tsunami.
+|File:Chile_Quake_Warning_Area_2010.svg|Countries with coastal areas that were at risk (in pink).
+}}</div>
+
+== See also ==
+{{Portal|Chile}}
+* 2010 Pichilemu earthquake
+* 2010 Haiti earthquake
+* ''03:34: Earthquake in Chile''
+* ''The Year of the Tiger''
+* March 2010 Chile blackout
+* List of earthquakes in Chile
+* Seismicity of the Chilean coast
+* 2011 Puyehue eruption
+* List of 21st century earthquakes
+* List of earthquakes#Largest earthquakes by magnitude|List of largest earthquakes by magnitude
+
+==Notes==
+{{Reflist|group=note}}
+
+==References==
+{{reflist|colwidth=30em}}
+
+== External links ==
+{{Wikinews|8.8 magnitude earthquake hits Chile; tsunami warnings issued throughout Pacific rim}}
+{{Commons category|2010 Chile earthquake}}
+{{Wikinews category|2010 Chile earthquake}}
+* http://www.camara.cl/pdf.aspx?prmID=307&prmTIPO=INVESTIGAFIN Informe de la comisión especial (de la cámara de diputados de Chile) sobre el estado de la institucionalidad en relación a su capacidad de respuesta frente a desastres naturales. (Report of a commission to the Chamber of Deputies of Chile about the institutional earthquake response, in Spanish language. The majority of the Chamber refused to aprobe the report.)
+* http://www.reliefweb.int/rw/dbc.nsf/doc108?OpenForm&emid=EQ-2010-000034-CHL&rc=2 Chile Earthquake coverage on ReliefWeb
+* http://www.iris.edu/seismon/zoom/events/?lon=-75.26&lat=-38.58 Aftershock survey
+* http://www.nytimes.com/interactive/2010/02/27/world/americas/0227-chile-quake-map.html Maps of the Chile Earthquake from NYT
+* http://www.isc.ac.uk/doc/misc/headlines.html International Seismological Centre, Scientific compilation of data.
+* http://nctr.pmel.noaa.gov/chile20100227/ Tsunami Event page for 27 Feb 2010 Chile tsunami – Maximum wave amplitude plot, Propagation animation, http://nctr.pmel.noaa.gov/chile20100227/chile20100227-modeldata.html Model-data comparison plots. From the http://nctr.pmel.noaa.gov NOAA Center for Tsunami Research.
+* http://www.dmoz.org/Science/Earth_Sciences/Natural_Disasters_and_Hazards/Earthquakes/Past_Earthquakes/Chile_2010/ Open Directory – Earthquakes: Past Earthquakes: Chile 2010 at Open Directory Project
+* http://dir.yahoo.com/Science/Earth_Sciences/Geology_and_Geophysics/Seismology/Historic_Earthquakes/Chile_Earthquake_and_Tsunami___February_27__2010/ Chile Earthquake and Tsunami – 27 February 2010 in the Yahoo! Directory at Yahoo! Directory
+* http://www.democracynow.org/2010/3/3/chile Chilean Earthquake Toll Passes 800; Aid Yet to Reach Many Devastated Areas – video report by ''Democracy Now!''
+* http://cegrp.cga.harvard.edu/chile/ Harvard Center for Geographic Analysis GIS datasets
+* http://nctr.pmel.noaa.gov/chile20100227/T1960_1-annotated.png 1960 Chile tsunami (earthquake magnitude Mw 9.5) Maximum amplitude plot – for comparison with 27 Feb 2010 Chile tsunami event. From the http://nctr.pmel.noaa.gov/chile20100227 NOAA Center for Tsunami Research.
+
+{{Earthquakes in 2010}}
+{{2010 Chile earthquake}}
+{{Earthquakes in Chile}}
+
+{{DEFAULTSORT:Chile Earthquake}}
+Category:2010 Chile earthquake| 
+Category:21st-century tsunamis|2010 Chile earthquake
+Category:2010 in French Polynesia
+Category:History of Bío Bío Region|2010 Chile earthquake
+Category:History of Maule Region|2010 Chile earthquake
+Category:Tsunamis in Chile|2010 Chile earthquake

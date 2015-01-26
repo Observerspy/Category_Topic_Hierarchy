@@ -1,0 +1,42 @@
+{{Earthquake
+|title= 1932 Changma earthquake
+|date= {{Start-date|25 December 1932}}
+|map2 = {{Location map | Tibetan Plateau
+ | label=
+ | lat=39.7
+ | long=96.7
+ | mark=Bullseye1.png
+ | marksize=40
+ | position=top
+ | width= 250
+ | float=right
+ | caption=}}
+|magnitude = 7.6 Surface wave magnitude|M<sub>s</sub>
+|depth= 
+|location={{coord|39.7|96.7|display=inline,title}}
+|countries affected = Republic of China (1912–1949)|Republic of China
+|tsunami = 
+|casualties = 275
+}}
+The '''1932 Changma earthquake''' occurred at 10:04:27 local time (02:04:07 Coordinated universal time|UTC) on 25 December. With an estimated magnitude of 7.6 on the surface wave magnitude scale, and a maximum felt intensity of X (Intense) on the Mercalli intensity scale, the quake destroyed 1,167 houses, and 275 people were killed with a further 320 injured.
+
+==Tectonic setting==
+The earthquake was located close to the northern margin of the Tibetan Plateau. This area of thickened crust is a result of the ongoing collision of the Indo-Australian Plate with the Eurasian Plate. The way in which this zone accommodates the collision remains unclear with two end-member models being proposed. The first regards the crust as being made up of a mosaic of strong blocks separated by weak Fault (geology)|fault zones, the microplate model. The second regards the deformation as being continuous within the mid to lower crust, the continuum model. The change in width of the deformed zone along the collisional belt, with the narrow zone of western Tibet compared to the main part of the Tibetan Plateau, is explained as either lateral escape to the east along the Altyn Tagh fault|Altyn Tagh- and Karakorum faults in the microplate model or as the effect of the rigid Tarim Basin block causing heterogeneous deformation within a generally weaker lithosphere in the continuum model. At its northern end, the Altyn Tagh fault progressively loses displacement by its interaction with a series of WNW-ESE trending structures, mostly with components of reverse displacement and sinistral (left lateral) strike-slip. The Changma fault is one of those structures.
+
+==Damage==
+The region stricken by this earthquake included the entire Changma Basin and the western part of the Hexi Corridor in Gansu province. 
+The greatest damage occurred in Changma. In Gaotai County|Gaotai, Jinta County|Jinta, Guazhou County|Anxi and Dingxing County|Dingxin part of the city walls and some buildings collapsed and many houses were damaged. In the town of Changma all 800 families were affected, 270 people died and at least another 300 were injured; deaths were also recorded in Gaotai (3) and Jinta (2).
+
+==Characteristics==
+A surface rupture of about 116&nbsp;km was identified after the earthquake, including five separate fault segments, Four of the segments that ruptured were reverse faults, the fifth was a strike-slip fault. Vertical offsets of more than a metre were observed on most of the segments, with a maximum of 5 m.
+
+==Seismic hazard implications ==
+The 1932 Changma earthquake shows that apparently separate mapped intracontinental reverse faults may rupture simultaneously in an earthquake. Estimates of the seismic hazard in an area based on the rupture of single reverse faults may lead to a major underestimate of the magnitudes of the largest possible earthquake.
+
+==References==
+{{Reflist}}
+
+{{Earthquakes in China}}
+
+Category:Earthquakes in China|1932 Changma
+Category:1932 earthquakes|Changma

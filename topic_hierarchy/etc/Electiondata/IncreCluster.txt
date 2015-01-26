@@ -1,0 +1,25 @@
+clustering:
+cluster id: 0concept: 
+vote and seat summaries#
+cluster id: 1concept: 
+candidates gallery#primaries#general election campaign#results by province#campaign slogans#government formation#background#conduct#analysis#eligibility#electoral system#polls#opinion polls#results#congress of deputies#second round#issues#reactions#summary#results by region#nominations#ballot access#official candidates#procedure#candidates#aftermath#overview#first round#before the primaries#super tuesday#debates#democratic party nomination#senate#registered candidates#opinion polling#other nominations#apportionment#election campaign#controversies#timeline#campaign#international observers#post-election#sources#results by state#campaigns#manifestos#bloc québécois#endorsements#
+cluster id: 2concept: 
+chamber of deputies#
+cluster id: 3concept: 
+green party#
+cluster id: 4concept: 
+new democrats#
+cluster id: 5concept: 
+10 closest ridings#
+cluster id: 6concept: 
+liberals#
+cluster id: 7concept: 
+conservatives#
+cluster id: 8concept: 
+investiture voting#
+cluster id: 9concept: 
+mps who lost their seats#
+cluster id: 10concept: 
+votes by state#
+cluster id: 11concept: 
+notable expressions and phrases#

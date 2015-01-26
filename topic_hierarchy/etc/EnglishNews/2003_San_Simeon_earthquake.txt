@@ -1,0 +1,66 @@
+{{Infobox earthquake
+|title = 2003 San Simeon earthquake
+|image = 
+|imagecaption = 
+|map2 = {{Location map+ | California | relief = 1
+| places =
+{{Location map~|California|lat=35.62|long=-121.19|label=San Simeon|position=left|mark=Green pog.svg}}
+{{Location map~|California|lat=35.47|long=-120.65|label=Paso Robles|mark=Green pog.svg}}
+{{Location map~|California|lat=35.702|long=-121.102|mark=Bullseye1.png|marksize=40}}
+| width = 250
+| float = right
+| caption = }} 
+|date = {{Start date|2003|12|22}}
+|magnitude = 6.5 Moment magnitude scale|M<sub>w</sub>
+|depth = {{convert|7.6|km|mi|0|sp=us}}
+|countries affected = United States (California)
+|damage = $250 million 
+|location = {{coord|35.706|N|121.102|W}}
+|intensity = Mercalli intensity scale|VIII - Destructive
+|casualties = 2 killed <br> 40 injured
+}}
+
+The '''2003 San Simeon Earthquake''' was a magnitude 6.5M<sub>w</sub>  The most violent ground movement occurred within 50 miles of the epicenter, though the earthquake was felt as far away as Los Angeles. It was the most destructive earthquake to hit the U.S since the 1994 Northridge earthquake.
+
+==Earthquake==
+{{see also|Earthquakes in California}}
+
+The area where the quake struck displays complex faulting, between the Oceanic Fault and Nacimiento Fault zones, along with possible interaction from the Hosgri fault and San Simeon Fault zones.
+
+==Damage==
+
+The area around the epicenter is sparsely populated and the most severe damage occurred in Paso Robles, California|Paso Robles, 24 miles (39&nbsp;km) east-northeast, where the earthquake's only fatalities occurred.  The Acorn Building, an unreinforced masonry building built in 1892, completely collapsed, killing two women, Jennifer Myrick and Marilyn Frost-Zafuto. Other unreinforced masonry buildings, some more than a century old, in the city's historic downtown area also had extensive damage. However, none of the buildings that had even partial seismic retrofit|retrofitting collapsed. There was a wrongful death lawsuit filed by the relatives of the deceased women against Mary Mastagni, and several trusts which owned the Acorn Building.  The jury found Mastagni negligent in the care and maintenance of the Acorn Building and awarded nearly $2 million to the plaintiffs.
+
+File:2003 San Simeon earthquake damage.jpg|thumb|left|Damage at Pan Jewelers
+
+Two sulfur hot springs in Paso Robles erupted after the earthquake. One was underneath the parking lot of City Hall. Hot water and sediment were released at a rate of about 1,300 gallons per minute (4,900 liters per minute), forming a large sinkhole. There was formerly a Public bathing|bath house at the location and the spring was capped after it closed down. Another hot spring flowed out of the embankment at the Paso Robles Street exit on U.S. Route 101 (California)|U.S. Route 101.
+
+Outside of Paso Robles the damage was less severe, with unreinforced masonry buildings taking minor to moderate damage. Buildings even 40 miles from the epicenter in San Luis Obispo, California|San Luis Obispo suffered minor damage such as ceiling tiles falling. Brick veneers were also disproportionately affected. In addition, water tanks in Paso Robles, Templeton, California|Templeton and Los Osos, California|Los Osos were damaged. Residential buildings, predominantly one to two story wood frame structures, weathered the quake with little or no damage. The damage that did occur was mostly limited to chimneys, although a house in Atascadero, California|Atascadero suffered severe damage when it moved off its foundation. The damage was probably caused by poor construction. There were fewer nails connecting the plywood siding to the sill than is required and many of them did not actually hit the sill. The building that housed Atascadero's City Hall was damaged and vacated shortly after the quake. Some winery|wineries, especially those near the epicenter along California State Route 46|State Route 46, reported damage such as barrels toppling and bursting. This earthquake also damaged Mission San Miguel Arcángel, causing $15 million worth of damage. The earthquake also caused extensive damage to George H. Flamson Middle School. The main building was damaged and had to be demolished in 2004. A new building reflecting the original 1924 building was opened for use in August 2010. In Templeton, Bethel Lutheran Church (ELCA), sustained major damage to its 110+ year old building and the apse had to be rebuilt.
+
+==Aftermath==
+Following the event, California enacted A.B. 2533, amending the California Business and Professions Code § 8875.8, requiring that certain unreinforced masonry buildings that have not been seismically retrofitted have posted notice of the potential earthquake hazard.  The law was called ''Jenna's Bill'', after Jennifer Myrick, who died in the quake.
+
+At the end of January of 2004 the total estimated cost of damage from the quake was about $250 million.
+
+==References==
+*http://www.cisn.org/special/evt.03.12.22/prelimreport.html California Integrated Seismic Network 
+*http://www.eeri.org/lfe/pdf/usa_san_simeon_eeri_preliminary_report.pdf Earthquake Engineering Research Institute (PDF)
+*http://neic.usgs.gov/neis/poster/2003/20031222.html United States Geological Survey
+==Notes==
+{{reflist}}
+
+==External links==
+{{Commonscat|2003 San Simeon earthquake}}
+*http://www.eeri.org/lfe/usa_san_simeon.html 6.5 San Simeon Earthquake Photo Galleries and Links
+*http://ceenve.calpoly.edu/goel/san_simeon_eqk/index.html Cal Poly
+*http://peer.berkeley.edu/san_simeonEQ/index.html University of California, Berkeley
+
+{{Earthquakes in 2003}}
+{{Significant earthquakes in California}}
+
+{{DEFAULTSORT:2003 San Simeon Earthquake}}
+Category:Earthquakes in California|S
+Category:History of San Luis Obispo County, California
+Category:2003 earthquakes|San Simeon Earthquake, 2003
+Category:2003 natural disasters in the United States|San Simeon Earthquake, 2003
+Category:2003 in California|S

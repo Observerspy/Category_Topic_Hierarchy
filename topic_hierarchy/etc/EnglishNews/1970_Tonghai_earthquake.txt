@@ -1,0 +1,73 @@
+{{good article}}
+{{Earthquake
+|title=1970 Tonghai earthquake
+|date= {{start-date| 4 January 1970}}
+|map2               = {{Location map+ | Yunnan
+| relief            = yes
+| label             =
+| lat               = 24.12
+| long              = 102.49
+| mark              = Bullseye1.png
+| marksize          = 40
+| position          = top
+| width             = 250
+| float             = right
+| caption           =
+| places            = {{Location map~|Yunnan|lat=24.12|long=102.49|mark=Bullseye1.png|marksize=30|position=bottom}}{{Location map~|Yunnan|lat=24.35 |long=102.53|label=Yuxi|position=right|mark=Red pog.svg}}{{Location map~|Yunnan|lat=25.07 |long=102.68|label=Kunming|position=left|mark=Green pog.svg}}}}
+|magnitude = 7.5 Surface wave magnitude|M<sub>s</sub>d
+|depth= {{Convert|13|km|mi|0}}
+|location=
+|damage = Between USD 5 to 25 million
+|countries affected = People's Republic of China
+|tsunami =
+|casualties = At least 15,621 dead
+}}
+
+The '''1970 Tonghai earthquake''' occurred on 4 January 1970 in Tonghai County, Yunnan province, China. The rupture originated on the Red River fault, which had not experienced an earthquake above Richter scale|magnitude 7 since 1700. The earthquake had a magnitude of 7.7 and killed at least 15,000 people, making it one of the deadliest in its decade. The tremor caused between US$5 to $25 million in damage, felt over an area of {{convert|8781|km2|abbr=on}}. In Hanoi, North Vietnam, almost {{convert|483|km|mi|abbr=on}} from the epicenter, victims left their homes as the rupture rumbled through the city.
+
+Occurring during the height of the Cultural Revolution, it was not widely publicized by the Chinese government for well over a decade. The amount of aid and finances distributed was described by the Beijing Morning Post as "pathetically small". Much of the aid provided to survivors was in "spiritual" form, including Chairman Mao badge|Mao Zedong badges and condolence letters. Nevertheless, the earthquake was among the first to be studied over a long term by the Chinese government. It was cited as one of the reasons behind creating the largest earthquake monitoring system in China, 25 years later.
+
+==Background and tectonics==
+Yunnan, the epicentral region, is one of the more seismically active Chinese provinces. The earliest earthquake recorded there was in the 9th century; however, moderate to strong ones have been observed since the 15th century.
+
+Earthquakes in southwestern Yunnan, such as the 1970 Tonghai event, are less frequent than in other parts of the province. The Red River (Asia)|Red River fault, the Fault (geology)|fault line on which this quake is alleged to have occurred, has lacked seismological activity as a whole. Marking in sedimentary rocks indicate that several large earthquakes formed on the fault during the Pleistocene and Holocene Epoch (geology)|epochs. Until this quake, no earthquake above magnitude 7.0 on the Richter scale had occurred on this fault since about 1700, and the fault was believed to be "dead". Since the 1970 Tonghai rupture, it is believed that the Red River fault is instead experiencing a long seismic gap similar to that of the Japan Median Tectonic Line, on which no major temblor has formed since 700 but produced massive ones during the Holocene epoch.
+
+==Damage and casualties==
+File:Gejiu-west-hills-looking-east.jpg|thumb|right|The city of Gejiu was {{convert|97|km|abbr=on}} from the epicenter.
+The epicenter of the quake was about {{convert|121|km|abbr=on}} southwest of Kunming and {{convert|97|km|abbr=on}} northwest of Gejiu;
+
+The earthquake measured 7.7 on the Richter scale. and injured an additional 26,783. It caused {{convert|50|km|mi|abbr=on}} of visible surface faulting on the Tonghai Fault. There was a maximum horizontal wikt:offset#6|offset of 2.5&nbsp;m (8&nbsp;ft) and vertical offset of about 0.5&nbsp;m (1.5&nbsp;ft).
+
+==Aftermath==
+===Scientific study===
+The earthquake was among the first to be studied over a long term by the Chinese government. More than 40 Chinese seismologists, engineers, and geologists visited the disaster zone to conduct research into the cause and damage of the earthquake; some spending as much as a year collecting soil samples and recording other primary research evidence for future study. Such data was collected over a broad area of almost 1400 towns within the area.
+
+===Reaction===
+<!-- Deleted image removed: File:LittleRedBook.jpg|thumb|right|''Quotations from Chairman Mao Zedong'', which was widely distributed in the aftermath -->
+According to the Reuters report, the survivors came together to "fight against the disaster". The Chinese government sent tens of thousands ''Quotations from Chairman Mao Zedong'' books and badges in his honor to victims as part of the relief effort, and survivors also received 14,350 sympathy letters. However, the amount of aid and finances distributed was described by the Beijing Morning Post 30 years later as "pathetically small."
+
+The details of the earthquake were not widely publicized by Chinese authorities until about 18 years after its occurrence. While the Chinese official press had not released a comprehensive report, Reuters and the Royal Hong Kong Observatory both released information soon after the disaster. At the time of the quake, the Xinhua News Agency briefly mentioned a smaller magnitude quake but did not provide information on damage or casualties.
+
+On 19 November 1988, nearly nineteen years later, Chen Zhangli of the State Seismology Bureau, speaking at a news conference for another earthquake that had recently occurred, estimated the death toll of the 1970 quake to be 10,000. He did not give a reason why his government had not previously disclosed this knowledge. China published the estimate after a memorial service for survivors and relatives was held in Yuxi on January 5. A Yuxi Seismology Bureau official noted that the information had been classified for "political reasons" and the death toll estimate had been known among bureaucrats as early as 1997.
+
+Twenty-five years after the earthquake, the largest earthquake-monitoring network nationally was established in Yunnan. It set up earthquake offices in every county to prepare for another large rupture. The 1970 Tonghai earthquake was cited as one of the reasons behind creating the monitoring system.
+
+==Notes==
+
+
+==References==
+{{reflist}}
+
+==Bibliography==
+* {{cite journal| ref=Reference-Allen-1984 |last=Allen|first=C. R.|authorlink=Clarence Allen (geologist)|author2=A. R. Gillespie|author3=Han Yuan|author4=Kerry E. Sieh|author5=Zhang Buchun|author6= Zhu Chengnan|date=June 1984|title=Red River and associated faults, Yunnan Province, China; Quaternary geology, slip rates, and seismic hazard |journal=Geological Society of America Bulletin|volume=95|issue=6|url=http://www.gps.caltech.edu/~sieh/pubs_docs/papers/P84f.pdf|format=PDF|doi=10.1130/0016-7606}}
+* {{cite book| ref=Reference Chen-2002 |last=Chen|first=Wai-Fah|author2=Charles Scawthorn|title=Earthquake Engineering Handbook|year=2002|publisher=CRC Press|isbn=0-8493-0068-1}}
+* {{cite book| ref=Reference-Hu-1996 |last=Hu|first=Yu-Xian|author2=Shih Chi Liu|author3=Weimin Dong|title=Earthquake Engineering|year=1996|publisher=Taylor & Francis|isbn=0-419-20590-X}}
+* {{cite book| ref=Reference-Zchau-2003 |last=Zschau|first=Jochen|author2=Andreas N. Küppers|title=Early Warning Systems for Natural Disaster Reduction|year=2003|publisher=Springer|isbn=3-540-67962-6}}
+
+{{Earthquakes in China}}
+{{coord|24.12|N|102.49|E|display=title}}
+
+{{DEFAULTSORT:Tonghai earthquake, 1970}}
+Category:1970 earthquakes
+Category:Earthquakes in China|1970 Tonghai
+Category:History of Yunnan

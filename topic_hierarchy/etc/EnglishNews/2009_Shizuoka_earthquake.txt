@@ -1,0 +1,43 @@
+{{Earthquake
+|title              = 2009 Shizuoka Earthquake
+|date               = {{Start date|2009|08|10|df=yes}} UTC
+|image              = Sunpu Castle 20090811.jpg
+|caption            = 
+|map                = Shizuoka Earthquake Shakemap 20090811.jpg 
+|magnitude          = 6.4 moment magnitude scale|M<sub>w</sub> 
+|depth              = 26 km
+|location           = {{coord|34.778|N|138.276|E|display=inline,title}}
+|countries affected = Japan
+|tsunami            = 
+|casualties         = 1 fatality <br> 134 injuries 
+}}
+{{Commonscat|2009 Shizuoka Earthquake}}
+The '''2009 Shizuoka earthquake''' occurred with a magnitude of 6.4  that hit Shizuoka Prefecture in the south of Honshū, Japan, on August 11 at 05:07 local time (August 10, 20:07 UTC). 
+
+==Overview==
+The seismic intensity was observed as shindo 6- in Izu, Shizuoka|Izu, Yaizu, Shizuoka|Yaizu, Makinohara, Shizuoka|Makinohara, Omaezaki, Shizuoka|Omaezaki, Shizuoka.
+
+One woman was killed in Shizuoka, Shizuoka|Shizuoka, 134 people were injured, and 6,000 buildings received at least minor damage. In addition, the shoulder of Tōmei Expressway was damaged.
+
+In this area, it is presumed that an M8 class Tokai earthquakes|Tokai Earthquake will occur in the near future.
+
+==See also==
+* Fault (geology)
+* Earthquake Early Warning (Japan)
+* Shizuoka Prefecture
+* Yoshinobu Ishikawa
+
+==References==
+{{reflist}}
+
+{{Earthquakes in Japan}}
+
+==External links==
+* http://earthquake.usgs.gov/eqcenter/eqinthenews/2009/us2009kdb4/ Magnitude 6.4 - NEAR THE SOUTH COAST OF HONSHU, JAPAN - United States Geological Survey.
+* http://www.seisvol.kishou.go.jp/eq/2009_08_11_suruga-wan/ 気象庁 | 平成21年（2009年）8月11日の骏河湾の地震 - Japan Meteorological Agency.
+
+{{DEFAULTSORT:2009 Shizuoka Earthquake}}
+{{Earthquakes in 2009}}
+Category:2009 earthquakes|Shizuoka
+Category:2009 in Japan|Shizuoka Earthquake, 2009
+Category:Earthquakes in Japan|2009 Shizuoka

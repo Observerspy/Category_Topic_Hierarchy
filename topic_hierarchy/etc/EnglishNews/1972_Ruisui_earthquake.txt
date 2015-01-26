@@ -1,0 +1,40 @@
+{{Infobox earthquake
+| title              = 1972 Ruisui earthquake
+| date               = {{start-date|April 24, 1972}}
+| map2               = {{Location map | Taiwan|relief=1
+ | label=
+ | lat=23.5
+ | long=121.4
+ | mark=Bullseye1.png
+ | marksize=40
+ | position=top
+ | width= 250
+ | float=right
+ | caption=}}
+| magnitude          = M<sub>S</sub> 7.2
+| depth              = 15 km
+| location           = {{coord|23.5|N|121.4|E}}
+| countries affected = Taiwan
+| tsunami            =
+| aftershocks        =
+| intensity          = 
+| casualties         = 5
+}}
+
+The '''1972 Ruisui earthquake''', or the '''1972 Juisui earthquake''', occurred on April 24, 1972 at 09:57 UTC (17:57 local time). The magnitude of this earthquake was given as M<sub>s</sub> 7.2 by USGS and M<sub>L</sub> 6.9 by the Central Weather Bureau of Taiwan. The epicenter was located near Ruisui, Hualien|Ruisui (or spelled as Juisui) (Standard Mandarin|Chinese: 瑞穗), Hualian County|Hualian, Taiwan. The intensity was shindo 4 in Taipei and Hualian. 5 people were reported dead. The Ruisui Bridge (Chinese: 瑞穗大桥) was destroyed. The water treatment plant in Ruisui was damaged.
+
+This earthquake was caused by the Juisui Fault with a vertical movement of 70&nbsp;cm. The Juisui Fault is a segment of the 150&nbsp;km long Longitudinal Valley Fault, which is a left-lateral fault with a reverse component. The boundary between the Eurasian Plate and the Philippine Plate lies along the Longitudinal Valley Fault.
+
+== See also ==
+*Huatung Valley (or Longitudinal Valley)
+
+== References ==
+{{reflist}}
+
+Category:1972 earthquakes|Ruisui Earthquake, 1972
+Category:1972 in Taiwan|Ruisui Earthquake, 1972
+Category:Earthquakes in Taiwan
+
+
+{{Asia-earthquake-stub}}
+{{taiwan earthquakes}}

@@ -1,0 +1,55 @@
+{{Earthquake
+| title = 1967 Mudurnu Earthquake
+| date = {{Start date|1967|07|22|df=yes}}
+| image = 
+| image alt = 
+| map2 = {{Location map | Turkey |relief=1
+| label = 
+| lat = 40.72
+| long = 30.81  
+| mark = Bullseye1.png
+| marksize = 40
+| position = top
+| width = 250
+| float = right
+| caption = }}
+| depth = < 10 km 
+| location = {{coord|40.72|30.81|display=inline,title}}
+
+| magnitude = 7.1 Surface wave magnitude|M<sub>s</sub> 
+| intensity = locally variable
+| countries affected = {{flag|Turkey}}
+| casualties = 86 }}
+
+The '''1967  Mudurnu earthquake''' or more correctly, the '''1967 Mudurnu Valley earthquake''' occurred at about 16:57 GMT (18:57 local time) on 22 July 1967, near Mudurnu, Bolu Province, north-western Turkey.
+
+==Earthquake==
+Although the Mudurnu Valley earthquake was relatively strong, there were only 86 fatalities, with 332 people injured. About 5,200 houses were destroyed or damaged beyond repair;
+
+The authors of the 1968 Unesco report into the Mudurnu Valley earthquake (see Sources) felt that its Mercalli intensity scale|intensity was difficult to estimate accurately.  In some places an implied level of XII was evident, whereas the vibrational effects were nearer VIII-IX (MM). Although a large number of sites were independently assessed by up to six observers, variations of up to four degrees of the (MM) scale indicated that an accurate figure was practically impossible to gauge.
+
+===Damage===
+Considering the large magnitude (7.1) and widespread surface rupturing, structural damage to buildings was surprisingly small; variations in damage were related to the materials used and construction method of individual buildings, rather than the proximity to the fault-break. Some villages suffered 70% destruction of property, while others nearby with fault lines running right through them had only a few houses damaged.
+
+===Surface rupture===
+The surface rupture zone, which was between 1&ndash;4 kilometers wide, stretched some 80 kilometers from to Abant|Lake Abant ({{lang-tr|Abant G?lu}}) to Sapanca in an East-West direction, generally following the course of the Mudurnu River until it flows north near Lake Sapanca. The earthquake is named after the river valley, not the town of Mudurnu itself, which is some distance south of the river and outside the rupture zone.
+
+===Aftershocks===
+A number of small aftershocks occurred, mostly towards the westward end of the fault zone; its eastern end overlapped the rupture zone of a previous 7.1 earthquake (1957 Abant earthquake|1957 Abant) with a similar epicentre, by about 25&nbsp;km.
+
+==References==
+{{reflist|2}}
+
+;Sources
+{{refbegin}}
+* {{citation|last=Ambraseys|first=N.N.|authorlink=Nicolas Ambraseys|last2=Zápotek|first2=A.|last3=Ta?demiro?lu|first3=M.|last4=Aytun|first4=M.|year=1968|publisher=Unesco|title=The Mudurnu Valley (West Anatolia) Earthquake of 22 July 1967|url=http://unesdoc.unesco.org/images/0015/001582/158293eb.pdf}}
+* {{cite journal|last=Toks?z|first=M.N.|last2=Shakal|first2=A.F.|last3=Michael|first3=A.J.|year=1979|title=Space-time migration of earthquakes along the North Anatolian fault zone and seismic gaps|journal=Pure and Applied Geophysics|publisher=Birkh?user Geoscience|volume=117|issue=6|pages=1258–1270|doi=10.1007/BF00876218|url=http://www.springerlink.com/content/x635337423vq4wux/fulltext.pdf}}
+{{refend}}
+
+{{Earthquakes in Turkey}}
+
+{{DEFAULTSORT:Mudurnu 1967}}
+Category:Earthquakes in Turkey|1967 Mudurnu
+Category:1967 earthquakes
+Category:1967 in Turkey
+Category:History of Bolu Province

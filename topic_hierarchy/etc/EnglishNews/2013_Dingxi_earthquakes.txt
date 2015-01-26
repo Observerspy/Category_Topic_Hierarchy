@@ -1,0 +1,88 @@
+{{use dmy dates|date=July 2013}}
+{{Infobox earthquake
+|title = 2013 Dingxi earthquakes
+|date = {{Start date|2013|07|22|df=y}} 
+|origintime = 7:45 UTC+8
+|image =
+|map2 = {{Location map | China
+| label=
+| lat = 34.5
+| long  = 104.2
+| mark = Bullseye1.png
+| marksize = 40
+| position = top
+| width =
+| float = right
+| caption = 
+| relief = yes}}
+|magnitude = surface wave magnitude|M<sub>s</sub> 6.6 (China Earthquake Networks Center|CENC)<br>Moment magnitude scale|M<sub>w</sub> 5.9 (USGS) <br> M<sub>w</sub> 6.0 (European Alert System|EMSC)
+|depth = {{convert|20|km|mi|0}}
+|location = {{coord|34.5|N|104.2|E|display=inline,title}}
+|countries affected = China
+|casualties = 95 dead, 2,395 injured (as of 25 July 2013)
+}}
+File:2013 July 21, Dingxi China Earthquake ShakeMap.jpg|thumb|Shake map of the earthquake. (By United States Geological Survey)
+{{Infobox Chinese
+|title=Dingxi earthquakes
+|s=定西地震
+|t=定西地震
+|p=Dìngxī Dìzhèn
+}}
+
+On 22 July 2013, a series of earthquakes occurred in Dingxi, Gansu. The first quake struck at 07:45 China Standard Time with the epicenter located at the border of Min County and Zhang County. It was measured at Moment magnitude scale|M<sub>w</sub> 5.9 by the United States Geological Survey (USGS)
+
+As of 23:00 CST, 23 July 2013, the earthquakes had caused at least 95 deaths, and more than 1000 people had been injured.
+
+==Background==
+The tremor occurred less than {{convert|14|km|mi|0}} from the Lintan-Dangchang fault line ({{lang-zh|临潭-宕昌断裂带}}). Since recorded history 25 earthquakes of more than 5.0 magnitude have occurred within a {{convert|200|km|mi|0}} radius from the current epicenter, the earliest being the 193 BC Lintao County|Lintao earthquake which measured at 6.5 magnitude, while the strongest was the 8.0-magnitude 1654 Tianshui earthquake.
+
+==Effects==
+Most of the casualties occurred in Min County, located {{convert|15|km|mi|0}} from the epicenter, which reported 87 deaths.
+
+According to Gansu provincial officials, more than 1,200 buildings have collapsed and over 21,000 severely damaged. Many local buildings, often crudely constructed, were buried in the landslides caused by the earthquakes. Within the disaster zone, 20% of the buildings have collapsed and 60% are damaged. 27,360 people are estimated to have been displaced in Zhang County alone.
+
+Communication was cut off to 13 townships in Zhang County and many villages in Meichuan, Min County. Five towns in eastern Min County have lost power.
+
+==Aftershocks==
+{| class="wikitable sortable"
+|+<!--地震时间列表-->
+! Time (CST) !! Coordinates !! Magnitude  !! Depth (km)
+|-
+| 22 July 2013　07:45:09  || {{coord|34.5|N|104.2|E|format=dms}} || 3.4 || 7
+|-
+| 22 July 2013　08:06:38  || {{coord|34.5|N|104.2|E|format=dms}} || 3.0 || 7
+|-
+| 22 July 2013　08:09:43  || {{coord|34.5|N|104.2|E|format=dms}} || 3.9 || 6
+|-
+| 22 July 2013　08:16:45  || {{coord|34.5|N|104.2|E|format=dms}} || 3.3 || 10
+|-
+| 22 July 2013　09:12:34  || {{coord|34.6|N|104.2|E|format=dms}} || 5.6 || 14
+|-
+| 22 July 2013　09:23:28  || {{coord|34.6|N|104.2|E|format=dms}} || 3.0 || 7
+|-
+| 22 July 2013　15:28:08  || {{coord|34.5|N|104.2|E|format=dms}} || 3.7 || 7
+|-
+| 23 July 2013　16:46:46  || {{coord|34.6|N|104.2|E|format=dms}} || 3.1 || 7
+|}
+
+(Source:)
+
+==Relief efforts==
+On the day of the earthquakes, General-secretary of CCP and Chinese President Xi Jinping ordered "all-out rescue efforts". By afternoon the two top leaders of Gansu Province, Communist Party secretary Wang Sanyun and Governor Liu Weiping, along with 1,800 police officers and local officials, had arrived in the earthquake-stricken area. The People's Liberation Army's Lanzhou Military Region, which is headquartered {{convert|230|km|mi|0}} from the disaster zone, had sent 1,078 troops to join the relief efforts by mid-afternoon.
+
+== See also==
+{{Portal|Earthquakes|China}}
+*Earthquakes in 2013
+*List of earthquakes in China
+
+==References==
+{{reflist|30em}}
+
+{{Earthquakes in 2013}}
+{{Earthquakes in China}}
+
+Category:2013 disasters in China|earthquakes
+Category:2013 earthquakes|China
+Category:Dingxi
+Category:Earthquakes in China
+Category:History of Gansu

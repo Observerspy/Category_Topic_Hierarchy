@@ -1,0 +1,54 @@
+{{Earthquake
+|title= 1995 Colima-Jalisco earthquake
+|date= {{Start-date|October 9, 1995}}
+|map2 = {{Location map many | Mexico
+ | label=
+ | lat=19.06
+ | long=-104.21
+ | mark=Bullseye1.png
+ | marksize=40
+ | position=top
+ | width= 250
+ | float=right
+ | caption=
+ | relief=yes}}
+|magnitude = 8.0 Moment magnitude scale|M<sub>w</sub>
+|depth=
+|location={{coord|19.06|-104.21|display=inline,title}}
+|countries affected = Mexico
+|tsunami = yes
+|casualties = 49
+}}
+The '''1995 Colima-Jalisco earthquake''' was a Moment magnitude scale|M<sub>w</sub> 8.0 earthquake which occurred on October 9 at 15:36 UTC, off the coast of Jalisco, Mexico. At least 49 people died and 100 were injured because of the earthquake. The earthquake triggered a tsunami, which affected a 200&nbsp;km stretch of the coast. The Cihuatlán, Jalisco|Cihuatlan-Manzanillo area, Colima, was more severely affected than other areas. The earthquake could be felt in Mexico City and in high-rise buildings in Dallas and Houston. The intensities in Colima and Jalisco reached MM VI.
+
+==Tectonic setting==
+This earthquake occurred in the area where the Rivera Plate Subduction|subducts beneath the North American Plate. It was the result of the relative movements between the North American Plate, the Rivera Plate, and the Cocos Plate.
+
+==Damage==
+Although the tsunami affected a 200&nbsp;km stretch of coast, severe damage was confined to areas with shallow shoreline topography. Most of the flooding occurred in the La Manzanilla, Jalisco|Tenacatita Bay area.
+
+==Characteristics==
+
+===Earthquake===
+The earthquake rupture lasted for about a minute and involved a 200&nbsp;km long break along the plate boundary. A 14&nbsp;cm subsidence occurred at Manzanillo.
+
+The variations in observed Seismic scale#Seismic intensity scales|seismic intensity indicate that three asperities were ruptured during this event.
+
+===Tsunami===
+The tsunami had a maximum run-up height of 5.1 m. There were at least two waves recorded. The tsunami was also observed in Ecuador, French Polynesia, Samoan Islands, Australia and Hawaii.
+
+===Postseismic moment release===
+Postseismic deformation has been recorded after the main shock. If the postseismic moment release up to about two weeks after the main shock is included, it will be equivalent to 35% of that of the main shock, which will make the additional seismic moment equivalent to that of an M<sub>w</sub> 7.7 earthquake.
+
+==See also==
+*List of earthquakes in Mexico
+
+== References ==
+{{reflist}}
+{{Earthquakes in 1995}}
+{{Earthquakes in Mexico}}
+
+Category:Megathrust earthquakes in Mexico
+Category:1995 earthquakes|Colima-jalisco Earthquake, 1995
+Category:1995 in Mexico
+Category:20th-century tsunamis

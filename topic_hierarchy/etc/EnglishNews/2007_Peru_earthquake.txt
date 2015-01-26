@@ -1,0 +1,83 @@
+{{Infobox earthquake
+|title              = 2007 Peru earthquake
+|image              = 
+|image alt          = 
+|imagecaption       =
+|map                = Peru Quake Aug 15-2007.jpg
+|map alt            = Map of the Peru coastline, showing location and strength of quake.unicorns eat rainows :0 Star marks epicenter.
+|image name         = <small>Map of the Peru coastline, showing location and strength of quake. Star marks epicenter.</small>
+|map2               = Image:40 - Tremblement de terre - Ao?t 2007.JPG|200px|
+|caption            = Piles of rubble, one week after the shock
+|date               = {{Start date|2007|8|15}}
+|origintime         = 23:40:57 UTC|magnitude          = 8.0 Moment magnitude scale|M<sub>w</sub>
+|depth              = {{convert|39|km|mi|abbr=on}}
+|location           = {{coord|13.354|S|76.509|W|region:PE_type:event|display=inline,title}}
+|type               =
+|countries affected = {{PER}}
+|damage             =
+|intensity          =
+|tsunami            = flooded part of Lima's Costa Verde highway, and much of Pisco's shore
+|landslide          =
+|aftershocks        =
+|casualties         = 519 confirmed dead 1,366 injured
+}}
+
+The '''2007 Peru earthquake''' measured 8.0 on the moment magnitude scale
+The United States Geological Survey National Earthquake Information Center reported that it was a Mercalli intensity scale#Very Strong|very strong earthquake. The Peruvian government stated that 519 people were killed by the quake.
+
+==Aftermath==
+Image:2007 Peru earthquake.jpg|thumb|left|alt=Main shock and aftershocks map|Main shock and aftershocks map
+
+The Government of Peru led the response to the earthquake through the National Civil Defence System ( Instituto Nacional de Defensa Civil – INDECI ). It was supported by the military, the private sector (local, national and international) and by contributions from civil society and the international community, including governments, international NGOs and UN agencies. The initial response entailed searching for survivors, evacuating the injured, removing rubble, ensuring security and meeting the needs of affected people. Shelter was provided for those that had lost their homes, latrines were installed, clean water and medical services were established, food aid was distributed and education and psychosocial support was offered, especially to children. A Consolidated Appeals Process (CAP) in the wake of the earthquake raised approximately $37 million, $9.5m of which was provided by the Central Emergency Response Fund (CERF). 
+
+Despite the considerable relief effort, the initial response was chaotic, marked by a lack of coordination and inadequate information on the needs of people on the ground.  It was hindered by a lack of capacity at the regional level and consequent political wrangling (particularly between the local, regional and national governments). Many local authorities were personally attacked for the earthquake, as survivors tried to find close relatives or overcome the traumatic shock of losing so many family members.  As time passed the response became better organised, particularly once an OCHA coordination office was established in Pisco and a UN Disaster Assessment and Coordination (UNDAC) team arrived to support coordination and provide technical advice. 
+
+The cities of Pisco, Peru|Pisco, Ica (city)|Ica and Chincha Alta in the Ica Region, and San Vicente de Ca?ete in the Lima Region were most affected.  The earthquake was also felt in the capital Lima, where the quake broke windows in downtown sectors of the city, as well as various other Peruvian cities, including Pucallpa, Iquitos, Contamana, Trujillo, Peru|Trujillo and Cajamarca. Seventeen people died and 70 were injured when a church in the city of Ica collapsed. They were attending mass at the time the earthquake started.  The city of Pisco, which is {{convert|260|km|abbr=on}} southeast of Lima, suffered the most damage, with its buildings about 85% destroyed, and as many as 430 residents died; 148 of those deaths occurred when the cathedral collapsed in the city's main square. 
+
+On August 16, the government reported 510 deaths.  As of August 28, losses were the following in total: 
+- 519 people dead; 
+- 1,366 wounded;
+- 58,581 houses destroyed according to Peruvian Government preliminary assessments;
+- 13,585 houses affected;
+- 103 hospitals affected; and
+- 14 hospitals destroyed according to Peruvian Government preliminary assessments.
+
+A moment magnitude scale|magnitude 5.8 aftershock occurred at 19:02 local time, centered {{convert|113|km|abbr=on}} northeast of Chincha Alta. At least a dozen aftershocks of magnitude 5.0 or greater have been recorded.
+
+The day after, survivors who could not be accommodated in local hospitals in Pisco were taken to Lima by airplane, arriving there later that night. On Sunday, August 19, the President of Colombia, ?lvaro Uribe, arrived in Ica.
+
+==Tectonic summary==
+This earthquake occurred at the boundary between the Nazca Plate|Nazca and South American Plate|South American tectonic plates, which are converging at a rate of {{convert|78|mm|abbr=on}} per year.  The earthquake occurred as thrust faulting on the interface between the two plates, with the South American Plate moving up and seaward over the Nazca Plate. Experts say this kind of earthquake is produced about once every 100 years.  
+
+Coastal Peru has a history of very large earthquakes. The August 15th shock originated near the source of two previous earthquakes, both in the magnitude 8 range, which occurred in 1908 and 1974. This earthquake is south of the source of a magnitude 8.2 earthquake that occurred in northern Peru on October 17, 1966 and north of a 2001 southern Peru earthquake|magnitude 8.4 earthquake that occurred in 2001 near Arequipa in southern Peru. The largest earthquake along the coast of Peru was a magnitude 9 that occurred in 1868. It produced a tsunami that killed several thousand people along the South American coast and also caused damage in Hawaii.
+
+==Tsunami warnings==
+<!-- Image with unknown copyright status removed: Image:2007-peru-tsunami.jpg|thumb|200px|Zones flooded by the tsunami. -->
+A tsunami warning was issued for Peru, Ecuador, Chile, Colombia and even as far as Hawaii following the earthquakes, but was later cancelled.
+
+The Japan Meteorological Agency issued a tsunami warning, projecting that waves higher than {{convert|20|cm|abbr=on}} could reach Japan's northern island, Hokkaidō, on Thursday, August 16, around 19:00 UTC (Friday, 04:00 Japan Standard Time|JST).
+
+==Long-term recovery==
+Several years on, Pisco is still feeling the effects of the earthquake and is struggling to recover. Many families who lost their homes are still living in temporary housing or tents. The  social/economic impacts of the quake may take many years to heal.
+
+==See also==
+* Earthquakes in Peru
+* 2007 Antofagasta earthquake
+
+==References==
+{{wikinews|Major earthquake strikes Peru followed by multiple large aftershocks}}
+{{reflist}}
+
+==External links==
+*http://www.charitynavigator.org/index.cfm/bay/content.view/cpid/635.htm Charity Navigator's list of highly-rated charities providing aid
+*http://noticiero.zoomblog.com/archivo/2007/08/17/terremoto-En-Peru.html Perú earthquake: Videos
+
+{{Earthquakes in 2007}}
+
+{{USGS}}
+
+{{DEFAULTSORT:2007 Peru Earthquake}}
+Category:2007 earthquakes|Peru
+Category:2007 in Peru|Earthquake
+Category:Megathrust earthquakes in Peru
+Category:21st-century tsunamis

@@ -1,0 +1,87 @@
+{{Infobox earthquake
+| title              = 2009 Karonga earthquakes
+| date               = December 6–19, 2009
+| map2               = {{Location map | Malawi
+ | relief = yes
+ | label =
+ | lat = -10.108
+ | long = 33.818
+ | mark = Bullseye1.png
+ | marksize = 40
+ | position = top
+ | width = 170
+ | float = center
+ | caption = M<sub>w</sub>6.0 earthquake on December 19 }}
+| magnitude          = M<sub>w</sub> ~6.0
+| depth              =
+| location           =
+| countries affected =
+| tsunami            =
+| aftershocks        =
+| intensity          = 
+| casualties         = 4 deaths
+}}
+
+The '''2009 Karonga earthquakes''' were a series of earthquakes near Karonga, Malawi in December 2009. The earthquakes were near the northern Lake Malawi.
+
+== List of shocks ==
+
+{| class="wikitable"
+|-
+! Date
+! Local Time<br>(UTC +2)
+! Magnitude<br>(M<sub>w</sub>)
+! Latitude
+! Longitude
+! Depth
+! Casualties
+|-
+| December 6, 2009
+| 19:36
+| 5.8
+| 10.16°S
+| 33.82°E
+| 10&nbsp;km
+|
+|-
+| December 8, 2009
+| 05:08
+| 5.9
+| 9.948°S
+| 33.878°E
+| 8&nbsp;km
+| 1
+|-
+| December 12, 2009
+| 04:27
+| 5.4
+| 9.96°S
+| 33.88°E
+| 10&nbsp;km
+|
+|-
+| December 19, 2009
+| 15:02
+| 6.0
+| 10.108°S
+| 33.818°E
+| 6&nbsp;km
+| 3
+|}
+
+== Damage ==
+Over 1000 houses collapsed, 4 people were killed and 300 people were wounded in this earthquake sequence.
+
+== Extent ==
+The 6.0 earthquake could also be felt in Tanzania and Zambia.
+
+== Geology ==
+Being in the southern East African Rift, the 100&nbsp;km-long Livingstone Fault marks the limit of the Karonga Basin. The earthquakes were about 50&nbsp;km west of the Livingstone Fault. A research of J. Biggs et al. shows that one of the west dipping faults which cut the Karonga Basin might rupture in the earthquakes.
+
+== References ==
+{{Reflist|30em}}
+
+{{Earthquakes in 2009}}
+
+Category:Earthquakes in Malawi
+Category:2009 earthquakes|Karonga earthquakes, 2009

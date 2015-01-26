@@ -1,0 +1,173 @@
+{{Use dmy dates|date=April 2011}}
+{{Infobox Election
+| election_name      = French presidential election, 2002
+| country            = France
+| type               = presidential
+| ongoing            = no
+| previous_election  = French presidential election, 1995
+| previous_year      = 1995
+| next_election      = French presidential election, 2007
+| next_year          = 2007
+| election_date      = 21 April and 5 May 2002
+| image1             = [[File:Jacques Chirac.png|150x150px]]
+| nominee1           = [[Jacques Chirac]]
+| party1             = Rally for the Republic
+| popular_vote1      = '''25,537,956'''
+| percentage1        = '''82.21%'''
+| image2             = [[File:Jean-marie le pen cropped.jpg|150x150px]]
+| nominee2           = [[Jean-Marie Le Pen]]
+| party2             = National Front (France)
+| popular_vote2      = 5,525,032
+| percentage2        = 17.79%
+| map_image          = 
+| map_size           =
+| map_caption        = 
+| title              = President
+| before_election    = [[Jacques Chirac]]
+| before_party       = Rally for the Republic
+| after_election     = [[Jacques Chirac]]
+| after_party        = Rally for the Republic
+}}
+The '''2002 French presidential election''' consisted of a first round election on 21 April 2002, and a runoff election between the top two candidates ([[Jacques Chirac]] and [[Jean-Marie Le Pen]]) on 5 May 2002.  This presidential contest attracted a greater than usual amount of international attention because of far-right candidate Le Pen's unexpected victory over Socialist candidate [[Lionel Jospin]] and subsequent appearance in the runoff election. Journalists and politicians then claimed that polls had failed to predict his second place finish in the general election, though Le Pen's strong stance could be seen in the week prior to the election.  This led to serious discussions about polling techniques and the climate of French politics. Although Le Pen's political party [[National Front (France)|National Front]] described itself as mainstream conservative, non-partisan observers largely agreed in defining it as a [[far right]] or [[ultra-nationalist]] party.
+
+[[Chirac]] experienced the biggest [[Landslide victory|landslide]] in a French presidential election (greater even than [[French presidential election, 1848|that of Louis-Napoleon Bonaparte in 1848]], the first by direct ballot), winning over 82% of the vote.
+
+==Results==
+[[File:Affiches-premier-tour2002.jpg|400px|center|The 16 candidates]]
+{{French presidential election, 2002}}
+
+==Opinion polls==
+{| class="wikitable"
+|-----
+!
+! Jacques Chirac
+! Jean-Marie Le Pen
+! Lionel Jospin
+|----- 
+! 10–11 April – CSA
+| 21%
+| 12%
+| 19%
+|-----
+! 10–13 April – BVA
+| 18,5%
+| 14%
+| 18%
+|-----
+! 11–12 April – Ifop
+| 19%
+| 11,5%
+| 17%
+|-----
+! 13 April – Ifop
+| 20%
+| 13%
+| 18%
+|-----
+! 13–15 April – ''Nouvel Observateur''/Sofres
+| 20%
+| 13%
+| 18%
+|-----
+! 17–18 April – CSA
+| 19,5%
+| 14%
+| 18%
+|-----
+! 17–18 April – Ipsos
+| 20%
+| 14%
+| 18%
+|-----
+! 17–18 April – LCI/Sofres
+| 19,5%
+| 13,5%
+| 17%
+|-----
+! 21 April – 
+| 18%
+| 14,5%
+| 17%
+|-----
+! Results
+| '''19,88 %'''
+| '''16,86 %'''
+| '''16,18 %'''
+|}
+
+==Summary==
+[[File:French presidential election result map first round 2002.svg|right|thumb|Results of the first round: the candidate with the plurality of votes in each administrative division. Jacques Chirac: <span style="color:#4169E1;">blue</span>; Jean-Marie Le Pen: <span style="color:#000080;">dark blue</span>; Lionel Jospin: <span style="color:#FF69B4;">pink</span>]]
+
+The 2002 election was the first for which the President would be elected to a five year, instead of a seven year, term.
+
+In the months before the election, the campaign had increasingly focused on questions of law and order, with a particular focus on crimes committed by young people, especially those of foreign origin. [[Lionel Jospin]] was, at the time, [[Prime Minister of France]]; the Jospin government was criticised for its "softness" on crime by its political opponents. Alarmist reporting on the [[TF1]] and [[France2]] television channel and other media also overemphasised the alleged crime wave.<ref>{{fr icon}} {{cite web |url=http://www.liberation.fr/evenement/0101410648-l-insecurite-programme-prefere-de-la-tele |title=L'insécurité, programme préféré de la télé |publisher=[[Libération]] |date=23 April 2002 |author=GARRIGOS Raphaël & ROBERTS Isabelle |accessdate=21 February 2012}}</ref>
+
+The first round of the election (on 21 April) came as a shock to many commentators, almost all of whom had expected the second ballot to be between [[Jacques Chirac]] and [[Lionel Jospin]]. Indeed, it was this very expectation that led to Jospin's downfall, with a plethora of "small party" left candidates (independent socialists and republicans, Green, Communist, Trotskyist, radical etc.) all intending to support him in the second round, but to raise their profile in the first. They cumulatively took enough votes away from Jospin to (unintentionally) prevent him from reaching the second round, which he would quite probably have won. Instead [[Jean-Marie Le Pen]] faced Chirac in the second ballot. The election brought the [[Two-round system|two-round voting system]] into question as well as raising many concerns about apathy and the way in which the left had become so divided.
+
+There was a widespread stirring of national public opinion, and more than one million people in France took part in street rallies, in an expression of fierce opposition to Le Pen's ideas. Some held up protest signs stating "I'm ashamed to be French," which parodied Le Pen's party slogan, "Proud to be French." Spontaneous street protests began in the night from 21 April to 22 April, then on 22 April and 23, then as follows:
+
+* 24 April: 60,000 people in the streets protesting against Le Pen's success
+* 25 April: 250,000 people in the streets protesting against Le Pen's success
+* 27 April: 200,000 people in the streets  protesting against Le Pen's success (including 45,000 in Paris)
+* 1 May:
+** Approximately 20,000 people turned out for the National Front's yearly demonstration in Paris in honor of [[Jeanne d'Arc|Joan of Arc]] and in support of Le Pen.
+** Between 900,000 (according to the [[Minister of the Interior (France)|Ministry of the Interior]]) and 1,300,000 people (according to syndicates)<ref>{{fr icon}} {{cite web |url=http://www.slate.fr/story/27743/chiffres-police-syndicats-manifestations-retraites |title=Écarts entre les chiffres police/syndicats: record battu |publisher=[[Slate (magazine)]] |author=Vincent Glad |date=29 September 2010 |accessdate=21 February 2012}}</ref> turned up to the [[Labor Day]] demonstrations and against the National Front.Hundreds of thousands of people who normally did not take part in such demonstrations came, in addition to the usual unions.  In [[Paris]], 500,000 people were seen in the streets, one of the greatest protest since the [[Liberation of Paris]]; the march was so big it had to be divided in three parts to reach the [[place de la Bastille]].<ref>{{fr icon}} {{cite web |url=http://www.ina.fr/fresques/jalons/fiche-media/InaEdu01101/manifestation-a-paris-le-1er-mai-2002-contre-jean-marie-le-pen.html |title=Manifestation à Paris le 1er mai 2002 contre Jean-Marie Le Pen  |publisher=[[Institut national de l'audiovisuel]] |date=1 May 2002 |accessdate=21 February 2012}}</ref> In another unusual sight for 1 May demonstrations, French tricolour flags were commonplace.
+
+The choice between Chirac, who was under suspicion for actions carried out whilst he was mayor of Paris (see [[corruption scandals in the Paris region]]) but benefited from Presidential immunity as long as he stayed president, and Le Pen, a nationalist often accused of racism and [[antisemitism]], was one that many found tough. Some people suggested going to vote with a [[clothespin|clothes peg]] on their noses to express disgust when voting for Chirac, but this may have been illegal, because it is prohibited to advertise one's vote inside the voting precinct. In the days before the second ballot, a memorable poster was put up of Chirac with the slogan "Vote for the Crook, not the Fascist".<ref>{{fr icon}} {{cite web |url=http://www.liberation.fr/evenement/0101410636-votez-escroc-pas-facho |title=Votez escroc, pas facho! |publisher=[[Libération]] |date=23 April 2002 |accessdate=21 February 2012}}</ref> Chirac defeated Le Pen by a landslide.
+
+<gallery>
+Image:21avril.jpg|A response to the first round of elections, this spray-painted sign was seen on the streets of Paris. Translation: "APRIL 21: I FEEL SICK".
+Image:Paris May1 2002 DCP 8508.JPG|The 1 May 2002 Labour Day demonstrations for workers' rights included protests against Jean-Marie Le Pen.
+</gallery>
+
+==See also==
+* [[President of France]]
+* [[Politics of France]]
+
+==References==
+{{Reflist}}
+
+==Further reading==
+* {{Cite journal
+ | quotes =
+ | last = Miguet
+ | first = A.
+ | authorlink =
+ | coauthors =
+ |date= October 2002
+ | title = The French Elections of 2002: After the Earthquake, the Deluge
+ | journal=[[West European Politics]]
+ | volume = 25
+ | issue = 4
+ | pages = 207–220
+ | pmid =
+ | doi = 10.1080/713601633
+ | id =
+ | url =
+ | language =
+ | format =
+ | accessdate =
+ | laysummary =
+ | laysource =
+ | laydate =
+ | quote =
+ }}
+
+==External links==
+{{Commons category|French presidential election, 2002}}
+
+===Official results===
+* {{fr icon}} Official results from the [[Constitutional Council of France]] : [http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2002/declaration-presidentielle-premier-tour-2002/decision-declaration-presidentielle-premier-tour-2002-du-24-avril-2002.691.html 1st round], [http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2002/proclamation-presidentielle-2002/decision-proclamation-presidentielle-2002-du-08-mai-2002.693.html 2nd round]
+
+===Commentary===
+* {{fr icon}} [http://www.politiquemania.com/resultats-presidentielles-2002-commune-0-0-0.html#resultats 2002 Presidential Vote Results by Commune], Politiquemania.com
+*{{en icon}} / {{fr icon}} [http://www.parl.gc.ca/information/InterParl/Associations/France/May2002/page01-e.htm French 2002 Presidential Election], Mission of a Delegation from the Canadian Branch of the Canada-France Inter-parliamentary Association
+* [http://writ.news.findlaw.com/commentary/20020425_falvy.html Analysis of the voting anomaly on FindLaw]
+* [http://www.kiechle.com/rants/fascism/fascism.htm Fascism in France? Commentary on the 2002 French Presidential Elections]
+* [http://muse.jhu.edu/journals/theory_and_event/v006/6.3badiou.html Philosophical considerations of the very singular custom of voting: an analysis based on recent ballots in France]
+
+{{French elections}}
+
+{{DEFAULTSORT:French Presidential Election, 2002}}
+[[Category:Presidential elections in France|2002]]
+[[Category:2002 elections in France]]

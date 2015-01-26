@@ -1,0 +1,46 @@
+{{Use dmy dates|date=July 2013}}
+{{Earthquake
+|title= 1687 Peru earthquake
+|date= {{Start-date|October 20, 1687}}
+|map2 = {{Location map | Peru
+| label=
+| lat=-15.2
+| long=-75.9
+| mark=Bullseye1.png
+| marksize=40
+| position=top
+| width= 250
+| float=right
+| caption=
+ | relief=yes}}
+|magnitude = 8.7 Magnitude Moment magnitude scale|M<sub>w</sub>
+|depth=
+|location={{coord|-15.2|-75.9|type:event|display=inline,title}}
+|countries affected = Peru
+|tsunami = yes
+|casualties = 5,000}}
+The '''1687 Peru earthquake''' occurred at 11:30 UTC on October 20. It had an estimated Moment magnitude scale|magnitude of 8.4&ndash;8.7 and caused severe damage to Lima, Callao and Ica (city)|Ica. It triggered a tsunami and overall about 5,000 people died.
+
+==Tectonic setting==
+The earthquake occurred along the boundary between the Nazca Plate and the South American Plate. The earthquake is likely to be a result of thrust fault|thrust-faulting, caused by the subduction of the Nazca plate beneath the South American plate.
+
+The coastal parts of Peru and Chile have a history of great megathrust earthquakes originating from this plate boundary, such as the 1960 Valdivia earthquake.
+
+==Damage==
+The port of Pisco, Peru|Pisco was completely destroyed by the tsunami, with at least three ships being swept over the remains of the town.
+
+==Characteristics==
+The earthquake was probably followed by another large event further to the south.
+
+The tsunami was reported in Japan where it produced run-ups of 10s of metres.
+
+==Economic impact==
+{{see also|Chilean wheat cycle|Peruvian wine}}
+Chile has a Chilean wheat cycle|history of exporting cereals to Peru dating back to 1687 when Peru was struck by both an earthquake and a stem rust epidemic.
+
+In the 16th and 17th century the principal wine growing area of the Americas was in the central and southern coast of Peru. The earthquake destroyed wine cellars and mud containers used for wine storage. This event marked the end of the Peruvian wine-boom.
+
+==References==
+{{Reflist}}
+
+Category:Megathrust earthquakes in Peru

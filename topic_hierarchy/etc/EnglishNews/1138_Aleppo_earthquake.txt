@@ -1,0 +1,47 @@
+{{Use dmy dates|date=July 2013}}
+{{Location map | Syria
+ | label=
+ | lat=36.2167
+ | long=37.1667
+ | mark=Bullseye1.png
+ | marksize=40
+ | position=top
+ | width= 250
+ | float=right
+ | caption=Location of the earthquake in today Syria
+ | relief=yes}}
+The '''1138 Aleppo earthquake''' was among the deadliest earthquakes in history. Its name was taken from the city of Aleppo, in northern Syria, where the most casualties were sustained. The quake occurred on 11 October 1138 and was preceded by a smaller quake on the 10th. It is frequently listed as the List of earthquakes#Deadliest earthquakes on record|third deadliest earthquake in history, following on from the Shensi earthquake|Shensi and Tangshan earthquake|Tangshan earthquakes in China.  However, the figure of 230,000 dead is based on a historical conflation of this earthquake with earthquakes in November 1137 on the Al Jazira, Mesopotamia|Jazira plain and the large seismic event of 30 September 1139 in the Transcaucasian city of Ganja, Azerbaijan|Ganja. The first mention of a 230,000 death toll was by Ibn Taghribirdi in the fifteenth century.
+
+==Background==
+Aleppo is located along the northern part of the Dead Sea Transform system of Fault (geology)|geologic faults, which is a plate boundary separating the Arabian plate from the African plate. The earthquake was the beginning of the first of two intense sequences of earthquakes in the region: October 1138 to June 1139 and a much more intense and a later series from September 1156 to May 1159. The first sequence affected areas around Aleppo and the western part of the region of Edessa, Mesopotamia|Edessa (modern ?anl?urfa, Turkey). During the second an area encompassing north-western Syria, northern Lebanon and the region of Antioch (modern Antakya, in southern Turkey) was subject to devastating quakes.
+
+In the mid-twelfth century, northern Syria was a war-ravaged land. The Crusader states set up by Western Europeans, such as the Principality of Antioch, were in a state of constant armed conflict with the Muslim states of Northern Syria and Al Jazira, Mesopotamia|the Jazeerah, principally Aleppo and Mosul.
+
+== Description ==
+{{refimprove section|date=October 2012}}
+File:AleppoAlJdeida.jpg|thumb|Street in the Christian Quarter of Aleppo
+A contemporary chronicler in Damascus, Ibn al-Qalanisi, recorded the main quake on Wednesday, 11 October 1138. He wrote that it was preceded by an initial quake on 10 October and there were aftershocks on the evening of 20 October, on 25 October, on the night of 30 October-1 November, and finishing with another in the early morning of 3 November. However, Kemal al-Din, an author writing later, recorded only one earthquake on 19–20 October, which disagrees with al Qalanisi's account. Given that al Qalanisi was writing as the earthquakes occurred and that accounts from other historians support a 10 or 11 October date, his date of 11 October is considered authoritative.
+
+The worst hit area was Harem, Syria|Harem, where Crusades|Crusaders had built a large citadel. Sources indicate that the castle was destroyed and the church fell in on itself. The fort of Atharib, then occupied by Muslims, was destroyed. The citadel also collapsed, killing 600 of the castle guard, though the governor and some servants survived, and fled to Mosul. The town of Zaradna, already sacked by the warring forces, was utterly obliterated, as was the small fort at Shih.
+
+The residents of Aleppo, a large city of several tens of thousands during this period, had been warned by the foreshocks and fled to the countryside before the main quake. The walls of the citadel collapsed, as did the walls east and west of the citadel. Numerous houses were destroyed, with the stones used in their construction falling in streets. Contemporary accounts of the damage simply state that Aleppo was destroyed, though comparison of reports indicate that it did not bear the worst of the quake.
+
+Further damage is recorded at Azrab, Bizaah, Tell Khalid and Tell Amar. The main quake and its aftershocks were felt in Damascus, but not in Jerusalem. Accounts of men being swallowed by holes opening in the ground at Ar Raqqah were erroneously attributed to the Aleppo earthquake, and based on the confused late twelfth-century account of Michael the Syrian.
+
+== Notes ==
+<!--<nowiki>
+  See http://en.wikipedia.org/wiki/Wikipedia:Footnotes for an explanation of how
+  to generate footnotes using the  tags, and the template below 
+</nowiki>-->
+{{reflist}}
+
+== References ==
+* Nicolas Ambraseys|Ambraseys, Nicholas N., http://www.earth-prints.org/bitstream/2122/793/1/31Ambraseys.pdf "The 12th century seismic paroxysm in the Middle East: a historical perspective" (PDF), ''Annals of Geophysics'', Vol. 47, N.  2/3, April/June 2004, pp.&nbsp;733–758.
+
+{{Coord|36|13|N|37|10|E|display=title|region:SY}}
+
+Category:12th-century earthquakes|Aleppo earthquake
+Category:Earthquakes in Syria|1138 Aleppo
+Category:History of Aleppo
+Category:12th century in Syria
+Category:1138 in Asia|Aleppo Earthquake, 1138

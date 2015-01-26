@@ -1,0 +1,61 @@
+{{Earthquake
+|title=1986 Vrancea Earthquake
+|date= {{Start date|1986|8|30|df=y}}
+|map2 = {{Location map | Romania
+ | label=
+ | lat=45.547
+ | long=26.316
+ | mark=Bullseye1.png
+ | marksize=71
+ | position=top
+ | width= 250
+ | float=right
+ | caption=
+ | relief=yes}} 
+|magnitude = M<sub>w</sub> 7.1 
+|depth= 132 km
+|location= {{coord|45.547|N|26.316|E|display=inline,title}}
+|countries affected = {{flag|Romania}}<br />{{flag|Bulgaria}}<br />{{flag|Yugoslavia}}<br />{{flag|Moldova}}<br />{{flag|Ukraine}}
+|casualties = 150+ deaths558 injuries
+|damage = 55,000 households damaged or destroyed
+|aftershocks = 77
+|landslide = Yes
+}}
+
+Striking central Romania on August 30 at 21:28 UTC, the '''1986 Vrancea earthquake''' killed more than 150 people, injured over 500, and damaged over 50,000 homes. The second largest earthquake in the area since the modernization of earthquake monitoring devices, it was felt north to Poland and south to Italy and Greece.
+
+One local news facility listed that the earthquake measured 6.5 on the Richter scale, A research paper of V. I. Ulomov cited this earthquake with magnitude M<sub>w</sub> 7.1. Its epicenter was somewhere in the Vrancea Mountains.
+
+The focal mechanism of the earthquake was described as "moderately well controlled", suggesting reverse faulting with some Geologic fault#Strike-slip faults|strike-slip motion.
+
+== Geography ==
+The epicenter was pinpointed to Vrancea County, specifically to the Vrancea Mountains, about {{convert|110|mi|km|0}} north of Bucharest. In 1977, another strong quake ruptured oil fields in the area.
+
+== Aftershocks ==
+The rupture was located at a depth of between 131 and 148&nbsp;km, as revealed by the location of aftershock hypocenters. The strongest aftershock occurred in the morning of September 2, 1986, at 5:00 a.m. (EET), at 143&nbsp;km depth, with magnitude 5.0 M<sub>s</sub>, and was felt in Bucharest with an intensity of about III-IV degrees on the Mercalli scale. In total, 77 aftershocks were recorded with a magnitude over 3.2 on the Richter scale, of which 19 exceeded the value of 4.0 magnitude on the Richter scale.
+
+== Damage and casualties ==
+The earthquake was felt in at least eight geographically diverse countries, affecting most of southeast Europe. In Bessarabia, the earthquake had, in patches, quite severe effects. In Chi?in?u, 4 apartment buildings collapsed, resulting in at least 100 casualties. In south-west of Bessarabia, near Prut River|Prut floodplain, were observed subsidence of land, sand spirts and the formation of craters near the Prut riverbed. In Bucharest, 50 laborers who worked in the basement of a building died when they were crushed by piles of rubble.
+
+Causing 150 deaths, the earthquake also injured 558 people and fractured at least 55,000 households. Intensity of VII (very strong) was reported in Bucharest and in northern Bulgaria. In addition, intensities of V (rather strong) were recorded in Skopje (now the capital of the Republic of Macedonia), suggesting the earthquake was widespread. This is confirmed by reports of the earthquake as far north as Hungary and east Poland, and as far south as Greece and Italy. Lesser intensities of IV (moderate) in Simferopol and Kiev in the Soviet Union and in Belgrade, Yugoslavia, and III (slight) in Moscow and Titograd, Yugoslavia were recorded.
+
+==See also==
+*1940 Vrancea earthquake
+*1977 Vrancea earthquake
+
+== References ==
+{{reflist}}
+
+{{Significant earthquakes in Romania}}
+{{Earthquakes in 1986}}
+
+Category:Earthquakes in Romania|1986
+Category:1986 earthquakes|Vrancea Earthquake, 1986
+Category:1986 in Romania|Vrancea Earthquake, 1986
+Category:1986 in Yugoslavia|Vrancea Earthquake, 1986
+Category:Earthquakes in Moldova|1986
+Category:Earthquakes in Ukraine|1986
+Category:Earthquakes in Yugoslavia|1986
+Category:1986 in the Soviet Union
+Category:Earthquakes in Bulgaria|1986
+Category:Earthquakes in the Soviet Union|1986

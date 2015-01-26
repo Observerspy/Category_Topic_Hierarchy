@@ -1,0 +1,58 @@
+{{Use mdy dates|date=February 2012}}
+{{Earthquake
+|title=1992 Landers earthquake
+|date= {{Start date|1992|6|28}}
+|map = USGS Landers shake map.jpg
+|map2 ={{Location map | California
+| label=
+| lat=34.13
+| long=-116.26
+| mark=Bullseye1.png
+| marksize=40
+| position=top
+| width= 250
+| float=right
+| caption=}}
+|magnitude = 7.3 Moment magnitude scale|M<sub>w</sub>
+|depth={{convert|0.68|mi|km|sp=us}}
+|location={{coord|34.13|N|116.26|W|region:US|display=inline}}
+|countries affected = USA<br/>(Southern California)
+|casualties =3 killed<br />400+ injured
+}}
+
+The '''1992 Landers earthquake''' was a magnitude 7.3 earthquake that occurred on June 28, 1992 with an epicenter near the town of Landers, California|Landers, California. The quake was the largest earthquake to have occurred in the contiguous United States in 40 years.
+
+==The earthquake itself==
+At 04:57 a.m. local time (11:57 UTC) on June 28, 1992, a large quake awoke much of Southern California. Though it turned out it was not the so-called "Big One" as many people would think, it was still a very strong earthquake. The shaking lasted for two to three minutes. Although this earthquake was a lot more powerful than the 1994 Northridge earthquake, its location out in the Mojave Desert meant that damage and loss of life were significantly less than what they could have been.
+
+The earthquake was a Sinistral and dextral|right-lateral strike-slip event, and involved the rupture of several different Fault (geology)|faults over a length of {{convert|75|to|85|km|mi|abbr=on}}. The names of those that were involved are the Johnson Valley, Kickapoo (also known as Landers), Homestead Valley, Homestead/Emerson, Emerson Valley and Camp Rock faults.
+
+==Damage and casualties==
+Image:Landers quake bowling alley.jpg|thumb|left|Damage to the Yucca Lanes Bowling Center from the 1992 quake
+Damage to the area directly surrounding the epicenter was severe. Roads were buckled, buildings and chimneys collapsed. There were also large surface fissures. To the west in the Los Angeles Basin damage was much less severe. The majority of damage in the Los Angeles area involved items which had fallen off shelves. Unlike the 1994 Northridge earthquake nineteen and a half months later, no freeway bridges collapsed because of the epicenter's remote location. Electricity was disabled to thousands of residents, but was generally restored within two to three hours. There was also some damage to homes from water displaced from swimming pools.
+
+Loss of life in this earthquake was minimal. Two people died as a result of heart attacks. A 3-year-old boy from Massachusetts, who was visiting Yucca Valley with his parents, died when bricks from a chimney collapsed into a living room where he was sleeping 
+
+==Related earthquakes==
+The quake was preceded by the 6.1 magnitude Joshua Tree earthquake on April 23, 1992, which was located to the south of the future Landers epicenter. The 6.5 magnitude Big Bear earthquake, which hit about three hours later after the Landers mainshock, was originally considered an aftershock.  However, the United States Geological Survey determined that this was a separate, but related, earthquake. These two earthquakes are considered a regional earthquake sequence, rather than a main shock and aftershock. The 5.7 magnitude Little Skull Mountain (LSM) earthquake the following day, June 29, 1992, at 10:14 UTC near Yucca Mountain, Nevada, is also considered part of the regional sequence and may have been triggered by surface wave energy produced by the Landers earthquake. Foreshock activity, in the form of a significant increase in micro-earthquakes, was observed at Little Skull Mountain following the Landers earthquake, and the activity continued until the main LSM earthquake.
+
+==Theories==
+The Landers earthquake and the other large quakes associated with it in the Mohave region have been attributed to two possible long-term trends.  One of these is that the San Andreas Fault may be in the process of being replaced as the plate boundary (between the North American Plate and the Pacific Plate) by a new trend across the Mohave and east of the Sierra Nevada Mountains.  The other is that these quakes were a manifestation of the propagation of rifting coming up from the Gulf of California.  Research is ongoing.
+
+==See also==
+*List of earthquakes in California
+*List of earthquakes and tsunamis in the United States|List of earthquakes in the United States
+*2010 Baja California earthquake
+
+== References ==
+{{reflist|colwidth=30em}}
+
+== External links ==
+*http://www.data.scec.org/chrono_index/landersq.html Landers Earthquake at the ''Southern California Earthquake Data Center''
+*http://www.data.scec.org/chrono_index/bigbear.html Big Bear Earthquake at the ''Southern California Earthquake Data Center''
+{{Earthquakes in 1992}}
+{{Significant earthquakes in California}}
+
+{{DEFAULTSORT:1992 Landers Earthquake}}
+Category:Earthquakes in California|L
+Category:1992 earthquakes|Landers Earthquake, 1992

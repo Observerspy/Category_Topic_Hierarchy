@@ -1,0 +1,56 @@
+{{Use dmy dates|date=August 2011}}
+{{Earthquake
+|title=2009 Fiordland earthquake
+|date= {{Start-date|15 July 2009}}
+|image=
+|map = 2009_New_Zealand_earthquake.jpg
+|magnitude = 7.8 Moment magnitude scale|M<sub>w</sub>
+|depth={{convert|12|km|mi|0}}
+|location={{coord|45.721|S|166.643|E|display=inline,title}}
+|countries affected = {{NZ}}
+|tsunami = {{convert|17|cm|in|abbr=on}}
+|casualties = 0
+|aftershocks >100}}
+
+The '''2009 Fiordland earthquake''' struck the South Island of New Zealand with a magnitude of 7.8 
+
+==Magnitude and earth movement==
+The main shock was a Earthquakes#Earthquake fault types|reverse fault (thrust), with the Indo-Australian Plate subduction|subducting beneath the Pacific Plate.
+
+New Zealand's Institute of Geological and Nuclear Sciences (GNS Science) initially measured the earthquake at magnitude 6.6, but later revised the magnitude to 7.8.
+
+The reported energy release was compared to "500 million tonnes of TNT,and 25,000 times more powerful than the atomic bomb dropped on Nagasaki in 1945".
+
+The quake twisted New Zealand's South Island, with Puysegur Point, on the Southwestern tip of the island, moving 30&nbsp;cm closer to Australia (westward); Te Anau moved 10&nbsp;cm, Bluff, New Zealand|Bluff 3&nbsp;cm and Dunedin 1&nbsp;cm.  It is also believed to have caused an increased stress in the southern, offshore part of the Alpine Fault.
+
+A considerable number of aftershocks were recorded.
+
+==Effects==
+The earthquake was felt throughout the South Island, and in the lower North Island as far as New Plymouth. No injuries or fatalities were reported, and it caused only minor damage.
+
+Landslides in the Fiordland National Park near Dusky Sound cleared large tracts of forest.
+
+==Tsunami==
+
+File:NASA fiordland 2009 earthquake.png|thumb|left|250px|NASA map showing epicentre of earthquake and its aftershocks
+
+Tsunami warnings were issued soon after the earthquake by authorities in New Zealand and Australia, as well as the Pacific Tsunami Warning Center in Hawaii. Reacting to the Pacific warnings, about fifty residents and tourists on Lord Howe Island were evacuated, and in Sydney a theatre in Bondi Beach was evacuated, and residents told to keep away from the shore. In the event, waves recorded along New Zealand's western coastline measured at one metre, peak to trough, in the Haast, New Zealand|Haast
+ area.
+
+==See also==
+*Earthquakes in New Zealand
+
+== References ==
+{{reflist}}
+
+== External links ==
+*http://www.newsdaily.com/stories/tre56e22q-us-quake-new-zealand/ NewsDaily.com
+*http://www.infonews.co.nz/news.cfm?l=1&t=72&id=39507 Infonews.co.nz
+*http://earthobservatory.nasa.gov/IOTD/view.php?id=39415&src=eoa-iotd NASA page on the earthquake
+
+{{Earthquakes in 2009}}
+{{Earthquakes in New Zealand}}
+
+Category:2009 earthquakes|Fiordland 2009
+Category:2009 in New Zealand|Fiordland Earthquake
+Category:History of the Southland Region

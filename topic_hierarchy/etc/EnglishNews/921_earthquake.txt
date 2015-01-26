@@ -1,0 +1,123 @@
+{{For|the September 21, 2009 earthquake in Bhutan|2009 Bhutan earthquake}}
+{{Use mdy dates|date=June 2013}}
+
+{{Earthquake
+|title= 1999 Jiji Earthquake<br />(921 Earthquake)
+|image= Earthquake- road crack.jpg
+|map2= {{Location map | Taiwan|relief=1
+| label=
+| lat=23.772
+| long=120.982
+| mark=Bullseye1.png
+| marksize=40
+| position=top
+| width= 250
+| float=right
+| caption=}}
+|date= {{Start date|1999|9|21|01|47|12 am}}
+|magnitude=7.6-7.7 Moment magnitude scale|M<sub>w</sub> / 7.3 Surface wave magnitude|M<sub>s</sub>
+|depth= {{Convert|8.0|km|mi|1|abbr=on}}
+|epicenter location= Jiji, Nantou|Jiji, Nantou County, Taiwan
+|countries affected= {{ROC-TW}}
+|location= {{Coord|23.772|N|120.982|E}}<br>Jiji, Nantou|Jiji, Nantou County|Nantou, Taiwan.
+|casualties=2,415 killed<br />29 missing<br />11,305 injured<br />51,711 buildings destroyed<br />53,768 buildings damaged
+}}
+
+The '''921 earthquake''' ({{zh|t=九二一大地震|hp=Jiǔ'èryī dàdìzhèn}}), also known as '''Jiji earthquake''' ({{zh|t=集集大地震|hp=Jíjí dàdìzhèn}}), was a 7.3 Surface wave magnitude|M<sub>s</sub> or 7.6-7.7 Moment magnitude scale|M<sub>w</sub> earthquake which occurred in Jiji, Nantou|Jiji (Chichi, 集集), Nantou County, Taiwan on Tuesday, 21 September 1999 at 01:47:12.6 Time in Taiwan|TST (Monday, 20 September 1999 at 17:47:12.6 UTC). 2,415 people were killed, 11,305 injured, and NT$300 billion (US$10 billion) worth of damage was done. It was the second-deadliest quake in recorded history in Taiwan, after the 1935 Hsinchu-Taichung earthquake.
+
+Rescue groups from around the world joined local relief workers and the ROC military in digging out survivors, clearing rubble, restoring essential services and distributing food and other aid to the more than 100,000 people made homeless by the quake. The disaster, dubbed the "Quake of the Century" by local media, had a profound effect on the economy of the island and the consciousness of the people, and dissatisfaction with government's performance in reacting to it was said by some commentators {{Who|date=August 2010}} to be a factor in the unseating of the ruling Kuomintang party in the Republic of China presidential election, 2000|2000 Presidential Election.
+
+==Technical data==
+The earthquake struck at 01:47:12.6 Time in Taiwan|TST on Tuesday, 21 September 1999 (i.e., 1999-09-21, hence "921"). The epicentre was at 23.77° N latitude, 120.98° E longitude, {{Convert|9.2|km|mi|1|abbr=on}} southwest of Sun Moon Lake, near the town of Jiji, Nantou. The tremor measured 7.6 on the Moment magnitude scale, 7.3 on the Richter scale, and the focal depth was {{Convert|8.0|km|mi|1|abbr=on}}. The Central Weather Bureau recorded a total of 12,911 aftershocks in the month following the main tremor. The earthquake was in an unusual location for Taiwan, which experiences the majority of its earthquakes off the eastern coast, such quakes normally causing little damage. One of the aftershocks, on September 26, was a strong earthquake in its own right, measuring 6.8 on the Richter scale and causing some already weakened buildings to collapse, killing another three people.
+
+At the time of the quake Taiwan had the most extensive network of sensors and monitoring stations in the world, resulting in "probably the best data set ever collected for an earthquake". Soil liquefaction was observed at Yuanlin and caused settlement of building foundations and filling in of water wells from sand boils. The earthquake occurred along the Chelongpu Fault ({{zh|t=车笼埔断层|p=Chēlóngpǔ duàncéng}}) in the western part of the island of Taiwan. The fault stretches along the foothills of the Central Mountains in Nantou County and Taichung County (now part of Taichung City). Some sections of land near the fault were raised as much as {{Convert|7|m|ft|0|abbr=on}}. Near Dongshih, near the northern end of the fault, a {{Convert|7|m|ft|0|abbr=on}} high waterfall was created by the earthquake.{{Citation needed|date=May 2010}}
+
+==Damage==
+File:Toami after 921.jpg|thumb|left|Tunghsing Building, in Taipei City, after the quake.
+Damage caused by the earthquake included 2,415 deaths, 29 missing, 11,305 severely wounded, with 51,711 buildings completely destroyed, 53,768 buildings severely damaged, and a total of NT$300 billion (US$10 billion) worth of damage. Power was cut to a large proportion of the island, due to damage to power stations, transmission stations, and the automatic shutdown of Taiwan's three nuclear power plants, which were restarted two days later. National electricity provider Taipower stated that a day after the quake power had been restored to 69% of the country. 102 major bridges were badly damaged, with many having to be torn down. The Central Cross-Island Highway, at the time the only major complete route across the mountains in central Taiwan, was badly damaged. Subsequent storm damage and the high cost of restoration means that the highway remains closed as of 2009 and is not expected to be reopened. There were a total of 132 landslides during the main quake and the aftershocks, some causing loss of life as rockfalls crushed houses. 870 schools suffered damage, with 125 severely damaged, closing many down for months or even permanently in a few cases.
+
+===Central Taiwan===
+File:集集武昌宫.jpg|thumb|right|400px|Collapsed Wuchang Temple (武昌宫) in Jiji, Nantou|Jiji, Nantou County|Nantou.
+The effects of the earthquake were most severe in central Taiwan, particularly in Nantou County and Taichung County. Towns such as Puli, Nantou|Puli suffered huge damage, and the majority of the casualties were concentrated in these regions. Due to the relatively remote location of many of the affected settlements, aid from the central government took some time to reach some survivors.
+The Port of Taichung (台中港), one of Taiwan's major commercial harbours, was badly damaged and had to be temporarily closed.
+
+===Northern Taiwan===
+In Taipei City, far from the epicentre of the quake, buildings were shaken, but just one, the 12-story Tunghsing Building ({{zh|t=东星大楼|p=Dōngxīng Dàlóu}}), collapsed as a result of the tremor. 87 people died in the rubble of the building, which was later found to be unsoundly built, with structural pillars and beams stuffed with plastic bottles and newspaper instead of brick and concrete.
+
+===Economic damage===
+The Taiwan Stock Exchange was closed for business for five days following the earthquake. A significant proportion of the world supply of computer memory chips (RAM) was at the time made in Taiwan, and the six-day shutdown of Hsinchu Science Park and other factories resulting from the quake caused computer memory prices to triple on world markets. With Taiwan struggling to recover from the after-effects of the 1997 Asian Financial Crisis, the economic damage of the earthquake was a great cause for concern, with estimates that the total cost would be some 10% of the entire gross domestic product of the country in 1999.
+
+===Causes of building collapse and public reaction===
+The immediate rescue efforts were still ongoing when public anger began to mount at shoddy construction that many felt was responsible for the high number of casualties. Legal building codes, enforcement of those codes, and the construction companies themselves all came in for criticism. Builders and architects of modern buildings that collapsed were detained by the authorities, their assets frozen and travel documents seized. Buildings in Taiwan over {{convert|50|m}} tall require a peer review process; no building that had undergone this process collapsed, contrasting with a number of dramatic failures of buildings just under 50&nbsp;metres in height.
+
+==Rescue efforts==
+Immediately following the earthquake an emergency cabinet meeting was convened to discuss how to tackle the aftermath. The same day the ROC military was mobilised, with large numbers of conscripted soldiers heading to stricken regions to assist in distributing emergency supplies, clearing roads, and rescuing people trapped in the rubble. Helicopters were used to evacuate injured people from mountainous regions to hospitals, and to supply food to communities inaccessible by road.
+
+One of the last people to be rescued was a six-year old boy pulled alive from the rubble of his collapsed home in Taichung County by a team of South Korean and Japanese search and rescue workers, some 88 hours after the quake. Even later, nearly 130 hours after the earthquake, two brothers emerged alive from the ruins of the Tunghsing Building in Taipei to the astonishment of rescuers. The brothers survived on the water sprayed from fire hoses, rotten fruit, and their own urine.
+
+==International response==
+There was widespread international sympathy for those affected by the earthquake, and over 700 rescue workers from more than 20 countries aided in the immediate aftermath.
+
+* {{JPN}}: US$500,000 in aid was pledged by the Japanese government, along with more than 100 rescue workers. Prime Minister of Japan|Prime Minister Keizo Obuchi offered his condolences on behalf of the Japanese people.
+* {{FRA}}:  President of France|President Jacques Chirac "addressed a message of sincere sympathy and condolences to all the victims of this catastrophe and their families. France is following the situation closely and is ready to provide the Taiwanese people with the support and emergency aid they may need."
+* {{GER}}: German Chancellor|Chancellor Gerhard Schr?der spoke of his "deep compassion to the quake victims and their families".
+* {{MEX}}:  The Mexican team of rescue workers was involved in tackling the #Northern Taiwan|Tunghsing Building collapse and earned widespread praise for their skill and commitment.
+* {{RUS}}: A team of 76 rescue workers was dispatched by the Emergency Situations Ministry to help with the search and rescue efforts.
+* {{CAN}}: A 5 member volunteer Search and Rescue team from Abbotsford British Columbia, under the umbrella of a private company, and supported by the local Taiwanese community, provided Search and Rescue services for 96 hrs.
+* {{TUR}}: Having been hit by a 1999 ?zmit earthquake|devastating earthquake just the previous month, Turkish NGOs had recent experience in search and rescue operations. A 15-person team from Turkey left for Taiwan within hours of news of the quake being received.
+* {{GBR}}: Condolences were offered by Elizabeth II, who in a statement said "The Queen was greatly saddened to learn of the terrible earthquake in Taiwan and the consequent tragic loss of life." A relief team of six people from Rapid UK, a disaster rescue group, was dispatched to help search for trapped survivors.
+* {{USA}}: President Bill Clinton issued a statement, saying that "our thoughts are with all of those who have suffered losses and who may still be in need of assistance", while also pledging aid to assist in disaster recovery. Despite the lack of official diplomatic relations with Taiwan, US authorities liaised directly with their Taiwanese counterparts, and sent an 85-person team to assist in the aftermath.
+* {{KOR}}:In addition to the cash grant, the Korea International Search and Rescue Team(Chief Commander Park, Chung Wung) was deployed to the affected site for 2 weeks, and during the operation, the team dramatically rescued a 6-year old boy who simultaneously lost both parents and his younger sister due to the building collapse caused by the earthquake. The boy unbelievably sustained his life for 84 hours without external assistance such as water and food.
+* {{VAT}}: Pope John-Paul II expressed his concern in his Angelus of September 26, remarking that "at these days my thoughts have constantly turned to the beloved people of Taiwan as they recover from the recent quake and its devastating aftermath".
+* {{PRC}}: Relations between the two sides had been particularly strained shortly before the earthquake, with tensions high over the impending Republic of China presidential election, 2000|presidential elections in Taiwan. General Secretary of the Communist Party of China|General secretary of the Communist party Jiang Zemin sparked hope of an improvement in relations when he expressed the sorrow of mainland Chinese at news of the disaster, and stated that "we are willing to offer any possible assistance to alleviate quake-caused losses." However, after a few days the Taipei government was accusing Beijing of exploiting the earthquake for political ends and blocking speedy assistance from the international community getting to those in need. A Russian flight carrying search and rescue personnel was refused permission to cross Chinese airspace on its way to Taiwan, and the PRC insisted that any attempts to send aid to Taiwan from other nations needed the blessing of the Beijing government first, slowing the arrival of international help.
+
+==Clean-up and reconstruction==
+File:Guang Fu 921.JPG|thumb|left|300px|Heavily damaged Guangfu Elementary School in Wufeng District|Wufeng (921 Earthquake Museum of Taiwan)
+On September 25 President Lee Teng-hui declared a state of emergency in the affected areas, giving sweeping powers to local authorities to ignore the usual bureaucratic and legal restrictions on measures to bring relief to people and locations most in need. This was the first time emergency powers had been used since the death of former President Chiang Ching-kuo in 1989.
+
+Many charities, corporations, and private individuals contributed to the relief effort and the later reconstruction. Private donations directly to the government-run disaster fund totalled NT$33.9 billion, while organisations including the Presbyterian Church of Taiwan, Rotary International, Cathay Life Insurance, Dharma Drum Mountain, I-Kuan Tao, the Tzu Chi Foundation and various temple, church, and community groups all contributed to aiding survivors and funding reconstruction. The Church of Jesus Christ of Latter-day Saints provided both direct relief and translation services for the foreign rescue teams, while the Red Cross of the People's Republic of China contributed US$3m to the Red Cross Society of the Republic of China, which amassed a fund of NT$1.8bn towards disaster relief.
+
+Following the election of President Chen Shui-bian on March 2000, the reconstruction policies were continued despite the change in ruling party. Chen said in his inaugural address in May 2000 that "our people experienced an unprecedented catastrophe last year, and the wounds are yet to be healed. The new cabinet feels that restoration cannot be delayed&nbsp;... Reconstruction has to cover every victim and every earthquake-affected area."
+
+One task that had to be undertaken was the setting of new land ownership boundaries in areas where the landscape had been significantly altered by the quake. The whole island was elongated about {{convert|1.5|m}} in the north-south axis and compressed west-east by the forces unleashed. One solution offered to land issues was to offer landowners an equivalent parcel of government land not located on a fault line.
+
+==Aftermath==
+Following the earthquake, the Atomic Energy Council installed the automation seismic trip system (ASTS) to Taiwan's existing Nuclear power in Taiwan#List of nuclear power stations in Taiwan|three nuclear power plants to further ensure plant safety. Installations and testings were completed on November 2007.
+
+==Legacy==
+File:九二一震撼.jpg|thumb|right|300px|Waterworks pipe bent by the earthquake, 2 meters (7 ft) in width and 1.8 cm (0.7 inches) in thickness, originally underground in Fengyuan District|Fengyuan, Taichung County, exhibited at the Museum of Drinking Water, Zhongzheng District, Taipei
+The quake has become part of the Taiwanese consciousness, and is often referred to simply as '''921''' ({{zh|t=九二一|p=Jiǔ'èryī}}) after the date it occurred (September 21). Unhappiness with the government's performance in response to the disaster was reflected in a drop in support for vice-president Lien Chan who was standing as the Kuomintang candidate for the Republic of China presidential election, 2000|2000 presidential election.
+
+In Wufeng District|Wufeng, a township in southern Taichung County, the damage was especially devastating; the village's Guangfu Junior High School lay directly on the fault line and was severely damaged by the quake. Today the junior high school is the site of the National Museum of Natural Science's 921 Earthquake Museum.
+
+A remain fault from the earthquake was discovered in Zhushan, Nantou|Zhushan Township, Nantou County by a professor from National Taiwan University during his research in the area in November 2002. To preserve the fault, the Chelungpu Fault Preservation Park was established and opened to public in 2013.
+
+The tenth anniversary of the earthquake in 2009 was marked by commemorative activities in some of the areas affected. Taipei, Dongshi, Taichung|Dongshi, Wufeng, Taichung|Wufeng, Puli, Nantou|Puli, Jiji, Nantou|Jiji and Zhongxing Xincun held various events to remember the victims of the earthquake, the rescuers who aided them, and the reconstruction efforts which followed.
+
+==See also==
+*921 Earthquake Museum of Taiwan
+*John Walker (organist)#Awards and honors|John Walker, Chi-Chi earthquake benefit concerts
+*List of 20th-century earthquakes
+*List of deadly earthquakes since 1900
+*List of earthquakes in Taiwan
+*National Center for Research on Earthquake Engineering (NCREE)
+
+==Notes==
+{{Reflist|colwidth=33em}}
+
+==References==
+*{{Cite book|title=Experiences on Post-disaster Reconstruction for the 921 Earthquake|publisher=Taiwan Historica|year=2006|isbn=978-986-00-7233-4}}
+*{{Cite book|title=Taiwan in the Twentieth Century: A Retrospective View|last=Edmonds|first=Richard L.|last2=Goldstein|first2=Steven M.|year=2001|isbn=978-0-521-00343-8|publisher=Cambridge University Press}}
+
+==External links==
+{{Commons category|Chichi Earthquake}}
+*http://www.nmns.edu.tw/nmns_eng/04exhibit/921.html National Museum of Natural Science 921 Earthquake Museum
+*{{YouTube|xe3Z1Tdz_uk|经典读诵心经香港群星合唱回向1999年, 台湾921大地震}}
+*http://blog.roodo.com/loveaction
+
+{{Earthquakes in 1999}}
+{{Taiwan earthquakes}}
+
+{{DEFAULTSORT:921 Earthquake, 1999}}
+Category:1999 earthquakes
+Category:1999 in Taiwan

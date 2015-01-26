@@ -1,0 +1,48 @@
+{{Earthquake
+|title = 2003 Hokkaidō earthquake
+|date = {{Start date|2003|9|25}}
+| map2               = {{Location map | Japan
+ | relief = yes
+ | label =
+ | lat = 41.78
+ | long = 143.86
+ | mark = Bullseye1.png
+ | marksize = 40
+ | position = top
+ | width = 250
+ | float = right
+ | caption = }}
+|magnitude = 8.3 Moment magnitude scale|M<sub>w</sub> 
+|depth = 27 kilometers
+|location = {{coord|41.78|N|143.86|E}}
+|countries affected = Japan
+|tsunami = Yes
+|casualties = At least 589 injured 
+}}
+
+The '''2003 Hokkaidō earthquake''' (aka '''2003 Tokachi-Oki Earthquake''' {{nihongo|十胜冲地震|''2003 Tokachi-Oki Jishin''}} ) occurred on September 25, 2003 in Hokkaidō, Japan.  It measured 8.3 on the moment magnitude scale and caused extensive damage, destroying roads all around Hokkaidō, and caused several power outages and damaging landslides. The earthquake also caused a tsunami reaching 4 meters in height.  The earthquake was the largest in 2003.
+
+==Tectonic setting==
+The location and focal mechanism|moment tensor solution of this earthquake are consistent with it being a result of thrust faulting between the North American Plate and the subducting Pacific plate. In addition to experiencing large thrust earthquakes that originate on the interface between the plates, eastern Hokkaidō experiences great earthquakes that originate from the interior of the subducted Pacific plate.
+
+==Damage==
+The earthquake caused great damage, causing power outages, landslides, and destroying several ocean side home communities. Its epicenter was located about {{convert|60|km|sp=us}} offshore, causing less damage had it occurred directly under the city, and an estimated cost was not given.
+
+== Regional seismicity ==
+The region has been rocked by a catastrophic earthquake and tsunami with an estimated magnitude of 9 in 1667, and a 1973 quake to the immediate north along the Kuril Trench plate boundary called the 1973 Nemuro-Oki Earthquake.
+
+==See also==
+* 1952 Hokkaido earthquake
+
+==References==
+{{Reflist}}
+
+{{Earthquakes in 2003}}
+
+{{DEFAULTSORT:2003 Hokkaido Earthquake}}
+Category:2003 in Japan|Hokkaido Earthquake, 2003
+Category:2003 earthquakes|Hokkaido Earthquake, 2003
+Category:Megathrust earthquakes in Japan
+Category:21st-century tsunamis
+
+ja:十胜冲地震#2003年

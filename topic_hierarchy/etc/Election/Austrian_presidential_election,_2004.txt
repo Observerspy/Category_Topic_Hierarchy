@@ -1,0 +1,67 @@
+{{Infobox Election
+| election_name = Austrian presidential election, 2004
+| country = Austria
+| type = presidential
+| ongoing = no
+| previous_election = Austrian presidential election, 1998
+| previous_year = 1998
+| next_election = Austrian presidential election, 2010
+| next_year = 2010
+| election_date = 25 April 2004
+| image1 = [[File:Heinz Fischer Vienna Oct. 2006 001-cropped.jpg|100px]]
+| nominee1 = [[Heinz Fischer]]
+| party1 = Social Democratic Party of Austria
+| popular_vote1 = 2,166,690
+| percentage1 = 52.4%
+| image2 = [[File:Benita Ferrero-Waldner.jpg|102px]]
+| nominee2 = [[Benita Ferrero-Waldner]]
+| party2 = Austrian People's Party
+| popular_vote2 = 1,969,326
+| percentage2 = 47.6%
+| title = [[President of Austria|President]]
+| posttitle = [[President of Austria|President]]-Elect
+| before_election = [[Thomas Klestil]]
+| before_party = Austrian People's Party 
+| after_election = [[Heinz Fischer]]
+| after_party = Social Democratic Party of Austria
+}}
+{{Politics of Austria}}
+'''Presidential elections''' were held in [[Austria]] on 25 April 2004. While the post of [[President of Austria]] is a largely ceremonial one, presidential elections are conducted on a party basis and are seen as a test of the relative standing of [[List of political parties in Austria|the major parties]].
+
+The victorious candidate was [[Heinz Fischer]] of the opposition [[Social Democratic Party of Austria]] (SPÖ). He defeated [[Benita Ferrero-Waldner]], foreign minister in the ruling conservative coalition led by the [[Austrian People's Party]] (ÖVP).
+
+==Table of results==
+{{Austrian presidential election, 2004}}
+The turnout of slightly above 70% of registered voters was considered low by Austrian standards.
+
+In the [[Austrian legislative election, 2002|2002 parliamentary elections]] the conservative parties (the ÖVP and the [[Freedom Party of Austria]], FPÖ) received 52 percent of the votes, compared to 46 percent for the SPÖ and the [[Austrian Green Party|Greens]]. In this election, however, many conservative voters stayed at home, and this (together with Fischer's high personal popularity) was the reason for the lower number of votes for Ferrero.
+
+==Campaigns==
+
+The campaign started in January 2004 with the announcements of Ferrero-Waldner and Fischer that they would run. Several other candidates also announced their intention to run, but they were not supported by a major party, their campaigns went virtually unnoticed by the media, and they failed to get the required 6,000 signatures supporting their candidacy. 
+
+A notable exception was Franz Fiedler, head of the National Audit Office. In late February he announced that he was considering a candidacy, and that he had the support of important but unnamed politicians. Conventional wisdom held that he had no chance of getting a majority, but that his candidacy would force a run-off between Ferrero-Waldner and Fischer. But since his financial supporters were unwilling to reveal their names, he decided not to run.    
+
+In advance of the campaign the ÖVP and the SPÖ agreed on a "Fairness Pact," with compliance to be supervised by a panel of three people, headed by [[Ludwig Adamovich]], former head of the Constitutional Court.  
+
+The first complaint before the panel was brought by the SPÖ, who claimed that the ÖVP had stolen one of their slogans. The panel decided that this was not fair according to community standards, but not specifically forbidden by the Fairness Pact. Both parties hailed this decision as a victory for their own side. 
+
+Later, both sides complained that the other side had given out presents of tangible value (mainly chocolates) at rallies; the panel refused to consider these claims. Other complaints (commercials during the agreed-upon Easter break, tearing down and defacing posters) were withdrawn.
+
+==Platforms==
+
+Fischer's campaign praised their candidate's experience as President of the Parliament, his expertise in constitutional law, and his proven ability to  negotiate compromises. Ferrero's campaign suggested that as a dedicated socialist Fischer might not always show the neutrality required from a Federal President. 
+
+Ferrero's campaign pointed to her international connections, her language abilities (English, French, Italian, Spanish), and her performance as foreign minister during the period of the [[European Union]] sanctions against Austria.  Fischer's campaign claimed that she had made many mistakes as a foreign minister, and expressed the fear that a conservative president would not be an appropriate counterweight to a conservative government. 
+
+In the beginning of the campaign, polls suggested a 15% lead for Fischer: during the campaign Ferrero narrowed the margin, but polls never showed a decisive lead for her.
+
+==External links==
+*[http://www.bmi.gv.at/cms/BMI_wahlen/bundespraes/bpw_2004/files/bpwahl04_ErgE.pdf Austrian Ministry of Interior, results]
+*http://www.benita-ferrero-waldner.at/
+*http://www.heinzfischer.at/
+
+{{Elections in Austria}}
+
+[[Category:Presidential elections in Austria|2004]]
+[[Category:2004 elections in Austria]]

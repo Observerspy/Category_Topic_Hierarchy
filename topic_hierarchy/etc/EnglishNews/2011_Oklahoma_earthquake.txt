@@ -1,0 +1,52 @@
+{{Infobox earthquake
+| title = 2011 Oklahoma earthquake
+| image = 
+| image alt =
+| imagecaption =Shake map
+| caption =
+|map2 = {{Location map | USA Oklahoma
+| label = Epicenter
+| lat = 35.599
+| long = -96.752
+| mark = Bullseye1.png
+| marksize = 40
+| position = bottom
+| width = 250
+| float = right
+| caption = }}
+| date = 03:53:10 UTC, November 6, 2011 
+| magnitude = 5.6
+|depth              = {{convert|3.1|mi|km|0|sp=us}}
+|location           = {{Coord|35.599|N|96.752|W|format=dms |type:event_dim:200km |display=inline,title}}
+|type               = Intraplate earthquake
+|countries affected = United States
+|damage             =
+|intensity          = Mercalli intensity scale|VIII 
+|PGA =
+|casualties         =
+}}
+File:USGS 2011 Oklahoma intensity.jpg|thumb|USGS shake map for the Oklahoma earthquake
+The '''2011 Oklahoma earthquake''' was a 5.6 moment magnitude scale|magnitude intraplate earthquake which occurred on November 5, 2011, at 10:53&nbsp;pm CDT (03:53&nbsp;UTC, November 6, 2011) in the U.S. state of Oklahoma.  The quake's epicenter was approximately {{convert|44|mi}} east-northeast of Oklahoma City, near the town of Sparks, Oklahoma|Sparks and was felt in the neighboring states of Texas, Arkansas, Kansas and Missouri and even as far away as Tennessee and Wisconsin. Numerous aftershocks were detected after the main quake, with a few registering at 4.0 magnitude.
+
+== Geology ==
+The Oklahoma Geological Survey believes the quake occurred along the Wilzetta Fault, which is also known as the Seminole Uplift. It is a strike-slip fault, where two adjacent crustal blocks slide horizontally past each other, but unlike the similar moving San Andreas Fault, the Wilzetta Fault is not located near the margins of any tectonic plates. Earthquake activity in this region has been on the rise since 2008, though there is no indication that a more severe earthquake is imminent. From 1972 to 2008, between 2 to 6 earthquakes were recorded annually by the USGS, however 50 were recorded in 2009. The USGS and the Oklahoma Geological Survey are installing more seismometers to better monitor the increased activity. Aftershocks from the 5.6 quake, including some that can be felt, are expected to last for months. The Oklahoma Geological Survey reported that a minor earthquake swarm which occurred in January 2011 could possibly have been due to hydraulic fracturing, which is a process used to extract oil from oil wells.  In November 2011 several geologists with the USGS that were contacted by Huffington Post said that the 5.6 magnitude quake was not due to the mechanical process of hydraulic fracturing itself, which they said causes tremors on a much smaller scale.
+
+In March 2013, an article published in the scientific journal ''Geology (journal)|Geology'' concluded that the earthquake could have been triggered by the cumulative effects of injecting oil drilling wastewater under high pressure into the underground.  However, Oklahoma state seismologists disagreed, saying the quake was natural.
+
+A March 2014 study published in the ''JOURNAL_OF_GEOPHYSICAL_RESEARCH|Journal of Geophysical Research'' concluded that wastewater injection caused a cascade of small earthquakes that triggered the quake. 
+
+== Damage ==
+Early reports indicated that U.S. Route 62 in Oklahoma|U.S. Route 62 had "Buckling|buckled" in three locations and that several nearby homes had major damage and there were also numerous reports of broken windows and other minor damage, mostly to residences. Some local residents reported minor masonry damage and a chimney collapsed at one residence, while a few residents near the epicenter reported a noise which sounded like thunder in the distance as the earthquake struck. The Oklahoma Department of Emergency Management reported that 2 people suffered minor injuries, 14 homes had various levels of damage, and that Benedictine Hall (Shawnee, Oklahoma)|Benedictine Hall at St. Gregory's University in Shawnee, Oklahoma|Shawnee had one turret collapse and two others damaged, forcing the closure of the building. A trial on the 24th floor of the Thomas F Eagleton Courthouse in St Louis, Missouri was put into immediate recess after the building began to sway in the tremors, which prompted an evacuation. The trial resumed the next morning.
+
+== Radar imagery ==
+The National Weather Service (NWS) reported that weather radar detected insects, bats and birds which had apparently taken flight immediately after the quake. The NWS radar indicated that the tremors were significant enough that those animals that could leave the ground, did so.
+
+==References==
+{{reflist|30em}}
+
+{{Earthquakes in 2011}}
+
+Category:2011 earthquakes
+Category:Lincoln County, Oklahoma
+Category:Earthquakes in Oklahoma
+Category:2011 in Oklahoma

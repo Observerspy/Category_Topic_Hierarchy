@@ -1,0 +1,52 @@
+{{Earthquake
+|title= 1911 Sarez earthquake
+|date= {{Start-date|18 February 1911}}
+|map2 = {{Location map | Tajikistan
+ | label=
+ | lat=38.2
+ | long=72.8
+ | mark=Bullseye1.png
+ | marksize=40
+ | position=top
+ | width= 250
+ | float=right
+ | caption=
+ | relief=yes}}
+|magnitude = 7.4 surface wave magnitude|M<sub>s</sub>
+|intensity=IX
+|depth=26 km
+|location={{coord|38.2|72.8|display=inline,title}}
+|countries affected = Tajikistan, Rushon District
+|tsunami = 
+|casualties = 90 
+}}
+
+The '''1911 Sarez earthquake''' occurred at 18:41 Coordinated universal time|UTC on 18 February (23:31 local time) in the central Pamir Mountains in the Rushon District of eastern Tajikistan. It had an estimated magnitude of 7.4 on the surface wave magnitude scale and a maximum felt intensity of about IX (violent) on the Mercalli intensity scale. It triggered a massive landslide, blocking the Bartang River|Murghab River and forming the Usoi Dam, the tallest dam in the world, creating Sarez Lake.  The earthquake and related landslides destroyed many buildings and killed about 90 people.
+
+==Tectonic setting==
+The earthquake epicenter is located in the central Pamir Mountains.  These mountains form the western end of the Himalayan chain, caused by the continuing continental collision between the northward moving Indian Plate and the Eurasian Plate. The area is affected by active faulting on both thrust faults and fault (geology)#Strike-slip faults|strike-slip faults. The 1911 earthquake occurred within the Pamir Hindu Kush seismic zone, which is regularly affected by earthquakes, some of which have magnitudes of 7 or greater.
+
+==Characteristics==
+File:usoi.jpg|thumb|260px|The Usoi Dam caused by a landslide triggered by the earthquake.
+
+===Earthquake===
+{{see also|List of earthquakes in Tajikistan}}
+
+The earthquake lasted for two minutes and was followed by an aftershock an hour later. Current estimates for the magnitude lie in the range 7.4&ndash;7.6 on the surface wave magnitude scale. The earthquake caused the waters of Karakul (Tajikistan)|Lake Karakul to surge over its eastern rim, leaving behind a large sheet of ice as it withdrew.
+
+===Landslides===
+The earthquake triggered numerous landslides along the slopes of the Bartang, Tanimas and Murghab valleys.  The largest of these blocked the Murghab river, forming the Usoi Dam and creating the Sarez and Shadau lakes. The Usoi landslide had an estimated volume of about 2&nbsp;km<sup>3</sup>. The dam is the highest in the world at about 600 m, impounding a lake containing 17.5&nbsp;km<sup>3</sup> of water. The slide originated from a 4,500 m high mountain, falling 1,800 m to its present location.
+
+==Damage==
+The area of greatest damage extended along the Bartang River from Basid in the west continuing along the Murghab River to Sarez in the east, also involving the kishlaks of Barchidiv, Nisur, Sagnob, Rukhch and Oroshor. The Usoi landslide completely destroyed the Usoi kishlak. Estimates of casualties from the earthquake and related landslides range from 90 to 302.
+
+==Aftermath==
+The landslides and the formation of Sarez Lake caused significant migration of the inhabitants of the upper Bartang valley.
+
+==References==
+{{Reflist}}
+
+Category:Earthquakes in Tajikistan
+Category:1911 earthquakes
+Category:Landslides in Tajikistan
+Category:Landslide-dammed lakes

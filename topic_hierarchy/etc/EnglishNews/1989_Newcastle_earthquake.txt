@@ -1,0 +1,72 @@
+{{Infobox earthquake
+|title              = 1989 Newcastle earthquake
+|date               = {{start-date|28 December 1989}}
+|origintime         = 10:27 a.m.
+|map                = 
+|map2 = {{Location map+ | Australia
+| places =
+{{Location map~|Australia|lat=-33.86|long=151.21|label=Sydney|label_size=100|mark=Green pog.svg}}
+{{Location map~|Australia|lat=-32.95|long=151.61|mark=Bullseye1.png|marksize=40}}
+| relief = yes
+| width = 250
+| float = right
+| caption = }}
+|magnitude          = 5.6&nbsp;Richter magnitude scale|M<sub>L</sub> (5.4&nbsp;Body wave magnitude|<math>M_b</math> )
+|depth              = {{Convert|11.5|km|mi|1}}
+|location           = {{coord|32.95|S|151.61|E|display=inline,title}} <br> Boolaroo, New South Wales|Boolaroo, New South Wales
+|countries affected = Australia
+|casualties         = 13 dead, more than 160 injured
+|damage             = {{AUD}}4 billion
+}}
+The '''1989 Newcastle earthquake'''  occurred in Newcastle, New South Wales on Thursday, 28 December.
+
+The effects were felt over an area of around {{Convert|200000|km2|sqmi|-3}} in the state of New South Wales, with isolated reports of movement in areas up to {{Convert|800|km|mi|-1}} from Newcastle. Damage to buildings and facilities was reported over an area of {{Convert|9000|km2|sqmi|-2|abbr=on}}.
+
+==Death toll and damage to buildings==
+The highest death toll and damage occurred at the ''Newcastle Workers Club'', where the floor collapsed and nine people were killed and many more trapped beneath rubble. Another three people were crushed to death under collapsed awnings on Beaumont Street, Hamilton, New South Wales|Hamilton, an inner-city suburb of Newcastle. Following the death of a woman in Broadmeadow from earthquake-related shock, the final death toll was raised to 13.
+
+The earthquake caused damage to over 35,000 homes, 147 schools, and 3,000 commercial and/or other buildings, with significant damage caused to 10,000 homes (damage worth over $1,000) and 42 schools (structural damage), within the immediate Newcastle area.
+
+The number of people in the city on the day of the earthquake was lower than usual, due to a strike action|strike by local bus drivers. The earthquake struck in the middle of an interview by local television station NBN Television|NBN with a union representative.
+
+==Facts==
+File:1989 Newcastle earthquake map.png|thumb|Intensity map for the event
+
+* '''Deaths''': 13 total, including;
+** 9 people who were killed at the Newcastle Workers Club
+** 3 people who were killed in Beaumont Street, Hamilton
+** 1 person who died of earthquake induced shock
+* '''Injuries''': 160 people were hospitalised.
+* '''Damaged Buildings''': 50,000 buildings were damaged; about 80 percent of these were homes.
+* '''Demolition''': 300 buildings were demolished including more than 100 homes, The Newcastle Workers Club, The Century Theatre and King's Hall.
+* '''Human Effects''': 300,000 people were affected and 1,000 made homeless.
+* '''Cost''': The total financial cost of the earthquake is estimated to have amounted to about A$4 billion.
+* '''Felt Area''': Estimated {{Convert|800|km|mi|-1|abbr=on}} around the epicentre.
+* '''Magnitude''': 5.6&nbsp;Richter magnitude scale|M<sub>L</sub>; 5.4&nbsp;Body wave magnitude|<math>M_b</math>; VIII&nbsp;Mercalli intensity scale|MMI
+* '''Epicentre''': Boolaroo, New South Wales|Boolaroo
+* '''Aftershocks''': One aftershock (M 2.1 on the Richter scale) was recorded on 29 December 1989.
+
+==Cause==
+In early 2007 a United States academic claimed that coal mining in the region triggered the earthquake, although earthquake activity has been present in the area at least since white settlement first occurred. This is in addition to reports by the former head of Geosciences Australia's earthquake monitoring group, Dr David Denholm, who stated that the Newcastle earthquake was some distance from mining activity:
+
+"The depths of the focus of the earthquake was about 13, 14 kilometres, whereas the ones associated with mining, they're actually right close to the mine, because that's where the stress release takes place".
+
+Despite this, even the most recent earthquake codes required neither the adoption of earthquake resistant design regulations in Newcastle, nor the strengthening of old buildings, although they did encourage owners to provide more than the minimum strength.
+
+==In popular culture==
+Songs about the Newcastle earthquake include "Earthquakin'", recorded in January 1990 by Newcastle Ska Band The Porkers, and "Faultline" by Australian rock band Silverchair, from 1995.  Silverchair lead singer Daniel Johns lost a childhood friend during the earthquake. Patrick Cullen's collection of stories, "What Came Between", begins with the earthquake. ''Aftershocks (play)|Aftershocks'', a 1991 play by Paul Brown, is based on interviews with members of the destroyed ''Newcastle Workers Club''.
+
+==References==
+{{reflist}}
+
+==External links==
+* {{cite web|url=http://www.newcastle.nsw.gov.au/about_newcastle/news_and_events/image_galleries/newcastle_earthquake|title=Newcastle earthquake image gallery|publisher=Newcastle City Council|accessdate=25 June 2011}}
+* http://www.ga.gov.au/urban/projects/archive/newcastle.jsp Geoscience Australia: CCIP Project - Newcastle (Earthquake Risk in Newcastle and Lake Macquarie)
+
+{{Earthquakes in 1989}}
+{{Hunter Region places and items of interest}}
+
+Category:1989 in Australia|Newcastle
+Category:Earthquakes in Australia|1989
+Category:1989 earthquakes|Newcastle earthquake, 1989
+Category:History of Newcastle, New South Wales

@@ -1,0 +1,102 @@
+{{Earthquake
+|title= 1949 Ambato earthquake
+|date= {{Start-date|August 5, 1949}}
+|map2 = {{Location map many | Ecuador
+| lat=-1.5
+| long=-78.2
+| mark=Bullseye1.png
+| marksize=40
+| position=right
+| label2=Ambato, Ecuador|Ambato
+| lat2=-1.24
+| long2=-78.62
+| mark2=
+| mark2size=10
+| position2=left
+| label3=PACIFIC OCEAN
+| lat3=1.0
+| long3= -80.0
+| mark3=
+| mark3size=1
+| position3=left
+| label4=ECUADOR
+| lat4=-1.0
+| long4=-77
+| mark4=
+| mark4size=1
+| position4=top
+| label5=PERU
+| lat5=-4.0
+| long5= -76.0
+| mark5=
+| mark5size=1
+| position5=left
+| label6=COLOMBIA
+| lat6=1.0
+| long6= -76.0
+| mark6=
+| mark6size=1
+| position6=left
+| width= 250
+| float=right
+| caption= Map showing location of epicenter of earthquake relative to Ambato, Ecuador|Ambato; the bullseye is the epicenter; small blue lines are rivers
+ | relief=yes}}
+|magnitude = 6.8 Magnitude Richter magnitude scale|M<sub>L</sub>
+|depth=
+|location={{coord|-1.5|-78.2||display=inline,title}}
+|countries affected = Ecuador
+|tsunami = 
+|casualties = 5,050}}
+The '''1949 Ambato earthquake'''  was the largest earthquake in the Western Hemisphere in more than five years. On August 5, 1949, it struck Ecuador's Tungurahua Province southeast of its capital  Ambato, Ecuador|Ambato and killed 5,050&nbsp;people. Measuring 6.8 on the Richter magnitude scale|Richter scale it originated from a  hypocenter {{convert|40|km|mi|0|abbr=on}} beneath the surface. The nearby villages of Guano, Ecuador|Guano, Patate, Pelileo, and Pillaro were destroyed, and the city of Ambato suffered heavy damage.
+
+Earthquakes in Ecuador stem from two major interrelated tectonic areas: the subduction of the Nazca Plate under the South American Plate and the  Andean Volcanic Belt. The 1949 Ambato earthquake initially followed an intersection of several northwest-southeast-trending faults in the Inter-Andean Valley which were created by the subduction of the  Carnegie Ridge. Strata of rock cracked as the earthquake ruptured the faults, sending out powerful shockwaves. Today threats exist throughout the country from both  interplate earthquake|interplate and intraplate earthquake|intraplate seismicity.
+
+== Background ==
+Earthquakes are common in Ecuador. Near the Nazca Plate|Nazca subduction zone the recorded history of  interplate earthquakes spans 80&nbsp;years. Several major earthquakes have occurred throughout the country since 1949, including the  1987 Ecuador earthquakes and the 1997 Ecuador earthquake. The 2007 Peru earthquake also affected the country.
+
+== Geology ==
+File:South American plates.png|thumb|left|The Nazca Plate is being subducted under the South American Plate, generating volcanism and extensive seismicity.
+Much of South American seismic activity and volcanism originates from subduction of the oceanic crust|oceanic Nazca Plate under the continental South American Plate and subduction of the Pacific's lithosphere under the South American continent. This seismicity extends for {{convert|6000|km|mi|0|abbr=on|sigfig=1}} along the continent's western edge and probably stems from a region of northeast-trending fault (geology)|faulting near the Ecuadorian Trench. The region of faulting may actually function as its own microplate.
+
+The Carnegie Ridge is sliding under Ecuadorian land, causing coastal uplift and volcanism. The ridge's movement may also have changed the type of faulting along the coast, causing strike-slip faults (faults that move horizontally past each other). Evidence of this subduction altering the course of faulting is found at the Yaquina fault, which, unlike the rest of the Panama Basin faults, trends to the west instead of north-south, indicating that the Carnegie Ridge may be colliding with the continental mass of Ecuador. This collision created northwest-southeast and northeast-southwest-trending faults in the region, and with that, caused strong earthquakes in Riobamba in 1797 and Alausi, Ecuador|Alausi in 1961. Several of the northwest-southeast-trending faults converge in the Inter-Andean Valley where the 1949 Ambato earthquake took place.
+
+The hypocenter of the earthquake occurred {{convert|40|km|mi|0|abbr=on }} beneath the surface, under a mountain {{convert|72|km|mi|0|abbr=on}} from Ambato. Nearby fault lines ruptured, breaking rock strata and sending shock waves to the surface capable of bringing down entire buildings. ''Life (magazine)|Life'' reported that local seismologists first placed the earthquake's magnitude at 7.5, but the official measurement was later revised to 6.8.
+
+== Damage and casualties ==
+File:Ambato Earthquake - Pelileo Ruins.jpg|thumb|right|The ruins of homes in Pelileo after the earthquake
+The earthquake was preceded by a foreshock which although modest was strong enough to cause chaos and force people to flee from their homes into the streets. The main shock epicenter|originated southeast of Ambato. The shaking ruptured Water supply network|water mains, disabled communication lines, opened cracks in the earth, reduced bridges to rubble, The earthquake demolished buildings in rural Hamlet (place)|hamlets; closer to the nearest mountains of the Andes, landslides destroyed roads and blocked rivers.
+
+Initial reports (around August 7) estimated the death toll at 2,700&nbsp;people. The town of Pillaro, destroyed by the quake, had more than 20 dead, and in Latacunga, 11 were killed and 30 injured; 50&nbsp;homes, two churches, and the local government building were also ruined. Fifteen other towns and cities were also badly affected, including Guano, Ecuador|Guano which was devastated.
+
+Later counts assumed around 3,200&nbsp;casualties in Pelileo; the total death toll estimates were adjusted to around 4,000&nbsp;people. Officials reported that many of the dead had been inside buildings as they buckled or were killed by flooding brought about by the blockage of a  Ditch|drainage canal. Others were crushed by landslides from nearby mountains. No homes in the city of Pelileo were left standing, many buildings were flattened, and large cracks formed in the ground. In Ambato alone 75 percent of the homes still standing had to be demolished. On August 8, an aftershock with "considerable strength" struck near Ambato.
+
+The final death toll according to the United States Geological Survey was 5,050. The earthquake severely affected some 30&nbsp;communities and left approximately 100,000&nbsp;people homeless.
+
+== Relief efforts ==
+Ecuador's List of heads of state of Ecuador|President Galo Plaza|Galo Plaza Lasso flew to Ambato to take personal charge of the primary relief efforts. Plaza directed rescue efforts for two days as airlifts from Quito dropped supplies. A group of Red Cross volunteers and medical supplies were sent on American aircraft. Several nearby countries sent airplanes carrying medicine and food. Plaza said "We have not lost our courage. Neither Ambato nor Ecuador shall cry any more, but begin to work."
+
+On August 7 a plane carrying 34 rescue workers from the Shell Oil Company crashed {{convert|32|km|mi|0|abbr=on}} from Ambato leaving no survivors.
+
+== Aftermath ==
+File:Ambato Earthquake - Ruined Hospital.jpg|thumb|right|A hospital ruined by the earthquake in Ambato, Ecuador|Ambato; almost 75&nbsp;percent of the city's remaining buildings had to be demolished.
+The earthquake considerably impacted a number of cities: it destroyed Guano, Patate, Pelileo, Pillaro, and one-third of Ambato.
+
+In an effort to help the inhabitants a festival of fruit and flowers was held on June 29, 1950. The festival was a success and became an annual event that is celebrated each year during Carnival|Carnaval and is now an important tourist attraction. Ambato was completely rebuilt after the earthquake. The city's main church, the Iglesia Matriz de Ambato, was replaced by a new cathedral known as Iglesia La Catedral in 1954. Pelileo was rebuilt on a new site{{convert|2|km|abbr=on}} from its previous location.
+
+== Current situation ==
+Ambato is frequently visited by tourists traveling on the Pan-American Highway. The city is well known for its extensive market which sells a wide array of items including local delicacies and flowers, and for its  ''quintas'' – old estates that serve as historic parks – some of which pre-date the earthquake.
+
+Ecuador is still at risk from earthquakes: both intraplate earthquake|intraplate (such as those in March 1987) and interplate earthquakes are possible. Intraplate seismicity poses a more formidable threat, as it can be much more powerful than interplate seismicity and is usually associated with landslides, subsidence, and even soil liquefaction.
+
+== References ==
+{{reflist|colwidth=30em}}
+
+{{featured article}}
+
+Category:1949 earthquakes|Ambato
+Category:1949 in Ecuador|Ambato
+Category:Earthquakes in Ecuador
+
+{{Link GA|fa}}
+{{Link GA|ru}}
+{{Link FA|zh}}

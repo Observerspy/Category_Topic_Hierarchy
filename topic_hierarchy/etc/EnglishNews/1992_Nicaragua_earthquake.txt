@@ -1,0 +1,56 @@
+{{good article}}
+{{Infobox earthquake
+|title = 1992 Nicaragua earthquake
+|date = {{start-date| September 2, 1992}}
+|origintime = 0:16
+|map2 = {{Location map | Nicaragua
+ | relief = yes
+ | label =
+ | lat = 11.742
+ | long = -87.34
+ | mark = Bullseye1.png
+ | marksize = 40
+ | position = top
+ | width = 250
+ | float = right
+ | caption =
+ | relief = yes }}
+|magnitude = 7.7 Richter magnitude scale|M<sub>w</sub>
+|depth = {{convert|45|km|mi|0}}
+|location = {{coord|11.742|N|87.340|W}}
+|countries affected = {{flag|Nicaragua}} 
+|casualties = at least 116 killed
+}}
+
+The '''1992 Nicaragua earthquake''' occurred off the coast of Nicaragua on September 2, 1992. Some damage was also reported in Costa Rica. At least 116 people were killed and several more were injured. The quake was located in an active zone of stress and deformation. It created tsunamis disproportionately large for its surface-wave magnitude, or M<sub>s</sub>.
+
+==Tectonics==
+The 1992 Nicaragua earthquake was the first tsunami earthquake to be captured on modern broadband seismic networks. and due to the absence of sediment on the ocean floor off Nicaragua, the slip propagated up-dip all the way to the trench bottom, a creator of large tsunamis. This occurrence of slip of a plate interface filled with soft subducted sediments caused the rupturing process to be slower than the average subduction-zone thrust earthquakes while the Hypocenter|focus of the earthquake was much shallower than the typical subduction-zone earthquake.
+
+==Damage and casualties==
+The first shock of the earthquake occurred at 0:16 GMT and was followed by several strong aftershocks. It was the strongest seismic event to hit Nicaragua since the 1972 Nicaragua earthquake|earthquake of 1972.
+
+At least 116 people were killed, most being children sleeping in their beds, At least 1,300 houses and 185 fishing boats were destroyed along the west coast of Nicaragua. Total damage in Nicaragua was estimated at between 20 and 30 million U.S. dollars.
+
+According to the Augusto César Sandino Foundation, the most affected were "inhabitants of small poor communities who live from diverse subsistence activities. Their houses, located beside the sea, were almost entirely destroyed. These people have lost their livelihoods, poor peasants who grow basic grains for their own consumption in marginal areas, and fisherpeople who have lost their fishing equipment, boats, storage sheds and warehouses. Their already extreme poverty has been exacerbated."
+
+===Tsunami===
+Most of the casualties and damage were caused by a tsunami affecting the west coasts of Nicaragua and Costa Rica, and it was one of three tsunamis to occur within a span of six months. and reached heights of up to 9.9 meters, though the average height was 3 to 8 meters. and the duration of the rupture process was 100 s, unusually long for its size. The moment magnitude scale|moment magnitude, or M<sub>w</sub>, was 7.6, larger than the 20-s M<sub>s</sub> of 7; this M<sub>s</sub>–M<sub>w</sub> difference is a characteristic of so-called tsunami earthquakes. Tide gages were set up at Corinto, Chinandega|Corinto and Puerto Sandino, which showed an impulsive tsunami originating 61 minutes after the earthquake. It ran inland 1,000 meters to Masachapa, the hardest hit major town of all, with 9 fatalities.
+
+==Relief efforts==
+From the onset of the disaster authorities provided initial assistance. President of Nicaragua|President Violeta Chamorro stated in her speech to her nation on September 2, 1992 that no international assistance was needed. However, the Red Cross did assist in some operations while the National Civil Defence carried out much of the relief operations, with wounded people being transported to the Hospital Leon and Lenin-Fonseca Hospital.
+
+== See also ==
+*List of earthquakes in Nicaragua
+
+==References==
+{{reflist}}
+
+==External links==
+*http://www.reliefweb.int/rw/rwb.nsf/db900SID/ACOS-64BHCW?OpenDocument Nicaragua Earthquake/Tsunami Sep 1992 UNDHA Situation Reports 1 – 7 — United Nations Office for the Coordination of Humanitarian Affairs|UN Department of Humanitarian Affairs
+
+{{Earthquakes in 1992}}
+
+Category:1992 earthquakes|Nicaragua
+Category:Megathrust earthquakes in Nicaragua
+Category:20th-century tsunamis

@@ -1,0 +1,403 @@
+{{Infobox election
+| election_name     = Italian presidential election, 2006
+| country           = Italy
+| flag_year         = 
+| flag_image        = 
+| type              = presidential
+| vote_type         = electoral
+| ongoing           = no
+| previous_election = Italian presidential election, 1999
+| previous_year     = 1999
+| election_date     = 2–10 May 2006
+| next_election     = Italian presidential election, 2013
+| next_year         = 2013
+| votes_for_election= 1009 voters: 315 [[Senate of the Republic (Italy)|Senators]], 5 [[Senator_for_life#Italy|Senators for life]],<br/>629 [[Chamber of Deputies (Italy)|Deputies]] and 58 regional representatives
+| needed_votes      = 672 or 505
+<!--        person 1        -->
+| image1            = [[File:Presidente Napolitano.jpg|180x180px]]
+| nominee1          = '''[[Giorgio Napolitano]]'''      
+| party1            = Democrats of the Left
+| electoral_vote1   = '''543'''
+<!--        person 2        -->
+| image2            = [[File:Umberto Bossi 1994.jpg|180x180px]]
+| nominee2          = [[Umberto Bossi]]
+| party2            = Lega Nord
+| electoral_vote2   = 42
+<!-- bottom -->
+| title             = President
+| before_election   = [[Carlo Azeglio Ciampi]]
+| before_party      = Independent (politician)
+| after_election    = [[Giorgio Napolitano]]
+| after_party       = Independent (politician)
+}}
+The [[Indirect election|indirect]] '''election of the President of the Italian Republic''' was held on May 2–10, 2006. As a second-level, indirect election, only Members of Parliament and regional deputies were entitled to vote. [[Giorgio Napolitano]] was elected [[head of state]] of the [[Italian Republic]], a role of representation of national unity and guarantee that [[Italian politics]] comply with the [[Italian Constitution|Constitution]], in the framework of a [[parliamentary system]].
+
+On May 2, 2006, the Speaker of the [[Italian Chamber of Deputies|Chamber of Deputies of Italy]] [[Fausto Bertinotti]], in agreement with [[Italian Senate|Senate]] Speaker [[Franco Marini]], convened the two houses of the [[Italian Parliament]], integrated with a number of representatives appointed by the twenty Italian regions, in a common session on May 8 in order to commence voting for the election of the new [[President of the Italian Republic]].
+
+According to the [[Constitution of Italy|Italian Constitution]], the election must be held in the form of secret ballot, with the Senators, the Deputies and 58 regional representatives allowed to cast their votes. When the 2006 election was held, the Senate counted 322 members and the Chamber of Deputies counted 629 members; the electors were in total 1009. The election is held in the ''[[Palazzo Montecitorio]]'', home of the Chamber of Deputies, with the capacity of the building being expanded for the purpose. The first three ballots require a two-thirds majority of the voters in order to elect a President, in this election equivalent to 673 votes. Starting from the fourth ballot, an absolute majority is required for candidates to be elected (in this election, 505 votes). The election is conducted by the Speaker of the Chamber of Deputies, who has the authority to proceed to the public counting of the votes. The presidential mandate lasts seven years.
+
+Outgoing President [[Carlo Azeglio Ciampi]], 85, was asked to run for another mandate by the centre-right [[House of Freedoms]], with the strong support of the centre-left [[The Union (political coalition)|Union]]. However, Ciampi declined to run again, noting that ''"none of the past nine presidents of the Republic has been re-elected. I think this has become a meaningful rule. It is better not to infringe it."'' Ciampi was elected in 1999 at the first ballot, becoming only the second president ever to win on the first ballot, after [[Francesco Cossiga]].
+
+On May 10, [[Giorgio Napolitano]], the candidate endorsed by the Union, was elected on the fourth ballot with 543 votes. His term officially started with a swearing-in ceremony held on May 15.
+
+==Ballots==
+===First ballot (May 8)===
+The Union initially proposed lifetime Senator [[Giorgio Napolitano]] as its official candidate, in an attempt to reach an agreement with the House of Freedoms, whose votes would have been necessary to have a successful election at the first ballot; however, the centre-right opposition declared it did not intend to vote for Napolitano, and instead announced its own members would vote for [[Gianni Letta]]. After this announcement, the Union declared that its members would cast a [[blank vote]] in the first ballot, in order not to waste Napolitano's candidacy, with the exception of the [[Rose in the Fist]], which would vote for either [[Adriano Sofri]] or [[Emma Bonino]]. Inside the centre-right, the [[Christian Democracy for the Autonomies]] and the [[New Italian Socialist Party]] voted for journalist [[Giuliano Ferrara]].
+
+The voting operations started at 16:00 [[Central European Summer Time|CEST]]; as no candidate obtained the 673 votes requested to win the election, a new ballot was held in the morning of May 9.
+
+====Results====
+
+{| class="wikitable" 
+|-
+!width="80%" bgcolor=lightcoral|Name
+!width="20%" bgcolor=lightcoral|Votes
+|-
+|bgcolor=whitesmoke|[[Gianni Letta]]
+|369
+|-
+|bgcolor=whitesmoke|[[Massimo D'Alema]]
+|27
+|-
+|bgcolor=whitesmoke|[[Franca Rame]]
+|24
+|-
+|bgcolor=whitesmoke|[[Adriano Sofri]]
+|23
+|-
+|bgcolor=whitesmoke|[[Siegfried Brugger]]
+|12
+|-
+|bgcolor=whitesmoke|[[Giuliano Ferrara]]
+|8
+|-
+|bgcolor=whitesmoke|[[Giorgio Napolitano]]
+|8
+|-
+|bgcolor=whitesmoke|[[Giampaolo Malavasi]]
+|6
+|-
+|bgcolor=whitesmoke|[[Gino Strada]]
+|5
+|-
+|bgcolor=whitesmoke|[[Carlo Azeglio Ciampi]]
+|4
+|-
+|bgcolor=whitesmoke|[[Giuliano Amato]]
+|3
+|-
+|bgcolor=whitesmoke|[[Umberto Bossi]]
+|3
+|-
+|bgcolor=whitesmoke|[[Cesare Previti]]
+|3
+|-
+|bgcolor=whitesmoke|[[Stefano Rodotà]]
+|3
+|-
+|bgcolor=whitesmoke|[[Giulio Andreotti]]
+|2
+|-
+|bgcolor=whitesmoke|[[Giuseppe Anzani]]
+|2
+|-
+|bgcolor=whitesmoke|[[Silvio Berlusconi]]
+|2
+|-
+|bgcolor=whitesmoke|[[Lidia Menapace]]
+|2
+|-
+|bgcolor=whitesmoke|''Other candidates''
+|22
+|-
+|bgcolor=whitesmoke|''Blank votes''
+|438
+|-
+|bgcolor=whitesmoke|''Invalid votes''
+|18
+|}
+
+Among the other votes cast, there were one vote each for Linda Giuva, wife of [[Massimo D'Alema]], singer/songwriter [[Francesco Guccini]] and controversial writer [[Oriana Fallaci]]. A vote for [[Giorgio Almirante]], historical leader of the [[Italian Social Movement]] who died in 1988, was declared invalid.
+
+===Second ballot (May 9)===
+This ballot, as well as the first, required a majority of 673 votes. After several discussions about the opportunity to vote for Giorgio Napolitano, the House of Freedoms decided to cast a blank vote too. However, the [[Union of Christian and Centre Democrats]] declared its members could vote for Napolitano in the next ballot, an opinion that was not shared within the coalition. Due to the lack of consensus and the row in the opposition, the Union members decided to continue withholding their votes for Napolitano. Rather than casting a blank vote, the centre-left party [[Popular-UDEUR]] instead decided to vote in this ballot for an own symbolic candidate, [[Giuseppe De Rita]].
+
+The voting operations started at 11:30 [[Central European Summer Time|CEST]].
+
+====Results====
+{| class="wikitable" 
+|-
+!width="80%" bgcolor=lightcoral|Name
+!width="20%" bgcolor=lightcoral|Votes
+|-
+|bgcolor=whitesmoke|[[Umberto Bossi]]
+|38
+|-
+|bgcolor=whitesmoke|[[Massimo D'Alema]]
+|35
+|-
+|bgcolor=whitesmoke|[[Giuseppe De Rita]]
+|19
+|-
+|bgcolor=whitesmoke|[[Giorgio Napolitano]]
+|15
+|-
+|bgcolor=whitesmoke|[[Gianni Letta]]
+|11
+|-
+|bgcolor=whitesmoke|[[Siegfried Brugger]]
+|11
+|-
+|bgcolor=whitesmoke|[[Giuliano Ferrara]]
+|9
+|-
+|bgcolor=whitesmoke|[[Renato Antonioli]]
+|7
+|-
+|bgcolor=whitesmoke|[[Angelo Sanza]]
+|6
+|-
+|bgcolor=whitesmoke|[[Francesco Cosimi Proietti]]
+|6
+|-
+|bgcolor=whitesmoke|[[Gino Strada]]
+|5
+|-
+|bgcolor=whitesmoke|[[Giuliano Amato]]
+|4
+|-
+|bgcolor=whitesmoke|[[Carlo Azeglio Ciampi]]
+|3
+|-
+|bgcolor=whitesmoke|[[Livia Menapace]]
+|3
+|-
+|bgcolor=whitesmoke|[[Luigi Pallaro]]
+|3
+|-
+|bgcolor=whitesmoke|[[Antonio Ambra]]
+|3
+|-
+|bgcolor=whitesmoke|[[Franco Marini]]
+|3
+|-
+|bgcolor=whitesmoke|[[Massimo D'Alema|Linda Giuva]]
+|3
+|-
+|bgcolor=whitesmoke|[[Stefano Rodotà]]
+|3
+|-
+|bgcolor=whitesmoke|[[Maria Gabriella di Savoia]]
+|3
+|-
+|bgcolor=whitesmoke|[[Bruno Vespa]]
+|3
+|-
+|bgcolor=whitesmoke|[[Franco Piperno]]
+|2
+|-
+|bgcolor=whitesmoke|[[Mauro Mellini]]
+|2
+|-
+|bgcolor=whitesmoke|''Other candidates''
+|29
+|-
+|bgcolor=whitesmoke|''Blank votes''
+|724
+|-
+|bgcolor=whitesmoke|''Invalid votes''
+|22
+|}
+
+Among the other votes, there were one vote each for rock musician [[Vasco Rossi]] and [[Luciano Moggi]], general manager of the football team [[Juventus F.C.]].
+
+===Third ballot (May 9)===
+
+After the second ballot, Silvio Berlusconi declared his coalition would never vote for either Giorgio Napolitano or any other candidate associated with the Democrats of the Left, and would continue casting blank votes for both the third and probably also the fourth ballot. However, [[Pier Ferdinando Casini]], leader of the Union of Christian and Centre Democrats, an ally of Berlusconi in the House of Freedoms, declared that his party considered it "a mistake not to vote for Giorgio Napolitano as President of the Republic" and expressed a wish for a large consensus among the political forces on Napolitano's name. On the other hand, the Union declared its members would again cast a blank vote in this ballot, but would vote for Napolitano in the fourth ballot, to be held on May 10, for which a plain majority of votes would be required for a successful election.
+
+The voting operations started at 17:00 [[Central European Summer Time|CEST]].
+
+====Results====
+{| class="wikitable" 
+|-
+!width="80%" bgcolor=lightcoral|Name
+!width="20%" bgcolor=lightcoral|Votes
+|-
+|bgcolor=whitesmoke|[[Massimo D'Alema]]
+|31
+|-
+|bgcolor=whitesmoke|[[Giorgio Napolitano]]
+|16
+|-
+|bgcolor=whitesmoke|[[Gianni Letta]]
+|10
+|-
+|bgcolor=whitesmoke|[[Giuliano Ferrara]]
+|10
+|-
+|bgcolor=whitesmoke|[[Gino Strada]]
+|6
+|-
+|bgcolor=whitesmoke|[[Marco Cavallaro]]
+|5
+|-
+|bgcolor=whitesmoke|[[Marco Matteucci]]
+|4
+|-
+|bgcolor=whitesmoke|[[Mino Martinazzoli]]
+|4
+|-
+|bgcolor=whitesmoke|[[Massimo D'Alema|Linda Giuva]]
+|4
+|-
+|bgcolor=whitesmoke|[[Giuliano Amato]]
+|3
+|-
+|bgcolor=whitesmoke|[[Silvio Berlusconi]]
+|3
+|-
+|bgcolor=whitesmoke|[[Carlo Azeglio Ciampi]]
+|3
+|-
+|bgcolor=whitesmoke|[[Biagio Di Maria]]
+|3
+|-
+|bgcolor=whitesmoke|[[Roberto Formigoni]]
+|3
+|-
+|bgcolor=whitesmoke|[[Aurelio Garritano]]
+|3
+|-
+|bgcolor=whitesmoke|[[Lino Iannuzzi]]
+|3
+|-
+|bgcolor=whitesmoke|[[Franco Piperno]]
+|3
+|-
+|bgcolor=whitesmoke|[[Mirko Tremaglia]]
+|3
+|-
+|bgcolor=whitesmoke|[[Stefano Servadei]]
+|3
+|-
+|bgcolor=whitesmoke|[[Tullio Ancora]]
+|2
+|-
+|bgcolor=whitesmoke|[[Tina Anselmi]]
+|2
+|-
+|bgcolor=whitesmoke|[[Carlo Bertolotti]]
+|2
+|-
+|bgcolor=whitesmoke|[[Rosy Bindi]]
+|2
+|-
+|bgcolor=whitesmoke|[[Vito Gamberale]]
+|2
+|-
+|bgcolor=whitesmoke|[[Lidia Menapace]]
+|2
+|-
+|bgcolor=whitesmoke|[[Barbara Palombelli]]
+|2
+|-
+|bgcolor=whitesmoke|[[Sergio Pininfarina]]
+|2
+|-
+|bgcolor=whitesmoke|''Other candidates''
+|37
+|-
+|bgcolor=whitesmoke|''Blank votes''
+|770
+|-
+|bgcolor=whitesmoke|''Invalid votes''
+|28
+|-
+|bgcolor=whitesmoke|''Abstentions''
+|1
+|}
+
+===Fourth ballot (May 10)===
+
+The fourth ballot is the first one that requires only a simple majority for a successful election, that is, 505 votes; thus, the Union could elect its own candidate without needing to find agreement with the House of Freedoms. 
+
+The Union declared its members would vote for Giorgio Napolitano in this ballot. Instead, the House of Freedoms declared its own members would cast a blank vote; however, the decision was not taken unanimously, as the Union of Christian and Centre Democrats clearly showed its approval of Napolitano's candidacy. Former secretary of the party [[Marco Follini]] declared he would vote for Napolitano.
+
+The voting operations, started at 9:30 [[Central European Summer Time|CEST]], resulted in the election of Giorgio Napolitano as President of the Italian Republic.
+
+====Results====
+{| class="wikitable" 
+|-
+!width="80%" bgcolor=lightcoral|Name
+!width="20%" bgcolor=lightcoral|Votes
+|-
+|bgcolor=yellow|[[Giorgio Napolitano]]
+|bgcolor=yellow|'''543'''
+|-
+|bgcolor=whitesmoke|[[Umberto Bossi]]
+|42
+|-
+|bgcolor=whitesmoke|[[Massimo D'Alema]]
+|10
+|-
+|bgcolor=whitesmoke|[[Giuliano Ferrara]]
+|7
+|-
+|bgcolor=whitesmoke|[[Gianni Letta]]
+|6
+|-
+|bgcolor=whitesmoke|[[Silvio Berlusconi]]
+|5
+|-
+|bgcolor=whitesmoke|[[Roberto Dipiazza]]
+|3
+|-
+|bgcolor=whitesmoke|[[Sergio Pininfarina]]
+|3
+|-
+|bgcolor=whitesmoke|''Other candidates''
+|10
+|-
+|bgcolor=whitesmoke|''Blank votes''
+|347
+|-
+|bgcolor=whitesmoke|''Invalid votes''
+|14
+|-
+|bgcolor=whitesmoke|''Abstentions''
+|10
+|}
+
+==Proposed candidates==
+===House of Freedoms===
+*[[Gianni Letta]], former presidential undersecretary under the three governments of [[Silvio Berlusconi]];
+
+===The Union===
+*[[Giuliano Amato]], former Prime Minister of Italy (two times), now Minister of the Interior with the [[The Olive Tree (political coalition)|Olive Tree]];
+*[[Massimo D'Alema]], former Prime Minister of Italy, now President and prominent member of the [[Democrats of the Left]]. He received support from most of the coalition, including his party, [[Democracy is Freedom – The Daisy]], the [[Party of Italian Communists]] and others, but was also criticized by several parts of the opposition;
+*[[Anna Finocchiaro]], former Minister for Gender Equality, member of the Democrats of the Left and leader of the Olive Tree in the Senate;
+*[[Franco Marini]], incumbent Speaker of the Italian Senate, member of [[Democracy is Freedom – The Daisy]]. On May 4, he announced he did not intend to run for the office.
+*[[Giorgio Napolitano]], lifetime Senator, now member of the Democrats of the Left, officially endorsed by the Union on May 7;
+*[[Franca Rame]], theater actress, wife of [[Nobel Prize]] winner [[Dario Fo]], Senator of the [[Italy of Values]], proposed by party leader [[Antonio Di Pietro]].
+
+==Criticisms and reactions==
+There have been some criticisms voiced from all the political spectrum about the Presidential elections, most of it coming from the minority right-wing coalition. Since the speakers of both houses of parliament were chosen by the winning coalition, the House of Freedoms demanded an impartial candidate for the role of President. The Union stressed the fact that the Italian Constitution demands that the President be a defender of the Constitution, hinting that such a quality was scarce among the opposition members.
+
+Most of the criticism focused on how the President should have been selected. Surprisingly, given the enormous heat and animosity shown in the [[Italian general election, 2006|preceding general elections]], the two coalition leaders organized a meeting to try to come up with a candidate that was acceptable to both.  The attempts failed quickly, with the Union arguing that the House of Freedom was not interested in any candidate, and the House of Freedom arguing that the Union was not proposing any that were acceptable.
+
+[[Silvio Berlusconi]], the leader of the opposition, was the most vocal opponent of any candidate that came from the former [[Italian Communist Party]], staying true to his anti-communist stance taken in the elections. His allies, especially the [[Union of Christian and Centre Democrats]] (UDC), openly disagreed with his intransigence but vowed to stick with their ally decision. Yet when Napolitano was elected, Silvio Berlusconi gave an interview to one of his political magazines [[Panorama (Italian magazine)|Panorama]] saying that the UDC betrayed him by letting 60 of his electors cast a blank vote at the first ballot, instead of supporting the official candidate [[Gianni Letta]]. When the UDC argued that this could have meant the end of the Coalition, Silvio Berlusconi quickly changed his stance by saying, as he did many other times before, that he was "misunderstood" and that he never gave that journalist an interview.
+
+The candidacy of Massimo D'Alema was supported by his party, the [[Democrats of the Left]], and by others parties of the coalition, such as the [[Party of Italian Communists]], the [[Communist Refoundation Party]] and [[Democracy is Freedom – The Daisy]], but adversed by others, such as the [[Rose in the Fist]], arguing that his candidacy was driven by a [[particracy|particracy's]] mentality. Also, part of the left-wing coalition considered D'Alema far too willing to conduct backroom deals with the opposition. Some moderate journalists liked D'Alema because his presidency would have given [[Romano Prodi]] a stabler government, since the biggest party of the Union had not been rewarded with any institutional position.
+
+For the opposition coalition, while Silvio Berlusconi was vehemently opposed to D'Alema presidency, some of his aides, such as [[Marcello Dell'Utri]], and some aligned newspapers, such as [[Il Foglio]], campaigned for D'Alema. However, the official stance of the centre-right was that D'Alema, being an important left-wing politician and having participated in the electoral campaign, was inadequate for the role of President, a role that it is supposed to be ''super partes''.
+
+However, when the Union proposed Giorgio Napolitano, a senator for life that in recent years had not had a prominent role in politics, the House of Freedom objected that the Union should have presented a list of names. In the end, the House of Freedom chose to cast a blank vote. Some right-wing newspapers protested the communist background of the new President.
+
+==Sources==
+*{{it icon}} [http://www.camera.it/%5Fpresidenti/scrutinio_.asp Official results (from the Italian Parliament website)]
+
+{{Italian presidential elections}}
+
+{{DEFAULTSORT:Italian Presidential Election, 2006}}
+[[Category:2006 elections in Italy]]
+[[Category:Presidential elections in Italy]]

@@ -1,0 +1,94 @@
+{{Infobox earthquake
+|title = 2001 El Salvador earthquake (First)
+|date = {{Start date|2001|1|13}}
+|map2 = {{Location map | El Salvador|relief=1
+|label =
+|lat = 13.04
+|long = -88.66 | mark=Bullseye1.png
+|marksize = 30
+|position = top
+|width = 250
+|float = right
+|caption = }}
+|magnitude = 7.6 Moment magnitude scale|M<sub>w</sub> 
+|depth = {{convert|60|km|mi|0}} 
+|location = {{coord|13.04|N|88.66|W|display=inline,title}}
+|countries affected = El Salvador <br> Guatemala
+|casualties = '''El Salvador''': 944 fatalities, 5,565 injured<br>'''Guatemala''': 8 fatalities http://neic.usgs.gov/neis/eq_depot/2001/eq_010113/http://www.proteccioncivil.gob.sv/zonadescargas/Terremoto%20Enero%20de%202001%20-%20Final.pdf
+|}}
+
+The '''2001 El Salvador earthquakes''' were two earthquakes which struck El Salvador on January 13 and February 13, 2001.
+
+== The January 13 earthquake ==
+File:ElSalvadorslide.jpg|thumb|left|200px|A landslide caused by the earthquake
+
+At 17:33:34 UTC the 7.6 (later estimated to be 7.7 or 7.9) About 585 of the deaths were caused by large landslides in Santa Tecla, El Salvador|Santa Tecla  and Comasagua. As is often the case after earthquakes in El Salvador, landslides wreaked significant damage. Estimation of the number of slides is difficult because individual escarpment|scarps conjoin. The total has been reported as high as 16,000, though it is unclear how this figure was arrived at.   Damage and injuries occurred in every department of El Salvador, particularly the departments of La Libertad Department (El Salvador)|La Libertad and Usulután Department|Usulután. Eight people were killed in Guatemala. The tremor was felt from Mexico City to Colombia. An aftershock measuring 5.7 magnitude was felt on January 15, an event not widely reported outside the country until after the February quake, which initially was assessed by the USGS at 5.7 magnitude as well.
+
+As of February 2, 2001, more than 2,500 aftershocks had hit El Salvador, leading to additional damage and terrorizing the inhabitants. Clean water and sanitation became a matter of grave concern in many areas due to the earthquake's destruction of some $7 million to municipal drinking water systems, and tens of thousands of people were living outdoors in spite of the approaching rainy season (''invierno''). Government and public health organizations warned of the possible spread of disease as desperate people began to scavenge debris piles &mdash; some containing severed human limbs &mdash; looking for items they could pawnbroker|pawn to purchase needed food and other commodities.
+
+== The February 13 earthquake ==
+{{Infobox earthquake
+|title = 2001 El Salvador earthquake (Second)
+|date = {{Start date|2001|2|13}}
+|map2 = {{Location map | El Salvador|relief=1
+|label =
+|lat = 13.67
+|long = -88.93 | mark=Bullseye1.png
+|marksize = 30
+|position = top
+|width = 250
+|float = right
+|caption = }}
+|magnitude = 6.6 Moment magnitude scale|M<sub>w</sub>
+|depth = {{convert|10|km|mi|0}}
+|location = {{coord|13.67|N|88.93|W|display=inline}}
+|countries affected = El Salvador <br> Guatemala <br> Honduras
+|casualties = '''El Salvador''': 315 fatalities
+}}
+
+At 14:22:05 UTC, the 6.6 quake struck with the epicentre at 15 miles (30&nbsp;km) E of San Salvador, El Salvador (13.67N 88.93W) at the depth of 10&nbsp;km. At least 315 people were killed, 3,399 injured and extensive damage, other 16,752 homes were damaged and 44,759 destroyed.  The most severe damage occurred in the San Juan Tepezontes-San Vicente, El Salvador|San Vicente-Cojutepeque area, though the quake was felt throughout the country and in neighboring Guatemala and Honduras. Landslides occurred in many areas of El Salvador.
+
+== Earthquake mechanisms ==
+The earthquakes occurred within the Cocos-Caribbean subduction zone. El Salvador sits atop the western part of the Caribbean plate, where it is overriding (subducting) the Cocos Plate|Cocos plate. Subduction zones such as this are geologically very complex and produce numerous earthquakes from multiple sources. Shallow intraplate (crustal) earthquakes occur within the crust of the overriding Caribbean plate. Deeper intraplate earthquakes occur within the subducting Cocos plate. The earthquake sequence in the El Salvador region has involved intraplate faulting in both the Cocos and Caribbean plates, with the largest earthquake in the sequence (January 13) occurring in the lower (Cocos) plate. The February 13 earthquake was a strong, shallow intraplate earthquake, occurring within the crust of the overlying Caribbean plate. This earthquake was a strike-slip faulting earthquake, which likely occurred in response to the complicated stresses in the Caribbean plate as it overrides the Cocos plate. It was about 85&nbsp;km away from the 13 January earthquake and about 30&nbsp;km shallower.
+
+These two earthquakes occurred in two different plates. The occurrence of any large earthquake changes the stresses throughout the surrounding region. Aftershocks occur in response to these changes. Occasionally, other earthquakes will occur in response to the altered regional stresses. While not technically aftershocks, these earthquakes are related, becoming part of a regional earthquake sequence.
+
+Another example of a regional earthquake sequence is the 1992 Landers-Big Bear sequence in southern California. The magnitude 7.3 Landers earthquake was followed by the magnitude 6.4 Big Bear earthquake, which occurred on a different fault approximately 36&nbsp;km away.
+
+== Post-quake analysis ==
+In the days and weeks following the earthquakes, Salvadoran and foreign agencies analysed the factors that had facilitated the destruction the disasters had caused. While Salvadoran government representatives were quick to point out that the destruction had been far less than that of the 1986 earthquakes, outside researchers critiqued shortcomings in preparedness and in policies toward land development that had permitted massive deforestation in the Santa Tecla area. Mexican seismologists invited by the Salvadoran government summarized their observations this way: 
+{{Cquote|The construction equipment of the Ministry of Public Works was thinly stretched over hundreds of earth slumps and seemed inadequate to the task. ... The many homeless were not much in evidence; in the countryside they had been housed in temporary huts under the supervision of the armed forces, or with relatives.  No homeless people were seen in the streets of San Salvador, presumably because the middle class had sustained the brunt of the damage. There was a palpable desire in the capital to forget the earthquake drama as quickly as possible.
+
+This may be the wrong time to forget.
+...According to some press reports, the developers at Las Colinas had been authorized to proceed in spite of existing zoning regulations designed to prevent residential developments on the slopes. The location was a desirable one because the Santa Tecla area was relatively safe from guerrilla operations. After pacification the pressure from developers subsided as there seems to be plenty of available land in the valley; but there is a definite need for setting up enforceable zoning regulations in order to protect the hillsides from future deforestation and encroachment by developers. ...   
+    
+The 2001 earthquake did not approach the level of severity of some previous earthquakes, yet it wiped out the equivalent of half the annual gross national income. A small investment in preparedness would pay off handsomely.|30px|Cinna Lomnitz and Sergio Rodríguez Elizararrás}}
+
+The government's response to the earthquakes was critiqued from different sides, with some criticizing the legislature for not approving the full amount of emergency funding urged by President Flores,
+
+==See also==
+* Great San Salvador Earthquake
+* List of earthquakes in El Salvador
+
+==Notes==
+{{Reflist}}
+
+== External links ==
+*http://neic.usgs.gov/neis/eq_depot/2001/eq_010113/ First quake (USGS)
+*http://neic.usgs.gov/neis/eq_depot/2001/eq_010213/ Second quake (USGS)
+*http://www.redcross.org/general/0,1082,0_180_,00.html Images - International Services - El Salvador Earthquake, 2001, photos and information by the American Red Cross
+
+{{Earthquakes in 2001}}
+
+{{USGS}}
+
+{{DEFAULTSORT:2001 El Salvador Earthquakes}}
+Category:2001 earthquakes|El Salvador Earthquakes, 2001
+Category:Earthquakes in El Salvador
+Category:2001 in El Salvador|Earth
+Category:2001 in Guatemala
+Category:Earthquakes in Guatemala
+Category:Megathrust earthquakes
+Category:Landslides in El Salvador
+
+{{Link GA|es}}

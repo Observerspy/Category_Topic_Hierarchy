@@ -1,0 +1,48 @@
+{{Infobox earthquake
+|title = 1959 Hengchun Earthquake
+|date = {{Start-date|August 15, 1959}}
+|image =
+|map2 = {{Location map | Taiwan | relief = 1
+ | label =
+ | lat = 21.7
+ | long = 121.3
+ | mark = Bullseye1.png
+ | marksize = 40
+ | position = top
+ | width = 250
+ | float = right
+ | caption = }}
+|magnitude = 7.1 Richter magnitude scale|M<sub>L</sub>
+|depth = {{convert|20|km|mi|0}}
+|location = {{coord|21.7|N|121.3|E|display=inline,title}}
+|countries affected = Taiwan
+|tsunami = yes
+|casualties = 16 or 17 dead
+}}
+The '''1959 Hengchun earthquake''' ({{zh|t=1959年恒春地震|p=1959 nián Héngchūn dìzhèn}}) struck the southern tip of Taiwan on August 15 with a Richter magnitude scale|magnitude 7.1. It was the list of earthquakes in Taiwan|tenth deadliest earthquake in twentieth century Taiwan, killing 16 or 17 people.
+
+==Technical details==
+The earthquake occurred at 16:57 Chungyuan Standard Time|CST on Saturday August 15, 1959, with an epicentre {{convert|50|km|mi|0}} east-southeast of Oluanpi, the southern tip of the island of Taiwan. The tremor measured 7.1 on the Richter scale and had a focal depth of {{convert|20|km|mi|0}}. A tsunami 4–5 metres high resulting from the quake hit both the southeastern and southwestern coasts of Hengchun. The earthquake was felt throughout Taiwan and also in the Penghu islands off Taiwan's western coast.
+
+==Damage==
+According to Taiwan's Central Weather Bureau the casualties and damage were as follows:
+*17 dead
+*33 seriously injured
+*35 lightly injured
+*1,214 dwellings completely destroyed
+*1,375 dwellings partially destroyed
+Due to Hengchun's exposed position on the southern tip of Taiwan, residents frequently built heavy houses of stone to counter both the effects of typhoons and the seasonal northwesterly monsoon winds. These structures effectively resisted the effects of wind, but fared poorly in earthquakes, collapsing and trapping the occupants.
+
+Fortunately the timing of the quake, late afternoon, meant that many people were outdoors when it struck, lessening casualties from building collapse. The estimated cost of the damage (in 1959 New Taiwan Dollars) was NT$24,111,920 for private housing, and NT$6,127,000 for damaged or collapsed school buildings, giving a total of just over NT$30m.
+
+==See also==
+*2006 Hengchun earthquake
+
+==References==
+{{reflist}}
+
+{{taiwan earthquakes}}
+
+Category:Megathrust earthquakes in Taiwan
+Category:1959 in Taiwan|Hengchun Earthquake, 1959
+Category:1959 earthquakes|Hengchun

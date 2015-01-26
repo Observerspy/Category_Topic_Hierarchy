@@ -1,0 +1,41 @@
+Image:Global Earthquake Model Logo.png|thumb|Logo of the public-private initiative Global Earthquake Model (GEM)
+
+The '''Global Earthquake Model (GEM)''' is a public-private partnership initiated in 2006 by the Global Science Forum of the OECD to develop global, open-source risk assessment software and tools. With committed backing from academia, governments and industry, GEM contributes to achieving profound, lasting reductions in earthquake risk worldwide by following the priorities of the Hyogo Framework for Action. From 2009 to 2013 GEM is constructing its first working global earthquake model and will provide an authoritative standard for calculating and communicating earthquake risk worldwide.  
+
+Since March 2009, GEM is a legal entity in the form of a non-profit foundation based in Pavia, Italy. The GEM Secretariat is hosted at the European Centre for Training and Research in Earthquake Engineering (EUCENTRE). The current Secretary General is Anselm Smolka.
+
+== Mission ==
+
+Between 2000 and 2010 over half a million people died due to earthquakes and tsunamis, most of these in the developing world, where risks increase due to rapid population growth and urbanization. However in many earthquake-prone regions no risk models exist, and even where models do exist, they are inaccessible. Better risk-awareness can reduce the toll that earthquakes take by leading to better construction, improved emergency response, and greater access to insurance.
+
+GEM will provide a basis for comparing earthquake risks across regions and across borders, and thereby take the necessary first step towards increased awareness and actions that reduce earthquake risk. GEM tools will be usable at the community, national and international level for uniform earthquake risk-evaluation and as a defensible basis for risk-mitigation plans. GEM results will be disseminated all over the world. GEM will build technical capacity and carry out awareness-raising activities.
+
+== Scientific Framework ==
+
+The GEM scientific framework serves as the underlying basis for constructing the global earthquake model, and is organised in three principal integrated modules: Seismic hazard, Seismic risk and Socio-Economic impact.
+
+* The hazard module calculates harmonised probabilities of earthquake occurrence and resulting shaking at any given location.
+* The risk module calculates damage and direct losses resulting from this damage such as fatalities, injuries and cost of repair. Damage due to strong ground shaking is calculated by combining building vulnerability, population vulnerability and exposure. GEM will furthermore develop remote-sensing and crowd-data collection techniques to classify, monitor and regularly update building inventory and thus regional vulnerability.
+* The socio-economic impact module of GEM will provide tools and indices to both estimate and communicate the impact from earthquakes on the economy and society, concentrating in particular on indirect losses. For example the impact on a company's revenue, on budgets, on poverty. The module will allow for calculations of scenarios which that enable cost/benefit analysis of mitigating actions, such as systematic building strengthening, and facilitate insurance and alternative risk transfer.
+
+Image:Scientific Framework.png|center|Scientific Framework GEM|500px
+
+== Implementation ==
+
+It will take five years to build the first working global earthquake model – including corresponding tools, software and datasets. The work started in 2009 and will be finished at the end of 2013. Construction occurs in various stages that are partly overlapping in time. The pilot project GEM1 (January 2009 – March 2010) generates GEM’s first products and initial model building infrastructure, Global components will establish a common set of definitions, strategies, standards, quality criteria and formats for the compilation of databases that serve as an input to the global earthquake model. They are addressed by international consortia that respond to calls for proposals on hazard, risk and socio-economic impact. Global components will provide preliminary data on a global scale, but on a local scale, regional and national programmes will provide more detailed and reliable data. Regional Programmes are projects with targeted funding taking place in various regions of the world; currently in the Middle East and Europe programmes have already started. The data produced on a regional and national scale will be carefully quality-controlled and integrated into the global models. The actual development of the model will occur using a common, web-based platform for dynamic  sharing of tools and resources, in order to create software and online tools as end-products. The global earthquake model will be tested and evaluated before its official release; the testing procedure will involve the establishment of scientific experiments that are reproducible, transparent, and set up within a controlled environment. 
+
+GEM is however more than the creation and release of this first version of the model. GEM strives for continuous improvement of the model and will ensure that results are disseminated, technology is transferred through training and workshops and that awareness raising activities are deployed in order to contribute to risk reduction worldwide.
+
+== References ==
+* http://www.nature.com/ngeo/journal/v1/n12/full/ngeo368.html “Globalizing quake information”, Nature Geoscience, December 2008
+* http://www.air-worldwide.com/NewsAndEventsItem.aspx?id=16722 "AIR Worldwide Sponsors the Global Earthquake Model (GEM) Project”
+
+== External links ==
+* http://www.globalquakemodel.org The official GEM website
+* http://www.oecd.org/document/24/0,3343,en_2649_34319_35997400_1_1_1_1,00.html GEM on the OECD website
+
+== Notes ==
+{{Reflist}}
+
+Category:Earthquakes
+Category:Risk

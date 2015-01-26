@@ -1,0 +1,36 @@
+{{Earthquake
+|title= 1941 Chungpu Earthquake
+|date= {{Start-date|December 17, 1941}}
+|image=
+|map2               = {{Location map | Taiwan|relief=1
+ | label=
+ | lat=23.4
+ | long=120.48
+ | mark=Bullseye1.png
+ | marksize=40
+ | position=top
+ | width= 250
+ | float=right
+ | caption=}} = 
+|magnitude = 7.1 Richter magnitude scale|M<sub>GR</sub>
+|depth={{convert|12|km|mi|0}}
+|location={{coord|23.40|N|120.48|E|display=inline,title}}
+|countries affected = Taiwan under Japanese rule|Taiwan, Empire of Japan
+|tsunami =
+|casualties = 358 dead<br>733 injured
+}}
+The '''1941 Chungpu earthquake''' ({{zh|t='''1941年中埔地震'''|p=1941 nián Zhōngpǔ Dìzhèn}}) was a magnitude 7.1 earthquake which occurred on December 17, 1941 and was centred on the town of Chungpu, Jiayi|Chungpu, Taiwan. It was the list of earthquakes in Taiwan|fourth-deadliest earthquake of the 20th century in Taiwan, claiming 358 lives.
+==Technical data==
+The earthquake struck at 03:19 local time on December 17, 1941. At a magnitude of 7.1 and with a focal depth of {{convert|12|km|mi|0}}, the quake was felt throughout the island. The epicentre was in Chungpu, Jiayi|Chungpu Township, Jiayi County, just southeast of Jiayi City, and was close to the location of the 1906 Meishan earthquake, which hit in the neighbouring township of Meishan Township|Meishan.
+==Damage==
+According to Taiwan's Central Weather Bureau, there were 358 people killed as a result of the quake, with a further 733 people injured. 4,520 dwellings were completely destroyed, and 11,086 were partially destroyed. The quake also triggered a landslide on Caoling Mountain ({{zh|t=草岭山|p=Cǎolǐng Shān}}) which dammed the river and created the temporary Qingshui Lake ({{zh|t=清水湖|p=Qīngshuǐ Hú}}) in the valley below. This lake has formed and drained several times over the last two hundred years in response to earthquakes and typhoons. Damage was sustained to infrastructure, with gas, electricity and transportation networks being seriously disrupted.
+==Reaction==
+Taiwan was a Japanese colony at the time of the earthquake. Coming as it did just ten days after the Japanese attack on Pearl Harbor, false rumours abounded that the earthquake was caused by retaliatory United States bombing.
+==References==
+{{reflist}}
+
+{{taiwan earthquakes}}
+
+{{DEFAULTSORT:1941 Chungpu Earthquake}}
+Category:1941 in Taiwan|Chungpu Earthquake, 1941
+Category:1941 earthquakes|Chungpu

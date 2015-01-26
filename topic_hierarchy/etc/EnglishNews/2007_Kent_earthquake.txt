@@ -1,0 +1,75 @@
+{{Earthquake
+| title      = 2007 Kent earthquake
+| date       = {{Start date|2007|4|28|df=y}}
+|map2 = {{Location map+ | United Kingdom
+|places =
+{{Location map~|United Kingdom|lat=51.081|long=1.166|label=Folkestone|mark=Green pog.svg}}
+{{Location map~|United Kingdom|lat=51.1|long=1.17|mark=Bullseye1.png|marksize=40}}
+| relief = yes
+| width = 250
+| float = right
+| caption = }}
+| image name =
+| magnitude  = 4.3 Richter magnitude scale|M<sub>L</sub> 
+| depth = {{convert|5.3|km|mi|0}}
+| location = {{coord|51.10|N|1.17|E}}
+| countries affected = Kent, England
+| intensity = 6 European Macroseismic Scale|EMS - Slightly Damaging
+| casualties = 2 (minor injury)
+}}
+
+Image:2007 Kent Earthquake Closeup.png|thumb|Landsat image of the earthquake's epicentre, based on USGS location data which was later revised.
+
+The '''2007 Kent earthquake''' registered 4.3 on the Richter magnitude scale|Richter scale and struck south east Kent, South East England on 28 April 2007 at 07:18:12 UTC (08:18:12 local time), at a shallow depth of 5.3&nbsp;km.
+
+The worst affected area was the town of Folkestone, although the towns of Deal, Kent|Deal, Dover and Ashford, Kent|Ashford were also affected. The tremors could be felt across much of Kent and south east England, including as far as East Sussex, Essex and Suffolk, as well as on the other side of the English Channel at Calais and Brussels.
+
+==Location==
+
+The British Geological Survey stated that the epicentre of the earthquake was less than 1&nbsp;km north of Folkestone at 51.10°N, 1.17°E. The United States Geological Survey indicated that the location of the earthquake was at 51.085°N, 1.009°E suggesting a position approximately 5&nbsp;km north west of Hythe, Kent|Hythe.
+
+==Impact==
+
+The earthquake's shallow depth and proximity to Folkestone resulted in structural damage in the town, and one woman suffered a minor head and neck injury. Following the earthquake, a total 474 properties were reported as damaged, with 73 properties too badly damaged for people to return to, 94 seriously damaged, and 307 suffering from minor structural damage. Harvey Grammar School situated in Cheriton Road, Folkestone was closed on 30 April due to "significant structural damage". 
+
+Several thousand homes were left without power for several hours and there were reports of a "smell of gas" in Folkestone. The Port of Dover, the channel tunnel and travel links were unaffected, although authorities asked people heading towards Dover to use the A2 road (Great Britain)|A2.
+
+EDF Energy had restored electricity supplies that had been cut by the earthquake by the same afternoon.
+
+On the same morning, a 300 metre (948&nbsp;ft) long crack appeared in a cliff at New Milton|Barton-on-Sea in Hampshire, creating fears of a landslide, although there were mixed views from authorities on whether it could be related to the earthquake.
+
+==Magnitude==
+
+The British Geological Survey gave the earthquake a reading of 4.3 on the Richter scale,
+
+It was the largest British earthquake since the 2002 Dudley earthquake The strongest recorded British earthquake was the 1931 Dogger Bank earthquake, which measured 6.1 on the Richter scale.
+
+One year later, the earthquake's strength was surpassed by that of the 2008 Lincolnshire earthquake, which was 5.2 in magnitude.
+
+Less than two years later, on 3 March 2009 at 14.35 UTC, Folkestone was shaken by a smaller magnitude 3.0 quake, located in the same area.
+
+==See also==
+*Dover Straits earthquake of 1580
+*Geology of the United Kingdom
+*List of earthquakes in the United Kingdom
+
+==References==
+{{reflist|30em}}
+
+==External links==
+{{wikinews|Earthquake strikes Kent, England}}
+*http://news.bbc.co.uk/1/hi/england/6602677.stm Earthquake shakes parts of Kent - BBC News
+*http://www.earthquakes.bgs.ac.uk/earthquakes/reports/folkestone/folkestone_28_april_2007.htm BGS report of the earthquake
+
+{{coord|51.10|N|1.17|E|display=title}}
+
+{{Earthquakes in 2007}}
+{{Folkestone}}
+
+{{DEFAULTSORT:2007 Kent Earthquake}}
+Category:2007 earthquakes|Kent
+Category:2007 in England|Kent earthquake
+Category:Earthquakes in the United Kingdom|2007 Kent
+Category:Disasters in Kent
+Category:Shepway|Kent earthquake
+Category:Folkestone

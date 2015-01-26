@@ -1,0 +1,54 @@
+{{Earthquake
+|title= 1935 Hsinchu-Taichung Earthquake
+|date= {{Start-date|April 21, 1935}}
+|image= 1935 Taiwan earthquake.jpg
+|map2               = {{Location map | Taiwan|relief=1
+ | label=
+ | lat=24.30
+ | long=120.75
+ | mark=Bullseye1.png
+ | marksize=40
+ | position=top
+ | width= 250
+ | float=right
+ | caption=}} = 
+|magnitude = 7.1 Richter magnitude scale|M<sub>GR</sub>
+|depth={{convert|3|km|mi|0|bbr=on}}
+|location={{coord|24.30|N|120.75|E|display=inline,title}} <br> Sanyi, Miaoli|Sanyi, Miaoli County, Taiwan
+|countries affected = Taiwan <br> (Empire of Japan at that time)
+|tsunami =
+|casualties = 3,276 killed, 12,053+ injured
+}}
+File:Longtengbridge.jpg|thumb|300px|Collapsed Longteng Bridge (龙腾桥) in Sanyi, Miaoli|Sanyi, Miaoli County when Hsinchu-Taichung earthquake happened.
+The '''1935 Hsinchu-Taichung earthquake''' ({{zh|t=1935年新竹台中地震|p=1935 nián Xīnzhú-Táizhōng Dìzhèn}} ''or'' {{zh|t=1935年中部大地震|p=1935 Nián Zhōngbù Dà Dìzhèn}}; literally ''Great 1935 Central Taiwan Earthquake'') was a Richter magnitude scale|magnitude 7.1 earthquake which occurred on April 21, 1935, with its epicentre in Sanyi, Miaoli|Sanyi (三义), Miaoli County, Taiwan.  It was the List of earthquakes in Taiwan|deadliest earthquake in Taiwan's recorded history, claiming 3,276 lives and causing extensive damage. 12 seconds after the main quake, an aftershock of M<sub>L</sub> 6.0 occurred, centred on present-day Emei, Hsinchu|Emei Township, Hsinchu County.
+
+==Technical details==
+The initial shock happened at 06:02 local time on April 21, 1935.  The epicentre was in Sanyi, Miaoli, with the quake measuring 7.1 on the Richter scale. The quake was felt all over Taiwan apart from Hengchun on the southern tip of the island, as well as in Fuzhou and Xiamen, China, across the Taiwan Strait.
+
+A number of aftershocks followed the main quake, with the largest registering 6.0 with an epicentre in Emei Township, Hsinchu County.
+
+==Damage==
+The earthquake was the deadliest in Taiwan's recorded history.  The official reports cite the following figures for deaths, injuries and damage:
+*Deaths: 3,276
+*Injuries: 12,053
+*Houses destroyed: 17,907
+*Houses damaged: 36,781
+The infrastructure of the island also sustained severe damage, with transportation, communications, and water networks heavily compromised.
+
+==Reported portents==
+Residents in central Taiwan reported that several days before the earthquake there were "signs in the sky" of impending disaster, while locals from Qingshui District|Qingshui, Taichung County near the epicentre, reported water boiling in ground wells an hour before the shock.
+
+==Response==
+The great number of casualties in the earthquake prompted a review of safety standards, with the colonial Japanese government implementing building codes of a similar standard to those in force in Japan in the wake of the disaster. Locals were apparently appreciative of the efforts of Japanese policemen in recovering bodies, given local superstitions against touching the dead.
+
+==Notes==
+{{Reflist|30em}}
+
+==References==
+*{{cite book|title=台湾大地震：1935年中部大震灾纪实 (Great Taiwan Earthquake: The 1935 Central Taiwan Earthquake Disaster Report)|last1=Sen|first1=Xuanxiong|last2=Wu|first2=Ruiyun|year=1996|publisher=Yuanliu|location=Taipei, Taiwan|isbn=957-32-2793-2}}
+
+{{taiwan earthquakes}}
+
+{{DEFAULTSORT:1935 Hsinchu-Taichung Earthquake}}
+Category:1935 in Taiwan|Hsinchu-taichung Earthquake, 1935
+Category:1935 earthquakes|Hsinchu-Taichung

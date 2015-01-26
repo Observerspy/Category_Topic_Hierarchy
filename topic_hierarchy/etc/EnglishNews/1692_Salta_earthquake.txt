@@ -1,0 +1,47 @@
+{{Use dmy dates|date=January 2014}}
+{{Earthquake
+| title = 1692 Salta earthquake
+| date = {{Start date|df=yes|1692|09|13|11|00|00}}
+| map =
+|map2               = {{Location map | Argentina|relief=1
+| label             =
+| lat               = -25.2359
+| long              = -64.4759
+| mark              = Bullseye1.png
+| marksize          = 50
+| position          = top
+| width             = 250
+| float             = right
+| caption           = }}
+|caption            = Quake epicenter 
+| magnitude = 7.0 Richter magnitude scale
+| depth = {{convert|30|km|mi|sp=us}}
+| location = {{Coord|25.40|S|64.80|W|region:AR_type:event|display=inline,title}}
+| aftershocks = 
+| countries affected = {{ARG}}<br/>(Salta)
+| casualties = ~13
+}}
+
+The '''1692 Salta earthquake''' took place in the Province of Salta, in the Republic of Argentina, on Saturday, 13 September at 11:00 (UTC-3). It registered a magnitude of 7.0 on the Richter magnitude scale. The earthquake was located at a depth of {{convert|30|km}} and tremors continued to be felt until 15 September.
+
+==Damage and casualties==
+The destructive force of the 1692 Salta earthquake was measured at IX on the Mercalli intensity scale. It completely destroyed the small village of Nuestra Se?ora de Talavera|Talavera del Esteco, in the province of Salta. It caused 13 deaths and injuries as well as significant damage to the city of Salta.
+
+==Aftermath==
+File:Procesión del Milagro 2012.JPG|thumb|left|200px|Statue of the Se?or del Milagro
+File:Procesión del Milagro 2012 (2).JPG|thumb|right|300px|Statue of the Virgen del Milagro
+Salte?o tradition has it that the number of victims was not higher because the earthquake occurred during the day and that the villagers were able to take measures to prevent greater damage. It is recounted that, in the middle of the chaos of the earthquake, while the houses were shaking and roofs were falling off, that the image of the Immaculate Conception (then called the Virgen del Milagro), then located in the :es:Catedral de Salta|main cathedral, fell some three meters to the ground. Villagers, who had ran to the church to pray, saw that the image was not only undamaged from the fall, but that it had fallen at the feet of the image of Christ. The villages interpreted that the image was interceding to Christ on behalf of the village. The following day the villagers paraded the image through the streets. The Salte?os began venerating the image and praying for it to stop the earthquake. The tremors continued for two more days.
+
+On 8 October 1692 the Salta town council labelled the events of 13–15 September as miraculous. Nuestra Se?ora del Milagro was appointed "advocate" of the city and 13 September declared a national holiday. On 15 October she was recognized as Patroness and Advocate of Salta. The Fiesta del milagro is the most popular religious festival in Salta and one of the most important in Argentina.
+
+==Esteco==
+National Scientific and Technical Research Council|CONICET archaeologists and other investigators undertook excavations at the site where the city of Esteco II (officially called Nuestra Se?ora de Talavera de Madrid) was destroyed by the 1692 earthquake. The excavations were done within a {{convert|27|m2}} area. They found a wall and one of the four towers of the fort that protected the city, located in Río Piedras, in the departament of Metán Department|Metán.
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Salta earthquake, 1692}}
+Category:Earthquakes in Argentina|1692
+Category:1692 earthquakes
+Category:Salta
+Category:Geography of Salta Province

@@ -1,0 +1,422 @@
+{{Good article}}
+{{contains Chinese text}}
+{{Earthquake
+|title =<big>2008 Sichuan Earthquake</big><br/>2008 Wenchuan Earthquake
+|date = {{Start date|2008|5|12}}
+|map2               = {{Location map+ | China Sichuan
+| relief            = yes
+| label             =
+| lat               = 31.021
+| long              = 103.367
+| mark              = Bullseye1.png
+| marksize          = 40
+| position          = top
+| width             = 250
+| float             = right
+| caption           =
+| places            = {{Location map~|Sichuan|lat=31.021|long=103.367|mark=Bullseye1.png|marksize=30|position=top}}{{Location map~|Sichuan|lat=30.66|long=104.06|label=Chengdu|position=right|mark=Green pog.svg}}}}
+|magnitude = 8.0 Surface wave magnitude|M<sub>s</sub>/7.9 Moment magnitude scale|M<sub>w</sub>
+|depth= {{Convert|19|km|mi|0}}
+|duration= >2 minutes
+|location= {{Coord|31.021|N|103.367|E|display=inline|name=Sichuan earthquake}} (Yingxiu, Wenchuan County, Ngawa Prefecture, Sichuan)
+|damage = Building and infrastructure damage, landslide, formation of landslide dams
+|countries affected = {{Flagu|China}}
+|intensity = XI Mercalli intensity scale|MM/China Seismic Intensity Scale|CSIS
+|landslide = Yes
+| aftershocks=List of 2008 Sichuan earthquake aftershocks|149 to 284 major
+over 42,719 total
+|casualties =69,195 dead18,392 missing<br />
+374,643 injured<br /><small>(as of September 22, 2008 18:18 China Standard Time|CST)</small>
+}}
+
+Image:Map of epicenter of may 12 2008 earthquake in sichuan province china.gif|thumb|The United States Geological Survey|USGS provided a map of Asia in May 2008, which showed a total of 122 earthquakes occurring on the continent. The large red square near the center of the map depicts the 7.9 magnitude Chengdu quake in the Sichuan province.
+
+File:2008 Sichuan Earthquake aftershockes through May 28.pdf|page=1|thumb|Map showing the location of the 2008 Sichuan earthquake and all the aftershocks following it through May 28, 2008
+
+Image:USGS map at 30 deg N lat, 105 deg E long (2008-05-18).png|thumb|A USGS map shows that dozens of aftershocks occurred in a small region following the quake.
+
+The '''2008 Sichuan earthquake''' or the '''Great Sichuan Earthquake''', measured at 8.0 Surface wave magnitude|M<sub>s</sub>
+and 7.9 Moment magnitude scale|M<sub>w</sub>, and occurred at 02:28:01 PM China Standard Time at epicenter (06:28:01 UTC)
+on Monday, May 12 in Sichuan province, killed 69,195 people and left 18,392 missing.
+
+It is also known as the '''Wenchuan earthquake''' ({{zh|c=汶川大地震|p=Wènchuān dà dìzhèn}}), after the location of the earthquake's epicenter, Wenchuan County, Sichuan. The epicenter was {{convert|80|km|mi|0}} boxing the compass|west-northwest of Chengdu, the provincial capital, with a Hypocenter|focal depth of {{convert|19|km|0|abbr=on}}.
+The earthquake was also felt in nearby countries and as far away as both Beijing and Shanghai—{{convert|1500|km|-1|abbr=on}} and {{convert|1700|km|-1|abbr=on}} away—where office buildings swayed with the tremor. Strong aftershocks, some exceeding magnitude 6, continued to hit the area even months after the main quake, causing new casualties and damage.
+
+Official figures (as of July 21, 2008 12:00&nbsp;China Standard Time|CST) stated that 69,197 were confirmed dead, including 68,636 in Sichuan province, and 374,176 injured, with 18,222 listed as missing. The earthquake left about 4.8&nbsp;million people homeless, though the number could be as high as 11&nbsp;million.  Approximately 15 million people lived in the affected area. It was the deadliest earthquake to hit China since the 1976 Tangshan earthquake, which killed at least 240,000&nbsp;people, and the strongest in the country since the 1950 Assam - Tibet earthquake|1950 Chayu earthquake, which registered at 8.5 on the Richter magnitude scale.  It is the List of deadliest natural disasters#Earthquakes|21st deadliest earthquake of all time. On November 6, 2008, the central government announced that it would spend 1&nbsp;trillion yuan (about $146.5&nbsp;billion) over the next three years to rebuild areas ravaged by the earthquake, as part of the Chinese economic stimulus program.
+
+==Earthquake's results==
+The earthquake had a magnitude of 8.0 Surface wave magnitude|M<sub>s</sub> and 7.9&nbsp;Moment magnitude scale|M<sub>w</sub>. The epicenter was in Wenchuan County, Ngawa Tibetan and Qiang Autonomous Prefecture, 80&nbsp;km west/northwest of the provincial capital of Chengdu, with its main tremor occurring at 14:28:01.42 China Standard Time (06:28:01.42 UTC), on May 12, 2008 lasting for around 2 minutes, in the quake almost 80% of buildings were destroyed.
+
+According to a study by the China Earthquake Administration ('''CEA'''), the earthquake occurred along the Longmenshan fault, a thrust fault|thrust structure along the border of the Indo-Australian Plate and Eurasian Plate. Seismic activities concentrated on its mid-fracture (known as Yingxiu-Beichuan fracture). The rupture lasted close to 120 sec, with the majority of energy released in the first 80 sec. Starting from Wenchuan, the rupture propagated at an average speed of 3.1&nbsp;kilometers per second 49° toward north east, rupturing a total of about 300&nbsp;km. Maximum displacement amounted to 9&nbsp;meters. The focus was deeper than 10&nbsp;km.
+
+In a United States Geological Survey ('''USGS''') study, preliminary rupture models of the earthquake indicated displacement of up to 9 meters along a fault approximately 240&nbsp;km long by 20&nbsp;km deep.
+The earthquake generated deformations of the surface greater than 3 meters
+and increased the stress (and probability of occurrence of future events) at the northeastern and southwestern ends of the fault.
+
+Japanese seismologist Yuji Yagi at the University of Tsukuba said that the earthquake occurred in two stages: "The 155-mile Longmenshan Fault tore in two sections, the first one ripping about seven yards, followed by a second one that sheared four yards." His data also showed that the earthquake lasted about two minutes and released 30 times the energy of the Great Hanshin earthquake of 1995 in Japan, which killed over 6,000&nbsp;people. He pointed out that the shallowness of the epicenter and the density of population greatly increased the severity of the earthquake. Teruyuki Kato, a seismologist at the University of Tokyo, said that the seismic waves of the quake traveled a long distance without losing their power because of the firmness of the terrain in central China.<!-- Is this particularly noteworthy? Also, this feels like news-reporting, which we are not. -- Taku
+ This is the only info regarding the time length of the EQ. I rewrote it, but we should find a more technical cite. -- IP guy-->.
+According to reports from Chengdu, the capital of Sichuan province, the earthquake tremors lasted for "about two or three minutes".
+
+===Extent of tremors===
+Places ordered by distance from epicenter (or time of propagation) :
+* {{Flagu|China}} (Mainland): All Administrative divisions of the People's Republic of China#Province level|provincial-level divisions except Xinjiang, Jilin and Heilongjiang were physically affected by the quake.
+* {{Flagu|Hong Kong}}: Tremors were felt approximately three minutes after the quake, continuing for about half a minute. This was also the most distant earthquake known ever to be felt in Hong Kong. The intensity reached MM III in Hong Kong.
+* {{Flagu|Macau}}: Tremors were felt approximately three minutes after the quake.
+* {{Flagu|Vietnam}}: Tremors were felt approximately five minutes after the earthquake in Northern parts of Vietnam. The intensity was MM III in Hanoi.
+* {{Flagu|Thailand}}: In parts of Thailand tremors were felt six minutes after the quake. Office buildings in Bangkok swayed for the next several minutes.
+<!--Earthquake tremors are non-political, use "Taiwan", not "Republic of China", and not all of these are countries anyway. Then why did you use the ROC flag? -->
+* {{Flagu|Taiwan}}: It took about eight minutes for the quake to reach Taiwan, where the tremors continued for one to two minutes; no damage or injuries were reported. The intensity was MM III in Taipei.
+*{{Flagu|Mongolia}}: Tremors were felt approximately eight minutes after the earthquake in parts of Mongolia.
+* {{Flagu|Bangladesh}}: Tremors were felt eight and a half minutes after the quake in all parts of Bangladesh.
+* {{Flagu|Nepal}}: Tremors were felt approximately eight and a half minutes after the quake.
+* {{Flagu|India}}: Tremors were felt approximately nine minutes after the earthquake in parts of India.
+* {{Flagu|Pakistan}}: In parts of Northern Areas|Northern Pakistan tremors were felt ten minutes after the quake.
+* {{Flagu|Russia}}: Tremors were felt in Tuva, no casualties reported.
+
+===Aftershocks===
+{{Main|List of 2008 Sichuan earthquake aftershocks}}
+File:Chengdu on May 12 night.jpg|thumb|On the night of May 12, residents of Chengdu worried about potential aftershocks gathered in the street to avoid staying in buildings.
+
+Between 64 and 104 major aftershocks, ranging in magnitude from 4.0 to 6.1, were recorded within 72 hours of the main quake. According to Chinese official counts, "by 12:00 CST, November 6, 2008 there had been 42,719 total aftershocks, of which 246 ranged from 4.0 M<sub>S</sub> to 4.9 M<sub>S</sub>, 34 from 5.0 M<sub>S</sub> to 5.9 M<sub>S</sub>, and 8 from 6.0 M<sub>s</sub> to 6.4 M<sub>S</sub>; the strongest aftershock measured 6.4 M<sub>S</sub>." The latest aftershock exceeding M6 occurred on August 5, 2008.
+
+(The M<sub>s</sub>&nbsp;6.1 earthquake on August 30, 2008 in southern Sichuan was not part of this series because it was caused by a different fault (geology)|fault. See 2008 Panzhihua earthquake for details.)
+
+===Intensities and damage area===
+The map of Seismic scale#Seismic intensity scales|earthquake intensity published by CEA after surveying 500,000&nbsp;km<sup>2</sup> of the affected area shows a maximum ''liedu'' of XI on the China Seismic Intensity Scale (CSIS), described as "very destructive" on the European Macroseismic Scale (EMS) from which CSIS drew reference.
+(USGS, using the Modified Mercalli intensity scale (CC), also placed maximum intensity at XI, "very disastrous".)  Two south-west-north-east stripes of liedu XI are centered around Yingxiu, Wenchuan (the town closest to the epicenter of the main quake) and Beichuan Qiang Autonomous County|Beichuan (the town repeatedly struck by strong aftershocks including one registering M<sub>S</sub> 6.1 on Aug 1, 2008), both in Sichuan Province, occupying a total of 2,419&nbsp;km<sup>2</sup>. The Yingxiu liedu-XI zone is about 66&nbsp;km long and 20&nbsp;km wide along Wenchuan–Dujiangyan City|Dujiangyan–Pengzhou; the Beichuan liedu-XI zone is about 82&nbsp;km long and 15&nbsp;km wide along An County–Beichuan–Pingwu County|Pingwu. The area with liedu X (comparable to X on EMS, "destructive" and X on MM, "disastrous") spans 3,144&nbsp;km<sup>2</sup>. The area affected by earthquakes exceeding liedu VI totals 440,442&nbsp;km<sup>2</sup>, occupying an oval 936&nbsp;km long and 596&nbsp;km wide, spanning three provinces and one autonomous region.
+
+===Tectonics===
+The extent of the earthquake and after shock-affected areas lies north-east, along the Longmen Shan fault.
+
+The Longmen Shan Fault System is situated in the eastern border of the Tibetan Plateau and contains several faults. This earthquake ruptured at least two imbricate structures in Longmen Shan Fault System, i.e. the Beichuan Fault and the Guanxian–Anxian Fault. In the epicentral area, the average slip in Beichuan Fault was about {{convert|3.5|m}} vertical, {{convert|3.5|m}} horizontal-parallel to the fault, and {{convert|4.8|m}} horizontal-perpendicular to the fault. In the area about {{convert|30|km}} northeast of the epicenter, the surface slip on Beichuan Fault was almost purely dextral strike-slip up to about {{convert|3|m}}, while the average slip in Guanxian–Anxian Fault was about {{convert|2|m}} vertical and {{convert|2.3|m}} horizontal.
+
+According to CEA:
+
+<blockquote>"The energy source of the Wenchuan earthquake and Longmenshan's southeast push came from the strike of the Indo-Australian Plate|Indian Plate onto the Eurasian Plate and its northward push. The inter-plate relative motion caused large scale structural deformation inside the Asian continent, resulting in a thinning crust of the Qinghai-Tibet Plateau, the uplift of its landscape and an eastward extrude. Near the Sichuan Basin, Qinghai-Tibet Plateau's east-northward movement meets with strong resistance from the South China Block, causing a high degree of stress accumulation in the Longmenshan thrust formation. This finally caused a sudden dislocation in the Yingxiu-Beichuan fracture, leading to the violent earthquake of M<sub>s</sub>&nbsp;8.0."
+
+</blockquote>
+
+{{Listen |filename=20080512_44_ChinaQuake.ogg |title=Dr. Harley Benz, US Geological Survey |description= |format=Ogg}}
+
+According to the United States Geological Survey:
+
+<blockquote>The earthquake occurred as the result of motion on a northeast striking reverse fault or thrust fault on the northwestern margin of the Sichuan Basin. The earthquake’s epicenter and focal mechanism|focal-mechanism are consistent with it having occurred as the result of movement on the Longmenshan fault or a tectonically related fault. The earthquake reflects tectonic stresses resulting from the convergence of crustal material slowly moving from the high Tibetan Plateau, to the west, against strong crust underlying the Sichuan Basin and southeastern China.</blockquote>
+
+<blockquote>On a continental scale, the seismicity of central and eastern Asia is a result of northward convergence of the Indian Plate against the Eurasian Plate with a velocity of about 50&nbsp;mm/y. The convergence of the two plates is broadly accommodated by the uplift of the Asian highlands and by the motion of crustal material to the east away from the uplifted Tibetan Plateau. The northwestern margin of the Sichuan Basin has previously experienced destructive earthquakes. The magnitude 7.5 earthquake of August 25, 1933 killed more than 9,300&nbsp;people.</blockquote>
+
+According to the British Geological Survey:
+
+<blockquote>The earthquake occurred 92&nbsp;km northwest of the city of Chengdu in eastern Sichuan province and over 1500&nbsp;km from Beijing, where it was also strongly felt. Earthquakes of this size have the potential to cause extensive damage and loss of life.
+
+The epicenter was in the mountains of the Eastern Margin of Qing-Tibet Plateau at the northwest margin of the Sichuan Basin. The earthquake occurred as a result of motion on a northeast striking thrust fault that runs along the margin of the basin.
+
+The seismicity of central and eastern Asia is caused by the northward movement of the India plate at a rate of 5&nbsp;cm/year and its collision with Eurasia, resulting in the uplift of the Himalaya and Tibetan plateaux and associated earthquake activity. This deformation also results in the extrusion of crustal material from the high Tibetan Plateaux in the west towards the Sichuan Basin and southeastern China. China frequently suffers large and deadly earthquakes. In August 1933, the magnitude 7.5 1933 Diexi earthquake|Diexi earthquake, about 90&nbsp;km northeast of today's earthquake, destroyed the town of Diexi, Mao County|Diexi and surrounding villages, and caused many landslides, some of which dammed the rivers.</blockquote>
+
+==Immediate aftermath==
+Image:May12 2008 Sichuan, China earthquake shake map.jpg|thumb|right|USGS shake map
+Image:Sichuan earthquake jundao.JPG|thumb|left|The outside of a warehouse in disarray following the earthquake.
+
+Office buildings in Shanghai's financial district, including the Jin Mao Tower and the Hong Kong New World Tower, were evacuated. A receptionist at the Tibet Hotel in Chengdu said things were "calm" after the hotel evacuated its guests. Meanwhile, workers at a Ford Motor Company|Ford plant in Sichuan were evacuated for about 10 minutes. Chengdu Shuangliu International Airport was shut down, and the control tower and regional radar control evacuated. One SilkAir flight was diverted and landed in Kunming as a result. Cathay Pacific delayed both legs of its quadruple daily Hong Kong to London route due to this disruption in air traffic services. Chengdu Shuangliu Airport reopened later on the evening of May 12, offering limited service as the airport began to be used as a staging area for relief operations.
+
+Reporters in Chengdu said they saw cracks on walls of some residential buildings in the downtown areas, but no building collapsed. Meanwhile, a cargo train carrying 13 petrol tanks derailed in Hui County, Gansu, and caught on fire after the rail was distorted.
+
+File:Miaoziping Bridge damaged in 2008 earthquake.jpg|thumb|The Miaoziping Bridge of Dujiangyan –Wenchuan Expressway was damaged in the earthquake.
+All of the highways into Wenchuan, and others throughout the province, were damaged, resulting in delayed arrival of the rescue troops. In Beichuan Qiang Autonomous County|Beichuan County, 80% of the buildings collapsed according to Xinhua News. In the city of Shifang, the collapse of two chemical plants led to leakage of some 80&nbsp;tons of liquid ammonia, with hundreds of people reported buried. In the Dujiangyan City|city of Dujiangyan, south-east of the epicenter, a whole school collapsed with 900 students buried and fewer than 60 survived. The Juyuan Middle School, where many teenagers were buried, was excavated by civilians and cranes. Dujiangyan is home of the Dujiangyan Irrigation System, an ancient water diversion project which is still in use and is a UNESCO World Heritage Site. The project's famous Fish Mouth was cracked but not severely damaged otherwise.
+
+Image:ADBC Branch in BeiChuan after earthquake.jpg|thumb|right|A bank building in Beichuan after the earthquake. A girl was found alive in the ruins 102 hours (4 days, 6 hours) after the earthquake.
+
+Both the Shanghai Stock Exchange and the Shenzhen Stock Exchange suspended trading of companies based in southwestern China. Copper rose over speculations that production in southwestern China may be affected, and oil prices dropped over speculations that demand from China would fall.
+
+Immediately after the earthquake event, mobile and terrestrial telecommunications were cut to the affected and surrounding area, with all internet capabilities cut to the Sichuan area too. Elements of telecommunications were restored by the government piece by piece over the next number of months as the situation in the Sichuan province gradually improved. Eventually, a handful of major news and media websites were made accessible online in the region, albeit with dramatically pared back webpages.
+
+China Mobile had more than 2,300 base stations suspended due to power disruption or severe telecommunication traffic congestion. Half of the wireless communications were lost in the Sichuan province. China Unicom's service in Wenchuan and four nearby counties was cut off, with more than 700 towers suspended.
+
+Image:Sichuan earthquake wenchuan.JPG|thumb|left|A single door frame bearing a portrait of Mao Zedong|Chairman Mao remained standing in a pile of debris.
+Initially, officials were unable to contact the Wolong National Nature Reserve, home to around 280 giant pandas. However, the Foreign Ministry of the People's Republic of China|Foreign Ministry later said that a group of 31 British tourists visiting the Wolong Panda Reserve in the quake-hit area returned safe and uninjured to Chengdu. Nonetheless, the well-being of an even greater number of pandas in the neighbouring panda reserves remained unknown. Five security guards at the reserve were killed by the earthquake. Six pandas escaped after their enclosures were damaged. By May 20, two pandas at the reserve were found to be injured, while the search continued for another two adult pandas that went missing after the quake. By May 28, 2008, one panda was still missing. The missing panda was later found dead under the rubble of an enclosure. Nine-year-old Mao Mao, a mother of five at the breeding center, was discovered on Monday, her body crushed by a wall in her enclosure. Panda keepers and other workers placed her remains in a small wooden crate and buried her outside the breeding centre.
+
+The Zipingpu Dam|Zipingpu Hydropower Plant ({{zh|s=:zh:紫坪铺水利枢纽|紫坪铺水库|t=:zh:紫坪铺水利枢纽|紫坪铺水库}}) located 20&nbsp;km east of the epicenter was damaged. A recent inspection indicated that the damage was less severe than initially feared, and it remains structurally stable and safe.  The Tulong reservoir upstream is in danger of collapse. About 2,000 troops have been allocated to Zipingpu, trying to release the pressure through spillway. In total, 391 dams, most of them small, were reported damaged by the quake.
+
+==Casualties==
+{| class="wikitable" style="margin:0 0 1em 1em; float:right; font-size:85%;"
+|-
+!colspan="2"| Provinces of the People's Republic of China|Province
+!Deaths
+|-
+|rowspan="20"| Sichuan || Mianyang || {{formatnum:21963}}
+|-
+| Ngawa Tibetan and Qiang Autonomous Prefecture|Ngawa || {{formatnum:20258}}
+|-
+| Deyang || {{formatnum:17121}}
+|-
+| Guangyuan || {{formatnum:4822}}
+|-
+| Chengdu || {{formatnum:4276}}
+|-
+| Nanchong ||254
+|-
+| Ya'an || 15
+|-
+| Suining || 27
+|-
+| Ziyang, Sichuan|Ziyang ||26
+|-
+| Meishan || 20
+|-
+| Bazhong || 10
+|-
+| Garzê Tibetan Autonomous Prefecture|Garzê || 9
+|-
+| Leshan || 8
+|-
+| Neijiang || 7
+|-
+| Dazhou, Sichuan|Dazhou || 4
+|-
+| Liangshan Yi Autonomous Prefecture|Liangshan || 3
+|-
+| Zigong || 2
+|-
+| Luzhou || 1
+|-
+| Guang'an || 1
+|-
+|'''Total''' || '''{{formatnum:68636}}'''
+|-
+|colspan="2"| Gansu || 365
+|-
+|colspan="2"| Shaanxi || 122
+|-
+|colspan="2"| Chongqing || 18
+|-
+|colspan="2"| Henan || 2
+|-
+|colspan="2"| Guizhou || 1
+|-
+|colspan="2"| Hubei || 1
+|-
+|colspan="2"| Hunan || 1
+|-
+|colspan="2"| Yunnan || 1
+|-
+|colspan="2"| '''Total''' || '''{{formatnum:69180}}'''
+|}
+According to Chinese state officials, the quake caused 69,180 known deaths including 68,636 in Sichuan province; 18,498 people are listed as missing, and 374,176 injured, but these figures may further increase as more reports come in.  This estimate includes 158 earthquake relief workers who were killed in landslides as they tried to repair roads.
+
+One rescue team reported only 2,300 survivors from the town of Yingxiu in Wenchuan County, out of a total population of about 9,000. 3,000 to 5,000&nbsp;people were killed in Beichuan County, Sichuan alone; in the same location, 10,000 people were injured and 80% of the buildings were destroyed. The old county seat of Beichuan was abandoned and preserved as part of the Beichuan Earthquake Museum. Eight schools were toppled in Dujiangyan City|Dujiangyan.
+A 56-year-old was killed in Dujiangyan City|Dujiangyan during a rescue attempt on the Lingyanshan Ropeway, where due to the earthquake 11 tourists from Taiwan had been trapped inside cable cars since May 13.
+
+Experts point out that the earthquake hit an area that has been largely neglected and untouched by Chinese economic reform|China's economic rise. Health care is poor in inland areas such as Sichuan, highlighting the widening gap between prosperous urban dwellers and struggling rural people. The Vice Minister of Health also suggested that the government would pick up the costs of care to earthquake victims, many of whom have little or no insurance: "The government should be responsible for providing medical treatment to them," he said.
+
+In terms of school casualties, thousands of school children died due to shoddy construction. In Mianyang City, seven schools collapsed, burying at least 1,700 people. At least 7,000 school buildings throughout the province collapsed. Another 700 students were buried in a school in Hanwang. At least 600 students and staff died at Juyuan Elementary School. Up to 1,300 children and teachers died at Beichuan Middle School.
+
+Details of school casualties had been under non-governmental investigation since December 2008 by volunteers including artist and architect Ai Weiwei, who had been constantly posting updates on his blog since March 2009. The official tally of students killed in the earthquake was not released until May 7, 2009, almost a year after the earthquake. According to the state-run Xinhua news agency, the earthquake killed 5,335 students and left another 546 children disabled. In the aftermath of the earthquake, the Chinese government declared that parents who had lost their only children would get free treatment from fertility clinics to reverse vasectomies and tubal ligations conducted by family planning authorities.
+
+===Property damage===
+The earthquake left at least 5&nbsp;million people without housing, although the number could be as high as 11&nbsp;million. Millions of livestock and a significant amount of agriculture were also destroyed, including 12.5&nbsp;million animals, mainly birds. In the Sichuan province a million pigs died out of 60 million total. Catastrophe modeling firm AIR Worldwide reported official estimates of insurers' losses at US$1 1,000,000,000 (number)|billion from the earthquake; estimated total damages exceed US$20&nbsp;billion. It values Chengdu, at the time having an urban population of 4.5&nbsp;million people, at around US$115&nbsp;1,000,000,000 (number)|billion, with only a small portion covered by insurance.
+
+Image:Collapsed Building in Dujiangyan - 2008 Sichuan earthquake.jpg|thumb|left|Rain was among the many problems affecting the area in the aftermath of the earthquake. Here, a group of onlookers examine a collapsed building in the rain.
+Reginald DesRoches, a professor of civil and environmental engineering at Georgia Tech, pointed out that the massive damage of properties and houses in the earthquake area was because China did not create an adequate seismic design code until after the devastating 1976 Tangshan earthquake. DesRoches said: "If the buildings were older and built prior to that 1976 earthquake, chances are they weren't built for adequate earthquake forces."
+
+In the days following the disaster, an international reconnaissance team of engineers was dispatched to the region to make a detailed preliminary survey of damaged buildings. Their findings show a variety of reasons why many constructions failed to withstand the earthquake.
+
+News reports indicate that the poorer, rural villages were hardest hit. Swaminathan Krishnan, assistant professor of civil engineering and geophysics at the California Institute of Technology said: "the earthquake occurred in the rural part of China. Presumably, many of the buildings were just ''built;'' they were not designed, so to speak." Swaminathan Krishnan further added: "There are very strong building codes in China, which take care of earthquake issues and seismic design issues. But many of these buildings presumably were quite old and probably were not built with any regulations overseeing them."
+
+Even with the five largest cities in Sichuan suffering only minor damage from the quake, some estimates of the economic loss run higher than US$75&nbsp;billion, making the earthquake one of the costliest natural disasters in History of China|Chinese history.
+
+===Later casualties===
+Strong aftershocks List of 2008 Sichuan earthquake aftershocks|continued to strike even months after the main quake. On May 25, an aftershock of 6.0&nbsp;Moment magnitude scale|M<sub>w</sub> (6.4&nbsp;M<sub>s</sub> according to CEA) hit northeast of the original earthquake's epicenter, in Qingchuan County, Sichuan, causing eight deaths, 1000 injuries, and destroying thousands of buildings.
+On May 27, two aftershocks, one 5.2&nbsp;Moment magnitude scale|M<sub>w</sub> in Qingchuan County and one 5.7&nbsp;Moment magnitude scale|M<sub>w</sub> in Ningqiang County, Shaanxi, led to the collapse of more than 420,000 homes and injured 63 people.
+The same area suffered two more aftershocks of 5.6 and 6.0&nbsp;M<sub>s</sub> (5.8 and 5.5&nbsp;M<sub>w</sub>, respectively, according to USGS) on July 23, resulting in 1 death, 6 serious injuries, collapse of hundreds of homes and damaging kilometers of highways.
+Pingwu County and Beichuan County, Sichuan, also northeast of Wenchuan and close to the epicenter of a 1976 Songpan-Pingwu earthquake|7.2&nbsp;M<sub>s</sub> earthquake in 1976, suffered a 6.1&nbsp;M<sub>s</sub> aftershock (5.7&nbsp;M<sub>w</sub> according to USGS) on August 1; it caused 2 deaths, 345 injuries, collapse of 707 homes, damages to over 1,000 homes, and blocked {{Convert|25|km|mi|0}} of country roads.
+As late as August 5, yet another aftershock of 6.1&nbsp;M<sub>s</sub> (6.2&nbsp;M<sub>w</sub> according to USGS) hit Qingchuan, Sichuan, causing 1 death, 32 injuries, telecommunication interruptions, and widespread hill slides blocking roads in the area including a national highway.
+
+====Government data====
+Executive vice governor Wei Hong confirmed on November 21, 2008 that more than 90,000 people in total were dead or missing in the earthquake. He stated that 200,000 homes had been rebuilt, and 685,000 were under reconstruction, but 1.94&nbsp;million households were still without permanent shelter. 1,300 schools had been reconstructed, with initial relocation of 25 townships, including Beichuan and Wenchuan, two of the most devastated areas. The government spent $441&nbsp;billion on relief and reconstruction efforts.
+
+==Rescue efforts==
+<!-- ===============================================
+ PLEASE DO ''not'' ADD ANYMORE IMAGES TO
+ THIS SECTION – ESPECIALLY ONES
+ IRRELEVANT TO RESCUE EFFORTS IN THE REGION
+ ===============================================-->
+Image:R0013449.JPG|left|thumb|Persistent rain, as well as rock slides and a layer of mud coating on the main roads, such as the one above, hindered rescue officials' efforts to enter the target region.
+
+General Secretary of the Communist Party of China|General Secretary and President of the People's Republic of China|President Hu Jintao announced that the disaster response would be rapid. Just 90&nbsp;minutes after the earthquake, Premier of the People's Republic of China|Premier Wen Jiabao, who has an academic background in geomechanics, flew to the earthquake area to oversee the rescue work. Soon afterward, the Ministry of Health of the People's Republic of China|Ministry of Health said that it had sent ten emergency medical teams to Wenchuan County. On the same day, the Chengdu Military Region Command dispatched 50,000 troops and armed police to help with disaster relief work in Wenchuan County. However, due to the rough terrain and close proximity of the quake's epicenter, the soldiers found it very difficult to get help to the rural regions of the province.
+
+The National Disaster Relief Commission initiated a "Level II emergency contingency plan", which covers the most serious class of natural disasters. The plan rose to Level I at 22:15 CST, May 12.
+
+An earthquake emergency relief team of 184&nbsp;people (consisting of 12&nbsp;people from the State Seismological Bureau, 150 from the Beijing Military Area Command, and 22 from the Armed Police General Hospital) left Beijing from Nanyuan Airport late May 12 in two military transport planes to travel to Wenchuan County.
+
+Many rescue teams, including that of the Taipei Fire Department from Taiwan, were reported ready to join the rescue effort in Sichuan as early as Wednesday. However, the Red Cross Society of China said that (on May 13) "it was inconvenient currently due to the traffic problem to the hardest hit areas closest to the epicenter." The Red Cross Society of China also stated that the disaster areas need tents, medical supplies, drinking water and food; however it recommended donating cash instead of other items, as it had not been possible to reach roads that were completely damaged or places that were blocked off by landslides. Landslides continuously threatened the progress of a search and rescue group of 80 men, each carrying about 40&nbsp;kg of relief supplies, from a motorized infantry brigade under commander Yang Wenyao, as they tried to reach the ethnically Tibetan village of Sier at a height of 4000&nbsp;m above sea level in Pingwu county. The extreme terrain conditions precluded the use of helicopter evacuation, and over 300 of the Tibetan villagers were stranded in their demolished village for five days without food and water before the rescue group finally arrived to help the injured and stranded villagers down the mountain.
+
+Image:Smashed Car in Dujiangyan - 2008 Sichuan earthquake (1).jpg|thumb|Falling debris, such as the object that landed on this vehicle, hindered rescue workers' progress as they attempted to cross the mountain.
+Persistent heavy rain and landslides in Wenchuan County and the nearby area badly affected rescue efforts. At the start of rescue operations on May 12, 20 helicopters were deployed for the delivery of food, water, and emergency aid, and also the evacuation of the injured and reconnaissance of quake-stricken areas. By 17:37 CST on May 13, a total of over 15,600 troops and militia reservists from the Chengdu Military Region had joined the rescue force in the heavily affected areas. A commander reported from Yingxiu Town, Wenchuan, that around 3,000 survivors were found, while the status of the other inhabitants (around 9,000) remained unclear. The 1,300 rescuers reached the epicenter, and 300 pioneer troops reached the seat of Wenchuan at about 23:30 CST. By 12:17 CST, May 14, 2008, communication in the seat of Wenchuan was partly revived. On the afternoon of May 14, 15 Special Operations Troops, along with relief supplies and communications gear, parachuted into inaccessible Mao County, northeast of Wenchuan.
+
+Image:Sichuan earthquake save..JPG|left|thumb|This elderly woman was rescued and placed on a stretcher after being trapped for over 50 hours.
+By May 15, Premier Wen Jiabao ordered the deployment of an additional 90 helicopters, of which 60 were to be provided by the People's Liberation Army Air Force|PLAAF, and 30 were to be provided by the civil aviation|civil aviation industry, bringing the total of number of aircraft deployed in relief operations by the air force, army, and civil aviation to over 150, resulting in the largest non-combat airlifting operation in People's Liberation Army history.
+
+Beijing accepted the aid of the Tzu Chi Foundation from Taiwan late on May 13. Tzu Chi was the first force from outside the People's Republic of China to join the rescue effort. China stated it would gratefully accept international help to cope with the quake.
+
+A direct chartered cargo flight was made by China Airlines from Taiwan Taoyuan International Airport to Chengdu Shuangliu International Airport sending some 100&nbsp;tons of relief supplies donated by the Tzu Chi Foundation and the Red Cross Society of Taiwan to the affected areas. Approval from mainland Chinese authorities was sought, and the chartered flight departed Taipei at 17:00 CST, May 15 and arrived in Chengdu by 20:30 CST. A rescue team from the Red Cross in Taiwan was also scheduled to depart Taipei on a Mandarin Airlines direct chartered flight to Chengdu at 15:00 CST on May 16.
+
+Francis Marcus of the International Federation of the Red Cross praised the Chinese rescue effort as "swift and very efficient" in Beijing on Tuesday. But he added the scale of the disaster was such that "we can't expect that the government can do everything and handle every aspect of the needs".
+
+On May 16, rescue groups from South Korea, Japan, Singapore, Russia and Taiwan arrived to join the rescue effort. The United States shared some of its satellite imagery|satellite images of the quake-stricken areas with Chinese authorities. During the weekend, the US sent into China two U.S. Air Force C-17 Globemaster III|C-17's carrying supplies, which included tents and generators. Xinhua reported 135,000 Chinese troops and medics were involved in the rescue effort across 58 counties and cities.
+
+The Internet was extensively used for passing information to aid rescue and recovery efforts. For example, the official news agency Xinhua set up an online rescue request center in order to find the blind spots of disaster recovery. After knowing that rescue helicopters had trouble landing into the epicenter area in Wenchuan, a student proposed a landing spot online and it was chosen as the first touchdown place for the helicopters{{Failed verification|date=March 2010}}. Volunteers also set up several websites to help store contact information for victims and evacuees. On May 31, a rescue helicopter carrying earthquake survivors and crew members crashed in fog and turbulence in Wenchuan county. No-one survived.
+
+Rescue efforts performed by the Chinese government were praised by western media, especially in comparison with Cyclone Nargis#Military junta's blockade of aid|Myanmar's blockage of foreign aid during Cyclone Nargis, as well as China's previous performance during the 1976 Tangshan earthquake. China's openness during the media coverage of the Sichuan earthquake led a professor at the Peking University to say, “This is the first time that the Chinese media has lived up to international standards”. ''Los Angeles Times'' praised China's media coverage of the quake of being "democratic".
+
+Rescue efforts also came from Jet Li's One Foundation which saw the martial arts actor Wu Jing (actor)|Wu Jing assisting in the efforts.
+
+===The "quake lakes"===
+As a result of the magnitude 7.9 earthquake and the many strong aftershocks, many rivers became blocked by large landslides, which resulted in the formation of "quake lakes" behind the blockages; these massive amounts of water were pooling up at a very high rate behind the natural landslide dams and it was feared that the blockages would eventually crumble under the weight of the ever-increasing water mass, potentially endangering the lives of millions of people living downstream. As of May 27, 2008, 34&nbsp;lakes had formed due to earthquake debris blocking and damming rivers, and it was estimated that 28 of them were still of potential danger to the local people. Entire villages had to be evacuated because of the resultant flooding.
+
+The most precarious of these quake-lakes was Tangjiashan Lake|the one located in the extremely difficult terrain at Mount Tangjia in Beichuan County, Sichuan, accessible only by foot or air; an Mil Mi-26|Mi-26T heavy lift helicopter belonging to the China Flying Dragon Aviation|China Flying Dragon Special Aviation Company was used to bring heavy earthmoving tractors to the affected location. This operation was coupled with the work done by People's Liberation Army Air Force|PLAAF Mil Mi-17|Mi-17 helicopters bringing in People's Liberation Army|PLA engineering corps, explosive specialists and other personnel to join 1,200&nbsp;soldiers who arrived on site by foot. Five tons of fuel to operate the machinery was airlifted to the site, where a sluice was constructed to allow the safe discharge of the bottlenecked water. Downstream, more than 200,000&nbsp;people were evacuated from Mianyang by June 1 in anticipation of the dam bursting.
+
+==Domestic reactions==
+Image:National mourning for 2008 Sichuan earthquake victims - Tiananmen Square, Beijing, 2008-05-19 (Cropped).jpg|thumb|On May 19, 2008, people mourned for the earthquake victims at Tiananmen Square, Beijing, with the flag at half-staff|half mast throughout the mourning period.
+File:Donation box for earthquake victims, A-ma Temple, Macao May, 2008.JPG|thumb|Donation box for Sichuan earthquake victims, A-Ma Temple, Macao, May 2008.
+The State Council of the People's Republic of China|State Council declared a three-day period of national mourning for the quake victims starting from May 19, 2008; the PRC's National Flag and Regional Flags of Hong Kong SAR and Macau SAR were raised at half mast. It is the first time that a national mourning period had been declared for something other than the death of a state leader, and many have called it the biggest display of mourning since the death of Mao Zedong. At 14:28 CST on May 19, 2008, a week after the earthquake, the Chinese public held a moment of silence. People stood silent for three minutes while air defense, police and fire sirens, and the horns of vehicles, vessels and trains sounded. Cars and trucks on Beijing's roads also came to a halt. People spontaneously burst into cheering "Zhongguo jiayou!" (Let's go, China!) and "Sichuan jiayou" (Let's go, Sichuan!) afterwards.
+
+The Ningbo Organizing Committee of the 2008 Summer Olympics torch relay|Beijing Olympic torch relay announced that the relay would be suspended for the duration of the mourning period.
+
+Many websites converted their front page to black and white; Sina.com and Sohu, major internet portals, limited their homepages to news items and removed all advertisements. Chinese video sharing websites Youku and Tudou displayed a black background and placed multiple videos showing earthquake footage and news reports. The Chinese version of MSN, cn.msn.com, also displayed banner ads about the earthquake and the relief efforts. Other entertainment websites, including various gaming sites, had shut down altogether, or had corresponding links to earthquake donations. After the moments of silence, in Tiananmen Square, crowds spontaneously burst out cheering various slogans, including "Long Live China". Casinos in Macau closed down, and servers for online computer games (such as ''World of Warcraft'') were shut down.
+
+All Mainland Chinese television stations (along with some stations in Hong Kong and expatriate communities) cancelled all regularly-scheduled programming, displayed their logo in grayscale, and replaced their cancelled programmes with live earthquake footage from CCTV-1 for multiple days after the quake. Even pay television channels (such as Channel V) had their programmes suspended.
+
+The Sichuan earthquake also proved to be a rather sensitive issue in terms of Chinese nationalism|Chinese nationalistic fervor.{{citation needed|date=April 2013}}
+
+On the evening of May 18, CCTV-1 hosted a special four-hour program called ''The Giving of Love'' ({{zh|s=爱的奉献|t=爱的奉献}}), hosted by regulars from the CCTV New Year's Gala and continual coverage anchor Bai Yansong, and attended by a wide range of entertainment, literary, business and political figures from mainland China, Hong Kong, Singapore and Taiwan. Donations of the evening totalled 1.5&nbsp;billion Chinese Yuan (US$208&nbsp;million). Of the donations, CCTV gave the biggest corporate contribution at Y50&nbsp;million.  Almost at the same time in Taiwan, a similarly themed programme was on air hosted by the sitting president Ma Ying-jeou.
+On May 24, Hong Kong actor Jackie Chan, who donated $1.57&nbsp;million to the victims, announced that he wished to produce a film about the earthquake.
+
+Artistes 512 Fund Raising Campaign was held on June 1 in Hong Kong.
+
+==Collapse of schoolhouses==
+File:SichuanEarthquake1.theora.ogv|thumb|Since earthquake in 2008, some parents go help school by preparing and cooking lunch for students.
+{{Main|Sichuan schools corruption scandal}}
+Image:Sichuanearthquake Jiangyou pic9.jpg|left|thumb|This kindergarten was among the many schools in the disaster region that suffered heavy structural damage.
+Although the Chinese government was initially praised</sup> for its response to the quake (especially in comparison to Cyclone Nargis#Military junta's blockade of aid|Myanmar's ruling military junta's blockade of aid during Cyclone Nargis), it then saw an erosion in confidence over the school construction scandal.
+
+The central government estimates that over 7,000 Earthquake engineering|inadequately engineered schoolrooms collapsed in the earthquake. Chinese citizens have since invented a catch phrase: "tofu-dregs schoolhouses" ({{zh|c=豆腐渣校舍 |links=no}}), to mock both the quality and the quantity of these inferior constructions that killed so many school children. Due to the one-child policy, many families lost their only child when schools in the region collapsed during the earthquake. Consequently, Sichuan provincial and local officials have lifted the restriction for families whose only child was either killed or severely injured in the disaster.
+
+On May 29, 2008, government officials began inspecting the ruins of thousands of schools that collapsed, searching for clues about why they crumbled. In the aftermath of the quake, many local governments promised to formally investigate the school collapses, but as of July 17, 2008 across Sichuan, parents of children lost in collapsed schools complained they had yet to receive any reports. Local officials urged them not to protest but the parents demonstrated and demanded an investigation. Furthermore, censors discouraged stories of poorly built schools from being published in the media and there was an incident where police drove the protestors away.
+
+In the China Digital Times an article reports a close analysis by an alleged Chinese construction engineer known online as “Book Blade” ({{lang|zh-hans|书剑子}}), who stated:
+
+<blockquote>"...because of our nation’s particular brand of education, our children are fed 20 years of Marxist philosophy with Chinese characteristics—a philosophy that has nothing to say about saving lives...School construction is the worst. First, there’s not enough capital. Schools in poor areas have small budgets and, unlike schools in the cities, they can’t collect huge fees, so they’re pressed for money. With construction, add in exploitation by government officials, education officials, school managers, etc. and you can imagine what’s left over for the actual building of schools. When earthquake prevention standards are raised, government departments, major businesses, etc. will all appraise and reinforce their buildings. But these schools with their 70s-era buildings, no-one pays attention to them. Because of this, the older school buildings are suffer from inadequate protection while the new buildings have been shoddily constructed."</blockquote>
+
+On Children's Day, June 1, 2008, many parents went to the rubble of schools to mourn for their children. The surviving children, who were mostly living in relief centres, performed ceremonies marking the special day, but also acknowledging the earthquake.
+
+Ye Zhiping, the principal of Sangzao Middle School in Sangzao, one of the largest in An County, has been credited with proactive action that spared the lives of all 2,323 pupils in attendance when the earthquake happened.  During a three-year period that ended in 2007, he oversaw a major overhaul of his school. During that time he obtained more than 400,000 yuan (US$60,000) from the County (People's Republic of China)|county education department, money used to widen and strengthen concrete pillars and the balcony railing of all four storeys of his school, as well as secure its concrete floors.
+
+The Associated Press|AP reported that "The state-controlled media has largely ignored the issue, apparently under the propaganda bureau's instructions. Parents and volunteers who have questioned authorities have been detained and threatened."
+
+However, Reuters reported in June that, to date, Chinese prosecutors have joined an official inquiry into ten collapsed schools during May's devastating earthquake to gain first-hand material of construction quality at the collapsed schools, launch preliminary inquiries and prepare for possible investigations into professional crime.  It was also reported that safety checks were to be carried out at schools across China after last month's earthquake.
+
+The ''New York Times'' reported that "government officials in Beijing and Sichuan have said they are investigating the collapses. In an acknowledgment of the weakness of building codes in the countryside, the National Development and Reform Commission said on May 27 that it had drafted an amendment to improve construction standards for primary and middle schools in rural areas. Experts are reviewing the draft, the commission said." To limit protests, officials pushed parents to sign a document, which forbade them from holding protests, in exchange of money, but some who refused to sign were threatened. The payment amounts varied from school to school but were approximately the same. In Hanwang, parents were offered a package valued at 8,800 USD in cash and a per-parent pension of nearly 5,600 USD. Furthermore, officials used other methods of silencing: riot police officers broke up protests by parents; the authorities set up cordons around the schools; and officials ordered the Chinese news media to stop reporting on school collapses.
+
+Besides parents, Liu Shaokun ({{lang|zh-hans|刘绍坤}}), a Sichuan school teacher, was detained on June 25, 2008 for "disseminating rumors and destroying social order" about the Sichuan Earthquake. Liu’s family was later told that he was being investigated on suspicion of the crime of inciting subversion. Liu had travelled to the Shifang, taken photos of collapsed school buildings, and put them online. He had also expressed his anger at “the shoddy tofu-dregs buildings” ({{lang|zh-hans|豆腐渣工程}}) in a media interview. He was ordered to serve one year of re-education through labor (RTL). According to the organization Human Rights in China, Liu has been released to serve his RTL sentence outside of the labor camp.
+
+On May 15, 2008 Geoffery York of the Globeandmail.com reported that the shoddily constructed buildings are commonly called "tofu buildings" because builders cut corners by replacing steel rods with thin iron wires for concrete re-inforcement; using inferior grade cement, if any at all; and using fewer bricks than they should. One local was quoted in the article as saying that "the supervising agencies did not check to see if it met the national standards."
+
+In January 2010, Hong Kong-based English newspaper ''The Standard (Hong Kong)|The Standard'' reported that writer Tan Zuoren attempted to document shoddy construction that may have led to massive casualties in schools, was sentenced to in prison ostensibly for his writing an article in 2007 in support of the Tiananmen protests of 1989|pro-democracy movement in 1989.
+
+==Foreign and domestic aid==
+{{Main|Reactions to the 2008 Sichuan earthquake}}
+
+Because of the magnitude of the quake, and the media attention on China, foreign nations and organizations immediately responded to the disaster by offering condolences and assistance. On May 14, UNICEF reported that China formally requested the support of the international community to respond to the needs of affected families.
+
+===Mainland China===
+By May 14, the Ministry of Civil Affairs stated that 10.7&nbsp;billion yuan (approximately US$1.5&nbsp;billion) had been donated by the Chinese public. Houston Rockets center (basketball)|center Yao Ming, one of the country's most popular sports icons, gave $214,000 and $71,000 to the Red Cross Society of China. The association has also collected a total of $26&nbsp;million in donations so far. Other multinational firms located in China have also announced large amounts of donations.
+
+The Red Cross Society of China flew 557 tents and 2,500 quilts valued at 788,000 Renminbi|yuan (US$113,000) to Wenchuan County. The Amity Foundation already began relief work in the region and has earmarked US$143,000 for disaster relief.
+
+Central State-owned enterprises have accumulatively donated more than $48.6 million. China National Petroleum Corp and Sinopec donated 10 million yuan each to the disaster area.
+
+Following the earthquake, donations were made by people from all over mainland China, with booths set up in schools, at banks, and around gas stations. People also donated blood, resulting in according to Xinhua long line-ups in most major Chinese cities. Many donated through text messaging on mobile phones to accounts set up by China Unicom and China Mobile By May 16, the Chinese government had allocated a total of $772&nbsp;million for earthquake relief so far, up sharply from $159&nbsp;million from May 14.
+
+On May 16 China stated it had also received $457&nbsp;million in donated money and goods for rescue efforts so far, including $83&nbsp;million from 19&nbsp;countries and four international organizations.
+
+==First anniversary==
+On May 12, 2009, China marked the first anniversary of the quake with a moment of silence as people across the nation remembered the dead. The government also opened access to the sealed ruins of the Beichuan county seat for three days, after which it will be frozen in time as a state earthquake relic museum, to remind people of the terrible disaster. There were also several concerts across the country to raise money for the survivors of the quake.
+
+However questions still remain, as some of the corrupt government officials have still not been brought to justice, while the many families who lost their only child, are still seeking compensation and justice to what had happened. According to the Times, many parents were warned by the government not to stage a protest under the threat of arrest.
+
+==Completion of works==
+In 2008, State Council established a counterpart support plan (《汶川地震灾后恢复重建对口支援方案》). The plan is to arrange 19 eastern and central province and municipalitie to help 18 counties, on "one province to one affected county" basis. The plan spanned 3 years, and cost no less than one percent of the province or municipality's budget.
+
+In 2012, vice governor Wei Hong announced that the restoration and reconstruction are completed:
+
+<blockquote>Wei said that 99.5 percent of the budget, or 865.8 billion yuan (137.5 billion U.S. dollars), has been invested in post-quake reconstruction efforts, and 99 percent of 29,692 related projects have been completed. . . . Local governments have successfully helped more than 12 million people in rural and urban areas repair their houses, and have relocated 200,000 farmers who lost their farmlands, the vice governor added.</blockquote>
+
+==Jianchuan Mirror Museum & Wenchuan Earthquake Memorial==
+
+Located at the ancient town of Anren in Dayi County, Sichuan Province. Built and Designed by Atelier Li Xinggang It is one of the single buildings among the non-governmentally funded Jianchuan museum cluster. The museum was originally designed to collect and exhibit mirrors from the Cultural Revolution of China. After the Wenchuan Earthquake, it was redesigned into a composite museum in which Wenchuan Earthquake relics and the relevant artworks are exhibited in the form of a “Shocking Diary”.
+
+==Predictions, precursors, and postmortems==
+{{See also|Earthquake prediction}}
+
+The earthquake was the worst to strike the Sichuan district in over 30 years. In 2002, Chinese geologist Chen Xuezhong published a ''Seismic Risk Analysis'' study in which he came to the conclusion that beginning with 2003, attention should be paid to the possibility of an earthquake of M ≥ 7.0 occurring in Sichuan Province based on statistical correlation study.  Several other warnings were also published, though not as specific.
+
+In a press conference held by the State Council Information Office the day after the earthquake,
+geologist Zhang Xiaodong, deputy director of CEA's Seismic Monitoring Network Center, restated that earthquake prediction was a "world problem", and that no prediction notification was received before the earthquake.
+
+Seismologist Gary Gibson from the ES&S Seismology Research Centre in Melbourne, Australia told Deutsche Presse-Agentur that "I had nothing unusual at all that you would regard as precursory."
+
+The earthquake also provided opportunities for researchers to retrofit data in order to model future earthquake predictions. Using data from the Intermagnet Lanzhou (LZH)geomagnetic observatory, geologists Lazo Pekevski from University Saints Cyril and Methodius in Skopje, Macedonia and Strachimir Cht. Mavrodiev from the Bulgarian Academy of Science showed the possibility to predict the time of the 2008 Sichuan earthquake ±1 day.
+
+An article in ''Science (journal)|Science'' suggested that the construction and filling of the Zipingpu Dam may have triggered the earthquake. The chief engineer of the Sichuan Geology and Mineral Bureau said that the sudden shift of a huge quantity of water into the region could have relaxed the tension between the two sides of the fault, allowing them to move apart, and could have increased the direct pressure on it, causing a violent rupture. The effect was "25 times more" than a year's worth of natural stress from tectonic movement. The government had disregarded warnings about so many large-scale dam projects in a seismically active area. Researchers have been denied access to seismological and geological data to examine the cause of the quake further.
+
+Some scientists have linked the earthquake to the pressure exerted by the Three Gorges Dam, although this is disputed.
+
+===The controversial role of Geng Qingguo===
+Shortly after the earthquake, claims and debates about pre-existing short-term predictions started to surface in blogs worldwide, although most have subsequently been removed from sites in mainland China.
+
+*Sina.com posted on May 13, 2008, claiming that during a meeting on April 26, 2008, Chinese geologist Geng Qingguo ({{zh|c=耿庆国 |links=no}}), who was also said to have predicted the 1976 Tangshan earthquake,
+The story could be found on some mainstream websites as late as September 2008.
+
+*During an interview shown on Hong Kong-based Phoenix Television, Geng Qingguo told a reporter that he had written a confidential letter to the Chinese premier Wen Jiabao, detailing his prediction of the approaching Sichuan earthquake, and the letter was sent by personal courier to the State Council of the People's Republic of China|State Council, to Wen Jiabao#Response to Earthquake|Wen's office.
+
+*''Yazhou Zhoukan'' reporter Jiang Xun ({{zh|c=江迅 |links=no}}) published a featured article, detailing the interview with former researcher at the China Seismological Bureau, Institute of Geophysics, natural disaster prediction expert Geng Qingguo, in which Geng claimed that a confidential written report was sent to the State Seismological Bureau on April 30, 2008.
+On the morning of May 15, a YZZK reporter telephoned the China Earthquake Administration's Chen Jianmin ({{zh|c=陈建民 |links=no}}), requesting the Office of the Secretary and asking for information regarding the alleged letter from Geng Qingguo. The China Earthquake Administration did not give a clear response, according to reports.
+
+==Internet video==
+*http://chinadigitaltimes.net/2008/12/china-quake-victims-parents-sue/ CNN video on Youtube:Parents seething over the earthquake-triggered collapse of school buildings that killed their children are starting to take action
+*http://75.119.209.87/player.swf?videoname=sichuan-quake.flv Tofu Buildings - Hong Kong Now TV with English subtitle
+
+==See also==
+{{Portal|China|Disasters}}
+* List of deadly earthquakes since 1900
+* List of earthquakes in China
+* List of earthquakes in Sichuan
+* List of natural disasters by death toll
+* Lists of earthquakes
+* Natural disasters in China
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{Sister project links|2008 Sichuan earthquake}}
+*http://quake.mit.edu/~changli/wenchuan.html MIT Report: Earthquake near Wenchuan, West Sichuan, China
+*http://www.wenchuan.co.uk/ Web site about the people and the reconstruction since the 2008 Wenchuan earthquake in China
+*http://earthobservatory.nasa.gov/Newsroom/NewImages/images.php3?img_id=18034&rc=3 Lake Formation in the Aftermath of Magnitude 7.9 Earthquake (images included)
+*http://earthquake.usgs.gov/earthquakes/eqinthenews/2008/us2008ryan/#details Earthquake Details and Facts
+*http://www.china-quake.com/ Sichuan Earthquake Pictures Archive
+*http://news.bbc.co.uk/2/hi/in_depth/7397838.stm Compilation of BBC Videos Related to the Earthquake
+*http://www.cnn.com/2008/WORLD/asiapcf/05/16/earthquake.video/index.html CNN – Chinese Earthquake Entire Video Archive
+*http://www.videoproject.com/chinaquake.html "China Quake" documentary produced by Natural History New Zealand
+{{Earthquakes in 2008}}
+{{2008 Sichuan earthquake}}
+{{Earthquakes in China}}
+{{Use mdy dates|date=June 2011}}
+
+{{DEFAULTSORT:2008 Sichuan Earthquake}}
+Category:2008 Sichuan earthquake| 
+Category:2008 in China|Sichuan earthquake
+Category:Earthquakes in China
+Category:History of Sichuan|Earthquakes
+Category:Landslides in China
+
+{{Link GA|zh}}

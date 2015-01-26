@@ -1,0 +1,60 @@
+{{Earthquake
+|title= 1751 Concepción earthquake
+|map= Le Chili Divise en ses Treize Iurisdictions.jpg
+|date= {{Start date|1751|5|24|df=y}}
+|epicenter location= Not established
+|magnitude=8.5
+|location={{coord|36.8|S|73|W|type:event|display=inline,title}}
+|countries affected=Captaincy General of Chile|Kingdom of Chile
+|casualties= ~65 killed
+}}
+
+The '''1751 Concepción earthquake''' was one of the strongest and most destructive recorded quakes in Chilean history. It struck the Chilean Central Valley|Central Valley of the country, destroying the cities of Concepción, Chile|Concepción, Chillán, Cauquenes, Curicó and Talca, probably on May 24, 1751, although there is currently a debate among scholars as to the exact date of the earthquake (see also "#Other dates|Other dates").
+
+==Background==
+
+The city of Concepción, Chile|Concepción had already been hit by several earthquakes. On this occasion the city was still in the process of recovering from 1730 Valparaiso earthquake|the earthquake and tsunami that completely destroyed the city in 1730. Hours before the earthquake, on the night of May 23, there were several tremors. This had caused some Concepción residents, accustomed to earthquakes, to prepare for the worst.
+
+==Development==
+
+The disaster was composed of two parts: the earthquake itself, and a series of tsunamis some 10 to 40 minutes later.
+
+=== Earthquake ===
+
+The earthquake began around one o'clock in the morning. According to one chronicle of a resident of Valparaíso and another of a resident of Concepción, the quake lasted about six minutes, although in Valparaíso there was no major damage recorded. During the earthquake and the subsequent tsunami, all of the buildings in the city of Concepción were destroyed. The records indicate that the earthquake was so intense that "the residents could not remain standing."
+
+The earthquake was felt in the rest of the Chilean Central Valley, but with less intensity. One of the most affected cities near Concepción was Chillán, where the entire city was destroyed and the river changed its course, ending up nearly 15 blocks from its original location. In Santiago, the tower of the cathedral was destroyed  by the tremor, although no other major damage was reported in the rest of the city.
+
+== Tsunami ==
+Between 1:05 and 1:45, the sea receded more than 1&nbsp;km, and then three to five tidal waves struck land. The height and force of each wave increased, and the last was the most disastrous. Swells were observed as far away as the port of El Callao in Peru.
+
+== Consequences ==
+The major consequence of the earthquake was the relocation of the city (14 years after the quake) from its original location, in part as a response by the residents to the successive destructions by the tsunamis of 1730 and 1751. The chosen location (after a long controversy between the civil authorities and the church, headed by Bishop José de Toro y Zambrano Romo) was the Valle de la Mocha, where Concepción presently lies. Despite this, the demonym<!--jargon?--> "''penquista''" (referring to the original location of the city, at Penco) was kept, and is still used today.
+
+== Aftershocks ==
+The earthquake had enough aftershocks that they destroyed any attempts at rebuilding, including the emergency shelters. One of the strongest occurred on June 26, 1751. Approximately half a month later, the aftershocks ceased.
+
+== Other dates ==
+Although the majority of sources and accounts make reference to the early morning of May 25, 1751 as the date of the earthquake, other records indicate  that it was on the night of May 24. And although the majority of historians say that the foreshocks of the earthquake occurred on the night of May 23, there exist records that indicate that they happened during the 23rd                      and 24th, with the earthquake happening on the 25th.<!--without quoting sources this is impenetrable--> 
+
+<!--== Testimonios ==
+The following is the account of a citizen of Concepción cited by Diego Barros Arana
+
+<cite>''A poco mas de la una de la ma?ana (del 25 de mayo) vino un fuerte remezón con el que todos precipitados corrimos cada uno en la forma en que se hallaba a los patios de las casas; i apénas empezábamos a pedir a Dios misericordia, cuando descargó (diez minutos despues del primero) un terrible temblor de tierra que solo de oír los bramidos que ésta daba apénas había quien no estuviera fuera de sí. Su mayor fuerza me pareció que duraría como seis minutos, en cuyo tiempo se reconocieron tres repeticiones mas fuertes, alcanzándose el uno al otro; i no quedó en este instante templo, casa grande ni peque?a que no se arrojase, pues ni aun las personas se podían mantener en pié ni huir de las casas.  El primer pensamiento de todos fue huir de la ciudad i ganar las alturas vecinas para sustraerse al peligro subsiguiente de una salida del mar que se creía inevitable; pero esta retirada presentaba las mayores dificultades. Algunas personas estaban sepultadas debajo de las ruinas, i se encontraban rodeadas por ellas los que habían escapado de aquel peligro. La oscuridad de la noche embarazaba toda dilijencia para saltar por entre los montones de escombros, o para hallar una puerta o un sendero. Todo era gritería, lamentos, confusion i desórden capaces de abatír los corazones mas enteros.''
+
+''Los temblores se repetían, entre tanto, a cada instante, aunque con menor violencia. Los mas animosos no creían llegar a ma?ana: todos discurrían lo mismo, i hubiera sucedido a no haber usado Dios aquí una de sus mayores maravillas, i fue el haber detenido las aguas del mar algo mas de media hora despues del temblor, en cuyo tiempo pudieron los mas vecinos de esta ciudad salir con grandísima dificultad de las ruinas i huir desatentados a ampararse de los montes, cuyas faldas se derrumbaban también por efecto del temblor. .. A la media hora i minutos, empezando a hervir el mar, se ausentó precipitadamente de sus riberas, dejando toda su bahía (que es de 3 leguas) en seco, pero como a los siete minutos volvió con grandísima fuerza encrespando ola sobre ola con tanta altura que, excediendo sus límites, superó i coronó toda la ciudadentrando con mas violencia que la carrera de un caballo. Retiróse con gran fuerza; i llevándose tras de sí todas las paredes aun no caidas i muebles de todas las casas, quedó esta ciudad como la plaza mas escueta. Retiróse otras veces en la forma dicha, i volvía aun con mas fuerza segunda i tercera vez a inundar toda la ciudad aun mas la tercera vez que las antecedentes— Los destemplados alaridos i lamentosa gritería de todas las personas, los aullidos de los perros, el desconcertado canto de las aves i el pavor de los animales eran los presajios del juicio universal, i mucho mas oir i ver a los que, fluctuando entre las olas i golpes del mar, iban a perecer, no habiendo podido por sus a?os, achaques o desgracias, acojerse al monte.''
+</cite>-->
+
+== See also ==
+* List of earthquakes in Chile
+
+== References ==
+
+
+{{Earthquakes in Chile}}
+
+{{DEFAULTSORT:Concepcion 1751}}
+Category:Megathrust earthquakes in Chile|1751 Concepción
+Category:18th-century Tsunamis|1751
+Category:1751 earthquakes
+Category:Concepción, Chile

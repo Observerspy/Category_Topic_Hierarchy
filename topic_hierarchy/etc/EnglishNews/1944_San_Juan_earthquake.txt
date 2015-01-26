@@ -1,0 +1,38 @@
+Image:Terremoto San Juan 001.jpg|thumb|240px|Wreckage in downtown San Juan in the wake of the 1944 quake 
+The '''1944 San Juan earthquake''' took place in the provinces of Argentina|province of San Juan Province (Argentina)|San Juan, in the Cuyo (Argentina)|center-west area of Argentina, a region highly prone to seismic events. This moderate to strong earthquake (estimated moment magnitude scale|moment magnitudes range from 6.7 to 7.8) destroyed a large part of San Juan, Argentina|San Juan, the provincial capital, and killed 10,000 of its inhabitants, 10% of its population at the time. One third of the province population became homeless. It is acknowledged as the worst natural disaster in Argentine history.
+
+The earthquake occurred at 8:52 pm on 15 January 1944 and had its epicenter located 30 km north of the provincial capital, near La Laja in Albardón Department. Some 90% of the buildings in the city were destroyed and those left standing suffered such damage that in most cases they had to be demolished. It is considered that the reason for such widespread destruction was the low quality of construction, rather than just the power of the earthquake.
+
+In 1944 many of San Juan's houses were made of adobe and the reconstruction programme prompted the creation of a building code that took into account contemporary knowledge of earthquakes and their effect on buildings. Stronger bricks were used, concrete single-story houses were erected and sidewalks and streets were made wider.
+
+==Aid and reconstruction==
+Image:Terremoto San Juan 003.jpg|thumb|240px|The injured are tended to following the collapse of the city hospital
+There was some debate as to whether it would be advisable to rebuild the city in the same place, or to take advantage of the situation to move it to a less earthquake prone location. The former alternative was adopted.
+
+At the start of the reconstruction, emergency homes were built for the population with funds from the national state. This was the first large-scale state-directed construction plan in Argentina, the first stages of which occurred under Peronism|Peronist rule. Colonel Juan Perón, later to become president, had met his wife Eva Perón|Eva Duarte (Evita), during fundraising activities to help the victims. After the Revolución Libertadora|1955 coup d'état ousted Perón, the reconstruction was continued under the ''de facto'' President Pedro Eugenio Aramburu.
+
+The earthquake caused many families to scatter in the confusion, and left around 1,000 orphaned children. According to historian Mark Healey, the issues surrounding the orphans and the nearly 100,000 homeless had a profound influence on the shaping of social legislation enacted during Perón's first term as president, two years later.
+
+==The modern city==
+As of 2006, San Juan has a population of around 400,000, and 63% of its approximately 90,000 homes, and 100% of its public institutional buildings, were built under Seismic retrofit|seismic safety regulations. This, however, leaves more than a third of houses as non-seismic-resistant.
+
+A study of the seismic vulnerability of the city, conducted by the National University of San Juan in 2005, showed that 28% of the outlying neighborhoods present medium risk, and 20% of the city itself can be classified as high or very high vulnerability.
+
+==Notes==
+{{reflist}}
+
+==References==
+* {{cite paper|author=Mark Healey|date=2002|url=http://history.berkeley.edu/faculty/Healey/fragility.pdf|format=PDF|title=The Fragility of the Moment: Politics and Class in the Aftermath of the 1944 Argentine Earthquake|publisher=International Labor and Working-Class History 62|accessdate=2006-08-07}}
+* {{es icon}} Historia del país. http://www.historiadelpais.com.ar/terremoto.htm ''El terremoto de San Juan''.
+* {{es icon}} Universia Argentina. http://www.universia.com.ar/portada/actualidad/noticia_actualidad.jsp?noticia=15921 ''San Juan: identifican la vulnerabilidad sísmica''.
+* {{es icon}} EIRD. http://www.eird.org/esp/revista/No4_2001/pagina13.htm ''Prevención Sísmica y Desarrollo Urbano''.
+* {{es icon}} Diario de Cuyo. 15 January 2004. http://www.diariodecuyo.com.ar/home/new_semana.php?topico_id=15 ''Aniversario del Terremoto del 44''.
+* {{es icon}} Página/12. 7 August 2006. http://www.pagina12.com.ar/diario/dialogos/21-71080-2006-08-07.html ''"Hubo un borramiento del pasado"'' (interview with historian Mark Healey).
+
+{{coord|31|32|03|S|68|31|34|W|type:landmark_source:USNO/HMNAO|display=title}}
+
+Category:Geography of San Juan Province, Argentina
+Category:Earthquakes in Argentina|1944
+Category:1944 earthquakes|San Juan, 1944
+Category:History of Argentina (1943–1955)
+Category:1944 in Argentina|San Juan

@@ -1,0 +1,54 @@
+{{Earthquake
+|title= 1953 Suva earthquake
+|date= {{Start-date|September 14, 1953}}
+|map2 = {{Location map | Fiji
+ | label=
+ | lat=-18.2
+ | long=178.3
+ | mark=Bullseye1.png
+ | marksize=40
+ | position=top
+ | width= 250
+ | float=right
+ | caption=}}
+|magnitude = 6.75 Surface wave magnitude|M<sub>s</sub>
+|depth= 60 km
+|location={{coord|-18.2|178.3|display=inline,title}}
+|countries affected = Fiji
+|tsunami = local
+|intensity = VII
+|casualties = 8}}
+
+The '''1953 Suva earthquake''' occurred on September 14, 1953, at 00:26 UTC near Suva, Fiji, just off the southeast shore of Viti Levu. This earthquake had a magnitude of M<sub>s</sub> 6.75. The earthquake triggered a coral reef platform collapse and a submarine landslide that caused a tsunami. Eight people were reported killed; a wharf, bridges, and buildings were severely damaged in Suva.
+
+== Tectonic setting ==
+Fiji lies in a complex tectonic setting along the boundary between the Australian Plate and the Pacific Plate. Southwards from Fiji the Pacific Plate is Subduction|subducting beneath the Australian Plate along the Tonga Trench forming the Tonga Ridge island arc system and the Lau Basin back-arc basin. To the southwest of Fiji the Australian Plate is subducting beneath the Pacific Plate forming the Vanuatu Ridge island arc system and the North Fiji back-arc basin. Hence, the region has undergone a complex process of plate convergence, subduction, and arc volcanism from the Middle Eocene to the Early Pliocene. Many of the larger islands, such as Viti Levu, are of volcanic origin. Volcanism still exists, and there are Holocene volcanos in Fiji.
+
+The Fiji Platform lies in a zone bordered with active extension fault lines around which most of the shallow earthquakes were centered. These fault lines are the Fiji Fracture Zone (FFZ) to the north, the 176° Extension Zone (176°E EZ) to the west, and the Hunter Fracture Zone (HFZ) to the east.
+
+== Earthquake ==
+The earthquake lasted between 25 and 30 seconds and had an estimated magnitude of 6.75 on the surface wave magnitude scale. The calculated focal mechanism is consistent with slightly oblique dextral (right lateral) Fault (geology)#Strike-slip faults|strike-slip on a NW-SE trending fault plane, matching the orientation of other fault planes measured in the area and a marked bathymetric lineament. The fault parameters calculated for the earthquake are a length of 30&nbsp;km, a width of 27&nbsp;km and a slip of one metre.
+
+== Tsunami ==
+The first sign of the tsunami was observed about one minute after the earthquake when a disturbance of the sea surface was noticed by the captain of the Cutter (boat)|cutter ''Adi Tirisa'' "beyond the reef some 4 to 5 miles southwest of Suva…she was badly shaken and a little later three great spouts burst out of the sea, carrying mud, stones, and part of a long-wrecked vessel…" The location of this disturbance was at the western end of the entrance to the Suva Passage.
+
+=== Origin ===
+From the type of fault displacement and the magnitude of the event it was clear that the tsunami was not caused by any displacement of the seabed associated with the earthquake. The shaking triggered collapse of part of the Coral reef#Types|barrier reef at Suva into the Suva Canyon. The current reef edge shows the effects of repeated slope failure. The characteristics of the 1953 landslide scar were investigated using a high resolution multibeam echo sounder. The area immediately offshore from the reef is a composite failure surface, within which a fresh scar was identified with a width of 800 m, defining an estimated slide volume of 60 million cubic metres. Numerical modelling of this as the likely source was able to reproduce many aspects of the observed development of the tsunami.
+
+== Damage ==
+This earthquake was the most destructive in Fiji's recorded history, killing three people<!--this doesn't agree with the intro; surely we know what the truth is now, or can explain it better--> and seriously injuring twenty others. The most serious damage occurred in the southeastern part of Viti Levu. The tsunami caused particular damage to coastal areas not protected by barrier reefs, devastating the villages of Nakasaleka and Makaluva. There were five deaths from the tsunami, three at Suva and two at Nakasaleka.
+
+The landslide that caused the tsunami generated turbidity currents that damaged several underwater cables in the Suva Canyon.
+
+== References ==
+{{reflist}}
+
+;Sources
+{{refbegin}}
+*{{citation|title=The 1953 Suva earthquake and tsunami|url=http://bssa.geoscienceworld.org/content/52/1/1.abstract|first=R. E.|last=Houtz|journal=Bulletin of the Seismological Society of America|publisher=Seismological Society of America|volume=52|issue=1|pages=1–12}}
+{{refend}}
+
+Category:1953 earthquakes
+Category:Earthquakes in Fiji
+Category:1953 in Fiji
+Category:20th-century tsunamis

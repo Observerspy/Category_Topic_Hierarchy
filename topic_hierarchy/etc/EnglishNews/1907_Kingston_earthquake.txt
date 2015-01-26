@@ -1,0 +1,58 @@
+{{Earthquake
+|title= 1907 Jamaica earthquake
+|date= {{Start-date|January 14, 1907}}
+|image = PSM V70 D390 Map of the jamaica earthquake.png
+|map2 = {{Location map | Jamaica
+ | label=
+ | lat=18.20
+ | long=-76.7
+ | mark=Bullseye1.png
+ | marksize=40
+ | position=top
+ | width= 250
+ | float=right
+ | caption=
+ | relief=yes}}
+|magnitude = 6.5 Moment magnitude scale|M<sub>w</sub>
+|depth= 
+|location={{coord|18.20|-76.7|display=inline,title}}
+|countries affected = Jamaica
+|tsunami = yes
+|casualties = 800–1,000 
+}}
+The '''1907 Kingston earthquake''' which shook the capital of the island of Jamaica with a magnitude of 6.5 on the moment magnitude scale on Monday January 14, at about 3:30&nbsp;pm local time (20:36 Coordinated universal time|UTC), was considered by many writers of that time one of the world's deadliest earthquakes recorded in history.
+
+Shortly after, a tsunami was reported on the north coast of Jamaica, with a maximum wave height of about 2 m (6–8&nbsp;ft).
+
+==Tectonic setting==
+Jamaica lies within a complex zone of faulting that forms the boundary between the Gon?ve Microplate and the Caribbean Plate. To the east of the island the main fault is the Enriquillo-Plantain Garden fault zone while to the west the main structure is the Walton fault zone, both major sinistral (left lateral) Fault (geology)#Strike-slip faults|strike-slip faults. The transfer of plate boundary displacement between these major fault zones takes place on a series of NW-SE trending faults, such as the Wagwater Belt. The overall tectonic setting is one of transpression at this restraining bend in the plate boundary.
+
+==Damage==
+File:Kingston (1907).jpg|thumb|left|230px|View of Kingston in 1907 showing damage caused by the earthquake.
+The greatest damage occurred at Kingston and at Buff Bay and Annotto Bay on the northern coast. 85% of buildings in Kingston were destroyed by the shaking, which was followed by a fire that destroyed parts of the business and warehouse districts. A suspension bridge was destroyed at Port Maria.
+
+==Characteristics==
+
+===Earthquake===
+The main shock lasted for about 35 seconds after some minor initial tremors and was accompanied by a roaring sound. The intensity of the shaking grew quickly to a first and strongest climax.  The intensity then lessened before again reaching a second weaker climax.  There were eighty aftershocks recorded up to 5 February, while the strongest of all was recorded on 23 February.
+
+The epicenter of the earthquake is not well constrained. The only seismograph in Jamaica at the time was put out of action by the earthquake. The rupture may have been on an eastward continuation of the South Coast Fault Zone, within the Wagwater Belt or in the Blue Mountains (Jamaica)|Blue Mountains.
+
+The greatest felt intensity was noted for areas built on unconsolidated sands and gravels. To the east of Kingston, along the Palisadoes, there were Sand volcano|sandblows and surface faulting associated with areas of subsidence and flooding.
+
+===Tsunami===
+After the earthquake tsunami were observed along much of the north coast of Jamaica at Hope Bay, Jamaica|Hope Bay, Port Antonio, Orange Bay, Sheerness Bay, Saint Ann's Bay, Jamaica|Saint Ann's Bay, Buff Bay, Port Maria and Annotto Bay; there were also some reports of waves along the south coast. Seiches were reported in Kingston harbour. The level of the sea at Annotto Bay was reported to have initially dropped by more than 3 metres, as the sea withdrew a distance of about 80 m, before returning at a height of about 2 metres above normal, flooding the lower parts of the town.
+
+==Aftermath==
+The ''Port Kingston'', the only passenger ship in Kingston Harbour, was used as a makeshift hospital, with improvised operating theatres in three parts of the ship and on the adjoining wharf. Kingston Public Hospital(KPH), despite loss of its water supply, continued to function throughout the following night.
+
+==References==
+{{Reflist|30em}}
+
+== External links ==
+* http://www.will-robson.com/Jamaica/1907-Kingston-Earthquake-1/n-qJZ6V/ 1907 Earthquake A pictorial guide to the 1907 Kingston earthquake.
+
+Category:Earthquakes in Jamaica|1907 Kingston earthquake
+Category:1907 earthquakes|Kingston
+Category:1907 in Jamaica
+Category:20th-century tsunamis

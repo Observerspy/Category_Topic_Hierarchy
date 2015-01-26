@@ -1,0 +1,51 @@
+{{Earthquake
+|title= 1703 Genroku earthquake
+|date= {{Start-date|December 31, 1703}}
+|map2 = {{Location map | Japan
+ | label=
+ | lat=34.7
+ | long=139.8
+ | mark=Bullseye1.png
+ | marksize=50
+ | position=top
+ | width= 250
+ | float=right
+ | caption=
+ | relief=yes}}
+|magnitude = 8.2 Surface wave magnitude|M<sub>s</sub>
+|depth=
+|location={{coord|34.7|139.8|display=inline,title|type:event_region:JP_scale:1000000}}
+|countries affected = Japan, Tokyo
+|tsunami = yes
+|casualties = 5,233 – 10,000
+}}
+The {{nihongo|'''1703 Genroku earthquake'''|元禄大地震|Genroku Daijishin}} occurred  at 02:00 local time on December 31 (17:00 December 30 Coordinated universal time|UTC). The epicenter was near Edo, the forerunner of present-day Tokyo, in the southern part of the Kantō Region, Japan. It shook Edo and an estimated 2,300 people were killed by the shaking and subsequent fires. The earthquake triggered a major tsunami which caused many casualties, giving a total death toll of at least 5,233, possibly up to 10,000. Genroku is a Japanese era name|Japanese era spanning from 1688 through 1704.
+
+==Tectonic setting==
+The Kantō Region lies at the complex triple junction, where the convergent boundary|convergent boundaries between the subduction|subducting Pacific Plate|Pacific and Philippine Sea Plates and the overriding North American Plate meet. Earthquakes with epicenters in the Kanto region may occur within the Eurasian Plate, at the Eurasian Plate/Philippine Sea Plate interface, within the Philippine Sea Plate, at the Philippine Sea Plate/Pacific Plate interface or within the Pacific Plate. In addition to this set of major plates it has been suggested that there is also a separate 25&nbsp;km thick, 100&nbsp;km wide body, a fragment of Pacific Plate lithosphere.
+
+==Earthquake==
+The earthquake was associated with areas of both uplift and subsidence. On both the Boso Peninsula and Miura Peninsula a clear paleo shoreline has been identified, indicating up to 5 m of uplift near Mera (about 8&nbsp;km south of Tateyama, Chiba|Tateyama)  and up to 1.2 m of uplift on Miura, increasing to the south. This distribution of uplift, coupled with modelling of the tsunami, indicate that at least two and probably three fault segments ruptured during the earthquake.
+
+==Tsunami==
+The tsunami had run-up heights of 5m or more over a wide area, with a maximum of 10.5 m at Wada, Chiba|Wada and 10 m at both Izu ?shima and Ainohama.
+
+==Damage==
+The area of greatest damage due to the earthquake shaking was in Kanagawa Prefecture, although Shizuoka Prefecture was also affected. The earthquake caused many large fires, particularly at Odawara, Kanagawa|Odawara, increasing both the degree of damage and the number of deaths. A total of 8,007 houses were destroyed by the shaking and a further 563 houses by the fires, causing 2,291 deaths. About 400&nbsp;km of coastline was severely affected by the tsunami, Other estimates are higher, with 10,000 in total,
+
+==References==
+{{reflist|30em}}
+* {{cite web |url=http://www.stfrancis.edu/ns/bromer/earthsci/EarthScienceMon/student5/WEBPAGE/1703.html |title=December 31, 1703 - Genroku  |accessdate=2007-12-12 |publisher=The University of St. Francis}}
+* {{cite web |url=http://www.hp1039.jishin.go.jp/eqchreng/5-2-2.htm |title=The Genroku Earthquake  |accessdate=2007-12-12 |publisher=}}
+
+==External links==
+*http://wwwsoc.nii.ac.jp/ssj/publications/HIGAI/1601-1800.html Seismological Society of Japan 番号 129
+
+{{Earthquakes in Japan}}
+
+{{DEFAULTSORT:1703 Genroku Earthquake}}
+Category:Megathrust earthquakes in Japan
+Category:Edo period
+Category:Tsunamis in Japan
+Category:1703 earthquakes|Genroku earthquake
+Category:1703 in Japan|Genroku

@@ -1,0 +1,195 @@
+{{Update|inaccurate=yes|date=October 2011}}
+{{Infobox earthquake
+|title      = 2009 Samoa earthquake
+|date       = {{Start date|df=yes|2009|9|29}}
+|origintime = 17:48 UTC
+|image      =
+|map        = 2009-09-29 Samoa Island Region earthquake location .jpg
+|magnitude  = 8.1 moment magnitude scale|M<sub>w</sub>
+|depth      = {{convert|18|km|mi}}
+|location   = {{Coord|15.509|S|172.034|W|display=inline,title}}
+|countries affected = {{SAM}}<br />{{ASM}}<br />{{TON}}<br />{{COK}}<br />{{FJI}}<br />{{PYF}}<br />{{NZL}}
+|tsunami    = Yes
+|casualties = at least 189 fatalities hundreds injured
+}}
+
+The '''2009 Samoa earthquake''' was an 8.1 moment magnitude scale|M<sub>w</sub> submarine earthquake|submarine earthquake that took place in the Samoan Islands region at 06:48:11 local time on 29 September 2009 (17:48:11 Coordinated Universal Time|UTC, 29 September). At a magnitude of 8.1, it was the List of 21st-century earthquakes#2009|largest earthquake of 2009.
+
+A tsunami was generated which caused substantial damage and loss of life in Samoa, American Samoa, and Tonga. The Pacific Tsunami Warning Center recorded a {{convert|3|in|adj=on}} rise in sea levels near the epicenter, and New Zealand scientists determined that the waves measured {{convert|14|m}} at their highest on the Samoan coast. The quake occurred on the Outer trench swell|outer rise of the Kermadec-Tonga Subduction Zone. This is part of the Pacific Ring of Fire, where Plate tectonics|tectonic plates in the Earth's lithosphere meet and earthquakes and vulcanology|volcanic activity are common.
+
+Countries affected by the tsunami in the areas that were hit are American Samoa, Samoa and Tonga (Niuatoputapu) where more than 189 people were killed, especially children, most of them in Samoa.
+Large waves with no major damage were reported on the coasts of Fiji, the northern coast of New Zealand and Rarotonga in the Cook Islands. People took precautions in the low-lying atolls of Tokelau and moved to higher ground. Niue was reported as reasonably safe because it is high. There were no reports of high waves from Vanuatu, Kiribati, New Caledonia and the Solomon Islands.
+
+==American Samoa==
+File:Crews Damage from Tsunami American Samoa.jpg|200px|thumb|left|Crews working near the damage from the tsunami in American Samoa
+The ''Los Angeles Times'', quoting a source at the National Park of American Samoa, reported that "four tsunami waves,  {{convert|15|to|20|ft|abbr=on}} high", and "reaching up to a mile (1.6&nbsp;km) inland" hit American Samoa shortly after the earthquake. Damage to the National Park of American Samoa|National Park's natural reserves and the destruction of its visitor center and main offices have been reported, while only 20% of the park's 40 to 50 employees and volunteers had been found.
+
+A beach village was reported to have been "wiped out", killing at least 14 people after the earthquake had sent residents fleeing for higher ground.
+
+Confirmed death tolls rose to 22 people, with many people still missing in the villages of Leone, American Samoa|Leone and Pago Pago.
+
+A Radio New Zealand International correspondent reported that the downtown|center of Pago Pago, the largest city in American Samoa, had sustained heavy damage in the tsunami, with its main street flooded, cars overturned, and shoreline businesses damaged. He "also witnessed looting in one of the stores".
+
+American Samoa Governor Togiola Tulafono was in Honolulu, Hawaii for an ocean policy conference at the time of the tsunami struck.{{Dead link|date=July 2010}} He told reporters that because of the tight knit communities and strong family bonds, "I don't think anybody is going to be spared this disaster."{{Dead link|date=July 2010}} Tulafono departed Hawaii for American Samoa on a United States Coast Guard supply flight from Honolulu on the evening of 29 September.
+
+Lieutenant Governor of American Samoa|Lieutenant Governor Ipulasi Aitofele Sunia announced that the earthquake had caused severe damage to American Samoa's electrical infrastructure. The Satala electrical plant may be out of service for a month or more until repairs can be made, with the American Samoa Power Authority (ASPA) stating that power will be out indefinitely. Electricity is also out on the islands of Ofu-Olosega, in the Manu'a|Manu'a Islands Group, and a government plane has been sent to assess damage on Ofu.
+
+File:FBI tsunami video - Pago Pago parking lot - end.ogv|thumb|Security camera footage of the tsunami surging through a parking lot in Pago Pago.
+The water system was also damaged in the earthquake, and the supply of fresh water to eastern parts of American Samoa has been disrupted due to broken water lines. The water division of the American Samoa Power Authority (ASPA) announced that it will bring water in tanker trucks to affected villages. Residents were warned to conserve and boil water until safe drinking water supplies can be restored, which could take some time.
+
+U.S. President Barack Obama declared a disaster area|major disaster for its dependent territory, American Samoa, allowing federal funds to be used for rescues, life support, and public health and safety measures. Among the initial U.S. government response is a Federal Emergency Management Agency (FEMA) logistics team and staff from the United States Department of Health and Human Services|Department of Health and Human Services (HHS), United States Coast Guard|Coast Guard, Federal Aviation Administration, and United States Department of Defense|Department of Defense. Also, basic needs and basic commodities, including electrical generators, medical supplies, and pharmaceutical drugs were sent out, and multiple planes are being prepared for more cargo and personnel, including FEMA, HHS, and Coast Guard staff and experts from the United States Environmental Protection Agency|Environmental Protection Agency, United States Army Corps of Engineers|U.S. Army Corps of Engineers, and American Red Cross|Red Cross.  The USS Ingraham (FFG-61) was en route to American Samoa and was the first U.S. military asset to arrive and assist in the recovery efforts.
+
+==Samoa==
+Samoa evacuated people from the entire city of Apia, the country's capital city on the island of Upolu and moving thousands of residents to higher ground.
+
+Twenty villages on Upolu south side were reportedly destroyed, including Lepa, the home of Samoa's Prime Minister with one hospital in Apia reporting it had received 79 bodies.
+A mother at the Taufua Beach Fales in Lalomanu watched her three young children swept away by the tsunami. Elsewhere there were reports of landslides near Solosolo and damage to plantations near Apia.
+
+File:Tsunami 2009 Pago Pago.jpg|thumb|left|Damage from the tsunami in American Samoa.
+A number of tourist resorts are located on Upolu's south coast. These include Coconuts Beach Resort and Sinalei Reef Resort and Spa in the village of Siumu. Both resorts published tsunami updates on their websites. The Sa'Moana Resort is in the village of Salamumu.
+
+The eastern part of the island remains without power or water supplies after the earthquake.
+
+A Red Cross worker reported to Radio New Zealand that waves {{convert|10|ft|0}} high had flattened beachside resorts on Upolu, and that residents told him the tourist zone of Lalomanu had been crushed by a wall of water about {{convert|20|–|30|ft|m|abbr=on}} high. The cliffs above Lalomanu were scoured out to a height of {{convert|10|–|15|m|ft|abbr=on}}.
+
+Power outages were reported, and phone lines were jammed. Samoan officials confirmed the runway at Faleolo International Airport on Upolu was safe by early afternoon (30 September 2009).
+
+The Prime Minister of Samoa, Tuilaepa Aiono Sailele Malielegaoi, and his Deputy Prime Minister Misa Telefoni Retzlaff were in Auckland, New Zealand, at the time of the earthquake. Both political leaders immediately returned to Samoa. Prime Minister Malielegaoi lost two relatives in the tsunami, including the daughter of one of his nieces.
+
+The Prime Minister made his first address to the nation, after the tsunami, on 1 October.
+The Government of Samoa estimates the damage at US$ 147.25 million.
+
+On 2 October 2009, an estimated 3000 people were homeless and seeking refuge in shelters set up around the worst-affected villages. New Zealand's Minister of Foreign Affairs Murray McCully visited Apia to co-ordinate New Zealand's emergency relief effort. New Zealand Prime Minister John Key arrived in Samoa on 3 October and visited some of the most damaged areas on Upolu including the villages of Poutasi and Lalolamu.
+
+The Samoa government and the people of Samoa held a national funeral at Apia Park for tsunami victims on 8 October 2009 (Samoa local time).
+
+==Tonga==
+File:Samoa tsunami animation 20090929 samoa a.ogv|thumb|Animation of the tsunami's propagation.
+Image:Earthquake off Samoa Generates Tsunami (Before).jpg|thumb|Niuatoputapu before the tsunami. (Vegetation is red, bare ground is pale blue-grey, clouds and breaking waves are white or cyan.)
+Image:Earthquake off Samoa Generates Tsunami (After).jpg|thumb|Niuatoputapu after the tsunami.
+
+The main impact in Tonga was in the northern part of the island kingdom where there were deaths, injuries and extensive damage
+
+Other reports outlined coastal damage from a {{convert|13|ft|m|adj=on}} wave on the islands. Three people are missing and four sustained serious injuries. Tonga's acting Prime Minister Lord Tuita said the government is sending a second plane to Niuatoputapu, but that communication links have been damaged.
+
+The government appealed for clothing and bedding donations for residents in Niuatoputapu.
+
+Relief efforts undertaken by the Tongan government and Red Cross focused on Niuatoputapu, with support from Australia, New Zealand and France. A United Nations coordinator was scheduled to travel to Tonga to support early recovery initiatives in areas such as 'health, sanitation, water, infrastructure, psychological support, agriculture and fishing'.
+
+There were no reports of any damage to Vava?u island group or to the main island of Tongatapu, where the capital, Nuku?alofa, is.
+
+==French Polynesia==
+French Polynesia escaped much of the damage inflicted against other Polynesian countries and territories by the earthquake. Concern centered on the Marquesas Islands, the northernmost archipelago in French Polynesia.
+
+High Commissioner of the Republic in French Polynesia|French High Commissioner Adolphe Colrat warned residents of the Marquesas to seek shelter at an elevation of at least {{convert|10|m|abbr=on}} above sea level. Residents across French Polynesia were advised to avoid valleys and bays, tie up watercraft and listen to Réseau France Outre-mer (RFO) for further instruction.
+
+In the Marquesas Islands, some bays were nearly emptied of their water before a wave crashed back in and refilled the area.  Boats in the region immediately left port once the warning was issued. The cargo and passenger ship ''Aranui 3'', which had been docked in Taiohae Bay on Nuku Hiva in the Marquesas, the area most impacted by a small tsunami wave, immediately evacuated the bay for open water.
+
+Outside of the Marquesas, the threat of a tsunami largely passed without much incidence. The government had initially feared a wave of approximately {{convert|90|cm|0|abbr=on}}, with the ability to strike all parts of the sprawling territory. Five small tsunami waves, measuring {{convert|25|-|70|cm|0|abbr=on}} were recorded off the coast of Papeete, Tahiti, between 11:10&nbsp;am and 12 noon local time on Tuesday. The first tsunami wave at 11:10&nbsp;am measured {{convert|25|cm|0|abbr=on}}, while the second recorded wave was measured at {{convert|35|cm|0|abbr=on}} at 11:23&nbsp;am The waves gradually increased in size, with the fifth, and last wave, being recorded at {{convert|70|cm|0|abbr=on}} tall at 12:03&nbsp;pm.
+
+The Colombian National Armada|Colombian Navy training ship ARC Gloria|''Gloria'', also left Papeete Harbor in Tahiti once the warning was issued as a precaution. Residents of the Society Islands, which include the tourist resort areas of Tahiti and Moorea, were advised to move above {{convert|5|m|0|abbr=on}} above sea level, for safety.
+
+High Commissioner Adolphe Colrat cancelled the tsunami red alert at 12:03&nbsp;pm on Tuesday for all areas of French Polynesia except the Marquesas. The alert for the Marquesas Islands was extended 2:50&nbsp;pm until the threat had passed.
+
+French Polynesian President Oscar Temaru wrote to the heads of American Samoa, Samoa and Tonga offering support following the tsunami,{{Dead link|date=July 2010}} FRANZ stands for France, Australia and New Zealand, three large countries who traditionally provide aid in Oceania following natural disasters.
+
+''The Guardian'' reported 189 deaths; 149 in Samoa, 31 American Samoa, 9 Tonga (2 October 2009).
+
+==International aid==
+File:FEMA - 42046 - Emergency Generators being unloaded from a C-17 in American Samoa.jpg|thumb|right|FEMA generators being unloaded.
+
+===Governments===
+New Zealand dispatched RNZAF P-3 Orions to assess the damage and search for bodies. An RNZAF C-130 Hercules with medical staff and supplies, makeshift morgues, stretchers, tents and food was sent on the 30th. A further 7 RNZAF and 2 Royal Australian Air Force Hercules flights were made, and a RAAF C-17 Globemaster also provided airlift support to ferry relief supplies. These were distributed within the islands by RNZAF helicopters.  Air New Zealand arranged for larger Boeing 777 aircraft to carry in relief workers and evacuate tourists to Auckland, and fly the Samoan Prime Minister back to his country. The New Zealand helicopter carrying ship HMNZS Canterbury (L421)|HMNZS ''Canterbury'' was sent to Samoa (also offloading aid and personnel in Tonga). The New Zealand government also pledged over NZ$12 million for relief efforts.
+
+The United States sent the US Navy frigate USS Ingraham (FFG-61)|USS ''Ingraham'', two US Air Force C-17 Globemaster III aircraft from the 154th Wing, and 90 members of the Hawaii National Guard to American Samoa to assist in the relief efforts there.
+The US Army Corps of Engineers, Army Geospatial Center, prepared an emergency webpage for geological, hydrological and trafficability information for relief engineering and humanitarian aid.
+
+Australia sent teams of paramedics, doctors, nurses and search and rescue specialists with essential supplies like tents and medicine.
+
+Other aid came from concerned individuals and groups throughout the world, namely New Zealand, Australia, the United States and Canada.
+
+===Aid agencies===
+*The European Commission has announced it is setting up a scheme for a humanitarian fund with an initial amount of 150,000 Euros. The fund will be channelled to the International Red Cross through the Disaster Response Emergency Fund (DREF) "to assist with primary emergency needs in Samoa depending upon the first 'on the ground' assessments."
+*Oxfam International is ready to respond to the disaster with staff and supplies on standby. Oxfam's New Zealand branch has launched a fund for donations.
+*Samoa and American Samoa have local Red Cross offices. New Zealand Red Cross humanitarian aid workers are also on stand-by to travel to Samoa, and has started a fund for donations.  The Red Cross is building 76 ten foot by twenty foot single room homes and 23 twenty foot by twenty foot multi room homes in Nuiatoputapu to replace homes destroyed there by the tsunami.
+*Aid funds are also being organised by the Rotary Club of NZ and ANZ Bank.
+*The United States said federal aid would be made available to combat the devastation. Craig Fugate, head of the Federal Emergency Management Agency, said FEMA sent an incident management assistance team and a planning and response team "to provide support and on the ground assessment" in along with assistance from the US Coast Guard.
+*The Church of Jesus Christ of Latter-day Saints organized humanitarian aid from members of the church in the USA, New Zealand, Samoa and Tonga to be delivered to those in need. On Tonga's main island of Tongatapu, 12 LDS stake presidents asked church members on the radio to donate food, clothing, cooking equipment, pillows, blankets and other necessities, and LDS church buildings in American Samoa housed the displaced victims of the disaster.
+*The Next of kin|Next of Kin Registry(NOKR) was a vital resource used for family reunification post the Tsunami, according to the Deputy Director of the Territorial Emergency Management Coordinating Office(TEMCO).
+*ADRA (Adventist Development and Relief Agency) has deployed a coordinator on the ground in Samoa to provide emergency management support to the response efforts. Mr Eager has taken initial aid with him, and by Friday 2 October had visited the devastated areas on the south coast of Upolu. He is coordinating ADRA's response with the Samoan Disaster Management Council and other responding agencies to compile findings and plan coordinated relief. ADRA has launched a Pacific Disaster Appeal in both Australia and New Zealand.
+
+==Emergency relief funds for donations==
+*The New Zealand Red Cross appeal raised donations amounting to almost NZ$3.5 million.
+*Oxfam New Zealand set up a rapid response emergency fund at their website.
+*UNICEF (NZ)
+*ADRA Australia has set up a Pacific Disasters Appeal donation website, and hotline (1800 242 372).
+*ADRA New Zealand has a donation website and call centre (0800 4 999 111).
+
+==Tsunami warnings==
+File:Samoa tsunami travel times.jpg|thumb|250px|right|Tsunami travel times from epicentre (in hrs)
+A tsunami warning was initially issued for American Samoa, Samoa, Niue, Wallis and Futuna, Tokelau, the Cook Islands, Tonga, Tuvalu, Kiribati, the Kermadec Islands, Fiji, Baker Island, Howland Island, Jarvis Island, New Zealand, French Polynesia, Palmyra Island, Vanuatu, Nauru, Marshall Islands, and Solomon Islands. Officials in the Cook Islands, which hosted the 2009 Pacific Mini Games, noted that the tsunami passed without any damage to the country.
+
+A tsunami warning remained in effect for the Marquesas Islands of French Polynesia, as five main waves were expected to strike that archipelago. Warnings also remained in Tuvalu, one of the lowest lying countries in the world.
+
+Local radio stations in Tonga broadcast warnings that a tsunami was possible and that people should move away from coastal villages.
+
+A tsunami watch was issued for islands farther from the epicenter, including Hawaii and Papua New Guinea, but not for California, USA. Officials were determining whether the tsunami could reach Hawaii, the center said. It was possible that a strongly decreased wave could reach Hawaii.
+
+A tsunami advisory was issued for coastal California and the San Francisco Bay Area beginning at 9:00&nbsp;pm local time as a precaution.
+
+==List of aftershocks==
+Only aftershocks with magnitude 5.5 or higher are listed. There were more than 40 total aftershocks with a magnitude greater than 5.0 in the 48 hours after the initial earthquake. Shocks with magnitude 6.0 or higher are highlighted in light blue. The main shock with moment magnitude 8.1 M<sub>w</sub> is highlighted in dark blue.
+<!-- ONLY 5.5 OR HIGHER;) http://earthquakes.usgs.gov/eqcenter/recenteqsww/Maps/region/S_Pacific_eqs.php -->
+{| class="wikitable sortable"
+! Date <br />(YYYY-MM-DD) !! Time <br />(UTC) !! Latitude !! Longitude !! Depth !! Magnitude
+|- style="background:#99f;"
+| 2009-09-29 || 17:48:11 || 15.558° S || 172.073° W || {{convert|18|km|mi|0|abbr=on}} || 8.1 (M<sub>w</sub>)
+|-
+| 2009-09-29 || 18:08:22 || 15.467° S || 172.092° W || {{convert|10|km|mi|0|abbr=on}} || 5.6 (M<sub>w</sub>)
+|-
+| 2009-09-29 || 18:19:36 || 15.952° S || 171.611° W || {{convert|10|km|mi|0|abbr=on}} || 5.6 (M<sub>w</sub>)
+|-
+| 2009-09-29 || 18:21:42 || 16.197° S || 173.069° W || {{convert|10|km|mi|0|abbr=on}} || 5.8 (M<sub>w</sub>)
+|-
+| 2009-09-29 || 23:11:51 || 15.565° S || 173.365° W || {{convert|10|km|mi|0|abbr=on}} || 5.5 (M<sub>w</sub>)
+|-
+| 2009-09-29 || 23:45:03 || 15.840° S || 172.531° W || {{convert|10|km|mi|0|abbr=on}} || 5.9 (M<sub>w</sub>)
+|-
+| 2009-10-01 || 06:13:30 || 15.116° S || 172.935° W || {{convert|10|km|mi|0|abbr=on}} || 5.7 (M<sub>w</sub>)
+|- style="background:#ccf;"
+| 2009-10-02 || 01:07:39 || 16.579° S || 173.274° W || {{convert|10|km|mi|0|abbr=on}} || 6.1 (M<sub>w</sub>)
+|- style="background:#ccf;"
+| 2009-10-14 || 18:00:22 || 14.968° S || 174.919° W || {{convert|10|km|mi|0|abbr=on}} || 6.3 (M<sub>w</sub>)
+|-
+| 2009-10-17 || 10:45:27 || 16.332° S || 171.964° W || {{convert|10|km|mi|0|abbr=on}} || 5.9 (M<sub>w</sub>)
+|}
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+* http://news.bbc.co.uk/2/hi/asia-pacific/8281616.stm Deadly tsunami strikes in Pacific  – ''BBC News''
+* http://www.reliefweb.int/rw/dbc.nsf/doc108?OpenForm&emid=TS-2009-000209-ASM&rc=5 South Pacific: Tsunami - Sep 2009 – ReliefWeb
+* http://www.3news.co.nz/A-family-devastated-by-the-tsunami---full-interview/tabid/417/articleID/123606/cat/1032/Default.aspx/ A family devastated by the tsunami - full interview – ''3 News''
+* http://www.3news.co.nz/Tsunami-stories-of-luck-and-sorrow-at-airport/tabid/209/articleID/123574/cat/87/Default.aspx/ Tsunami stories of luck and sorrow at airport – ''3 News''
+* http://www.fotopedia.com/en/2009_Samoa_earthquake 2009 Samoa earthquake – Fotopedia
+* http://tvnz.co.nz/national-news/nz-samoans-head-home-loved-ones-3042027/video NZ Samoans head home to loved ones – ''One News (New Zealand)|One News''
+* http://www.disasterscharter.org/web/charter/activation_details?p_r_p_1415474252_assetId=ACT-273 Tsunami in Samoa Islands – International Charter on Space and Major Disasters|Disasters Charter
+
+{{Use dmy dates|date=March 2012}}
+{{Earthquakes in 2009}}
+
+{{DEFAULTSORT:2009 Samoa Earthquake}}
+Category:2009 in American Samoa|Earthquake
+Category:2009 in Samoa|Earthquake
+Category:2009 in Tonga|Samoa earthquake
+Category:2009 in French Polynesia|Samoa Earthquake, 2009
+Category:2009 in the Cook Islands|Samoa Earthquake, 2009
+Category:2009 earthquakes|Samoa
+Category:Earthquakes in American Samoa|2009
+Category:Earthquakes in Samoa|2009
+Category:Earthquakes in Tonga|2009
+Category:21st-century tsunamis
+Category:Earthquakes in Oceania
+Category:Tsunamis in the United States
+Category:Megathrust earthquakes

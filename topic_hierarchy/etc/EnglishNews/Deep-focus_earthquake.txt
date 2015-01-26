@@ -1,0 +1,44 @@
+A '''deep-focus earthquake''' in seismology is an earthquake with a hypocenter depth exceeding 300&nbsp;km. They occur almost exclusively at oceanic-continental convergent boundary|convergent boundaries in association with subducted oceanic lithosphere. They occur along a dipping tabular zone beneath the subduction zone known as the Benioff-Wadati zone.
+
+Shallow-focus earthquakes are  the result of the sudden release of strain energy built up over time in rock by brittle fracture and frictional slip over planar surfaces. However, the focal mechanism of deep focus earthquakes is poorly understood. Subducted lithosphere subject to the pressure and temperature regime at depths greater than 300&nbsp;km should not exhibit brittle behavior, but should rather respond to stress by plastic deformation. Several mechanisms have been proposed for the nucleation and propagation of deep-focus earthquakes; however, the exact process remains an outstanding problem in the field of deep earth seismology.
+
+== Discovery ==
+
+Preliminary evidence for the existence of deep-focus earthquakes was first brought to the attention of the scientific community in 1922 by H.H. Turner.
+
+== Seismic Characteristics ==
+
+Deep-focus earthquakes give rise to minimal surface waves. Due to their focal depth, the earthquakes are less likely to produce seismic wave motion with energy concentrated at the surface. The path of deep-focus earthquake seismic waves from focus to recording station goes through the heterogeneous upper mantle (geology)|mantle and highly variable crust (geology)|crust only once. Therefore, the body waves undergo less attenuation and reverberation than seismic waves from shallow earthquakes, resulting in sharp body wave peaks.
+
+== Focal Mechanisms ==
+
+The pattern of energy radiation of an earthquake is represented by the moment tensor solution, which is graphically represented by beachball diagrams. An explosive or implosive mechanism produces an isotropic seismic source . Slip on a planar fault surface results in what is known as a double-couple source. Uniform outward motion in a single plane due to normal shortening gives rise is known as a compensated linear vector dipole source. Deep-focus earthquakes have been shown to contain a combination of these sources.
+
+=== Solid-solid phase transitions ===
+
+The earliest proposed focal mechanism for the generation of deep-focus earthquakes is an implosion due to a phase transition of material to a higher density, lower volume phase. The olivine-spinel phase transition is thought to occur at a depth of 410&nbsp;km in the interior of the earth . This hypothesis proposes that metastable olivine in oceanic lithosphere subducted to depths greater than 410&nbsp;km undergoes a sudden phase transition to spinel structure. The resulting implosion would give rise to the earthquake. This mechanism has been largely discredited due to the lack of a significant isotropic signature in the moment tensor solution of deep-focus earthquakes.
+
+=== Dehydration embrittlement ===
+
+Dehydration reactions of mineral phases with high weight percent water would increase the pore-pressure in a subducted oceanic lithosphere slab. This effect reduces the effective normal stress in the slab and allow slip to occur on pre-existing fault planes at significantly greater depths that would normally be possible. Several workers suggest that this mechanism does not play a significant role in seismic activity beyond 350&nbsp;km depth due to the fact that most dehydration reactions will have reached completion by a pressure corresponding to 150 to 300&nbsp;km depth (5-10 GPa).
+
+=== Transformational faulting or anticrack faulting ===
+
+Transformational faulting, also known as anticrack faulting, is the result of the phase transition of a mineral to a higher density phase occurring in response to shear stress in a fine-grained shear zone . The transformation occurs along the plane of maximal shear stress. Rapid shearing can then occur along these planes of weakness, giving rise to an earthquake in a mechanism similar to a shallow-focus earthquake. Metastable olivine subducted past the olivine-spinel transition at 410&nbsp;km depth is thought to be responsible for the phenomenon.
+
+=== Stress-induced melting and shear thermal instability ===
+
+Stress-induced melting proposes that deep earthquakes occur by a runaway plastic creep event. Conditions of shear stress induce plastic creep, producing heat in the subducted slab. The heat escapes slowly by conduction. Thermal runaway may then occur and results in partial melting along zones of maximal shear stress. The production of melt gives rise to a positive-feedback loop, lowering the viscosity, which results in further slip and additional heating.
+
+With the exception of solid-solid phase transitions, the proposed theories for the focal mechanism of deep earthquakes hold equal footing in current scientific literature.
+
+== Notable deep-focus earthquakes ==
+
+The strongest deep-focus earthquake in seismic record was the 2013 Okhotsk Sea earthquake (magnitude 8.3) that occurred with an epicenter in the Sea of Okhotsk at a depth of 609&nbsp;km.{{citation needed|date=April 2014}}
+The deepest ever recorded earthquake is the 1994 Bolivia earthquake with a focal depth of 647&nbsp;km and a moment magnitude of 8.2.
+
+==References==
+{{Reflist}}
+
+Category:Plate tectonics
+Category:Types of earthquake

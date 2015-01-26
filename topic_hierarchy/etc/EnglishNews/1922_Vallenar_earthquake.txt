@@ -1,0 +1,60 @@
+{{Use dmy dates|date=July 2013}}
+{{Earthquake
+|title= 1922 Vallenar earthquake
+|date= {{Start-date|11 November 1922}}
+|map2 = {{Location map|Chile|relief=1
+| label=
+| lat=-28.5
+| long=-70.0
+| mark=Bullseye1.png
+| marksize=50
+| position=top
+| width= 150
+| float=center
+| caption=}}
+|magnitude = 8.5 Magnitude Moment magnitude scale|M<sub>w</sub>
+|depth=
+|location={{coord|-28.5|-70.0|type:event|display=inline,title}}
+|countries affected = Chile
+|tsunami = yes
+|casualties = several hundred}}
+
+File:Casas colapsadas por terremoto de Vallenar de 1922.jpg|thumb|right|150px|Damage at 1922 Vallenar earthquake, Atacama Region
+
+The '''1922 Vallenar earthquake''' occurred with a Moment magnitude scale|moment magnitude of 8.5 in the Atacama Region of Chile, near the border with Argentina on November 11 at 04:32 UTC. It triggered a destructive tsunami that caused significant damage to the coast of Chile and was observed as far away as Australia.
+
+==Tectonic setting==
+The earthquake took place along the boundary between the Nazca Plate|Nazca and South American Plate|South American tectonic plates, at a location where they convergent boundary|converge at a rate of seventy millimeters a year.
+
+Chile has been at a convergent plate boundary that generates megathrust earthquakes since the Paleozoic (500 million years ago). In historical times the Chilean coast has suffered many megathrust earthquakes along this plate boundary, including the 1960 Valdivia earthquake|strongest earthquake ever measured. Most recently, the boundary 2010 Chile earthquake|ruptured in 2010 in central Chile.
+
+==Damage and deaths==
+The earthquake caused extensive damage in a zone extending approximately from Copiapó to Coquimbo. Newspapers estimated more than 1,000 dead as a result of the quake, at least 500 of them in Vallenar. 
+
+Total damages were estimated to be in the range $5–25 million U.S. (1922 dollars).
+
+==Characteristics==
+===Earthquake===
+The earthquake was preceded by strong foreshocks on 3 and 7 November. The main shock lasted between thirty seconds and eight minutes according to various reports.
+
+The length of the plate boundary that ruptured during the earthquake is estimated to be 390&nbsp;km.
+
+===Tsunami===
+The epicenter of the earthquake was well inland and the tsunami may have been caused by a submarine slide triggered by the shaking.
+
+At Caldera, Chile|Caldera the tsunami began about 15 minutes after the earthquake, with a maximum run-up height of 7 m. At Cha?aral the tsunami had three surges, the first about an hour after the earthquake, the maximum run-up height was 9 m. Three surges were also seen at Coquimbo, the last being the most destructive with a maximum run-up of 7 m.
+
+The tsunami was also observed in Callao, Peru (2.4 m), California (0.2 m 13.0 hours delay), Hawaii (2.1 m 14.5 hours), Samoa (0.9 m 14.1 hours), Japan (0.3 m), Taiwan(0.03 m), New Zealand (0.1 m), Australia (0.2 m) and the Philippines (0.1 m).
+
+==References==
+{{reflist|30em}}
+
+==External links==
+* {{commonscat-inline}}
+
+{{Earthquakes in Chile}}
+
+Category:Megathrust earthquakes in Chile
+Category:1922 earthquakes|Vallenar
+Category:1922 in Chile|Vallenar Earthquake, 1922
+Category:20th-century tsunamis

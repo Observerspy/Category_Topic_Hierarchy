@@ -1,0 +1,70 @@
+{{Earthquake
+|title = 1977 Vrancea Earthquake
+|date = Friday, 4 March 1977 (Eastern European Time|EET)
+|origintime = 21:22
+|duration = 55 seconds
+|image = 1977 Vrancea earthquake.jpg
+|magnitude = 7.2 M<sub>w</sub>
+|intensity = IX (violent)
+|depth = 110 km
+|location = {{coord|45.77|26.76|display=title|format=dms|type:landmark_region:RO|display=inline, title}}
+|countries affected = {{flag|Romania|1965}}<br />{{flag|Bulgaria|1971}}<br />{{flag|Soviet Union}} ({{flag|Moldavian SSR}} and {{flag|Ukrainian SSR}})
+|landslide = Yes
+|casualties = 1,578 dead, 11,300 injured, 35,000 displaced
+|damage = $ 2 billion
+}}
+
+Image:1977 Biserica Ienei foto 5.jpg|thumb|right|250 px|Bucharest – Enei Church – 1977
+The '''1977 Vrancea Earthquake''' occurred on Friday, 4 March 1977, 21:20 local time and was felt throughout the Balkans. It had a Richter magnitude scale|magnitude of 7.2 with an epicenter in Vrancea County|Vrancea (in the Eastern Carpathians) at a depth of {{convert|94|km|sp=us}}.
+
+The earthquake killed about 1,578 people (1,424 in Bucharest) in Romania, and wounded more than 11,300. Among the victims was the Romanian actor Toma Caragiu. Nicolae Ceau?escu suspended his official trip to Nigeria.
+
+About 35,000 buildings were damaged, and the total damage was estimated at more than two billion United States dollar|dollars. Most of the damage was concentrated in Romania's Capital (political)|capital, Bucharest, where about 33 large buildings collapsed.  Most of those buildings were built before World War II, and were not reinforced. After the earthquake, the Romanian government imposed tougher construction standards.
+
+In Bulgaria, the earthquake is known as the '''Vrancea Earthquake''' or '''Svishtov Earthquake'''. Three blocks of flats in the Bulgarian town of Svishtov (near Zimnicea) collapsed, killing more than 100 people. Many other buildings were damaged, including the Church of the Holy Trinity, Svishtov|Church of the Holy Trinity. In the Moldavian Soviet Socialist Republic|Soviet Republic of Moldova the earthquake destroyed and damaged many buildings. In the capital Chi?in?u|Kishinev, a panic broke out.
+
+== Damage and casualties ==
+Most property damage was concentrated in Bucharest, where 32 buildings collapsed and more than 130 were severely damaged. Significant damage was also reported in Teleorman, Dolj, Ia?i, Vaslui, Buz?u, Vrancea and Mehedin?i.
+
+On March 5, the first toll of the disaster was reported: 508 dead, 2,600 injured. The city of Zimnicea had turned into ruins: 175 houses collapsed, while 523 sustained serious damage, 4,000 people were displaced, and there were hundreds of fatalities. In Craiova, more than 550 buildings were severely damaged, including the Museum of Art, the Oltenia Museum, the University and the County Library. Initial estimates indicate a total of 30 dead and 300 injured. Vaslui also suffered heavy losses, both human – 7 people dead, and material. In Ploie?ti about 200 homes were destroyed and another 2,000 were seriously damaged; the situation was also serious in Buz?u County, where about 1,900 buildings were affected. Counties in Transylvania and Dobruja|Dobrogea showed no serious damage.
+
+The final assessment of the human and material losses showed: 1,570 dead (according to other sources, 1,578), 11,300 injured, 32,900 houses collapsed or severely damaged, 35,000 families displaced, 763 business units affected. The damage amounted to 10 billion lei, the equivalent of $ 2 billion.
+
+== Aftershocks ==
+The earthquake epicenter was located in the south-west part of Vrancea County, the most active seismic area in Romania, at a Elevation|depth of about {{convert|94|km|abbr=on}}. The shock wave was felt in almost all countries in the Balkan Peninsula, as well as Soviet Union|Soviet republics of Ukrainian Soviet Socialist Republic|Ukraine and Moldavian Soviet Socialist Republic|Moldavia, albeit with a lower intensity. Seismic movement was followed by aftershocks of low Richter magnitude scale|magnitude. The strongest aftershock occurred on the morning of 5 March 1977, at 02:00 AM, at a depth of {{convert|109|km|abbr=on}}, with a magnitude was 4.9 on the Richter scale. Other aftershocks' magnitudes did not exceed 4.3 or 4.5 M<sub>w</sub>.
+
+== Reactions of authorities ==
+At the time of the earthquake, Nicolae and Elena Ceau?escu were in an official visit to Nigeria. Ceau?escu heard about the disaster in the country from a Romanian official.
+
+Initially, news about the earthquake were confusing, and people talked about a much larger catastrophe. Due to a power failure in Bucharest, communication services weren't run for several hours. The population took to the streets, scared of possible aftershocks. At that moment, authorities had not taken any concrete steps.
+
+There were rescue teams from all blocks destroyed. Doctors, soldiers, men of different professions were presented at work. Nine hospitals were decommissioned. Floreasca Emergency Hospital in Bucharest, although seriously damaged, was taken by storm. Subsequently, it was evacuated. The Dinamo Stadium was turned into a triage point for the wounded. By the morning of March 5 work was underway on rehabilitating basic utilities – water, gas, telephony, electricity.
+
+After reconnecting with the country, Nicolae Ceau?escu imposed the state of emergency throughout the country. The presidential couple and Romanian delegation in Nigeria returned to Romania during the night of 4 to 5 March 1977. In the following days, the Head of State conducted visits to Bucharest to assess damage.
+
+Teams of military and firefighters responsible for the rescue of possible survivors received aid from the Red Cross. They were joined by the Buftea film studio stuntsmen and many volunteers. Many people were rescued from the ruins, some after several days of being trapped.
+
+==See also==
+*The Bulgarian film ''Sweet and Bitter'' was aired by Romanian Television|TVR 1 and has remained linked to the earthquake in the mind of Romanians.
+*1940 Vrancea earthquake|November 10, 1940, Vrancea earthquake, striking Bucharest with a magnitude of 7.4 to 7.7.
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+*Roxana Roseti, http://www.jurnalul.ro/articole/84798/72-grade-richter "7,2 grade Richter", ''Jurnalul Na?ional, March 4, 2007
+
+{{Significant earthquakes in Romania}}
+
+Category:Earthquakes in Romania
+Category:Earthquakes in Bulgaria
+Category:1977 earthquakes
+Category:1977 in Romania
+Category:1977 in Bulgaria
+Category:History of Bucharest
+Category:Svishtov
+Category:Socialist Republic of Romania
+Category:Earthquakes in Moldova
+Category:Earthquakes in Ukraine
+Category:1977 in the Soviet Union
+Category:Earthquakes in the Soviet Union

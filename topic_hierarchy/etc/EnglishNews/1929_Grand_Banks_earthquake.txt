@@ -1,0 +1,61 @@
+{{Infobox earthquake
+| title              = 1929 Grand Banks earthquake
+| caption            = 
+| date               = {{start-date|November 18, 1929|November 18, 1929}}
+| origintime         = 20:32 UTC 
+| map2 = {{Location map+ | Canada | relief = 1
+|places =
+{{Location map~|Canada|lat=44.54|long=-56.01|mark=Bullseye1.png|marksize=40}}
+ | width = 250
+ | float = right
+ | caption = }}
+| magnitude          = 7.2 Moment magnitude scale|M<sub>w</sub> 
+| depth              = {{convert|20|km|mi|0|abbr=on}} 
+| location           = {{coord|44.54|N|56.01|W}} 
+| countries affected = Newfoundland <br> Canada <br> Saint Pierre and Miquelon
+|damage              = $400,000 
+| tsunami            = Yes
+| aftershocks        =
+| intensity          = VI (''Strong'')
+| casualties         = 27 or 28 killed
+}}
+
+The '''1929 Grand Banks earthquake''' (also called the '''Laurentian Slope earthquake''' and the '''South Shore Disaster''') occurred with a Moment magnitude scale|moment magnitude of 7.2 on November 18. The shock was centered in the Atlantic Ocean off the south coast of Dominion of Newfoundland|Newfoundland in the Laurentian Slope Seismic Zone.
+
+==Earthquake==
+{{see also|List of earthquakes in Canada}}
+
+The earthquake was centred on the edge of the Grand Banks of Newfoundland, about {{convert|400|km|mi}} south of the island. It was felt as far away as New York and Montreal. The quake, along two fault (geology)|faults {{convert|250|km|mi}} south of the Burin Peninsula, triggered a large submarine landslide ({{convert|200|km3|cumi|abbr=on|disp=or}}). It snapped 12 submarine transatlantic telegraph cables and led to a tsunami that arrived in three waves, each 3 to 4 metres high, that struck the coast at {{convert|105|km/h|mph|abbr=on}} about three hours after the earthquake occurred. The waves travelled at speeds up to {{convert|129|km/h|mph|abbr=on}} at the epicentre; they were recorded as far away as Portugal.
+
+==Tsunami==
+{{see also|List of historical tsunamis}}
+
+The tsunami destroyed many south coastal communities on the Burin Peninsula, killing 27 or 28 people and leaving 10,000 more homeless. All means of communication were cut off by the destruction, and relief efforts were further hampered by a blizzard that struck the day after. It took more than three days before the ''SS Meigle'' responded to an SOS signal with doctors, nurses, blankets, and food. Donations from across Newfoundland, Canada, the United States and United Kingdom totalled $250,000.
+
+== Aftermath ==
+There was never an accurate official list of the victims produced by any branch of the Newfoundland government.  In the report entitled "Loss of Life," the Honourable Dr. Harris Munden Mosdell, Chairman of the Board of Health Burin West, reported: "The loss of life through the tidal wave totals twenty-seven.  Twenty-five deaths were due directly to the upheaval. Two other deaths occurred subsequently and were due to shock and exposure."  Later research attributed an additional death to the earthquake.
+
+In 1952, American scientists from Columbia University put together the pieces of the sequentially broken cables that led to the discovery of the landslide and the first documentation of a turbidity current. Scientists are looking at layers of sand believed to be deposited by other tsunamis in an effort to determine the occurrence rates of large earthquakes. One sand layer, thought to be deposited by the 1929 tsunami, at Taylor's Bay was found 13&nbsp;cm below the turf line. The occurrences of large tsunamis, such as the one in 1929, are dependent upon deposition of sediments offshore because it was the landslide that made the tsunami so powerful. The deposition of such a large volume of sediments will take a while before there is enough to form an underwater landslide the same size as that in 1929.
+
+== References ==
+{{reflist|30em|refs=	
+
+	
+}}
+
+==External links==
+*''Tsunami: The Newfoundland Tidal Wave Disaster'' - Maura Hanrahan (2004) ISBN 1-894463-63-3
+*http://earthquakescanada.nrcan.gc.ca/historic_eq/20th/1929/1929_e.php The Magnitude 7.2 1929 "Grand Banks" earthquake and tsunami - Natural Resources Canada
+*http://www.cbc.ca/news/background/asia_earthquake/nfld.html The South Shore disaster: Newfoundland's tsunami
+*http://www.nald.ca/clr/ntla/ntla.pdf Not Too Long Ago (first hand accounts of the tsunami, pp. 51-60)
+* http://www.collectionscanada.ca/sos/002028-1100-e.html?PHPSESSID=mqubhdap68k4igpbi63bd726j0 Newfoundland Tsunami - November 18, 1929 – Library and Archives Canada
+
+{{Earthquakes in Canada}}
+
+{{DEFAULTSORT:1929 Grand Banks Earthquake}}
+Category:Earthquakes in Newfoundland and Labrador
+Category:20th-century tsunamis
+Category:1929 earthquakes
+Category:1929 in Canada
+Category:History of Saint Pierre and Miquelon
+Category:1929 in Newfoundland

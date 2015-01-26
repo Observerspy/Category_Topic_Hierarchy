@@ -1,0 +1,48 @@
+{{Infobox earthquake
+|title = 1892 Laguna Salada earthquake
+|date = {{Start-date|24 February 1892}}
+|map2 = {{Location map+ | USA West |relief = 1
+|places =
+{{Location map~|USA West|lat=32.72|long=-117.16|label=San Diego|position=left|mark=Green pog.svg}}
+{{Location map~|USA West|lat=34.05|long=-118.25|label=Los Angeles|position=top|mark=Green pog.svg}}
+{{Location map~|USA West|lat=30.56|long=-115.94|label=San Quintín|position=left|mark=Green pog.svg}}
+{{Location map~|USA West|lat=32.73|long=-115.5|mark=Bullseye1.png|marksize=40}}
+ | width = 250
+ | float = right
+ | caption = }}
+|magnitude = 7.1 – 7.2 Moment magnitude scale|M<sub>w</sub>
+|depth=
+|countries affected = Mexico, USA
+|intensity = X (''Intense'')
+|location = {{coord|32.73|-115.50|display=inline,title}}
+|tsunami =
+|casualties = none
+}}
+The '''1892 Laguna Salada earthquake''' occurred at 23:20 Pacific Standard Time on February 23 (07:20 Coordinated universal time|UTC on February 24). It had an estimated magnitude of 7.1&ndash;7.2 on the moment magnitude scale and a maximum perceived intensity of X (''Intense'') on the Mercalli intensity scale. The earthquake takes its name from a large dry lake bed in Baja California, Mexico. There were no reported casualties, but the very large shock affected the largely-uninhabited areas of northern Mexico and southern California. 
+
+==Tectonic setting==
+The Salton Trough is part of the complex plate boundary between the Pacific Plate and the North American Plate where it undergoes a transition from the transform fault|continental transform of the San Andreas Fault system to the series of short Mid-ocean ridge|spreading centers of the East Pacific Rise linked by oceanic transforms in the Gulf of California. The southern part of the trough is divided into two by the Sierra Cucapa and Sierra Mayor ranges forming the Mexicali Municipality, Baja California|Mexicali Valley to the east and the Laguna Salada (Mexico)|Laguna Salada to the west. The western side of these ranges is formed by the Laguna Salada Fault, which forms a possible continuation of the Elsinore Fault Zone of southern California. The Laguna Salada Fault shows combined Fault_(geology)#Dip-slip_faults|normal (down to the southwest) and dextral (Fault_(geology)#Strike-slip_faults|right lateral) movement. Prior to 2010 it showed evidence of recent (probably historical) displacement with a {{convert|22|km|abbr=on}} zone of surface faulting, with {{convert|3|-|4|m|abbr=on}} of vertical displacement. This is interpreted to be associated with the 1892 earthquake. The fault moved again during the 2010 Baja California earthquake.
+
+==Earthquake==
+The earthquake was felt over a wide area from Los Angeles and San Bernardino in the north to San Quintín, Baja California|San Quintin in the south. The area in which the perceived intensity of shaking reached VIII (''destructive'') or more was centered on the mapped fault rupture. 
+
+==Damage==
+A report from the ''Los Angeles Times'' the following day stated no damage was found in Los Angeles, but also specified that severe shocks were felt in San Diego. At Hook Ranch and Laguna Station the shaking was strong enough to throw people off their feet and at Dulzura Canyon and McCain Valley the ground was seen to move in waves. There were rockfalls at Bratton Valley, Tierra Blanca Canyon, Storm Canyon and Whale Peak and landslides at Dulzura Canyon and Devil's Canyon.
+
+==Aftershocks==
+At Campo, California 155 aftershocks were felt in the first 12 hours after the mainshock and continued every few days for the next two months.
+
+==References==
+{{Reflist}}
+
+
+{{Earthquakes in Mexico}}
+
+Category:Earthquakes in California
+Category:Earthquakes in Mexico
+Category:1892 earthquakes|Laguna Salada
+Category:1892 in California|Laguna Salada
+Category:1892 in Mexico|Laguna Salada
+Category:History of Baja California|Laguna Salada
+Category:El Centro metropolitan area|Laguna Salada
+Category:Mexicali|Laguna Salada

@@ -1,0 +1,106 @@
+{{Infobox earthquake
+|title = 2005 Kashmir Earthquake
+|date = {{Start date|2005|10|8}}
+|map2 = {{Location map | Pakistan
+ | label =
+ | lat = 34.493
+ | long = 73.629
+ | mark = Bullseye1.png
+ | marksize = 40
+ | position = top
+ | width = 250
+ | float = right
+ | caption =
+ | relief = yes }}
+|magnitude = 7.6 Moment magnitude scale|M<sub>w</sub>
+|depth = 10 km (6.2 miles)
+|location =  {{Coord|34|29|35|N|73|37|44|E|display=inline, title}}
+|countries affected = Pakistan, India, Afghanistan
+|casualties = 100,000 dead (List of natural disasters by death toll#Earthquakes|18th deadliest earthquake of all time)<br> 138,000 injured<br> 3.5 million displaced 
+|}}
+
+The '''2005 Kashmir earthquake''' was epicenter|centered in the Pakistan administered Kashmir near the city of Muzaffarabad, also affecting the Khyber Pakhtunkhwa province of Pakistan. It occurred at 08:52:37 Pakistan Standard Time (03:52:37 GMT) on 8 October 2005. It registered a moment magnitude scale|moment magnitude of 7.6 making it similar in size to the 1906 San Francisco earthquake, the 1935 Quetta earthquake, the 2001 Gujarat earthquake, and the 2009 Sumatra earthquakes. As of 8 November, the government of Pakistan's official death toll was 75,000.  The earthquake also affected countries in the surrounding region where tremors were felt in Tajikistan and western China, while officials say nearly 1,400 people also died in Jammu and Kashmir and four people in neighboring Nangarhar Province of Afghanistan. The severity of the damage caused by the earthquake is attributed to severe upthrust, coupled with poor construction.
+
+Well over United States Dollar|US$ 5.4 billion (400 billion Pakistani rupees) in aid arrived from all around the world. US Marine and Army helicopters stationed in neighbouring Afghanistan quickly flew aid into the devastated region along with five CH-47 Chinook helicopters from the Royal Air Force that were deployed from the United Kingdom.  Five crossing points were opened on the Line of Control (LoC), between India and Pakistan, to facilitate the flow of humanitarian and medical aid to the affected region, and aid teams from different parts of Pakistan and around the world came to the region to assist in relief.
+
+==Earthquake==
+File:Earthquake Information for Pakistan.gif|right|thumb|220px|Map depicting tectonic plates shows how Pakistan lies on the direct fault line of South Asia, The Middle Eastern Iranian plate and the Eurasian Plate in the north
+{{see also|List of earthquakes in Pakistan}}
+
+Pakistan-administered Kashmir lies in the area of collision of the Eurasian Plate|Eurasian and India Plate|Indian tectonic plates. The geological activity born out of this collision, also responsible for the birth of the Himalayan mountain range, is the cause of unstable seismicity in the region. The Pakistan Meteorological Department estimated the 5.2 magnitude on the Richter scale. The United States Geological Survey (USGS) measured its magnitude as a minimum of 7.6 on the moment magnitude scale, with its epicentre about {{convert|19|km|mi|abbr=on}} northeast of Muzaffarabad, Pakistan-administered Kashmir, and {{convert|100|km|mi|abbr=on}} north-northeast of the national capital Islamabad. The earthquake is classified as "major" by the USGS. The hypocenter was located at a depth of {{convert|26|km|mi|abbr=on}} below the surface. The Japan Meteorological Agency estimated its moment magnitude at 7.8. By comparison, the 2004 Indian Ocean earthquake had a magnitude of 9.15. The worst-hit areas were Pakistan-administered Kashmir, Khyber Pakhtunkhwa|Khyber-Pakhtunkhwa,and western parts of the Kashmir valley in Indian-administered Kashmir. Also affected were some parts of the Pakistani province of Punjab, Pakistan|Punjab, the capital city of Islamabad, and the city of Lahore which experienced a minor aftershock of magnitude 4.6. 
+
+===Casualties===
+
+<div>
+{|class="toccolours" border="1" cellpadding="4" style="float: right; margin: 0 0 1em 1em; width: 30%; border-collapse: collapse; font-size: 95%; clear: right"
+|-
+| colspan="4" style="text-align:center;" cellspacing="0"| '''2005 Kashmir earthquake casualties'''
+|-  style="text-align:center; background:#e9e9e9;"
+|| '''Location'''
+|| '''Dead'''
+|| '''Injured'''
+|-
+| Azad Kashmir and Khyber Pakhtunkhwa (Pakistan)
+|100,000&nbsp;&nbsp;&nbsp;&nbsp;||130,000 &nbsp;&nbsp;&nbsp;&nbsp;
+|-
+| Jammu and Kashmir (India)
+| 1,360 &nbsp;&nbsp;&nbsp;&nbsp;||  6,266
+|-
+| Nangarhar Province (Afghanistan)
+| 4 &nbsp;&nbsp;&nbsp;&nbsp;||  14
+|- style="background: #E9E9E9;"
+|| '''Total'''
+|| '''100,000+'''
+|| '''138,000+'''
+|}
+<div>
+
+Most of the casualties resulting from the earthquake were in Pakistan, where more than 74,698 people died, putting it higher than the massive scale of destruction of the 1935 Quetta earthquake.
+International donors have estimated that about 100,000 died, with an additional 138,000 becoming seriously injured, and 3.5 million becoming displaced.
+
+As Saturday is a normal school day in the region, most students were at schools when the earthquake struck.  Many were buried under collapsed school buildings. Many people were also trapped in their homes and, because it was the month of Ramadan, most people were taking a nap after their pre-dawn meal and did not have time to escape during the earthquake.
+Reports indicate that entire towns and villages were completely wiped out in Northern Pakistan, with other surrounding areas also suffering severe damage.
+
+:"...a second, massive wave of death will happen if we do not step up our efforts now", Kofi Annan said on 20 October with reference to the thousand remote villages in which people are in need of medical attention, food, clean water and shelter and the 120,000 survivors that have not yet been reached."
+
+According to Pakistan's Interior Minister Aftab Ahmad Sherpao, Prime Minister Shaukat Aziz "made the appeal to survivors" on 26 October to come down to valleys and cities for relief, because bad weather, mountainous terrain, landslides and blocked roads are making it difficult for relief workers to reach each house and the winter snows are imminent."
+
+In Islamabad, the Margalla Towers, an apartment complex in F-10, Islamabad|sector F-10, collapsed and killed many of the residents. Four deaths were reported in Afghanistan, including a young girl who died in Jalalabad, after a wall collapsed on her. The quake was felt in Kabul, but the effects were minimal there.
+
+===Damage===
+{{Unreferenced section|date=May 2010}}
+File:Sesimic hazard zones of-Pakistan.png|thumb|250px|Earthquake hazard zones of Pakistan
+
+Most of the devastation hit north Pakistan and Pakistan-administered Kashmir. In Kashmir, the three main districts were badly affected and Muzaffarabad, the state capital of Kashmir, was hardest hit in terms of casualties and destruction. Hospitals, schools, and rescue services including police and armed forces were paralysed. There was virtually no infrastructure and communication was badly affected. More than 70% of all casualties were estimated to have occurred in Muzaffarabad.  Bagh, the second-most-affected district, accounted for 15% of the total casualties.
+
+===Aftershocks===
+There were many secondary earthquakes in the region, mainly to the northwest of the original epicentre. A total of 147 aftershocks were registered in the first day after the initial quake, of which one had a magnitude of 6.2. As of 27 October 2005 there have been more than 978 aftershocks with a magnitude of 4.0 and above that continued to occur daily. Since then, measurements from satellites have shown that mountain parts directly above the epicenter have risen by a few meters, giving ample proof that the rising of the Himalayas is still going on, and that this earthquake was a consequence of that.
+
+==Response==
+{{see also|Singaporean response to 2005 Kashmir earthquake}}
+
+The national and international humanitarian response to the crisis was extensive. In the initial phases of response, the Pakistan Medical corps, Corps of Engineers, Army aviation and a large number of infantry units played important roles. Lt.Gen Afzal, Maj.Gen. Imtiaz, and Maj.Gen Javid were the leaders of their formations. Maj.Gen Farrukh Seir was in charge of foreign relief co-ordination. In early 2006, the Government of Pakistan organized a donors' conference to raise money for reconstruction and development of the area. A total of $6.2 billion was pledged and a large amount of the money was delivered in terms of services of international NGOs with high pay scales. The rest of the money pledged, which was given to the Government of Pakistan for reconstruction and development, was used by a reconstruction authority called Earthquake Reconstruction and Rehabilitation Authority, which was made by then military regime to accommodate retired high military officials and while keeping the command of the reconstruction and rehabilitation authority directly under the military. This authority has been highly criticized for luxurious non-developmental spending and false statistics. Practical reconstruction and rehabilitation were carried out by Turkey, Japan, Saudi Arabia and the UAE.{{Citation needed|date=September 2011}} The basic infrastructure, including tertiary care, health, education, road networks, water supply, waste management and other basic needs, was still underdeveloped and had not reached pre-earthquake status in the region.
+
+==References==
+{{Reflist|30em}}
+
+==Further reading==
+*"A crisis of neglect". (6 November 2005). ''New Straits Times|New Sunday Times'', p.&nbsp;18.
+*"Pneumonia hits Pakistan quake zone". (8 November 2005). ''New Straits Times'', p.&nbsp;6.
+*"Quake death toll now 87,350". (29 November 2005). ''New Straits Times'', p.&nbsp;6.
+
+== External links ==
+{{Commons category|2005 Kashmir earthquake}}
+{{Sister project links|2005 Kashmir earthquake}}
+* http://azfarrizvi.com/home/portfolio/earthquake-diaries/ Television series 'Earthquake Diaries' on the rescue efforts
+*http://www.ips-dc.org/articles/the_earthquake_and_the_us_response The earthquake and the US response
+* wikia:pakistan:Earthquake 10-05|WikiPakistan Earthquake – News and information on the earthquake related to wikia:pakistan:Pakistani Relief Organizations for 10-05 Quake|India and wikia:pakistan:Earthquake 10-05 in Afghanistan|Afghanistan
+
+{{Earthquakes in 2005}}
+{{Himalayan quakes}}
+
+{{DEFAULTSORT:2005 Kashmir Earthquake}}
+Category:2005 Kashmir earthquake|*
+Category:Earthquakes in Pakistan|2005 Kashmir
+Category:Earthquakes in Afghanistan|2005 Kashmir
+Category:2005 earthquakes

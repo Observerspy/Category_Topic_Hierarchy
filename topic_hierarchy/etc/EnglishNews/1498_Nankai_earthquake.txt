@@ -1,0 +1,45 @@
+{{Earthquake
+|title= 1498 Nankai earthquake
+|date= {{Start-date|September 20, 1498}}
+|map2 = {{Location map | Japan
+ | label=
+ | lat=34.0
+ | long=138.1
+ | mark=Bullseye1.png
+ | marksize=50
+ | position=top
+ | width= 250
+ | float=right
+ | caption=
+ | relief=yes}}
+|magnitude = 8.6 Surface wave magnitude|M<sub>S</sub>
+|depth=
+|location={{coord|34.0|138.1|display=inline,title}}
+|countries affected = Japan
+|tsunami = yes
+|casualties = 31,000 deaths
+}}
+The '''1498 Nankai earthquake''' (明応地震 Meiō Jishin) occurred off the coast of Nankaidō, Japan, at about 08:00 local time It had a magnitude estimated at 8.6 Surface wave magnitude|M<sub>S</sub>
+
+==Tectonic setting==
+The southern coast of Honshū runs parallel to the Nankai Trough, which marks the subduction of the Philippine Sea Plate beneath the Eurasian Plate. Movement on this convergent plate boundary leads to many earthquakes, some of them of Megathrust earthquake|megathrust type. The Nankai megathrust has five distinct segments (A-E) that can rupture independently,
+
+==Characteristics==
+Severe shaking caused by this earthquake was recorded from Bōsō Peninsula in the northeast to Kii Peninsula in the southwest. A tsunami was recorded in Suruga Bay and at Kamakura, Kanagawa|Kamakura, where it destroyed the building housing the statue of the Great Buddha at Kōtoku-in. There is also evidence of severe shaking from records of Soil liquefaction|ground liquefaction in the Nankaidō|Nankai area. Tsunami deposits attributed to this earthquake have been described from the coastal plains around the Sagami Trough and the Izu Peninsula.
+
+Uplift of the seafloor of up to 4 m has been estimated for this earthquake, with a much smaller subsidence near the coast. Lake Hamana became a brackish lake because the tsunami broke shoal between the lake and the Pacific Ocean (Enshū Nada).
+
+==References==
+{{Portal|Japan|Disasters}}
+{{Reflist}}
+
+{{NankaiTroughMegathrust}}
+{{Earthquakes in Japan}}
+
+{{DEFAULTSORT:1498 Meio Nankaido earthquake}}
+Category:Megathrust earthquakes in Japan
+Category:Tsunamis in Japan
+Category:15th-century earthquakes
+Category:1498 disasters
+
+{{Link GA|ja}}

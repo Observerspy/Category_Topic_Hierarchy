@@ -1,0 +1,50 @@
+{{Earthquake
+|title=1994 Taiwan Strait Earthquake
+|date= {{Start date|1994|09|16|df=y}}
+|map2 = {{Location map | Taiwan|relief=1
+ | label=
+ | lat=22.528
+ | long=118.711
+ | mark=Bullseye1.png
+ | marksize=30
+ | position=top
+ | width= 250
+ | float=right
+ | caption=}} 
+|magnitude = M<sub>w</sub> 6.8 
+|depth= 13 km
+|location= {{coord|22.528|N|118.711|E}} 
+|countries affected =
+|casualties = 4
+}}
+
+The '''1994 Taiwan Strait earthquake''' occurred on September 16, 1994 at 14:20 local time (06:20 UTC) in the southern Taiwan Strait. The magnitude of this earthquake was given as M<sub>w</sub> 6.8 by USGS and M<sub>s</sub> 7.3 by Fujian Seismological Bureau. The epicenter was located about 150 to 180&nbsp;km from the coast of the border of Guangdong and Fujian, and about 150&nbsp;km southwest of Taiwan.
+
+== Geology ==
+
+The earthquake occurred in the transition zone from the continental margin to the continent-ocean transitional crust. In this region, the depth of the Mohorovi?i? discontinuity|Moho interface decreases from about 28&nbsp;km in the west to about 20&nbsp;km in the east. The transition between continental and oceanic crusts is reflected in the variation of the depth of the Moho interface.
+
+There are several NW trending faults in the Taiwan Strait, including the Ningde-Sandiaojiao fault zone (宁德-三貂角断裂带), the Taizhong-Jinjiang fault zone (台中-晋江断裂带), and the Bashi fault zone (巴士断裂带).
+
+A paper of Fujian Seismological Bureau showed that the earthquake was caused by left-lateral strike slip of a normal fault.
+
+The earthquake had a maximum slip of 14 m in the hypocentral region. The source duration was about 4 s, which is short for an event with magnitude about M<sub>w</sub> 6.7. From the slip amplitude and the source duration, it was suggested that this earthquake began as a breaking of a strong asperity with low dynamic friction, had high stress drop, and was stopped by large friction around the asperity.
+
+== Damage ==
+
+The intensities recorded in Taiwan were shindo 4 in Penghu, 3 in Kaohsiung, and 2 in Taipei. The earthquake could be felt in Hong Kong and Macau, and the intensity recorded in Hong Kong was MM V to VI. Cities as north as Hefei and as west as Nanning were included in the felt range.
+
+== Tsunami ==
+
+A tsunami was triggered by the earthquake. The heights of the tsunami were recorded as 38&nbsp;cm in Penghu, Taiwan and 18&nbsp;cm in Dongshan County|Dongshan, Fujian, China.
+
+== References ==
+{{reflist}}
+
+{{Earthquakes in 1994}}
+{{Taiwan earthquakes}}
+{{Earthquakes in China}}
+
+Category:1994 earthquakes|Taiwan Strait Earthquake, 1994
+Category:Earthquakes in Taiwan
+Category:1994 in Taiwan|Taiwan Strait Earthquake, 1994

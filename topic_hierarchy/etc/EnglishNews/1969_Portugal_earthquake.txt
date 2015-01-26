@@ -1,0 +1,46 @@
+{{Use mdy dates|date=March 2012}}
+{{Infobox earthquake
+|title = 1969 Portugal earthquake
+|date = {{Start-date|February 28, 1969}}
+| map2 = {{Location map | Europe
+ | relief = yes
+ | lat = 36.017
+ | long = -10.950
+ | mark = Bullseye1.png
+ | marksize = 40
+ | position = top
+ | width = 250
+ | float = right
+ | caption = }}
+|magnitude = 7.8 Moment magnitude scale|M<sub>w</sub>
+|depth = 22 km
+|location = {{coord|36.017|-10.950|display=inline,title}}
+|countries affected = Portugal, Morocco
+|tsunami = minor
+|casualties = 13
+}}
+
+The '''1969 Portugal earthquake''' struck western Portugal and Morocco on February 28 at 02:40 Coordinated universal time|UTC. Originating west of the Strait of Gibraltar, the earthquake registered a Moment magnitude scale|magnitude of 7.8 and the maximum felt intensity was VII (Very Strong) on the Mercalli intensity scale. In total, thirteen people died. Far more people sustained minor injuries.
+
+==Tectonic setting==
+{{see also|Geology of Portugal}}
+
+The epicenter of the earthquake lies within a diffuse zone of seismicity known as the Azores-Gibraltar Transform Fault|Azores-Gibraltar seismic belt, Investigations using Multibeam echosounder|multibeam swathe bathymetry have revealed additional SW-NE trending reverse faults and fold axes and a set of WNW-ESE trending lineaments, interpreted as Fault (geology)#Strike-slip faults|strike-slip faults. The earthquake was located within the Horseshoe Abyssal Plain where active reverse faulting has been imaged on reflection seismology|seismic reflection data.
+
+== Damage and casualties ==
+At magnitude 7.8, the earthquake was considered very powerful. The resulting damage killed thirteen people (11 in Morocco and 2 in Portugal) and injured about a further 1,000. Damage to local buildings was "moderate", according to the United States Geological Survey. Overall, structures were prepared for the earthquake and responded well, retaining slight, if any, damage.
+
+==Characteristics==
+The earthquake is interpreted to result from movement on a southeast-dipping reverse fault.
+
+== See also ==
+*List of 20th century earthquakes
+
+== References ==
+{{reflist|colwidth=30em}}
+
+Category:Earthquakes in Portugal
+Category:1969 earthquakes|Portugal Earthquake, 1969
+Category:Earthquakes in Morocco
+Category:1969 in Portugal
+Category:1969 in Morocco

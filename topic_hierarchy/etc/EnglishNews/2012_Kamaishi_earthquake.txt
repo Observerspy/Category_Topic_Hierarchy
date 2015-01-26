@@ -1,0 +1,54 @@
+{{Infobox earthquake
+|title              = 2012 Kamaishi earthquake
+|image              = 
+|image alt          = 
+|imagecaption       =
+|map                = 2012 M7-3 Kamaishi Japan Map.png
+|map alt            = 
+|image name         =
+|map2               =
+|mapsize            = 
+|caption            =
+|date               = {{Start date|2012|12|07}}
+|origintime         = 08:18 UTC (17:18 local time) 
+|duration           = about 1 minute 
+
+|magnitude          = 7.3
+|depth              = {{convert|36.1|km|mi|0|abbr=on}}
+|location           = {{Coord|37.889|N|144.090|E|type:event_scale:50000000|display=inline,title}} 
+|type               =
+|countries affected = Japan
+|damage             =
+|intensity          = ''Mercalli intensity scale|MM'' IV<br />''Japan Meteorological Agency seismic intensity scale|Shindo'' 5-
+|PGA                = 
+|tsunami            = 1.0 m in Ishinomaki, Miyagi
+|landslide          = no
+|foreshocks         = 
+|aftershocks        = 8
+|casualties         = 3 dead, 14 injured  
+
+}}
+The '''2012 Kamaishi earthquake''' occurred near the city of Kamaishi, Japan, on December 7.
+
+== Damage ==
+
+=== Tsunami ===
+The {{convert|1|m|ft}} tsunami caused a mountain of sandbags to collapse in Ishinomaki, Miyagi|Ishinomaki. An old man went missing and was found dead on December 14 after he sailed out to sea to try to evacuate from the tsunami in Kuji, Iwate|Kuji.
+
+=== Shaking ===
+Some pipeworks were damaged in an old people's facility in Saitama, Saitama|Saitama. An old lady died of Shock (circulatory)|shock at her home in Marumori, Miyagi|Marumori, and a man died of shock after trying to evacuate from where he was working in Iitate, Fukushima|Iitate, causing a total of 2 deaths. This earthquake also caused 14 injuries.
+
+==References==
+{{Reflist}}
+
+{{Earthquakes in 2012}}
+{{2011 Tōhoku earthquake and tsunami}}
+{{Earthquakes in Japan}}
+
+Category:2012 in Japan|Kamaishi earthquake
+Category:2012 earthquakes
+Category:Earthquakes in Japan
+Category:21st-century tsunamis
+
+
+{{Earthquake-stub}}

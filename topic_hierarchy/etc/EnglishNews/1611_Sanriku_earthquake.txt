@@ -1,0 +1,49 @@
+{{Earthquake
+|date= {{Start-date|December 2, 1611}}
+|map2 = {{Location map | Japan
+ | label=
+ | lat=39.0
+ | long=144.4
+ | mark=Bullseye1.png
+ | marksize=40
+ | position=top
+ | width= 250
+ | float=right
+ | caption=
+ | relief =yes}}
+|magnitude = 8.1 
+|depth=
+|location={{coord|39.0|144.4|display=inline,title}}
+|countries affected = Japan: Pacific Ocean, Tōhoku region  
+|tsunami = yes
+|casualties = About 5,000
+}}
+The {{Nihongo|'''1611 Sanriku earthquake'''|庆长三陆地震|Keichō Sanriku Jishin}} occurred on December 2, 1611 with an epicenter off the Sanriku coast in Iwate Prefecture. The Seismic scale#Magnitude scales|magnitude of the earthquake was 8.1M It triggered a devastating tsunami. A description of this event in an official diary from 1612 is probably the first recorded use of the term 'tsunami'.
+
+==Overview==
+At about 10:30 on December 2, 1611 (Keichō 16, 10th month, 28th day), there was a severe earthquake, and at about 14:00 (local time), this was followed by a devastating tsunami. According to old documents, the earth shook violently three times.
+ 
+The estimated rupture area for the earthquake is similar to that calculated for the 1933 Sanriku earthquake.
+ 
+With this earthquake, the area along the Pacific Ocean in what is currently called the Sanriku Coast did shake strongly, but only about 4-5 on the Shindo scale. The damage from the tsunami far exceeded that from the earthquake, so this is considered to be a tsunami earthquake. Consequently, the disaster caused by earthquake is also known as the "Keicho Sanriku tsunami earthquake". It would have been very similar to the 1605 Keichō Nankaidō earthquake, a tsunami earthquake in the Nankai Trough area.
+
+==Sources==
+The source of the earthquake was off the north coast of Sanriku. However, due to the time delay of nearly four hours before the tsunami arrived, there are questions about the exact location of the source.
+ 
+Professor Kazuomi Hirakawa of Hokkaido University has found tsunami deposits on the southern part of Hokkaido and northern Sanriku from the early part of the 17th century. It is possible that the earthquake and tsunami in Sanriku was an enormous quake that resonated even in the area of the Kurile Trench off the eastern coast of Hokkaido.
+
+==Damage==
+The tsunami reached its maximum estimated height of about 20 meters at ?funato, Iwate.
+ 
+The tsunami struck on the east coast of Sanriku from Sendai bay in the south to southeastern Hokkaido in the north, a greater length of coastline than was affected by the 1896 Meiji-Sanriku earthquake|1896 tsunami.
+
+==Notes==
+{{Reflist|30em}}
+
+{{JapanTrenchMegathrust}}
+{{Earthquakes in Japan}}
+
+Category:Megathrust earthquakes in Japan
+Category:Tsunamis in Japan
+Category:1610s earthquakes
+Category:1611 in Japan

@@ -1,0 +1,76 @@
+{{Earthquake
+|title= 1872 Lone Pine earthquake
+|image = Lone Pine fault scarp-1200px.jpg
+|imagecaption = Lone Pine fault scarp
+|date= {{Start-date|March 26, 1872}}
+|map2 = {{Location map+ | California
+|places =
+{{Location map~|California|lat=32.72|long=-117.16|label=San Diego|position=left|mark=Green pog.svg}}
+{{Location map~|California|lat=38.56|long=-121.47|label=Sacramento|position=right|mark=Green pog.svg}}
+{{Location map~|California|lat=36.61|long=-118.06|label=Lone Pine|position=right|mark=Green pog.svg}}
+{{Location map~|California|lat=36.7|long=-118.1|mark=Bullseye1.png|marksize=40}}
+ | relief = yes
+ | width = 250
+ | float = right
+ | caption = }}
+|magnitude = 7.6 – 8.0 Richter scale|M<sub>L</sub>
+|depth =
+|location = {{coord|36.7|-118.1|display=inline,title}} 
+|countries affected = United States, California
+|damage = $250,000 
+|intensity = X (''Intense'') 
+|casualties = 27 
+{{Designation list|embed=yes|designation1=California|designation1_number=507|designation1_offname=Grave of 1872 Earthquake Victims}}
+}}
+
+The '''Great Lone Pine earthquake''' was one of the largest earthquakes to hit California in recorded history. The quake struck on March 26, 1872 and its epicenter was near Lone Pine, California in Owens Valley. The true size of this earthquake is not known, but historical evidence detailing the damage it caused in settlements and landforms near the epicenter, and the geographic extent to which noticeable movement was felt, leads researchers to estimate a Richter magnitude of 7.6 to 8 or greater &mdash; similar in size to the 1906 San Francisco earthquake.
+
+==Tectonic setting==
+The quake resulted from sudden vertical (15–20&nbsp;feet/4.5–6&nbsp;m) and right-lateral (35–40&nbsp;feet/10.6–12.2&nbsp;m) movement on the Lone Pine Fault and part of the Owens Valley Fault. These geologic fault|faults are part of a twin system of normal faults  that run along the base of two parallel mountain ranges; the Sierra Nevada (U.S.)|Sierra Nevada on the west and Inyo Mountains on the east flank of Owens Valley. This particular event created fault scarps from north of Big Pine, California, (55 miles/88&nbsp;km north of Lone Pine), to Haiwee Reservoir (30 miles/48&nbsp;km south of Lone Pine).
+
+==Earthquake==
+{{see also|List of earthquakes in California}}
+
+The quake hit at 2:10 on a Tuesday morning and leveled almost all the buildings in Lone Pine and nearby settlements. Of the estimated 250-300 inhabitants of Lone Pine, 27 are known to have perished and 52 of the 59 houses were destroyed. One report states that the main buildings were thrown down in almost every town in Inyo County, California|Inyo County. About {{convert|130|km|mi|sp=us}} south of Lone Pine, at Indian Wells, Kern County, California, adobe houses sustained cracks. Property loss has been estimated at $250,000 (1872 dollars). As in many earthquakes, adobe, stone and masonry structures fared worse than wooden ones which prompted the closing of nearby Camp Independence which was an adobe structure destroyed in the quake.
+
+File:Pyramid stone on Lone Pine fault scarp-750px.jpg|thumb|250px|Scarp boulder that has been studied
+
+The quake was felt strongly as far away as Sacramento, California|Sacramento, where citizens were startled out of bed and into the streets. Giant rockslides in what is now Yosemite National Park woke naturalist John Muir, then living in Yosemite Valley, who reportedly ran out of his cabin shouting, "A noble earthquake!" and promptly made a moonlit survey of the fresh Scree|talus piles. This earthquake stopped clocks and awakened people in San Diego, California, to the south, Red Bluff, California, to the north, and Elko, Nevada, to the east. The shock was felt over most of California and much of Nevada. Thousands of aftershocks occurred, some severe.
+
+==Aftermath==
+Researchers later estimated that similar earthquakes occur on the Lone Pine fault every 3,000-4,000 years. However, the Lone Pine fault is only one of many faults on two parallel systems of faults mentioned above.
+
+This earthquake also formed a small graben that later was filled by water, creating {{convert|86|acre|m2|adj=on}} Diaz Lake.
+
+Many geoscientists who have studied the area theorize that quakes similar to the 1872 Lone Pine event are responsible for creating Owens Valley (see Basin and Range Province for ideas on what triggers these quakes).
+
+The common grave of the earthquake's victims is now registered as California Historical Landmark #507.
+
+==See also==
+*List of earthquakes and tsunamis in the United States
+*:Category:Geography of Inyo County, California|Category: Geography of Inyo County, California
+
+==References==
+{{reflist|30em|refs=
+
+}}
+
+;Bibliography
+{{Refbegin}}
+* {{citation|title=Refining the Southern Extent of the 1872 Owens Valley Earthquake Rupture through Paleoseismic Investigations in the Haiwee Area, Southeastern California|url=http://bssa.geoscienceworld.org/content/103/2A/1022.abstract|first=C. B.|last=Amos|first2=A. T.|last2=Lutz|first3=A. S.|last3=Jayko|first4=S. A.|last4=Mahan|first5=G. Burch|last5=Fisher|first6=J. R.|last6=Unruh|year=2013|journal=Bulletin of the Seismological Society of America|publisher=Seismological Society of America|volume=103|number=2A|pages=1022-1037}}
+* {{citation|title=Revisiting the 1872 Owens Valley, California, Earthquake|url=http://bssa.geoscienceworld.org/content/98/2/931.abstract|first=S. E.|last=Hough|authorlink=Susan Hough|first2=K.|last2=Hutton|authorlink2=Kate Hutton|year=2008|journal=Bulletin of the Seismological Society of America|publisher=Seismological Society of America|volume=98|number=2|pages=931-949}}
+* {{cite book|title=Geology Underfoot in Death Valley and Owens Valley|last=Sharp|first=Robert P.|authorlink=Robert P. Sharp|last2=Glazner|first2=Allen F.|publisher=Mountain Press Publishing Company|year=1997|edition=First|isbn=0-87842-362-1}}
+{{Refend}}
+
+==External links==
+*http://earthquake.usgs.gov/regional/states/events/1872_03_26.php Historic Earthquakes – United States Geological Survey
+
+{{Significant earthquakes in California}}
+
+{{DEFAULTSORT:1872 Lone Pine Earthquake}}
+Category:Earthquakes in California|Lone Pine earthquake, 1872
+Category:History of Inyo County, California
+Category:History of the Mojave Desert region
+Category:History of the Sierra Nevada (U.S.)
+Category:Natural history of the Mojave Desert
+Category:1872 earthquakes|Lone Pine

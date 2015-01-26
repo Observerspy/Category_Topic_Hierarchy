@@ -1,0 +1,56 @@
+1: #vote and seat summaries#vote
+2: #before the primaries
+3: #chamber of deputies
+6: #general election campaign#election campaign#campaign#campaigns#campaign issues
+7: #results by province
+8: #campaign slogans
+9: #government formation
+10: #apportionment
+11: #conduct
+13: #eligibility
+15: #electoral system
+16: #electoral maps
+17: #polls#opinion polls#opinion polling#exit polls
+20: #results
+22: #congress of deputies
+23: #second round
+24: #issues
+25: #reactions
+26: #investiture voting
+27: #summary#aftermath#analysis
+28: #results by region
+29: #nominations#other nominations
+30: #ballot access
+31: #official candidates#registered candidates#candidates#presidential candidates
+33: #procedure
+37: #first round
+40: #debates#presidential debates#leaders' debates
+42: #votes by state#results by state
+43: #senate
+50: #controversies
+51: #timeline
+53: #international observers
+54: #post-election
+55: #sources
+58: #manifestos
+60: #endorsements
+61: #party conventions
+64: #turnout
+65: #candidates by party
+66: #seat by seat results
+69: #other candidates
+70: #unsuccessful candidacies
+71: #result#overall results#overview of results
+72: #political parties
+73: #economy
+75: #withdrawn
+77: #electronic voting
+78: #political context
+80: #health care
+83: #official candidate websites
+84: #comparison
+85: #rejected candidates
+86: #electors#voter demographics
+88: #media bias
+89: #background#overview
+90: #primaries#early primaries/caucuses

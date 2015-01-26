@@ -1,0 +1,41 @@
+{{Infobox earthquake
+|title = 1976 Papua earthquake
+|date = {{Start-date|25 June 1976}}
+|map2 = {{Location map | Indonesia Papua
+ | label =
+ | lat = -4.52
+ | long = 139.022
+ | mark = Bullseye1.png
+ | marksize = 50
+ | position = top
+ | width = 250
+ | float = right
+ | caption =
+ | relief = }}
+|caption =
+|magnitude = 7.1 Moment magnitude scale|M<sub>w</sub>
+|location =  {{coord|-4.52|140.10|display=inline, title}}
+|countries affected = Indonesia
+|tsunami = none
+|casualties = at least 422 dead, over 5,000 missing
+}}
+
+The '''1976 Papua earthquake''' occurred on 25 June with a moment magnitude scale|moment magnitude of 7.1 in Papua, Indonesia. Total deaths for the event amounted to 422, including 70 who died in subsequent landslides.
+
+== Background ==
+<!--File:1976 papua indonesia earthquake intensity map.jpg|thumb|United States Geological Survey ShakeMap-->
+Indonesia lies within the Pacific Ring of Fire, a sector of the Pacific where several plate tectonics|tectonic plates intersect. This movement between the plates results in extremely high volcanic and seismic activity. Papua, Indonesia|Papua is constantly plagued by landslides.
+
+== Damage and casualties ==
+Directly after the earthquake the casualty count was assessed as 350 dead. However, landslides soon occurred in the affected area, leading to 72 more casualties. 5,000-9,000 were missing after the landslides, and were assumed dead. A total six villages were demolished in the area. The west sector of Irian and eastern New Guinea also reported that the earthquake was felt significantly in their region.
+
+== See also ==
+* 2009 Papua earthquake
+
+== References ==
+{{reflist|30em}}
+
+{{DEFAULTSORT:Papua earthquake}}
+Category:Earthquakes in Indonesia|1976 Papua
+Category:1976 earthquakes
+Category:1976 in Indonesia

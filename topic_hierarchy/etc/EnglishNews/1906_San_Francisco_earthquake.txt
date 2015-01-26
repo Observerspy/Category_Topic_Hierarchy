@@ -1,0 +1,206 @@
+{{pp-protected|expiry=2014-06-13 00:25:29|small=yes}}{{Redirect|San Francisco Earthquake|the 1989 earthquake|1989 Loma Prieta earthquake}}
+{{Use mdy dates|date=March 2012}}
+{{pp-move-indef}}
+{{Earthquake
+|title= 1906 San Francisco earthquake
+|date={{Start date|1906|4|18}}
+|map= Post-and-Grant-Avenue.-Look.jpg|thumb|250px
+|magnitude=7.8 Moment magnitude scale|M<sub>w</sub>
+|depth={{convert|8|km|mi|1|sp=us}}
+|epicenter location=
+|intensity= Mercalli intensity scale|X - Intense
+|countries affected=United States <br /> (San Francisco Bay Area)
+|location={{coord|37.75|-122.55|display=inline,title}}
+|casualties= 3,000+ (Estimated 3425)
+|length=48&nbsp;seconds
+}}
+File:Sfearthquake2.jpg|right|thumb|250px|Stockton Street from Union Square, looking toward Market Street
+File:San Francisco Fire Sacramento Street 1906-04-18.jpg|right|thumb|250px|Arnold Genthe's Looking Down Sacramento Street, San Francisco, April 18, 1906|famous photograph, looking toward the fire on Sacramento Street
+File:1906 Boatwright intensity.jpg|thumb|250px|Quake intensity{{clarify|date=April 2014}} throughout the region.
+The '''San Francisco earthquake of 1906''' struck San Francisco and the coast of Northern California at 5:12&nbsp;a.m. on Wednesday, April 18, 1906. Devastating fires broke out in the city that lasted for several days. As a result of the quake and fires, about 3,000 people died and over 80% of San Francisco was destroyed.
+
+The earthquake and resulting fire are remembered as one of the List of United States disasters by death toll|worst natural disasters in the history of the United States alongside the Galveston Hurricane of 1900 and Hurricane Katrina in 2005. The death toll from the earthquake and resulting fire is the greatest loss of life from a natural disaster in California's history.
+
+==Impact==
+At the time, 375 deaths were reported. nearby cities, such as Santa Rosa, California|Santa Rosa and San Jose, California|San Jose, also suffered severe damage. In Monterey County, the earthquake permanently shifted the course of the Salinas River (California)|Salinas River near its mouth.  Where previously the river emptied into Monterey Bay between Moss Landing, California|Moss Landing and Watsonville, California|Watsonville, it was diverted 6&nbsp;miles south to a new outlet just north of Marina, California|Marina.
+
+File:SanFranHouses06.JPG|left|thumb|Howard StreetBetween 227,000 and 300,000 people were left homeless out of a population of about 410,000; half of those who evacuated fled across the bay to Oakland, California|Oakland and Berkeley, California|Berkeley. Newspapers described Golden Gate Park, the Presidio of San Francisco|Presidio, Panhandle (San Francisco)|the Panhandle and the beaches between Ingleside (San Francisco)|Ingleside and North Beach, San Francisco, California|North Beach as covered with makeshift tents. More than two years later, many of these refugee camps were still in operation.
+
+File:Capsized SS Columbia.png|thumb|left|The coastal liner SS Columbia (1880)|''Columbia'' on her side at the Union Iron Works Pier 70, San Francisco|dry dock
+The earthquake and fire left long-standing and significant pressures on the development of California. At the time of the disaster, San Francisco had been the ninth-largest city in the United States and the largest on the West Coast of the United States|West Coast, with a population of about 410,000. Over a period of 60 years, the city had become the financial, trade and cultural center of the Western United States|West; operated the busiest port on the West Coast; and was the "gateway to the Pacific", through which growing U.S. economic and military power was projected into the Pacific and Asia. Over 80% of the city was destroyed by the earthquake and fire. Though San Francisco rebuilt quickly, the disaster diverted trade, industry and population growth south to Los Angeles, which during the 20th century became the largest and most important urban area in the West. Many of the city's leading poets and writers retreated to Carmel-by-the-Sea where, as "The Barness", they established the arts colony reputation that continues today.
+
+The 1908 Lawson Report, a study of the 1906 quake led and edited by Professor Andrew Lawson of the University of California, showed that the same San Andreas Fault which had caused the disaster in San Francisco ran close to Los Angeles as well. The earthquake was the first natural disaster of its magnitude to be documented by photography and motion picture footage and occurred at a time when the science of seismology was blossoming. The overall cost of the damage from the earthquake was estimated at the time to be around US$400 million ($8.2 billion in 2009 dollars).
+
+{{Wide image|San Francisco 1906 earthquake Panoramic View.jpg|800px|Panoramic view of earthquake and fire damage from Stanford Mansion site, April 18–21, 1906}}
+
+;Damage to other towns
+Although the impact of the earthquake on San Francisco was the most famous, the earthquake also inflicted considerable damage on several other cities. These include San Jose, California|San Jose and Santa Rosa, California|Santa Rosa, the entire downtown of which was essentially destroyed.
+
+==Magnitude and geology==
+File:San Andreas Fault Aerial View.gif|left|upright|thumbnail|The San Andreas Fault.
+The most widely accepted estimate for the magnitude of the earthquake is a moment magnitude scale|moment magnitude (M<sub>w</sub>) of 7.8; however, other values have been proposed, from 7.7 to as high as 8.25. The Aftershock|main shock epicenter occurred offshore about {{convert|2|mi|km}} from the city, near Mussel Rock. Shaking was felt from Oregon to Los Angeles, and inland as far as central Nevada.
+
+The earthquake was caused by a rupture on the San Andreas Fault, a continental transform fault that forms part of the tectonic boundary between the Pacific Plate and the North American Plate.  The fault is characterized by mainly lateral motion in a dextral sense, where the western (Pacific) plate moves northward relative to the eastern (North American) plate. The 1906 rupture propagated both northward and southward for a total of {{convert|296|mi|km}}. This fault (geology)|fault runs the length of California from the Salton Sea in the south to Cape Mendocino to the north, a distance of about {{convert|810|mi|km}}. The earthquake ruptured the northern third of the fault for a distance of {{convert|296|mi|km}}. The maximum observed surface displacement was about 20&nbsp;feet (6&nbsp;m); however, geodesy|geodetic measurements show displacements of up to 28&nbsp;feet (8.5&nbsp;m).
+
+A strong foreshock preceded the mainshock by about 20 to 25&nbsp;seconds. The strong shaking of the main shock lasted about 42&nbsp;seconds. The shaking intensity as described on the Mercalli intensity scale|Modified Mercalli intensity scale reached VIII in San Francisco and up to IX in areas to the north like Santa Rosa, California|Santa Rosa where destruction was devastating. There were decades of minor earthquakes&nbsp;– more than at any other time in the historical record for northern California – before the 1906 quake. Widely interpreted previously as precursory activity to the 1906 earthquake, they have been found to have a strong seasonal pattern and have been postulated to be due to large seasonal sediment loads in coastal bays that overlie faults as a result of the erosion caused by hydraulic mining in the later years of the California Gold Rush.
+
+==Subsequent fires==
+File:Sfearthquake3b.jpg|right|thumb|Burning of the Mission District, San Francisco|Mission District
+As damaging as the earthquake and its aftershocks were, the fires that burned out of control afterward were even more destructive. It has been estimated that up to 90% of the total destruction was the result of the subsequent fires. Within three days, over 30 fires, caused by ruptured gas mains, destroyed approximately 25,000 buildings on 490 city blocks. One of the largest of these fires was accidentally started in a house on Hayes Street by a woman making breakfast for her family. This came to be known as the "Ham and Eggs Fire". Some were started when San Francisco Fire Department|firefighters, untrained in the use of dynamite, attempted to demolish buildings to create firebreaks. The dynamited buildings themselves often caught fire. The city's fire chief, Dennis T. Sullivan, who would have been responsible, had died from injuries sustained in the initial quake. In all, the fires burned for four days and nights.
+
+Due to a widespread practice by insurance|insurers to indemnify San Francisco properties from fire, but not earthquake damage, most of the destruction in the city was blamed on the fires. Some property owners deliberately set fire to damaged properties, in order to claim them on their insurance. Capt. Leonard D. Wildman of the United States Army Signal Corps|U.S. Army Signal Corps reported that he "was stopped by a fireman who told me that people in that neighborhood were firing their houses…they were told that they would not get their insurance on buildings damaged by the earthquake unless they were damaged by fire".
+
+As water mains were also broken, the city fire department had few resources with which to fight the fires. Several fires in the downtown area merged to become one giant inferno. Brigadier General Frederick Funston, commander of the Presidio of San Francisco and a resident of San Francisco, tried to bring the fire under control by detonating blocks of buildings around the fire to create firebreaks with all sorts of means, ranging from black powder and dynamite to even artillery barrages. Often the explosions set the ruins on fire or helped spread it.
+
+One landmark building lost in the fire was the Palace Hotel, San Francisco|Palace Hotel, subsequently rebuilt, which had many famous visitors, including royalty and celebrated performers. It was constructed in 1875 primarily financed by Bank of California co-founder William Ralston, the "man who built San Francisco". In April 1906, the tenor Enrico Caruso and members of the Metropolitan Opera Company came to San Francisco to give a series of performances at the Grand Opera House. The night after Caruso's performance in ''Carmen'', the tenor was awakened in the early morning in his Palace Hotel suite by a strong jolt. Clutching an autographed photo of President Theodore Roosevelt, Caruso made an effort to get out of the city, first by boat and then by train, and vowed never to return to San Francisco. Caruso died in 1921, having remained true to his word. The Metropolitan Opera Company lost all of its traveling sets and costumes in the earthquake and ensuing fires.
+
+Some of the greatest losses from fire were in scientific laboratory|laboratories. Alice Eastwood, the curator of botany at the California Academy of Sciences in San Francisco, is credited with saving nearly 1,500 specimens, including the entire type specimen collection for a newly discovered and extremely rare species, before the remainder of the largest botanical collection in the western United States was consumed by fire. The entire laboratory and all the records of Benjamin R. Jacobs, a biochemistry|biochemist who was researching the nutrition of everyday foods, was lost. Another treasure lost in the fires was the original California flag used in the 1846 Bear Flag Revolt at Sonoma, California|Sonoma, which at the time was being stored in a state building in San Francisco.
+
+==U.S. Army==
+File:Thank God For The Soldiers.png|left|thumb|upright|''Thank God for the Soldiers'', a period piece depicting U.S. Army soldiers bringing food and supplies
+File:Soldiers looting 1906 fire.jpg|thumb|right|200px|Soldiers of the 22nd Infantry Regiment looting during the fire
+File:SFtent1906.JPG|thumb|right|200px|Refugees before a tent. Other tents can be seen in the background at right.
+File:Row of shacks.jpg|thumb|200px|right|One of the eleven housing camps
+
+The city's fire chief, Dennis T. Sullivan, was seriously injured when the earthquake first struck and later died from his injuries. The interim fire chief sent an urgent request to the Presidio of San Francisco|Presidio, an army post on the edge of the stricken city, for dynamite. General Funston had already decided the situation required the use of troops. Collaring a policeman, he sent word to Mayor Eugene Schmitz of his decision to assist, and then ordered army troops from nearby Angel Island, California|Angel Island to mobilize and come into the city. Explosives were ferried across the bay from the California Powder Works in what is now Hercules, California|Hercules.
+
+During the first few days, soldiers provided valuable services like patrolling streets to discourage looting and guarding buildings such as the San Francisco Mint|U.S. Mint, post office, and county jail. They aided the fire department in dynamiting to demolish buildings in the path of the fires. The army also became responsible for feeding, sheltering, and clothing the tens of thousands of displaced residents of the city. Under the command of Funston's superior, Major General Adolphus Greely, Commanding Officer, Pacific Division, over 4,000 troops saw service during the emergency. On July 1, 1906, civil authorities assumed responsibility for relief efforts, and the army withdrew from the city.
+
+On April 18, in response to riots among evacuees and looting, Mayor Schmitz issued and ordered posted a proclamation that "The Federal Troops, the members of the Regular San Francisco Police Department|Police Force and all Special Police Officers have been authorized by me to kill any and all persons found engaged in Looting or in the Commission of Any Other Crime". In addition, accusations of soldiers themselves engaging in looting also surfaced.
+
+Early on April 18, 1906, recently retired Captain Edward Otho Cresap Ord, II|Edward Ord of the 22nd Infantry Regiment (United States)|22nd Infantry Regiment was appointed a Special Police Officer by Mayor Eugene Schmitz and liasioned with Major General Adolphus Greely for relief work with the 22nd Infantry and other military units involved in the emergency. Ord later wrote a long letter
+
+==Relocation and housing==
+The army built 5,610 Sequoia sempervirens|redwood and fir "relief houses" to accommodate 20,000 displaced people. The houses were designed by John McLaren (park superintendent)|John McLaren, and were grouped in eleven camps, packed close to each other and rented to people for two dollars per month until rebuilding was completed. They were painted olive drab, partly to blend in with the site, and partly because the military had large quantities of olive drab paint on hand. The camps had a peak population of 16,448 people, but by 1907 most people had moved out. The camps were then re-used as garages, storage spaces or shops. The cottages cost on average $100 to put up. The $2 monthly rents went towards the full purchase price of $50. Most of the shacks have been destroyed, but a small number survived. One of the modest {{convert|720|sqft|m2|abbr=on}} homes was recently purchased for more than $600,000. The last official refugee camp was closed on June 30, 1908.
+
+==Aftermath and reconstruction==
+Property losses from the disaster have been estimated to be more than $400 million. An insurance industry source tallies insured losses at $235 million, the equivalent to ${{Formatprice|{{Inflation|US|235000000|1906}}}} in {{#expr:{{CURRENTYEAR}}-1}} dollars.{{Inflation-fn|US}}{{Citation needed|date=March 2014}}
+File:San Francisco Earthquake of 1906, (People) leaving the city - NARA - 522958.tif|thumb|200px|Refugees leaving the city
+Political and business leaders strongly downplayed the effects of the earthquake, fearing loss of outside investment in the city which was badly needed to rebuild.{{Citation needed|date=March 2014}} In his first public statement, California governor George C. Pardee emphasized the need to rebuild quickly: "This is not the first time that San Francisco has been destroyed by fire, I have not the slightest doubt that the City by the Golden Gate will be speedily rebuilt, and will, almost before we know it, resume her former great activity". The earthquake itself is not even mentioned in the statement. Fatality and monetary damage estimates were manipulated.
+
+Almost immediately after the quake (and even during the disaster), planning and reconstruction plans were hatched to quickly rebuild the city. Rebuilding funds were immediately tied up by the fact that virtually all the major banks had been sites of the conflagration, requiring a lengthy wait of seven-to-ten days before their fire-proof vaults could cool sufficiently to be safely opened. The Bank of Italy, however, had evacuated its funds and was able to provide liquidity in the immediate aftermath. Its president also immediately chartered and financed the sending of two ships to return with shiploads of lumber from Washington and Oregon mills which provided the initial reconstruction materials and surge. In 1929, Bank of Italy was renamed and is now known as Bank of America.{{Citation needed|date=March 2014}}
+
+William James, the pioneering American psychologist, was teaching at Stanford at the time of the earthquake and traveled into San Francisco to observe first-hand its aftermath.  He was most impressed by the positive attitude of the survivors and the speed with which they improvised services and created order out of chaos. This formed the basis of the chapter "On some Mental Effects of the Earthquake" in his book ''Memories and Studies''.
+
+H.G. Wells|H. G. Wells had just arrived in New York on his first visit to America when he learned, at lunch, of the San Francisco earthquake. What struck him about the reaction of those around him was that "it does not seem to have affected any one with a sense of final destruction, with any foreboding of irreparable disaster. Every one is talking of it this afternoon, and no one is in the least degree dismayed. I have talked and listened in two clubs, watched people in cars and in the street, and one man is glad that Chinatown will be cleared out for good; another's chief solicitude is for Jean-Fran?ois Millet|Millet's 'Man with the Hoe.' 'They'll cut it out of the frame,' he says, a little anxiously. 'Sure.'  But there is no doubt anywhere that San Francisco can be rebuilt, larger, better, and soon.  Just as there would be none at all if all this New York that has so obsessed me with its limitless bigness was itself a blazing ruin. I believe these people would more than half like the situation."
+
+The grander of citywide reconstruction schemes required investment from Eastern monetary sources, hence the spin and de-emphasis of the earthquake, the promulgation of the tough new building codes, and subsequent reputation sensitive actions such as the official low death toll.{{Citation needed|date=March 2014}} One of the more famous and ambitious plans came from famed urban planner Daniel Burnham. His bold plan called for, among other proposals, Baron Haussmann|Haussmann-style avenues, boulevards, arterial thoroughfares that radiated across the city, a massive civic center complex with classical structures, and what would have been the largest urban park in the world, stretching from Twin Peaks (San Francisco, California)|Twin Peaks to Lake Merced with a large wikt:athenaeum|atheneum at its peak. But this plan was dismissed at the time as impractical and unrealistic.
+
+For example, real estate investors and other land owners were against the idea due to the large amount of land the city would have to purchase to realize such proposals.{{Citation needed|date=October 2007}} City fathers likewise attempted at the time to eliminate the Chinese population and export Chinatown, San Francisco, California|Chinatown (and other poor populations) to the edge of the county where the Chinese could still contribute to the local taxbase.{{Citation needed|date=March 2014}} The Chinese occupants had other ideas and prevailed instead. Chinatown was rebuilt in the newer, modern, Western form that exists today. The destruction of San Francisco City Hall|City Hall and the Hall of Records enabled thousands of Chinese immigrants to claim residency and citizenship, creating a backdoor to the Chinese Exclusion Act (United States)|Chinese Exclusion Act, and Asian American#Immigration trends|bring in their relatives from China.
+File:Sfearthquake.jpg|right|thumb|View from the San Francisco Ferry Building|Ferry Building tower, southwest down on Market Street.
+While the original street grid was restored, many of Burnham's proposals inadvertently saw the light of day, such as a Neoclassical architecture|neoclassical civic center complex, wider streets, a preference of arterial thoroughfares, a Market Street Subway|subway under Market Street, a more people-friendly Fisherman's Wharf, San Francisco|Fisherman's Wharf, and a monument to the city on Telegraph Hill, San Francisco|Telegraph Hill, Coit Tower.
+
+The earthquake was also responsible for the development of the Pacific Heights, San Francisco, California|Pacific Heights neighborhood. The immense power of the earthquake had destroyed almost all of the mansions on Nob Hill, San Francisco, California|Nob Hill except for the Flood Mansion. Others that hadn't been destroyed were dynamited by the Army forces aiding the firefighting efforts in attempts to create firebreaks. As one indirect result, the wealthy looked westward where the land was cheap and relatively undeveloped, and where there were better views and a consistently warmer climate. Constructing new mansions without reclaiming and clearing old rubble simply sped attaining new homes in the tent city during the reconstruction.{{Citation needed|date=March 2014}} In the years after the first world war, the "money" on Nob Hill migrated to Pacific Heights, where it has remained to this day.
+
+Reconstruction was swift, and largely completed by 1915, in time for the Panama-Pacific Exposition which celebrated the reconstruction of the city and its "rise from the ashes".
+
+Since 1915, the city has officially commemorated the disaster each year by gathering the remaining survivors at Lotta's Fountain, a fountain in the city's Financial District (San Francisco)|financial district that served as a meeting point during the disaster for people to look for loved ones and exchange information.
+
+{{wide image|San Francisco in ruin edit2.jpg|1000px|"San Francisco in ruins from George R. Lawrence|Lawrence kite photography|Captive Airship{{snd}}2000 feet 660 m above San Francisco Bay{{snd}}Overlooking waterfront.{{snd}}Sunset over Golden Gate." Market Street (San Francisco)|Market Street leads directly away from San Francisco Ferry Building|Ferry Building tower, center foreground.}}
+
+==International assistance and insurance payments==
+During the first few days after news of the disaster reached the rest of the world, relief efforts reached over $5,000,000.{{Citation needed|date=March 2014}} London raised hundreds of thousands of dollars. Individual citizens and businesses donated large sums of money for the relief effort: Standard Oil gave $100,000; Andrew Carnegie gave $100,000; the Dominion of Canada made a special appropriation of $100,000 and even the Bank of Canada in Toronto gave $25,000.{{Citation needed|date=October 2007}} The U.S. government quickly voted for one million dollars in relief supplies which were immediately rushed to the area, including supplies for food kitchens and many thousands of tents that city dwellers would occupy the next several years.{{Citation needed|date=March 2014}} These relief efforts, however, were not nearly enough to get families on their feet again, and consequently the burden was placed on wealthier members of the city, who were reluctant to assist in the rebuilding of homes they were not responsible for. All residents were eligible for daily meals served from a number of communal soup kitchens and citizens as far away as Idaho and Utah were known to send daily loaves of bread to San Francisco as relief supplies were coordinated by the railroads.{{Citation needed|date=March 2014}}
+
+Insurance companies, faced with staggering claims of $250 million, However, Lloyds of London reports having paid all claims in full, more than $50 million
+
+The earthquake was the worst single incident for the insurance industry before the September 11, 2001, attacks|September 11, 2001 attacks, and the largest U.S. relief effort ever, to this day, including even Hurricane Katrina.{{Citation needed|date=March 2014}} After the 1906 earthquake, a global discussion arose concerning a legally flawless exclusion of the earthquake hazard from fire insurance contracts. It was pressed ahead mainly by re-insurers. Their aim was the globally uniform solution of the problem of earthquake hazard in fire insurance contracts. Until 1910, a few countries, especially in Europe, followed the call for an exclusion of the earthquake hazard from all fire insurance contracts. In the U.S., however, the question was discussed differently. But the traumatized public reacted with fierce opposition. On August 1, 1909, the California Senate enacted the California Standard Form of Fire Insurance Policy, which did not contain any earthquake clause. Thus the state decided that insurers would have to pay again if another earthquake was followed by fires. Other earthquake-endangered countries followed the California example. The insurance payments heavily affected the international financial system. Gold transfers from European insurance companies to policyholders in San Francisco led to a rise in interest rates, subsequently to a lack of available loans and finally to the Knickerbocker Trust Company crisis of October 1907 which led to the Panic of 1907.
+
+==Centennial commemorations==
+File:Agassiz in the Concrete.jpg|thumb|right|upright=1.0|Thirty miles south of San Francisco, a statue of geologist Louis Agassiz was toppled from a Stanford University facade. Stanford President David Starr Jordan later wrote, "Somebody{{snd}}Frank Angell|Dr. Angell, perhaps{{snd}}remarked that 'Agassiz was great in the abstract but not in the concrete.{{'"}}{{thinsp}}
+
+The 1906 Centennial Alliance was set up as a clearing-house for various centennial events commemorating the earthquake. Award presentations, religious services, a National Geographic TV movie, a projection of fire onto the Coit Tower, memorials, and lectures were part of the commemorations. The USGS Earthquake Hazards Program issued a series of Internet documents, and the tourism industry promoted the 100th anniversary as well.
+
+Eleven survivors of the 1906 earthquake attended the centennial commemorations in 2006, including Irma Mae Weule, who was the oldest survivor of the quake at the time of her death in 2008 at the age of 109. Vivian Illing (December 25, 1900 – January 22, 2009) was believed to be the second-oldest survivor at the time of her death, leaving Herbert Hamrol (January 10, 1903 – February 4, 2009) as the last known remaining survivor at the time of his death.
+
+Shortly after Hamrol's death, however, two additional survivors were discovered. William Del Monte, 103, and Jeanette Scola Trapani (April 21, 1902 – December 28, 2009), 106, stated that they stopped attending events commemorating the earthquake when it became too much trouble for them. The discovery has opened up the possibility that there may still be more living survivors left that have not become public knowledge. Del Monte and another survivor, Rose Cliver, then 106, attended the earthquake reunion celebration on April 18, 2009, the 103rd anniversary of the earthquake. Cliver died in 2012 at the age of 109. Nancy Stoner Sage died at the age of 105 in Colorado just three days short of the 104th anniversary of the earthquake on April 18, 2010. Del Monte attended the event at Lotta's Fountain on April 18, 2010 and the dinner at John's Restaurant the night before.
+
+Pebble Beach, California resident Ruth Newman, 112, is thought to be the oldest survivor and Bill Del Monte, 108, is thought to be the last male survivor following the death of 107-year-old George Quilici on May 31, 2012. Another survivor, Libra Armstrong (1903-), attended the 2006 anniversary, but was not heard from since.
+
+The death of Winnie Hook on 11 June 2013 at the age of 107 leaves only two survivors of the 1906 San Francisco earthquake: Ruth Newman, 112, and William del Monte, 108.
+
+==Analysis==
+File:Sfbay srt 1906108.jpg|thumb|right|upright=2.0|The San Andreas Fault runs in northwest-southeast along the coast. Numbers give the ground surface slippage (in feet) at various points.
+For years, the epicenter of the quake was assumed to be near the town of Olema, California|Olema, in the Point Reyes area of Marin County, California|Marin County, because of evidence of the degree of local earth displacement. In the 1960s, a seismologist at University of California, Berkeley|UC Berkeley proposed that the epicenter was more likely offshore of San Francisco, to the northwest of the Golden Gate. However, the most recent analysis by the United States Geological Survey (USGS) shows that the most likely epicenter was very near Mussel Rock on the coast of Daly City, California|Daly City, an adjacent suburb just south of San Francisco.  An offshore epicenter is supported by the occurrence of a local tsunami recorded by a tide gauge at the San Francisco Presidio; the wave had an amplitude of approximately 3 in (8&nbsp;cm) and an approximate period of 40{{ndash}}45 minutes.
+
+The most important characteristic of the shaking intensity noted in Lawson's (1908) report was the clear correlation of intensity with underlying geologic conditions. Areas situated in sediment-filled valleys sustained stronger shaking than nearby bedrock sites, and the strongest shaking occurred in areas of former bay where earthquake liquefaction had occurred. Modern seismic-zonation practice accounts for the differences in seismic hazard posed by varying geologic conditions.
+
+The USGS estimates that the earthquake measured a powerful 7.9 on the moment magnitude scale.
+
+==Documentary film==
+{{ external media
+| float  = 
+| width  = 
+| video1 = http://hdl.loc.gov/loc.mbrsmi/lcmp003.03734 ''San Francisco Earthquake and Fire, April 18, 1906''
+}}
+In 2005 the National Film Registry added ''San Francisco Earthquake and Fire, April 18, 1906'', a newsreel documentary made soon after the earthquake, to its list of American films worthy of preservation.
+
+==See also==
+{{Portal|San Francisco Bay Area|Disasters}}
+* 1989 Loma Prieta earthquake
+* Andrew Lawson, editor of the 1908 report on the earthquake
+* Arnold Genthe and George R. Lawrence, photographers of the earthquake
+* Committee of Fifty (1906)
+* Earthquake engineering
+* List of earthquakes in California|Earthquakes in California
+* List of earthquakes and tsunamis in the United States|List of earthquakes in the United States
+{{-}}
+
+==Panoramas==
+{{wide image|San francisco fire 1906.jpg|1000px|San Francisco burning in 1906.}}
+
+{{wide image|San Francisco 1906 fire 02 DA-SN-03-00958.JPEG|1000px|San Francisco fire 1906}}
+
+==Notes==
+{{Reflist|colwidth=30em}}
+
+==References==
+{{Refbegin}}
+* ''Double Cone Quarterly'', Fall Equinox, volume VII, Number 3 (2004).
+* {{cite book |title=Transactions. Paper No. 1056. The Effects Of The San Francisco Earthquake of April 18th, 1906, on Engineering Constructions: Reports Of A General Committee And Of Six Special Committees Of The San Francisco Association Of Members Of The American Society Of Civil Engineers |last=American Society of Civil Engineers |authorlink=American Society of Civil Engineers |year=1907 |isbn= |url=http://books.google.com/books?id=XyoIAQAAIAAJ |accessdate=August 15, 2009}}
+* {{cite book |title=Earthquake In California, April 18, 1906. Special Report On The Relief Operations Conducted By The Military Authorities |last=Greely |first=Adolphus W. |authorlink=Adolphus Greely |year=1906 |publisher=Government Printing Office |location=Washington |isbn= |url=http://books.google.com/books?id=RcEtAAAAIAAJ |accessdate=August 15, 2009}}
+* {{cite book |title=The San Francisco Earthquake And Fire of April 18th, 1906 And Their Effects On Structures And Structural Materials |last=Gilbert |first=Grove Karl |authorlink=Grove Karl Gilbert |author2=Richard Lewis Humphrey, John Stephen Sewell and Frank Soule |year=1907 |publisher=Government Printing Office |location=Washington |isbn= |url=http://books.google.com/books?id=BEyi0K-kUdgC |accessdate=August 15, 2009}}
+* {{cite book |title=The San Francisco Earthquake And Fire: A Presentation of Facts And Resulting |publisher=John A. Roebling|The Roebling Construction Company |location=New York |isbn= |url=http://books.google.com/books?id=Gx4hAAAAMAAJ |accessdate=August 15, 2009}}
+* {{cite book |title=The California Earthquake of 1906 |last=Jordan |first=David Starr |authorlink=David Starr Jordan |author2=John Casper Branner, Charles Derleth, Jr., Stephen Taber, F. Omari, Harold W. Fairbanks, Mary Hunter Austin |year=1907 |publisher=A. M. Robertson |location=San Francisco |isbn= |url=http://books.google.com/books?id=_7UQK1u65BgC |accessdate=August 15, 2009}}
+* {{cite book |title=After Earthquake And Fire: A Reprint Of The Articles And Editorial Comment Appearing In The Mining And Scientific Press  |last=Mining And Scientific Press |author2=T. A. Rickard, G. K. Gilbert, S. B. Christy (and others) |year=1907 |publisher=Mining And Scientific Press |location=San Francisco |isbn= |url=http://books.google.com/books?id=u90KAAAAIAAJ |accessdate=August 15, 2009}}
+* {{cite book |title=San Francisco Relief Survey: The Organization And Methods Of Relief Used After The Earthquake And Fire Of April 18, 1906  |last=Russell Sage Foundation |authorlink=Russell Sage Foundation |author2=Charles J. O'Connor, Francis H. McLean, Helen Swett Artieda, James Marvin Motley, Jessica Peixotto, Mary Roberts Coolidge |year=1907 |publisher=Survey Associates, Inc. (New York), Wm. F. Fell Co. (Philadelphia) |isbn= |url=http://books.google.com/books?id=hSHJAAAAMAAJ |accessdate=August 15, 2009}}
+* {{cite book |title=The Water Supply Of San Francisco, California Before, During And After The Earthquake of April 18, 1906 And The Subsequent Conflagration  |last=Schussler |first=Hermann |authorlink=Hermann Schussler |year=1907 |publisher=Martin B. Brown Press |location=New York |isbn= |url=http://books.google.com/books?id=CqgNAAAAYAAJ |accessdate=August 15, 2009}}
+* {{cite book |title=The California Earthquake of April 18, 1906: Report Of The State Earthquake Investigation Commission, Volumes http://books.google.com/books?id=KLoQAAAAIAAJ I and http://books.google.com/books?id=w7oQAAAAIAAJ II|last=Tyler |first=Sydney |author2=Harry Fielding Reid |year=1908, 1910 |publisher=Carnegie Institution of Washington|The Carnegie Institution of Washington |location=Washington, D.C. |isbn= |url= |accessdate=August 15, 2009}}
+* {{citation|title=Source study of the 1906 San Francisco Earthquake|url=http://pasadena.wr.usgs.gov/office/wald/1906/1906.html|year=1993|last=Wald|first=David J.|last2=Kanamori|first2=Hiroo|authorlink2=Hiroo Kanamori|last3=Helmberger|first3=Donald V.|last4=Heaton|first4=Thomas H.|authorlink4=Thomas H. Heaton|journal=Bulletin of the Seismological Society of America|publisher=Seismological Society of America|volume=83|number=4|pages=981–1019}}
+* Simon Winchester|Winchester, Simon, ''A Crack in the Edge of the World: America and the Great California Earthquake of 1906''. HarperCollins Publishers, New York, 2005. ISBN 0-06-057199-3
+* {{cite book|last=Bronson|first=William|title=The Earth Shook, the Sky Burned|date=1959|publisher=Doubleday}}
+
+;Contemporary disaster books|disaster accounts
+* {{cite book |title=A History Of The Earthquake And Fire In San Francisco |last=Aitken |first=Frank W. |author2=Edward Hilton |year=1906 |publisher=The Edward Hilton Co. |location=San Francisco |isbn= |url=http://books.google.com/books?id=IN0KAAAAIAAJ |accessdate=August 15, 2009}}
+* {{cite book |title=The History Of The San Francisco Disaster And Mount Vesuvius Horror |last=Banks |first=Charles Eugene |author2=Opie Percival Read |year=1906 |publisher=C. E. Thomas |isbn= |url=http://books.google.com/books?id=HxkCAAAAIAAJ |accessdate=August 15, 2009}}
+* {{cite book |title=San Francisco In Ruins: A Pictorial History |last=Givens |first=John David |author2=Opie Percival Read |year=1906 |publisher=Leon C. Osteyee |location=San Francisco |isbn= |url=http://books.google.com/books?id=hvQ0AAAAIAAJ |accessdate=August 15, 2009}}
+* {{cite book |title=San Francisco Through Earthquake And Fire |last=Keeler |first=Charles |year=1906 |publisher=Paul Elder And Company |location=San Francisco |isbn= |url=http://books.google.com/books?id=T3AUAAAAYAAJ |accessdate=August 15, 2009}}
+* Jack London|London, Jack.  http://london.sonoma.edu/Writings/Journalism/sfearthquake.html "The Story of An Eyewitness".  London's report from the scene. Originally published in ''Collier's Magazine'', May 5, 1906.
+* {{cite book |title=The San Francisco Calamity By Earthquake And Fire |last=Morris |first=Charles |year=1906 |isbn= |url=http://books.google.com/books?id=1j0tAAAAYAAJ |accessdate=August 15, 2009}}
+* {{cite book |title=San Francisco's Great Disaster |last=Tyler |first=Sydney |author2=Ralph Stockman Tarr |year=1908 |publisher=P. W. Ziegler Co. |location=Philadelphia |isbn= |url=http://books.google.com/books?id=5ethh5oH5JYC |accessdate=August 15, 2009}}
+* {{cite book |title=Complete Story of the San Francisco Horror |last=White |first=Trumbull |author2=Richard Linthicum |year=1906 |isbn= |url=http://books.google.com/books?id=I9QKAAAAIAAJ |accessdate=August 15, 2009}}
+{{Refend}}
+
+==External links==
+{{Commons category|San Francisco earthquake of 1906}}
+* {{dmoz|Regional/North_America/United_States/California/Localities/S/San_Francisco/Society_and_Culture/History/1906_Earthquake_and_Fire/}}
+* http://www.archives.gov/exhibits/sf-earthquake-and-fire/ The 1906 Earthquake and Fire from the National Archives
+* http://memory.loc.gov/ammem/papr/sfhome.html Before and After the Great Earthquake and Fire: Early Films of San Francisco, 1897–1916 From American Memory at the Library of Congress.  Retrieved on August 25, 2009.
+* http://www.geotimes.org/apr06/Travels0406.html A geologic tour of the San Francisco earthquake, 100 years later from American Geological Institute
+* http://www.sfmuseum.org/1906/06.html The Great 1906 Earthquake and Fire from the Virtual Museum of the City of San Francisco website
+* http://bancroft.berkeley.edu/collections/earthquakeandfire/index2.html The Great 1906 Earthquake and Fire from the Bancroft Library, includes interactive maps and panoramas
+*http://www.shapell.org/manuscript.aspx?mark-twain-earthquake-1906 Mark Twain and the San Francisco Earthquake Shapell Manuscript Foundation
+* http://quake.wr.usgs.gov/info/1906/ 1906 San Francisco Quake and http://pubs.usgs.gov/of/2005/1135/ Intensity Maps for that earthquake, from the U.S. Geological Survey site
+* http://www.archive.org/search.php?query=mediatype%3Amovies%20AND%20collection%3Aprelinger%20AND%20%2Fmetadata%2Fsubject%3A%22Earthquakes%3A%20San%20Francisco%2C%201906%22 Several videos of the aftermath, from the Internet Archive website
+* http://www.rtpnet.org/robroy/lawrence/landscape.html San Francisco in Ruins, Aerial Photographs of George R. Lawrence, reprinted from ''Landscape (magazine)|Landscape'', Vol. 30, No. 2
+
+{{Significant earthquakes in California}}
+
+{{DEFAULTSORT:1906 San Francisco Earthquake}}
+Category:1906 San Francisco earthquake| 
+Category:History of the San Francisco Bay Area|San Francisco earthquake, 1906
+Category:Earthquakes in California|San Francisco earthquake, 1906
+Category:Urban fires in the United States|San Francisco, 1906
+Category:Fires in California
+Category:1906 in California|San Francisco earthquake
+Category:Barbary Coast, San Francisco
+Category:20th century in San Francisco, California

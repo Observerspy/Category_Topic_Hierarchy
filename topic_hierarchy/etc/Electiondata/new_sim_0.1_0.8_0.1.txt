@@ -1,0 +1,1771 @@
+similarity:
+0:vote and seat summaries -AND- 1:candidates gallery sim:0.04051681275825713
+0:vote and seat summaries -AND- 2:chamber of deputies sim:0.030732965888817992
+0:vote and seat summaries -AND- 3:green party sim:0.04576251099417633
+0:vote and seat summaries -AND- 4:primaries sim:0.042186116189343606
+0:vote and seat summaries -AND- 5:general election campaign sim:0.039008888215616024
+0:vote and seat summaries -AND- 6:results by province sim:0.037249244531084295
+0:vote and seat summaries -AND- 7:campaign slogans sim:0.03159773877231834
+0:vote and seat summaries -AND- 8:government formation sim:0.04365870457834627
+0:vote and seat summaries -AND- 9:background sim:0.04371506914328047
+0:vote and seat summaries -AND- 10:conduct sim:0.043057578439929994
+0:vote and seat summaries -AND- 11:analysis sim:0.028860921965241898
+0:vote and seat summaries -AND- 12:eligibility sim:0.012499999999999999
+0:vote and seat summaries -AND- 13:new democrats sim:0.020622325447563667
+0:vote and seat summaries -AND- 14:electoral system sim:0.03082010126342203
+0:vote and seat summaries -AND- 15:10 closest ridings sim:0.02322323700465517
+0:vote and seat summaries -AND- 16:polls sim:0.03920687781507842
+0:vote and seat summaries -AND- 17:liberals sim:0.03467017031807921
+0:vote and seat summaries -AND- 18:opinion polls sim:0.0425911057267766
+0:vote and seat summaries -AND- 19:results sim:0.03890867779937329
+0:vote and seat summaries -AND- 20:conservatives sim:0.03467017031807921
+0:vote and seat summaries -AND- 21:congress of deputies sim:0.02731111132831048
+0:vote and seat summaries -AND- 22:second round sim:0.04622323378358578
+0:vote and seat summaries -AND- 23:issues sim:0.045301596920195135
+0:vote and seat summaries -AND- 24:reactions sim:0.02539723466537372
+0:vote and seat summaries -AND- 25:investiture voting sim:0.04899646087193175
+0:vote and seat summaries -AND- 26:summary sim:0.0625
+0:vote and seat summaries -AND- 27:results by region sim:0.03939117459336105
+0:vote and seat summaries -AND- 28:nominations sim:0.028404510706883775
+0:vote and seat summaries -AND- 29:ballot access sim:0.06174214220624605
+0:vote and seat summaries -AND- 30:official candidates sim:0.0354296937089581
+0:vote and seat summaries -AND- 31:mps who lost their seats sim:0.04533940698161004
+0:vote and seat summaries -AND- 32:procedure sim:0.032277539173838264
+0:vote and seat summaries -AND- 33:candidates sim:0.03613579457319276
+0:vote and seat summaries -AND- 34:aftermath sim:0.017857626121241085
+0:vote and seat summaries -AND- 35:overview sim:0.03125
+0:vote and seat summaries -AND- 36:first round sim:0.04808943754399646
+0:vote and seat summaries -AND- 37:before the primaries sim:0.022756128292232353
+0:vote and seat summaries -AND- 38:super tuesday sim:0.029221974042976124
+0:vote and seat summaries -AND- 39:debates sim:0.03138423872173789
+0:vote and seat summaries -AND- 40:democratic party nomination sim:0.028241806704306073
+0:vote and seat summaries -AND- 41:votes by state sim:0.04646574989299597
+0:vote and seat summaries -AND- 42:senate sim:0.021691707483727424
+0:vote and seat summaries -AND- 43:registered candidates sim:0.03493260972595307
+0:vote and seat summaries -AND- 44:opinion polling sim:0.03531697903772955
+0:vote and seat summaries -AND- 45:notable expressions and phrases sim:0.06035925206785819
+0:vote and seat summaries -AND- 46:other nominations sim:0.017042706424130263
+0:vote and seat summaries -AND- 47:apportionment sim:0.03538184998381421
+0:vote and seat summaries -AND- 48:election campaign sim:0.03140412953740248
+0:vote and seat summaries -AND- 49:controversies sim:0.03373398776867005
+0:vote and seat summaries -AND- 50:timeline sim:0.0
+0:vote and seat summaries -AND- 51:campaign sim:0.031506882562337475
+0:vote and seat summaries -AND- 52:international observers sim:0.03023061102634625
+0:vote and seat summaries -AND- 53:post-election sim:0.04697377862502771
+0:vote and seat summaries -AND- 54:sources sim:0.0496301654627671
+0:vote and seat summaries -AND- 55:results by state sim:0.03999516026801995
+0:vote and seat summaries -AND- 56:campaigns sim:0.031506882562337475
+0:vote and seat summaries -AND- 57:manifestos sim:0.025483277399554024
+0:vote and seat summaries -AND- 58:bloc québécois sim:0.03905142052168427
+0:vote and seat summaries -AND- 59:endorsements sim:0.03685178303126689
+1:candidates gallery -AND- 2:chamber of deputies sim:0.042133094073912754
+1:candidates gallery -AND- 3:green party sim:0.044538023381861525
+1:candidates gallery -AND- 4:primaries sim:0.47582925538761234
+1:candidates gallery -AND- 5:general election campaign sim:0.4322817918651136
+1:candidates gallery -AND- 6:results by province sim:0.1524531687451324
+1:candidates gallery -AND- 7:campaign slogans sim:0.17592054136445437
+1:candidates gallery -AND- 8:government formation sim:0.2583190161740176
+1:candidates gallery -AND- 9:background sim:0.3590326203781866
+1:candidates gallery -AND- 10:conduct sim:0.22469966893033755
+1:candidates gallery -AND- 11:analysis sim:0.3006931296737246
+1:candidates gallery -AND- 12:eligibility sim:0.1636860722279265
+1:candidates gallery -AND- 13:new democrats sim:0.030281922135215963
+1:candidates gallery -AND- 14:electoral system sim:0.19219165338071442
+1:candidates gallery -AND- 15:10 closest ridings sim:0.04080681618148552
+1:candidates gallery -AND- 16:polls sim:0.1484411621056072
+1:candidates gallery -AND- 17:liberals sim:0.037818654911218
+1:candidates gallery -AND- 18:opinion polls sim:0.22461074503234127
+1:candidates gallery -AND- 19:results sim:0.2534029387729485
+1:candidates gallery -AND- 20:conservatives sim:0.037818654911218
+1:candidates gallery -AND- 21:congress of deputies sim:0.033629317144199415
+1:candidates gallery -AND- 22:second round sim:0.2708489124903627
+1:candidates gallery -AND- 23:issues sim:0.1845293919661943
+1:candidates gallery -AND- 24:reactions sim:0.2766805638828889
+1:candidates gallery -AND- 25:investiture voting sim:0.06263982347828982
+1:candidates gallery -AND- 26:summary sim:0.1971285454793339
+1:candidates gallery -AND- 27:results by region sim:0.03027052674279748
+1:candidates gallery -AND- 28:nominations sim:0.23205421526344724
+1:candidates gallery -AND- 29:ballot access sim:0.2754169923317706
+1:candidates gallery -AND- 30:official candidates sim:0.16737157184673113
+1:candidates gallery -AND- 31:mps who lost their seats sim:0.029774243383602364
+1:candidates gallery -AND- 32:procedure sim:0.22174412544745611
+1:candidates gallery -AND- 33:candidates sim:0.4222183701621929
+1:candidates gallery -AND- 34:aftermath sim:0.2928143254402253
+1:candidates gallery -AND- 35:overview sim:0.09593833147292401
+1:candidates gallery -AND- 36:first round sim:0.2035664228792644
+1:candidates gallery -AND- 37:before the primaries sim:0.44210492886543734
+1:candidates gallery -AND- 38:super tuesday sim:0.4269704658787506
+1:candidates gallery -AND- 39:debates sim:0.2867220057442993
+1:candidates gallery -AND- 40:democratic party nomination sim:0.13432269785498552
+1:candidates gallery -AND- 41:votes by state sim:0.08917945077819049
+1:candidates gallery -AND- 42:senate sim:0.07930731380446404
+1:candidates gallery -AND- 43:registered candidates sim:0.32971454374662684
+1:candidates gallery -AND- 44:opinion polling sim:0.09895756950244533
+1:candidates gallery -AND- 45:notable expressions and phrases sim:0.03311768557099261
+1:candidates gallery -AND- 46:other nominations sim:0.36966912763712134
+1:candidates gallery -AND- 47:apportionment sim:0.066942067067796
+1:candidates gallery -AND- 48:election campaign sim:0.28340893845949866
+1:candidates gallery -AND- 49:controversies sim:0.1963010296922358
+1:candidates gallery -AND- 50:timeline sim:0.011149893466761191
+1:candidates gallery -AND- 51:campaign sim:0.31620761879464676
+1:candidates gallery -AND- 52:international observers sim:0.18675879303697634
+1:candidates gallery -AND- 53:post-election sim:0.05154348526566999
+1:candidates gallery -AND- 54:sources sim:0.04733336331593322
+1:candidates gallery -AND- 55:results by state sim:0.1124309483748494
+1:candidates gallery -AND- 56:campaigns sim:0.1409403908652068
+1:candidates gallery -AND- 57:manifestos sim:0.0
+1:candidates gallery -AND- 58:bloc québécois sim:0.16448833016074074
+1:candidates gallery -AND- 59:endorsements sim:0.123041289590271
+2:chamber of deputies -AND- 3:green party sim:0.03640612927804262
+2:chamber of deputies -AND- 4:primaries sim:0.03479940377914318
+2:chamber of deputies -AND- 5:general election campaign sim:0.017709398057506917
+2:chamber of deputies -AND- 6:results by province sim:0.02194857367494231
+2:chamber of deputies -AND- 7:campaign slogans sim:0.0
+2:chamber of deputies -AND- 8:government formation sim:0.032269419843255924
+2:chamber of deputies -AND- 9:background sim:0.03512729774689879
+2:chamber of deputies -AND- 10:conduct sim:0.0
+2:chamber of deputies -AND- 11:analysis sim:0.0
+2:chamber of deputies -AND- 12:eligibility sim:0.0
+2:chamber of deputies -AND- 13:new democrats sim:0.02091390594792686
+2:chamber of deputies -AND- 14:electoral system sim:0.0204471734158588
+2:chamber of deputies -AND- 15:10 closest ridings sim:0.0
+2:chamber of deputies -AND- 16:polls sim:0.02706396763682957
+2:chamber of deputies -AND- 17:liberals sim:0.030576902773726128
+2:chamber of deputies -AND- 18:opinion polls sim:0.018516362936905957
+2:chamber of deputies -AND- 19:results sim:0.017560085152055354
+2:chamber of deputies -AND- 20:conservatives sim:0.030576902773726128
+2:chamber of deputies -AND- 21:congress of deputies sim:0.0812083811591526
+2:chamber of deputies -AND- 22:second round sim:0.034222046902416724
+2:chamber of deputies -AND- 23:issues sim:0.04114503283135465
+2:chamber of deputies -AND- 24:reactions sim:0.0
+2:chamber of deputies -AND- 25:investiture voting sim:0.0
+2:chamber of deputies -AND- 26:summary sim:0.0
+2:chamber of deputies -AND- 27:results by region sim:0.02384939808109737
+2:chamber of deputies -AND- 28:nominations sim:0.0
+2:chamber of deputies -AND- 29:ballot access sim:0.023982740752618904
+2:chamber of deputies -AND- 30:official candidates sim:0.0331034236649996
+2:chamber of deputies -AND- 31:mps who lost their seats sim:0.025699018943788968
+2:chamber of deputies -AND- 32:procedure sim:0.0
+2:chamber of deputies -AND- 33:candidates sim:0.032699045979170824
+2:chamber of deputies -AND- 34:aftermath sim:0.0
+2:chamber of deputies -AND- 35:overview sim:0.0
+2:chamber of deputies -AND- 36:first round sim:0.03654958825376327
+2:chamber of deputies -AND- 37:before the primaries sim:0.020119611452153987
+2:chamber of deputies -AND- 38:super tuesday sim:0.020864845949362595
+2:chamber of deputies -AND- 39:debates sim:0.0
+2:chamber of deputies -AND- 40:democratic party nomination sim:0.016011564969049173
+2:chamber of deputies -AND- 41:votes by state sim:0.024749814832417866
+2:chamber of deputies -AND- 42:senate sim:0.02559580248098155
+2:chamber of deputies -AND- 43:registered candidates sim:0.02274300740967829
+2:chamber of deputies -AND- 44:opinion polling sim:0.0
+2:chamber of deputies -AND- 45:notable expressions and phrases sim:0.025564772298118217
+2:chamber of deputies -AND- 46:other nominations sim:0.0
+2:chamber of deputies -AND- 47:apportionment sim:0.0
+2:chamber of deputies -AND- 48:election campaign sim:0.0
+2:chamber of deputies -AND- 49:controversies sim:0.0
+2:chamber of deputies -AND- 50:timeline sim:0.0
+2:chamber of deputies -AND- 51:campaign sim:0.0
+2:chamber of deputies -AND- 52:international observers sim:0.029373108121883623
+2:chamber of deputies -AND- 53:post-election sim:0.035701542231788785
+2:chamber of deputies -AND- 54:sources sim:0.0401637272047663
+2:chamber of deputies -AND- 55:results by state sim:0.024322089015133577
+2:chamber of deputies -AND- 56:campaigns sim:0.0
+2:chamber of deputies -AND- 57:manifestos sim:0.0
+2:chamber of deputies -AND- 58:bloc québécois sim:0.03345328718715505
+2:chamber of deputies -AND- 59:endorsements sim:0.0
+3:green party -AND- 4:primaries sim:0.312713839697424
+3:green party -AND- 5:general election campaign sim:0.20540079302123299
+3:green party -AND- 6:results by province sim:0.20430571882101498
+3:green party -AND- 7:campaign slogans sim:0.12126144193232248
+3:green party -AND- 8:government formation sim:0.2062686747798139
+3:green party -AND- 9:background sim:0.4289324981818546
+3:green party -AND- 10:conduct sim:0.3433695697915592
+3:green party -AND- 11:analysis sim:0.3773013236835264
+3:green party -AND- 12:eligibility sim:0.2324789002734886
+3:green party -AND- 13:new democrats sim:0.029936608352269023
+3:green party -AND- 14:electoral system sim:0.17371453138439621
+3:green party -AND- 15:10 closest ridings sim:0.017829048045827908
+3:green party -AND- 16:polls sim:0.2712565048891682
+3:green party -AND- 17:liberals sim:0.04181399874743863
+3:green party -AND- 18:opinion polls sim:0.2604368987786601
+3:green party -AND- 19:results sim:0.38381832000330707
+3:green party -AND- 20:conservatives sim:0.04181399874743863
+3:green party -AND- 21:congress of deputies sim:0.25749236275444526
+3:green party -AND- 22:second round sim:0.2483811805932794
+3:green party -AND- 23:issues sim:0.2525645898112872
+3:green party -AND- 24:reactions sim:0.34360373129239385
+3:green party -AND- 25:investiture voting sim:0.043988634542050445
+3:green party -AND- 26:summary sim:0.31696641732973935
+3:green party -AND- 27:results by region sim:0.20687980672546258
+3:green party -AND- 28:nominations sim:0.2791232084288101
+3:green party -AND- 29:ballot access sim:0.18529743638879026
+3:green party -AND- 30:official candidates sim:0.16521624004622626
+3:green party -AND- 31:mps who lost their seats sim:0.0388494055630563
+3:green party -AND- 32:procedure sim:0.353822621425675
+3:green party -AND- 33:candidates sim:0.4403611053057175
+3:green party -AND- 34:aftermath sim:0.328109316268473
+3:green party -AND- 35:overview sim:0.28667460621159396
+3:green party -AND- 36:first round sim:0.23514622222375234
+3:green party -AND- 37:before the primaries sim:0.234724332988887
+3:green party -AND- 38:super tuesday sim:0.2788900595281992
+3:green party -AND- 39:debates sim:0.33775104258722033
+3:green party -AND- 40:democratic party nomination sim:0.19088251896300593
+3:green party -AND- 41:votes by state sim:0.08590743215315706
+3:green party -AND- 42:senate sim:0.26952359002214377
+3:green party -AND- 43:registered candidates sim:0.2646541422908556
+3:green party -AND- 44:opinion polling sim:0.08358035574305332
+3:green party -AND- 45:notable expressions and phrases sim:0.039515294770941116
+3:green party -AND- 46:other nominations sim:0.18857813330742307
+3:green party -AND- 47:apportionment sim:0.11476364086288711
+3:green party -AND- 48:election campaign sim:0.25811579193259215
+3:green party -AND- 49:controversies sim:0.22579453742096786
+3:green party -AND- 50:timeline sim:0.11721325931647741
+3:green party -AND- 51:campaign sim:0.3964217863771231
+3:green party -AND- 52:international observers sim:0.19619602642428036
+3:green party -AND- 53:post-election sim:0.07607327970662758
+3:green party -AND- 54:sources sim:0.1968618890971444
+3:green party -AND- 55:results by state sim:0.11485261635171069
+3:green party -AND- 56:campaigns sim:0.2549619430001902
+3:green party -AND- 57:manifestos sim:0.12526078732747115
+3:green party -AND- 58:bloc québécois sim:0.20079002874271126
+3:green party -AND- 59:endorsements sim:0.30634338844806
+4:primaries -AND- 5:general election campaign sim:0.44637413855896846
+4:primaries -AND- 6:results by province sim:0.19125309303992477
+4:primaries -AND- 7:campaign slogans sim:0.20723434543605912
+4:primaries -AND- 8:government formation sim:0.3226380911165676
+4:primaries -AND- 9:background sim:0.4829506205537792
+4:primaries -AND- 10:conduct sim:0.40323332570237597
+4:primaries -AND- 11:analysis sim:0.4649158687090087
+4:primaries -AND- 12:eligibility sim:0.2584353259679844
+4:primaries -AND- 13:new democrats sim:0.02477507085524136
+4:primaries -AND- 14:electoral system sim:0.1757425583406671
+4:primaries -AND- 15:10 closest ridings sim:0.03729701191544865
+4:primaries -AND- 16:polls sim:0.26484995796506716
+4:primaries -AND- 17:liberals sim:0.0334570947480398
+4:primaries -AND- 18:opinion polls sim:0.3001852900767846
+4:primaries -AND- 19:results sim:0.36774208685174264
+4:primaries -AND- 20:conservatives sim:0.0334570947480398
+4:primaries -AND- 21:congress of deputies sim:0.1415964889016484
+4:primaries -AND- 22:second round sim:0.33120824209475264
+4:primaries -AND- 23:issues sim:0.25132479193763946
+4:primaries -AND- 24:reactions sim:0.4669984852165568
+4:primaries -AND- 25:investiture voting sim:0.10903856680424712
+4:primaries -AND- 26:summary sim:0.3249885297452082
+4:primaries -AND- 27:results by region sim:0.05606040430736487
+4:primaries -AND- 28:nominations sim:0.41290772523151364
+4:primaries -AND- 29:ballot access sim:0.2763800055410788
+4:primaries -AND- 30:official candidates sim:0.09515839873175747
+4:primaries -AND- 31:mps who lost their seats sim:0.023211168434072494
+4:primaries -AND- 32:procedure sim:0.34507101568525655
+4:primaries -AND- 33:candidates sim:0.5018912844556206
+4:primaries -AND- 34:aftermath sim:0.465746068051563
+4:primaries -AND- 35:overview sim:0.1969319492215929
+4:primaries -AND- 36:first round sim:0.19736397782791446
+4:primaries -AND- 37:before the primaries sim:0.5133949284712871
+4:primaries -AND- 38:super tuesday sim:0.642713404630965
+4:primaries -AND- 39:debates sim:0.5215174572681156
+4:primaries -AND- 40:democratic party nomination sim:0.07602900015346746
+4:primaries -AND- 41:votes by state sim:0.1038339359581601
+4:primaries -AND- 42:senate sim:0.17778954006333653
+4:primaries -AND- 43:registered candidates sim:0.3026504455412846
+4:primaries -AND- 44:opinion polling sim:0.16077277321803643
+4:primaries -AND- 45:notable expressions and phrases sim:0.029133464454005678
+4:primaries -AND- 46:other nominations sim:0.34963599085387975
+4:primaries -AND- 47:apportionment sim:0.22193737361743407
+4:primaries -AND- 48:election campaign sim:0.373597529982499
+4:primaries -AND- 49:controversies sim:0.4202300863843911
+4:primaries -AND- 50:timeline sim:0.13379611331841712
+4:primaries -AND- 51:campaign sim:0.4935157470590725
+4:primaries -AND- 52:international observers sim:0.23533390980414204
+4:primaries -AND- 53:post-election sim:0.04845112612067318
+4:primaries -AND- 54:sources sim:0.14544611693925566
+4:primaries -AND- 55:results by state sim:0.13947163977087376
+4:primaries -AND- 56:campaigns sim:0.24943408958620206
+4:primaries -AND- 57:manifestos sim:0.1
+4:primaries -AND- 58:bloc québécois sim:0.15687898817125653
+4:primaries -AND- 59:endorsements sim:0.24215576031813102
+5:general election campaign -AND- 6:results by province sim:0.27472272315771756
+5:general election campaign -AND- 7:campaign slogans sim:0.3160510134443618
+5:general election campaign -AND- 8:government formation sim:0.4499552035375932
+5:general election campaign -AND- 9:background sim:0.5339153689626301
+5:general election campaign -AND- 10:conduct sim:0.3909206007869021
+5:general election campaign -AND- 11:analysis sim:0.4828481466009782
+5:general election campaign -AND- 12:eligibility sim:0.21384497560898275
+5:general election campaign -AND- 13:new democrats sim:0.014220962385124694
+5:general election campaign -AND- 14:electoral system sim:0.18974800245938306
+5:general election campaign -AND- 15:10 closest ridings sim:0.050046015771659166
+5:general election campaign -AND- 16:polls sim:0.20780477832669744
+5:general election campaign -AND- 17:liberals sim:0.023358620428147403
+5:general election campaign -AND- 18:opinion polls sim:0.355839196707676
+5:general election campaign -AND- 19:results sim:0.3391628472029083
+5:general election campaign -AND- 20:conservatives sim:0.023358620428147403
+5:general election campaign -AND- 21:congress of deputies sim:0.05981136655129839
+5:general election campaign -AND- 22:second round sim:0.44499877126168547
+5:general election campaign -AND- 23:issues sim:0.18088833598698242
+5:general election campaign -AND- 24:reactions sim:0.504139454063912
+5:general election campaign -AND- 25:investiture voting sim:0.1026156007871144
+5:general election campaign -AND- 26:summary sim:0.2906174850924196
+5:general election campaign -AND- 27:results by region sim:0.08304389876078386
+5:general election campaign -AND- 28:nominations sim:0.12702791814241954
+5:general election campaign -AND- 29:ballot access sim:0.37071968475772377
+5:general election campaign -AND- 30:official candidates sim:0.08952901552673799
+5:general election campaign -AND- 31:mps who lost their seats sim:0.00924568538156361
+5:general election campaign -AND- 32:procedure sim:0.3555110018938692
+5:general election campaign -AND- 33:candidates sim:0.49688637670233426
+5:general election campaign -AND- 34:aftermath sim:0.464672858349646
+5:general election campaign -AND- 35:overview sim:0.11473430229400283
+5:general election campaign -AND- 36:first round sim:0.2252025675265377
+5:general election campaign -AND- 37:before the primaries sim:0.5964297349171137
+5:general election campaign -AND- 38:super tuesday sim:0.4462962053799968
+5:general election campaign -AND- 39:debates sim:0.5219566243115648
+5:general election campaign -AND- 40:democratic party nomination sim:0.08701768597458995
+5:general election campaign -AND- 41:votes by state sim:0.0920484380811964
+5:general election campaign -AND- 42:senate sim:0.11396214317674046
+5:general election campaign -AND- 43:registered candidates sim:0.3391475951212419
+5:general election campaign -AND- 44:opinion polling sim:0.24761975237301823
+5:general election campaign -AND- 45:notable expressions and phrases sim:0.02799844424349418
+5:general election campaign -AND- 46:other nominations sim:0.4704874166590049
+5:general election campaign -AND- 47:apportionment sim:0.12267323086078716
+5:general election campaign -AND- 48:election campaign sim:0.5776760742161634
+5:general election campaign -AND- 49:controversies sim:0.33996175936028206
+5:general election campaign -AND- 50:timeline sim:0.009877295966495881
+5:general election campaign -AND- 51:campaign sim:0.5663653071507482
+5:general election campaign -AND- 52:international observers sim:0.27077542946534383
+5:general election campaign -AND- 53:post-election sim:0.14633193146926388
+5:general election campaign -AND- 54:sources sim:0.032601072555133274
+5:general election campaign -AND- 55:results by state sim:0.13086622469486495
+5:general election campaign -AND- 56:campaigns sim:0.18979704172787148
+5:general election campaign -AND- 57:manifestos sim:0.0
+5:general election campaign -AND- 58:bloc québécois sim:0.15770398397951954
+5:general election campaign -AND- 59:endorsements sim:0.1389882910401674
+6:results by province -AND- 7:campaign slogans sim:0.15776891385505906
+6:results by province -AND- 8:government formation sim:0.24917833420532873
+6:results by province -AND- 9:background sim:0.34007241438706315
+6:results by province -AND- 10:conduct sim:0.27461070514375147
+6:results by province -AND- 11:analysis sim:0.30568195098250445
+6:results by province -AND- 12:eligibility sim:0.13945141031375208
+6:results by province -AND- 13:new democrats sim:0.012584035131495301
+6:results by province -AND- 14:electoral system sim:0.14176678387612507
+6:results by province -AND- 15:10 closest ridings sim:0.018059563260059495
+6:results by province -AND- 16:polls sim:0.15652001642316507
+6:results by province -AND- 17:liberals sim:0.02043823975884862
+6:results by province -AND- 18:opinion polls sim:0.2950991865849718
+6:results by province -AND- 19:results sim:0.26640679600295003
+6:results by province -AND- 20:conservatives sim:0.02043823975884862
+6:results by province -AND- 21:congress of deputies sim:0.2816964868830254
+6:results by province -AND- 22:second round sim:0.3179879818402858
+6:results by province -AND- 23:issues sim:0.1331634198485837
+6:results by province -AND- 24:reactions sim:0.33187068504844885
+6:results by province -AND- 25:investiture voting sim:0.05958592704646158
+6:results by province -AND- 26:summary sim:0.22425286696368116
+6:results by province -AND- 27:results by region sim:0.3760602729296763
+6:results by province -AND- 28:nominations sim:0.06912147857540524
+6:results by province -AND- 29:ballot access sim:0.24262672635371715
+6:results by province -AND- 30:official candidates sim:0.10291653034565036
+6:results by province -AND- 31:mps who lost their seats sim:0.029246417480590776
+6:results by province -AND- 32:procedure sim:0.2442195822835619
+6:results by province -AND- 33:candidates sim:0.31823592199325507
+6:results by province -AND- 34:aftermath sim:0.28061035970831666
+6:results by province -AND- 35:overview sim:0.13091474867274563
+6:results by province -AND- 36:first round sim:0.27638823871081025
+6:results by province -AND- 37:before the primaries sim:0.29888455113600054
+6:results by province -AND- 38:super tuesday sim:0.20864956172615942
+6:results by province -AND- 39:debates sim:0.27260337784821015
+6:results by province -AND- 40:democratic party nomination sim:0.06424638882031647
+6:results by province -AND- 41:votes by state sim:0.12107921540134473
+6:results by province -AND- 42:senate sim:0.19829368812485193
+6:results by province -AND- 43:registered candidates sim:0.19491027711940112
+6:results by province -AND- 44:opinion polling sim:0.14366256746181572
+6:results by province -AND- 45:notable expressions and phrases sim:0.033742539113626964
+6:results by province -AND- 46:other nominations sim:0.22183161287811848
+6:results by province -AND- 47:apportionment sim:0.06285096702560884
+6:results by province -AND- 48:election campaign sim:0.2514039145678112
+6:results by province -AND- 49:controversies sim:0.15300732768087763
+6:results by province -AND- 50:timeline sim:0.031405435355412833
+6:results by province -AND- 51:campaign sim:0.3031509057407997
+6:results by province -AND- 52:international observers sim:0.20762420118015096
+6:results by province -AND- 53:post-election sim:0.036077403403134825
+6:results by province -AND- 54:sources sim:0.13667264183299455
+6:results by province -AND- 55:results by state sim:0.180347935782806
+6:results by province -AND- 56:campaigns sim:0.07751134441832264
+6:results by province -AND- 57:manifestos sim:0.03756242788300364
+6:results by province -AND- 58:bloc québécois sim:0.1344926053554742
+6:results by province -AND- 59:endorsements sim:0.08652865574916616
+7:campaign slogans -AND- 8:government formation sim:0.2584787098934704
+7:campaign slogans -AND- 9:background sim:0.3250955998303322
+7:campaign slogans -AND- 10:conduct sim:0.27692779031702774
+7:campaign slogans -AND- 11:analysis sim:0.2861697454675103
+7:campaign slogans -AND- 12:eligibility sim:0.23450109106477815
+7:campaign slogans -AND- 13:new democrats sim:0.0
+7:campaign slogans -AND- 14:electoral system sim:0.10158955025477752
+7:campaign slogans -AND- 15:10 closest ridings sim:0.06711189136821902
+7:campaign slogans -AND- 16:polls sim:0.1571348402636774
+7:campaign slogans -AND- 17:liberals sim:0.0
+7:campaign slogans -AND- 18:opinion polls sim:0.24566808717812105
+7:campaign slogans -AND- 19:results sim:0.23055703734028088
+7:campaign slogans -AND- 20:conservatives sim:0.0
+7:campaign slogans -AND- 21:congress of deputies sim:0.0626098422275999
+7:campaign slogans -AND- 22:second round sim:0.23573249778273456
+7:campaign slogans -AND- 23:issues sim:0.17351085367866576
+7:campaign slogans -AND- 24:reactions sim:0.2878757548299876
+7:campaign slogans -AND- 25:investiture voting sim:0.07828254241585263
+7:campaign slogans -AND- 26:summary sim:0.19224240449494903
+7:campaign slogans -AND- 27:results by region sim:0.10129857351583439
+7:campaign slogans -AND- 28:nominations sim:0.16787903337858998
+7:campaign slogans -AND- 29:ballot access sim:0.20517511400414115
+7:campaign slogans -AND- 30:official candidates sim:0.1257078722109417
+7:campaign slogans -AND- 31:mps who lost their seats sim:0.01560000207646471
+7:campaign slogans -AND- 32:procedure sim:0.21516421345246145
+7:campaign slogans -AND- 33:candidates sim:0.23624437745587146
+7:campaign slogans -AND- 34:aftermath sim:0.23622771835040507
+7:campaign slogans -AND- 35:overview sim:0.1970027981633527
+7:campaign slogans -AND- 36:first round sim:0.14049899667711202
+7:campaign slogans -AND- 37:before the primaries sim:0.2767150004722777
+7:campaign slogans -AND- 38:super tuesday sim:0.16171417112418235
+7:campaign slogans -AND- 39:debates sim:0.25735522450289783
+7:campaign slogans -AND- 40:democratic party nomination sim:0.02573958495835388
+7:campaign slogans -AND- 41:votes by state sim:0.04631375824034903
+7:campaign slogans -AND- 42:senate sim:0.1113636067118524
+7:campaign slogans -AND- 43:registered candidates sim:0.16183332183785004
+7:campaign slogans -AND- 44:opinion polling sim:0.14328904873363643
+7:campaign slogans -AND- 45:notable expressions and phrases sim:0.043422853552643734
+7:campaign slogans -AND- 46:other nominations sim:0.2736852242032601
+7:campaign slogans -AND- 47:apportionment sim:0.1388540539010138
+7:campaign slogans -AND- 48:election campaign sim:0.30448638647935977
+7:campaign slogans -AND- 49:controversies sim:0.17499058543183696
+7:campaign slogans -AND- 50:timeline sim:0.0
+7:campaign slogans -AND- 51:campaign sim:0.39886733254183465
+7:campaign slogans -AND- 52:international observers sim:0.15002076277080817
+7:campaign slogans -AND- 53:post-election sim:0.05438763019262225
+7:campaign slogans -AND- 54:sources sim:0.024486135318417406
+7:campaign slogans -AND- 55:results by state sim:0.1079518715820692
+7:campaign slogans -AND- 56:campaigns sim:0.26226688257786335
+7:campaign slogans -AND- 57:manifestos sim:0.1715831336610515
+7:campaign slogans -AND- 58:bloc québécois sim:0.10570760938277639
+7:campaign slogans -AND- 59:endorsements sim:0.08847664130534078
+8:government formation -AND- 9:background sim:0.5407521434108528
+8:government formation -AND- 10:conduct sim:0.283391155408596
+8:government formation -AND- 11:analysis sim:0.410298371666562
+8:government formation -AND- 12:eligibility sim:0.22169793581540334
+8:government formation -AND- 13:new democrats sim:0.016150375373557724
+8:government formation -AND- 14:electoral system sim:0.19344854492252317
+8:government formation -AND- 15:10 closest ridings sim:0.04458320424676794
+8:government formation -AND- 16:polls sim:0.33994641713699153
+8:government formation -AND- 17:liberals sim:0.02472715026898993
+8:government formation -AND- 18:opinion polls sim:0.36374860966751793
+8:government formation -AND- 19:results sim:0.3473432454023651
+8:government formation -AND- 20:conservatives sim:0.02472715026898993
+8:government formation -AND- 21:congress of deputies sim:0.062168872402791134
+8:government formation -AND- 22:second round sim:0.45865080690993804
+8:government formation -AND- 23:issues sim:0.1084133246971907
+8:government formation -AND- 24:reactions sim:0.5214969582459175
+8:government formation -AND- 25:investiture voting sim:0.1863777085515367
+8:government formation -AND- 26:summary sim:0.27099170269311296
+8:government formation -AND- 27:results by region sim:0.06449116807392882
+8:government formation -AND- 28:nominations sim:0.13711238216577593
+8:government formation -AND- 29:ballot access sim:0.32403123466675116
+8:government formation -AND- 30:official candidates sim:0.0829138273403438
+8:government formation -AND- 31:mps who lost their seats sim:0.03703475397804854
+8:government formation -AND- 32:procedure sim:0.31645907099834814
+8:government formation -AND- 33:candidates sim:0.4619929179501226
+8:government formation -AND- 34:aftermath sim:0.5707724402874939
+8:government formation -AND- 35:overview sim:0.19575585177329483
+8:government formation -AND- 36:first round sim:0.24391813234456558
+8:government formation -AND- 37:before the primaries sim:0.46547803937018156
+8:government formation -AND- 38:super tuesday sim:0.35614896522178885
+8:government formation -AND- 39:debates sim:0.5322489973080194
+8:government formation -AND- 40:democratic party nomination sim:0.040256973386028364
+8:government formation -AND- 41:votes by state sim:0.0801601472552386
+8:government formation -AND- 42:senate sim:0.13757770142201212
+8:government formation -AND- 43:registered candidates sim:0.29236133339412335
+8:government formation -AND- 44:opinion polling sim:0.3360054338892397
+8:government formation -AND- 45:notable expressions and phrases sim:0.03423962929650995
+8:government formation -AND- 46:other nominations sim:0.403026580797682
+8:government formation -AND- 47:apportionment sim:0.12279694288702009
+8:government formation -AND- 48:election campaign sim:0.4723722798681697
+8:government formation -AND- 49:controversies sim:0.37053605342803486
+8:government formation -AND- 50:timeline sim:0.038964123799396455
+8:government formation -AND- 51:campaign sim:0.5827077331177932
+8:government formation -AND- 52:international observers sim:0.2242868260691357
+8:government formation -AND- 53:post-election sim:0.2947545772314192
+8:government formation -AND- 54:sources sim:0.04592906843883664
+8:government formation -AND- 55:results by state sim:0.1396932807079645
+8:government formation -AND- 56:campaigns sim:0.13945286022332998
+8:government formation -AND- 57:manifestos sim:0.08607968641692622
+8:government formation -AND- 58:bloc québécois sim:0.22370107250980584
+8:government formation -AND- 59:endorsements sim:0.12709759488681444
+9:background -AND- 10:conduct sim:0.6983132837882899
+9:background -AND- 11:analysis sim:0.7211801289348447
+9:background -AND- 12:eligibility sim:0.3829515137226646
+9:background -AND- 13:new democrats sim:0.024931042302729647
+9:background -AND- 14:electoral system sim:0.28407940988754127
+9:background -AND- 15:10 closest ridings sim:0.028763849775520264
+9:background -AND- 16:polls sim:0.4882687932051063
+9:background -AND- 17:liberals sim:0.03368104976996154
+9:background -AND- 18:opinion polls sim:0.5622541708864723
+9:background -AND- 19:results sim:0.596241908488704
+9:background -AND- 20:conservatives sim:0.03368104976996154
+9:background -AND- 21:congress of deputies sim:0.26221909007706506
+9:background -AND- 22:second round sim:0.5502909505345601
+9:background -AND- 23:issues sim:0.2932605778911978
+9:background -AND- 24:reactions sim:0.7838345707870576
+9:background -AND- 25:investiture voting sim:0.19566689281158667
+9:background -AND- 26:summary sim:0.5995381020326932
+9:background -AND- 27:results by region sim:0.1766174055152772
+9:background -AND- 28:nominations sim:0.2833617534856123
+9:background -AND- 29:ballot access sim:0.3922238167117553
+9:background -AND- 30:official candidates sim:0.16537215961789759
+9:background -AND- 31:mps who lost their seats sim:0.027066888305122133
+9:background -AND- 32:procedure sim:0.6008032816840044
+9:background -AND- 33:candidates sim:0.7386580980652789
+9:background -AND- 34:aftermath sim:0.6847868062224329
+9:background -AND- 35:overview sim:0.4883503229196925
+9:background -AND- 36:first round sim:0.3005477607581517
+9:background -AND- 37:before the primaries sim:0.5707447934277409
+9:background -AND- 38:super tuesday sim:0.4914626433984839
+9:background -AND- 39:debates sim:0.6471798324486191
+9:background -AND- 40:democratic party nomination sim:0.07282966434613315
+9:background -AND- 41:votes by state sim:0.1110191165220386
+9:background -AND- 42:senate sim:0.38363934671317845
+9:background -AND- 43:registered candidates sim:0.39141901950714814
+9:background -AND- 44:opinion polling sim:0.31156577916812783
+9:background -AND- 45:notable expressions and phrases sim:0.04279917649494648
+9:background -AND- 46:other nominations sim:0.47390846821703286
+9:background -AND- 47:apportionment sim:0.21918697671798085
+9:background -AND- 48:election campaign sim:0.5701491513236837
+9:background -AND- 49:controversies sim:0.41547544232323863
+9:background -AND- 50:timeline sim:0.13224550319177603
+9:background -AND- 51:campaign sim:0.8100923523954089
+9:background -AND- 52:international observers sim:0.447960713613105
+9:background -AND- 53:post-election sim:0.11276220950290258
+9:background -AND- 54:sources sim:0.25231096887847215
+9:background -AND- 55:results by state sim:0.1601251427644312
+9:background -AND- 56:campaigns sim:0.3144836121161398
+9:background -AND- 57:manifestos sim:0.15262570256932226
+9:background -AND- 58:bloc québécois sim:0.27434880980636567
+9:background -AND- 59:endorsements sim:0.3041662248440656
+10:conduct -AND- 11:analysis sim:0.7026809153439859
+10:conduct -AND- 12:eligibility sim:0.3008682246348656
+10:conduct -AND- 13:new democrats sim:0.0
+10:conduct -AND- 14:electoral system sim:0.18878413670309502
+10:conduct -AND- 15:10 closest ridings sim:0.08626012374645925
+10:conduct -AND- 16:polls sim:0.36998874126507875
+10:conduct -AND- 17:liberals sim:0.0
+10:conduct -AND- 18:opinion polls sim:0.46655063886641673
+10:conduct -AND- 19:results sim:0.5119171988048962
+10:conduct -AND- 20:conservatives sim:0.0
+10:conduct -AND- 21:congress of deputies sim:0.30552201543299384
+10:conduct -AND- 22:second round sim:0.4160689449105202
+10:conduct -AND- 23:issues sim:0.34673055590773255
+10:conduct -AND- 24:reactions sim:0.6766881021672698
+10:conduct -AND- 25:investiture voting sim:0.11445583048933342
+10:conduct -AND- 26:summary sim:0.533105638354569
+10:conduct -AND- 27:results by region sim:0.24497801987442966
+10:conduct -AND- 28:nominations sim:0.26470714899388087
+10:conduct -AND- 29:ballot access sim:0.337801502585014
+10:conduct -AND- 30:official candidates sim:0.17056057308448896
+10:conduct -AND- 31:mps who lost their seats sim:0.03718348813331745
+10:conduct -AND- 32:procedure sim:0.5771277768803051
+10:conduct -AND- 33:candidates sim:0.510775667844015
+10:conduct -AND- 34:aftermath sim:0.43711861526559825
+10:conduct -AND- 35:overview sim:0.4509524002683666
+10:conduct -AND- 36:first round sim:0.17613176644178627
+10:conduct -AND- 37:before the primaries sim:0.40416359529012624
+10:conduct -AND- 38:super tuesday sim:0.38520585819760217
+10:conduct -AND- 39:debates sim:0.46450679323633814
+10:conduct -AND- 40:democratic party nomination sim:0.05564833657345985
+10:conduct -AND- 41:votes by state sim:0.12978871886562443
+10:conduct -AND- 42:senate sim:0.385873824570124
+10:conduct -AND- 43:registered candidates sim:0.2767276750453873
+10:conduct -AND- 44:opinion polling sim:0.22173433656165734
+10:conduct -AND- 45:notable expressions and phrases sim:0.04347192880867264
+10:conduct -AND- 46:other nominations sim:0.3274046624726164
+10:conduct -AND- 47:apportionment sim:0.23983162492209298
+10:conduct -AND- 48:election campaign sim:0.4435018623850103
+10:conduct -AND- 49:controversies sim:0.31548227223111913
+10:conduct -AND- 50:timeline sim:0.15835703443440607
+10:conduct -AND- 51:campaign sim:0.6466428890678487
+10:conduct -AND- 52:international observers sim:0.5006277989925361
+10:conduct -AND- 53:post-election sim:0.06853518946933844
+10:conduct -AND- 54:sources sim:0.16919730091892596
+10:conduct -AND- 55:results by state sim:0.11854717817626312
+10:conduct -AND- 56:campaigns sim:0.3398229312700064
+10:conduct -AND- 57:manifestos sim:0.15472697865317045
+10:conduct -AND- 58:bloc québécois sim:0.20840312470995614
+10:conduct -AND- 59:endorsements sim:0.26930512487037056
+11:analysis -AND- 12:eligibility sim:0.32710594661515086
+11:analysis -AND- 13:new democrats sim:0.0
+11:analysis -AND- 14:electoral system sim:0.3330849129735735
+11:analysis -AND- 15:10 closest ridings sim:0.09181963700454165
+11:analysis -AND- 16:polls sim:0.3715937080780475
+11:analysis -AND- 17:liberals sim:0.0
+11:analysis -AND- 18:opinion polls sim:0.4489427149353368
+11:analysis -AND- 19:results sim:0.6773648705178288
+11:analysis -AND- 20:conservatives sim:0.0
+11:analysis -AND- 21:congress of deputies sim:0.25925562729015694
+11:analysis -AND- 22:second round sim:0.4664676943479138
+11:analysis -AND- 23:issues sim:0.2761887636742063
+11:analysis -AND- 24:reactions sim:0.6722293482440898
+11:analysis -AND- 25:investiture voting sim:0.1315813543576118
+11:analysis -AND- 26:summary sim:0.4872922967117288
+11:analysis -AND- 27:results by region sim:0.1810062768804511
+11:analysis -AND- 28:nominations sim:0.3324574355245317
+11:analysis -AND- 29:ballot access sim:0.40204360979543463
+11:analysis -AND- 30:official candidates sim:0.14179093131015227
+11:analysis -AND- 31:mps who lost their seats sim:0.02203083406720667
+11:analysis -AND- 32:procedure sim:0.5658103669079526
+11:analysis -AND- 33:candidates sim:0.5866652095341939
+11:analysis -AND- 34:aftermath sim:0.5316703980752489
+11:analysis -AND- 35:overview sim:0.4705245154864775
+11:analysis -AND- 36:first round sim:0.2297028995185719
+11:analysis -AND- 37:before the primaries sim:0.4903907677975752
+11:analysis -AND- 38:super tuesday sim:0.48337568092706285
+11:analysis -AND- 39:debates sim:0.5615885556682527
+11:analysis -AND- 40:democratic party nomination sim:0.05833288915684682
+11:analysis -AND- 41:votes by state sim:0.13636915034764524
+11:analysis -AND- 42:senate sim:0.39045042185526246
+11:analysis -AND- 43:registered candidates sim:0.289878090059432
+11:analysis -AND- 44:opinion polling sim:0.2479369222601055
+11:analysis -AND- 45:notable expressions and phrases sim:0.03163890002239312
+11:analysis -AND- 46:other nominations sim:0.44851114239679446
+11:analysis -AND- 47:apportionment sim:0.26769402259240077
+11:analysis -AND- 48:election campaign sim:0.4826494823401778
+11:analysis -AND- 49:controversies sim:0.3866008145861656
+11:analysis -AND- 50:timeline sim:0.12046149572248259
+11:analysis -AND- 51:campaign sim:0.6933485406826944
+11:analysis -AND- 52:international observers sim:0.34185733489008524
+11:analysis -AND- 53:post-election sim:0.06426166380451251
+11:analysis -AND- 54:sources sim:0.16689437655644385
+11:analysis -AND- 55:results by state sim:0.1417486936747152
+11:analysis -AND- 56:campaigns sim:0.27632266649130965
+11:analysis -AND- 57:manifestos sim:0.21354834499369588
+11:analysis -AND- 58:bloc québécois sim:0.19170138441956094
+11:analysis -AND- 59:endorsements sim:0.27931006794309465
+12:eligibility -AND- 13:new democrats sim:0.0
+12:eligibility -AND- 14:electoral system sim:0.23344958568383742
+12:eligibility -AND- 15:10 closest ridings sim:0.06531057633334189
+12:eligibility -AND- 16:polls sim:0.2482954997388214
+12:eligibility -AND- 17:liberals sim:0.0
+12:eligibility -AND- 18:opinion polls sim:0.20763083785243522
+12:eligibility -AND- 19:results sim:0.32048392980748824
+12:eligibility -AND- 20:conservatives sim:0.0
+12:eligibility -AND- 21:congress of deputies sim:0.12895304017112932
+12:eligibility -AND- 22:second round sim:0.22166212202274127
+12:eligibility -AND- 23:issues sim:0.23971004456274478
+12:eligibility -AND- 24:reactions sim:0.33291882738582446
+12:eligibility -AND- 25:investiture voting sim:0.030240728385456363
+12:eligibility -AND- 26:summary sim:0.2886749814388835
+12:eligibility -AND- 27:results by region sim:0.04015387352040217
+12:eligibility -AND- 28:nominations sim:0.27292134368273296
+12:eligibility -AND- 29:ballot access sim:0.2430156318470727
+12:eligibility -AND- 30:official candidates sim:0.2512125765575632
+12:eligibility -AND- 31:mps who lost their seats sim:0.02011584454933288
+12:eligibility -AND- 32:procedure sim:0.3376900019384041
+12:eligibility -AND- 33:candidates sim:0.43185819093163647
+12:eligibility -AND- 34:aftermath sim:0.33420785556605903
+12:eligibility -AND- 35:overview sim:0.25355238368823785
+12:eligibility -AND- 36:first round sim:0.18641848399629118
+12:eligibility -AND- 37:before the primaries sim:0.2143312369275317
+12:eligibility -AND- 38:super tuesday sim:0.2874658139000805
+12:eligibility -AND- 39:debates sim:0.33583510064417044
+12:eligibility -AND- 40:democratic party nomination sim:0.2641424611986548
+12:eligibility -AND- 41:votes by state sim:0.023240540514306404
+12:eligibility -AND- 42:senate sim:0.22763423605910071
+12:eligibility -AND- 43:registered candidates sim:0.20921674767947823
+12:eligibility -AND- 44:opinion polling sim:0.10425060827541215
+12:eligibility -AND- 45:notable expressions and phrases sim:0.028253542704510616
+12:eligibility -AND- 46:other nominations sim:0.2427456447766746
+12:eligibility -AND- 47:apportionment sim:0.4047100204971267
+12:eligibility -AND- 48:election campaign sim:0.20056057580364162
+12:eligibility -AND- 49:controversies sim:0.2755575456739012
+12:eligibility -AND- 50:timeline sim:0.1
+12:eligibility -AND- 51:campaign sim:0.3515524982906961
+12:eligibility -AND- 52:international observers sim:0.18723404257777365
+12:eligibility -AND- 53:post-election sim:0.025849625007211566
+12:eligibility -AND- 54:sources sim:0.1350018462154525
+12:eligibility -AND- 55:results by state sim:0.06818469117916108
+12:eligibility -AND- 56:campaigns sim:0.22654048266512758
+12:eligibility -AND- 57:manifestos sim:0.32294400651955396
+12:eligibility -AND- 58:bloc québécois sim:0.10358305949626843
+12:eligibility -AND- 59:endorsements sim:0.23060529296783722
+13:new democrats -AND- 14:electoral system sim:0.013591081279762147
+13:new democrats -AND- 15:10 closest ridings sim:0.0
+13:new democrats -AND- 16:polls sim:0.019566461985732975
+13:new democrats -AND- 17:liberals sim:0.026656353930237284
+13:new democrats -AND- 18:opinion polls sim:0.01304430799048865
+13:new democrats -AND- 19:results sim:0.0
+13:new democrats -AND- 20:conservatives sim:0.026656353930237284
+13:new democrats -AND- 21:congress of deputies sim:0.01404977154410398
+13:new democrats -AND- 22:second round sim:0.023913259269194027
+13:new democrats -AND- 23:issues sim:0.029719078700145698
+13:new democrats -AND- 24:reactions sim:0.0
+13:new democrats -AND- 25:investiture voting sim:0.0
+13:new democrats -AND- 26:summary sim:0.0
+13:new democrats -AND- 27:results by region sim:0.01388888888888889
+13:new democrats -AND- 28:nominations sim:0.0
+13:new democrats -AND- 29:ballot access sim:0.015710137463671576
+13:new democrats -AND- 30:official candidates sim:0.030322040074926723
+13:new democrats -AND- 31:mps who lost their seats sim:0.012231113696663728
+13:new democrats -AND- 32:procedure sim:0.0
+13:new democrats -AND- 33:candidates sim:0.03251979296076238
+13:new democrats -AND- 34:aftermath sim:0.0
+13:new democrats -AND- 35:overview sim:0.0
+13:new democrats -AND- 36:first round sim:0.026208093925240702
+13:new democrats -AND- 37:before the primaries sim:0.013763928252911867
+13:new democrats -AND- 38:super tuesday sim:0.015849625007211564
+13:new democrats -AND- 39:debates sim:0.0
+13:new democrats -AND- 40:democratic party nomination sim:0.012914713193418038
+13:new democrats -AND- 41:votes by state sim:0.014130754041477922
+13:new democrats -AND- 42:senate sim:0.0
+13:new democrats -AND- 43:registered candidates sim:0.021679861973841585
+13:new democrats -AND- 44:opinion polling sim:0.0
+13:new democrats -AND- 45:notable expressions and phrases sim:0.01563721875540867
+13:new democrats -AND- 46:other nominations sim:0.05
+13:new democrats -AND- 47:apportionment sim:0.0
+13:new democrats -AND- 48:election campaign sim:0.0
+13:new democrats -AND- 49:controversies sim:0.0
+13:new democrats -AND- 50:timeline sim:0.0
+13:new democrats -AND- 51:campaign sim:0.0
+13:new democrats -AND- 52:international observers sim:0.020737055441540076
+13:new democrats -AND- 53:post-election sim:0.028949237074364465
+13:new democrats -AND- 54:sources sim:0.03127443751081734
+13:new democrats -AND- 55:results by state sim:0.014130754041477922
+13:new democrats -AND- 56:campaigns sim:0.0
+13:new democrats -AND- 57:manifestos sim:0.0
+13:new democrats -AND- 58:bloc québécois sim:0.019768868318004135
+13:new democrats -AND- 59:endorsements sim:0.0
+14:electoral system -AND- 15:10 closest ridings sim:0.10305903188092583
+14:electoral system -AND- 16:polls sim:0.1305254592178429
+14:electoral system -AND- 17:liberals sim:0.02087405161048835
+14:electoral system -AND- 18:opinion polls sim:0.22029207506211781
+14:electoral system -AND- 19:results sim:0.4555002757549826
+14:electoral system -AND- 20:conservatives sim:0.02087405161048835
+14:electoral system -AND- 21:congress of deputies sim:0.09006044942024884
+14:electoral system -AND- 22:second round sim:0.22093363724969917
+14:electoral system -AND- 23:issues sim:0.11227160296356403
+14:electoral system -AND- 24:reactions sim:0.24830219916614776
+14:electoral system -AND- 25:investiture voting sim:0.08455509689620831
+14:electoral system -AND- 26:summary sim:0.23849860305643333
+14:electoral system -AND- 27:results by region sim:0.04063388045111997
+14:electoral system -AND- 28:nominations sim:0.11011585555630557
+14:electoral system -AND- 29:ballot access sim:0.21794764564523478
+14:electoral system -AND- 30:official candidates sim:0.12554175125760608
+14:electoral system -AND- 31:mps who lost their seats sim:0.03284341058622042
+14:electoral system -AND- 32:procedure sim:0.3019975504570882
+14:electoral system -AND- 33:candidates sim:0.26652512715283805
+14:electoral system -AND- 34:aftermath sim:0.2215042753042234
+14:electoral system -AND- 35:overview sim:0.2038048672334022
+14:electoral system -AND- 36:first round sim:0.16363325244844132
+14:electoral system -AND- 37:before the primaries sim:0.18950908515468803
+14:electoral system -AND- 38:super tuesday sim:0.15502777495443554
+14:electoral system -AND- 39:debates sim:0.19783054783396475
+14:electoral system -AND- 40:democratic party nomination sim:0.1362277803746139
+14:electoral system -AND- 41:votes by state sim:0.11125099196490926
+14:electoral system -AND- 42:senate sim:0.24700360164563256
+14:electoral system -AND- 43:registered candidates sim:0.173371834444405
+14:electoral system -AND- 44:opinion polling sim:0.11842569631278595
+14:electoral system -AND- 45:notable expressions and phrases sim:0.028721472332815037
+14:electoral system -AND- 46:other nominations sim:0.18883539007072692
+14:electoral system -AND- 47:apportionment sim:0.2931471608314148
+14:electoral system -AND- 48:election campaign sim:0.19441045678650337
+14:electoral system -AND- 49:controversies sim:0.12378776837307902
+14:electoral system -AND- 50:timeline sim:0.0
+14:electoral system -AND- 51:campaign sim:0.2309445142655466
+14:electoral system -AND- 52:international observers sim:0.17641431375364539
+14:electoral system -AND- 53:post-election sim:0.031221724789934947
+14:electoral system -AND- 54:sources sim:0.08107265644632616
+14:electoral system -AND- 55:results by state sim:0.15507260472682405
+14:electoral system -AND- 56:campaigns sim:0.06275154754621658
+14:electoral system -AND- 57:manifestos sim:0.14640905003184532
+14:electoral system -AND- 58:bloc québécois sim:0.14406969300905556
+14:electoral system -AND- 59:endorsements sim:0.1274816619910663
+15:10 closest ridings -AND- 16:polls sim:0.027952894994331314
+15:10 closest ridings -AND- 17:liberals sim:0.0
+15:10 closest ridings -AND- 18:opinion polls sim:0.02920772016381586
+15:10 closest ridings -AND- 19:results sim:0.29669513823969634
+15:10 closest ridings -AND- 20:conservatives sim:0.0
+15:10 closest ridings -AND- 21:congress of deputies sim:0.0
+15:10 closest ridings -AND- 22:second round sim:0.12786816000308435
+15:10 closest ridings -AND- 23:issues sim:0.04841533367052882
+15:10 closest ridings -AND- 24:reactions sim:0.050486966885044726
+15:10 closest ridings -AND- 25:investiture voting sim:0.028379415146554773
+15:10 closest ridings -AND- 26:summary sim:0.058964261398125335
+15:10 closest ridings -AND- 27:results by region sim:0.023769626856940285
+15:10 closest ridings -AND- 28:nominations sim:0.028041322380953665
+15:10 closest ridings -AND- 29:ballot access sim:0.18366165919981553
+15:10 closest ridings -AND- 30:official candidates sim:0.0
+15:10 closest ridings -AND- 31:mps who lost their seats sim:0.012755234547462073
+15:10 closest ridings -AND- 32:procedure sim:0.16975982428083303
+15:10 closest ridings -AND- 33:candidates sim:0.007979968548668467
+15:10 closest ridings -AND- 34:aftermath sim:0.0022759489395886285
+15:10 closest ridings -AND- 35:overview sim:0.03045133398778855
+15:10 closest ridings -AND- 36:first round sim:0.04446509744816018
+15:10 closest ridings -AND- 37:before the primaries sim:0.012866327588606431
+15:10 closest ridings -AND- 38:super tuesday sim:0.016803616591306858
+15:10 closest ridings -AND- 39:debates sim:0.04097937969598069
+15:10 closest ridings -AND- 40:democratic party nomination sim:0.014020661190476832
+15:10 closest ridings -AND- 41:votes by state sim:0.12579784216106804
+15:10 closest ridings -AND- 42:senate sim:0.0
+15:10 closest ridings -AND- 43:registered candidates sim:0.0
+15:10 closest ridings -AND- 44:opinion polling sim:0.02451832343773033
+15:10 closest ridings -AND- 45:notable expressions and phrases sim:0.025981611781638925
+15:10 closest ridings -AND- 46:other nominations sim:0.11531850874423887
+15:10 closest ridings -AND- 47:apportionment sim:0.0890504867081438
+15:10 closest ridings -AND- 48:election campaign sim:0.03195650699931713
+15:10 closest ridings -AND- 49:controversies sim:0.03387362989349262
+15:10 closest ridings -AND- 50:timeline sim:0.0
+15:10 closest ridings -AND- 51:campaign sim:0.052543143239850904
+15:10 closest ridings -AND- 52:international observers sim:0.013006141500381927
+15:10 closest ridings -AND- 53:post-election sim:0.0429643300492218
+15:10 closest ridings -AND- 54:sources sim:0.022454033179974357
+15:10 closest ridings -AND- 55:results by state sim:0.13418424838715018
+15:10 closest ridings -AND- 56:campaigns sim:0.04837796735216385
+15:10 closest ridings -AND- 57:manifestos sim:0.026298376981042343
+15:10 closest ridings -AND- 58:bloc québécois sim:0.02934077149533869
+15:10 closest ridings -AND- 59:endorsements sim:0.04108897131727828
+16:polls -AND- 17:liberals sim:0.026605317140122677
+16:polls -AND- 18:opinion polls sim:0.4932656630941131
+16:polls -AND- 19:results sim:0.3633488257855032
+16:polls -AND- 20:conservatives sim:0.026605317140122677
+16:polls -AND- 21:congress of deputies sim:0.22025062832666284
+16:polls -AND- 22:second round sim:0.2505443796485565
+16:polls -AND- 23:issues sim:0.24103325549512206
+16:polls -AND- 24:reactions sim:0.407065472125666
+16:polls -AND- 25:investiture voting sim:0.09425011807559103
+16:polls -AND- 26:summary sim:0.2949095002162352
+16:polls -AND- 27:results by region sim:0.13832094943067674
+16:polls -AND- 28:nominations sim:0.19610758056733937
+16:polls -AND- 29:ballot access sim:0.20155782944489634
+16:polls -AND- 30:official candidates sim:0.17149248047857985
+16:polls -AND- 31:mps who lost their seats sim:0.01962938627869784
+16:polls -AND- 32:procedure sim:0.33320118128821674
+16:polls -AND- 33:candidates sim:0.37452707144102027
+16:polls -AND- 34:aftermath sim:0.35166881331037947
+16:polls -AND- 35:overview sim:0.41000659167018894
+16:polls -AND- 36:first round sim:0.1680295593993453
+16:polls -AND- 37:before the primaries sim:0.25477968148138574
+16:polls -AND- 38:super tuesday sim:0.2589503561044698
+16:polls -AND- 39:debates sim:0.28448053906849413
+16:polls -AND- 40:democratic party nomination sim:0.05476198705120158
+16:polls -AND- 41:votes by state sim:0.0894068628663616
+16:polls -AND- 42:senate sim:0.2553990070468623
+16:polls -AND- 43:registered candidates sim:0.12637377893584234
+16:polls -AND- 44:opinion polling sim:0.33835595289984727
+16:polls -AND- 45:notable expressions and phrases sim:0.02119613106221688
+16:polls -AND- 46:other nominations sim:0.165999370925398
+16:polls -AND- 47:apportionment sim:0.13898789938405795
+16:polls -AND- 48:election campaign sim:0.21130605814482395
+16:polls -AND- 49:controversies sim:0.21073295567991557
+16:polls -AND- 50:timeline sim:0.16060915267313272
+16:polls -AND- 51:campaign sim:0.47773535833101854
+16:polls -AND- 52:international observers sim:0.20518541898836246
+16:polls -AND- 53:post-election sim:0.1695738147520879
+16:polls -AND- 54:sources sim:0.2023144848704197
+16:polls -AND- 55:results by state sim:0.07349808826902698
+16:polls -AND- 56:campaigns sim:0.24836185250366796
+16:polls -AND- 57:manifestos sim:0.2511857892036911
+16:polls -AND- 58:bloc québécois sim:0.1851441426270134
+16:polls -AND- 59:endorsements sim:0.19877295966495898
+17:liberals -AND- 18:opinion polls sim:0.019953987855092007
+17:liberals -AND- 19:results sim:0.0
+17:liberals -AND- 20:conservatives sim:0.05
+17:liberals -AND- 21:congress of deputies sim:0.023045808269560358
+17:liberals -AND- 22:second round sim:0.03253722662515039
+17:liberals -AND- 23:issues sim:0.04080946520542181
+17:liberals -AND- 24:reactions sim:0.0
+17:liberals -AND- 25:investiture voting sim:0.0
+17:liberals -AND- 26:summary sim:0.0
+17:liberals -AND- 27:results by region sim:0.022753539816199514
+17:liberals -AND- 28:nominations sim:0.0
+17:liberals -AND- 29:ballot access sim:0.023994242477808465
+17:liberals -AND- 30:official candidates sim:0.03796759643796585
+17:liberals -AND- 31:mps who lost their seats sim:0.021320474268436578
+17:liberals -AND- 32:procedure sim:0.0
+17:liberals -AND- 33:candidates sim:0.03877619350384901
+17:liberals -AND- 34:aftermath sim:0.0
+17:liberals -AND- 35:overview sim:0.0
+17:liberals -AND- 36:first round sim:0.035656493063633776
+17:liberals -AND- 37:before the primaries sim:0.022304729832026537
+17:liberals -AND- 38:super tuesday sim:0.02422556306033659
+17:liberals -AND- 39:debates sim:0.0
+17:liberals -AND- 40:democratic party nomination sim:0.021541354172676302
+17:liberals -AND- 41:votes by state sim:0.02293882709699834
+17:liberals -AND- 42:senate sim:0.0
+17:liberals -AND- 43:registered candidates sim:0.02908214512788676
+17:liberals -AND- 44:opinion polling sim:0.0
+17:liberals -AND- 45:notable expressions and phrases sim:0.030676172294059757
+17:liberals -AND- 46:other nominations sim:0.0
+17:liberals -AND- 47:apportionment sim:0.0
+17:liberals -AND- 48:election campaign sim:0.0
+17:liberals -AND- 49:controversies sim:0.0
+17:liberals -AND- 50:timeline sim:0.0
+17:liberals -AND- 51:campaign sim:0.0
+17:liberals -AND- 52:international observers sim:0.032239451244457394
+17:liberals -AND- 53:post-election sim:0.03962543826686093
+17:liberals -AND- 54:sources sim:0.04249050310164076
+17:liberals -AND- 55:results by state sim:0.02293882709699834
+17:liberals -AND- 56:campaigns sim:0.0
+17:liberals -AND- 57:manifestos sim:0.0
+17:liberals -AND- 58:bloc québécois sim:0.0299920446641743
+17:liberals -AND- 59:endorsements sim:0.0
+18:opinion polls -AND- 19:results sim:0.3965644881165935
+18:opinion polls -AND- 20:conservatives sim:0.019953987855092007
+18:opinion polls -AND- 21:congress of deputies sim:0.21755488442008608
+18:opinion polls -AND- 22:second round sim:0.43336194841068776
+18:opinion polls -AND- 23:issues sim:0.19162003915596854
+18:opinion polls -AND- 24:reactions sim:0.5128997525555397
+18:opinion polls -AND- 25:investiture voting sim:0.13795250994916586
+18:opinion polls -AND- 26:summary sim:0.4304535778269859
+18:opinion polls -AND- 27:results by region sim:0.2529378752272913
+18:opinion polls -AND- 28:nominations sim:0.14612741282626737
+18:opinion polls -AND- 29:ballot access sim:0.2641473257229302
+18:opinion polls -AND- 30:official candidates sim:0.12932830009561475
+18:opinion polls -AND- 31:mps who lost their seats sim:0.02682631239061576
+18:opinion polls -AND- 32:procedure sim:0.3488947095613712
+18:opinion polls -AND- 33:candidates sim:0.4020918401323727
+18:opinion polls -AND- 34:aftermath sim:0.40008112040542126
+18:opinion polls -AND- 35:overview sim:0.3720109861103231
+18:opinion polls -AND- 36:first round sim:0.29895699789684355
+18:opinion polls -AND- 37:before the primaries sim:0.4144141646331314
+18:opinion polls -AND- 38:super tuesday sim:0.2685259886504355
+18:opinion polls -AND- 39:debates sim:0.3661283226856794
+18:opinion polls -AND- 40:democratic party nomination sim:0.05444387794533419
+18:opinion polls -AND- 41:votes by state sim:0.11804532850402273
+18:opinion polls -AND- 42:senate sim:0.23460165888037934
+18:opinion polls -AND- 43:registered candidates sim:0.26066649311360884
+18:opinion polls -AND- 44:opinion polling sim:0.4496861280908586
+18:opinion polls -AND- 45:notable expressions and phrases sim:0.03563066231974988
+18:opinion polls -AND- 46:other nominations sim:0.2763222390496388
+18:opinion polls -AND- 47:apportionment sim:0.11952588941141533
+18:opinion polls -AND- 48:election campaign sim:0.3731711832088276
+18:opinion polls -AND- 49:controversies sim:0.24842400608964646
+18:opinion polls -AND- 50:timeline sim:0.11939500616951318
+18:opinion polls -AND- 51:campaign sim:0.5488501341722264
+18:opinion polls -AND- 52:international observers sim:0.35882797283686846
+18:opinion polls -AND- 53:post-election sim:0.09310614797414993
+18:opinion polls -AND- 54:sources sim:0.09114087872331986
+18:opinion polls -AND- 55:results by state sim:0.18891081847510288
+18:opinion polls -AND- 56:campaigns sim:0.19278396210985374
+18:opinion polls -AND- 57:manifestos sim:0.03808460816164733
+18:opinion polls -AND- 58:bloc québécois sim:0.24975407552776932
+18:opinion polls -AND- 59:endorsements sim:0.20894659762438672
+19:results -AND- 20:conservatives sim:0.0
+19:results -AND- 21:congress of deputies sim:0.3156729285071497
+19:results -AND- 22:second round sim:0.4317527471109443
+19:results -AND- 23:issues sim:0.3220902654054141
+19:results -AND- 24:reactions sim:0.582681233968379
+19:results -AND- 25:investiture voting sim:0.15711696896249838
+19:results -AND- 26:summary sim:0.5039575259088355
+19:results -AND- 27:results by region sim:0.24345537050913157
+19:results -AND- 28:nominations sim:0.28039889866609
+19:results -AND- 29:ballot access sim:0.38931236267777924
+19:results -AND- 30:official candidates sim:0.1617519398883908
+19:results -AND- 31:mps who lost their seats sim:0.03610565514260009
+19:results -AND- 32:procedure sim:0.5413394203261502
+19:results -AND- 33:candidates sim:0.4711938242550263
+19:results -AND- 34:aftermath sim:0.5249807205083047
+19:results -AND- 35:overview sim:0.4938566956616051
+19:results -AND- 36:first round sim:0.2783299131873355
+19:results -AND- 37:before the primaries sim:0.31940687650826094
+19:results -AND- 38:super tuesday sim:0.33273611554763355
+19:results -AND- 39:debates sim:0.44575191480775894
+19:results -AND- 40:democratic party nomination sim:0.17242403592313377
+19:results -AND- 41:votes by state sim:0.12592076884987896
+19:results -AND- 42:senate sim:0.4339860397709208
+19:results -AND- 43:registered candidates sim:0.22831823080730484
+19:results -AND- 44:opinion polling sim:0.19635178110703577
+19:results -AND- 45:notable expressions and phrases sim:0.041514298149974815
+19:results -AND- 46:other nominations sim:0.32271832038427817
+19:results -AND- 47:apportionment sim:0.24537959550653285
+19:results -AND- 48:election campaign sim:0.37599267204526327
+19:results -AND- 49:controversies sim:0.27713739241931296
+19:results -AND- 50:timeline sim:0.1345002695344089
+19:results -AND- 51:campaign sim:0.6000595541929331
+19:results -AND- 52:international observers sim:0.25934497973414933
+19:results -AND- 53:post-election sim:0.07901520870840117
+19:results -AND- 54:sources sim:0.17108197017552515
+19:results -AND- 55:results by state sim:0.3088312808285316
+19:results -AND- 56:campaigns sim:0.2814813348729148
+19:results -AND- 57:manifestos sim:0.30146762996853943
+19:results -AND- 58:bloc québécois sim:0.2232518622295226
+19:results -AND- 59:endorsements sim:0.2943308162333477
+20:conservatives -AND- 21:congress of deputies sim:0.023045808269560358
+20:conservatives -AND- 22:second round sim:0.03253722662515039
+20:conservatives -AND- 23:issues sim:0.04080946520542181
+20:conservatives -AND- 24:reactions sim:0.0
+20:conservatives -AND- 25:investiture voting sim:0.0
+20:conservatives -AND- 26:summary sim:0.0
+20:conservatives -AND- 27:results by region sim:0.022753539816199514
+20:conservatives -AND- 28:nominations sim:0.0
+20:conservatives -AND- 29:ballot access sim:0.023994242477808465
+20:conservatives -AND- 30:official candidates sim:0.03796759643796585
+20:conservatives -AND- 31:mps who lost their seats sim:0.021320474268436578
+20:conservatives -AND- 32:procedure sim:0.0
+20:conservatives -AND- 33:candidates sim:0.03877619350384901
+20:conservatives -AND- 34:aftermath sim:0.0
+20:conservatives -AND- 35:overview sim:0.0
+20:conservatives -AND- 36:first round sim:0.035656493063633776
+20:conservatives -AND- 37:before the primaries sim:0.022304729832026537
+20:conservatives -AND- 38:super tuesday sim:0.02422556306033659
+20:conservatives -AND- 39:debates sim:0.0
+20:conservatives -AND- 40:democratic party nomination sim:0.021541354172676302
+20:conservatives -AND- 41:votes by state sim:0.02293882709699834
+20:conservatives -AND- 42:senate sim:0.0
+20:conservatives -AND- 43:registered candidates sim:0.02908214512788676
+20:conservatives -AND- 44:opinion polling sim:0.0
+20:conservatives -AND- 45:notable expressions and phrases sim:0.030676172294059757
+20:conservatives -AND- 46:other nominations sim:0.0
+20:conservatives -AND- 47:apportionment sim:0.0
+20:conservatives -AND- 48:election campaign sim:0.0
+20:conservatives -AND- 49:controversies sim:0.0
+20:conservatives -AND- 50:timeline sim:0.0
+20:conservatives -AND- 51:campaign sim:0.0
+20:conservatives -AND- 52:international observers sim:0.032239451244457394
+20:conservatives -AND- 53:post-election sim:0.03962543826686093
+20:conservatives -AND- 54:sources sim:0.04249050310164076
+20:conservatives -AND- 55:results by state sim:0.02293882709699834
+20:conservatives -AND- 56:campaigns sim:0.0
+20:conservatives -AND- 57:manifestos sim:0.0
+20:conservatives -AND- 58:bloc québécois sim:0.0299920446641743
+20:conservatives -AND- 59:endorsements sim:0.0
+21:congress of deputies -AND- 22:second round sim:0.18733412525269946
+21:congress of deputies -AND- 23:issues sim:0.1989678136732797
+21:congress of deputies -AND- 24:reactions sim:0.32076976373318256
+21:congress of deputies -AND- 25:investiture voting sim:0.032975674920391655
+21:congress of deputies -AND- 26:summary sim:0.2691147927480648
+21:congress of deputies -AND- 27:results by region sim:0.53000091165198
+21:congress of deputies -AND- 28:nominations sim:0.1
+21:congress of deputies -AND- 29:ballot access sim:0.06346608176758133
+21:congress of deputies -AND- 30:official candidates sim:0.10044317750372765
+21:congress of deputies -AND- 31:mps who lost their seats sim:0.024299796064314424
+21:congress of deputies -AND- 32:procedure sim:0.23464263911619967
+21:congress of deputies -AND- 33:candidates sim:0.20032992216294293
+21:congress of deputies -AND- 34:aftermath sim:0.20016989747910222
+21:congress of deputies -AND- 35:overview sim:0.2237375216865572
+21:congress of deputies -AND- 36:first round sim:0.21161166104148985
+21:congress of deputies -AND- 37:before the primaries sim:0.05086567497698637
+21:congress of deputies -AND- 38:super tuesday sim:0.14210294048251443
+21:congress of deputies -AND- 39:debates sim:0.12508200904490077
+21:congress of deputies -AND- 40:democratic party nomination sim:0.019378795246486415
+21:congress of deputies -AND- 41:votes by state sim:0.06176479653287323
+21:congress of deputies -AND- 42:senate sim:0.5320932241015845
+21:congress of deputies -AND- 43:registered candidates sim:0.0153740244846435
+21:congress of deputies -AND- 44:opinion polling sim:0.03907090324044034
+21:congress of deputies -AND- 45:notable expressions and phrases sim:0.02973285078678215
+21:congress of deputies -AND- 46:other nominations sim:0.0533051370145064
+21:congress of deputies -AND- 47:apportionment sim:0.1
+21:congress of deputies -AND- 48:election campaign sim:0.08994581686650821
+21:congress of deputies -AND- 49:controversies sim:0.14679517952222187
+21:congress of deputies -AND- 50:timeline sim:0.24087214501209983
+21:congress of deputies -AND- 51:campaign sim:0.2437002325215407
+21:congress of deputies -AND- 52:international observers sim:0.13628936895091517
+21:congress of deputies -AND- 53:post-election sim:0.034421826217150474
+21:congress of deputies -AND- 54:sources sim:0.1368713176337008
+21:congress of deputies -AND- 55:results by state sim:0.15557152007580852
+21:congress of deputies -AND- 56:campaigns sim:0.15087704005991154
+21:congress of deputies -AND- 57:manifestos sim:0.1
+21:congress of deputies -AND- 58:bloc québécois sim:0.14185396107950332
+21:congress of deputies -AND- 59:endorsements sim:0.11967787478129915
+22:second round -AND- 23:issues sim:0.12755490316623655
+22:second round -AND- 24:reactions sim:0.5587359460909535
+22:second round -AND- 25:investiture voting sim:0.19742363988132303
+22:second round -AND- 26:summary sim:0.4737436653204119
+22:second round -AND- 27:results by region sim:0.209870475187322
+22:second round -AND- 28:nominations sim:0.08917273798021905
+22:second round -AND- 29:ballot access sim:0.33477978369233874
+22:second round -AND- 30:official candidates sim:0.11574271430077715
+22:second round -AND- 31:mps who lost their seats sim:0.04189713174629827
+22:second round -AND- 32:procedure sim:0.39415774095796074
+22:second round -AND- 33:candidates sim:0.47512892350953667
+22:second round -AND- 34:aftermath sim:0.46891100417797393
+22:second round -AND- 35:overview sim:0.2147666209214137
+22:second round -AND- 36:first round sim:0.49073291307949396
+22:second round -AND- 37:before the primaries sim:0.4492608475955624
+22:second round -AND- 38:super tuesday sim:0.3743274748471905
+22:second round -AND- 39:debates sim:0.4909995792210522
+22:second round -AND- 40:democratic party nomination sim:0.037392110417917304
+22:second round -AND- 41:votes by state sim:0.12655055694976516
+22:second round -AND- 42:senate sim:0.20176865480602263
+22:second round -AND- 43:registered candidates sim:0.31189010449006827
+22:second round -AND- 44:opinion polling sim:0.238480293149202
+22:second round -AND- 45:notable expressions and phrases sim:0.04133706906387083
+22:second round -AND- 46:other nominations sim:0.40534815734809543
+22:second round -AND- 47:apportionment sim:0.1574816832481094
+22:second round -AND- 48:election campaign sim:0.46376271058956287
+22:second round -AND- 49:controversies sim:0.36329759625879154
+22:second round -AND- 50:timeline sim:0.027348549437220905
+22:second round -AND- 51:campaign sim:0.5587518533349554
+22:second round -AND- 52:international observers sim:0.3421397480343745
+22:second round -AND- 53:post-election sim:0.07436628374484099
+22:second round -AND- 54:sources sim:0.07671276598354658
+22:second round -AND- 55:results by state sim:0.18151017603384817
+22:second round -AND- 56:campaigns sim:0.13742468461577734
+22:second round -AND- 57:manifestos sim:0.04419431287426046
+22:second round -AND- 58:bloc québécois sim:0.24678863792647196
+22:second round -AND- 59:endorsements sim:0.2870770454812085
+23:issues -AND- 24:reactions sim:0.2924258589118487
+23:issues -AND- 25:investiture voting sim:0.06240330605221635
+23:issues -AND- 26:summary sim:0.22963039774318605
+23:issues -AND- 27:results by region sim:0.12626712609370944
+23:issues -AND- 28:nominations sim:0.23348351517011592
+23:issues -AND- 29:ballot access sim:0.16487125807758685
+23:issues -AND- 30:official candidates sim:0.23188247042127552
+23:issues -AND- 31:mps who lost their seats sim:0.03020192714124538
+23:issues -AND- 32:procedure sim:0.2549702262681734
+23:issues -AND- 33:candidates sim:0.2942599563539155
+23:issues -AND- 34:aftermath sim:0.2648650104182254
+23:issues -AND- 35:overview sim:0.24622446385722918
+23:issues -AND- 36:first round sim:0.10373894538127998
+23:issues -AND- 37:before the primaries sim:0.17200053711625998
+23:issues -AND- 38:super tuesday sim:0.17601979280046615
+23:issues -AND- 39:debates sim:0.27070913956377485
+23:issues -AND- 40:democratic party nomination sim:0.17793638465116846
+23:issues -AND- 41:votes by state sim:0.061351519253207934
+23:issues -AND- 42:senate sim:0.1708828632717579
+23:issues -AND- 43:registered candidates sim:0.14251889844664975
+23:issues -AND- 44:opinion polling sim:0.08470886923093857
+23:issues -AND- 45:notable expressions and phrases sim:0.045798592945221775
+23:issues -AND- 46:other nominations sim:0.1277101807961094
+23:issues -AND- 47:apportionment sim:0.20822596276274596
+23:issues -AND- 48:election campaign sim:0.1680896433442189
+23:issues -AND- 49:controversies sim:0.19329500576608277
+23:issues -AND- 50:timeline sim:0.1
+23:issues -AND- 51:campaign sim:0.3165573878715895
+23:issues -AND- 52:international observers sim:0.2108106583546558
+23:issues -AND- 53:post-election sim:0.05566413762796893
+23:issues -AND- 54:sources sim:0.15283206881398448
+23:issues -AND- 55:results by state sim:0.10652508253413538
+23:issues -AND- 56:campaigns sim:0.29327011152826055
+23:issues -AND- 57:manifestos sim:0.21474194649610184
+23:issues -AND- 58:bloc québécois sim:0.13364371858293922
+23:issues -AND- 59:endorsements sim:0.2027444574363423
+24:reactions -AND- 25:investiture voting sim:0.1623976010018874
+24:reactions -AND- 26:summary sim:0.5564914871951521
+24:reactions -AND- 27:results by region sim:0.21068340882192538
+24:reactions -AND- 28:nominations sim:0.2212483037003768
+24:reactions -AND- 29:ballot access sim:0.37605494358402475
+24:reactions -AND- 30:official candidates sim:0.10829541204431861
+24:reactions -AND- 31:mps who lost their seats sim:0.0
+24:reactions -AND- 32:procedure sim:0.5409510129406613
+24:reactions -AND- 33:candidates sim:0.6641440732870888
+24:reactions -AND- 34:aftermath sim:0.6822646618970639
+24:reactions -AND- 35:overview sim:0.36494825167321887
+24:reactions -AND- 36:first round sim:0.27995866641090494
+24:reactions -AND- 37:before the primaries sim:0.5229545274818223
+24:reactions -AND- 38:super tuesday sim:0.4609076917142073
+24:reactions -AND- 39:debates sim:0.6525237749121985
+24:reactions -AND- 40:democratic party nomination sim:0.03017895662205415
+24:reactions -AND- 41:votes by state sim:0.10278510043032762
+24:reactions -AND- 42:senate sim:0.3498851440822659
+24:reactions -AND- 43:registered candidates sim:0.31797011395838454
+24:reactions -AND- 44:opinion polling sim:0.2926471121008262
+24:reactions -AND- 45:notable expressions and phrases sim:0.021829859233084826
+24:reactions -AND- 46:other nominations sim:0.45391209999230403
+24:reactions -AND- 47:apportionment sim:0.2411424760677699
+24:reactions -AND- 48:election campaign sim:0.5609052961601728
+24:reactions -AND- 49:controversies sim:0.47456919545263127
+24:reactions -AND- 50:timeline sim:0.1329569403512606
+24:reactions -AND- 51:campaign sim:0.7680412759792972
+24:reactions -AND- 52:international observers sim:0.4249250957092474
+24:reactions -AND- 53:post-election sim:0.09192157771141403
+24:reactions -AND- 54:sources sim:0.17954773688240067
+24:reactions -AND- 55:results by state sim:0.19356457744297678
+24:reactions -AND- 56:campaigns sim:0.2852857687985782
+24:reactions -AND- 57:manifestos sim:0.1352324512316464
+24:reactions -AND- 58:bloc québécois sim:0.21338537746491093
+24:reactions -AND- 59:endorsements sim:0.284122284298352
+25:investiture voting -AND- 26:summary sim:0.2248096879549235
+25:investiture voting -AND- 27:results by region sim:0.020378159769752924
+25:investiture voting -AND- 28:nominations sim:0.09953654893024094
+25:investiture voting -AND- 29:ballot access sim:0.1172658133737838
+25:investiture voting -AND- 30:official candidates sim:0.0
+25:investiture voting -AND- 31:mps who lost their seats sim:0.0
+25:investiture voting -AND- 32:procedure sim:0.19602759321873003
+25:investiture voting -AND- 33:candidates sim:0.17532812078963145
+25:investiture voting -AND- 34:aftermath sim:0.18588092814534357
+25:investiture voting -AND- 35:overview sim:0.17120203969258305
+25:investiture voting -AND- 36:first round sim:0.18358332624080456
+25:investiture voting -AND- 37:before the primaries sim:0.09499781811738219
+25:investiture voting -AND- 38:super tuesday sim:0.05597167151013282
+25:investiture voting -AND- 39:debates sim:0.13414531255324627
+25:investiture voting -AND- 40:democratic party nomination sim:0.03544693974911457
+25:investiture voting -AND- 41:votes by state sim:0.07976943732239057
+25:investiture voting -AND- 42:senate sim:0.024552652723762027
+25:investiture voting -AND- 43:registered candidates sim:0.16571481934890428
+25:investiture voting -AND- 44:opinion polling sim:0.14904069247093957
+25:investiture voting -AND- 45:notable expressions and phrases sim:0.027136273663299612
+25:investiture voting -AND- 46:other nominations sim:0.10335752372858525
+25:investiture voting -AND- 47:apportionment sim:0.08524339610569517
+25:investiture voting -AND- 48:election campaign sim:0.15073749014747573
+25:investiture voting -AND- 49:controversies sim:0.11468423124313148
+25:investiture voting -AND- 50:timeline sim:0.0
+25:investiture voting -AND- 51:campaign sim:0.1869285856246734
+25:investiture voting -AND- 52:international observers sim:0.06821327464808875
+25:investiture voting -AND- 53:post-election sim:0.09481310307623092
+25:investiture voting -AND- 54:sources sim:0.0
+25:investiture voting -AND- 55:results by state sim:0.08349676072854928
+25:investiture voting -AND- 56:campaigns sim:0.08872294071036907
+25:investiture voting -AND- 57:manifestos sim:0.0
+25:investiture voting -AND- 58:bloc québécois sim:0.03544058203482597
+25:investiture voting -AND- 59:endorsements sim:0.0876888409651207
+26:summary -AND- 27:results by region sim:0.18254844011270682
+26:summary -AND- 28:nominations sim:0.19993904738268847
+26:summary -AND- 29:ballot access sim:0.23530578168023733
+26:summary -AND- 30:official candidates sim:0.0987776652679563
+26:summary -AND- 31:mps who lost their seats sim:0.020959032742893846
+26:summary -AND- 32:procedure sim:0.488895057601602
+26:summary -AND- 33:candidates sim:0.48730024116997595
+26:summary -AND- 34:aftermath sim:0.47207112824993946
+26:summary -AND- 35:overview sim:0.41293188781542717
+26:summary -AND- 36:first round sim:0.30982437300957644
+26:summary -AND- 37:before the primaries sim:0.29155337917313207
+26:summary -AND- 38:super tuesday sim:0.3272342874196041
+26:summary -AND- 39:debates sim:0.42190179168231623
+26:summary -AND- 40:democratic party nomination sim:0.034923178470373406
+26:summary -AND- 41:votes by state sim:0.08178621183922832
+26:summary -AND- 42:senate sim:0.3096082337851403
+26:summary -AND- 43:registered candidates sim:0.24112031849934157
+26:summary -AND- 44:opinion polling sim:0.16022141044656577
+26:summary -AND- 45:notable expressions and phrases sim:0.030005911188314305
+26:summary -AND- 46:other nominations sim:0.2359769985027175
+26:summary -AND- 47:apportionment sim:0.1861156280072689
+26:summary -AND- 48:election campaign sim:0.32465102407038143
+26:summary -AND- 49:controversies sim:0.313165590385612
+26:summary -AND- 50:timeline sim:0.13055778116157674
+26:summary -AND- 51:campaign sim:0.5405133013032047
+26:summary -AND- 52:international observers sim:0.38396470917258624
+26:summary -AND- 53:post-election sim:0.0377142603301034
+26:summary -AND- 54:sources sim:0.16837466715905106
+26:summary -AND- 55:results by state sim:0.2332823448849962
+26:summary -AND- 56:campaigns sim:0.2471489821417868
+26:summary -AND- 57:manifestos sim:0.14077324383928644
+26:summary -AND- 58:bloc québécois sim:0.20991456109994805
+26:summary -AND- 59:endorsements sim:0.3984848852802121
+27:results by region -AND- 28:nominations sim:0.0
+27:results by region -AND- 29:ballot access sim:0.07618933318757384
+27:results by region -AND- 30:official candidates sim:0.0735541167010868
+27:results by region -AND- 31:mps who lost their seats sim:0.03341528623293019
+27:results by region -AND- 32:procedure sim:0.1387311723557282
+27:results by region -AND- 33:candidates sim:0.08927495844539926
+27:results by region -AND- 34:aftermath sim:0.09285053549903025
+27:results by region -AND- 35:overview sim:0.15949907983018408
+27:results by region -AND- 36:first round sim:0.22491417878848674
+27:results by region -AND- 37:before the primaries sim:0.05896075072695561
+27:results by region -AND- 38:super tuesday sim:0.05360943838586496
+27:results by region -AND- 39:debates sim:0.057704432599301386
+27:results by region -AND- 40:democratic party nomination sim:0.01761576919784939
+27:results by region -AND- 41:votes by state sim:0.19470651957832968
+27:results by region -AND- 42:senate sim:0.26983489949546346
+27:results by region -AND- 43:registered candidates sim:0.015220783367753477
+27:results by region -AND- 44:opinion polling sim:0.0703968424498406
+27:results by region -AND- 45:notable expressions and phrases sim:0.0351222505356609
+27:results by region -AND- 46:other nominations sim:0.050964719143762494
+27:results by region -AND- 47:apportionment sim:0.0
+27:results by region -AND- 48:election campaign sim:0.11698062537454573
+27:results by region -AND- 49:controversies sim:0.02348880878058813
+27:results by region -AND- 50:timeline sim:0.07071067811865475
+27:results by region -AND- 51:campaign sim:0.1647261375019015
+27:results by region -AND- 52:international observers sim:0.1368238170888306
+27:results by region -AND- 53:post-election sim:0.03745457368626798
+27:results by region -AND- 54:sources sim:0.04540939166189158
+27:results by region -AND- 55:results by state sim:0.20370056802632197
+27:results by region -AND- 56:campaigns sim:0.08321749474235135
+27:results by region -AND- 57:manifestos sim:0.04300008638870395
+27:results by region -AND- 58:bloc québécois sim:0.12921638812590855
+27:results by region -AND- 59:endorsements sim:0.08656475264446717
+28:nominations -AND- 29:ballot access sim:0.13278014075664044
+28:nominations -AND- 30:official candidates sim:0.18921179924194917
+28:nominations -AND- 31:mps who lost their seats sim:0.0
+28:nominations -AND- 32:procedure sim:0.29995352108599876
+28:nominations -AND- 33:candidates sim:0.2817450300463918
+28:nominations -AND- 34:aftermath sim:0.23428537814893924
+28:nominations -AND- 35:overview sim:0.2918683807978807
+28:nominations -AND- 36:first round sim:0.09204842306558812
+28:nominations -AND- 37:before the primaries sim:0.14123415386337618
+28:nominations -AND- 38:super tuesday sim:0.30692834882943887
+28:nominations -AND- 39:debates sim:0.2379550971627583
+28:nominations -AND- 40:democratic party nomination sim:0.12613019836643996
+28:nominations -AND- 41:votes by state sim:0.0683927643139329
+28:nominations -AND- 42:senate sim:0.17276580608402559
+28:nominations -AND- 43:registered candidates sim:0.16923617810001657
+28:nominations -AND- 44:opinion polling sim:0.061257676541395814
+28:nominations -AND- 45:notable expressions and phrases sim:0.021691707483727424
+28:nominations -AND- 46:other nominations sim:0.23786168705243235
+28:nominations -AND- 47:apportionment sim:0.15383456975917414
+28:nominations -AND- 48:election campaign sim:0.13015327567093865
+28:nominations -AND- 49:controversies sim:0.21856063292852335
+28:nominations -AND- 50:timeline sim:0.1
+28:nominations -AND- 51:campaign sim:0.3148935606872717
+28:nominations -AND- 52:international observers sim:0.0786984699584159
+28:nominations -AND- 53:post-election sim:0.05169925001442313
+28:nominations -AND- 54:sources sim:0.17928470893303108
+28:nominations -AND- 55:results by state sim:0.10142134044340974
+28:nominations -AND- 56:campaigns sim:0.2407118529832597
+28:nominations -AND- 57:manifestos sim:0.29070756796696273
+28:nominations -AND- 58:bloc québécois sim:0.04051310161842736
+28:nominations -AND- 59:endorsements sim:0.21411930988711667
+29:ballot access -AND- 30:official candidates sim:0.22274211118282292
+29:ballot access -AND- 31:mps who lost their seats sim:0.0250812585766689
+29:ballot access -AND- 32:procedure sim:0.3828388979960541
+29:ballot access -AND- 33:candidates sim:0.42555081133770783
+29:ballot access -AND- 34:aftermath sim:0.2925587102690941
+29:ballot access -AND- 35:overview sim:0.11421062324872949
+29:ballot access -AND- 36:first round sim:0.2834224845288795
+29:ballot access -AND- 37:before the primaries sim:0.3868422234900843
+29:ballot access -AND- 38:super tuesday sim:0.28751181080934257
+29:ballot access -AND- 39:debates sim:0.3665663520526056
+29:ballot access -AND- 40:democratic party nomination sim:0.29726199921020513
+29:ballot access -AND- 41:votes by state sim:0.13704413063383314
+29:ballot access -AND- 42:senate sim:0.09612908570166907
+29:ballot access -AND- 43:registered candidates sim:0.27536693272958995
+29:ballot access -AND- 44:opinion polling sim:0.19476328928826253
+29:ballot access -AND- 45:notable expressions and phrases sim:0.03314258148643743
+29:ballot access -AND- 46:other nominations sim:0.4408398654974581
+29:ballot access -AND- 47:apportionment sim:0.10135373805593327
+29:ballot access -AND- 48:election campaign sim:0.31457806282215883
+29:ballot access -AND- 49:controversies sim:0.23396317980216846
+29:ballot access -AND- 50:timeline sim:0.0
+29:ballot access -AND- 51:campaign sim:0.375974844739904
+29:ballot access -AND- 52:international observers sim:0.1922597816170729
+29:ballot access -AND- 53:post-election sim:0.050988463984491
+29:ballot access -AND- 54:sources sim:0.04416180327199806
+29:ballot access -AND- 55:results by state sim:0.11659937108419399
+29:ballot access -AND- 56:campaigns sim:0.12389009535008404
+29:ballot access -AND- 57:manifestos sim:0.06305370999172989
+29:ballot access -AND- 58:bloc québécois sim:0.09872857892827394
+29:ballot access -AND- 59:endorsements sim:0.12614222488393986
+30:official candidates -AND- 31:mps who lost their seats sim:0.022075108653205375
+30:official candidates -AND- 32:procedure sim:0.15076382102391064
+30:official candidates -AND- 33:candidates sim:0.332151973383203
+30:official candidates -AND- 34:aftermath sim:0.08499341502148797
+30:official candidates -AND- 35:overview sim:0.21294845315662495
+30:official candidates -AND- 36:first round sim:0.17281329253162936
+30:official candidates -AND- 37:before the primaries sim:0.13196457541474807
+30:official candidates -AND- 38:super tuesday sim:0.05860939939542249
+30:official candidates -AND- 39:debates sim:0.08363289062227675
+30:official candidates -AND- 40:democratic party nomination sim:0.44656613611670243
+30:official candidates -AND- 41:votes by state sim:0.04406585905232636
+30:official candidates -AND- 42:senate sim:0.09889027721163948
+30:official candidates -AND- 43:registered candidates sim:0.29358849326308284
+30:official candidates -AND- 44:opinion polling sim:0.019611613513818398
+30:official candidates -AND- 45:notable expressions and phrases sim:0.027185058839111126
+30:official candidates -AND- 46:other nominations sim:0.1376047416881587
+30:official candidates -AND- 47:apportionment sim:0.0
+30:official candidates -AND- 48:election campaign sim:0.07739698641351106
+30:official candidates -AND- 49:controversies sim:0.023488808780588125
+30:official candidates -AND- 50:timeline sim:0.0
+30:official candidates -AND- 51:campaign sim:0.16045681460727843
+30:official candidates -AND- 52:international observers sim:0.13290227521284273
+30:official candidates -AND- 53:post-election sim:0.041344286428531746
+30:official candidates -AND- 54:sources sim:0.04394530517461648
+30:official candidates -AND- 55:results by state sim:0.08423480662505355
+30:official candidates -AND- 56:campaigns sim:0.11066334899863745
+30:official candidates -AND- 57:manifestos sim:0.22677868380553634
+30:official candidates -AND- 58:bloc québécois sim:0.07400209011071836
+30:official candidates -AND- 59:endorsements sim:0.08889566369846298
+31:mps who lost their seats -AND- 32:procedure sim:0.027851563943972413
+31:mps who lost their seats -AND- 33:candidates sim:0.02286616949121281
+31:mps who lost their seats -AND- 34:aftermath sim:0.0
+31:mps who lost their seats -AND- 35:overview sim:0.020514251279816674
+31:mps who lost their seats -AND- 36:first round sim:0.04521989582115843
+31:mps who lost their seats -AND- 37:before the primaries sim:0.010316074859587777
+31:mps who lost their seats -AND- 38:super tuesday sim:0.024686029796372844
+31:mps who lost their seats -AND- 39:debates sim:0.025079250242595153
+31:mps who lost their seats -AND- 40:democratic party nomination sim:0.017455056825540233
+31:mps who lost their seats -AND- 41:votes by state sim:0.027855927698977424
+31:mps who lost their seats -AND- 42:senate sim:0.026434011103029422
+31:mps who lost their seats -AND- 43:registered candidates sim:0.02847505700456048
+31:mps who lost their seats -AND- 44:opinion polling sim:0.015375837061375353
+31:mps who lost their seats -AND- 45:notable expressions and phrases sim:0.03315860281034405
+31:mps who lost their seats -AND- 46:other nominations sim:0.0
+31:mps who lost their seats -AND- 47:apportionment sim:0.0
+31:mps who lost their seats -AND- 48:election campaign sim:0.0
+31:mps who lost their seats -AND- 49:controversies sim:0.0
+31:mps who lost their seats -AND- 50:timeline sim:0.0
+31:mps who lost their seats -AND- 51:campaign sim:0.0
+31:mps who lost their seats -AND- 52:international observers sim:0.026649515492505563
+31:mps who lost their seats -AND- 53:post-election sim:0.044295596520291754
+31:mps who lost their seats -AND- 54:sources sim:0.032972178788814616
+31:mps who lost their seats -AND- 55:results by state sim:0.03579184218509646
+31:mps who lost their seats -AND- 56:campaigns sim:0.0
+31:mps who lost their seats -AND- 57:manifestos sim:0.023886148587284814
+31:mps who lost their seats -AND- 58:bloc québécois sim:0.038708564618119834
+31:mps who lost their seats -AND- 59:endorsements sim:0.030504850903267502
+32:procedure -AND- 33:candidates sim:0.5003956642702628
+32:procedure -AND- 34:aftermath sim:0.44394354182349527
+32:procedure -AND- 35:overview sim:0.3629726556071035
+32:procedure -AND- 36:first round sim:0.27376600850617444
+32:procedure -AND- 37:before the primaries sim:0.344509387359029
+32:procedure -AND- 38:super tuesday sim:0.32799073323911154
+32:procedure -AND- 39:debates sim:0.44657938668326513
+32:procedure -AND- 40:democratic party nomination sim:0.134263866506145
+32:procedure -AND- 41:votes by state sim:0.10375447789459284
+32:procedure -AND- 42:senate sim:0.3039287414356694
+32:procedure -AND- 43:registered candidates sim:0.23869515155397575
+32:procedure -AND- 44:opinion polling sim:0.21221776231721093
+32:procedure -AND- 45:notable expressions and phrases sim:0.03635291279571151
+32:procedure -AND- 46:other nominations sim:0.3951509480950716
+32:procedure -AND- 47:apportionment sim:0.3068842175617816
+32:procedure -AND- 48:election campaign sim:0.3669275531586456
+32:procedure -AND- 49:controversies sim:0.31607300295736457
+32:procedure -AND- 50:timeline sim:0.11470429244187616
+32:procedure -AND- 51:campaign sim:0.5386315311507068
+32:procedure -AND- 52:international observers sim:0.28209170117701315
+32:procedure -AND- 53:post-election sim:0.06816078768574128
+32:procedure -AND- 54:sources sim:0.17539251682175208
+32:procedure -AND- 55:results by state sim:0.1367872008429761
+32:procedure -AND- 56:campaigns sim:0.3048208638865628
+32:procedure -AND- 57:manifestos sim:0.14457811244204125
+32:procedure -AND- 58:bloc québécois sim:0.13901765201494926
+32:procedure -AND- 59:endorsements sim:0.2787227342170475
+33:candidates -AND- 34:aftermath sim:0.6116614336589017
+33:candidates -AND- 35:overview sim:0.3207145397902015
+33:candidates -AND- 36:first round sim:0.33164939617647127
+33:candidates -AND- 37:before the primaries sim:0.5526170287859303
+33:candidates -AND- 38:super tuesday sim:0.4831609389739158
+33:candidates -AND- 39:debates sim:0.6070689973821792
+33:candidates -AND- 40:democratic party nomination sim:0.274563293748657
+33:candidates -AND- 41:votes by state sim:0.0797618859306076
+33:candidates -AND- 42:senate sim:0.26500848641846964
+33:candidates -AND- 43:registered candidates sim:0.5487104965685814
+33:candidates -AND- 44:opinion polling sim:0.19969440931278382
+33:candidates -AND- 45:notable expressions and phrases sim:0.02793374389250891
+33:candidates -AND- 46:other nominations sim:0.47192745362989935
+33:candidates -AND- 47:apportionment sim:0.21190395578247292
+33:candidates -AND- 48:election campaign sim:0.45149237743812043
+33:candidates -AND- 49:controversies sim:0.4483269188707182
+33:candidates -AND- 50:timeline sim:0.11691294974968172
+33:candidates -AND- 51:campaign sim:0.6348850043004146
+33:candidates -AND- 52:international observers sim:0.3810517659806997
+33:candidates -AND- 53:post-election sim:0.0632134940154884
+33:candidates -AND- 54:sources sim:0.19623821803656807
+33:candidates -AND- 55:results by state sim:0.13187188280999187
+33:candidates -AND- 56:campaigns sim:0.264049864924296
+33:candidates -AND- 57:manifestos sim:0.1723228152720378
+33:candidates -AND- 58:bloc québécois sim:0.21923582492076346
+33:candidates -AND- 59:endorsements sim:0.2667252328293447
+34:aftermath -AND- 35:overview sim:0.3120716248333021
+34:aftermath -AND- 36:first round sim:0.22991898098532834
+34:aftermath -AND- 37:before the primaries sim:0.4666691448906225
+34:aftermath -AND- 38:super tuesday sim:0.46299352075880296
+34:aftermath -AND- 39:debates sim:0.5894474843983761
+34:aftermath -AND- 40:democratic party nomination sim:0.017736878093415117
+34:aftermath -AND- 41:votes by state sim:0.07656324599717299
+34:aftermath -AND- 42:senate sim:0.24517765916376244
+34:aftermath -AND- 43:registered candidates sim:0.31790358061394
+34:aftermath -AND- 44:opinion polling sim:0.2785689198526505
+34:aftermath -AND- 45:notable expressions and phrases sim:0.02134408581533934
+34:aftermath -AND- 46:other nominations sim:0.3995633290923111
+34:aftermath -AND- 47:apportionment sim:0.20621738743883225
+34:aftermath -AND- 48:election campaign sim:0.49173096926914506
+34:aftermath -AND- 49:controversies sim:0.43515221711184526
+34:aftermath -AND- 50:timeline sim:0.1
+34:aftermath -AND- 51:campaign sim:0.709902275824422
+34:aftermath -AND- 52:international observers sim:0.298966223023038
+34:aftermath -AND- 53:post-election sim:0.1889554072710851
+34:aftermath -AND- 54:sources sim:0.15258578460824876
+34:aftermath -AND- 55:results by state sim:0.17754166286826037
+34:aftermath -AND- 56:campaigns sim:0.24176798860410723
+34:aftermath -AND- 57:manifestos sim:0.1739836769744453
+34:aftermath -AND- 58:bloc québécois sim:0.22665246116389004
+34:aftermath -AND- 59:endorsements sim:0.2312680725851984
+35:overview -AND- 36:first round sim:0.10008905282297728
+35:overview -AND- 37:before the primaries sim:0.15132879809659883
+35:overview -AND- 38:super tuesday sim:0.19169344956372336
+35:overview -AND- 39:debates sim:0.24973685118624345
+35:overview -AND- 40:democratic party nomination sim:0.028681389575282948
+35:overview -AND- 41:votes by state sim:0.03838207674903206
+35:overview -AND- 42:senate sim:0.34234024419405
+35:overview -AND- 43:registered candidates sim:0.07558209793041956
+35:overview -AND- 44:opinion polling sim:0.19251073042578998
+35:overview -AND- 45:notable expressions and phrases sim:0.027792444732253896
+35:overview -AND- 46:other nominations sim:0.11679742534443288
+35:overview -AND- 47:apportionment sim:0.1430495481923177
+35:overview -AND- 48:election campaign sim:0.2245504707911871
+35:overview -AND- 49:controversies sim:0.1524009147233314
+35:overview -AND- 50:timeline sim:0.1
+35:overview -AND- 51:campaign sim:0.4597946199625963
+35:overview -AND- 52:international observers sim:0.2092973607831856
+35:overview -AND- 53:post-election sim:0.08028992325462615
+35:overview -AND- 54:sources sim:0.21687923727294614
+35:overview -AND- 55:results by state sim:0.09448226136857994
+35:overview -AND- 56:campaigns sim:0.2674624272577279
+35:overview -AND- 57:manifestos sim:0.3673238007453862
+35:overview -AND- 58:bloc québécois sim:0.18422880200659128
+35:overview -AND- 59:endorsements sim:0.21545609715405162
+36:first round -AND- 37:before the primaries sim:0.26529754050722815
+36:first round -AND- 38:super tuesday sim:0.20476932588995547
+36:first round -AND- 39:debates sim:0.2903535422376497
+36:first round -AND- 40:democratic party nomination sim:0.2871195346276157
+36:first round -AND- 41:votes by state sim:0.07731999330924025
+36:first round -AND- 42:senate sim:0.13092136807194765
+36:first round -AND- 43:registered candidates sim:0.24631183917063743
+36:first round -AND- 44:opinion polling sim:0.16586380660146077
+36:first round -AND- 45:notable expressions and phrases sim:0.0459648240870319
+36:first round -AND- 46:other nominations sim:0.2534494360852855
+36:first round -AND- 47:apportionment sim:0.08878802927057167
+36:first round -AND- 48:election campaign sim:0.2590653165262683
+36:first round -AND- 49:controversies sim:0.20036843102227717
+36:first round -AND- 50:timeline sim:0.05100613704506707
+36:first round -AND- 51:campaign sim:0.2645075585395805
+36:first round -AND- 52:international observers sim:0.13370446364853095
+36:first round -AND- 53:post-election sim:0.05171658893460512
+36:first round -AND- 54:sources sim:0.048970673256201
+36:first round -AND- 55:results by state sim:0.15387768556837336
+36:first round -AND- 56:campaigns sim:0.12697480544591694
+36:first round -AND- 57:manifestos sim:0.04509088348806044
+36:first round -AND- 58:bloc québécois sim:0.13262109033544872
+36:first round -AND- 59:endorsements sim:0.1875717959417616
+37:before the primaries -AND- 38:super tuesday sim:0.4817032598118014
+37:before the primaries -AND- 39:debates sim:0.5621115755536004
+37:before the primaries -AND- 40:democratic party nomination sim:0.09808075742445006
+37:before the primaries -AND- 41:votes by state sim:0.07067167231591615
+37:before the primaries -AND- 42:senate sim:0.12064611660493235
+37:before the primaries -AND- 43:registered candidates sim:0.35019118331859017
+37:before the primaries -AND- 44:opinion polling sim:0.25820404290660137
+37:before the primaries -AND- 45:notable expressions and phrases sim:0.015661970856149534
+37:before the primaries -AND- 46:other nominations sim:0.4711840553450838
+37:before the primaries -AND- 47:apportionment sim:0.10109313909065798
+37:before the primaries -AND- 48:election campaign sim:0.503351293675651
+37:before the primaries -AND- 49:controversies sim:0.348136478836731
+37:before the primaries -AND- 50:timeline sim:0.020036209207278305
+37:before the primaries -AND- 51:campaign sim:0.5499594706256161
+37:before the primaries -AND- 52:international observers sim:0.3067283988546768
+37:before the primaries -AND- 53:post-election sim:0.03230075074711545
+37:before the primaries -AND- 54:sources sim:0.05701235690254151
+37:before the primaries -AND- 55:results by state sim:0.09812035019111531
+37:before the primaries -AND- 56:campaigns sim:0.18151363868767603
+37:before the primaries -AND- 57:manifestos sim:0.0035699347706362352
+37:before the primaries -AND- 58:bloc québécois sim:0.16204405717237952
+37:before the primaries -AND- 59:endorsements sim:0.13369095616842708
+38:super tuesday -AND- 39:debates sim:0.5291917014195318
+38:super tuesday -AND- 40:democratic party nomination sim:0.011457095221080389
+38:super tuesday -AND- 41:votes by state sim:0.07350369882373352
+38:super tuesday -AND- 42:senate sim:0.17762893507714167
+38:super tuesday -AND- 43:registered candidates sim:0.238912743880305
+38:super tuesday -AND- 44:opinion polling sim:0.1807311710409649
+38:super tuesday -AND- 45:notable expressions and phrases sim:0.03412588816196761
+38:super tuesday -AND- 46:other nominations sim:0.35452657592915315
+38:super tuesday -AND- 47:apportionment sim:0.16775069788329988
+38:super tuesday -AND- 48:election campaign sim:0.3525965005655949
+38:super tuesday -AND- 49:controversies sim:0.3751625998465642
+38:super tuesday -AND- 50:timeline sim:0.1085396816252546
+38:super tuesday -AND- 51:campaign sim:0.45408544252527305
+38:super tuesday -AND- 52:international observers sim:0.19532839026568063
+38:super tuesday -AND- 53:post-election sim:0.034201013914442906
+38:super tuesday -AND- 54:sources sim:0.14676109618372493
+38:super tuesday -AND- 55:results by state sim:0.10966585777152349
+38:super tuesday -AND- 56:campaigns sim:0.1585992408796172
+38:super tuesday -AND- 57:manifestos sim:0.12218778043621821
+38:super tuesday -AND- 58:bloc québécois sim:0.1330115284325343
+38:super tuesday -AND- 59:endorsements sim:0.2124784945675517
+39:debates -AND- 40:democratic party nomination sim:0.10319421078968
+39:debates -AND- 41:votes by state sim:0.07271423490777887
+39:debates -AND- 42:senate sim:0.2025658060654515
+39:debates -AND- 43:registered candidates sim:0.36827624000858933
+39:debates -AND- 44:opinion polling sim:0.231305009677578
+39:debates -AND- 45:notable expressions and phrases sim:0.0380334477695084
+39:debates -AND- 46:other nominations sim:0.4766872929235337
+39:debates -AND- 47:apportionment sim:0.22617709099594557
+39:debates -AND- 48:election campaign sim:0.5787480773830253
+39:debates -AND- 49:controversies sim:0.4961398815117207
+39:debates -AND- 50:timeline sim:0.13560960762363122
+39:debates -AND- 51:campaign sim:0.6608623451996442
+39:debates -AND- 52:international observers sim:0.24188053630492395
+39:debates -AND- 53:post-election sim:0.05267119045722937
+39:debates -AND- 54:sources sim:0.1314316750767094
+39:debates -AND- 55:results by state sim:0.12724322996186932
+39:debates -AND- 56:campaigns sim:0.2270258155920376
+39:debates -AND- 57:manifestos sim:0.14128794955435775
+39:debates -AND- 58:bloc québécois sim:0.15407611860028064
+39:debates -AND- 59:endorsements sim:0.24939263245805068
+40:democratic party nomination -AND- 41:votes by state sim:0.0445272161518197
+40:democratic party nomination -AND- 42:senate sim:0.04937185213707154
+40:democratic party nomination -AND- 43:registered candidates sim:0.18320804803103674
+40:democratic party nomination -AND- 44:opinion polling sim:0.02040561948873361
+40:democratic party nomination -AND- 45:notable expressions and phrases sim:0.024302034060278557
+40:democratic party nomination -AND- 46:other nominations sim:0.09932666427918238
+40:democratic party nomination -AND- 47:apportionment sim:0.03588971317278276
+40:democratic party nomination -AND- 48:election campaign sim:0.0707625085754208
+40:democratic party nomination -AND- 49:controversies sim:0.03624288341269906
+40:democratic party nomination -AND- 50:timeline sim:0.0
+40:democratic party nomination -AND- 51:campaign sim:0.06748208812487769
+40:democratic party nomination -AND- 52:international observers sim:0.033003427640366886
+40:democratic party nomination -AND- 53:post-election sim:0.04068473834330937
+40:democratic party nomination -AND- 54:sources sim:0.025422887472174062
+40:democratic party nomination -AND- 55:results by state sim:0.024344739203402712
+40:democratic party nomination -AND- 56:campaigns sim:0.13396088470148212
+40:democratic party nomination -AND- 57:manifestos sim:0.0
+40:democratic party nomination -AND- 58:bloc québécois sim:0.02771393038184501
+40:democratic party nomination -AND- 59:endorsements sim:0.14629725521530057
+41:votes by state -AND- 42:senate sim:0.071064226271254
+41:votes by state -AND- 43:registered candidates sim:0.07373178454708292
+41:votes by state -AND- 44:opinion polling sim:0.06128807620457974
+41:votes by state -AND- 45:notable expressions and phrases sim:0.030937339333549238
+41:votes by state -AND- 46:other nominations sim:0.08460604080202207
+41:votes by state -AND- 47:apportionment sim:0.04628793763435036
+41:votes by state -AND- 48:election campaign sim:0.08397107179402974
+41:votes by state -AND- 49:controversies sim:0.056790860632730956
+41:votes by state -AND- 50:timeline sim:0.019930971269047693
+41:votes by state -AND- 51:campaign sim:0.10464863722081297
+41:votes by state -AND- 52:international observers sim:0.09179024207217998
+41:votes by state -AND- 53:post-election sim:0.04415514027666815
+41:votes by state -AND- 54:sources sim:0.03992092840700783
+41:votes by state -AND- 55:results by state sim:0.24599588383851967
+41:votes by state -AND- 56:campaigns sim:0.05485923178571814
+41:votes by state -AND- 57:manifestos sim:0.0
+41:votes by state -AND- 58:bloc québécois sim:0.06442332496180789
+41:votes by state -AND- 59:endorsements sim:0.08265130120886408
+42:senate -AND- 43:registered candidates sim:0.04422507643180485
+42:senate -AND- 44:opinion polling sim:0.0711112562214647
+42:senate -AND- 45:notable expressions and phrases sim:0.02584335821122429
+42:senate -AND- 46:other nominations sim:0.10751819102165379
+42:senate -AND- 47:apportionment sim:0.1674716731148074
+42:senate -AND- 48:election campaign sim:0.17398242758855564
+42:senate -AND- 49:controversies sim:0.16387740732129769
+42:senate -AND- 50:timeline sim:0.1466173237398452
+42:senate -AND- 51:campaign sim:0.3506785799114559
+42:senate -AND- 52:international observers sim:0.2221336966658629
+42:senate -AND- 53:post-election sim:0.0368976587631444
+42:senate -AND- 54:sources sim:0.20877375539297213
+42:senate -AND- 55:results by state sim:0.10301507795885156
+42:senate -AND- 56:campaigns sim:0.17856892801795454
+42:senate -AND- 57:manifestos sim:0.1560655172680506
+42:senate -AND- 58:bloc québécois sim:0.15007440460353377
+42:senate -AND- 59:endorsements sim:0.14721047925102904
+43:registered candidates -AND- 44:opinion polling sim:0.12954011326025497
+43:registered candidates -AND- 45:notable expressions and phrases sim:0.036572272140749526
+43:registered candidates -AND- 46:other nominations sim:0.2917390757366726
+43:registered candidates -AND- 47:apportionment sim:0.05424508028966482
+43:registered candidates -AND- 48:election campaign sim:0.28192198840383365
+43:registered candidates -AND- 49:controversies sim:0.23109932183311155
+43:registered candidates -AND- 50:timeline sim:0.0
+43:registered candidates -AND- 51:campaign sim:0.3509876071535033
+43:registered candidates -AND- 52:international observers sim:0.2584371502501844
+43:registered candidates -AND- 53:post-election sim:0.0539216706977114
+43:registered candidates -AND- 54:sources sim:0.0335204926710107
+43:registered candidates -AND- 55:results by state sim:0.11691804964962002
+43:registered candidates -AND- 56:campaigns sim:0.0916692587150223
+43:registered candidates -AND- 57:manifestos sim:0.0
+43:registered candidates -AND- 58:bloc québécois sim:0.12343349610308713
+43:registered candidates -AND- 59:endorsements sim:0.11190394642251107
+44:opinion polling -AND- 45:notable expressions and phrases sim:0.022912983682419747
+44:opinion polling -AND- 46:other nominations sim:0.1787688891762344
+44:opinion polling -AND- 47:apportionment sim:0.06036676675244904
+44:opinion polling -AND- 48:election campaign sim:0.2135032975589561
+44:opinion polling -AND- 49:controversies sim:0.15481846114234465
+44:opinion polling -AND- 50:timeline sim:0.0
+44:opinion polling -AND- 51:campaign sim:0.32607896372020384
+44:opinion polling -AND- 52:international observers sim:0.11449758652575859
+44:opinion polling -AND- 53:post-election sim:0.24146772454556276
+44:opinion polling -AND- 54:sources sim:0.05189504487633045
+44:opinion polling -AND- 55:results by state sim:0.051653798297472325
+44:opinion polling -AND- 56:campaigns sim:0.10583190253383679
+44:opinion polling -AND- 57:manifestos sim:0.030426290331165975
+44:opinion polling -AND- 58:bloc québécois sim:0.12297846804596775
+44:opinion polling -AND- 59:endorsements sim:0.07824191002780617
+45:notable expressions and phrases -AND- 46:other nominations sim:0.013015024490236452
+45:notable expressions and phrases -AND- 47:apportionment sim:0.029426114170829784
+45:notable expressions and phrases -AND- 48:election campaign sim:0.021412535012325887
+45:notable expressions and phrases -AND- 49:controversies sim:0.027405518266369347
+45:notable expressions and phrases -AND- 50:timeline sim:0.0
+45:notable expressions and phrases -AND- 51:campaign sim:0.025022640653467494
+45:notable expressions and phrases -AND- 52:international observers sim:0.030448911510193535
+45:notable expressions and phrases -AND- 53:post-election sim:0.04219136182151316
+45:notable expressions and phrases -AND- 54:sources sim:0.039196567303777664
+45:notable expressions and phrases -AND- 55:results by state sim:0.035684397460813956
+45:notable expressions and phrases -AND- 56:campaigns sim:0.025022640653467494
+45:notable expressions and phrases -AND- 57:manifestos sim:0.032754927197183495
+45:notable expressions and phrases -AND- 58:bloc québécois sim:0.03584419709499437
+45:notable expressions and phrases -AND- 59:endorsements sim:0.04017998625090375
+46:other nominations -AND- 47:apportionment sim:0.18564824188725484
+46:other nominations -AND- 48:election campaign sim:0.43777142437547545
+46:other nominations -AND- 49:controversies sim:0.31131796644975934
+46:other nominations -AND- 50:timeline sim:0.007207499701564463
+46:other nominations -AND- 51:campaign sim:0.46174280255565836
+46:other nominations -AND- 52:international observers sim:0.18727831701291509
+46:other nominations -AND- 53:post-election sim:0.03877443751081735
+46:other nominations -AND- 54:sources sim:0.0
+46:other nominations -AND- 55:results by state sim:0.08605206957235796
+46:other nominations -AND- 56:campaigns sim:0.12944739984387102
+46:other nominations -AND- 57:manifestos sim:0.0693462715676477
+46:other nominations -AND- 58:bloc québécois sim:0.11348808097876924
+46:other nominations -AND- 59:endorsements sim:0.10531491603655027
+47:apportionment -AND- 48:election campaign sim:0.13596450027780033
+47:apportionment -AND- 49:controversies sim:0.23292652994467444
+47:apportionment -AND- 50:timeline sim:0.1
+47:apportionment -AND- 51:campaign sim:0.24716346268676465
+47:apportionment -AND- 52:international observers sim:0.10934747304936879
+47:apportionment -AND- 53:post-election sim:0.06226968629105959
+47:apportionment -AND- 54:sources sim:0.1
+47:apportionment -AND- 55:results by state sim:0.036572025670599556
+47:apportionment -AND- 56:campaigns sim:0.21486310934914968
+47:apportionment -AND- 57:manifestos sim:0.14584546040490023
+47:apportionment -AND- 58:bloc québécois sim:0.0649280926438839
+47:apportionment -AND- 59:endorsements sim:0.19476673171506975
+48:election campaign -AND- 49:controversies sim:0.3529242808798281
+48:election campaign -AND- 50:timeline sim:0.03648528929093117
+48:election campaign -AND- 51:campaign sim:0.6040696424404677
+48:election campaign -AND- 52:international observers sim:0.2867707528267046
+48:election campaign -AND- 53:post-election sim:0.07715289879667257
+48:election campaign -AND- 54:sources sim:0.0632472325637431
+48:election campaign -AND- 55:results by state sim:0.12668122533032325
+48:election campaign -AND- 56:campaigns sim:0.20642046824194238
+48:election campaign -AND- 57:manifestos sim:0.003250367909142782
+48:election campaign -AND- 58:bloc québécois sim:0.17216324122062
+48:election campaign -AND- 59:endorsements sim:0.14713250252497662
+49:controversies -AND- 50:timeline sim:0.1
+49:controversies -AND- 51:campaign sim:0.4597955912503928
+49:controversies -AND- 52:international observers sim:0.17182038221128537
+49:controversies -AND- 53:post-election sim:0.05997509499144004
+49:controversies -AND- 54:sources sim:0.1
+49:controversies -AND- 55:results by state sim:0.09914999245151149
+49:controversies -AND- 56:campaigns sim:0.20814409509410717
+49:controversies -AND- 57:manifestos sim:0.15326761139421702
+49:controversies -AND- 58:bloc québécois sim:0.14584994447624916
+49:controversies -AND- 59:endorsements sim:0.2519326762148178
+50:timeline -AND- 51:campaign sim:0.1319605920271547
+50:timeline -AND- 52:international observers sim:0.021855542777761625
+50:timeline -AND- 53:post-election sim:0.0
+50:timeline -AND- 54:sources sim:0.1
+50:timeline -AND- 55:results by state sim:0.0
+50:timeline -AND- 56:campaigns sim:0.1
+50:timeline -AND- 57:manifestos sim:0.1
+50:timeline -AND- 58:bloc québécois sim:0.03785055820522328
+50:timeline -AND- 59:endorsements sim:0.1
+51:campaign -AND- 52:international observers sim:0.35945120379208184
+51:campaign -AND- 53:post-election sim:0.17549820940981004
+51:campaign -AND- 54:sources sim:0.14971647648668507
+51:campaign -AND- 55:results by state sim:0.1629713083113312
+51:campaign -AND- 56:campaigns sim:0.3893020743067107
+51:campaign -AND- 57:manifestos sim:0.16377897879683823
+51:campaign -AND- 58:bloc québécois sim:0.2658171810690414
+51:campaign -AND- 59:endorsements sim:0.3336189499051087
+52:international observers -AND- 53:post-election sim:0.049712879652520886
+52:international observers -AND- 54:sources sim:0.158803828566427
+52:international observers -AND- 55:results by state sim:0.135702565874027
+52:international observers -AND- 56:campaigns sim:0.11986113848898644
+52:international observers -AND- 57:manifestos sim:0.002596062002424307
+52:international observers -AND- 58:bloc québécois sim:0.18803498010272424
+52:international observers -AND- 59:endorsements sim:0.12279501112765714
+53:post-election -AND- 54:sources sim:0.05476144313843961
+53:post-election -AND- 55:results by state sim:0.03903898809138027
+53:post-election -AND- 56:campaigns sim:0.08078203379066475
+53:post-election -AND- 57:manifestos sim:0.0350379306422211
+53:post-election -AND- 58:bloc québécois sim:0.14925558318708682
+53:post-election -AND- 59:endorsements sim:0.05596062301903241
+54:sources -AND- 55:results by state sim:0.040757561590657354
+54:sources -AND- 56:campaigns sim:0.1
+54:sources -AND- 57:manifestos sim:0.1271821625595243
+54:sources -AND- 58:bloc québécois sim:0.05900330251408224
+54:sources -AND- 59:endorsements sim:0.13879600378155
+55:results by state -AND- 56:campaigns sim:0.07320826308397405
+55:results by state -AND- 57:manifestos sim:0.03756242788300364
+55:results by state -AND- 58:bloc québécois sim:0.09860567099381404
+55:results by state -AND- 59:endorsements sim:0.09929737549353296
+56:campaigns -AND- 57:manifestos sim:0.17721873425053453
+56:campaigns -AND- 58:bloc québécois sim:0.13852282087497456
+56:campaigns -AND- 59:endorsements sim:0.2627541421994311
+57:manifestos -AND- 58:bloc québécois sim:0.08810802924795899
+57:manifestos -AND- 59:endorsements sim:0.16418057066200087
+58:bloc québécois -AND- 59:endorsements sim:0.1394766705119734

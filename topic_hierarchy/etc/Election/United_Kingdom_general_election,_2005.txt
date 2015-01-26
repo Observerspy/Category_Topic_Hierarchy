@@ -1,0 +1,811 @@
+{{Use British English|date=May 2014}}
+{{Use dmy dates|date=April 2011}}
+{{Infobox Election
+| election_name = United Kingdom general election, 2005
+| country = United Kingdom
+| type = parliamentary
+| ongoing = no
+| previous_election = United Kingdom general election, 2001
+| previous_year = 2001
+| previous_mps =   MPs elected in the United Kingdom general election, 2001
+| next_election = United Kingdom general election, 2010
+| next_year = 2010
+| next_mps = MPs elected in the United Kingdom general election, 2010
+| seats_for_election = All [[List of United Kingdom Parliament constituencies 2005–2010|646 seats]] to the [[House of Commons of the United Kingdom|House of Commons]] | majority_seats=324
+| elected_mps  = [[List of MPs elected in the United Kingdom general election, 2005|Members elected]]
+| election_date = 5 May 2005
+| turnout            = 61.4%
+
+<!--      Labour      -->
+| image1          = [[File:Tony Blair.jpg|160x160px|Tony Blair.JPG|]]
+| leader1         = [[Tony Blair]]
+| leader_since1   = [[Labour Party (UK) leadership election, 1994|21 July 1994]]
+| party1          = Labour Party (UK)
+| leaders_seat1   = [[Sedgefield (UK Parliament constituency)|Sedgefield]]
+| last_election1  = 413 seats, 40.7%
+| seats_before1   = 403
+| seats1          = '''355'''^
+| seat_change1    = {{decrease}}47^<!-- note: the boundaries changed from the previous election - 47 is a nominal change figure from the seats the party would have won based on those boundaries. -->
+| popular_vote1   = '''9,552,436'''
+| percentage1     = '''35.2%'''
+| swing1          = {{decrease}}5.5%
+
+<!--      Conservative     -->
+| image2          = [[File:Michael Howard 1099 cropped.jpg|160x160px]]
+| leader2         = [[Michael Howard]]
+| leader_since2   = [[Conservative Party (UK) leadership election, 2003|6 November 2003]]
+| party2          = Conservative Party (UK)
+| leaders_seat2   = [[Folkestone and Hythe (UK Parliament constituency)|Folkestone & Hythe]]
+| last_election2  = 166 seats, 31.7%
+| seats_before2   = 165
+| seats2 = 198
+| seat_change2    = {{increase}}33*<!-- note: the boundaries changed from the previous election + 33 is a nominal change figure from the seats the party would have won based on those boundaries. -->
+| popular_vote2   = 8,784,915
+| percentage2     = 32.4%
+| swing2          = {{increase}}0.7%
+
+<!--      Liberal Democrats      -->
+| image3          = [[File:Charles Kennedy 2009.jpg|160x160px]]
+| leader3         = [[Charles Kennedy]]
+| leader_since3   = [[Liberal Democrats leadership election, 1999|9 August 1999]]
+| party3          = Liberal Democrats
+| leaders_seat3   = [[Ross, Skye and Lochaber (UK Parliament constituency)|Ross, Skye, & Lochaber]]
+| last_election3  = 52 seats, 18.3%
+| seats_before3   = 52
+| seats3          = 62
+| seat_change3    = {{increase}} 11*<!-- note: the boundaries changed from the previous election + 11 is a nominal change figure from the seats the party would have won based on those boundaries. -->
+| popular_vote3   = 5,985,454
+| percentage3     = 22.0%
+| swing3          = {{increase}} 3.7%
+| map_image          = 2005UKElectionMap.svg
+| map_size           = 250px
+| map_caption        = Colours denote the winning party, as shown in the main table of results.<br />
+''* Indicates boundary change - so this is a nominal figure''
+''^ Figure does not include the speaker''
+| title = PM
+| posttitle = Subsequent PM
+| before_election = [[Tony Blair]]
+| before_party    = Labour Party (UK)
+| after_election  = [[Tony Blair]]
+| after_party     = Labour Party (UK)
+}}
+{| class="infobox" style="float:right; margin-left:1em;"
+|-
+|[[United Kingdom general election, 1997|1997 election]] '''•''' [[MPs elected in the United Kingdom general election, 1997|MPs]]
+|-
+|[[United Kingdom general election, 2001|2001 election]] '''•''' [[MPs elected in the United Kingdom general election, 2001|MPs]]
+|-
+|'''2005 election''' '''•''' [[MPs elected in the United Kingdom general election, 2005|MPs]]
+|-
+|[[United Kingdom general election, 2010|2010 election]] '''•''' [[MPs elected in the United Kingdom general election, 2010|MPs]]
+|}
+The '''United Kingdom general election of 2005''' was held on Thursday, 5 May 2005 to elect [[List of MPs elected in the United Kingdom general election, 2005|646 members]] to the [[House of Commons of the United Kingdom|British House of Commons]]. The [[Labour Party (UK)|Labour Party]] under [[Tony Blair]] won its third consecutive victory, but its [[Majority government|majority]] now stood at 66 seats compared to the 160-seat majority it had previously held.
+
+The [[Labour Party (UK)|Labour]] campaign emphasised a strong economy, however Blair had suffered a decline in popularity even before the decision to send British troops to [[War in Iraq|invade Iraq]] in 2003. The [[Conservative Party (UK)|Conservative Party]], led by [[Michael Howard]] since late 2003, campaigned on policies, such as immigration limits, improving poorly managed hospitals and reducing high crime rates, all under the slogan 'Are you thinking what we're thinking?'. The [[Liberal Democrats]], led by [[Charles Kennedy]] were staunchly opposed to the Iraq War from the start and collected votes from disenchanted Labour voters.
+
+[[Tony Blair]] was returned as [[Prime Minister of the United Kingdom|Prime Minister]], with Labour holding 355 MPs but with a popular vote of 35.2%, the lowest of any majority government in British history. In terms of votes they were only narrowly ahead of the Conservatives, but still had a comfortable lead ahead of them in terms of seats. The Conservatives however did manage to return 198 MPs, 32 more than they had previously, and managed to win the popular vote in [[England]] while still ending up with 91 fewer MPs in England than Labour. The Liberal Democrats saw their popular vote increase by 3.7% and won the most seats for any third party since [[United Kingdom general election, 1923|1923]], in the form of 62 MPs. Former Labour MP and anti-war activist [[George Galloway]] was elected as an MP under the [[Respect Party|Respect – The Unity Coalition]] banner, and two Single Area Party candidates were elected; [[Blaenau Gwent People's Voice Group|Blaenau Gwent People's Voice]] and [[Independent Kidderminster Hospital and Health Concern|Health Concern]] in [[Worcestershire]].
+
+In [[Northern Ireland]], the moderately [[Unionism in Ireland|unionist]] [[Ulster Unionist Party]], which had dominated Northern Ireland's politics since the 1920s, was reduced from 6 MPs to 1 MP, with party leader [[David Trimble]] himself losing his seat. The more hardline [[Democratic Unionist Party]] became the largest Northern Ireland party, with 9 MPs. Following the election, Conservative leader [[Michael Howard]] resigned and was succeeded by [[David Cameron]] and in 2007, Blair resigned as Prime Minister and Labour leader to be replaced by [[Gordon Brown]]. The election was broadcast live on the BBC, and presented by [[Peter Snow]], [[David Dimbleby]], [[Jeremy Paxman]] and [[Andrew Marr]].<ref>{{cite web|url=http://www.youtube.com/watch?v=HfUwO4LAJLs&feature=related |title=BBC Election 2005 coverage |publisher=Youtube.com |date= |accessdate=9 March 2011}}</ref>
+
+==Overview==
+{{For|events leading up to the date of the election|pre–election day events of the United Kingdom general election, 2005}}
+The governing [[Labour Party (UK)|Labour Party]], led by [[Tony Blair]], was looking to secure a third consecutive term in office and to retain a large majority. The [[Conservative Party (UK)|Conservative Party]] was seeking to regain seats lost to both Labour and the [[Liberal Democrats]] since the [[United Kingdom general election, 1992|1992 general election]], and move from being the [[Her Majesty's Most Loyal Opposition (United Kingdom)|Official Opposition]] into government. The Liberal Democrats hoped to make gains from both main parties, but especially the Conservative Party, with a "decapitation" strategy targeting members of the [[Shadow Cabinet of Michael Howard|Shadow Cabinet]]. The Lib Dems had also wished to become the governing party, but more realistically hoped of making enough gains to become the Official Opposition and/or play a major part in a parliament led by a minority Labour or Conservative government. In Northern Ireland the [[Democratic Unionist Party]] sought to make further gains over the [[Ulster Unionist Party]] in [[Unionists (Ireland)|unionist]] politics, and [[Sinn Féin]] hoped to overtake the [[Social Democratic and Labour Party]] in [[Irish nationalism|nationalist]] politics. (Note that Sinn Féin MPs do not take their seats in the [[House of Commons of the United Kingdom|House of Commons]]—they refuse to swear an oath of allegiance to the [[Elizabeth II of the United Kingdom|Queen]] as required). The pro-[[independence]] [[Scottish National Party]] and [[Plaid Cymru]] (Party of Wales) stood candidates in every constituency in Scotland and Wales respectively.
+
+Many seats were contested by other parties, including several parties without incumbents in the House of Commons. Parties that were not represented at Westminster, but had seats in the [[Devolution|devolved assemblies]] and [[European Parliament]] included the [[Alliance Party of Northern Ireland]], the [[United Kingdom Independence Party]], the [[Green Party of England and Wales]], the [[Scottish Green Party]], and the [[Scottish Socialist Party]]. The [[Independent Kidderminster Hospital and Health Concern|Health Concern]] party stood again as well. A full list of parties which declared their intention to run can be found on the [[list of parties contesting the United Kingdom general election, 2005|list of parties contesting the 2005 general election]].
+
+All parties campaigned through such tools as party [[manifesto]]s, [[party political broadcast]]s and touring the country in what are commonly referred to as [[battle bus]]es.
+
+[[UK local elections, 2005|Local elections]] in parts of [[England]] and in [[Northern Ireland]] were held on the same day. The polls were open for fifteen hours, from 07:00 to 22:00 [[British Summer Time|BST]] ([[Coordinated Universal Time|UTC+1]]). The election came just over three weeks after the [[dissolution of parliament|dissolution]] of [[Parliament of the United Kingdom|Parliament]] on 11 April by [[Elizabeth II of the United Kingdom|Queen Elizabeth II]], at the request of the [[Prime Minister of the United Kingdom|Prime Minister]], [[Tony Blair]].
+
+==Campaign==
+Following the death of [[Pope John Paul II]] on 2 April, it was announced that the calling of the election would be delayed until 5 April.<ref>{{cite news|author=2:44&nbsp;pm BST 3 Apr 2005 |url=http://www.telegraph.co.uk/news/1487012/Blair-delays-election-call.html |title=Blair delays election call |publisher=Telegraph |date=3 April 2005 |accessdate=9 March 2011 |location=London}}</ref>
+
+Thanks to 8 years of sustained economic growth Labour could point to a strong economy, with greater investment in public services such as education and health. This was overshadowed however by the issue of the Iraq war, which met widespread public criticism at the time, and would dog Blair throughout the campaign. Then Chancellor [[Gordon Brown]] played a prominent role in the election campaign, regularly appearing with [[Tony Blair]] and ensuring that the economy would remain the central focus of Labour's message.
+
+For the Conservatives their recently elected leader [[Michael Howard]] brought a great level of experience and stability to a party that had only ousted its former leader [[Iain Duncan Smith]]<ref>{{cite news| url=http://news.bbc.co.uk/1/hi/uk_politics/3225127.stm | work=BBC News | title=Tory leader ousted | date=29 October 2003}}</ref> just 18 months before. The Conservatives focused their campaign on more traditional conservative issues like immigration, which created some controversy with the slogan "It's not racist to impose limits on immigration".<ref>{{cite news| url=http://www.independent.co.uk/news/uk/politics/tory-election-poster-sparks-complaints-of-racism-from-students-and-teachers-531552.html | location=London | work=The Independent | title=Tory election poster sparks complaints of racism from students and teachers | date=7 February 2005}}</ref>  They also criticised Labour's "dirty" hospitals and high crime levels, under the umbrella of the slogan "Are you thinking what we're thinking?".<ref>http://webcitation.org/query.php?url=http%3A%2F%2Fwww.conservatives.com%2Fpdf%2Fmanifesto-uk-2005.pdf</ref>
+
+However Labour counterattacked, by emphasising Howard's role in the unpopular [[Major administration|Major Government]] of 1992-1997, airing an attack ad on Howard, showing a montage of scenes from Howards tenure as Home Secretary, including Prison Riots and home repossessions. It also launched a billboard campaign showing Howard, and the Conservative Party's four previous leaders: [[Iain Duncan Smith]], [[William Hague]], [[John Major]] and [[Margaret Thatcher]], with the caption, "Britain's working, don't let the Tories wreck it again".
+
+For the Liberal Democrats this would be the second and last election campaign fought by leader [[Charles Kennedy]], who was strongly opposed to the Iraq war, and offered a more down to earth approach to voters which proved popular. There were some questions however over Kennedy's drinking problem when at the Liberal Democrat manifesto launch he was asked about local income tax, but appeared confused on the figures.<ref>{{cite news| url=http://news.bbc.co.uk/1/hi/uk_politics/4582930.stm | work=BBC News | title=Kennedy admits battling alcohol | date=5 January 2006}}</ref> Both the Liberal Democrats and the Conservatives were keen to tackle Labour's introduction of tuition fees, which was opposed by both parties and they promised to abolish.<ref>{{cite news| url=http://news.bbc.co.uk/1/hi/uk_politics/vote_2005/6994476.stm | work=BBC News | title=2005: Historic third term for Labour | date=20 September 2007}}</ref>
+
+==Ballot==
+[[File:PollingStation UK 2005.jpg|thumb|right|Unofficial [[Teller (elections)|tellers]], wearing party rosettes, sit outside [[polling station]]s collecting voter registration numbers]]
+
+At the close of voting (2200 [[British Summer Time|BST]]) the ballot boxes were sealed and returned to the counting centre where counting proceeded under the supervision of the [[returning officer]] who was obliged to declare the result as soon as it was known. As previously, there was serious competition amongst constituencies to be first to declare. [[Sunderland South (UK Parliament constituency)|Sunderland South]] repeated its performance in the last three elections and declared Labour incumbent [[Chris Mullin (politician)|Chris Mullin]] re-elected as MP with a majority of 11,059 at approximately 2245 BST (failing by two minutes to beat its previous best, but making it eligible for entry into the [[Guinness Book of World Records]] as longest consecutive delivery of first results). The vote itself represented a swing (in a safe Labour seat, in a safe Labour region) of approximately 4% to the Conservatives and 4.5% to the Liberal Democrats, somewhat below the prediction of BBC/ITV exit polls published shortly after 2200 BST.
+
+[[Sunderland North (UK Parliament constituency)|Sunderland North]] was the next to declare, followed by [[Houghton and Washington East (UK Parliament constituency)|Houghton & Washington East]], both Labour holds but with reductions in the incumbent majorities of up to 9%. The first Scottish seat to declare was [[Rutherglen and Hamilton West (UK Parliament constituency)|Rutherglen and Hamilton West]]&nbsp;— another safe Labour seat, also a Labour hold, but with the majority reduced by 4%. The first seat to change hands was [[Putney (UK Parliament constituency)|Putney]], where Labour's majority of around 2,500 fell to a strong Conservative challenge, with a total swing of about 5,000 (6.2%). This was also the first seat to be declared for the Conservatives. The first Liberal Democrat seat to be declared was [[North East Fife (UK Parliament constituency)|North East Fife]], the constituency of LibDem party deputy leader Sir [[Menzies Campbell]] which he has held since 1987.
+
+The Constituency of [[Crawley (UK Parliament constituency)|Crawley]] in [[West Sussex]] had the slimmest majority of any seat with [[Labour Party (UK)|Labour]] holding off the [[Conservative Party (UK)|Conservatives]] by 37 votes after three recounts.
+
+==Polling==
+{{Main|Opinion polling for the United Kingdom general election, 2005}}
+Following problems with [[exit poll]]s in previous British elections, the BBC and ITV agreed for the first time to pool their respective data, using results from Mori and NOP. More than twenty thousand people were interviewed for the poll at one hundred and twenty polling stations across the country. The predictions were very accurate—initial projections saw the Labour party returned to power with a majority of 66 (down from 160),<ref name="media.guardian.co.uk">{{cite news|url=http://media.guardian.co.uk/site/story/0,14173,1478206,00.html |title=Broadcasters hail success of joint poll &#124; Media &#124; MediaGuardian |publisher=MediaGuardian<! |date= 6 May 2005|accessdate=21 July 2009 | location=London | first=John | last=Plunkett}}</ref> and the final result (including Staffordshire South, where the election was postponed due to the death of a candidate) would indeed be a Labour majority of 66.
+
+The projected shares of the vote in Great Britain were Labour 35% (down 6% on 2001), Conservatives 33% (up 1%), Liberal Democrats 22% (up 4%) and other parties 8% (up 1%).<ref name="media.guardian.co.uk"/> The Conservatives were expected to make the biggest gains, however&nbsp;— forty-four seats according to the exit numbers&nbsp;— with the Liberal Democrats expected to take as few as two. Whilst the exit-poll-predicted vote share for the Lib Dems was accurate (22.6% vs an actual 22.0%), they had actually done better in some Lib Dem-Labour marginals than predicted on the basis of the national share of the vote, producing a net gain of 11 seats.
+
+==Notional election, 2001==
+Due to boundary changes in Scotland, the number of seats were reduced to 59 (down from 72). As a result of this a number of seats were lost by each party, and this notional election result below is based on the 2001 election results if they had been fought on these new 2005 boundaries.
+{{Election Summary Begin| title = UK General Election 2001}}
+{{Election Summary Party|
+|party      = Labour Party (UK)
+|seats      = 403
+|net        = -10
+|gain       =
+|loss       =
+|votes      = 10,724,953
+|votes %    = 40.7
+|seats %    = 62.38
+|plus/minus =
+}}
+{{Election Summary Party|
+|party      = Conservative Party (UK)
+|seats      = 165
+|net        = -1
+|gain       =
+|loss       =
+|votes      = 8,357,615
+|votes %    = 31.7
+|seats %    = 25.54
+|plus/minus =
+}}
+
+{{Election Summary Party|
+|party      = Liberal Democrats (UK)
+|seats      = 51
+|gain       =
+|loss       =
+|net        = -1
+|votes      = 4,814,321
+|votes %    = 18.3
+|seats %    = 7.89
+|plus/minus =
+}}
+{{Election Summary Party|
+|party      = Scottish National Party
+|seats      = 4
+|gain       =
+|loss       =
+|net        = -1
+|votes      = 464,314
+|votes %    = 1.8
+|seats %    = 0.62
+|plus/minus =
+}}
+{{Election Summary Party|
+|party      = Others
+|seats      = 23
+|gain       =
+|loss       =
+|net        =
+|votes      =
+|votes %    = 7.5
+|seats %    = 3.57
+|plus/minus =
+}}
+|}
+
+==Results==
+{{For|results by county/region and analysis|Results breakdown of the United Kingdom general election, 2005}}
+{{For|results by constituency|Constituency results of the United Kingdom general election, 2005}}
+{{For|details by MP|MPs elected in the UK general election, 2005}}
+{| class="wikitable ; text-align:center;"
+|-
+|rowspan=2|Party
+| align=center |'''[[Labour Party (UK)|Labour Party]]'''
+| align=center |'''[[Conservative Party (UK)|Conservative and<br> Unionist Party]]'''
+| align=center |'''[[Liberal Democrats]]'''
+| align=center |'''[[UK Independence Party]]'''
+| align=center |'''[[Scottish National Party]]'''
+| align=center |'''Greens'''<br>([[Green Party of England and Wales|GPEW]]+[[Scottish Green Party|SGP]]+[[Green Party in Northern Ireland|GPNI]])
+| align=center |'''[[Democratic Unionist Party|Democratic <br>Unionist Party]]'''
+|- style="text-align:center;" 
+|  style="text-align:center; background:red;"|
+|  style="text-align:center; background:blue;"|
+|  style="text-align:center; background:gold;"|
+|  style="text-align:center; background:purple;"|
+|  style="text-align:center; background:#ff0;"|
+|  style="text-align:center; background:yellowgreen;"|
+|  style="text-align:center; background:brown;"|
+|-
+|rowspan=2|Leader
+|align=center |<small>[[Tony Blair]] 
+|align=center |<small>[[Michael Howard]]
+|align=center |<small>[[Charles Kennedy]]
+|align=center |<small>[[Roger Knapman]]
+|align=center |<small>[[Alex Salmond]]
+|align=center |<small>[[Caroline Lucas]] ([[Green Party of England and Wales|GPEW]])
+|align=center |<small>[[Ian Paisley]] 
+|-
+| align=center |[[File:WORLD ECONOMIC FORUM ANNUAL MEETING 2009 - Tony Blair.jpg|67px]]
+| align=center |[[File:Michael Howard 1099 cropped.jpg|65px]]
+| align=center |[[File:Charles kennedy feb 2009.jpg|65px]]
+| align=center |[[File:Roger Knapman.jpg|90px]]
+| align=center |[[File:Alex Salmond (crop).JPG|90px]]
+| align=center |[[File:Caroline Lucas Smile.jpg|65px]]
+| align=center |[[File:DrIanPaisley.jpg|90px]]
+|-
+|rowspan=2|Votes
+|align=center |9,552,436 (35.2%)	
+|align=center |8,784,915 (32.4%)
+|align=center |5,985,454 (22.0%)
+|align=center |605,973 (2.2%)
+|align=center |412,267 (1.5%)
+|align=center |257,758 (1.0%)
+|align=center |241,856 (0.9%)
+|-
+|<center>{{percentage bar|35||FF0000}} 
+|<center>{{percentage bar|32||0000FF}}
+|<center>{{percentage bar|22||FFD700}}
+|<center>{{percentage bar|2||800080}}
+|<center>{{percentage bar|1||FFFF00}}
+|<center>{{percentage bar|1||ADFF2F}}
+|<center>{{percentage bar|1||A52A2A}}
+|-
+|rowspan=2|Seats
+|align=center |355 (55.2%)
+|align=center |198 (30.7%)
+|align=center | 62  (9.6%)
+|align=center |  0  (0.0%)
+|align=center |  6  (0.9%)
+|align=center |  0  (0.0%)
+|align=center |  9  (1.4%)
+|-
+|align=center |{{percentage bar|55||FF0000}} 
+|align=center |{{percentage bar|30||0000FF}} 
+|align=center |{{percentage bar|10||FFD700}} 
+|align=center |{{percentage bar|0||AAAAAA}} 
+|align=center |{{percentage bar|1||FFFF00}} 
+|align=center |{{percentage bar|0||AAAAAA}} 
+|align=center |{{percentage bar|1||A52A2A}} 
+|}
+
+
+{{wikinews|Results of 2005 United Kingdom General Election}}
+[[File:Uk general election 2005 by age.png|thumb|right|250px|Votes cast by age group: Con, Lab, LD, other parties (green) and those not voting (grey).]]
+
+At 04:28 BST, it was announced that Labour had won [[Corby (UK Parliament constituency)|Corby]], giving them 324 seats in the House of Commons out of those then declared and an overall majority, Labour's total reaching 356 seats out of the 646 House of Commons seats. Labour received 35.3% of the [[popular vote]], equating to approximately 22% of the electorate on a 61.3% turnout, up from 59.4% turnout in 2001. Increased turnout was mostly attributed to the extension and promotion of the [[postal voting]] system, which has however been criticised by many as being too insecure increasing the risk of [[electoral fraud]].
+
+As expected, voter disenchantment led to an increase of support for many opposition parties, and caused many eligible to vote, not to turn out. Labour achieved a third successive term in office for the first time in their history, though with reduction of the Labour majority from 167 to 67 (as it was before the declaration of [[South Staffordshire (UK Parliament constituency)|South Staffordshire]]). As it became clear that Labour had won an overall majority, [[Michael Howard]], the leader of the Conservative party, announced his intention to retire from front-line politics. The final seat to declare was the delayed poll in South Staffordshire, at just after 1&nbsp;a.m. on Friday 24 June.
+
+The election was followed by further criticism of the UK electoral system. Calls for reform came particularly from Lib Dem supporters, citing that they received only just over 10% of the overall seats with 22.1% of the popular vote. The only parties to win a higher percentage of seats than they achieved in votes were Labour, the Democratic Unionist Party and Sinn Féin, and [[Independent Kidderminster Hospital and Health Concern|Health Concern]], which ran only one candidate. The results of the election give a [[Gallagher Index|Gallagher index of dis-proportionality]] of 16.76.
+
+[[File:Results of the UK General Election, 2005.svg|thumb|right|200px|alt=Ring charts of the election results showing popular vote against seats won, coloured in party colours|Seats won in the election (outer ring) against number of votes (inner ring).]]
+
+The Labour Government claimed that being returned to office for a third term for the first time ever showed the public approval of [[New Labour]]'s governance and the continued unpopularity of the Conservatives. Nevertheless, Labour's vote declined to 35.3%, the lowest share of the popular vote to have formed a majority government in the history of the UK House of Commons. In many areas the collapse in the Labour vote resulted in a host of seats changing hands. Labour also failed to gain any new seats, almost unique in any election since 1945. As well as losing seats to the Tories and the Liberal Democrats, Labour also lost their safest seat in Wales<ref>{{cite news| url=http://news.bbc.co.uk/1/hi/uk_politics/vote_2005/wales/4514385.stm | work=BBC News | title=Labour loses safest seat in Wales | date=6 May 2005}}</ref> to Independent [[Peter Law]], and [[Bethnal Green and Bow]] to Respect candidate [[George Galloway]].
+
+The Conservatives claimed that their increased number of seats showed disenchantment with the Labour government and was a precursor of a Conservative breakthrough at the next election. Following three consecutive elections of declining representation and then in 2001 a net gain of just one seat, 2005 was the first general election since 1983 where the number of Conservative seats increased appreciably, although the Conservatives' vote share increased only slightly and this election did mark the third successive general election in which the Conservatives polled below 35%. In some areas the Conservative vote actually fell. The Conservatives claimed to have won the General Election in England, since they received more votes than Labour although Labour still won a majority of seats.<ref>{{cite news| url=http://www.independent.co.uk/news/uk/politics/the-big-question-what-is-the-west-lothian-question-and-can-it-be-resolved-satisfactorily-406571.html | location=London | work=The Independent | first=Andy | last=McSmith | title=The Big Question: What is the West Lothian question, and can it be resolved satisfactorily? | date=4 July 2006}}</ref>
+
+The Liberal Democrats claimed that their continued gradual increase in seats and percentage vote showed they were in a position to make further gains from both parties. They pointed in particular to the fact that they were now in second place in roughly one hundred and ninety constituencies and that having had net losses to Labour in the 1992 general election and having not taken a single seat off Labour in 1997, they had held their gains off Labour from the 2001 general election and had actually made further gains from them. The Liberals also managed to take 3 seats from the Conservatives, notably Tim Collins, through the use of a decapitation strategy, which targeted senior Tories.<ref>{{cite news| url=http://www.telegraph.co.uk/news/uknews/1489270/Defiant-Kennedy-takes-decapitation-strategy-into-Tory-heartland.html | location=London | work=The Daily Telegraph | first1=Brendan | last1=Carlin | first2=David | last2=Sapsted | title=Defiant Kennedy takes 'decapitation' strategy into Tory heartland | date=4 May 2005}}</ref>
+
+The Liberal Democrats increased their percentage of the vote by 3.7%, the Conservatives by 0.6%, and Labour's dropped by 5.4%.
+
+The results were interpreted by the [[Media of the United Kingdom|UK media]] as an indicator of a breakdown in trust in the government, and in Prime Minister [[Tony Blair]] in particular.
+
+Meanwhile the SNP had a good night in Scotland, regaining the Western Isles from Labour, having lost it 1987.<ref>{{cite news| url=http://news.bbc.co.uk/1/hi/uk_politics/vote_2005/scotland/4519491.stm | work=BBC News | title=SNP secures Western Isles victory | date=6 May 2005}}</ref> In Wales Plaid Cymru failed to gain any seats, and lost Ceredigion to the Liberal Democrats. In Northern Ireland the Ulster Unionists were all but wiped out, only holding onto North Down, with leader David Trimble losing his seat in Upper Bann. For the first time the DUP became the biggest party in Northern Ireland.
+
+It was the first general election since [[United Kingdom general election, 1929|1929]] in which no party received more than ten million votes. It was the most "three-cornered" election since [[United Kingdom general election, 1923|1923]], though the Liberal Democrats failed to match the higher national votes of the [[SDP-Liberal Alliance]] in the 1980s either in absolute or percentage terms. The total combined vote for Labour, the Conservatives and the Liberal Democrats proved to be the lowest main three party vote since [[United Kingdom general election, 1922|1922]].
+
+{| style="width:70%; text-align:center;"
+|+ ↓
+|- style="color:white;"
+| style="background:red; width:55.0%;" | '''355'''
+| style="background:blue; width:30.7%;" | '''198'''
+| style="background:gold; width:9.6%;" | '''62'''
+| style="background:gray; width:4.8%;" | '''31'''
+|-
+| <span style="color:red;">'''Labour'''</span>
+| <span style="color:blue;">'''Conservative'''</span>
+| <span style="color:gold;">'''Lib Dem'''</span>
+| <span style="color:gray;">'''O'''</span>
+|}
+
+{{United Kingdom parliamentary election, 2005}}<ref>[http://www.electoralcommission.org.uk/__data/assets/pdf_file/0007/47185/Election2005_constituencies,candidatesandresultsFINAL_20719-15241__E__N__S__W__.pdf Election 2005: constituencies, candidates and results]. The Electoral Commission. March 2006</ref>
+[[File:2005 election pie chart.jpg|thumb|right|350px|The percentage of votes gained]]{{Citation needed|date=March 2010}}
+The figure of 355 seats for Labour does not include the speaker [[Michael Martin, Baron Martin of Springburn|Michael Martin]]. 356 seats would give the majority of 66.
+See also the [[List of parties contesting the UK general election, 2005#Parties standing in Northern Ireland|list of parties standing in Northern Ireland]].
+{| class="wikitable" style="width:630px"
+|-
+! style="width:200px;"|Government's new majority
+! style="width:150px;"|66
+|}
+{{bar box
+|title=Popular vote
+|titlebar=#ddd
+|width=600px
+|barwidth=410px
+|bars=
+{{bar percent|'''Labour'''|{{Labour Party (UK)/meta/color}}|35.2}}
+{{bar percent|Conservative|{{Conservative Party (UK)/meta/color}}|32.4}}
+{{bar percent|Liberal Democrat|{{Liberal Democrats/meta/color}}|22.1}}
+{{bar percent|United Kingdom Independence Party|{{UK Independence Party/meta/color}}|2.2}}
+{{bar percent|Scottish National|{{Scottish National Party/meta/color}}|1.5}}
+{{bar percent|Green|{{Green Party (UK)/meta/color}}|1.0}}
+{{bar percent|Others|#777777|5.7}}
+}}{{Citation needed|date=March 2010}}
+{{bar box
+|title=Parliamentary seats
+|titlebar=#ddd
+|width=600px
+|barwidth=410px
+|bars=
+{{bar percent|'''Labour'''|{{Labour Party (UK)/meta/color}}|55.1}}
+{{bar percent|Conservative|{{Conservative Party (UK)/meta/color}}|30.7}}
+{{bar percent|Liberal Democrat|{{Liberal Democrats/meta/color}}|9.6}}
+{{bar percent|Democratic&nbsp;Unionist|{{Democratic Unionist Party/meta/color}}|1.4}}
+{{bar percent|Scottish National|{{Scottish National Party/meta/color}}|0.9}}
+{{bar percent|Sinn Féin|{{Sinn Féin/meta/color}}|0.8}}
+{{bar percent|Others|#777777|1.6}}
+}}<ref>{{cite web|url=http://www.ukpolitical.info/2005.htm |title=2005 UK General election results, manifestos, PMs biography |publisher=UK Political Info |date=13 April 2005 |accessdate=9 March 2011}}</ref>
+
+===MPs who lost their seats===
+{| class="wikitable" style="font-size: 95%;"
+|-
+!colspan=2|Party
+!Name
+!Constituency
+!Office held whilst in power
+!Year elected
+!Defeated by
+!colspan=2|Party
+|-
+! rowspan=35 style="background-color: {{Labour Party (UK)/meta/color}}" |
+| rowspan=35|[[Labour Party (UK)|Labour Party]]
+|[[Stephen Twigg]]
+|[[Enfield Southgate (UK Parliament constituency)|Enfield Southgate]]
+|[[Department for Children, Schools and Families|Minister of State for Schools]]
+|1997
+|[[David Burrowes]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+||[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[Melanie Johnson]]
+|[[Welwyn Hatfield (UK Parliament constituency)|Welwyn Hatfield]]
+|[[Department of Health (United Kingdom)|Minister of State for Public Health]]
+|1997
+|[[Grant Shapps]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+||[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[Chris Leslie (politician)|Chris Leslie]]
+|[[Shipley (UK Parliament constituency)|Shipley]]
+|[[Parliamentary Under-Secretary of State]] in the [[Department for Constitutional Affairs]]
+|1997
+|[[Philip Davies]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+||[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[Ivan Henderson]]
+|[[Harwich (UK Parliament constituency)|Harwich]]
+|[[Parliamentary Private Secretary]] at the [[Home Office]]
+|1997
+|[[Douglas Carswell]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+||[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[David Stewart (Scottish politician)|David Stewart]]
+|[[Inverness East, Nairn and Lochaber (UK Parliament constituency)|Inverness East, Nairn and Lochaber]]
+|Parliamentary Private Secretary to the [[Secretary of State for Scotland]]
+|1997
+|[[Danny Alexander]]
+! rowspan=1 style="background-color: {{Liberal Democrats/meta/color}}" |
+||[[Liberal Democrats]]
+|-
+|[[Peter Bradley]]
+|[[The Wrekin (UK Parliament constituency)|The Wrekin]]
+|Parliamentary Private Secretary to the [[Department of Environment, Food and Rural Affairs|Minister of State for Rural Affairs]]
+|1997
+|[[Mark Pritchard (politician)|Mark Pritchard]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+||[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[Keith Bradley, Baron Bradley|Keith Bradley]]
+|[[Manchester Withington (UK Parliament constituency)|Manchester Withington]]
+|[[Treasurer of the Household]]
+|1987
+|[[John Leech (politician)|John Leech]]
+! rowspan=1 style="background-color: {{Liberal Democrats/meta/color}}" |
+||[[Liberal Democrats]]
+|-
+|[[Barbara Roche]]
+|[[Hornsey and Wood Green (UK Parliament constituency)|Hornsey and Wood Green]]
+|[[Minister of State for Borders and Immigration|Minister of State for Asylum and Immigration]]
+|1992
+|[[Lynne Featherstone]]
+! rowspan=1 style="background-color: {{Liberal Democrats/meta/color}}" |
+||[[Liberal Democrats]]
+|-
+|[[Calum MacDonald (politician)|Calum MacDonald]]
+|[[Western Isles (UK Parliament constituency)|Western Isles]]
+|[[Minister for Gaelic]]
+|1987
+|[[Angus MacNeil]]
+! rowspan=1 style="background-color: {{Scottish National Party/meta/color}}" |
+||[[Scottish National Party]]
+|-
+|[[Roger Casale]]
+|[[Wimbledon (UK Parliament constituency)|Wimbledon]]
+|
+|1997
+|[[Stephen Hammond]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+||[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[Paul Stinchcombe]]
+|[[Wellingborough (UK Parliament constituency)|Wellingborough]]
+|
+|1997
+|[[Peter Bone]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+||[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[Kerry Pollard]]
+|[[St Albans (UK Parliament constituency)|St Albans]]
+|
+|1997
+|[[Anne Main]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+||[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[Tony Clarke (English politician)|Tony Clarke]]
+|[[Northampton South (UK Parliament constituency)|Northampton South]]
+|
+|1997
+|[[Brian Binley]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+||[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[Helen Clark (UK politician)|Helen Clark]]
+|[[Peterborough (UK Parliament constituency)|Peterborough]]
+|
+|1997
+|[[Stewart Jackson]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+||[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[Tony Colman (politician)|Tony Colman]]
+|[[Putney (UK Parliament constituency)|Putney]]
+|
+|1997
+|[[Justine Greening]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+||[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[Lorna Fitzsimons]]
+|[[Rochdale (UK Parliament constituency)|Rochdale]]
+|
+|1997
+|[[Paul Rowen]]
+! rowspan=1 style="background-color: {{Liberal Democrats/meta/color}}" |
+||[[Liberal Democrats]]
+|-
+|[[Andy King (politician)|Andy King]]
+|[[Rugby and Kenilworth (UK Parliament constituency)|Rugby and Kenilworth]]
+|
+|1997
+|[[Jeremy Wright (politician)|Jeremy Wright]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+||[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[Lawrie Quinn]]
+|[[Scarborough and Whitby (UK Parliament constituency)|Scarborough and Whitby]]
+|
+|1997
+|[[Robert Goodwill]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+||[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[Brian White (British politician)|Brian White]]
+|[[North East Milton Keynes (UK Parliament constituency)|North East Milton Keynes]]
+|
+|1997
+|[[Mark Lancaster]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+||[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[Huw Edwards (politician)|Huw Edwards]]
+|[[Monmouth (UK Parliament constituency)|Monmouth]]
+|
+|1997
+|[[David Davies (Welsh politician)|David Davies]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+||[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[Phil Sawford]]
+|[[Kettering (UK Parliament constituency)|Kettering]]
+|
+|1997
+|[[Philip Hollobone]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+||[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[Linda Perham]]
+|[[Ilford North (UK Parliament constituency)|Ilford North]]
+|
+|1997
+|[[Lee Scott (UK politician)|Lee Scott]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+||[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[John Cryer]]
+|[[Hornchurch (UK Parliament constituency)|Hornchurch]]
+|
+|1997
+|[[James Brokenshire]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+||[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[Tony McWalter]]
+|[[Hemel Hempstead (UK Parliament constituency)|Hemel Hempstead]]
+|
+|1997
+|[[Mike Penning]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+||[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[Candy Atherton]]
+|[[Falmouth and Camborne (UK Parliament constituency)|Falmouth and Camborne]]
+|
+|1997
+|[[Julia Goldsworthy]]
+! rowspan=1 style="background-color: {{Liberal Democrats/meta/color}}" |
+||[[Liberal Democrats]]
+|-
+|[[Nigel Beard]]
+|[[Bexleyheath and Crayford (UK Parliament constituency)|Bexleyheath and Crayford]]
+|
+|1997
+|[[David Evenett]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+||[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[Oona King]]
+|[[Bethnal Green and Bow (UK Parliament constituency)|Bethnal Green & Bow]]
+|
+|1997
+|[[George Galloway]]
+! rowspan=1 style="background-color: {{Respect Party/meta/color}}" |
+||[[Respect Party]]
+|-
+|[[Valerie Davey]]
+|[[Bristol West (UK Parliament constituency)|Bristol West]]
+|
+|1997
+|[[Stephen Williams (politician)|Stephen Williams]]
+! rowspan=1 style="background-color: {{Liberal Democrats/meta/color}}" |
+||[[Liberal Democrats]]
+|-
+|[[Anne Campbell]]
+|[[Cambridge (UK Parliament constituency)|Cambridge]]
+|
+|1992
+|[[David Howarth]]
+! rowspan=1 style="background-color: {{Liberal Democrats/meta/color}}" |
+||[[Liberal Democrats]]
+|-
+|[[Jon Owen Jones]]
+|[[Cardiff Central (UK Parliament constituency)|Cardiff Central]]
+|
+|1992
+|[[Jenny Willott]]
+! rowspan=1 style="background-color: {{Liberal Democrats/meta/color}}" |
+||[[Liberal Democrats]]
+|-
+|[[Gareth Thomas (Welsh politician)|Gareth Thomas]]
+|[[Clwyd West (UK Parliament constituency)|Clwyd West]]
+|
+|1997
+|[[David Jones (MP for Clwyd West)|David Jones]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+||[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[Geraint Davies (Labour politician)|Geraint Davies]]
+|[[Croydon Central (UK Parliament constituency)|Croydon Central]]
+|
+|1997
+|[[Andrew Pelling]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+||[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[John Lyons (UK politician)|John Lyons]]
+|[[Strathkelvin and Bearsden (UK Parliament constituency)|Strathkelvin and Bearsden]]
+|
+|2001
+|[[Jo Swinson]]
+! rowspan=1 style="background-color: {{Liberal Democrats/meta/color}}" |
+||[[Liberal Democrats]]
+|-
+|[[Iain Luke]]
+|[[Dundee East (UK Parliament constituency)|Dundee East]]
+|
+|2001
+|[[Stewart Hosie]]
+! rowspan=1 style="background-color: {{Scottish National Party/meta/color}}" |
+||[[Scottish National Party]]
+|-
+|[[Chris Pond]]
+|[[Gravesham (UK Parliament constituency)|Gravesham]]
+|
+|1997
+|[[Adam Holloway]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+||[[Conservative Party (UK)|Conservative Party]]
+|-
+! rowspan=4 style="background-color: {{Liberal Democrats/meta/color}}" |
+| rowspan=4|[[Liberal Democrats]]
+|[[Brian Cotter, Baron Cotter|Brian Cotter]]
+|[[Weston-super-Mare (UK Parliament constituency)|Weston-super-Mare]]
+|
+|1997
+|[[John Penrose (politician)|John Penrose]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+||[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[Sue Doughty]]
+|[[Guildford (UK Parliament constituency)|Guildford]]
+|
+|2001
+|[[Anne Milton]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+||[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[Matthew Green (politician)|Matthew Green]]
+|[[Ludlow (UK Parliament constituency)|Ludlow]]
+|
+|2001
+|[[Philip Dunne (politician)|Philip Dunne]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+||[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[David Rendel]]
+|[[Newbury (UK Parliament constituency)|Newbury]]
+|
+|1993
+|[[Richard Benyon]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+||[[Conservative Party (UK)|Conservative Party]]
+|-
+! rowspan=4 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+| rowspan=4|[[Conservative Party (UK)|Conservative]]
+|[[Tim Collins (politician)|Tim Collins]]
+|[[Westmorland and Lonsdale (UK Parliament constituency)|Westmorland & Lonsdale]]
+|
+|1997
+|[[Tim Farron]]
+! rowspan=1 style="background-color: {{Liberal Democrats/meta/color}}" |
+||[[Liberal Democrats]]
+|-
+|[[Peter Duncan (Scottish politician)|Peter Duncan]]
+|[[Dumfries and Galloway (UK Parliament constituency)|Dumfries & Galloway]]
+|
+|2001
+|[[Russell Brown]]
+! rowspan=1 style="background-color: {{Labour Party (UK)/meta/color}}" |
+||[[Labour Party (UK)|Labour Party]]
+|-
+|[[Adrian Flook]]
+|[[Taunton (UK Parliament constituency)|Taunton]]
+|
+|2001
+|[[Jeremy Browne]]
+! rowspan=1 style="background-color: {{Liberal Democrats/meta/color}}" |
+||[[Liberal Democrats]]
+|-
+|[[John Mark Taylor|John Taylor]]
+|[[Solihull (UK Parliament constituency)|Solihull]]
+|
+|1983
+|[[Lorely Burt]]
+! rowspan=1 style="background-color: {{Liberal Democrats/meta/color}}" |
+||[[Liberal Democrats]]
+|-
+! rowspan=3 style="background-color: {{Ulster Unionist Party/meta/color}}" |
+| rowspan=3|[[Ulster Unionist Party]]
+|[[David Trimble]]
+|[[Upper Bann (UK Parliament constituency)|Upper Bann]]
+|Parliamentary Leader of the [[Ulster Unionist Party|Ulster Unionists]]
+|1990
+|[[David Simpson (British politician)|David Simpson]]
+! rowspan=1 style="background-color: {{Democratic Unionist Party/meta/color}}" |
+||[[Democratic Unionist Party]]
+|-
+|[[Roy Beggs]]
+|[[East Antrim (UK Parliament constituency)|East Antrim]]
+|
+|1983
+|[[Sammy Wilson]]
+! rowspan=1 style="background-color: {{Democratic Unionist Party/meta/color}}" |
+||[[Democratic Unionist Party]]
+|-
+|[[David Burnside]]
+|[[South Antrim (UK Parliament constituency)|South Antrim]]
+|
+|2001
+|[[William McCrea (politician)|William McCrea]]
+! rowspan=1 style="background-color: {{Democratic Unionist Party/meta/color}}" |
+||[[Democratic Unionist Party]]
+|-
+! rowspan=1 style="background-color: {{Plaid Cymru/meta/color}}" |
+||[[Plaid Cymru]]
+|[[Simon Thomas (politician)|Simon Thomas]]
+|[[Ceredigion (UK Parliament constituency)|Ceredigion]]
+|
+|2000
+|[[Mark Williams (politician)|Mark Williams]]
+! rowspan=1 style="background-color: {{Liberal Democrats/meta/color}}" |
+||[[Liberal Democrats]]
+|}
+
+==Post election events==
+===Formation of government===
+Following the election result, Labour remained in power and [[Tony Blair]] remained [[Prime Minister of the United Kingdom|Prime Minister]], [[Cabinet shuffle|reshuffling]] Cabinet and junior ministers over the following weekend, with formal announcements made on 9 May 2005. The most senior positions of [[Chancellor of the Exchequer|Chancellor]], [[Home Secretary]] and [[Secretary of State for Foreign and Commonwealth Affairs|Foreign Secretary]] remained the same, but a few new faces were added; most notably [[David Blunkett]] returned to cabinet as the [[Secretary of State for Work and Pensions|Work and Pensions Secretary]], although he was forced to resign again due to another scandal before the end of the year that spawned a national press and opposition campaign for his dismissal. [[Patricia Hewitt]] became the new [[Secretary of State for Health|Health Secretary]], [[Tessa Jowell]] remained as [[Culture Secretary]], whilst [[Alan Johnson]] was promoted to [[Trade and Industry Secretary]]. Meanwhile [[Ruth Kelly]] retained the Education job and [[Margaret Beckett]] stayed put at Environment.
+
+The new Parliament met on 11 May for the election of the [[Speaker of the House of Commons (United Kingdom)|Speaker of the House of Commons]].
+
+===New party leaders===
+On 6 May [[Michael Howard]] announced he would be standing down as leader of the Conservative Party, but not before a review of the leadership rules. The formal leadership election began in October, and was ultimately won by [[David Cameron]]. See [[Conservative Party (UK) leadership election, 2005]]. The following day [[David Trimble]] resigned as leader of the Ulster Unionist Party. His successor, [[Reg Empey|Sir Reg Empey]], was elected at the meeting of the [[Ulster Unionist Council]] on 24 June. See [[Ulster Unionist Party leadership election, 2005]].
+
+===End of the term===
+The [[Prime Minister of the United Kingdom|prime minister]] [[Gordon Brown]] visited [[Buckingham Palace]] on 6 April 2010 and asked the Queen to dissolve Parliament on 12 April.  The [[United Kingdom general election, 2010|next election]] was held on 6 May 2010.<ref>[http://news.bbc.co.uk/1/hi/uk_politics/election_2010/8603591.stm Gordon Brown calls 6 May general election] - BBC News, 6 April 2010</ref>
+
+==Further reading==
+*  John Bartle and Anthony King, eds. ''Britain at the Polls 2005'' (2005) [http://www.amazon.com/Britain-Polls-2005-John-Bartle/dp/1933116633/ref=sr_1_4?s=books&ie=UTF8&qid=1346585476&sr=1-4&keywords=Dennis+Kavanagh+and+David+Butler excerpt and text search]
+* Andrew Geddes and Jonathan Tonge, eds.  ''Britain decides: the UK general election 2005'' (2005) 311 pages
+* Dennis Kavanagh and David Butler, eds. ''The British General Election of 2005'' (2006) essays by political scientists
+
+==See also==
+* [[MPs elected in the United Kingdom general election, 2005]]
+* [[2005 United Kingdom general election results in Scotland]]
+* [[2005 United Kingdom general election results in Wales]]
+* [[2005 United Kingdom general election results in Northern Ireland]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{External links|date=March 2010}}
+* [http://ukpollingreport.co.uk/blog/historical-polls/voting-intention-2001-2005 2001-2005 Polls] from ''Polling Report UK''
+* [http://www.psr.keele.ac.uk/area/uk/ge05/candidates.htm Candidates by Party]{{dead link|date=November 2014}} all 3405 candidates listed by their 124 distinct party labels
+* [http://www.sourcewatch.org/index.php?title=British_General_Election_2005 2005 UK general election] from [[SourceWatch]] with a focus on the strategists and public relations experts involved in the campaigns of the various parties
+* [http://www.strategicvoter.org.uk/ Strategic Voter 2005] information for each constituency to strategically vote against the invasion of Iraq
+* [http://archives.lse.ac.uk/TreeBrowse.aspx?src=CalmView.Catalog&field=RefNo&key=GENERAL%20ELECTION%202005 Catalogue of 2005 general election ephemera] at the [http://www.lse.ac.uk/library/archive/Default.htm Archives Division] of the [[London School of Economics]].
+* [http://web.archive.org/web/20060213210438/http://www.osce.org/documents/odihr/2005/08/15921_en.pdf OSCE Final Report on the United Kingdom general election on 2005-05-05], by the [[Organization for Security and Co-operation in Europe]]
+* [http://geoelections.free.fr/RoyaumeUni/accueil.htm Maps of the 2005 results by constituencies] (in French)
+* [http://www.nsd.uib.no/european_election_database/country/uk/ NSD: European Election Database - UK]
+
+===Manifestos===
+* [[Conservative Party (UK)|Conservatives]]: ''[http://webcitation.org/query.php?url=http%3A%2F%2Fwww.conservatives.com%2Fpdf%2Fmanifesto-uk-2005.pdf It's Time For Action/The British Dream]''
+* [[Labour Party (UK)|Labour]]: ''[http://image.guardian.co.uk/sys-files/Politics/documents/2005/04/13/labourmanifesto.pdf Britain: forward not back]''
+* [[Liberal Democrats]]: ''[http://web.archive.org/web/20050415045346/http://www.libdems.org.uk/party/policy/manifesto.html The REAL Alternative]''
+* [[Alliance Party of Northern Ireland]]: ''[http://web.archive.org/web/20050527232107/http://www.allianceparty.org/APNI-Manifesto-20050505.pdf Alliance works. Tribal politics costs]'' ([[PDF]] File)
+* [[British National Party]]: ''[http://web.archive.org/web/20050424020402/http://www.bnp.org.uk/candidates2005/man_menu.htm Rebuilding British Democracy]'' (''[http://web.archive.org/web/20050606165536/http://www.bnp.org.uk/candidates2005/manifesto/manifesto_abbrev.pdf Abbreviated]'') (''[http://web.archive.org/web/20050426184021/http://www.bnp.org.uk/candidates2005/manifesto/manifesto2005.pdf PDF]'')
+* [[Democratic Unionist Party]]: ''[http://web.archive.org/web/20050421184604/http://www.dup.org.uk/pdf/DUPManifesto05.pdf Leadership That's Working]'' (PDF File)
+* [[Green Party of England and Wales]]: ''[http://manifesto.greenparty.org.uk/ People, Planet, Peace]''
+* [[Scottish Green Party]]: ''[http://web.archive.org/web/20050430184731/http://www.scottishgreens.org.uk/sendfile.php?id=4518 People, Planet, Peace]''
+* [[Scottish National Party]]: ''[http://web.archive.org/web/*/http://www.snp.org/snpnews/2005/snp_press_release.2005-04-15.0793735679/2005-04-15.2518366405/download Make Scotland Matter]'' (PDF file)
+* [[Plaid Cymru|Plaid Cymru&nbsp;– The Party of Wales]]: ''[http://web.archive.org/web/20050421171210/http://www.plaidcymru.org/ManifestoPlaidCymru2005.pdf We can build a better Wales]'' (PDF file)
+* [[English Democrats]]: ''[http://www.EnglishDemocrats.org.uk/ See Web Site]''- Putting England First
+* [[National Front (UK)|National Front]]: ''[http://web.archive.org/web/20040803005636/www.nfse.co.uk/manifesto/manifesto.htm Manifesto]''
+* [[RESPECT The Unity Coalition|Respect&nbsp;– The Unity Coalition]]: [http://web.archive.org/web/20050114224646/http://www.respectcoalition.org/index.php?sec=39 Policy]
+* [[Scottish Socialist Party]]: ''[http://web.archive.org/web/20050420071042/http://www.scottishsocialistparty.org/man2005/Manifesto.html Make Capitalism History]''
+* [[Social Democratic and Labour Party]]: ''[http://www.sdlp.ie/elections05/SDLP-Manifesto-2005.pdf A Better Way to a Better Ireland]'' (PDF File)
+* [[Sinn Féin]]: ''[http://www.sfwestminsterelection.com/constituencies Manifesto]'' [dead link]
+* [[Ulster Unionist Party]]: ''[http://web.archive.org/web/20050501163300/http://www.uup.org/manifesto/manifesto_page1.htm Simply British]''
+* [[United Kingdom Independence Party]]: ''[http://web.archive.org/web/20051206014324/http://www.ukip.org/index.php?menu=manifesto2005&page=manifesto2005top We want our country back]''
+
+===News coverage===
+* [http://www.youtube.com/watch?v=HfUwO4LAJLs&feature=channel_video_title BBC coverage of election night, uploaded to youtube in 47 parts.]
+* [http://www.bbc.co.uk/election2005/ Election 2005] from ''[[BBC News]]''
+* [http://web.archive.org/web/20050408030430/http://www.channel4.com/news/microsites/E/election2005/ Election 2005] from ''Channel 4'' [dead link]
+* [http://www.guardian.co.uk/politics/election2005 UK General Election 2005] from ''[[The Guardian]]''
+* [http://www.guardian.co.uk/politics/election2005blog Election 2005 Blog] from ''[[The Guardian]]''
+
+{{British elections}}
+{{United Kingdom general election, 2005A}}
+{{Tony Blair}}
+{{Michael Howard}}
+{{New Labour}}
+
+{{DEFAULTSORT:United Kingdom General Election, 2005}}
+[[Category:United Kingdom general election, 2005| ]]
+[[Category:General elections to the Parliament of the United Kingdom|2005]]
+[[Category:2005 elections in the United Kingdom|*]]

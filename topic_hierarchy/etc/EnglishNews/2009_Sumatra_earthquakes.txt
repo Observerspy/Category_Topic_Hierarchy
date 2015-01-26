@@ -1,0 +1,148 @@
+{{Earthquake
+| title      = 2009 Sumatra earthquakes
+| date       = {{Start date|2009|9|30|10|16|10|Z}}
+| map        = 2009-09-30 Sumatra Indonesia earthquake location.jpg
+| magnitude  = 7.9 Moment magnitude scale|M</sub>w</sub>
+| depth      = {{convert|87|km|mi}}
+| location   = {{coord|0.725|S|99.856|E|display=inline,title}}
+| countries affected =    Indonesia<br />Singapore<br />Malaysia
+| casualties = estimated to be at least 1100, government reports confirmed 1,115 dead, 1,214 severely injured and 1,688 slightly injured.
+}}
+The '''September 2009 Sumatra earthquake''' occurred just off the southern coast of Sumatra, Indonesia. The major shock hit at 17:16:10 local time on {{#dateformat:30 September 2009|mdy}} (10:16:10 Coordinated Universal Time|UTC) The most deaths occurred in the areas of Padang Pariaman (675), Padang, Indonesia|Padang (313), Agam Regency|Agam (80) and Pariaman (37).
+
+==Background==
+The whole of Indonesia except Borneo, Bangka Belitung, Riau Islands and Timor is situated within a zone of high seismic activity known as the "Pacific Ring of Fire". Along the Sunda megathrust, the Indo-Australian Plate is being Subduction|subducted beneath the Eurasian plate.  The subduction creates regular earthquakes, many of them of megathrust earthquake|megathrust type. Specifically the Sumatran segment is currently experiencing a period of increased activity that began with the catastrophic 2004 Indian Ocean Earthquake. Each earthquake of the sequence adds additional stresses to segments of the plate boundary that have not moved recently.
+
+Because of its depth and the computed focal mechanism, the first earthquake is thought to have resulted from deformation within the mantle of the descending Australian plate, rather than from movement on the plate boundary itself.
+
+==Effects==
+File:Pariaman.jpg|thumb|left|200px|A destroyed house in Padang Pariaman District
+Tremors from the first earthquakes were felt in the Indonesian capital, Jakarta, Malaysia and Singapore. The management of some high-rise buildings in Singapore evacuated their staff.
+
+A tsunami watch was triggered and there was reports of house damage and fires. Hotels in Padang were destroyed, and communications to the city were disrupted. 
+
+Local news channel Metro TV reported fires in Padang where residents had run onto the streets as the first quake hit. Teams of rescuers from nearby branches of the National Search and Rescue Agency have been deployed to Padang. Large buildings came down in the earthquake. It was also reported that some water pipes in Padang were broken and there was flooding in the street. There have also been reports that at least two hospitals and several schools have collapsed as a result of the earthquake.
+
+The earthquake has also caused landslides. There were landslides and collateral debris flows in the hills surrounding Lake Maninjau. The landslide in Gunung Nan Tigo, Padang Pariaman district completely destroyed some villages and caused many fatalities. Landslides also forced some roads to be closed.
+
+Padang's Minangkabau International Airport suffered minor damage, with parts of the ceiling in the boarding area falling down.  The airport reopened on 1 October.
+
+==Responses==
+File:Padang earthquake.jpg|thumb|200px|Destroyed government building in Padang, Indonesia|Padang
+File:Ambacang hotel.jpg|thumb|200px|left|The 6-story Ambacang Hotel after the 2009 Sumatra Earthquake
+File:Defense.gov News Photo 091009-N-9123L-112.jpg|thumb|200px|left|U.S. airmen and Marines unload relief supplies in Padang
+Indonesian  officials have suggested that the death toll is likely to rise sharply, because of the large number of people trapped in collapsed buildings. Authorities announced that several disaster management teams were en route to Padang, Indonesia|Padang although it took several hours for them to reach more remote areas. Rescue workers pulled dozens of survivors from the rubble and rushed them to Djamil Hospital. The hospital itself was overwhelmed with patients, and many patients were treated in tents set up outside the hospital. A man was trapped beneath a flattened hotel for 25 hours with a broken leg before rescue workers pulled him free. The Indonesian military deployed emergency response teams with earth moving equipment to help move rubble and recover trapped victims. Rescue workers and volunteers searched the rubble of a collapsed 3-story course building, rescuing survivors and recovering bodies while parents waited nearby. Indonesian villagers used their bare hands to sift through ruins and try to find survivors. On October 5, Indonesian rescue workers called off their search for trapped survivors and increased efforts to recover bodies, clear rubble, and provide aid to survivors. Indonesian authorities used helicopters to airdrop instant noodles, blankets, milk, and dry food into remote areas, and to bring the wounded from these areas to hospitals. 
+
+World Vision, Oxfam, IFRC, Muslim Charity and Mercy Corps have confirmed that they are flying their emergency response teams to the devastated Padang area to do the rapid assessment of the catastrophe. The Red Cross is seeking donations to help cover earthquake relief costs.
+World Vision has also airlifted 2,000 collapsible water containers and will distribute them immediately to the area most affected by earthquake. Additionally World Vision has launched US$ 1 million appeal for the relief effort.
+
+===List of countries that sent aid===
+Below is the table of countries that have sent or pledged aid for Indonesia
+
+{| border=1 cellpadding=4 cellspacing=0 style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse; font-size: 95%;"
+| '''Australia''' || A team of 10 army engineers and a 36-member civilian search and rescue team. {{HMAS|Kanimbla|L 51|6}}, a Royal Australian Navy ship equipped with a hospital and a helicopter was sent.
+
+A 36-person urban search and rescue team and about 20 Australian Defence Force medics and engineers were expected to arrive in Padang on October 3. Australia also provided A$250,000 to Indonesian NGO Muhammadiyah to support its medical teams and humanitarian operations and A$100,000 to the Indonesian Red Cross for its emergency response. 
+|-
+| '''People's Republic of China|China''' || Emergency aid worth $500,000. China's Red Cross also provided $50,000
+|-
+| '''Denmark''' || A six-man crew and camp material
+|-
+| '''Estonia''' || Estonia will be sending an information technology expert to Indonesia along with the UN Disaster Assessment and Co-ordination (UNDAC) team, and the Foreign Ministry has also decided to support victims of the earthquake in Indonesia with 1,000,000 kroons. 
+|-
+| '''European Union''' || Aid worth 3 million euros
+|-
+| '''Germany''' || Emergency aid worth 1 million euros
+|-
+| '''Hongkong''' || HKD 4 million has been channeled through World Vision Hongkong
+|-
+| '''Republic of Ireland|Ireland''' || Noel Wardick, Head of the Irish Red Cross International Dept went to Indonesia on October 2. Irish Red Cross volunteers worked to rescue people and provide food, clean water and shelter. 
+|-
+| '''Japan''' ||  A team of 60 search and rescue workers and 23 medical personnel. It also provided emergency goods such as tents, sleeping mats, blankets and power generators.
+
+A Japanese medical team comprising 23 doctors arrived in Pariaman on October 3.  
+|-
+| '''Malaysia''' || Mercy Malaysia deployed two-member team to Padang, Indonesia|Padang on October 1 to conduct an on-the-ground assessment to determine the humanitarian needs. An initial total of RM 100,000 has been allocated from the emergency fund to respond to this recent disaster.
+
+Malaysian Red Crescent Society said it was ready to deploy a five-member Regional Disaster Response Team  consist of a doctor, a nurse and relief officers to Padang to provide emergency relief to the earthquake victims on October 2.    
+
+State Government of Selangor allocated RM 500,000 for relief effort in Padang.    
+ 
+
+Mercy Malaysia deployed a team consisting of an orthopaedic surgeon, a general surgeon, an anaesthetist, general practitioners (GPs) and nurses on October 4 to treat the earthquake victims in and around Pariaman which is located some 80&nbsp;km north of Padang, Sumatra. The team will bring along with them surgical sets and primary healthcare kits worth a total of RM 100,000.
+
+Malaysian Search and Rescue Team (Smart) with 39 members left for Padang to assist in the search and rescue efforts for victims who were trapped under rubble following last Wednesday's 7.6-magnitude earthquake. There was also a medical team sent to the capital of West Sumatra comprising 17 officers from the Malaysian Army|Malaysian Armed Forces medical corps, 8 officers from Malaysian Health Ministry, 2 officers from the National Security Division and NGO Mercy Malaysia.
+
+Universiti Teknologi Malaysia in Johor Baharu sent 14 volunteers to Padang to help in the humanitarian relief efforts. In a statement, Deputy vice-chancellor Prof Dr Mohd Azrai Kassim said the team comprised students and staff of the university to help in providing a fresh water supply.       
+|-
+| '''Netherlands''' || Emergency aid of 500,000 euros
+|-
+| '''Norway''' || Norway pledged a total of NOK 20,000,000 for emergency relief efforts.
+|-
+| '''Russia''' || Two aircraft, logistical supplies, medical supplies, doctors, nurses, and a search and rescue team with sniffer dogs
+|-
+| '''Saudi Arabia''' || The Kingdom of Saudi Arabia has sent a maximus Aircargo plane carrying two units of trucks, one ambulance disaster response unit, a Search and Rescue (SAR) team, medicines, and four sniffer dogs that will be used to identify the presence of victims, both survivors and victims who died under collapsed buildings in West Sumatra. 
+|-
+| '''Singapore''' || Has pledged $50,000 worth of emergency relief supplies, including temporary shelters, blankets and medicine. It has also sent a 54-member medical team from the Singapore Armed Forces, 42-member Civil Defense Force search, rescue contingent and three helicopters. 
+|-
+| '''South Korea''' || A 43-person search and rescue team and $500,000 in aid
+|-
+| '''Switzerland''' || A search and rescue team
+|-
+| '''Qatar''' || An aircraft, search and rescue team, logistical supplies
+|-
+| '''Republic of China|Taiwan''' || Taiwan decided to donate $150,000 to the effort.
+|-
+| '''Thailand''' || Thailand will send a plane on October 3 with relief supplies worth $170,000 to Jakarta.
+|-
+| '''Turkey''' || Turkish Red Crescent appointed an ad-hoc representative to the Coordination Center operated by Indonesian Red Cross.   
+|-
+| '''United Arab Emirates''' || A 56-member search and rescue team, medical supplies, heavy equipment
+|-
+| '''United States''' || Emergency aid worth $3,000,000. It has also pledged $3 million, and provided an Air Force C-130 Hercules transport aircraft, Navy C-12 transport aircraft and crew. The USS Denver (LPD-9)|USS Denver and the USS McCampbell (DDG-85)|USS McCampbell were sent to assist. Eight U.S. Navy and Marine Corps helicopters from these ships delivered more than 360,000 pounds of food, water and emergency shelter supplies from disaster relief NGOs to remote regions inaccessible by land.  These helicopters also flew government and NGO survey teams to conduct assessments of hard-hit areas.  Indonesian military and U.S. Air Force doctors, along with Navy corpsmen, treated more than 2,000 patients at an Air Force humanitarian assistance rapid response team field hospital set up in Padang; small teams of U.S. and Indonesian medical personnel also embarked helicopters and made medical visits to a handful of remote villages, transporting injured persons back to Padang for treatment. 
+|-
+| '''United Kingdom''' || Humanitarian experts assessed the damage. The Department for International Development (DfID) team carried UK aid agency staff and rescue equipment including plastic sheeting, medical and water purifying equipment. The search and rescue team was made up of 65 firefighters. 
+
+Meanwhile, 10 volunteers from the International Rescue Corps, based in Grangemouth, Stirlingshire, flew to Sumatra. They took specialist equipment including listening devices and camera systems which can penetrate rubble to search for trapped survivors in collapsed buildings.  
+
+S.A.R.A.I.D. (Search and Rescue Assistance in Disasters), a Southwest based charity, mobilised a team of 10 personnel and over a ton of technical equipment to Padang, Indonesia|Padang.
+
+Gloucester-based search and rescue specialist Rapid-UK sent a 16-person team to the area. 
+ 
+|}
+
+==Aftershocks==
+Only aftershocks with magnitude 5.0 or higher are listed. The mainshocks with moment magnitude 7.6 M<sub>w</sub> and 6.6 M<sub>w</sub> are highlighted in light blue.
+
+A second earthquake, which measured 6.6 M<sub>w</sub>, struck the province of Jambi in central Sumatra, 01:52:29 local time on 1 October 2009 at a depth of {{convert|15|km|mi}}, about 46 kilometres south-east of Sungaipenuh. The USGS said the earthquake, although in the same region, was not an aftershock as it was located too far from the initial quake.
+
+<!-- ONLY 5.5 OR HIGHER ;) http://earthquakes.usgs.gov/eqcenter/recenteqsww/Maps/region/Australia_eqs.php -->
+{| class="wikitable sortable" border="1"
+! Date <br />(YYYY-MM-DD) !! Time <br />(UTC) !! Latitude !! Longitude !! Depth !! Magnitude
+|- style="background: #9999ff"
+| 2009-09-30 || 10:16:09 || 0.789° S || 99.961° E || {{convert|80|km|mi|0|abbr=on}} || 7.6 (M<sub>w</sub>)
+|- 
+| 2009-09-30 || 10:38:54 || 0.717° S || 100.070° E || {{convert|104.2|km|mi|0|abbr=on}} || 5.5 (M<sub>w</sub>)
+|- style="background: #9999ff"
+| 2009-10-01 || 02:20:31 || 2.465° S || 101.342° E || {{convert|10|km|mi|0|abbr=on}} || 5.0 (M<sub>w</sub>)
+|}
+
+==References==
+{{reflist|30em}}
+
+==External links==
+* http://earthquake.usgs.gov/eqcenter/eqinthenews/2009/us2009mebz/#details US Geological Survey on first quake
+* http://earthquake.usgs.gov/eqcenter/eqinthenews/2009/us2009mfaf/ US Geological Survey on second quake
+* http://www.youtube.com/watch?v=JhkV6sK-MBg BBC video 9-30
+* http://www.youtube.com/watch?v=D5rIKZXIu2I ITN video 10-1
+* http://www.youtube.com/watch?v=vn83NjkFzhE ITN video 10-2
+* http://news.bbc.co.uk/2/hi/asia-pacific/8284208.stm Indonesia quake deaths pass 1,000 ''BBC News'' ongoing coverage
+* http://www.reliefweb.int/rw/dbc.nsf/doc108?OpenForm&emid=TS-2009-000211-IDN&rc=3 Indonesia: Sumatra Earthquake - Sep 2009 from ''Office for the Coordination of Humanitarian Affairs|OCHA'' ReliefWeb ongoing coverage
+* http://www.alertnet.org/db/crisisprofiles/ID_QUA0909.htm Thousands feared dead in Indonesia quake from ''Reuters'' AlertNet ongoing coverage
+{{Earthquakes in 2009}}
+{{SumatraMegathrust}}
+
+{{DEFAULTSORT:2009 Sumatra Earthquakes}}
+Category:2009 earthquakes|Sumatra
+Category:2009 in Indonesia|Sumatra earthquake
+Category:Megathrust earthquakes in Sumatra

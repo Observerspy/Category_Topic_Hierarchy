@@ -1,0 +1,79 @@
+{{Infobox earthquake
+|title = 1886 Charleston earthquake
+|date = {{Start-date|August 31 1886}}
+|map2 = {{Location map | South Carolina
+ | label =
+ | lat = 32.9
+ | long = -80.0
+ | mark = Bullseye1.png
+ | marksize = 65
+ | position = top
+ | width = 250
+ | float = right
+ | caption = }}
+|magnitude = 7.3 Richter scale|M<sub>L</sub>
+|damage = 5–6 million 
+|intensity = X (''Intense'') 
+|location = {{coord|32.9|-80.0|display=inline,title}} 
+|countries affected = United States, South Carolina
+|tsunami = 
+|casualties = 60 
+}}
+
+The '''Charleston Earthquake of 1886''' was a powerful intraplate earthquake that hit Charleston, South Carolina, and the East Coast of the US. After the 1812 New Madrid earthquake|1811 and 1812 earthquakes in New Madrid, Missouri, it is one of the most powerful and damaging quakes to hit the southeastern United States. The shaking occurred at about 9:50 p.m. on August 31, 1886, and lasted just under a minute. The earthquake caused severe damage in Charleston, damaging 2,000 buildings and causing between five and eight million worth in damage(over $141 million in 2009 dollars), while in the whole city the buildings were only valued at approximately $24 million. Between 60 and 110 lives were lost. Very little to no historical earthquake activity occurred in the Charleston area prior to the 1886 event, which is unusual for any seismic area.
+
+==Earthquake==
+Image:Charlestonearthquake.gif|thumb|left|Damage from Charleston earthquake of August 31, 1886
+{{see also|List of earthquakes in the United States}}
+
+The earthquake is estimated to have been between 6.6 and 7.3 on the Richter scale with a Mercalli Intensity Scale|Mercalli Intensity of X. Sand volcano|Sandblows were common throughout the affected area due to Earthquake liquefaction|liquefaction of the soil. Aftershocks continued to be felt for weeks after the event and minor earthquake activity that still continues in the area today may be a continuation of aftershocks.  There were at least sixty fatalities.
+
+It was felt as far away as Boston, Massachusetts to the north, Chicago, Illinois and Milwaukee, Wisconsin to the northwest, as far west as New Orleans, Louisiana, as far south as Cuba, and as far east as Bermuda.  
+
+The 1886 earthquake is a heavily studied example of an intraplate earthquake. The earthquake is believed to have occurred on Geologic fault|faults formed during the break-up of Pangaea. Similar faults are found all along the east coast of North America. It is thought that such ancient faults remain active from forces exerted on them by present-day motions of the North American Plate. The exact mechanisms of intraplate earthquakes are a subject of much ongoing research.
+
+===Damage===
+Image:Charlestonbolt.JPG|thumb|One of many "earthquake bolts" found throughout period houses in the city of Charleston
+Within the city almost all of the buildings sustained damage and most had to be torn down and rebuilt.  Wires were cut and the railroad tracks were torn apart, cutting residents off from the outside world and vice-versa.  The damage was assessed to be between five and eight million dollars.  
+
+Major damage occurred as far away as Tybee Island, Georgia, (more than 60 miles away) and structural damage was reported several hundred miles from Charleston (including central Alabama, central Ohio, eastern Kentucky, southern Virginia and western West Virginia). 
+
+Earthquake bolts were added to existing unreinforced masonry buildings to add support to the structure without having to demolish the structure due to instability. The bolts pass through the existing masonry walls tying walls on opposite sides of the structure together for stability.
+
+The Old White Meeting House Ruins and Cemetery|Old White Meeting House near Summerville, South Carolina|Summerville, Dorchester County, South Carolina was reduced to ruins.
+
+==See also==
+* Geology of the United States
+* Plate tectonics
+* South Carolina earthquakes
+
+==References==
+{{reflist|refs=
+
+}}
+
+;Sources
+{{refbegin}}
+* {{citation|title=Paleoseismic Evidence for Recurrence of Earthquakes near Charleston, South Carolina|url=http://www.sciencemag.org/content/229/4711/379.abstract|first=P.|last=Talwani|first2=J.|last2=Cox|year=1985|journal=Science (journal)|Science|publisher=American Association for the Advancement of Science|volume=229|number=4711|pages=379–381}}
+* {{citation|title=Results of recent South Carolina seismological studies|url=http://bssa.geoscienceworld.org/content/71/6/1883.abstract|first=A.C.|last=Tarr|first2=P.|last2=Talwani|first3=S.|last3=Rhea|first4=D.|last4=Carver|first5=D.|last5=Amick|year=1981|journal=Bulletin of the Seismological Society of America|publisher=Seismological Society of America|volume=71|number=6|pages=1883-1902}}
+{{refend}}
+
+==External links==
+*http://www.seis.sc.edu/projects/SCSN/history/html/eqchas.html The Charleston Earthquake of 1886 – University of South Carolina
+*http://earthquake.usgs.gov/regional/states/events/1886_09_01.php Historical Earthquakes: Charleston, South Carolina – United States Geological Survey
+*http://www.dnr.sc.gov/geology/images/Fault_Map_Generalized.gif Fault Map of South Carolina – South Carolina Department of Natural Resources
+*http://lowcountrydigital.library.cofc.edu/cdm4/browse.php?CISOROOT=/cep Waring Historical Library 1886 Charleston Earthquake Photo Collection – Lowcountry Digital Library
+*http://findingaid.winterthur.org/html/HTML_Finding_Aids/COL0760.htm Overview of an archival collection on the Charleston earthquake – Winterthur Museum, Garden and Library
+
+{{DEFAULTSORT:1886 Charleston Earthquake}}
+Category:History of Charleston, South Carolina
+Category:Natural disasters in South Carolina
+Category:1886 earthquakes|Charleston Earthquake, 1886
+Category:1886 in the United States|Charleston Earthquake, 1886
+Category:Earthquakes in Ohio
+Category:Earthquakes in South Carolina
+Category:Earthquakes in Kentucky
+Category:Earthquakes in Alabama
+Category:Earthquakes in West Virginia
+Category:Earthquakes in Virginia
+Category:1886 in South Carolina

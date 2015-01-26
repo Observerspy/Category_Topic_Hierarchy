@@ -1,0 +1,186 @@
+{{Use dmy dates|date=November 2013}}
+{{Infobox Election
+| election_name = German federal election, 2002
+| country = Germany
+| type = parliamentary
+| ongoing = no
+| previous_election = German federal election, 1998
+| previous_year = 1998
+| next_election = German federal election, 2005
+| next_year = 2005
+| seats_for_election = All 603 seats in the [[Bundestag]] <br> 302 seats were needed for a majority
+| election_date      = {{Start date|df=yes|2002|09|22}}
+| turnout = 79.1% (voting eligible)<ref name="Voter turnout 2002">{{cite web|title=Voter turnout by election year|url=http://www.bundeswahlleiter.de/en/glossar/texte/Wahlbeteiligung.html|website=Website of the Federal Returning Officer's Office|publisher=The Federal Returning Officer|accessdate=7 November 2014}}</ref>
+
+<!--      SPD   -->
+| image1 = [[File:Gerhardschroeder01c.jpg|110px]]
+| leader1 = [[Gerhard Schröder]]
+| party1 = Social Democratic Party of Germany
+| leader_since1 = 1999 
+| last_election1 = 298
+| seats1 = 251
+| seat_change1 = {{decrease}}47
+| popular_vote1 = 18,488,668
+| percentage1 = 38.5% 
+| swing1 = {{decrease}}2.4%
+
+<!--      CDU/CSU  -->
+| image2 = [[File:DrEdmundStoiber.jpg|103px]]
+| leader2 = [[Edmund Stoiber]]
+| party2 = CDU/CSU
+| leader_since2 = 1999 (CSU only)
+| last_election2 = 245
+| seats2 = 248
+| seat_change2 = {{increase}}3
+| popular_vote2 = 18,482,641
+| percentage2 = 38.5% 
+| swing2 = {{increase}}3.3%
+
+<!--      B90/GRÜNE  -->
+| image3 = [[File:Fischer und Paul Wolfowitz (Headshot).jpg|90px]]
+| leader3 = [[Joschka Fischer]]
+| party3 = Alliance '90/The Greens
+| leader_since3 = 
+| last_election3 = 47
+| seats3 = 55
+| seat_change3 = {{increase}}8
+| popular_vote3 = 4,110,355
+| percentage3 = 8.6%
+| swing3 = {{increase}}1.9%
+
+<!--      FDP  -->
+| image4 = [[File:Westerwelle Bundesparteitag.jpg|100px]]
+| leader4 = [[Guido Westerwelle]]
+| party4 = Free Democratic Party (Germany)
+| leader_since4 = 2001
+| last_election4 = 43
+| seats4 = 47
+| seat_change4 = {{increase}}4
+| popular_vote4 = 3,538,815
+| percentage4 = 7.4%
+| swing4 = {{increase}}1.1%
+
+<!--      PDS  -->
+| image5 = [[File:Foto von Gabi Zimmer.jpg|105px]]
+| leader5 = [[Gabi Zimmer]]
+| party5 = Party of Democratic Socialism (Germany)
+| leader_since5 = 2000
+| last_election5 = 36
+| seats5 = 2
+| seat_change5 = {{decrease}}34
+| popular_vote5 = 1,916,702
+| percentage5 = 4.0%
+| swing5 = {{decrease}}1.1%
+
+<!-- map -->
+| map_image = German_Federal_Election_-_Party_list_vote_results_by_state_-_2002.png 
+| map_size = 180px 
+| map_alt = 
+| map = 
+| map_caption = [[Party list]] election results by state: pink denotes states where the [[SPD]] had the plurality of votes; dark blue denotes states where [[Christian Social Union in Bavaria|CSU]] had the absolute majority of the votes; and lighter blue denotes states where [[Christian Democratic Union (Germany)|CDU]] had the plurality of votes
+
+<!-- bottom -->
+| title = [[Chancellor of Germany (Federal Republic)|Chancellor]]
+| before_election = [[Gerhard Schröder]]
+| before_party = Social Democratic Party of Germany
+| after_election = [[Gerhard Schröder]]
+| after_party = Social Democratic Party of Germany
+}}
+{{Politics of Germany}}
+'''German federal elections''' took place on 22 September 2002, to elect members to the 15th [[Bundestag]] (lower house) of Germany.
+
+==Issues and campaign==
+{{unreferenced section|date=January 2014}}
+Several issues dominated the campaign, with the opposition CDU/CSU attacking the government's performance on the economy which fell back into recession due to the [[Telecoms crash]] and the introduction of the euro. As well as campaigning on family values issues and against taxes (particularly on fuel). The government, on the other hand, was helped by broad support for its opposition to the [[2003 invasion of Iraq|Iraq War]], continued media attention on the CDU fudning scandal and by [[Gerhard Schröder]]'s personal popularity relative to the opposition's candidate for [[Chancellor of Germany (Federal Republic)|Chancellor]], CSU leader [[Edmund Stoiber]].
+
+Early in the campaign, [[Guido Westerwelle]], leader of the [[Free Democratic Party (Germany)|Free Democrats]], declared himself a "Chancellor Candidate," usually a title reserved for the main election leaders of the SPD and CDU/CSU.  This was met with general derision.
+
+== Results ==
+
+Although the opposition gained seats, and the result was in doubt for most of the election night, the governing coalition retained a narrow majority. In particular, the SPD was able to partially offset declines in their vote share in the West with an increase in the East, with the PDS falling below both the 5% threshold and the 3-seat threshold, either of which is required to qualify a party for top-up seats. Consequently the PDS held only two directly-elected seats.
+
+{{German federal election, 2002}}
+
+[[Image:2002 federal german result.svg|thumbnail|320px|Seat results – SPD in red, Greens in green, PDS in purple, FDP in yellow, CDU/CSU in black]]
+{| style="width:70%; text-align:center;"
+|+ ↓
+|- style="color:white;"
+| style="background:red; width:41.6%;" | '''251'''
+| style="background:black; width:41.1%;" | '''248'''
+| style="background:green; width:9.1%;" | '''55'''
+| style="background:gold; width:7.8%;" | '''47'''
+| style="background:brown; width:0.3%;" | '''2'''
+|-
+| <span style="color:red;">'''SPD'''</span>
+| <span style="color:black;">'''CDU/CSU'''</span>
+| <span style="color:green;">'''Grüne'''</span>
+| <span style="color:gold;">'''FDP'''</span>
+| <span style="color:brown;">'''PDS'''</span>
+|}
+{{bar box
+| title=Popular Vote
+| titlebar=#ddd
+| width=600px
+| barwidth=410px
+| bars=
+{{bar percent|'''SPD'''|{{Social Democratic Party of Germany/meta/color}}|38.52}}
+{{bar percent|CDU/CSU|{{Christian Democratic Union (Germany)/meta/color}}|38.51}}
+{{bar percent|B'90/GRÜNE|{{Alliance '90/The Greens/meta/color}}|8.56}}
+{{bar percent|FDP|{{Free Democratic Party (Germany)/meta/color}}|7.37}}
+{{bar percent|PDS|{{The Left (Germany)/meta/color}}|3.99}}
+{{bar percent|Other|#777777|3.05}}
+}}
+
+{{bar box
+| title=Bundestag seats
+| titlebar=#ddd
+| width=600px
+| barwidth=410px
+| bars=
+{{bar percent|'''SPD'''|{{Social Democratic Party of Germany/meta/color}}|41.63}}
+{{bar percent|CDU/CSU|{{Christian Democratic Union (Germany)/meta/color}}|41.13}}
+{{bar percent|B'90/GRÜNE|{{Alliance '90/The Greens/meta/color}}|9.12}}
+{{bar percent|FDP|{{Free Democratic Party (Germany)/meta/color}}|7.79}}
+{{bar percent|PDS|{{The Left (Germany)/meta/color}}|0.33}}
+}}
+
+==Post-election==
+
+The coalition between the SPD and the Greens continued in government with [[Gerhard Schröder]] as chancellor.
+
+==Further reading==
+* {{cite journal
+ | quotes = 
+ | last = Pulzer
+ | first = Peter
+ | authorlink = 
+ | coauthors = 
+ |date= April 2003
+ | title = The devil they know: The German federal election of 2002
+ | journal = [[West European Politics]]
+ | volume = 26
+ | issue = 2
+ | pages = 153–164
+ | doi = 10.1080/01402380512331341151
+ | id = 
+ | url = 
+ | language = 
+ | format = 
+ | accessdate = 
+ | laysummary = 
+ | laysource = 
+ | laydate = 
+ | quote = 
+ }}
+
+==References==
+{{Reflist}}
+
+==Sources==
+* [http://www.bundeswahlleiter.de/e/index_e.htm The Federal Returning Officer]
+* [http://psephos.adam-carr.net Psephos]
+
+{{German federal elections}}
+
+[[Category:Federal elections in Germany|2002]]
+[[Category:2002 elections in Germany| Federal]]

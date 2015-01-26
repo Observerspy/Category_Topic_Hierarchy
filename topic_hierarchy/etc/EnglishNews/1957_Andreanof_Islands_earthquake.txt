@@ -1,0 +1,49 @@
+{{Earthquake
+|title=1957 Andreanof Islands earthquake
+|date= {{start-date| 9 March 1957 14:22}}(Coordinated Universal Time|UTC)
+|map2 = {{Location map | Alaska
+ | relief = yes
+ | label=
+ | lat=51.5
+ | long=-175.7
+ | mark=Bullseye1.png
+ | marksize=40
+ | position=top
+ | width= 250
+ | float=right
+ | caption=}}
+|magnitude = 8.6 Moment magnitude scale|M<sub>w</sub>
+|depth=
+|location={{Coord|51.5|N|175.7|W}}
+|countries affected = USA, Aleutian Islands & Hawaii 
+|tsunami = Yes
+|casualties = 0
+}}
+The '''1957 Andreanof Islands earthquake''' was a magnitude 8.6 moment magnitude scale|M<sub>W</sub> It was centered at {{Coord|51.5|N|175.7|W|type:event}} in the Alaska-Aleutian megathrust, south of the Andreanof Islands group of the Aleutian Islands in the U.S. state of Alaska.
+
+The earthquake caused damage to infrastructure on Adak Island and Umnak Island, as well as causing an eruption of long-dormant volcano Mount Vsevidof. It also caused a tsunami that reached a height of 16 meters (52&nbsp;ft) and caused around $5,000,000 in damage in Hawaii, destroying two villages on Oahu, and two bridges in the Aleutian region. No lives were lost in either the earthquake or the tsunami.
+
+{{As of|2009}} it remains the fourth largest-magnitude quake in the United States.
+
+==See also==
+*2007 Andreanof Islands earthquake
+*List of earthquakes in the United States
+
+==References==
+{{Reflist}}
+
+==External links==
+* http://earthquake.usgs.gov/regional/states/events/1957_03_09.php USGS Earthquake Hazards Program - Andreanof Islands, Alaska, Magnitude 8.6
+* http://www.geophys.washington.edu/tsunami/general/historic/aleutian57.html Tsunami! - 1957 Aleutian tsunami
+
+{{Alaska history footer|state=collapsed}}
+
+{{DEFAULTSORT:Andreanof Islands Earthquake}}
+Category:1957 earthquakes
+Category:1957 in Alaska
+Category:Megathrust earthquakes in Alaska|1957
+Category:Tsunamis in the United States|1957
+Category:20th-century tsunamis
+
+{{Alaska-geo-stub}}
+{{earthquake-stub}}

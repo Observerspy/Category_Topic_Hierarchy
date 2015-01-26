@@ -1,0 +1,62 @@
+{{Earthquake
+|title = 1940 Vrancea earthquake
+|date = {{Start date|1940|11|10|df=yes}} <br> 3:39 AM (local time)
+|map =
+| mapsize = 300px
+| image name = 
+|map2 = {{Location map | Romania
+| label=
+| lat=45.77
+| long=26.76
+| mark=Bullseye1.png
+| marksize=80
+| position=top
+| width= 300
+| float=right
+| caption=
+| relief=yes}}
+|magnitude = 7.4 or 7.7 Mw
+|max intensity =
+|depth = 133 km
+|location = Vrancea County, Romania
+|countries affected = Romania, Moldova
+|tsunami =
+|casualties = 1,600 dead, 12,100 injured
+|damage = 65,000 homes destroyed
+}}
+
+The '''1940 Vrancea earthquake''', also known as the '''1940 Bucharest earthquake''', (Romanian language|Romanian: '''''Cutremurul din 1940''''') occurred on Sunday, November 10, 1940 in Romania at 03:39 AM local time. 
+
+The 1940 earthquake registered a magnitude of 7.4 or 7.7 on the Richter scale. Its epicenter lied in Vrancea zone at a depth of about 133&nbsp;km. It was the first great earthquake in Romania's recent history.
+
+==Damage==
+Image:Iosif Berman - Marele cutremur din anul 1940.jpg|thumb|left|250px|Rescue operations for survivors in Carlton Bloc
+The earthquake's effects were devastating in central and southern Moldavia|Moldova and Walachia. The number of casualties was estimated at 1,600 dead while 12,100 are believed to have been injured, mostly in Moldova. Because the context in which it occurred, the exact number of victims was not known as this kind of information was censored during the war.
+
+The earthquake was felt in Bucharest, where about 300 people were killed, most of them in the collapse of the Carlton Bloc. The Carlton building, a 14-story reinforced concrete structure, was the tallest building in the city at the time. Many other buildings in Bucharest were also considerably damaged. After the earthquake, the Romanian ''General Association of Engineers'' undertook a detailed study of earthquake effects on reinforced concrete buildings. The main conclusion was that the guidelines used for constructing reinforced concrete buildings, which were basically copied from the Germans, did not take into account possible seismic movement, as Germany is not located in an area with a high seismic risk. Following the study, new rules were developed and applied to all postwar buildings.
+
+Foc?ani, a city 100 miles northeast of Bucharest and the epicentre of the quake, was reported in ruins; Gala?i, the site of the German submarine base, also suffered severely; and Giurgiu, the principal oil port on the Danube, saw public buildings and factories completely destroyed. In C?mpina, a densely populated oil town, refinery chimneys toppled, houses collapsed, and pipelines burst, dousing the ground with a sticky and inflammable threat. In the heavily guarded Ploie?ti, a few field fires broke out, but were later reported extinguished.
+
+==See also==
+*1802 Vrancea earthquake - 7.9 M<sub>w</sub>, the strongest earthquake to ever hit Romania occurred on October 26
+*1977 Vrancea earthquake
+*1986 Vrancea earthquake
+
+==References==
+{{reflist}}
+
+==External links==
+*http://www.youtube.com/watch?v=Lbd70yvDI28&feature=related Youtube Video presented by French television
+*http://www.britishpathe.com/record.php?id=12060 Britishpathe.com
+*http://www.muzeuldefotografie.ro/2010/01/ramasitele-blocului-carlton/ Remains of Block Carlton
+
+{{Significant earthquakes in Romania}}
+
+{{coord missing|Romania}}
+
+Category:Earthquakes in Romania|1940 Bucharest earthquake
+Category:1940 in Romania|Bucharest earthquake
+Category:History of Bucharest
+Category:1940 earthquakes
+Category:Earthquakes in Moldova
+Category:Earthquakes in Ukraine

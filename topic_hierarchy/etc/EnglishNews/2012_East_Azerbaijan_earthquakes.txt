@@ -1,0 +1,96 @@
+{{Earthquake
+| title=2012 East Azerbaijan earthquakes
+| date={{start-date|August 11, 2012|August 11, 2012}}
+| origintime= 16:53:17 (UTC+04:30|UTC+04.30) (mainshock)<br />17:04:35 (UTC+04:30|UTC+04.30) (aftershock)
+| map2= {{Location map | Iran
+| relief=yes
+| label=
+| lat=38.324
+| long=46.759
+| mark=Bullseye1.png
+| marksize=40
+| position=top
+| width=250
+| float=right
+| caption=}}
+| magnitude=6.4 Moment magnitude scale|M<sub>w</sub>, 
+| intensity= 
+| depth={{convert|9|km|abbr=on}}
+| aftershocks=at least 60
+| location={{coord|38|19|19.2|N|46|52|48|E|region:IR_type:landmark|display=inline,title}}
+| intensity=VII-VIII 
+| countries affected=Iran, also felt in Azerbaijan and Armenia
+| casualties=306 dead, 3,037 injured
+}}
+The '''2012 East Azerbaijan earthquakes''' occurred near the cities of Ahar and Varzaqan in Iran's East Azerbaijan Province, on August 11, 2012, at 16:53 Iran Standard Time.  The two quakes measured 6.4 and 6.3 on the moment magnitude scale, and were separated by eleven minutes. The epicenter of the earthquakes was 60 kilometers (37 miles) from Tabriz. primarily in the rural and mountainous areas to the northeast of Tabriz (though 45 died in the city of Ahar).
+
+Iran is prone to frequent severe earthquakes because several major fault lines cross the country. Earthquakes in 2003 Bam earthquake|2003 and 1990 Manjil-Rudbar earthquake|1990 killed approximately 26,000 and 40–50,000 people, respectively.
+
+==Geology==
+File:2012 East Azerbaijan earthquakes. by Mardetanha 1358.JPG|thumb|A banner reads "Maintain your composure and calm to others."
+Iran lies within the complex zone of continental collision between the Arabian Plate and the Eurasian Plate, which extends from the Bitlis-Zagros fold and thrust belt|Zagros belt in the south to the Caucasus mountains|Greater Caucasus mountains, the Caspian Sea|Absheron-Balkan Sill and the Kopet Dag mountains in the north. The collision between these plates deforms an area of ~ 3,000,000&nbsp;km<sup>2</sup> of continental crust. It is one of the largest convergent deformation regions on Earth. In northwestern Iran, the Arabian Plate is moving northwards at about 20&nbsp;mm per year relative to the Eurasian Plate, somewhat oblique to the plate boundary zone. The deformation in the area near Tabriz is dominated by the North Tabriz Fault, a WNW-ESE trending right-lateral strike-slip fault, which has been responsible for 7 historical earthquakes of magnitude greater than 6 since AD 858. Other known active faults include a W-E trending fault between the cities of Ahar and Heris.
+
+The 6.4 and 6.3 intraplate earthquakes occurred as a result of oblique strike-slip faulting in the shallow crust about 300&nbsp;km east of the Eurasia-Arabian Plate boundary. The two earthquakes are separated by 10&nbsp;km in an east-west direction.
+
+==Damage and casualties==
+File:2012 East Azerbaijan earthquakes. by Mardetanha 1357.JPG|thumb|left|Many villages have been completely destroyed
+File:2012 Iran earthquakes.jpg|thumb|left|Intensity map for mainshock (USGS)
+{{multiple image| direction = vertical| width = 150| footer = | image1 = 2012 Iran earthquake 6,4 - Population Exposure.png| alt1=| caption1 = Population exposure from the first shock| image2= 2012 Iran earthquake 6,3 - Population Exposure.png| alt2=| caption2 = Population exposure from the second shock}}
+Iran's state television reported the quake hit near the towns of Ahar, Heris and Varzaqan in East Azerbaijan Province at 4:53 p.m. local time (12:23 GMT). "268 people, 219 women and 49 men, lost their lives in hospitals" while the rest were killed on the spot, Iran's Health Minister Marzieh Vahid-Dastjerdi said. The Iranian minister added that 3,037 people have been injured as a result of Saturday's temblors. According to the head of Iran's Rescue and Relief Organisation, access to villages has been cut and the only communication is via radio. The worst damage and most casualties were in villages near the towns of Ahar, Varzaghan and Heris. In villages near Varzaqan, with most men away from home working, the many mud brick houses which collapse trapped mainly women and children inside.
+
+Sixty-six rescue teams have been sent to the affected region, along with about 200 ambulances and five helicopters. 130 villages were 70-90% destroyed, and 20 were completely leveled. At least 45 people died and more than 500 were injured in Ahar, where electricity and phone lines were cut after the quakes. The medical infrastructure in the catastrophe stricken region is not sufficient, and many havily injured did not survive the rather long way to the nearest hospital.
+
+Most parts of Tabriz also lost electricity, and the city had a large traffic jam. Some buildings were structurally damaged. Over 200 people in Varzaqan and Ahar were extricated from under the debris of collapsed buildings, and local provincial officials asked people in the region to stay outdoors during the night because of the danger of aftershocks. Some residents needed bread, tents and drinking water.
+
+Rescue teams continued searching for survivors through the night, Iranian officials{{specify|date=August 2012}} said they expected the death toll to rise. Between ten and twenty villages close to the epicenter were still cut off from aid and it will take some time to reach them. The Iranian government estimates at least 16,000 people spent the first night after the quakes in emergency shelters.
+
+A day after the quakes, more than 36,000 people had been given emergency shelter, and the Iranian government had dispatched nearly 100 ambulances, 1,100 Red Crescent workers, 44,000 food packages and 5,600 tents. According to Red Crescent officials, more than 1,000 villages were affected by the disaster, and at least 5,000 people were injured. Hospitals in the region's major cities were overcrowded and struggling to cope with the large number of people waiting for treatment.
+
+==Aftershocks==
+Since the main earthquake hit northeast of Tabriz, at least 80 aftershocks have been felt. The strongest measured 6.3 on the moment magnitude scale and occurred eleven minutes after the initial 6.4 quake. A 5.0 quake struck three hours later and, early on August 12, a 5.1 aftershock struck 31&nbsp;km southwest of Ahar.
+
+On August 14, three days after the initial quakes, another 5.1 aftershock struck the same area at a depth of 10&nbsp;km.
+
+==Reaction==
+
+===Domestic===
+File:2012 East Azerbaijan earthquakes. by Mardetanha 1337.JPG|thumb|A relief car of Red Crescent Society of the Islamic Republic of Iran|Iranian Red Crescent
+The East Azerbaijan province governor announced two days of public mourning in the province.{{citation needed|date=August 2012}} Mostafa Mohammad Najjar, Minister of Interior and Marzieh Vahid Dastjerdi, Minister of Health, traveled to Tabriz and Ahar.{{citation needed|date=August 2012}}  The Iranian Red Crescent did not request any international assistance.
+
+Tractor Sazi F.C., who play in Tabriz, had to cancel a friendly match and scheduled training sessions in the aftermath of the disaster.{{citation needed|date=August 2012}}
+
+===International===
+In the first two days after the earthquake, the Iranian Red Crescent said they would not accept outside help. Three days after the earthquake, however, the Iranian government announced it would now accept foreign help.
+
+*{{flagicon|UN}} United Nations Secretary-General of the United Nations|Secretary-General Ban Ki-moon's office issued a press release that read: "He was deeply saddened by the loss of hundreds of lives" and that the UN was ready to lend assistance and mobilize international support. The release said Ban "extends his sincere condolences to the Iranian government and people, particularly the families of those who have been killed or otherwise affected in this disaster."
+
+*{{flagicon|Armenia}} Armenian officials said the relief aid approved by Prime Minister Tigran Sargsyan’s cabinet included tents, blankets, portable beds, sleeping bags, canned food and drinking water.
+*{{flagicon|Azerbaijan}} Azerbaijan sent an aid convoy of 25 trucks carrying 460 tents, 1,000 beds, 3,000 blankets, 20 tons of rice, 40 tons of flour and 58 tons of other food products to Ahar on August 13. President Ilham Aliyev expressed his condolensces with regard to the earthquake. The region was visited by Azerbaijani MP Ganira Pashayeva.
+*{{flagicon|Japan}} The Japanese ambassador to Iran, Kinichi Komano, expressed his government's sympathy with the earthquake victims and announced Japan's readiness to provide humanitarian aid.
+*{{flagicon|Pakistan}} President of Pakistan|Pakistani President Asif Ali Zardari|Asif Zardari and Prime Minister of Pakistan|PM Raja Pervez Ashraf|Raja Ashraf separately expressed condolences. The government of Pakistan dispatched a C-130 loaded with relief goods including tents, flour and milk on August 13.
+*{{flagicon|Russia}} President of Russia|Russian President Vladimir Putin expressed his condolences and offered help.
+*{{flagicon|Syria}} President of Syria|Syrian President Bashar al-Assad sent a cable to Iranian President Mahmoud Ahmadinejad expressing condolences, personally and on behalf of Syrians, to the victims and their families and wishing the wounded quick recoveries.
+*{{flagicon|Taiwan}} Taiwan's government expressed its condolences to the families of victims and offered assistance.
+*{{flagicon|Turkey}} The Turkish Red Crescent sent a truck with emergency supplies to the border. The Turkish Foreign Ministry also said it was ready to help, if the need arises.
+*{{flagicon|UAE}} The government of the United Arab Emirates expressed condolences and offered assistance.
+*{{flagicon|USA}} The White House Press Secretary Jay Carney released the following statement on August 12: "The American {{Sic}} people send the Iranian people our deepest condolences for the loss of life in the tragic earthquake in northwestern Iran. Our thoughts are with the families of those who were lost, and we wish the wounded a speedy recovery. We stand ready to offer assistance in this difficult time."
+*{{flagicon|Vatican City}} Pope Benedict XVI, in his Sunday Angelus at the papal summer residence at Castel Gandolfo, stated: "Dear brothers and sisters, my thoughts are, at this moment...to those of northwestern Iran, struck by a violent earthquake. These events have resulted in many victims and injured, thousands of displaced people and extensive damage. I invite you to join in my prayers for those who have lost their lives, and for all the affected people tried by these devastating disasters. These brothers and sisters need our solidarity and our support.
+
+===Criticism of Iranian government response===
+File:2012 East Azerbaijan earthquakes. by Mardetanha 1326.JPG|thumb|Temporary accommodation tents
+The Iranian government was criticised in regarding to its relief efforts. The decision to stop the search for survivors after 24 hours was based on a government assessment that all survivors had been rescued from the rubble; an unnamed local doctor disputed the likelihood of that assessment based on the remoteness of some villages. A lack of tents for the homeless was also cited by members of the Majlis. The ''IRIB'' was criticised in an editorial in the ''Asr-e Iran'' newspaper for its perceived lack of news coverage of the earthquake. In a Majlis meeting on August 13, 2012, MPs from the affected region questioned President Mahmoud Ahmadinejad for not visiting the area and for not announcing public mourning. That day, Iran then announced two days of public mourning.
+
+==See also==
+*List of earthquakes in Iran
+{{commons category|2012 East Azerbaijan earthquakes}}
+
+==References==
+{{Reflist|colwidth=33em}}
+
+{{Earthquakes in 2012}}
+{{Earthquakes in Iran}}
+
+Category:2012 earthquakes|Azerbaijan earthquakes
+Category:Earthquakes in Iran
+Category:East Azerbaijan Province
+Category:2012 in Iran

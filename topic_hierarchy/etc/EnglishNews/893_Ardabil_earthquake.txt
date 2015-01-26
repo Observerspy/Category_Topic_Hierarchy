@@ -1,0 +1,37 @@
+{{Earthquake
+| title = 893 Ardabil earthquake
+| date = 23 March 893
+|map2 = {{location map+ | Iran
+ |places = 
+{{Location map~|Iran|lat=38.2|long=48.2|mark=Bullseye1.png|marksize=40}}
+{{Location map~|Iran|lat=38.25|long=48.28|label=Ardabil|position=right|mark=Green pog.svg}}
+ | width= 250
+ | float=right
+ | caption=
+ | relief=yes}}
+| magnitude = Unknown
+| countries affected =Iran
+| location = {{coord|38.2|48.2|display=inline,title}}
+| casualties = 150,000 killed (est)
+}}
+Several earthquake catalogues and historical sources describe the '''Ardabil earthquake of 893''' as a destructive earthquake that struck the city of Ardabil (in Iran), on 23 March 893. The magnitude was unknown but the death toll was reported to be very large. The USGS in their 'list of Earthquakes with 50,000 or More Deaths' give an estimate that 150,000 were killed, which would make it the ninth deadliest earthquake in history. 
+
+However, although the Ardabil area is prone to numerous earthquakes and was struck by a 1997 Ardabil earthquake|major earthquake in 1997, the 893 event is considered to be a 'mistaken' earthquake based on misreadings of the original Armenian sources for the 893 Dvin earthquake, due to confusion caused by the Arabic name for Dvin, 'Dabil'.
+
+== "Mistaken" Earthquake ==
+At about midnight on the 28 December 893, the night after a lunar eclipse, Dvin, then the capital of Armenia, was devastated by an earthquake. Most buildings were destroyed and at least 30,000 people died. This event was recorded by contemporary Armenian and Arabic chroniclers, including Abu-al-Faraj Ibn Al-Jawzi|Ibn al-Jawzi. However, the Arabic name for the city is 'Dabil' and this led the 14th-century writer Ibn Kathir to place the earthquake in Ardabil in Azerbaijan and this was also quoted by al-Suyuti in the 15th-century. Further writers also placed the earthquake in Ardabil and added extra details, such as the drying up of waters, while changing others, such as making the preceding eclipse solar. It is clear, however, that all these reports are descriptions of the 893 Dvin event.
+
+== See also ==
+*List of natural disasters by death toll#Earthquakes|List of deadliest earthquakes
+
+==References==
+{{Reflist}}
+
+{{Earthquakes in Iran}}
+
+Category:Earthquakes in Iran|0893 Ardabil
+Category:9th-century earthquakes
+Category:893 in Asia
+Category:History of Ardabil
+Category:History of Ardabil Province
+Category:9th century in Iran

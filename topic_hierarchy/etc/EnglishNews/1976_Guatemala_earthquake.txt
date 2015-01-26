@@ -1,0 +1,163 @@
+{{Infobox earthquake
+| title = 1976 Guatemala earthquake
+| date = {{start-date|February 3, 1976|February 4, 1976}}
+| origintime = 09:01:43 UTC-6
+| image = GuateQuake1976Patzicia.jpg
+| image alt =
+| map2 = {{Location map | Guatemala
+| relief = yes
+| label = 
+| lat = 15.32
+| long = -89.10
+| mark = Bullseye1.png
+| marksize = 40
+| position = bottom
+| width = 250
+| float = right
+| caption = }} 
+| map_alt =
+| magnitude = 7.5 Moment magnitude scale|M<sub>w</sub>
+| depth = {{convert|5|km|mi|0}}
+| location = {{coord|15.32|N|89.10|W}}
+| countries affected = {{GUA}}
+| intensity = Mercalli intensity scale|MM IX (''Violent'') 
+| tsunami =
+| casualties = 23,000 fatalities, 76,000 injured
+}}
+
+The '''1976 Guatemala earthquake''' struck on February 4, 1976 at 03:01:43 local time (09:01:43 UTC-6). It was a 7.5 Moment magnitude scale|M<sub>w</sub> earthquake, centered in the Motagua Fault, about 160&nbsp;km northeast of Guatemala City, Guatemala. The quake's hypocenter was located at a depth of 5&nbsp;km near the town of Los Amates in the department of Izabal Department|Izabal.
+
+Cities throughout the country suffered damage, and most adobe type houses in the outlying areas of Guatemala City were completely destroyed. The earthquake struck during the early morning (at 3:01 am, local time) when most people were asleep. This contributed to the high death toll of 23,000. Approximately 76,000 were injured, and many thousands left homeless. Some of areas went without electricity and communications for days.
+
+The main shock was followed by thousands of aftershocks, some of the larger ones causing additional damage and loss of life.
+
+== Seismic data ==
+{{see also|List of earthquakes in Guatemala}}
+
+The quake's epicentre was located near the town of Los Amates, in the eastern part of the Motagua Fault, a left-lateral strike-slip fault that forms the tectonic boundary between the North American plate and the Caribbean plate.
+
+Maximum seismic intensity (Mercalli intensity scale|MM IX) was located in the Mixco area, some sections of Guatemala City and in Gualán. A seismic intensity of MM VI covered an area of 33,000&nbsp;km?.  Earthquake liquefaction|Liquefaction and sand boils were observed in several locations with high seismic intensity. The main quake activated secondary fault zones, including the Mixco fault, located in a densely populated area just north-west of Guatemala City.
+
+== Victims and damage ==
+The most heavily affected area covered some 30,000&nbsp;km?, with a population of 2.5 million. Some 23,000 people were reported dead and 77,000 wounded. Approximately 258,000 houses were destroyed, leaving about 1.2 million people homeless. 40% of the national hospital infrastructure was destroyed, while other health facilities also suffered substantial damage.
+
+== International reaction ==
+
+Very soon after the earthquake, the then president Kjell Eugenio Laugerud García invited most of the foreign ambassadors to tour the affected regions by helicopter, which prompted them to quickly ask for help in their home countries. For example, the United States of America rebuilt most of the roads, and the Canadians and Belgians each rebuilt a village.{{Citation needed|date=April 2011}}
+
+== Aftershocks ==
+Several heavy aftershocks, ranging from 5.2 to 5.8 M<sub>w</sub> caused additional casualties and hampered relief efforts.
+
+<div style="font-size:0.9em;">
+{|
+|-
+|'''Date'''
+|'''Origin Time'''
+|'''Coordinates'''
+|'''Location'''
+|'''Depth'''
+|'''Magnitude'''
+|-
+|Feb. 04 1976
+|09.30.28.3
+|{{coord|14.7|N|90.6|W||}}
+|7&nbsp;km NNE of Mixco
+|5&nbsp;km
+|5.8 M<sub>w</sub>
+|-
+|Feb. 06 1976
+|04.11.03.3
+|{{coord|14.6|N|91.1|W||}}
+| 6&nbsp;km SSE of San Lucas Tolimán
+|5&nbsp;km
+|4.8 M<sub>w</sub>
+|-
+|Feb. 06 1976
+|18.11.59.2
+|{{coord|14.3|N|90.2|W||}}
+|11&nbsp;km ENE of Cuilapa
+|5&nbsp;km
+|5.2 M<sub>w</sub>
+|-
+|Feb. 06 1976
+|18.19.17.7
+|{{coord|14.7|N|90.6|W||}}
+|5&nbsp;km ENE of San Pedro Sacatepéquez, Guatemala|San Pedro Sacatepéquez
+|5&nbsp;km
+|5.8 M<sub>w</sub>
+|-
+|Feb. 08 1976
+|08.13.51.9
+|{{coord|15.7|N|88.5|W||}}
+| 13&nbsp;km SE of Puerto Barrios
+|5&nbsp;km
+|5.7 M<sub>w</sub>
+|-
+|Feb. 09 1976
+|11.44.46.7
+|{{coord|15.3|N|89.1|W||}}
+| 30&nbsp;km WSW of Morales, Guatemala|Morales
+|5&nbsp;km
+|5.1 M<sub>w</sub>
+|-
+|Feb. 10 1976
+|06.17.43.0
+|{{coord|15.0|N|89.7|W||}}
+| 18&nbsp;km WNW of Zacapa
+|5&nbsp;km
+|4.7 M<sub>w</sub>
+|-
+|Mar. 07 1976
+|02.54.05.4
+|{{coord|14.9|N|90.9|W||}}
+| 14.5&nbsp;km SW of Joyabaj
+|5&nbsp;km
+|4.8 M<sub>w</sub>
+|-
+|Mar. 07 1976
+|03.15.40.3
+|{{coord|14.7|N|90.5|W||}}
+|Chinautla (9&nbsp;km North of Guatemala City)
+|5&nbsp;km
+|4.9 M<sub>w</sub>
+|}</div>
+<div style="font-size:0.9em;">Source: Wayerly Person, William Spence, and James W. Dewey. Main event and principal aftershocks from teleseismic data. In: Guatemalan Earthquake of February 4, 1976, A Preliminary Report.</div>
+
+== Image gallery ==
+<gallery  widths="150px" heights="100px" perrow="3" align=center Caption="1976 Guatemala earthquake">
+Image:GuateQuake1976BentRailsA.jpg|''Bent rails in Gualán''
+Image:GuateQuake1976HotelTerminalA.jpg|''Hotel Terminal''
+Image:GuateQuake1976CiudadFoundationFailures.jpg|''Landslide in Guatemala City''
+Image:Guatemala1976Earthquake14ct.jpg|''Motagua Fault in Gualán''
+Image:GuateQuake1976Patzicia.jpg|''Patzicía completely destroyed''
+Image:GuateQuake1976Ciudad50.jpg|''Guatemala City centre''
+</gallery>
+
+==Notes==
+{{reflist}}
+
+== References ==
+{{refbegin}}
+* {{cite web |last=Bates |first=F.L. |authorlink= |author2=Killian, C.D., Daniel G.R., & Klein, R.E. |title=Emergency Food Programmes following the 1976 Guatemalan Earthquake: An Evaluation: Final Report |pages= |publisher=USAID |location=Washington |year=1979 |url=http://pdf.usaid.gov/pdf_docs/PNAAQ014.pdf |doi= |id= |accessdate= }}
+* {{cite journal |last =Bucknam |first =R.C. |authorlink = |author2=George Plafker and R.V. Sharp |title=Fault movement (afterslip) following the Guatemala earthquake of February 4, 1976 | journal=Geology |volume=6 |issue=3 |pages=170–173 |publisher= |date=March 1978 |url= http://geology.gsapubs.org/content/6/3/170.abstract |doi=10.1130/0091-7613(1978)6<170:FMAFTG>2.0.CO;2  | id = | accessdate = |year =1978  }}
+* {{cite journal |last=Langer |first=C.V. |authorlink= |author2=G.A. Bollinger |title=Secondary faulting near the terminus of a seismogenic strike-slip fault: aftershocks of the 1976 Guatemala earthquake |journal=Bulletin of the Seismological Society of America |volume=69 |issue=2 |pages=427–444 |publisher= |date= |url= |doi= |id= |accessdate= }}
+* {{cite journal |last=Matumoto |first=Tosimatu |authorlink= |author2=Latham, Gary V. |title=Aftershocks of the Guatemalan earthquake of February 4, 1976 |journal=Geophysical Research Letters |volume=3 |issue=10 |pages=599–602 |publisher= |date= |url= |doi= 10.1029/GL003i010p00599|id= |accessdate= |bibcode=1976GeoRL...3..599M}}
+* {{cite web |last=Olcese |first=Orlando |authorlink= |author2=Ramón Moreno and Francisco Ibarra |title=The Guatemala Earthquake Disaster of 1976: A Review of its Effects and of the contribution of the United Nations family |work= |publisher=UNDP, Guatemala |date=July 1977 |url=http://cidbimena.desastres.hn/docum/crid/Septiembre-Octubre2005/CD-1/pdf/eng/doc4146/doc4146.htm |format=PDF |doi= |accessdate= }}
+* {{cite journal |last=Olson |first=Robert A. |authorlink= |author2=Richard Stuart Olson |title=The Guatemala earthquake of 4 February 1976: Social science observations and research suggestions |journal=Mass Emergencies |volume= |issue=2 |pages=69–81 |publisher= |year=1977 |url=http://www.massemergencies.org/v2n2/Olson_v2n2.pdf |doi= |id= |accessdate= }}
+* {{cite journal |last=Plafker |first=G. |authorlink= |author2= |title=Tectonic aspects of the Guatemala earthquake of 4 February 1976 |journal=Science |volume=193 |issue=4259 |pages=1201–1208 |publisher= |year=1976 |url= |doi= 10.1126/science.193.4259.1201|id= |accessdate= |pmid=17837005 |bibcode = 1976Sci...193.1201P }}
+* {{cite journal |last=Plafker |first=G. |authorlink= |author2=M.G. Bonilla, and S.B. Bonis |title=Geologic effects in the Guatemala Earthquake of February 4, 1976, a preliminary Report. Professional Paper 1002  |pages=38–51 |publisher=USGS |location=Washington |year=1976 |url= |doi= |accessdate= }}
+* {{cite journal |author=USGS |authorlink= |author2=  |title=Guatemalan Quake Culprit Fault Identified |journal=Earthquake Information Bulletin |volume=8 |issue=3 |pages= |publisher=USGS |date=May–June 1976 |url= |doi= |id= |accessdate= }}
+* {{cite journal |last=Young |first=Christopher J. |authorlink= |author2=Thorne Lay and Christopher S. Lynnes |title=Rupture of the 4 February 1976 Guatemalan earthquake |journal=Bulletin of the Seismological Society of America |volume=79 |issue=3 |pages=670–689 |publisher= |date=June 1989 |url= |doi= |id= |accessdate= }}
+{{refend}}
+
+== External links ==
+{{Commons category|1976 Guatemala earthquake}}
+*http://libraryphoto.cr.usgs.gov/cgi-bin/show_picture.cgi?ID=ID.%20GUATEMALA%20EARTHQUAKE%2052ct USGS Map
+*http://earthquake1976.tripod.com/earthquake1976.htm Guatemala Earthquake 1976 - photos and personal accounts
+
+{{Guatemala topics}}
+
+Category:1976 earthquakes|Guatemala Earthquake, 1976
+Category:1976 in Guatemala|Earth
+Category:Earthquakes in Guatemala|1976 Guatemala
+Category:History of Guatemala

@@ -1,0 +1,55 @@
+{{Infobox earthquake
+| title              = 1915 Avezzano earthquake
+| date               = {{Start-date|13 January 1915}}
+| origintime         = 6:52 UTC 
+| image              = Avezzano Earthquake Ruins.jpg
+| imagecaption       = Ruins of Via Napoli in Avezzano
+| map2 = {{Location map | Italy|relief=1
+ | label =
+ | lat = 42.0
+ | long = 13.7
+ | mark = Bullseye1.png
+ | marksize = 40
+ | position = top
+ | width = 250
+ | float = right
+ | caption = }}
+| magnitude          = 7.0 
+| depth              =
+| location           = {{coord|42|13.7|display=inline,title}} 
+| countries affected = {{ITA}}
+| tsunami            = 
+| casualties         = 32,610 
+}}
+
+The '''1915 Avezzano earthquake''' or '''1915 L'Aquila earthquake''' occurred on January 13 in central Italy, near the city of L'Aquila. The epicenter was located in the town of Avezzano in central Italy. More than 30,000 direct fatalities resulted from the earthquake, destroying the epicentral area.
+
+== History ==
+{{main|List of earthquakes in Italy}}
+
+Central and southern Italy in particular have been earthquake zones for over 300 years, with the deadliest earthquake dating back to at least 1693. Powerful shocks in 1693, 1783, and 1908 as well as 1915 have killed over 30,000 people each.
+
+== Damage and casualties ==
+Image:Ruins of Castle Orsini 1915.jpg|thumb|Ruins of Castle Orsini, Avezzano
+
+The earthquake took place at around 8:00 local time affecting thousands of people throughout central and southern Italy; the shaking was even felt in Rome. 96 percent of its population was eliminated almost simultaneously, the worst casualty zone. Several other settlements were demolished in the worst of the earthquake. This damage was attributed to the length of the shock, over 1 minute, and the enormous amount of power released during the tremor. Compound motion of the fault was also a likely contributor to the earthquake's destruction. The structure of the housing also contributed to the collapse; many homes had been built from simple rocks of varying size and were not reinforced by mortar or even wood.
+
+Damage of the earthquake was distributed throughout central and southern Italy. Basilica of St. John Lateran|St John's Lateran reported one fallen statue in addition to cracks in the Column of Marcus Aurelius; Rome experienced other minor damages. In fact, damage from the earthquake was diverse; either the location was destroyed or experienced little to no damage.
+
+Survivors were pulled out slowly from the ruins of earthquake-stricken zones. One man survived in a barn for a period of 25 days living solely off of grains and water. After a short time the searchers ran out of space to dispose of the debris as it was too overwhelming in mass, forcing the workers to give up. As E.V. Robinson later described, the remaining "work of excavation seemed to go on in an unsystematic and half hearted way".
+
+== Response and relief efforts ==
+Initial reports did not mention serious damage, and not until later that night did the scale of the devastation become clear. The government in Rome assumed local authorities had delayed reporting the facts, and it was rumored that they even tried to remove one mayor from office. However, when trying to serve him notice it became clear that he, together with most of his towns people, had died in the earthquake. Because of World War I the government decided not to accept foreign assistance and a national rescue and relief effort was promptly started. 
+
+== References ==
+{{reflist|refs=
+
+}}
+
+== Sources ==
+*{{cite journal|author=Robinson, E.V. |title=A Visit to the Avezzano Earthquake Zone|journal=Journal of Geography|volume=XIII|issue=9 |date=May 1915}}
+
+Category:1915 earthquakes|Avezzano
+Category:1915 in Italy|Avezzano
+Category:Earthquakes in Italy|1915 Avezzano
+Category:History of Abruzzo

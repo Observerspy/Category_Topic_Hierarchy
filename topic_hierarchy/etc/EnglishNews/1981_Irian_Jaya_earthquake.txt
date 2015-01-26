@@ -1,0 +1,45 @@
+{{Earthquake
+|title= 1981 Irian Jaya earthquake
+|date= {{Start-date|January 19, 1981}}
+|map2 = {{Location map | Indonesia Papua
+ | label=
+ | lat=-4.58
+ | long=139.23
+ | mark=Bullseye1.png
+ | marksize=40
+ | position=top
+ | width= 250
+ | float=right
+ | caption=}}
+|magnitude = 6.8 Richter scale|M<sub>L</sub>
+|depth=
+|location={{coord|-4.58|139.23|display=inline,title}}
+|countries affected = Irian Jaya, Indonesia
+|casualties = >305
+}}
+On January 19, 1981, eastern Indonesia was struck by an earthquake known as the '''1981 Irian Jaya earthquake'''. Registering a Richter scale|magnitude of 6.8 on the Richter scale, it killed more than 300 people, damaging structures and buildings across the Irian Jaya province.
+
+Indonesia is highly active in terms of seismicity and volcanic eruptions, with a subduction zone and many faults. It is neighbored by several tectonic plates. Such earthquakes pose a significant threat to life in the area through earthquakes and also tsunamis.
+
+== Geology ==
+Indonesia, one of the most seismically active places in the world, hosts hundreds of islands, many with volcanoes. It is an island arc, composed by a subduction zone (in the Sunda Trench) and islands. Unlike most subduction zones, the Sunda Trench is parallel to the chain of islands to which it corresponds, creating Fault (geology)|strike-slip faulting. Indonesia itself is surrounded by multiple tectonic plates - namely the Pacific Plate|Pacific, the Southeast Asia lithospheric, and the Indo-Australian Plates - causing it to be a so-called hotspot for both seismic and volcanic activity.
+
+The epicenter was in Papua Province, in the Irian Jaya Province. The orientation and type of faulting is uncertain, due to a poorly constrained focal mechanism but is thought to have been a Fault (geology)#Dip-slip faults|reverse fault.
+
+== Damage and casualties ==
+Spawning enormous landslides, the earthquake left at least 305 people dead and more than 1,000 missing. Entire villages were covered by debris. It was described as "strong" by ''The New York Times''.
+
+The earthquake caused huge landslides, which cascaded into the villages below the mountains, destroying more than 150 homes. The debris from these flows blocked transportation by road, "cutting off more than 2,000 area residents". Relief efforts took several days.
+
+== Future threats ==
+Indonesia is known for deadly earthquakes, primarily the 2004 Indian Ocean earthquake, which killed more than 250,000 people. Earthquakes along the Sunda Trench|subduction zone at Sunda and on the Great Sumatran fault pose a serious threat to life, especially in the form of tsunamis. A 2005 study found that stress on at least these two zones was at a heightened level, and both have been active. The Sunda Trench zone has since produced the July 2006 Java earthquake, while the Great Sumatran fault has not produced an earthquake since the 2004 event.
+
+== References ==
+{{reflist}}
+
+{{Earthquakes in 1981}}
+
+Category:1981 earthquakes|Irian Jaya Earthquake, 1981
+Category:Earthquakes in Indonesia
+Category:1981 in Indonesia|Irian Jaya Earthquake, 1981
+Category:1981 in science|Irian Jaya Earthquake, 1981

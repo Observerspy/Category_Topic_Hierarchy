@@ -1,0 +1,60 @@
+{{Infobox earthquake
+|title              = 2011 Zumpango earthquake
+|image              = 
+|image alt          = 
+|imagecaption       =
+|map                = USGS Shakemap 2011 Guerrero Mexico Earthquake.jpg
+|map alt            = 
+| image name        = <small>USGS shake map for the Zumpango earthquake</small>
+| map2              = 
+| places            =
+|mapsize            = 
+|date               = 19:47:26, 10 December 2011 (-06:00)
+|origintime         =
+|duration           = ~42 seconds
+|magnitude          = 6.5 Moment magnitude scale|M<sub>w</sub>
+|depth              = 64.9 km (40.3 miles)
+|location           = {{Coord|18.038|N|99.796|W|display=inline,title}}
+|type               = trepidatory
+|countries affected = Mexico
+|damage             = Minimal
+|intensity          = VII (hard) Mercalli
+|PGA                = 
+|tsunami            = None 
+|landslide          = 
+|foreshocks         =
+|aftershocks        = 9
+|casualties         = 3 dead, 10 injured 
+}}
+
+The '''2011 Zumpango earthquake''' was a Moment magnitude scale|magnitude 6.5&nbsp;M<sub>w</sub> earthquake that affected several major cities in southern Mexico at 19:47&nbsp;local time on Saturday, 10&nbsp;December 2011 (01:47&nbsp;Coordinated Universal Time|UTC on 11&nbsp;December). roughly equidistant between the metropolitan areas of Mexico City and Acapulco. The quake was felt in Guerrero, Michoacán, Mexico State, Mexico City and Puebla.
+
+Multiple deaths and injuries resulted from the earthquake, although the effects were minimized because the hypocenter was relatively deep at 65 kilometers. The resulting damage was minimal, but during the panic people evacuated buildings in Mexico City.
+
+==Impact==
+In Mexico City, a little more than 100 miles from the epicenter, and disrupting cell phone service in the capital. In Acapulco, 87 miles from the epicenter, no injuries or damage were reported. 
+
+It was reported by Mexico City's mayor, Marcelo Ebrard, that normal operations were continuing at Mexico City International Airport.
+
+==Casualties==
+Several injuries and one death was reported after rocks were dislodged from a hill and tumbled onto the Autopista del Sol (Highway of the Sun) and into a truck.
+
+==Aftermath==
+An early report from the United States Geological Survey had the magnitude at 6.7 but it was later lowered to 6.5. Seven of the aftershocks were close to the epicenter and two more were in the state of Chiapas.
+
+Although the event occurred in the coastal state of Guerrero, no tsunami warning was given for the earthquake. The National Oceanic and Atmospheric Administration stated that based on the location, magnitude, and historical tsunami records, no advisory or warning would be necessary for the west coast of the United States, British Columbia, or Alaska.
+
+== See also ==
+*1985 Mexico City earthquake
+*List of earthquakes in Mexico
+*Geology of Mexico#Seismic activity|Seismicity in Mexico
+
+== References ==
+{{reflist}}
+
+{{earthquakes in 2011}}
+{{Earthquakes in Mexico}}
+
+Category:Earthquakes in Mexico
+Category:2011 in Mexico
+Category:2011 earthquakes

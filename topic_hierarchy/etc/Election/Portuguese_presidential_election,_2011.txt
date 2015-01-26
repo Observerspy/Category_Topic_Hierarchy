@@ -1,0 +1,676 @@
+{{Infobox Election
+| election_name = Portuguese presidential election, 2011
+| country = Portugal
+| type = presidential
+| ongoing = no
+| previous_election = Portuguese presidential election, 2006
+| previous_year = 2006
+| next_election = Portuguese presidential election, 2016
+| next_year = 2016
+| election_date = 23 January 2011
+| image1 = [[File:Cavaco Silva 2007 quadrada.jpg|129px]]
+| candidate1 = [[Aníbal Cavaco Silva]]
+| party1 = Social Democratic Party (Portugal)
+| popular_vote1 = 2,231,956
+| percentage1 = 53.0%
+| image2 =   [[File:Manuel Alegre.jpg|136px]]
+| candidate2 = [[Manuel Alegre]]
+| party2 = Socialist Party (Portugal)
+| popular_vote2 = 831,838
+| percentage2 = 19.7%
+| image3 = [[File:Fernando Nobre 02 square.jpg|129px]]
+| candidate3 = [[Fernando Nobre]]
+| party3 = Independent (politician)
+| popular_vote3 = 593,021
+| percentage3 = 14.1%
+| title = [[President of Portugal|President]]
+| posttitle = President-elect
+| before_election = [[Aníbal Cavaco Silva|Cavaco Silva]]
+| before_party = Social Democratic Party (Portugal)
+| after_election = [[Aníbal Cavaco Silva|Cavaco Silva]]
+| after_party = Social Democratic Party (Portugal)
+}}
+{{Politics of Portugal}}
+The '''2011 Portuguese presidential election''' was held on 23 January 2011. This election resulted in the re-election of [[Aníbal Cavaco Silva]] to a second term as President of Portugal. Turnout in this election was very low, where only '''46.52%''' of the electorate cast their ballots. Cavaco Silva won by a landslide winning all 18 districts, both Autonomous regions of [[Azores]] and [[Madeira]] and 292 [[Municipalities of Portugal|municipalities]] of a total of 308.
+
+==Procedure==
+Any [[Portuguese nationality law|Portuguese citizen]] over 35 years old has the opportunity to run for president. In order to do so it is necessary to gather between 7500 and 15000 signatures and submit them to the [[Portuguese Constitutional Court]].
+
+According to the [[Constitution of Portugal|Portuguese Constitution]], to be elected, a candidate needs a majority (50% + 1). If no candidate gets this majority there will take place a second round between the two most voted candidates.
+
+==Political context==
+During the [[Portuguese presidential election, 2006|2006 presidential elections]], former Prime Minister Aníbal Cavaco Silva, the only candidate of the center-right had won the ballot in the first round with 50.5% of the votes cast. He had faced two particular candidates from the ruling [[Socialist Party (Portugal)|Socialist Party]], the official candidate [[Mário Soares]], former President of the Republic came in third with 14.3%, Manuel Alegre, a dissident, ranked second with 20.7% of votes . This historic victory of a conservative candidate, the first after the Carnation Revolution, inaugurated a period of "political cohabitation" with Socialist Prime Minister [[José Sócrates]].
+
+The [[Portuguese legislative election, 2009|general elections]] of September 2009 confirmed this situation, and brought the PS once again to power, however depriving him of his absolute majority. The situation of economic and financial crisis that the country lives led to the adoption of an austerity plan and budget for more frequent intervention of the Head of State in politics to promote agreement among political parties in the country.
+
+==Candidates==
+{{Refimprove|date=January 2011}}
+
+=== Official candidates ===
+*[[Aníbal Cavaco Silva]]: President since 2006 and eligible for a second term. Supported by: <br>[[Social Democratic Party (Portugal)|Social Democratic Party]],<br> [[Democratic and Social Centre – People's Party|People's Party]],<br>[[Hope for Portugal Movement]]
+*[[Manuel Alegre]]: Former member of the [[Assembly of the Republic (Portugal)|Assembly of the Republic]]. Supported by:<br>[[Socialist Party (Portugal)|Socialist Party]],<br>[[Left Bloc]],<br>[[Portuguese Workers' Communist Party]],
+*[[Fernando Nobre]]: Independent.
+*[[Defensor de Moura]]: Member of the [[Socialist Party (Portugal)|Socialist Party]], running as an independent.
+*[[Francisco Lopes]]: Supported by:<br/>[[Portuguese Communist Party]],<br>[[Ecologist Party "The Greens"]]
+*[[José Manuel Coelho]]: Independent, supported by the [[New Democracy Party (Portugal)|New Democracy Party]].
+
+=== Unsuccessful candidacies ===
+*[[Luís Botelho Ribeiro]]: Leader of the [[Pro-life Party (Portugal)|Pro-life Party]]. His application was formalised on Monday, 20 December, with over 8,000 signatures. His candidacy was analysed by the Constitutional Court. On 29 December, the court concluded that his candidady did not meet the requirements provided by law.
+*[[José Ribeiro e Castro]]: Member of the [[Democratic and Social Centre – People´s Party]], especulated to run as an alternative right-wing candidate, because of Cavaco's decision to approve same-sex marriage. However, he did not go forward with his candidacy.
+*[[José Pinto Coelho]]: Leader of the far-right [[National Renovator Party]]. He declared that his candidacy for the presidency "was been cut short" by failing to gather the 7,500 signatures required. He claimed to have gathered 5,878 signatures.
+
+==Opinion polling==
+
+{| class="wikitable" style="text-align:center;font-size:87%;line-height:16px;"
+|- bgcolor=lightgray
+! rowspan=3 width=200px | Date released
+! rowspan=3 width=200px | Poll source
+! width=75px | [[File:Cavaco Silva 2007 quadrada.jpg|60x90px]]
+! width=75px | [[File:Manuel Alegre.jpg|60x90px]]
+! width=75px | [[File:Fernando Nobre 02 square.jpg|60x90px]]
+! width=75px | [[File:Defensor Moura square.jpg|60x90px]]
+! width=75px | [[File:Francisco lopes.png|60x90px]]
+! width=75px | [[File:José Manuel Coelho-square.jpg|60x90px]]
+! rowspan=3 width=80px | Others/<br/>Undecided
+! rowspan=3 width=120px | Lead
+|-
+| bgcolor=#FF9900 |
+| bgcolor=#FF66FF |
+| bgcolor=gray |
+| bgcolor=gray |
+| bgcolor=red |
+| bgcolor=#1F468B |
+|-
+! [[Cavaco Silva]]<br/><small>[[Social Democratic Party (Portugal)|PSD]] – [[President of Portugal|Inc.]]</small>
+! [[Manuel Alegre|Alegre]]<br/><small>[[Socialist Party (Portugal)|PS]]</small>
+! [[Fernando Nobre|Nobre]]<br/><small>[[Independent (politician)|Ind.]]</small>
+! [[Defensor Moura|Moura]]<br/><small>[[Independent (politician)|Ind.]]</small>
+! [[Francisco Lopes|Lopes]]<br/><small>[[Democratic Unitarian Coalition|CDU]]</small>
+! [[José Manuel Coelho|Coelho]]<br/><small>[[New Democracy Party (Portugal)|PND]]</small>
+|- style="background:#EFEFEF; font-weight:bold;"
+| 23 January 2011
+| [http://www.presidenciais.mj.pt/resultados-globais.html Election Results]
+| 53.0
+| 19.7
+| 14.1
+| 1.6
+| 7.1
+| 4.5
+| <center>&mdash;</center>
+| style="background:#FF9900; color:white" | 33.3 <small>over Alegre</small>
+|-
+| 23 January 2011 <small>(20:00)</small>
+| [http://www0.rtp.pt/noticias/?t=Cavaco-Silva-vence-a-primeira-volta-com-52-a-58-por-cento.rtp&article=409568&layout=10&visual=3&tm=83 Exit Poll - RTP1<br><small>Universidade Católica</small>]
+| 52.0 – 58.0
+| 18.0 – 21.0
+| 13.5 – 16.5
+| 1.0 – 2.0
+| 5.0 – 8.0
+| 2.0 – 4.0
+| <center>&mdash;</center>
+| style="background:#FF9900; color:white" | 34.0 – 37.0 <small>over Alegre</small>
+|-
+| 23 January 2011 <small>(20:00)</small>
+| [http://sic.sapo.pt/online/noticias/pais/especiais/presidenciais2011/sondagem-presidenciais-boca-urnas Exit Poll - SIC<br><small>Eurosondagem</small>]
+| 51.6 – 56.0
+| 17.1 – 20.9
+| 13.1 – 16.3
+| 1.1 – 2.1
+| 6.3 – 7.5
+| 3.3 – 4.5
+| <center>&mdash;</center>
+| style="background:#FF9900; color:white" | 34.5 – 35.1 <small>over Alegre</small>
+|-
+| 23 January 2011 <small>(20:00)</small>
+| [http://www.tvi24.iol.pt/politica/tvi24-cavaco-pr-2011-projeccoes-intercampus-presidenciais/1228004-4072.html  Exit Poll - TVI<br><small>INTERCAMPUS</small>]
+| 51.4 – 55.4
+| 17.2 – 21.2
+| 12.4 – 16.4
+| 0.7 – 2.7
+| 5.8 – 8.8
+| 3.1 – 5.1
+| <center>&mdash;</center>
+| style="background:#FF9900; color:white" | 34.2 <small>over Alegre</small>
+|-
+|colspan="10" style="background:#D0D0D0; color:black" | Exit polls
+|-
+| 21 January 2011
+| [http://downloads.sol.pt/pdf/primeira/sol_229.pdf Sol (average)]
+| 58.0
+| 22.0
+| 11.0
+| 2.0
+| 5.0
+| 2.0
+| <center>&mdash;</center>
+| style="background:#FF9900; color:white" | 36.0 <small>over Alegre</small>
+|-
+| 21 January 2011
+| [http://www.jn.pt/eleicoes/presidenciais2011/Interior.aspx?content_id=1762575 Universidade Católica]
+| 59.0
+| 22.0
+| 10.0
+| 1.0
+| 6.0
+| 2.0
+| <center>&mdash;</center>
+| style="background:#FF9900; color:white" | 37.0 <small>over Alegre</small>
+|-
+| 21 January 2011
+| [http://aeiou.expresso.pt/cavaco-a-primeira=f627222 Eurosondagem]
+| 56.3
+| 25.0
+| 10.1
+| 2.0
+| 5.2
+| 1.4
+| <center>&mdash;</center>
+| style="background:#FF9900; color:white" | 31.3 <small>over Alegre</small>
+|-
+| 21 January 2011
+| [http://www.erc.pt/download.php?info=YTozOntzOjU6ImFjY2FvIjtzOjg6ImRvd25sb2FkIjtzOjg6ImZpY2hlaXJvIjtzOjQxOiJtZWRpYS9zb25kYWdlbnMvb2JqZWN0b19vZmZsaW5lLzEzOC4yLnBkZiI7czo2OiJ0aXR1bG8iO3M6MTA6IlJlc3VsdGFkb3MiO30= Aximage]
+| 54.7
+| 25.6
+| 10.7
+| 1.8
+| 6.3
+| 0.9
+| <center>&mdash;</center>
+| style="background:#FF9900; color:white" | 29.1 <small>over Alegre</small>
+|-
+| 20 January 2011
+| [http://www.tvi24.iol.pt/politica/sondagem-intercampus-presidenciais-tvi24/1227426-4072.html INTERCAMPUS]
+| 54.6
+| 22.8
+| 9.1
+| 2.6
+| 8.2
+| 2.7
+| <center>&mdash;</center>
+| style="background:#FF9900; color:white" | 31.8 <small>over Alegre</small>
+|-
+| 19 January 2011
+| [http://www.tsf.pt/Eleicoes/Presidenciais2011/Interior.aspx?content_id=1760629 Marktest]
+| 61.5
+| 15.0
+| 12.7
+| 1.2
+| 3.3
+| 2.1
+| 4.2
+| style="background:#FF9900; color:white" | 46.5 <small>over Alegre</small>
+|-
+| 8 January 2011
+| [http://www.erc.pt/documentos/Sondagens/2011002/Resultados.pdf Aximage]
+| 57.1
+| 20.8
+| 8.7
+| 3.1
+| 2.0
+| 0.5
+| 7.8
+| style="background:#FF9900; color:white" | 36.3 <small>over Alegre</small>
+|-
+| 7 January 2011
+| [http://www.tvi24.iol.pt/politica/sondagem-presidenciais-cavaco-silva-manuel-alegre-tvi24/1224198-4072.html INTERCAMPUS]
+| 60.1
+| 25.3
+| 4.2
+| 2.5
+| 6.3
+| 1.6
+| <center>&mdash;</center>
+| style="background:#FF9900; color:white" | 34.8 <small>over Alegre</small>
+|-
+| 23 December 2010
+| [http://sic.sapo.pt/online/noticias/pais/Cavaco+Silva+reeleito+na+primeira+volta+das+Presidenciais.htm Eurosondagem]
+| 60.0
+| 30.0
+| 4.8
+| 0.7
+| 4.5
+| <center>&mdash;</center>
+| <center>&mdash;</center>
+| style="background:#FF9900; color:white" | 30.0 <small>over Alegre</small>
+|-
+| 19 December 2010
+| [http://www.tvi24.iol.pt/politica/cavaco-cavaco-silva-presidente-presidenciais-sondagem-tvi24/1219680-4072.html INTERCAMPUS]
+| 64.3
+| 20.7
+| 5.5
+| 1.0
+| 4.5
+| <center>&mdash;</center>
+| <center>&mdash;</center>
+| style="background:#FF9900; color:white" | 43.6 <small>over Alegre</small>
+|-
+| 27 November 2010
+| [http://sic.sapo.pt/online/noticias/pais/eurosondagem+da+vitoria+a+cavaco+silva+na+primeira+volta.htm Eurosondagem]
+| 57.0
+| 32.0
+| 5.2
+| 1.0
+| 4.8
+| <center>&mdash;</center>
+| <center>&mdash;</center>
+| style="background:#FF9900; color:white" | 25.0 <small>over Alegre</small>
+|-
+| 26 November 2010
+| [http://tsf.sapo.pt/PaginaInicial/Portugal/Interior.aspx?content_id=1720714 Marktest]
+| 78.3
+| 15.0
+| 4.0
+| 0.0
+| 0.7
+| <center>&mdash;</center>
+| <center>&mdash;</center>
+| style="background:#FF9900; color:white" | 63.3 <small>over Alegre</small>
+|-
+| 21 November 2010
+| [http://www.tvi24.iol.pt/politica/presidenciais-tvi-sondagem-ultimas-cavaco-silva/1211086-4072.html INTERCAMPUS]
+| 61.5
+| 26.1
+| 4.5
+| 0.5
+| 3.7
+| <center>&mdash;</center>
+| 3.7
+| style="background:#FF9900; color:white" | 35.4 <small>over Alegre</small>
+|-
+| 29 October 2010
+| [http://economico.sapo.pt/noticias/cavaco-arrasa-alegre-nas-intencoes-de-voto_102960.html Marktest]
+| 71.3
+| 20.2
+| 5.0
+| 0.9
+| 1.1
+| <center>&mdash;</center>
+| <center>&mdash;</center>
+| style="background:#FF9900; color:white" | 51.1 <small>over Alegre</small>
+|-
+| 29 October 2010
+| [http://dn.sapo.pt/inicio/portugal/interior.aspx?content_id=1697647 Universidade Católica]
+| 63.0
+| 20.0
+| 7.0
+| 1.0
+| 3.0
+| <center>&mdash;</center>
+| <center>&mdash;</center>
+| style="background:#FF9900; color:white" | 43.0 <small>over Alegre</small>
+|-
+| 13 October 2010
+| [http://www.cmjornal.xl.pt/noticia.aspx?contentid=74A35D7B-A690-4BCD-8742-2EE7ABBD1AED&channelid=00000090-0000-0000-0000-000000000090 Aximage]
+| 55.1
+| 35.7
+| 7.1
+| 0.2
+| 1.9
+| <center>&mdash;</center>
+| <center>&mdash;</center>
+| style="background:#FF9900; color:white" | 19.4 <small>over Alegre</small>
+|-
+| 9 October 2010
+| [http://www.tvi24.iol.pt/politica/sondagem-psd-eleicoes-passos-coelho-cavaco-silva-tvi24/1197755-4072.html INTERCAMPUS]
+| 55.5
+| 30.7
+| 4.9
+| 1.2
+| 5.6
+| <center>&mdash;</center>
+| <center>&mdash;</center>
+| style="background:#FF9900; color:white" | 24.8 <small>over Alegre</small>
+|-
+| 25 September 2010
+| [http://tsf.sapo.pt/PaginaInicial/Portugal/Interior.aspx?content_id=1670786 Marktest]
+| 71.0
+| 22.0
+| 4.0
+| 0.2
+| 1.0
+| <center>&mdash;</center>
+| <center>&mdash;</center>
+| style="background:#FF9900; color:white" | 49.0 <small>over Alegre</small>
+|-
+| 24 September 2010
+| [http://sic.sapo.pt/online/noticias/pais/Cavaco+Silva+vence+a+primeira+volta.htm Eurosondagem]
+| 54.9
+| 33.0
+| 6.2
+| 1.1
+| 4.8
+| <center>&mdash;</center>
+| <center>&mdash;</center>
+| style="background:#FF9900; color:white" | 21.9 <small>over Alegre</small>
+|-
+| 12 September 2010
+| [http://www.erc.pt/download.php?info=YTozOntzOjU6ImFjY2FvIjtzOjg6ImRvd25sb2FkIjtzOjg6ImZpY2hlaXJvIjtzOjQwOiJtZWRpYS9zb25kYWdlbnMvb2JqZWN0b19vZmZsaW5lLzIxLjIucGRmIjtzOjY6InRpdHVsbyI7czoxMDoiUmVzdWx0YWRvcyI7fQ== Aximage]
+| 58.1
+| 32.1
+| 5.4
+| 0.0
+| 4.4
+| <center>&mdash;</center>
+| <center>&mdash;</center>
+| style="background:#FF9900; color:white" | 26.0 <small>over Alegre</small>
+|-
+| 31 July 2010
+| [http://www.abola.pt/mundos/ver.aspx?id=216648 Marktest]
+| 67.1
+| 19.6
+| 10.0
+| 0.7
+| <center>&mdash;</center>
+| <center>&mdash;</center>
+| <center>&mdash;</center>
+| style="background:#FF9900; color:white" | 47.5 <small>over Alegre</small>
+|-
+| 24 July 2010
+| [http://www.tvi24.iol.pt/politica/presidenciais-eleicoes-cavaco-alegre-sondagem-tvi24/1180025-4072.html INTERCAMPUS]
+| 59.4
+| 26.8
+| 9.1
+| 2.9
+| <center>&mdash;</center>
+| <center>&mdash;</center>
+| <center>&mdash;</center>
+| style="background:#FF9900; color:white" | 32.6 <small>over Alegre</small>
+|-
+| 12 July 2010
+| [http://www.erc.pt/documentos/Sondagens/2010034/Resultados.pdf Euroexpansão]
+| 51.1
+| 14.7
+| 4.1
+| <center>&mdash;</center>
+| <center>&mdash;</center>
+| <center>&mdash;</center>
+| 22.1
+| style="background:#FF9900; color:white" | 36.4 <small>over Alegre</small>
+|-
+| 11 July 2010
+| [http://www.cmjornal.xl.pt/detalhe/noticias/exclusivo-cm/cavaco-esmaga-a-primeira-volta Aximage]
+| 55.3
+| 26.9
+| 11.6
+| <center>&mdash;</center>
+| <center>&mdash;</center>
+| <center>&mdash;</center>
+| 6.2
+| style="background:#FF9900; color:white" | 28.4 <small>over Alegre</small>
+|-
+| 28 June 2010
+| [http://jn.sapo.pt/PaginaInicial/Nacional/Interior.aspx?content_id=1604665 Universidade Católica]
+| 50.0
+| 19.0
+| 7.0
+| <center>&mdash;</center>
+| <center>&mdash;</center>
+| <center>&mdash;</center>
+| 25.0
+| style="background:#FF9900; color:white" | 31.0 <small>over Alegre</small>
+|-
+| 13 June 2010
+| [http://www.cmjornal.xl.pt/detalhe/noticias/nacional/politica/cavaco-vence-a-primeira Aximage]
+| 53.4
+| 28.1
+| 8.6
+| <center>&mdash;</center>
+| <center>&mdash;</center>
+| <center>&mdash;</center>
+| 9.9
+| style="background:#FF9900; color:white" | 25.3 <small>over Alegre</small>
+|-
+| 14 March 2010
+| [http://tv1.rtp.pt/noticias/index.php?t=Cavaco-e-o-preferido-do-eleitorado-para-Presidente.rtp&article=327537&layout=10&visual=3&tm=9 Universidade Católica]
+| 57.0
+| 19.0
+| 8.0
+| <center>&mdash;</center>
+| <center>&mdash;</center>
+| <center>&mdash;</center>
+| 16.0
+| style="background:#FF9900; color:white" | 38.0 <small>over Alegre</small>
+|-
+| 13 March 2010
+| [http://www.cmjornal.xl.pt/noticia.aspx?contentid=DB6D65EE-045B-4B32-B0AF-DB6ED53CB407&channelid=00000090-0000-0000-0000-000000000090 Aximage]
+| 56.0
+| 21.6
+| 13.8
+| <center>&mdash;</center>
+| <center>&mdash;</center>
+| <center>&mdash;</center>
+| 8.6
+| style="background:#FF9900; color:white" | 34.4 <small>over Alegre</small>
+|-
+| 12 March 2010
+| [http://www.erc.pt/documentos/Sondagens/2010011/Resultados.pdf Eurosondagem]
+| 36.9
+| 25.0
+| 9.6
+| <center>&mdash;</center>
+| (5.0)
+| <center>&mdash;</center>
+| 23.5
+| style="background:#FF9900; color:white" | 11.9 <small>over Alegre</small>
+|-
+| 22 January 2010
+| [http://www.cmjornal.xl.pt/noticia.aspx?contentid=41CAE6F6-96B0-46D4-8E49-D3C06C8D0A2E&channelid=00000090-0000-0000-0000-000000000090 Aximage]
+| 60.3
+| 39.7
+| <center>&mdash;</center>
+| <center>&mdash;</center>
+| <center>&mdash;</center>
+| <center>&mdash;</center>
+| <center>&mdash;</center>
+| style="background:#FF9900; color:white" | 20.6 <small>over Alegre</small>
+|}
+
+==Campaign Budgets==
+{| class="wikitable sortable"
+|-
+! rowspan=2 |Candidate (party)
+! rowspan=2 |Election<br>Result
+! colspan="2" |State Subsidy
+! rowspan=2 |Political Parties<br>Contributions
+! rowspan=2 |Fundraising
+! colspan="2" |Total Recipes
+! rowspan=2 |Expenses
+! rowspan=2 |Debt
+|-
+! Calculated
+! Budgeted
+! Calculated
+! Budgeted
+|-
+| class="unsortable" style="background:#FF9900" width="230px"| <span style="color:White;">{{sortname|nolink=1|Cavaco|Silva}} (PSD, CDS-PP, MEP)
+| align=right| 53.0%
+| align=right| €1,920,000
+| align=right| €1,570,000
+| align=right| €0
+| align=right| €550,000
+| align=right| €2,470,000
+| align=right| €2,120,000
+| align=right| €2,120,000
+| align=right| €0
+|-
+| class="unsortable" style="background:#FF66FF" width="230px"| <span style="color:White;">{{sortname|nolink=1|Manuel|Alegre}} (PS, BE, PDA, PCTP)
+| align=right| 19.7%
+| align=right| €836,000 	
+| align=right| €1,350,000
+| align=right| €500,000
+| align=right| €50,000
+| align=right| €1,386,000
+| align=right| €1,900,000
+| align=right| €1,640,000
+| align=right| €254,000
+|-
+| {{party shading/Independent}}|{{sortname|nolink=1|Fernando|Nobre}} (I)
+| align=right| 14.1%
+| align=right| €653,000
+| align=right| €511,200
+| align=right| €0
+| align=right| €331,460
+| align=right| €984,460
+| align=right| €842,660
+| align=right| €842,660
+| align=right| €0
+|-
+| class="unsortable" style="background:red" width="230px"| <span style="color:White;">{{sortname|nolink=1|Francisco|Lopes}} (PCP, PEV)
+| align=right| 7.1% 
+| align=right| €425,000 	
+| align=right| €512,000
+| align=right| €270,000
+| align=right| €18,000
+| align=right| €713,000
+| align=right| €800,000
+| align=right| €800,000
+| align=right| €87,000
+|-
+| {{party shading/Independent}}|{{sortname|nolink=1|Defensor|Moura}} (I)
+| align=right| 1.6%
+| align=right| €0
+| align=right| €225,000
+| align=right| €0
+| align=right| €25,000
+| align=right| €25,000
+| align=right| €250,000
+| align=right| €250,000
+| align=right| €225,000
+|-
+| class="unsortable" style="background:#1F468B" width="230px"| <span style="color:White;">{{sortname|nolink=1|José Manuel|Coelho}} (PND)
+| align=right| 4.5%
+| align=right| €0
+| align=right| €10,000
+| align=right| €30,000
+| align=right| €50,000
+| align=right| €80,000
+| align=right| €90,000
+| align=right| €90,000
+| align=right| €10,000
+|-
+| class="unsortable" style="background:blue" width="230px"| <span style="color:White;">{{sortname|nolink=1|Luís Botelho|Ribeiro}} (PPV)
+| align=right| -
+| align=right| -
+| align=right| €7,000
+| align=right| €0
+| align=right| €0
+| align=right| €7,000
+| align=right| €7,000
+| align=right| €7,000
+| align=right| €0
+|- style="text-align:center;" class="sortbottom"
+| colspan="10" | Source: [[Portuguese Constitutional Court]] (TC)<ref>{{citation | title = Campaign Budgets for the 2011 Presidential election| url = http://www.tribunalconstitucional.pt/tc/contas_eleicoes-pr.html#1103 | publisher = [[Portuguese Constitutional Court]] | accessdate = 24 December 2010}}.</ref><br><small>(Note that some candidates filed with the TC, but did not pursue their candidacy.)</small>
+|}
+
+==Results==
+[[File:Pt plelection pr 2011.PNG|right|thumb|250px|Candidate receiving most votes, per district (Azores and Madeira not shown)]]
+{{electiontable|Portuguese presidential election, 2011}}'''Summary of the 23 January 2011 [[Portugal|Portuguese]] [[President of Portugal|presidential]] [[Elections in Portugal|election results]]
+|-
+!style="background-color:#E9E9E9" align=left colspan="2" rowspan="2"|Candidates 
+!style="background-color:#E9E9E9" align=left rowspan="2"|Supporting parties 	
+!style="background-color:#E9E9E9" align=right colspan="2"|First round
+|-
+!style="background-color:#E9E9E9" align=right|Votes
+!style="background-color:#E9E9E9" align=right|%
+|-
+|style="width: 10px" bgcolor=#FF9900 align="center" | 
+|align=left|[[Aníbal Cavaco Silva]] 
+|align=left|[[Social Democratic Party (Portugal)|Social Democratic Party]], [[People's Party (Portugal)|People's Party]], [[Hope for Portugal Movement]]
+|align="right" |2,231,956
+|align="right" |52.95
+|-
+|style="width: 5px" bgcolor=#FF66FF align="center" |
+|align=left|[[Manuel Alegre]]
+|align=left|[[Socialist Party (Portugal)|Socialist Party]], [[Left Bloc]], [[Democratic Party of the Atlantic]], [[Portuguese Workers' Communist Party|Workers' Communist Party]]
+|align="right" |831,838
+|align="right" |19.74
+|-
+|style="width: 5px" bgcolor=gray align="center" | 
+|align=left|[[Fernando Nobre]]
+|align=left|[[Independent (politician)|Independent]]
+|align="right" |593,021
+|align="right" |14.07
+|-
+|style="width: 5px" bgcolor=red align="center" | 
+|align=left|[[Francisco Lopes]]
+|align=left|[[Portuguese Communist Party]], [[Ecologist Party "The Greens"]]
+|align="right" |301,017
+|align="right" |7.14
+|-
+|style="width: 5px" bgcolor=#1F468B align="center" |
+|align=left|[[José Manuel Coelho]]
+|align=left|[[New Democracy Party (Portugal)|New Democracy Party]]
+|align="right" |189,918
+|align="right" |4.51
+|-
+|style="width: 5px" bgcolor=gray align="center" | 
+|align=left|[[Defensor Moura]]
+|align=left|[[Independent (politician)|Independent]]
+|align="right" |67,110
+|align="right" |1.59
+|-
+|colspan="3" align=left style="background-color:#E9E9E9"|'''Total valid'''
+|width="65" align="right" style="background-color:#E9E9E9"|'''4,214,860'''
+|width="40" align="right" style="background-color:#E9E9E9"|'''100.00'''
+|-
+|align=right colspan="3"|Blank ballots
+|width="65" align="right" |192,127
+|width="40" align="right" |4.28
+|-
+|align=right colspan="3" |Invalid ballots
+|width="65" align="right"|85,466
+|width="40" align="right"|1.90
+|-
+|colspan="3" align=left style="background-color:#E9E9E9"|'''Total''' (turnout 46.52%)
+|width="65" align="right" style="background-color:#E9E9E9"|'''4,492,453 '''
+|width="40" align="right" style="background-color:#E9E9E9"|
+|-
+|colspan=5 align=left|Source: [http://eleicoes.cne.pt/vector/detalhe.cfm?eleicao=pr&dia=23&mes=01&ano=2011&codreg=0&local=0 Comissão Nacional de Eleições]
+|}
+
+{{bar box
+|title=Vote share 1st Round
+|titlebar=#ddd
+|width=500px
+|barwidth=310px
+|bars=
+{{bar percent|Aníbal Cavaco Silva|{{Social Democratic Party (Portugal)/meta/color}}|52.95}}
+{{bar percent|Manuel Alegre|{{Socialist Party (Portugal)/meta/color}}|19.74}}
+{{bar percent|Fernando Nobre|{{Independent (politician)/meta/color}}|14.07}}
+{{bar percent|Francisco Lopes|{{Portuguese Communist Party/meta/color}}|7.14}}
+{{bar percent|José Manuel Coelho|{{New Democracy Party (Portugal)/meta/color}}|5.17}}
+{{bar percent|Defensor Moura|{{Independent (politician)/meta/color}}|1.59}}
+{{bar percent|Blank/Invalid|#777777|6.18}}
+{{bar percent|Abstention|Black|53.48}}
+}}
+
+{{Clear}}
+
+==See also==
+* [[President of Portugal]]
+* [[Portugal]]
+* [[Politics of Portugal]]
+
+== References ==
+{{reflist}}
+
+==External links==
+;Official campaign websites
+*[http://cavacosilva.pt/ Cavaco Silva official website]
+*[http://manuelalegre2011.pt/ Manuel Alegre official website]
+*[http://www.fernandonobre.org/ Fernando Nobre official website]
+*[http://www.franciscolopes.pt/ Francisco Lopes official website]
+*[http://www.defensormoura.com/ Defensor Moura official website]
+*[http://coelhopresidente.wordpress.com/2010/ José Manuel Coelho official website]
+;Other websites
+*[http://www.cne.pt/ Portuguese Electoral Commission]
+*[http://www.presidenciais.mj.pt/ Official results site, Portuguese Justice Ministry]
+*[http://www.erc.pt/pt/sondagens Publication of Polls (ERC)]
+* [http://www.nsd.uib.no/european_election_database/country/portugal/ NSD: European Election Database - Portugal] publishes regional level election data; allows for comparisons of election results, 1990–2010
+
+{{Portuguese elections}}
+
+{{DEFAULTSORT:Portuguese Presidential Election, 2011}}
+[[Category:2011 elections in Europe]]
+[[Category:Presidential elections in Portugal|2011]]
+[[Category:2011 in Portugal]]

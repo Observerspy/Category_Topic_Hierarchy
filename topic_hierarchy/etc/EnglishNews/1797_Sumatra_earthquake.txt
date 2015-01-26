@@ -1,0 +1,48 @@
+{{Earthquake
+|title= 1797 Sumatra earthquake
+|date= {{Start-date|February 10, 1797}}
+|map2 = {{Location map | Indonesia Sumatra
+ | label=
+ | lat=-1.0
+ | long=99.0
+ | mark=Bullseye1.png
+ | marksize=40
+ | position=top
+ | width= 250
+ | float=right
+ | caption=}}
+|magnitude = 8.7-8.9 Moment magnitude scale|M<sub>w</sub>
+|depth=
+|location={{coord|-1.0|99.0|display=inline,title}}
+|countries affected = Sumatra, Dutch East India Company in Indonesia|Dutch East India Company
+|tsunami = yes
+|casualties = numerous
+}}
+File:Plate setting Sunda megathrust.png|thumb|Plate tectonic setting of Sunda megathrust|250px
+The '''1797 Sumatra earthquake''' was the first in a series of great earthquakes that ruptured part of the Sumatran segment of the Sunda megathrust. It caused a damaging tsunami that was particularly severe near Padang, Indonesia|Padang, where a 150-200 ton English ship was driven 1&nbsp;km inland up the Arau River.
+
+==Background==
+The island of Sumatra lies on the Convergent boundary|convergent plate boundary between the Indo-Australian Plate and the Eurasian Plate. The convergence between these plates is highly oblique near Sumatra, with the displacement being accommodated by near pure Fault (geology)#Dip-slip faults|dip-slip faulting along the subduction zone, known as the Sunda megathrust, and near pure Fault (geology)#Strike-slip faults|strike-slip faulting along the Great Sumatran fault. The major slip events on the subduction zone interface are typically of megathrust type. Historically, great or giant megathrust earthquakes have been recorded in 1797, 1833 Sumatra earthquake|1833, 1861 Sumatra earthquake|1861, 2004 Indian Ocean earthquake|2004, 2005 Sumatra earthquake|2005 and September 2007 Sumatra earthquake|2007, most of them being associated with devastating tsunamis. Smaller (but still large) megathrust events have also occurred in the small gaps between the areas that slip during these larger events, in 1935 Sumatra earthquake|1935, 1984 Northern Sumatra earthquake|1984, 2000 Sumatra earthquake|2000 and 2002 Sumatra earthquake|2002.
+
+==Damage==
+The earthquake caused the collapse or damage of many houses. The tsunami surge drove an English sailing ship of 150-200 tons, moored in the Arau River, about 1&nbsp;km inland, destroying several houses as it went. Smaller boats were driven up to 1.8&nbsp;km upstream. In Air Manis, the whole town was flooded and the bodies of several people who had climbed trees to escape the surge were found the next day in the branches. Only two fatalities were reported from Padang itself but many more from Air Manis. The Batu Islands were also reported to be affected.
+
+==Characteristics==
+
+===Earthquake===
+The shaking at Padang lasted one minute, reports in 1845 and 1847 said either that this was the strongest earthquake in the memory of the residents of Padang or the strongest for forty years.
+
+===Tsunami===
+The run-up of the tsunami at Padang and the village of Air Manis is estimated to be in the range 5&ndash;10 m. Modelling of tsunami effects using source parameters estimated from the uplift of coral microatolls,
+
+The tsunami reports for this event are localised around Padang and it has been suggested that the tsunami may have been caused by an underwater landslide triggered by the earthquake.
+
+==References==
+{{Reflist}}
+{{SumatraMegathrust}}
+
+Category:Megathrust earthquakes in Sumatra
+Category:1797 earthquakes|Sumatra
+Category:1797 in Asia
+Category:18th century in Indonesia
+Category:18th-century Tsunamis

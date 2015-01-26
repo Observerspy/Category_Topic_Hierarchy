@@ -1,0 +1,331 @@
+{{Expand Dutch|Tweede Kamerverkiezingen 2010|date=June 2010}}
+{{Infobox election
+| election_name      = Dutch general election, 2010
+| country            = Netherlands
+| type               = parliamentary
+| ongoing            = no
+| previous_election  = Dutch general election, 2006
+| previous_year      = 2006
+| next_election      = Dutch general election, 2012
+| next_year          = 2012
+| seats_for_election = All 150 seats to the [[House of Representatives of the Netherlands|House of Representatives]] <br> 76 seats were needed for a majority
+| election_date      = {{Start date|2010|6|9|df=yes}}
+
+<!--      People's Party for Freedom and Democracy      -->
+| image1             = [[File:Mark Rutte-6.jpg|150x150px|Mark Rutte]]
+| leader1            = [[Mark Rutte]]
+| leader_since1      = 2006
+| party1             = People's Party for Freedom and Democracy
+| last_election1     = 22 seats, 14.7%
+| seats1             = 31
+| seat_change1       = {{increase|+}}9
+| popular_vote1      = 1,929,575
+| percentage1        = 20.5%
+
+<!--      Labour Party      -->
+| image2             = [[File:Job Cohen 2010.jpg|150x150px|Job Cohen]]
+| leader2            = [[Job Cohen]]
+| leader_since2      = 2010
+| party2             = Labour Party (Netherlands)
+| last_election2     = 33 seats, 21.2%
+| seats2             = 30
+| seat_change2       = {{decrease|−}}3
+| popular_vote2      = 1,848,805
+| percentage2        = 19.6%
+
+<!--      Party for Freedom      -->
+| image3             = [[File:Slotdebat verkiezingen (final debate elections) 2006-2 cropped and flipped.jpg|150x150px|Geert Wilders]] 
+| leader3            = [[Geert Wilders]]
+| leader_since3      = 2006
+| party3             = Party for Freedom
+| last_election3     = 9 seats, 5.9%
+| seats3             = 24
+| seat_change3       = {{increase|+}}15
+| popular_vote3      = 1,454,493
+| percentage3        = 15.4%
+
+<!--      Christian Democratic Appeal      -->
+| image4             = [[File:Balkenende Dutch politician kabinet Balkenende IV.jpg|150x150px|Jan Peter Balkenende]]
+| leader4            = [[Jan Peter Balkenende]]
+| leader_since4      = 2001
+| party4             = Christian Democratic Appeal
+| last_election4     = 41 seats, 26.5%
+| seats4             = 21
+| seat_change4       = {{decrease|−}}20
+| popular_vote4      = 1,281,886
+| percentage4        = 13.6%
+
+<!--      Socialist Party      -->
+| image5             = [[File:Emile Roemer 2009.jpg|150x150px|Emile Roemer]]
+| leader5            = [[Emile Roemer]]
+| leader_since5      = 2010
+| party5             = Socialist Party (Netherlands)
+| last_election5     = 25 seats, 16.6%
+| seats5             = 15
+| seat_change5       = {{decrease|−}}10
+| popular_vote5      = 924,696
+| percentage5        = 9.8%
+
+<!--      Democrats 66      -->
+| image6             = [[File:Pechtold 29 03 048b (2).jpg|150x150px|Alexander Pechtold]]
+| leader6            = [[Alexander Pechtold]]
+| leader_since6      = 2006
+| party6             = Democrats 66
+| last_election6     = 3 seats, 2.0%
+| seats6             = 10
+| seat_change6       = {{increase|+}}7
+| popular_vote6      = 654,167
+| percentage6        = 6.9%
+
+<!--  GreenLeft -->
+|image7              = [[File:Femke Halsema 2.jpg|150x150px|Femke Halsema]]
+|leader7             = [[Femke Halsema]]
+|leader_since7       = 2002
+|party7              = GreenLeft
+|last_election7      = 7 seats, 4.6%
+|seats7              = 10
+|seat_change7        = {{increase|+}}3
+|popular_vote7       = 628,096
+|percentage7         = 6.7%
+
+<!-- ChristianUnion -->
+|image8              = [[File:Vicepremier-en-minister-André-Rouvoet.jpg|150x150px|André Rouvoet]]
+|leader8             = [[André Rouvoet]]
+|leader_since8       = 2002
+|party8              = ChristianUnion
+|last_election8      = 6 seats, 4.0%
+|seats8              = 5
+|seat_change8        = {{decrease|−}}1
+|popular_vote8       = 305,094
+|percentage8         = 3.2%
+
+<!-- Reformed Political Party -->
+|image9              = [[File:KeesvanderStaaij opendag sgp.JPG|150x150px|Kees van der Staaij]]
+|leader9             = [[Kees van der Staaij]]
+|leader_since9       = 2010
+|party9              = Reformed Political Party
+|last_election9      = 2 seats, 1.6%
+|seats9              = 2
+|seat_change9        = {{steady|}}0
+|popular_vote9       = 163,581
+|percentage9         = 1.7%
+
+| map_image          = Tweede Kamerverkiezingen 2010.png
+| map_size           = 250px
+| map_caption        = 
+| title              = [[Prime Minister of the Netherlands|Prime Minister]]
+| before_election    = [[Jan Peter Balkenende]]
+| before_party       = Christian Democratic Appeal
+| after_election     = [[Mark Rutte]]
+| after_party        = People's Party for Freedom and Democracy
+}}
+
+The '''2010 Dutch general election''' was held on Wednesday, 9 June 2010. It was triggered by the fall of [[Prime Minister of the Netherlands|Prime Minister]] [[Jan Peter Balkenende]]'s [[Netherlands cabinet Balkenende-4|fourth cabinet]] on 20 February with [[Beatrix of the Netherlands|Queen Beatrix]] accepting the resignation of the [[Labour Party (Netherlands)|Labour Party]] ministers on 23 February.<ref>{{cite web|url=http://www.regering.nl/Actueel/Pers_en_nieuwsberichten/2010/februari/23/Ontslag_en_benoeming_bewindspersonen|title=Ontslag en benoeming bewindspersonen|publisher=Rijksvoorlichtingsdienst|date=2009-02-23|language=Dutch|accessdate=2009-02-23}}</ref> The [[Conservative liberalism|conservative-liberal]] [[People's Party for Freedom and Democracy]] (VVD), led by [[Mark Rutte]], won the largest number of seats in the [[House of Representatives of the Netherlands|House of Representatives]] while the [[Social democracy|social-democratic]] [[Labour Party (Netherlands)|Labour Party]] (PvdA), led by [[Job Cohen]], came a narrow second. It was also noted for the rise of the controversial politician [[Geert Wilders]] and the [[Party for Freedom]] (PVV), which came in third. On the other hand, the election was a poor result for Balkenende and his [[Christian Democratic Appeal]] (CDA), which lost half its seats and dropped from first to fourth place. The [[Socialist Party (Netherlands)|Socialist Party]] (SP) also lost seats.  Notably, the 31 seats won by the VVD is the fewest in years, and the one-seat margin between the VVD and PvdA is the closest on record.<ref name="nrc.nl">{{cite web|url=http://www.nrc.nl/international/election2010/article2561211.ece/The_Netherlands_shifts_to_the_right |title=Election 2010 – The Netherlands shifts to the right |publisher=nrc.nl |date=10 June 2010 |accessdate=10 June 2010}}</ref>
+
+After the election, it took 127 days to form a new government, with both the VVD and PvdA hoping to have a leading role. Talks with the PvdA and other left-wing parties (trying to form a so-called [[Purple (government)|Purple Coalition]] without Christian parties) broke down and Rutte was able to form a right-wing coalition of the VVD and CDA, with the PVV formally making an agreement (''gedoogakkoord'') to support the government but without holding any cabinet seats. It was the first coalition government not to be led by a Christian democratic or socialist party in 92 years, as well as the first to be led by the VVD. Rutte was sworn in as Prime Minister on 14 October, becoming the first [[liberalism in the Netherlands|liberal]] to hold that post since 1918.
+
+The 150 seats of the [[House of Representatives of the Netherlands|House of Representatives]] (''Tweede Kamer der Staten-Generaal'') were contested, and were filled using [[party-list proportional representation]] for a nominal four-year term.
+
+__TOC__
+
+==Background==
+{{Expand section|date=June 2010}}
+The election follows the PvdA's withdrawal in February from the coalition over the contribution of Dutch soldiers to the [[War in Afghanistan (2001–present)|War in Afghanistan]].<ref name="aljaz"/> According to the [[Dutch constitution]] new elections had to be held within 83 days.
+
+==Debates==
+The first radio debate was held on 21 May 2010. The first television debate, held on 23 May was, according to instant polls, won by Mark Rutte on 36%, with Job Cohen second on 24%, and Geert Wilders and Jan Peter Balkenende third, on 18%.{{Citation needed|date=June 2010}}
+
+{{Clear}}
+
+==Polls==
+{| class="wikitable" style="text-align: center;"
+|-
+! rowspan="2" | Party
+! colspan="2" | [[Dutch general election, 2006|2006]]
+! colspan="2" |Politieke Barometer<ref>{{cite web|url=http://www.politiekebarometer.nl/ |title=Politieke Barometer Week 23 – 08 juni 2010 |publisher=Politiekebarometer.nl |date= |accessdate=2010-06-11}}</ref>
+! colspan="2" | Peil.nl<ref>{{cite web|url=http://www.peil.nl/?2987|title=VVD nog 4 zetels voor op PvdA, incl. prognose voor TK2010 (laatste peiling)|work=Peil.nl|publisher=No Ties bv|date=2010-06-08|accessdate=2010-06-09}}</ref>
+! colspan="2" | TNS-NIPO<ref>{{cite web|url=http://www.tns-nipo.com/pages/nieuws-pers-vnipo.asp?file=persvannipo\pol_slotpeiling-08062010.htm|title=Slotpeiling: VVD behoudt voorsprong op PvdA|publisher=[[TNS NIPO]]|date=2010-05-12|accessdate=2010-06-09}}</ref>
+|-
+! %
+! Seats (150)
+! 8-6-2010
+! Exit polls (21.00 hrs)
+! 7-6-2010
+! Exit polls
+! 31-5-2010
+! Exit polls
+|-
+| style="text-align: left;" | [[Christian Democratic Appeal|CDA]]
+| 26.5
+| 41
+| 24
+| 21
+| 25
+| 24
+| 21
+| 21
+|-
+| style="text-align: left;" | [[Labour Party (Netherlands)|PvdA]]
+| 21.2
+| 33
+| 30
+| 31
+| 30
+| 30
+| 31
+| 29
+|-
+| style="text-align: left;" | [[Socialist Party (Netherlands)|SP]]
+| 16.6
+| 25
+| 14
+| 15
+| 12
+| 13
+| 13
+| 15
+|-
+| style="text-align: left;" | [[People's Party for Freedom and Democracy|VVD]]
+| 14.7
+| 22
+| 33
+| 31
+| 36
+| 34
+| 37
+| 36
+|-
+| style="text-align: left;" | [[Party for Freedom|PVV]]
+| 5.9
+| 9
+| 17
+| 23
+| 18
+| 18
+| 17
+| 18
+|-
+| style="text-align: left;" | [[GreenLeft|GL]]
+| 4.6
+| 7
+| 11
+| 11
+| 10
+| 11
+| 8
+| 10
+|-
+| style="text-align: left;" | [[ChristianUnion|CU]]
+| 4.0
+| 6
+| 6
+| 5
+| 6
+| 6
+| 9
+| 6
+|-
+| style="text-align: left;" | [[Democrats 66|D66]]
+| 2.0
+| 3
+| 10
+| 10
+| 10
+| 11
+| 10
+| 11
+|-
+| style="text-align: left;" | [[Party for the Animals|PvdD]]
+| 1.8
+| 2
+| 2
+| 1
+| 1
+| 1
+| 1
+| 1
+|-
+| style="text-align: left;" | [[Political Reformed Party|SGP]]
+| 1.6
+| 2
+| 3
+| 2
+| 2
+| 2
+| 3
+| 2
+|-
+| style="text-align: left;" | [[Proud of the Netherlands|ToN/Trots]]*
+| –
+| –
+| 0
+| 0
+| 0
+| 0
+| 0
+| 1
+|-
+| style="text-align: left;" | Others
+| 1.2
+| 0
+| 0
+| 0
+| 0
+| 0
+| –
+| –
+|-
+| colspan="9" style="text-align: left;" | <small>* Trots op Nederland is the party formed by Rita Verdonk after she split from the VVD in 2007 and became an independent representative.</small>
+|}
+
+Polls indicated that the elections were too close to call.<ref>{{cite web|url=http://www.rnw.nl/english/article/dutch-election-too-close-call |title=Radio Netherlands Worldwide (2010-06-09): Dutch election too close to call |publisher=Rnw.nl |date=2010-06-04 |accessdate=2010-06-11}}</ref>
+
+==Results==
+Turnout was reported to be over 5% less than the previous elections<ref>{{cite web|title=Tweede Kamer Verkiezingen 2010|url=http://www.telegraaf.nl/verkiezingen/tk2010/|publisher=Telegraaf}}</ref> due to heavy rain and stormy weather.<ref>[http://www.rnw.nl/suriname/article/verkiezingen-nog-nooit-zo-spannend Verkiezingen nog nooit zo spannend], Radio Netherlands Worldwide, 9 June 2010</ref>
+
+; National summary
+{{Dutch general election, 2010}}
+{{bar box
+| title=Popular Vote
+| titlebar=#ddd
+| width=600px
+| barwidth=410px
+| bars=
+{{bar percent|VVD|{{People's Party for Freedom and Democracy/meta/color}}|20.49}}
+{{bar percent|PvdA|{{Labour Party (Netherlands)/meta/color}}|19.63}}
+{{bar percent|PVV|{{Party for Freedom/meta/color}}|15.45}}
+{{bar percent|CDA|{{Christian Democratic Appeal/meta/color}}|13.61}}
+{{bar percent|SP|{{Socialist Party (Netherlands)/meta/color}}|9.82}}
+{{bar percent|D66|{{Democrats 66/meta/color}}|6.95}}
+{{bar percent|GL|{{GreenLeft/meta/color}}|6.67}}
+{{bar percent|CU|{{ChristianUnion/meta/color}}|3.24}}
+{{bar percent|SGP|{{Reformed Political Party/meta/color}}|1.74}}
+{{bar percent|PvdD|{{Party for the Animals/meta/color}}|1.30}}
+{{bar percent|Other|#777777|1.10}}
+}}
+===Reaction===
+Prime Minister Jan Peter Balkenende stepped down from his position in the CDA and resigned his parliamentary seat on the evening of the election, saying he was taking "political responsibility" for the unsatisfactory election results of his party and that "The voter has spoken, the outcome is clear."<ref>{{cite web|url=http://english.aljazeera.net/news/europe/2010/06/201069192132240783.html |title=Dutch PM quits CDA party leadership - Europe |publisher=Al Jazeera English |date= |accessdate=2010-06-11}}</ref>
+
+==Government formation==
+{{expand section|date=December 2010}}<!--more on the process needs to be summarised here-->
+Expectations were that [[2010 Dutch cabinet formation|the formation of a new government]] would take some time.<ref>{{cite web|url=http://www.bloomberg.com/apps/news?pid=20601087&sid=axzw6ovbm7js&pos=9 |title=Dutch Face Months of Coalition Talks; Wilders Third (Update2) |publisher=Bloomberg.com |date=2005-05-30 |accessdate=2010-06-11}}</ref> The international media also read this as a slim victory for the "austerity-minded" Liberals amidst the [[2010 European sovereign debt crisis]].<ref>{{cite web|url=http://www.dw-world.de/dw/article/0,,5668348,00.html |title=Dutch election gives austerity-minded Liberals slim win |publisher=Dw-world.de |date= |accessdate=2010-06-11}}</ref>
+
+On 14 October, [[Mark Rutte]] was sworn in as prime minister.<ref>http://www.rnw.nl/english/article/dutch-government-whos-who</ref> Rutte's government resigned on 24 April 2012 over austerity measures.
+
+==Analysis==
+Some international media speculated that "for the first time in this nation's history, a Jewish man, albeit a secular one, is on the verge of becoming the next prime minister&nbsp;... Job Cohen, who was until recently the Mayor of Amsterdam, and represents the top of the ticket for the PvdA&nbsp;... is at the end of a long battle to run the country that began in February when the PvdA backed out of the ruling coalition government because it did not want to send Dutch troops back to Afghanistan."<ref name="aljaz">{{cite web|url=http://english.aljazeera.net/focus/2010/06/201069182921890709.html |title=The Netherlands decides its fate - Focus |publisher=Al Jazeera English |date= |accessdate=2010-06-11}}</ref>
+
+== See also ==
+* [[List of members of the House of Representatives of the Netherlands, 2010–12]]
+
+==References==
+{{Reflist|colwidth=30em}}
+
+==External links==
+* [http://www.nsd.uib.no/european_election_database/country/netherlands/ NSD: European Election Database - Netherlands] publishes regional level election data; allows for comparisons of election results, 1994–2010
+
+{{Dutch general elections}}
+
+{{DEFAULTSORT:Dutch General Election, 2010}}
+[[Category:General elections in the Netherlands|2010]]
+[[Category:2010 elections in the Netherlands]]

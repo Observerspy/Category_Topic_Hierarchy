@@ -1,0 +1,112 @@
+{{Earthquake
+| title              = 2008 Yingjiang Earthquakes
+| date               = {{Start date|2008|8|21}}
+| map2               = {{Location map | China Yunnan
+ | label=
+ | lat=25.039
+ | long=97.697 | mark=Bullseye1.png
+ | marksize=40
+ | position=top
+ | width= 250
+ | float=right
+ | caption=}}
+| magnitude          = 5.9 Surface wave magnitude|M<sub>s</sub> or 6.0 M<sub>w</sub>
+| depth              = 10 km
+| location           = {{coord|24.9|N|97.8|E}}<br/>(Yingjiang County|Yingjiang, Yunnan)
+| countries affected = {{PRC}}<br/>{{MYA}}
+| tsunami            = None
+| aftershocks        =
+| casualties         = 5 killed, 130 injured, 21 serious
+| intensity          = China Seismic Intensity Scale|liedu VIII (European Macroseismic Scale|Heavily damaging)
+}}
+
+The '''2008 Yingjiang Earthquakes''' were a series of major earthquakes ranging from surface wave magnitude ('''M<sub>s</sub>''') 4.1 to 5.9 that struck Yingjiang County, Yunnan province, China between August 19 (in Coordinated Universal Time|UTC; August 20 local time) and September 3, 2008.  It caused 5 deaths, 21 serious injuries, and Renminbi|RMB&nbsp;2.7 billion in direct economic damage. USGS put the magnitude of the strongest one to M<sub>w</sub> 6.0.
+
+==Earthquake Details==
+
+According to the China Earthquake Administration ('''CEA''') and its subordinate http://www.ceic.ac.cn/ China Earthquake Network Center ('''CENC'''), a M<sub>s</sub>&nbsp;5.0 earthquake struck Yingjiang County, Yunnan province, China on August 20, 2008 at 05:35:09 China Standard Time ('''CST''' - 2135 UTC, August 19, 2008).  A CEA report published on September 17 described two additional strong quakes of M<sub>s</sub>&nbsp;4.9 and M<sub>s</sub>&nbsp;5.9 in the same area the following day; CENC's data base, on the other hand, did not include the earthquake of M<sub>s</sub>&nbsp;4.9 at 20:20 CST on August 21 as the CEA report described, but reveals additional ones after the date.
+
+===Sequence of earthquakes===
+
+{|class="wikitable"
+! #
+! China Standard Time|CST
+! UTC
+! Place
+! Lat.
+! Long.
+! Surface wave magnitude|M<sub>s</sub>
+|-
+| 1
+| 2008-08-20 ''05:35:09''
+| ''2008-08-19'' 21:35:09
+| Yingjiang County|Yingjiang, Yunnan
+| 25.1
+| 97.9
+| 5.0
+|-bgcolor=#ffefef
+| 2
+| 2008-08-21 20:20
+| 2008-08-21 12:20
+| Yingjiang County|Yingjiang, Yunnan
+| 25.1
+| 97.9
+| 4.9
+|-
+| 3
+| 2008-08-21 20:24:32
+| 2008-08-21 12:24:32
+| Yingjiang County|Yingjiang, Yunnan
+| 25.1
+| 97.9
+| 5.9
+|-bgcolor=#dfefff
+| 4
+| 2008-08-22 20:06:14
+| 2008-08-22 12:35:09
+| Yingjiang County|Yingjiang, Yunnan
+| 25.0
+| 97.9
+| 4.7
+|-bgcolor=#dfefff
+| 5
+| 2008-09-03 02:59:18
+| ''2008-09-02 18:59:18''
+| Yingjiang County|Yingjiang, Yunnan
+| 24.9
+| 97.9
+| 4.1
+|-bgcolor=#dfefff
+| 6
+| 2008-09-03 14:27:20
+| 2008-09-03 06:27:20
+| Yingjiang County|Yingjiang, Yunnan
+| 24.9
+| 97.9
+| 4.8
+|}
+
+Note: Earthquakes #4 and after are not included in CEA summary; earthquake #2 is unaccounted for in CENC data base.
+
+==Response, casualties, and intensities==
+According to CEA, these earthquakes caused 5 deaths and 21 serious injuries.  Through http://www.eqyn.com/ Yunnan Earthquake Administration ('''YNEA'''), the provincial government invoked Level IV emergence response protocol in the relief.  Affected people amounted to 209,605, roughly 2/3 of the total population in affected areas.  Direct financial damages amounted to RMB&nbsp;1.3 billion.  In addition to building damages, the heaviest infrastructure damages occurred to water resources facilities.
+
+On the Seismic scale#Intensity scales|seismic intensity map published by CEA, maximum intensity of these earthquakes reached liedu VIII on China Seismic Intensity Scale ('''CSIS'''), which is somewhat equivalent to VIII (Heavily damaging) on European Macroseismic Scale|EMS-94 from which CSIS drew reference.  Liedu-VIII zone spans 26&nbsp;km<sup>2</sup> near the epicenter.  Total area of liedu VI (Slightly damaging) and above is a north-south oval of 4,511&nbsp;km<sup>2</sup>.
+
+== See also ==
+* 2009 Yunnan earthquake
+* 2011 Yunnan earthquake
+
+== References ==
+{{Reflist|30em}}
+
+{{Earthquakes in 2008}}
+{{Yunnan}}
+{{Earthquakes in China}}
+
+{{DEFAULTSORT:2008 Yingjiang Earthquakes}}
+Category:Earthquakes in China|2008 Yingjiang
+Category:2008 in China|Yingjiang earthquakes
+Category:2008 earthquakes|Yingjiang, China
+Category:History of Yunnan
+Category:Earthquake swarms

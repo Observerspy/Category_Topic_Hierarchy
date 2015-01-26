@@ -1,0 +1,121 @@
+clustering:
+cluster id: 0concept: 
+post-quake analysis#future threats#historic examples#compared with past earthquakes#list of major submarine earthquakes#subsequent fires#future seismic hazard#implications for current seismic risk#earthquake development#post-earthquake development#earthquake activity#historical context#geological origins#event in historical context#relation to other major earthquakes#tectonics and previous activity#fire and liquefaction#future threat#seismic hazard implications#
+cluster id: 1concept: 
+emergency and reconstruction aid#casualties and infrastructure damage#earthquake and damage#radio and television affected#television, movie, and music productions affected#schools and universities#death toll and damage#native and japanese accounts#aid and reconstruction#death toll and casualties#human toll in the city#relief and reconstruction#localization of the damage#response, casualties, and intensities#building damage in the city#death toll, damage, and casualties#injuries and fatalities#casualties, intensities, and damage areas#damage and casualties by country#death toll and damage to buildings#aftermath and reconstruction#universities, colleges, and schools affected#intensities and damage area#government and organization affected#patterns of damage#property damage#transportation affected#estimated casualties#areas affected#entertainment and sports affected#other buildings affected#buildings affected#human casualties#countries affected#casualties and damage#general infrastructure#transportation infrastructure damage#victims and damage#collapse of schoolhouses#clean-up and reconstruction#hospitals affected#controversy on reconstruction and criminality#damage and fatalities#economic damage#relief and reconstruction efforts#
+cluster id: 2concept: 
+aftershocks#domestic#threat#overview#significance#causes#rescue efforts#sources#landslides#medical impact#transport#legacy#relief efforts and aftermath#sport#details#relief efforts and response#emergency response#warning#discovery#evacuations#response in china#canterbury earthquake recovery authority#planning#response#consequences#immediate aftermath#rescue and relief efforts#memorials#liquefaction#warnings#landslide#relief#victims#analysis#outline#history#geology#marina district#conditions in the aftermath#national#telecommunications#suburbs#recording#recovery#tsunami#rebuilding#previous events#blackouts#environmental impact#relationship between the events#international response#power and water supply#housing#reactions of authorities#political aftermath#remembrance#responses#response and relief efforts#economic impact#tribute and day of mourning#relief efforts#governments#ports#mission#criticism of iranian government response#political#transportation#vestiges#foreshocks and aftershocks#research#event#other events#warning from agencies in other areas#timeline#local response#impact#community response#location#list of aftershocks#elsewhere across the pacific#magnitude#reconstruction#aftershock#earthquake and tsunami#characteristics#development#comparison#aftermath#socioeconomic impact#list of foreshocks and aftershocks#rediscovery#prior events#scientific and research response#schools#remarks#aid response#later casualties#international#aftershocks and related quakes#medical response#reaction#dams and water problems#government response and aid#early response#external aid#humanitarian, economic and environmental impact#implementation#geophysical impact#electricity#foreign and domestic aid#duration#geography#search and rescue#extent#national aid#prosecutions#tectonics#defense#international aid#localised tsunami#the red crescent#oceania#commission of inquiry#prediction#past events#government response#tsunamis#humanitarian response#evacuation#list of countries that sent aid#intensities#international response and aid#foreshock#aftermath and relief efforts#expressways and railways#
+cluster id: 3concept: 
+legislative changes#building code changes#disaster relief#international assistance and insurance payments#geological and structural engineering issues#disaster management#building standards#aid and relief#emergency management#political issues#relocation and housing#
+cluster id: 4concept: 
+cordón caulle eruption#valley fever outbreak#link to eruption of etna#link to eruption of mount fuji#rise of drugs#
+cluster id: 5concept: 
+seismology and geology#tectonic setting#regional seismicity#convergent plate boundary#tectonic summary#geological setting#tectonics and background#tectonic interpretation#background#background and tectonics#theories#previous seismicity#gallery#central communications center#magnitude and earth movement#tectonic plates#tectonic plate boundaries#magnitude and geology#geologic setting#fault zones within tectonic plates#cause#background and geology#memory#description#divergent plate boundary#tectonic causation#transform plate boundary#epicenter#
+cluster id: 6concept: 
+seismic intensity#seismic characteristics#earthquake characteristics#energy released#earthquake sequence#the seismic event#earthquakes magnitudes#earthquake's results#tsunami characteristics#energy#
+cluster id: 7concept: 
+extent of tremors#era of disaster#sequence of shocks#sequence of earthquakes#earthquake details#technical details#related earthquakes#summary of earthquakes#list of shocks#relationship between earthquakes#previous and later earthquakes#similar megathrust earthquakes#subsequent earthquakes#effect on disaster prevention planning#relation to other earthquakes#aftershocks and other earthquakes#seismologic details#
+cluster id: 8concept: 
+ri?ihuazo flood#main earthquake#main shock#future earthquake hazard#future risk#earthquake prediction#precursors and foreshocks#quake lake#evidence of the earthquake#the earthquake and volunteerism#first shock#films on the earthquake#predicted earthquake hazard#effects of earthquake in other parts of mexico#strong motion#the montereale earthquake#mechanism of the earthquake#iranian earthquake education#
+cluster id: 9concept: 
+efforts#government reactions#government data#national effort#aid agencies#public anger#aid from organizations#causes of building collapse and public reaction#
+cluster id: 10concept: 
+solid-solid phase transitions#stress triggering#possible causes#peak acceleration#meteorological causes#human sacrifice#transformational faulting or anticrack faulting#stress-induced melting and shear thermal instability#ground acceleration#surface faulting#
+cluster id: 11concept: 
+popular culture#in popular culture#
+cluster id: 12concept: 
+other charity and fundraising activities#internet activity and social media#role of monks and victims' rites#consequences and response#fundraising and charity events#early warnings and predictions#humanitarian and welfare#rescue operations and compensation#signs and warnings#success and benefits of redevelopment#preparedness and response#problems of redevelopment#infrastructure and support#tsunami warnings#
+cluster id: 13concept: 
+memorable sites#
+cluster id: 14concept: 
+the events#the "quake lake"#impact in the countryside#damage from the earthquake#
+cluster id: 15concept: 
+incidents#incidents elsewhere#kashiwazaki-kariwa nuclear power plant incidents#
+cluster id: 16concept: 
+prison escape#homeless camps#description in public archives#
+cluster id: 17concept: 
+response from other countries#domestic reactions#state funeral#day of mourning#zoo animal reactions#
+cluster id: 18concept: 
+current hazards#current situation#analysis and current situation#land subsidence#
+cluster id: 19concept: 
+economic recovery#economic impacts#essential services#memorial services#long-term recovery#status of the recovery#
+cluster id: 20concept: 
+modified mercalli intensities for some localities#
+cluster id: 21concept: 
+damage outside cheviot#damage to hospitals#veterans hospital#surface rupture#olive view hospital#
+cluster id: 22concept: 
+centennial commemorations#air crash#first anniversary#
+cluster id: 23concept: 
+geophysical effects#damage and effects#other effects#effects#casualties, damage, and other effects#geophysical effects#primary effects#effect on businesses#damage evaluation#shaking#damage#damage and casualties#structural effects#media#ground effects#health#animal casualties#long-term effects#damage & casualties#damage, casualties and effects#effects on transportation#casualties#effect#japan self-defense forces#infrastructure#media coverage#honors#damage and deaths#spread of effect#cost#damage in cities and the suburbs#damages and casualties#
+cluster id: 24concept: 
+focal mechanisms#earthquake mechanisms#
+cluster id: 25concept: 
+cultural references#cultural properties#
+cluster id: 26concept: 
+controversial statistics#statistics#
+cluster id: 27concept: 
+certifications#news coverage#
+cluster id: 28concept: 
+personnel#defence forces#effect on society and philosophy#
+cluster id: 29concept: 
+impact on natural area#data on magnetic disturbances#affected area#anchorage area#
+cluster id: 30concept: 
+precursors#predictions, precursors, and postmortems#assistance and reporting#
+cluster id: 31concept: 
+development of seismology#completion of works#tsunami-related aid given#repair work#epicenter and seismology#disruption in communications#influence#
+cluster id: 32concept: 
+nuclear blast#nuclear power plants#space center#electric power supply#wind power#oil, gas and coal#natural gas emission#
+cluster id: 33concept: 
+sewing factory#metro service#
+cluster id: 34concept: 
+political reaction#foreign reaction#political consequences#public reaction#reactions#international reaction#
+cluster id: 35concept: 
+panoramas#
+cluster id: 36concept: 
+eyewitness accounts#reported portents#
+cluster id: 37concept: 
+geographic information#seismic data#data#technical data#police#
+cluster id: 38concept: 
+automotive production#food scarcity#
+cluster id: 39concept: 
+population with destroyed or severely damaged homes#scientific study#
+cluster id: 40concept: 
+seismology#
+cluster id: 41concept: 
+emergency relief funds for donations#
+cluster id: 42concept: 
+postquake violence#
+cluster id: 43concept: 
+showa bridge#earthquake epicenter#
+cluster id: 44concept: 
+dehydration embrittlement#
+cluster id: 45concept: 
+recent developments#previous quakes#
+cluster id: 46concept: 
+damage to infrastructure#
+cluster id: 47concept: 
+prior warning#
+cluster id: 48concept: 
+radar imagery#
+cluster id: 49concept: 
+scientific preparedness#scientific framework#
+cluster id: 50concept: 
+identified fatalities#
+cluster id: 51concept: 
+tsunami warning#
+cluster id: 52concept: 
+luminous phenomena#
+cluster id: 53concept: 
+death toll#
+cluster id: 54concept: 
+technical records#
+cluster id: 55concept: 
+science of the earthquake#
+cluster id: 56concept: 
+televisa studios#
+cluster id: 57concept: 
+chaos and disorder#
+cluster id: 58concept: 
+internet video#
+cluster id: 59concept: 
+natural disasters triggered#

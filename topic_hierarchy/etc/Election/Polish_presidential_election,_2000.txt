@@ -1,0 +1,84 @@
+{{Infobox Election
+| election_name = Polish presidential election, 2000
+| country = Poland
+| type = presidential
+| ongoing = no
+| previous_election = Polish presidential election, 1995
+| previous_year = 1995
+| next_election = Polish presidential election, 2005
+| next_year = 2005
+| election_date = 8 October 2000
+| image1 = [[File:Aleksander Kwasniewski (cropped).jpg|130px]]
+| nominee1 = [[Aleksander Kwaśniewski]]
+| party1 = Democratic Left Alliance
+| popular_vote1 = 9,485,224
+| percentage1 = 53.9%
+| image2 = [[File:Andrzej Olechowski candidate 2010.jpg|115px]]
+| nominee2 = [[Andrzej Olechowski]]
+| party2 = Independent (politician)|Independent
+| popular_vote2 = 3,044,141
+| percentage2 = 17.3%
+| image4 = [[File:Marian Krzaklewski 2007.jpg|125px]]
+| nominee4 = [[Marian Krzaklewski]]
+| party4 = Solidarity Electoral Action
+| popular_vote4 = 2,739,621
+| percentage4 = 15.6%
+| image5 = 
+| nominee5 = [[Jarosław Kalinowski]]
+| party5 = Polish People's Party
+| popular_vote5 = 1,047,949
+| percentage5 = 6.0%
+| title = [[President of Poland|President]]
+| posttitle = [[President of Poland|President]]
+| before_election = [[Aleksander Kwaśniewski]]
+| before_party = independent (politician)
+| after_election = [[Aleksander Kwaśniewski]]
+| after_party = independent (politician)
+}}
+{{Politics of Poland}}
+The '''2000 Polish presidential election''' took place in [[Poland]] on 8 October 2000. [[Incumbent]] [[President of Poland|President]] [[Aleksander Kwaśniewski]] was easily re-elected in the first round after winning more than 50% of the votes.
+
+==Background==
+President Kwaśniewski was seen as very likely to win re-election in the run up to the presidential election<ref name=survive>{{cite news | title = Europe: Can Poland's government survive? | publisher = [[The Economist]] | page = 50 | date = 2000-06-17 | accessdate = 2009-05-16}}</ref> with polls showing that his popularity was high as 70% support.<ref name=secret>{{cite news | first = John | last = Reed | title = Ghosts from Poland's communist past come to haunt presidential hopefuls: Lech Walesa and Aleksander Kwasniewski will have their denials of co-operating with secret police tested. | publisher = [[Financial Times]] | page = 9 | date = 2000-08-04 | accessdate = 2009-05-16}}</ref> His main challenger was expected to be [[Marian Krzaklewski]] from the [[Solidarity Electoral Action]], which had formed the government since winning the last [[Polish parliamentary election, 1997|parliamentary elections in 1997]].<ref name=files>{{cite news | first = Roger | last = Boyes | title = Secret police files to decide Walesa's fate | publisher = [[The Times]] | page = 13 | date = 2000-08-08 | accessdate = 2009-05-16}}</ref> The other main candidate was a former [[Ministry of Foreign Affairs (Poland)|Foreign Minister]] and more liberal conservative [[Andrzej Olechowski]],<ref name=files/> who won support from voters who were discontented with both of the other main candidates and in particular younger voters, businessmen and intellectuals.<ref name=changing>{{cite news | title = Europe: The changing Poles | publisher = [[The Economist]] | page = 59 | date = 2000-10-14 | accessdate = 2009-05-19}}</ref>
+
+Candidates seen as having less of a chance included [[Andrzej Lepper]], a populist farmers leader who opposed entry into the [[European Union]] and former president [[Lech Wałęsa]].<ref name=files/> Wałęsa was rejected as the candidate for the Solidarity party he had won the presidency for, and thus ran separately in the election.<ref name=enough>{{cite news | first = Kate | last = Connolly | title = Past is not enough for modern Poland: Lech Walesa won the fight against communism in the 80s, but is failing to win over voters in 2000 | publisher = [[The Guardian]] | page = 18 | date = 2007-10-07 | accessdate = 2009-05-19}}</ref>
+
+In order to be elected in the first round a candidate had to gain over 50% of the vote. If no candidate reached this level, then a second round would have been held between the top two candidates. As the campaign continued, the biggest question in the election was whether or not incumbent President Kwaśniewski would win the 50% required to avoid a second round.<ref name=poised>{{cite news | title = Polish president poised for first-round win | publisher = [[Financial Times]] | page = 3 | date = 2000-10-07 | accessdate = 2009-05-19}}</ref>
+
+In the August before the election Kwaśniewski and another former president and candidate [[Lech Wałęsa]] were investigated by a court on allegations that they had been [[Informant|informer]]s for the [[Służba Bezpieczeństwa|Communist secret police]].<ref name=secret/> If they had been found guilty they could have been banned from seeking election to political office for 10 years.<ref name=files/> However they both claimed that the evidence had been manipulated by political opponents and were cleared by the court.<ref name=cleared>{{cite news | first = Kate | last = Connolly | title = Walesa cleared of cold war spy claims | publisher = [[The Guardian]] | page = 2 | date = 2000-08-12 | accessdate = 2009-05-16}}</ref>
+
+Solidarity candidate Krzaklewski attacked Kwaśniewski for his past as a [[Communist]] party activist.<ref name=polls>{{cite news | title = Polish polls | publisher = [[Financial Times]] | page = 20 | date = 2000-07-04 | accessdate = 2009-05-16}}</ref> However [[opinion poll]]s in August showed this had little effect with Kwaśniewski well ahead with over 60% support, while Krzaklewski was second and Olechowski third, but both a long way behind.<ref name=files/> President Kwaśniewski's campaign focused on reconciling all of Poland with slogans including "Poland, our common home".<ref name=secures>{{cite news | title = Polish president secures re-election with strong first-round win | publisher = [[Financial Times]] | page = 3 | date = 2000-10-09 | accessdate = 2009-05-19}}</ref> Most voters felt he had done well as President and he was seen as having done a good job in guiding Poland to membership of [[NATO]].<ref name=heads>{{cite news | first = Kate | last = Connolly | title = Polish president heads to victory | publisher = [[The Guardian]] | page = 16 | date = 2000-10-09 | accessdate = 2009-05-19}}</ref> Krzaklewski's popularity was not high due to the infighting in the government led by his Solidarity party since they had won the [[Polish parliamentary election, 1997|1997 parliamentary election]].<ref name=videotape>{{cite news | first = George | last = Blazyca | title = Videotape blurs the picture for Polish president | publisher = [[The Scotsman]] | page = 11 | date = 2000-10-07 | accessdate = 2009-05-19}}</ref> Meanwhile Lech Wałęsa trailed badly in the polls with only about 2% support, which Wałęsa saw as being due to voters seeing him as being responsible for the pain involved in the transition from [[communism]].<ref name=enough/>
+
+In the election 3 candidates ran on platforms against the [[European Union]].<ref name=faith>{{cite news | first = Martin | last = Fletcher | title = Frustrated Poles lose faith in EU as wait drags on | publisher = [[The Times]] | page = 18 | date = 2000-10-05 | accessdate = 2009-05-18}}</ref> During the campaign one of them, Andrzej Lepper, was arrested for illegally blocking a [[customs]] post, however he claimed that this was an attempt to sabotage his campaign.<ref name=arrested>{{cite news | title = Polish election contender arrested | publisher = [[Financial Times]] | page = 6 | date = 2000-08-25 | accessdate = 2009-05-18}}</ref>
+
+As the election neared Kwaśniewski dropped in the polls and it became uncertain whether he would win the 50% required to avoid a second round. This followed a [[television advertisement]] from Solidarity candidate Krzaklewski in which Kwaśniewski was accused of having mocked [[Pope John Paul II]].<ref name=suffers>{{cite news | title = Polish president suffers in poll | publisher = [[The Irish Times]] | page = 10 | date = 2000-10-05 | accessdate = 2009-05-18}}</ref> The video showed Kwaśniewski apparently urging his security advisor to kiss the ground is a parody of the Pope, although Kwaśniewski claimed this was inaccurate.<ref name=poised>{{cite news | title = Polish president poised for first-round win | publisher = [[Financial Times]] | page = 3 | date = 2000-10-07 | accessdate = 2009-05-18}}</ref> At least one poll showed Kwaśniewski's support having dropped by 10% in one week following this, however it was the other main candidate, Andrzej Olechowski, who benefited as Krzaklewski was seen as being tarnished for having run a negative campaign.<ref name=videotape/>
+
+==Candidates==
+<gallery>
+File:Marian Krzaklewski 2007.jpg|Chairman of Solidarity '''[[Marian Krzaklewski]]'''
+File:Aleksander_Kwaśniewski_2003.jpg|Incumbent '''[[Aleksander Kwaśniewski]]'''
+File:Andrzej Lepper.jpg|Activist '''[[Andrzej Lepper]]'''
+File:Fond blanc.svg|Activist '''Jan Łopuszański'''
+File:Korwin.png|Chairman of Unia Polityki Realnej '''[[Janusz Korwin-Mikke]]'''
+File:Andrzej Olechowski candidate 2010.jpg|Independent '''[[Andrzej Olechowski]]'''
+
+File:Lech Walesa.jpg|Former President '''[[Lech Wałęsa]]'''
+
+</gallery>
+
+==Results==
+Incumbent President Kwaśniewski won the election in the first round receiving almost 54% of the vote.<ref name=changing/> Independent Andrzej Olechowski came second beating Solidarity candidate Krzaklewski into third place.<ref name=changing/> Meanwhile former President Lech Wałęsa only won 1% of the vote<ref name=second>{{cite web| url = http://www.timesonline.co.uk/tol/news/world/article987496.ece | title = Polish leader wins second term | accessdate = 2009-05-19 | date = 2000-10-09 | publisher = ''[[The Times]]''}}</ref> and following the election stood down as leader of his small [[Christian Democracy of the 3rd Republic of Poland|Christian Democratic]] party.<ref name=changing/><ref name=humiliated>{{cite news | title = Humiliated Wałęsa steps down as party chairman | publisher = [[Evening Standard]] | page = 4 | date = 2000-10-16 | accessdate = 2009-05-19}}</ref>
+{{Polish presidential election, 2000}}
+
+==References==
+{{reflist}}
+
+{{History of the Third Polish Republic}}
+{{Polish Elections}}
+
+[[Category:Elections in Poland]]
+[[Category:2000 elections in Europe]]
+[[Category:History of Poland (1989–present)]]
+[[Category:2000 in Poland]]
+
+[[es:Elecciones presidenciales de Polonia de 2010]]

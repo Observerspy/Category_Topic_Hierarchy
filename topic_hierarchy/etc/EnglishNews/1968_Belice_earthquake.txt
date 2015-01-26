@@ -1,0 +1,62 @@
+{{Earthquake
+|title= 1968 Belice Earthquake
+|date= {{Start-date|January 14, 1968}}
+|map2 = {{Location map | Italy Sicily
+ | label=
+ | lat=37.767
+ | long=12.983
+ | mark=Bullseye1.png
+ | marksize=70
+ | position=top
+ | width= 250
+ | float=right
+ | caption=
+ | relief=yes}}
+|image=
+|imagecaption= 
+|magnitude = 5.5 Moment magnitude scale|M<sub>w</sub>
+|depth=
+|location={{coord|37.767|12.983|display=inline, title}}
+|countries affected = Sicily
+|tsunami =
+|casualties = 232-~400 dead, 632-~1000 injured
+}}
+File:Poggioreale ruderi2.jpg|thumb|The ruins of Poggioreale pictured in 2003
+The '''1968 Belice earthquake''' sequence took place in the Sicily region of southern Italy between 14-15 January 1968. The maximum perceived intensity was X (''Intense'') on the Mercalli intensity scale. The earthquake sequence, epicenter|centred between the towns of Gibellina, Salaparuta  and Poggioreale, killed at least 231 people, possibly more than 400, with between 632 and about 1000 injured and left 100,000 homeless. It is known in Italy as '''Terremoto del Belice'''.
+
+==Tectonic setting==
+Sicily lies on the complex Convergent boundary|convergent plate boundary between the African Plate and the Eurasian Plate. The geology of the western part of the island is dominated by the Gela Nappe, a Thin-skinned deformation|thin-skinned fold and thrust belt. The Gela Nappe consists of Pliocene-Quaternary age sedimentary rocks deposited in the earlier Foreland basin|foredeep, thrust up onto the thick carbonate sequence of the Pelagian-Hyblean Platform of the African Plate.
+
+==Earthquake==
+There was a sequence of six M 5+ earthquakes, making this western Sicily's largest historical seismic event,
+
+The greatest perceived intensity on the Mercalli scale was X (''Intense'') at Gibellina, Montevago and Salaparuta. Intensities at Poggioreale, Santa Margherita di Belice, Santa Ninfa, Partanna and Salemi reached IX (''Violent'') on the scale.
+
+The focal mechanisms of the mainshock and the two magnitude 5+ aftershocks are consistent with thrusting on faults trending west-east, although an alternative solution has been proposed for the mainshock of right lateral transpression on a NNW-SSE trending fault.
+
+==Damage==
+The main area of damage was centred around the valley of the Belice, with worst affected towns being Santa Ninfa, Partanna, Montevago, Santa Margherita di Belice, Gibellina,  Salaparuta, Poggioreale.{{rp|8}} Vita, Sicily|Vita, Salemi, and Camporeale also suffered significant damage.{{rp|2}}
+
+The earthquakes on 14 January did little damage, but many of the inhabitants spent the following night sleeping outside, during which the most damaging of the shocks occurred, The official death toll was 231 with a further 623 injured. Other estimates give more than 400 dead with over 1,000 injured. An estimated 100,000 people were made homeless by the earthquakes.
+
+The worst affected buildings were of unreinforced masonry construction that used irregular stones with weak mortar and had roofs consisting of heavy tiles resting on wooden beams. Such buildings collapsed completely in many cases. Houses with load-bearing walls made of regular stone or concrete blocks and better quality mortar performed better, although some were badly damaged. The most modern buildings that used reinforced concrete frames generally suffered little damage.{{rp|10}}
+
+==Aftermath==
+The immediate relief effort was hampered by a lack of disaster relief planning at both local and provincial levels, excessive bureaucracy, a lack of supplies close to the affected areas and a tendency of refugees to treat outsiders with suspicion.{{rp|59}}
+
+One year after the earthquakes, many hundreds of people were still living in tents and many of the prefabricated housing units had yet to appear, despite having been paid for; no work had begun on providing permanent housing. Two-thirds of refugee families had still not received their government grant.{{rp|52}} Nine years after the earthquake, none of the refugees had been placed in new housing, leaving 60,000 still living in temporary accommodation.
+
+The towns of Poggioreale, Gibellina, Vita, Santa Margherita di Belice and Salaparuta were eventually rebuilt in new locations.
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{Cite book | last = Haas | first = J. Eugene | authorlink =  |author2= Robert S. Ayre | title = The Western Sicily Earthquake Of 1968 | publisher = National Academy of Sciences | year = 1969 | location = Washington, D.C. | url = http://books.google.com/books?id=N0UrAAAAYAAJ&lpg=PP3&dq=john%20eugene%20haas&pg=PP3#v=onepage&q&f=false | accessdate = July 11, 2011}}
+
+
+{{DEFAULTSORT:Belice Earthquake, 1968}}
+Category:Earthquakes in Italy|1968 Belice
+Category:1968 earthquakes
+Category:1968 in Italy
+Category:Disasters in Sicily|1968

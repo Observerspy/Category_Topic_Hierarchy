@@ -1,0 +1,114 @@
+{{refimprove|date=September 2011}}
+{{Infobox earthquake
+|title =1948 Fukui Earthquake
+|image =Fukui Earthquake 1948 - damaged building.jpg|250px
+|image alt =
+|imagecaption =Daiwa Department Store after the Earthquake.
+|map =
+|map alt =
+|image name =
+|map2 ={{Location map|Japan|label=|lat=36.10|long=136.17|mark=Bullseye1.png|marksize=50|position=top|width=250|float=right|caption=|relief=yes}}
+|mapsize =
+|caption =
+|date ={{Start-date|June 28, 1948|June 28, 1948}}
+|origintime = 16:13:29 Japan Standard Time|JST (UTC+09:00)
+|duration =
+|magnitude =7.3 Moment magnitude scale|M<sub>w</sub>
+|depth ={{convert|0|km|mi}}
+|location ={{coord|36.10|N|136.17|E}}
+|type = Intraplate earthquake
+|countries affected =Japan
+|damage = US$ 1000 million
+|intensity = ''Mercalli Scale|MM'' IX (estimate)<br>''Japan Meteorological Agency seismic intensity scale|Shindo'' 6
+|PGA = <!-- NN''Peak ground acceleration|g'' -->
+|tsunami =No
+|landslide =
+|foreshocks =
+|aftershocks =
+|casualties =3,769 dead<br>22,203 injured 
+
+}}
+The {{nihongo|'''1948 Fukui earthquake'''|福井地震|Fukui jishin}} was a major earthquake in Fukui Prefecture, Japan. The magnitude 7.3 quake struck at 5:13 p.m.(Daylight saving time in Japan|JDT) on June 28, 1948. The strongest shaking occurred in the city of Fukui, Fukui|Fukui, where it was recorded as 6 (equivalent to the current 7) on the Japan Meteorological Agency seismic intensity scale. The coordinates of the earthquake were 36゜10.3'N　136゜17.4'E (around the town of Maruoka, Fukui|Maruoka).
+
+== Geology ==
+This earthquake was caused by a Fault (geology)#Strike-slip faults|strike-slip fault that was unknown until this earthquake. The fault stretches from Kanazu, Fukui|Kanazu to Fukui, Fukui|Fukui, {{Convert|25|km|mi|0|abbr=on}} long, and was later named the "Fukui Earthquake Fault". Shaking was felt as far as Mito, Ibaraki|Mito in the east, and Saga, Saga|Saga in the west.
+
+=== Relation to other earthquakes ===
+Some seismologists say that the 1961 Gifu Earthquake, the 1969 Gifu Earthquake, the 1984 Otaki earthquake, and this earthquake were a series of related earthquakes.{{citation needed|date=June 2013}}
+
+== Damage ==
+File:Daiwa Department Store after Fukui Earthquake.JPG|thumb|Daiwa Department Store after the earthquake
+File:Fukui Castle04bs4592.jpg|thumb|A collapsed stone wall at Fukui Castle
+Damage was most reported in the Fukui plain, where the building collapse rate was more than 60%, since shaking became larger due to it being an alluvial plain, and many of the buildings were just built after the war and a little unstable.
+
+At the time many people were cooking so after the earthquake many fires spread. Since the roads and the waterworks were damaged it took 5 days to put out the fires and so the fires caused devastating damage.
+
+Even though the Daiwa Department Store collapsed, the Fukui Bank building right next to it had no significant damage. It is thought to have been because the Fukui Bank building had about 500 deep foundation pipes 10&nbsp;meters deep in the ground.
+
+Almost all of the farmers' houses in the epicenter area collapsed, but most of the farmers were outside so there were not many casualties.
+
+{| class="wikitable" style="text-align:right"
+|+ Total Damage
+! rowspan="2" | Prefecture || colspan="2" | Casualties || colspan="3" | Damaged houses
+|-
+! Deaths || Injuries || Collapsed || Half collapsed || Burned
+|-
+! Fukui Prefecture|Fukui
+| 3,728 || 21,750 || 35,382 || 10,542 || 3,851
+|-
+! Ishikawa Prefecture|Ishikawa
+| 41 || 453 || 802 || 1,274 || 0
+|-
+! Total
+| 3,769 || 22,203 || 36,184 || 11,816 || 3,851
+|}
+
+=== Damage in Fukui City ===
+{| class="wikitable" style="text-align:right"
+|+Total Damage in Fukui City
+! Dead || 930
+|-
+! Collapsed buildings || 12,270
+|-
+! Half collapsed buildings || 3,158
+|-
+! Burnt buildings || 2,069
+|-
+! Building collapse rate || 79.0%
+|-
+! Fires || 24
+|-
+! Burnt area || 2,120,600 m?
+|}
+
+=== Casualties ===
+At the time, it was the deadliest earthquake after the Pacific War (now preceded by the Great Hanshin earthquake and the Tōhoku earthquake and tsunami). This earthquake killed 3769 people, mainly in Sakai, Fukui|Sakai City (then part of Fukui City), where the death rate was more than 1%.
+
+=== Property Damage ===
+* Maruoka Castle collapsed.
+* Hosorogi Station and Kanazu Station (now Awaraonsen Station) collapsed.
+* The Daiwa Department Store collapsed.
+* A theater in Fukui, Fukui|Fukui collapsed and caught fire, killing a few hundred people.
+
+=== Other ===
+* Levees damaged by the earthquake and torrential rains caused Kuzuryū River to overflow.
+
+== Influence ==
+* The Japan Meteorological Agency added ''Japan Meteorological Agency seismic intensity scale|Shindo'' 7 to the Japan Meteorological Agency seismic intensity scale.
+
+== References ==
+{{reflist}}
+
+==Notes==
+{{reflist|group=note}}
+
+== External links ==
+* http://www.life.com/image/first/in-gallery/57761/earthquake-in-japan-june-1948#index/0 Earthquake in Japan: June 1948 - slideshow by ''Life magazine''
+
+{{Earthquakes in Japan}}
+
+{{DEFAULTSORT:1948 Fukui Earthquake}}
+Category:Earthquakes in Japan|1948 Fukui
+Category:Occupied Japan|Fukui
+Category:1948 earthquakes|Fukui earthquake
+Category:1948 in Japan|Fukui earthquake

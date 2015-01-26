@@ -1,0 +1,598 @@
+{{Infobox Election
+| election_name      = Dutch general election, 2006
+| country            = Netherlands
+| type               = parliamentary
+| ongoing            = no
+| previous_election  = Dutch general election, 2003
+| previous_year      = 2003
+| next_election      = Dutch general election, 2010
+| next_year          = 2010
+| seats_for_election = All 150 seats to the [[House of Representatives of the Netherlands|House of Representatives]] <br> 76 seats were needed for a majority
+| election_date      = 22 November 2006
+
+<!--      Christian Democratic Appeal      -->
+| image1             = [[File:Jan Peter Balkenende 2006.jpg|92px|Jan Peter Balkenende]]
+| leader1            = [[Jan Peter Balkenende]]
+| leader_since1      = 2001
+| party1             = Christian Democratic Appeal
+| last_election1     = 44 seats, 28.6%
+| seats1             = 41
+| seat_change1       = {{decrease}}3
+| popular_vote1      = 2,608,573
+| percentage1        = 26.5%
+
+<!--      Labour Party      -->
+| image2             = [[File:Bos Dutch politician kabinet Balkenende IV.jpg|100px|Wouter Bos]]
+| leader2            = [[Wouter Bos]]
+| leader_since2      = 2002
+| party2             = Labour Party (Netherlands)
+| last_election2     = 42 seats, 27.3%
+| seats2             = 33
+| seat_change2       = {{decrease}}9
+| popular_vote2      = 2,085,077
+| percentage2        = 21.2%
+
+<!--      Socialist Party      -->
+| image3             = [[File:Marijnissen2006.jpg|104px|Jan Marijnissen]]
+| leader3            = [[Jan Marijnissen]]
+| leader_since3      = 1988
+| party3             = Socialist Party (Netherlands)
+| last_election3     = 9 seats, 6.3%
+| seats3             = 25
+| seat_change3       = {{increase}}16
+| popular_vote3      = 1,630,803
+| percentage3        = 16.6%
+
+<!--      People's Party for Freedom and Democracy      -->
+| image4             = [[File:Mark Rutte-6.jpg|110px|Mark Rutte]]
+| leader4            = [[Mark Rutte]]
+| leader_since4      = 2006
+| party4             = People's Party for Freedom and Democracy
+| last_election4     = 28 seats, 17.9% 
+| seats4             = 22
+| seat_change4       = {{decrease}}6
+| popular_vote4      = 1.443.312
+| percentage4        = 14.7%
+
+<!--      Party for Freedom      -->
+| image5             = [[File:Slotdebat verkiezingen (final debate elections) 2006-2 cropped and flipped.jpg|106px|Geert Wilders]]
+| leader5            = [[Geert Wilders]]
+| leader_since5      = 2006
+| party5             = Party for Freedom
+| last_election5     = '''First Election'''
+| seats5             = 9
+| seat_change5       = {{increase}}9
+| popular_vote5      = 579.490
+| percentage5        = 5.9%
+
+<!--      GreenLeft      -->
+| image6             = [[File:Femke Halsema 2.jpg|102px|Femke Halsema]]
+| leader6            = [[Femke Halsema]]
+| leader_since6      = 2002
+| party6             = GreenLeft
+| last_election6     = 8 seats, 5.1%
+| seats6             = 7
+| seat_change6       = {{decrease}}1
+| popular_vote6      = 453.054
+| percentage6        = 4.6%
+
+<!--      ChristianUnion      -->
+| image7             = [[File:Vicepremier-en-minister-André-Rouvoet.jpg|83px|André Rouvoet]]
+| leader7            = [[André Rouvoet]]
+| leader_since7      = 2002
+| party7             = ChristianUnion
+| last_election7     = 3 seats, 2.1%
+| seats7             = 6
+| seat_change7       = {{increase}}3
+| popular_vote7      = 390.969
+| percentage7        = 4.0%
+
+<!--      Democrats 66      -->
+| image8             = [[File:Pechtold 29 03 048b (2).jpg|102px|Alexander Pechtold]]
+| leader8            = [[Alexander Pechtold]]
+| leader_since8      = 2006
+| party8             = Democrats 66
+| last_election8     = 6 seats, 4.1%
+| seats8             = 3
+| seat_change8       = {{decrease}}3
+| popular_vote8      = 193.232
+| percentage8        = 2.0%
+
+<!--      Party for the Animals      -->
+| image9             = [[File:Marianne Thieme.jpg|92px|Marianne Thieme]]
+| leader9            = [[Marianne Thieme]]
+| leader_since9      = 2006
+| party9             = Party for the Animals
+| last_election9     = 0 seats, 0,5% 
+| seats9             = 2
+| seat_change9       = {{increase}}2
+| popular_vote9      = 179.988
+| percentage9        = 2.0%
+| map_image          = Tweede Kamerverkiezingen 2006.png
+| map_size           = 250px
+| map_caption        =
+| title              = [[Prime Minister of the Netherlands|Prime Minister]]
+| posttitle          = [[Prime Minister of the Netherlands|Prime Minister]]
+| before_election    = [[Jan Peter Balkenende]]
+| before_party       = Christian Democratic Appeal
+| after_election     = [[Jan Peter Balkenende]]
+| after_party        = Christian Democratic Appeal
+}}
+
+'''General elections''' were held in the [[Netherlands]] on 22 November 2006 following the fall of the [[Second Balkenende cabinet]]. The elections proved relatively successful for the [[Third Balkenende cabinet|governing]] [[Christian Democratic Appeal]] (CDA) which remained the largest party with 41 seats, a loss of only three seats. The largest increase in seats was for the [[Socialist Party (Netherlands)|Socialist Party]] (SP), which went from nine to 25 seats. The main opposition party, the social-democratic [[Dutch Labour Party|Labour Party]] (PvdA) lost nine of its 42 seats, while the right-liberal [[People's Party for Freedom and Democracy]] (VVD) and the progressive liberal [[D'66|Democrats 66]] lost a considerable portion of their seats, six of 28 and three of six, respectively. New parties, such as the right-wing [[Party for Freedom]] (PVV) of former VVD MP [[Geert Wilders]] and the animal rights party [[Party for the Animals]] (PvdD) were also successful, with the PVV winning nine seats and the PvdD winning two, thereby becoming the first [[animal rights]] group to enter a European parliament.<ref>[http://news.scotsman.com/latest.cfm?id=1740212006 Dutch animal rights party wins 2 seats in election], ''Reuters'', 23 November 2006</ref>
+
+For the breakdown of seats in House of Representatives since the 2006 General Elections, please refer to the [[List of members of the House of Representatives of the Netherlands (2006-2010)]]
+
+The [[2006-2007 Dutch cabinet formation|formation talks]] led to the installation of the Christian-social [[fourth cabinet Balkenende|fourth Balkenende cabinet]], composed of CDA, PvdA and ChristianUnion on 22 February 2007.
+
+==Background==
+
+===Internal elections===
+In the month before the fall of the cabinet two parties held internal elections on who would lead their parties in the next elections, which were scheduled for 2007. In the [[2006 VVD internal election|internal election]] of the conservative liberal VVD the more liberal [[Staatssecretaris|secretary of state]] for science and higher education [[Mark Rutte]] beat the more conservative [[minister without portfolio]] for immigration and integration [[Rita Verdonk]]. In the [[2006 D66 internal election|internal election]] of the progressive liberal [[D'66|D66]] the more radical democratic minister without portfolio for government reform [[Alexander Pechtold]] beat the more social-liberal [[Fractievoorzitter|chair of the parliamentary party]] [[Lousewies van der Laan]].
+
+===Fall of the Cabinet===
+The next [[Dutch general election]] was originally scheduled for 15 May 2007 as the parliament was to be dissolved on 2 April 2007. However, it was announced that elections would be held on 22 November 2006,<sup>[http://english.people.com.cn/200607/05/eng20060705_280064.html]</sup> as Prime Minister, [[Jan Peter Balkenende]], offered the resignation of the cabinet on 30 June 2006 after one of the coalition partners, [[Democrats 66|D66]], withdrew their support from the cabinet the day before over [[Rita Verdonk]]'s treatment of the [[Ayaan Hirsi Ali]] case.<ref>{{cite news| url=http://news.moneycentral.msn.com/provider/providerarticle.asp?feed=FT&Date=20060629&ID=5834370 | title=Dutch coalition under threat in row over Hirsi Ali | publisher=MSN Moneyline | date=6 June 2006}}</ref><ref>{{cite news| url=http://www.expatica.com/source/site_article.asp?subchannel_id=1&story_id=31207&name=D66+withdraws+support+from+coalition%3B+confusion+reigns | title=D66 withdraws support from coalition; confusion reigns | publisher=Expatica | date=6 June 2006}}</ref> A new [[Third Balkenende cabinet|cabinet]] continued for five months as a [[care taker cabinet]] until the elections. The opposition had pressed for speedy elections because they were on a winning streak. The late date for the elections probably worked to the advantage of the CDA because in those five months the economy improved and in the past the biggest coalition partner had always come out as the biggest party if the economy blooms. A major issue in the campaigns was whether this improving economy was because of or in spite of the right-wing government.
+
+===Splintered Fortuynists===
+After the fall of the cabinet several new small right-wing parties announced that they would run. Most of these parties either came out of the remains of [[Pim Fortuyn]]'s [[Pim Fortuyn List]] (LPF) or the liberal VVD. In the period before the elections the small right was characterized by a chaos of secessions, new formations and party switches. Former Rotterdam [[Wethouder|alderman]] [[Marco Pastors]] and member of parliament for the LPF [[Joost Eerdmans]] formed [[Eén NL]]. [[Party for the Netherlands]] was led by former LPF minister [[Hilbrand Nawijn]], while Wilders recruited people for his new [[Party for Freedom]], which would take part in the 2006 elections. Nawijn and Wilders became [[independent (politician)|independent]] in parliament at that time, while Eerdmans has formed the "Group Eerdmans-Van Schijndel" along with former VVD MP [[Anton van Schijndel]]. Two other LPF politicians have formed one man fractions but they have not formed their own party: [[Gerard van As]], former leader of the LPF, and [[Gonny van Oudenallen]], also former LPF. [[Margot Kraneveldt]] left the LPF, returned her seat to the party and joined the social-democratic PvdA. Meanwhile the LPF announced that it would also run the next elections, under the name "Fortuyn". The party is led by [[Olaf Stuger]], who served as member of parliament in the period 2002–2003 and returned to parliament in 2006, to replace Gerard van As.
+
+===Exodus of prominent politicians===
+Several prominent politicians announced they would step down before the elections. Some commentators spoke of a large exodus.<ref>{{nl icon}} Ter Braak, Bert, [http://www.parlement.com/9291000/modulesf/hdcfbrkr De grote uittocht?], ''Parlement.com'', 25 August 2006</ref> Within the liberal VVD former chair of the parliamentary party [[Jozias van Aartsen]] announced he would retire, as did his vice-chair [[Bibi de Vries]], [[Frans Weisglas]] the current speaker of parliament, and ministers [[Hans Hoogervorst]], [[Sybilla Dekker]], state secretary [[Melanie Schultz van Haegen]] and [[Henk van Hoof]]. Within the CDA, ministers [[Cees Veerman]] and [[Karla Peijs]] announced they would not return, as did state secretary [[Clemence Ross]]. Both D66's current chairperson [[Lousewies van der Laan]] and her predecessor [[Boris Dittrich]] also announced they would not return.
+
+===Turkish-Dutch candidates and the Armenian Genocide===
+On 26 September 2006, a candidate for the Labour Party, [[Erdinç Saçan]], was removed by his party, because he would not hold to the party stance that the [[Armenian Genocide]] was caused by the [[Young Turks]].<ref>{{nl icon}} [http://www.nos.nl/nos/artikelen/2006/09/art000001C6E19094C06907.html PvdA trekt kandidatuur Sacan in], ''NOS'', 26 September 2006</ref> That same evening, the CDA announced that two of their candidates, [[Ayhan Tonca]] and [[Osman Elmaci]], have been removed as well, because of the same issue.<ref>{{nl icon}} [http://www.nos.nl/nosjournaal/artikelen/2006/9/26/260906_turken.html Turkse CDA'ers weg om Armenië-rel] ''NOS'', 26 September 2006</ref> Both parties agreed that all their members should openly conform to the party's point of view on this sensitive human rights issue. The sensitivity over these issues was underlined when the speaker of the [[Grand National Assembly of Turkey|Turkish parliament]], [[Bülent Arınç]], in response threatened the Netherlands with diplomatic action over this incident.<ref>{{nl icon}} [http://www.elsevier.nl/nieuws/nederland/nieuwsbericht/asp/artnr/117698/index.html Genocide: Turkije woedend op PvdA, CDA] ''Elsevier'', 29 September 2006</ref> [[Namik Tan]], spokesperson for the Turkish Department of Foreign Affairs said that "we are deeply worried about the one-sided approach of our ally Netherlands’ political parties on the so-called Armenian genocide as this puts a limit on the freedom of expression."<ref>[http://www.ntvmsnbc.com/news/386372.asp Alleged Armenian genocide not a historical reality: Tan], ''NTVMSNBC'', 28 September 2006</ref> Labour Party leader [[Wouter Bos]] later said that the term [[genocide]] is used too easily, and that he rather speak of the "[[Armenian Question]]."<ref>{{nl icon}}{{cite news|title=Bos: term genocide te makkelijk gebruikt|url=http://www.volkskrant.nl/binnenland/article366739.ece/Bos_term_genocide_te_makkelijk_gebruikt|publisher=De Volkskrant|date=2006-11-06}}</ref>
+
+===News of possible mistreatment of Iraqi prisoners in 2003===
+''[[De Volkskrant]]'' newspaper published a story just a week before the election saying that Dutch soldiers "tortured" Iraqi prisoners in Iraq, back in 2003.<ref>{{cite news|title= Dutch inquiry into Iraq 'abuses'|url=http://news.bbc.co.uk/2/hi/europe/6159676.stm|publisher=BBC News |date=2006-11-17}}</ref><ref>{{nl icon}}{{cite news|title=Nederlanders martelden Irakezen|url=http://www.volkskrant.nl/binnenland/article370551.ece/Nederlanders_martelden_Irakezen|publisher=De Volkskrant|date=2006-11-17}}</ref> Defense minister [[Henk Kamp]] ordered an immediate (re-)investigation into the matter, but said that earlier information about this case did not result in the military police and Dutch public prosecutors to start a criminal investigation.<ref>{{cite news|title=Defence minister denies abuse in Iraq|url=http://www.expatica.com/actual/article.asp?subchannel_id=19&story_id=34469|publisher=Expatica|date=2006-11-17}}</ref><ref>{{nl icon}}{{cite news|title=OM: Geen reden tot onderzoek naar verhoren|url=http://www.trouw.nl/laatstenieuws/laatstenieuws/article547229.ece/OM_Geen_reden_tot_onderzoek_naar_verhoren|publisher=Trouw|date=2006-11-17}}</ref> Left-wing parties, such as the [[Labour Party (Netherlands)|Labour Party]] (PvdA), which demanded an immediate parliamentary investigation were later rebuked by military commander [[Dick Berlijn]], who stated that the left-wing opposition tarnished the reputation of the Dutch Department of Defense by their incriminating language, while nothing happened in Iraq.<ref>{{nl icon}}{{cite news|title= Berlijn haalt uit naar linkse oppositiepartijen|url=http://www.telegraaf.nl/binnenland/article53812491.ece|publisher=De Telegraaf|date=2006-11-19}}</ref> Mark Rutte, leader of the VVD, even went as far as to say that this Iraq story was a manipulation in order to influence the elections.<ref>{{nl icon}}{{cite news|title=Rutte: informatie over Irak gemanipuleerd|url=http://www.trouw.nl/laatstenieuws/ln_binnenland/article549486.ece/Rutte_informatie_over_Irak_gemanipuleerd|publisher=Trouw|date=2006-11-20}}</ref> 
+In an open letter to De Volkskrant on the day of the Dutch elections, defense minister Kamp said the news about possible mistreatment was deceptive, and that the editor of De Volkskrant should feel being misused by the sources for this story.<ref>{{nl icon}}{{cite news|title=Kamp: Berichtgeving 'martelingen' deugde niet|url=http://www.elsevier.nl/nieuws/laatste_24_uur/artikel/asp/artnr/127081/|publisher=Elsevier|date=2006-11-22}}</ref> The Department of Defense in the mean time is demanding a rectification of the story published by De Volkskrant.<ref>{{nl icon}}{{cite news|title=Defensie eist rectificatie Volkskrant|url=http://www.elsevier.nl/nieuws/politiek/artikel/asp/artnr/127222/index.html|publisher=Elsevier|date=2006-11-22}}</ref>
+
+A Dutch magazine, [[Elsevier (magazine)|Elsevier]], later (January 2007) reported that the no.5 candidate of the Labour Party (PvdA), [[Ton Heerts]], "advised" the Volkskrant on how to report on the story.<ref>{{nl icon}}{{cite news|title=PvdA hielp Volkskrant bij 'martel'-primeur|url=http://www.elsevier.nl/nieuws/politiek/artikel/asp/artnr/136028/index.html|publisher=[[Elsevier (magazine)|Elsevier]]|date=2006-01-24}}</ref>
+
+===Voting Tools===
+Several organisations launched a voting tool which helped voters to decide between the multitude of parties. The Institute for Public and Politics (IPP), a government agency, had the "Stemwijzer" (the "Voting-pointer"). The Stemwijzer consisted out of thirty propositions like "Citizens should elect the Prime Minister." and voters could show their support for these propositions by clicking either "agree", "don't agree" or "don't know". The Stemwijzer than showed to which extent the voters agreed with each party, showing them from most to least similarity in answers, advising the voter to vote for the party which agreed with them most.<ref>{{nl icon}}{{cite news|title=StemWijzer home|url=http://www.stemwijzer.nl/|publisher=Institute for Public and Politics|date=2006-11-25}} A translation can be found [http://www.selectsmart.com/FREE/select.php?client=Dutchelection06 here]</ref> The Stemwijzer had also been made for General, European, Provincial and Municipal elections since 1989.
+
+Kieskompas ([[Electoral Compass]]) was launched by the newspaper [[Trouw]] in cooperation with the [[Vrije Universiteit|VU University Amsterdam]] in order to compete with the Stemwijzer. This system was supposed to give considerably more information. Here voters could show their support for thirty six propositions on a five-point scale. Next they show whether they thought the current cabinet had performed well. Finally Kieskompas showed users their attitude towards party leaders as competent and trustworthy. The voters were shown a two-axis system (similar to a [[Nolan Chart]]) and their own position as well as the position of each party in this chart. It stated which party was the closest to them and which party the farthest. It also gave them the possibility to see which coalition best matched their political preferences.<ref>{{nl icon}}{{cite news|title=Kieskompas home|url=http://www.kieskompas.nl/|publisher=Trouw|date=2006-11-25}}</ref>
+
+Other voting tools where the "Wie Kies Jij?" (the "Who do You Vote for") of the IPP which helped find the perfect candidate by his/her age, sex, dietary habits and political experience<ref>{{nl icon}}{{cite news|title=Wie Kies Jij home|url=http://www.wiekiesjij.nl/|publisher=Institute for Public and Politics|date=2006-11-25}}</ref> and the Stomwijzer (the "Stupid Pointer") which mocked the StemWijzer, but still gave reasonable voting advice<ref>{{nl icon}}{{cite news|title=StomWijzer home|url=http://www.stomwijzer.nl/|publisher=Ionica Smeets and Matthijs Braamhaar|date=2006-11-25}}</ref>
+
+===De Stemming 2006===
+[[Cabaret#Dutch-speaking Cabaret|Comedian]] [[Freek de Jonge]] performed an 'election show' ('verkiezingsconference') on public television on the night before the elections. It was called "De Stemming 2006" (an ambiguous name which means both "The Vote 2006" and "The Mood 2006")  In his ironic comedy show, which was totally focused on the elections, he ridiculed the candidates, making such a show a uniquely Dutch phenomenon. When asked whether this show would influence the upcoming elections de Jonge stated he would make a fool out of everyone, not favoring a single person. This was the second time he did such a show. The first one was in 2003, when it was the thirty-third best watched TV-programme in the Netherlands that year.<ref>{{nl icon}}{{cite news|title=Freek kraakt politici|url=http://www.nrc.nl/media/article550332.ece/Freek_kraakt_politici|publisher=NRC Handelsblad|date=2006-11-21}}</ref> This year, the show was watched by 2,016,000 viewers.<ref>{{cite web|title=Stichting KijkOnderzoek|url=http://www.kijkonderzoek.nl/}}</ref>
+
+==Campaign==
+The main issue at stake during the elections was the economic performance of the centre-right [[Second Balkenende cabinet]] – which consisted of the Christian-democratic [[Christian Democratic Appeal|CDA]], the conservative liberal [[People's Party for Freedom and Democracy|VVD]] and the progressive liberal [[D'66|D66]] – as well as the composition of the new government and the future of the [[economy of the Netherlands|Dutch economy]]. Other issues were integration and the environment.
+
+=== Power question ===
+The most important question of the elections was which party would become the largest, the governing Christian-democratic CDA or the main opposition party, the social-democratic PvdA. This was similar to the situation of the [[Dutch general election, 2003|elections of 2003]]. The largest party will have the initiative in the [[Cabinet of the Netherlands#Formation|cabinet formation talks]]. Furthermore, if it becomes part of the cabinet, the largest party supplies the [[Prime minister of the Netherlands|prime minister]]. The media have framed the elections as a 'Clash of the Titans' between prime minister [[Jan Peter Balkenende]] (CDA) and candidate prime minister [[Wouter Bos]] (PvdA).
+
+Both parties had consciously kept their options open and expressed a preference for the composition of a new cabinet. The other parties did express clear preferences: the VVD wanted to continue to govern with the CDA, while the [[Socialist Party (Netherlands)|Socialist Party]] and the [[GreenLeft]] (GL) wanted to form a leftist coalition, the so-called ''Left-wing Spring''. Broadly speaking, it appeared that there were three options: a continuation of the third Balkendende cabinet with CDA and VVD, a left-wing coalition of PvdA, SP and GL or a centre-left coalition of PvdA and CDA.
+
+In 2004 and 2005, the polls indeed indicated that the united left could gain a majority in the House of Representatives. The polls predicted two head-to-head races. One between the PvdA and ruling CDA and another between the left-wing bloc (PvdA, SP, GreenLeft) and the right-wing bloc (CDA, VVD) with neither gaining a majority. Early November polls however showed that the CDA was gaining on and surpassing the PvdA. Mid-November polls indicated that the PvdA was bleeding votes to the SP while the CDA remained more or less stable. The left- and right-wing blocks remained in an equilibrium with neither side gaining enough votes for an overall majority. Small centrist parties such as the [[ChristianUnion]] could play a decisive role.
+
+The day before the elections, about one third of the electorate had not yet made up their minds, resulting in polls giving strongly varying indications. For this reason campaigning continued on election day itself. An aspect of this was tactical voting, with SP telling PvdA voters that a strong SP would force PvdA to form a left-wing coalition, VVD saying something similar to CDA voters concerning a right-wing coalition, PvdA and CDA saying they needed to be strong to prevent the other party from forming or dominating a coalition and ChristianUnion saying it has the best cards to participate in any coalition. Shortly before the elections, PvdA leader Bos showed himself more interested in the much talked about left-wing coalition of PvdA, SP and GroenLinks (possibly with ChristenUnie), which he had refused to talk about for months.{{Citation needed|date=February 2007}}
+
+===Social-economic issues===
+The debates were dominated by social-economic questions and especially the performance of the [[Third Balkenende cabinet|Balkenende cabinets]].
+
+In the last four years the three Balkenende cabinets had implemented an ambitious program of social-economic reforms, including tax cuts, reforms to the social welfare system and investments in education. Their aim was to jump start the Dutch economy. Initially there was great public dissatisfaction with this policy, with [[Second Balkenende cabinet#Opposition to policy|large demonstrations]] in 2003, 2004 and 2005 by the main labour union [[Federatie Nederlandse Vakbeweging|FNV]] and the three main opposition parties. They criticised the government for taking these measures at the wrong point in time, during a recession, and they claimed that the government made the poor and socially weaker pay for the economic recovery. A major focus of this debate was on the fact that more than 10% of the people were said to live in poverty, as exemplified by the rising number of 'voedselbanken' ([[give-away shop]]s for food). As the economy began to perform better in 2006 the public dissatisfaction decreased.
+
+There were roughly three positions on the future of the Dutch economy. The CDA claimed that the reforms were finished and that the following cabinet would not have to take any serious measures. The VVD wanted to continue reforming to increase the performance of the Dutch economy. They wanted to continue to cut taxes and reduce bureaucracy. The opposition parties PvdA, SP, GL, joined by the [[ChristianUnion]] wanted to revert some of the measures and pay more attention to the [[public sector]], especially to the health care-sector and the poor. The PvdA and the GreenLeft however also announced that they wanted to reform part of the economy and welfare system. For instance several months before the elections, Wouter Bos, the leader of [[Dutch Labour Party|Labour Party]], announced that he wanted to tax the elderly pension in such a way that rich elderly would pay more taxes on their pensions than poor elderly. The Dutch pension system consists of government supplied (AOW) and mandatory self-saved pensions. It is the latter portion Bos wanted to tax [[progressive tax|progressively]]. The proposal led to considerable controversy, both outside and within Bos' own party. Former minister and [[de Volkskrant]] columnist [[Marcel van Dam]] wrote a critical column on 22 June concerning Bos' proposal.<ref>{{nl icon}} Van Dam, M. [http://zoek.volkskrant.nl/artikel?text=bejaardenbelasting&FDOC=0&SORT=presence&PRD=20y&SEC=%2A&SO=%2A&DAT=%2A&ADOC=1 De bejaardenbelasting van Bos], ''De Volkskrant'', 22 June 2006</ref> The second man of the [[Christian Democratic Appeal]] [[Maxime Verhagen]] used soundbites from the proposal continually to emphasise that the PvdA was an unreliable partner for the elderly.<ref>{{nl icon}} [http://zoek.volkskrant.nl/artikel?text=bejaardenbelasting&FDOC=0&SORT=presence&PRD=20y&SEC=%2A&SO=%2A&DAT=%2A&ADOC=0 Van ‘bejaardenbelasting’ tot ‘regelrutter’], ''De Volkskrant'', 29 September 2006</ref> Bos later moderated his plans: only new cases would pay taxes over their pension.<ref>{{nl icon}} [http://zoek.volkskrant.nl/artikel?text=bejaardenbelasting&FDOC=0&SORT=presence&PRD=20y&SEC=%2A&SO=%2A&DAT=%2A&ADOC=2 ‘Opportunisme domineert het debat’], ''De Volkskrant'', 1 September 2006</ref>
+
+===Immigration and integration===
+{{Election netherlands}}
+
+Immigration and integration, which had dominated the 2002 and 2003 elections, were clearly less important during these elections.
+
+The focus was on the policy of [[Rita Verdonk]], minister of immigration and integration, who had reduced the influx of immigrants and implemented mandatory integration courses for migrants.
+Verdonk's attitudes toward immigrants were again in the spotlight after her treatment of the crisis around the naturalisation of Dutch MP [[Ayaan Hirsi Ali]] caused the cabinet to fall.
+
+In the debates one issue was especially important: the treatment of 26,000 asylum seekers which had been in legal procedures for over five years. The left-wing opposition parties PvdA, SP, GL and CU, joined by former coalition-partner D66 wanted a general pardon for this group, granting them all a [[residence permit]]. The CDA, VVD and the smaller right-wing parties of [[Geert Wilders]] and [[Marco Pastors]] opposed such a permit because it would attract illegal immigrants. Minister Verdonk claimed that she had actually already taken care of these 26,000 asylum seekers, sending many back to their own country and granting many a residence permit.
+
+A minor issue was the [[Islamic dress controversy in Europe|ban]] on [[burqa]]s and other face-covering clothing in public which minister Verdonk announced on 17 November 2006.<ref name="heraldtribune">[http://www.iht.com/articles/ap/2006/11/18/europe/EU_GEN_Netherlands_Burqa_Ban.php Seeking re-election, incumbent Dutch government promises to ban burqa], ''International Herald Tribune'', 17 November 2006</ref> The opposition Labour Party, called the law an "election ploy", and a Muslim leader described it as "a big law for a small problem."<ref name="heraldtribune"/>
+
+Several right-wing parties, such as [[One NL]] and [[Party for Freedom]], had campaigned extensively on the issue of immigration and integration. Wilders of the Party for Freedom wanted a halt of immigration from non-Western countries, abolish double citizenship, and stop the building of new mosques. Wilders said that the "Islamisation of the Netherlands" is a "tsunami" that needed to be stopped, "because it threatens our culture."<ref>{{nl icon}}{{cite news|title=Wilders vreest 'tsunami' moslims|publisher=Volkskrant|date=2006-10-07}}</ref>
+
+===The environment===
+The environment finally also became a secondary issue during the elections.
+
+The first attention to environmental issues was attracted by [[Greenpeace]] who interfered in the CDA party congress on 30 September 2006. During a speech of parliamentary chairman [[Maxime Verhagen]], activists of [[Greenpeace]] rolled down a large sign saying "CDA chooses for 240,000 years of nuclear waste," referring to the news a day earlier that the CDA junior minister of the environment [[Pieter van Geel]] is open to new possibilities for nuclear energy in the Netherlands.<ref name="kerncentrale">{{nl icon}} [http://www.regering.nl/actueel/nieuwsarchief/2006/09September/29/0-42-1_42-84538.jsp Van Geel: 'Kerncentrale kan, onder voorwaarden'], ''Regering.nl'', 29 September 2006</ref> Four activists were apprehended by the police afterwards.<ref name="kerncentrale"/><ref>{{nl icon}} [http://www.trouw.nl/laatstenieuws/laatstenieuws/article497890.ece/Greenpeace_verstoort_CDA-congres_met_spandoek Greenpeace verstoort CDA-congres met spandoek]''Trouw'', 30 September 2006</ref><ref>{{nl icon}} [http://www.trouw.nl/laatstenieuws/laatstenieuws/article497893.ece/Greenpeace_verstoort_toespraak_Verhagen Greenpeace verstoort toespraak Verhagen]''Trouw'', 30 September 2006</ref>
+
+Other important events increasing the attention on environmental issues were the [[Stern report]] of the United Kingdom government and the visit of [[Al Gore]] to Amsterdam promoting his movie ''[[An Inconvenient Truth]]''.
+
+The GreenLeft focused on this issue during its campaigns and sponsored ads which read: "Who votes strategically when the polar caps are melting?"<ref>{{nl icon}} [http://www.linkselente.nl/bekende-nederlanders-stemmen-groenlinks reproduction of the ad] on the [http://www.linkselente GreenLeft Campaign site]</ref>  The [[Party for the Animals]] had campaigned on one issue closely related to environmental problems: the position of animals in Dutch society and especially in agriculture.
+
+==Voting issues==
+
+===Voting machine controversy===
+{{Main|Electronic_voting_examples#Netherlands}}
+[[File:Stemmen2.jpg|thumb|In some municipalities voting was done using the old red pencil / paper method.]]
+A report by action group ''Wij vertrouwen stemcomputers niet'' (''We don't trust voting computers'') detailed serious security flaws in the [[Nedap]] [[voting machine]]s used by 90% of the voters in the election.{{Citation needed|date=April 2009}} The report alleged it was easy to open the voting machine casing. The inner casing around the electronics was only protected by a very simple lock. Thus replacements of software and even hardware were relatively easily possible (by a simple memory chip swap, meaning that the memory that holds the voting data is not encrypted). Another machine is made by SDU and called "NewVote". It is based on a PC and uses a touchscreen instead of buttons. Only ten small districts still use paper and pencil.{{Citation needed|date=April 2009}}
+
+''Wij vertrouwen stemcomputers niet'' has threatened to bring minister [[Atzo Nicolaï]] to court since they are not convinced by his assurances that there will be no fraud in the upcoming election.<ref>{{nl icon}} [http://www.eenvandaag.nl/index.php?module=PX_Story&func=view&cid=2&sid=31163# Nicolaï mogelijk voor rechter gedaagd], ''EenVandaag'', 5 October 2006</ref> In response to the allegations, Nicolaï introduced new security measures for the voting machines.<ref>{{nl icon}} [http://www.elsevier.nl/nieuws/nederland/nieuwsbericht/asp/artnr/120116/ Stemcomputers krijgen nieuwe software], ''Elsevier'', 12 October 2006</ref> Currently Nedap is checking all its machines for tampering, is installing new chips and software that is less easily hacked, and seals the machines with a unique metal seal.<ref>{{nl icon}} [http://www.volkskrant.nl/binnenland/article364023.ece/Stemmachines_in_35_gemeentes_afgekeurd Stemmachines in 35 gemeentes afgekeurd], ''Volkskrant'', 30 October 2006</ref>
+Based on inspections, on 30 October the government decided that there was a problem with SDU voting machines because within a radius of 10 metres the machines could be wirelessly monitored, so that these machines could not guarantee anonymity of voting to a sufficient degree.<ref name="eenvandaag31oct">{{nl icon}} [http://www.eenvandaag.nl/index.php?module=PX_Story&func=view&cid=2&sid=31279# Stemcomputer of potlood?], ''EenVandaag'', 31 October 2006</ref> These machines, which are in use in 35 municipalities, including [[Amsterdam]], have to be improved or replaced with an alternative before the elections.<ref>{{nl icon}} [http://www.nu.nl/news/867286/11/Stemcomputers_in_35_gemeenten_afgekeurd.html Stemmachines in 35 gemeentes afgekeurd] ''nu.nl'', 30 October 2006</ref> Many municipalities, including [[Amsterdam]], decided to switch to the traditional pen and red pencil method of voting instead of the SDU machines.<ref name="eenvandaag31oct"/> Machines made by [[Nedap]] are still in use.
+
+===Experiments===
+Two experiments were conducted during these elections:
+
+"'''Stemmen in een Willekeurig Stemlokaal'''" (SWS) ('voting in a random polling-booth') 
+Because a lot of people could not vote because of problems caused by this experiment a group of citizens started procedures to nullify the results in all 311 area's where the experiment was conducted.
+
+Another experiment is "'''Kiezen Op Afstand'''" (KOA) ('remote voting'), also called the experiment with internetstemmen (internet voting).<ref>{{nl icon}}[http://www.rijnlandkiest.nl/asp/get.asp?xdl=../views/rijnlandkiest/xdl/Page&ItmIdt=00001351&SitIdt=00000002&VarIdt=00000001 Burger ziet internetstemmen zitten], ''Hoogheemraadschap Rijnland'', 25 August 2004</ref>
+
+In an experiment in [[Breukelen]], a voting machine was placed in a petrol station. However, non-Breukelen citizens had to convert their 'voting pass' ('stempas') to an 'elector's pass' ('kiezerspas').<!-- I made that terminology up - anyone know the right words? -->
+
+==Public debates==
+More than during previous elections, there was a strong focus on the leaders, especially Bos of PvdA and Balkenende of CDA, regarding who of the two might become prime minister. This irritated not only other parties but also analysts who complained that elections should be about issues and parties, not about who becomes prime minister.
+
+===Radio debate===
+The first public election debate between the leaders of the seven largest parties was held on 29 October 2006, on [[Netherlands Public Broadcasting|public radio]]. [[Mark Rutte]], whose VVD is junior partner in the [[third Balkenende cabinet]] of CDA prime-minister [[Jan Peter Balkenende]], was worried that the CDA will choose for a coalition with the PvdA after the elections, as this, at the time of the debate, was the only two-party coalition possible according to polls. Balkenende, however, kept his options open, and did not rule out a coalition with the PvdA. The PvdA's Wouter Bos stated that he will not become a deputy prime-minister in case Balkenende leads a CDA-PvdA coalition. He will then remain as [[Fractievoorzitter|chairman of the parliamentary party]].<ref>{{nl icon}} {{cite news|title=Rutte vreest voor coalitie PvdA-CDA|url=http://www.nos.nl/nos/artikelen/2006/10/art000001C6FB4D6C2CF6EE.html|publisher=NOS|date=29 October 2006}}</ref>
+
+===RTL 4 debate===
+This debate took place on 3 November 2006 and was televised by [[RTL4]]. Participants were [[Jan Peter Balkenende]] and [[Wouter Bos]]. Balkenende focused on his achievements the last four years, stating "We are much better off than four years ago. We were behind in Europe and now we’re ahead but our work is not yet done."<ref name="angusreed">[http://www.angus-reid.com/tracker/index.cfm?fuseaction=viewItem&itemID=12554 Netherlands – Balkenende might get new term], ''Angus Reid Global Monitor''</ref> Bos felt that under Balkenende the gap between rich and poor had grown, stating "What have you asked of the wealthiest? Everybody has been asked to dig into their pockets to contribute to the economy."<ref name="angusreed"/> In an opinion poll conducted by [[TNS-Nipo]] following the televised debate, 50 percent of respondents thought Wouter Bos won the debate, against 46 percent for Jan Peter Balkenende.<ref>{{nl icon}} [http://www.volkskrant.nl/binnenland/article365953.ece/Enquecirc_te_Bos_winnaar_van_tv-debat Enquête: Bos winnaar van tv-debat], ''de Volkskrant'', 4 November 2006</ref>
+
+===NOS Jeugdjournaal debate===
+This debate was broadcast on 11 November 2006 and was televised by the [[Jeugdjournaal]] (YouthNews) of  the [[Nederlandse Omroep Stichting|NOS]]. The debate was aimed at children from 8 to 14 years of age. Participants were top-candidates from the four parties leading the polls: Jan Peter Balkenende (CDA), Wouter Bos (PvdA), Mark Rutte (VVD) and Jan Marijnissen (SP).<ref>{{nl icon}} {{cite news|title=Verkiezingsdebat|url=http://www.nos.nl/jeugdjournaal/artikelen/2006/11/7/verkiezingsdebat1.html|publisher=NOS Jeugdjournaal|date=7 November 2006}}</ref> A poll among the young watchers after the debate showed that the Dutch children preferred Wouter Bos as the next prime minister (46%), before Marijnissen (26%), Balkenende (22%) and Mark Rutte (6%).<ref>{{nl icon}} {{cite news|title=Wouter scoort het best|url=http://www.nos.nl/jeugdjournaal/artikelen/2006/11/12/wouterbos.html|publisher=NOS Jeugdjournaal|date=7 November 2006}}</ref>
+
+===EenVandaag debate===
+This debate took place on 15 November 2006 and was organised by [[EenVandaag]]. Participants were Jan-Peter Balkenende, Wouter Bos, Mark Rutte, Jan Marijnissen, Femke Halsema and André Rouvoet.<ref>{{nl icon}} [http://www.eenvandaag.nl/index.php?module=PX_Story&func=view&cid=2&sid=31333 Het grote lijsttrekkersdebat], ''EenVandaag'', 15 November 2006</ref> According to an opinion poll following the debate, Jan Marijnissen won the debate.<ref>{{nl icon}} [http://www.volkskrant.nl/binnenland/article369919.ece/Bos_en_Balkenende_botsen_hard_in_lijsttrekkersdebat Bos en Balkenende botsen hard in lijsttrekkersdebat], ''de Volkskrant'', 15 November 2006</ref>
+
+===NOS debates===
+* 21 November (NOS): two consecutive debates; the first between the leaders of the smaller parties in the polls, the second between leaders of the projected six largests parties:<ref>{{nl icon}} {{cite news|title=Kleine partijen botsen over integratie|url=http://www.nos.nl/nosjournaal/artikelen/2006/11/21/211106_laatstedagverkiezingen.html|publisher=NOS|date=21 November 2006}}</ref>
+** [[Alexander Pechtold]] ([[Democrats 66|D66]]), [[Bas van der Vlies]] ([[Political Reformed Party|SGP]]), [[Olaf Stuger]] ([[Pim Fortuyn List]]), [[Marco Pastors]] ([[One NL]]), [[Geert Wilders]] ([[Party for Freedom|PVV]]) and [[Marianne Thieme]] ([[Party for the Animals|Partij voor de Dieren]]), at 19:05
+** [[Jan Peter Balkenende]] ([[Christian Democratic Appeal|CDA]]), [[Wouter Bos]] ([[Labour Party (Netherlands)|PvdA]]), [[Mark Rutte]] ([[People's Party for Freedom and Democracy|VVD]]), [[Jan Marijnissen]] ([[Socialist Party (Netherlands)|SP]]), [[Femke Halsema]] ([[GreenLeft]]) and [[André Rouvoet]] ([[ChristianUnion|ChristenUnie]]) at 20:30.
+
+==Results==
+[[File:Netherlands municipalities results 2006.png|thumb|'''Largest party per municipality:'''. In the Dutch system this is of limited importance as it operates a [[proportional representation|proportional]] system. <br>{{legend|#00CC1B|CDA}}{{legend|#FF000C|PvdA}}{{legend|#FFF20A|SP}}{{legend|#0000FF|VVD}}]]
+
+{| class=wikitable style=text-align:right
+!Party
+!Votes
+!%
+!Seats
+!+/–
+|-
+|align=left|[[Christian Democratic Appeal]]||2,608,573||26.5||41||–3
+|-
+|align=left|[[Labour Party (Netherlands)|Labour Party]]||2,085,077||21.2||33||–9
+|-
+|align=left|[[Socialist Party (Netherlands)|Socialist Party]]||1,630,803||16.6||25||+16
+|-
+|align=left|[[People's Party for Freedom and Democracy]]||1,443,312||14.7||22||–6
+|-
+|align=left|[[Party for Freedom]]||579,490||5.9||9||New
+|-
+|align=left|[[GreenLeft]]||453,054||4.6||7||–1
+|-
+|align=left|[[ChristianUnion]]||390,969||4.0||6||+3
+|-
+|align=left|[[Democrats 66]]||193,232||2.0||3||–3
+|-
+|align=left|[[Party for the Animals]]||179,988||1.8||2||+2
+|-
+|align=left|[[Reformed Political Party]]||153,266||1.6||2||0
+|-
+|align=left|[[One NL]]||62,829||0.6||0||New
+|-
+|align=left|[[Pim Fortuyn List]]||20,956||0.2||0||–8
+|-
+|align=left|United Seniors Party||12,522||0.1||0||New
+|-
+|align=left|Ad Bos Collective||5,149||0.1||0||New
+|-
+|align=left|[[Party for the Netherlands]]||5,010||0.1||0||New
+|-
+|align=left|Potmis List||4,339||0.0||0||New
+|-
+|align=left|Netherlands Transparent||2,318||0.0||0||New
+|-
+|align=left|Green Free! Internet Party||2,297||0.0||0||New
+|-
+|align=left|Liberal Democratic Party||2,276||0.0||0||New
+|-
+|align=left|Poortman List||2,181||0.0||0||New
+|-
+|align=left|Continuous Direct Democracy Party||559||0.0||0||New
+|-
+|align=left|LRVP - hetZeteltje||185||0.0||0||New
+|-
+|align=left|Solid Multicultural Party||184||0.0||0||New
+|-
+|align=left|Tamara's Open Party||114||0.0||0||New
+|-
+|align=left|Invalid/blank votes||16,315||–||–||–
+|-
+|align=left|'''Total'''||'''9,854,998'''||'''100'''||'''150'''||'''0'''
+|-
+|align=left|Registered voters/turnout||12,264,503||80.4||–||–
+|-
+|align=left colspan=5|Source: Nohlen & Stöver,<ref name=NS>[[Dieter Nohlen|Nohlen, D]] & Stöver, P (2010) ''Elections in Europe: A data handbook'', pp1411-1415 ISBN 978-3-8329-5609-7</ref> [http://eed.nsd.uib.no/webview/index.jsp?study=http://129.177.90.166:80/obj/fStudy/NLPA1998_Display&node=0&mode=cube&v=2&cube=http://129.177.90.166:80/obj/fCube/NLPA1998_Display_C1&top=yes European Elections Database]
+|}
+{{bar box
+| title=Popular Vote
+| titlebar=#ddd
+| width=600px
+| barwidth=410px
+| bars=
+{{bar percent|CDA|{{Christian Democratic Appeal/meta/color}}|26.51}}
+{{bar percent|PvdA|{{Labour Party (Netherlands)/meta/color}}|21.19}}
+{{bar percent|SP|{{Socialist Party (Netherlands)/meta/color}}|16.58}}
+{{bar percent|VVD|{{People's Party for Freedom and Democracy/meta/color}}|14.67}}
+{{bar percent|PVV|{{Party for Freedom/meta/color}}|5.89}}
+{{bar percent|GL|{{GreenLeft/meta/color}}|4.60}}
+{{bar percent|CU|{{ChristianUnion/meta/color}}|3.97}}
+{{bar percent|D66|{{Democrats 66/meta/color}}|1.96}}
+{{bar percent|PvdD|{{Party for the Animals/meta/color}}|1.83}}
+{{bar percent|SGP|{{Reformed Political Party/meta/color}}|1.56}}
+{{bar percent|Other|#777777|1.23}}
+}}
+
+===Turnout===
+
+As voting has been voluntary in the Netherlands since the elections of 1971, not all voters exercise their right to vote. Parliamentary elections tend to draw between 70% and 90% turnout; the 2006 election drew a turnout of 80.1%.
+
+Due to this low rate of registration, votes of the Dutch living abroad had a negligible effect on the outcome of the elections.{{Citation needed|date=June 2010}}
+
+== Seat allocation ==
+There are two things to note about the allocation to seats: first the division of remainder seats and second the MPs elected because of preference seats.
+
+The Netherlands use a [[D'Hondt method]] to allocate remainder seats. In order to get more of these seats two [[lijstverbindingen|combined lists]] were formed. In the distribution of these seats the Socialist Party and the GreenLeft formed one block, as did the [[ChristianUnion]] and the SGP. The GreenLeft-SP alliance got one rest seat, the CDA got two, the PvdA got two, D66 got one and the PVV also got one. This means that these parties are slightly overrepresented in parliament.
+
+With the Dutch system of open list [[proportional representation]], voters may indicate their preference for a particular candidate on a party's list. Usually the vast majority of people vote for the [[Lijsttrekker|top candidate]], however this is not always the case.
+
+In this election the number two candidate on the [[VVD]] list, Immigration Minister [[Rita Verdonk]] received a greater number of preference votes (620,555) than the party's [[lijsttrekker]] [[Mark Rutte]] (553,200). This was attributed to her greater national profile.<ref>{{nl icon}}{{cite news|title=Verdonk verslaat Rutte; Koser Kaya verdringt Bakker|url=http://www.volkskrant.nl/binnenland/article373849.ece/Verdonk_verslaat_Rutte_Koser_Kaya_verdringt_Bakker|publisher=Volkskrant|date=2006-11-27}}</ref>
+
+Also, the number six candidate on the [[Democrats 66|D66]] list, [[Fatma Koşer Kaya]] received the second highest number of D66 preferences (34,564), second only to [[lijsttrekker]] [[Alexander Pechtold]] (95,937).
+
+This resulted from the [[Christian Democratic Appeal|CDA]] and [[Dutch Labour Party|PvdA]] removing candidates of Turkish origin from their lists because of their position on the [[Armenian Genocide]] of 1915–17. As a result the influential Turks Forum advised voters of Turkish origin to vote for Koser Kaya, who is of Turkish origin, although her position on the genocide is ambiguous.<ref>{{nl icon}}{{cite news|title=Fatma Koşer Kaya: ik wil de kiezers danken|url=http://www.volkskrant.nl/binnenland/article373872.ece/Fatma_Koser_Kaya_ik_wil_de_kiezers_danken|publisher=Volkskrant|date=2006-11-27}}</ref>
+
+Any candidate reaching the quota (16,397 votes in this election) is elected, taking preference over other candidates on the list. This means Koser Kaya is elected, despite being at number six on the list. D66 will receive only three seats, according to its share of the national vote.
+
+== Opinion polls ==
+
+<!--- After election please leave last poll anchored between 2003 and 2006 results to show validity illustration of polls --->
+
+In the Netherlands there are three agencies that conduct frequent polls throughout the year (usually weekly). There is usually a small difference which may be due to different sampling and surveying methods applied. From 1 November the 'Politieke Barometer' started with two polls each week, and from 13 November they increased the frequency to daily polls.
+
+The last polls prior to the election of the Politieke Barometer,<sup>[http://www.politiekebarometer.nl]</sup> the poll by NOVA and Interview-NSS, the TNS-NIPO polls by RTL4,<sup>[http://www.rtl.nl/actueel/rtlnieuws/verkiezingen2006.xml]</sup> and the poll by Maurice de Honds' peil.nl<sup>[https://n34.noties.nl/peil.nl/]</sup> yield the following results:
+
+The day before the elections, about one third of the electorate had not yet made up their minds, resulting in polls giving strongly varying results. For this reason campaigning continued on election day itself. An aspect of this was tactical voting, with SP telling PvdA voters that a strong SP would force PvdA to form a left-wing coalition, VVD saying something similar to CDA voters concerning a right-wing coalition, PvdA and CDA saying they need to be strong to prevent the other party from forming or dominating a coalition and ChristenUnie saying it has the best cards to participate in any coalition. Shortly before the elections, PvdA leader Bos showed himself more interested in the much talked about left-wing coalition of PvdA, SP and GroenLinks (possibly with ChristenUnie), which he had refused to talk about for months. Many suspected he changed his mind to stop the exodus of PvdA voters to SP. During the municipal elections earlier that year PvdA grew strong and after that they even grew to 60 seats in the polls, but after March a gradual decline had set in, almost halving the size of PvdA in the polls.
+
+{| class="wikitable"
+!rowspan="2" |Party
+!colspan="2" |[[Dutch general election, 2003|2003]]
+!Politieke Barometer  
+!colspan="2" |Peil.nl 
+!colspan="2" |TNS-NIPO 
+!colspan="3" |Election results<br>
+|-
+!(%)
+!(seats)
+!21 Nov 2006<br>(seats)
+!21 Nov 2006<br>(seats)
+!Exit polls<br>(seats)
+!20 Nov 2006<br>(seats)
+!Exit polls<br>(seats)
+!(%)
+!(seats)
+!change 2003<br>(seats)
+|-
+| [[Christian Democratic Appeal]]
+| <center>28.6
+| <center>44
+| <center>41
+| <center>42
+| <center>43
+| <center>41
+| <center>38
+| <center>26.54
+| <center>41
+| bgcolor=ff8888|<center>-3
+|-
+| [[Labour Party (Netherlands)|Labour Party]]
+| <center>27.3
+| <center>42
+| <center>37
+| <center>38
+| <center>35
+| <center>31
+| <center>34
+| <center>21.18
+| <center>33
+| bgcolor=ff8888|<center>-9
+|-
+| [[People's Party for Freedom and Democracy]]
+| <center>17.9
+| <center>28
+| <center>23
+| <center>22
+| <center>21
+| <center>22
+| <center>20
+| <center>14.67
+| <center>22
+| bgcolor=ff8888|<center>-6
+|-
+| [[Socialist Party (Netherlands)|Socialist Party]]
+| <center>6.3
+| <center>9
+| <center>23
+| <center>23
+| <center>24
+| <center>32
+| <center>30
+| <center>16.57
+| <center>25
+| bgcolor=88ff88|<center>+16
+|-
+| [[Pim Fortuyn List|Fortuyn]]<sup>a</sup>
+| <center>5.7
+| <center>8
+| <center>1
+| <center>0
+| <center>0
+| <center>0
+| <center>0
+| <center>0.21
+| <center>0
+| bgcolor=ff8888|<center>-8
+|-
+| [[GreenLeft]]
+| <center>5.1
+| <center>8
+| <center>7
+| <center>8
+| <center>8
+| <center>6
+| <center>6
+| <center>4.59
+| <center>7
+| bgcolor=ff8888|<center>-1
+|-
+| [[Democrats 66]]
+| <center>4.1
+| <center>6
+| <center>3
+| <center>2
+| <center>2
+| <center>1
+| <center>2
+| <center>1.96
+| <center>3 
+| bgcolor=ff8888|<center>-3
+|-
+| [[ChristianUnion]]
+| <center>2.1
+| <center>3
+| <center>6
+| <center>6
+| <center>5
+| <center>8
+| <center>7
+| <center>3.98
+| <center>6 
+| bgcolor=88ff88|<center>+3
+|-
+| [[Reformed Political Party]]
+| <center>1.6
+| <center>2
+| <center>2
+| <center>2
+| <center>2
+| <center>2
+| <center>2
+| <center>1.56
+| <center>2 
+| bgcolor=bbbbbb|<center>0
+|-
+| [[Party for Freedom]]<sup>b</sup>
+| <center>DNR
+| <center>—
+| <center>4
+| <center>5
+| <center>6
+| <center>6
+| <center>8
+| <center>5.89
+| <center>9 
+| bgcolor=88ff88|<center>+9
+|-
+| [[Party for the Animals]]
+| <center>0.5
+| <center>0
+| <center>2
+| <center>1
+| <center>3
+| <center>2
+| <center>2
+| <center>1.82
+| <center>2 
+| bgcolor=88ff88|<center>+2
+|-
+| [[One NL]]
+| <center>DNR 
+| <center>—
+| <center>1
+| <center>1
+| <center>1
+| <center>0
+| <center>1
+| <center>0.64
+| <center>0 
+| bgcolor=bbbbbb|<center>0
+|-
+| Others
+| <center>0.8
+| <center>0
+| <center>0
+| <center>0
+| <center>0
+| <center>0
+| <center>0
+| <center>0.36
+| <center>0 
+| bgcolor=bbbbbb|<center>0
+|-
+| colspan="11"|<small><sup>a</sup> '''Fortuyn''' is here compared with its immediate predecessor [[Pim Fortuyn List|LPF]]<br><sup>b</sup> '''PVV''' is here presented as a new party, as it did not participate in the 2003 elections. It is however a continuation of [[Groep Wilders]], an independent MP during part of the last term, after he split off from VVD</small>
+|}
+
+==Cabinet formation==
+{{Main|2006-2007 Dutch cabinet formation|Fourth cabinet Balkenende}}
+
+Since no party holds an absolute majority in the House of Representatives, the formation of a coalition government that consists of parties who together have enough seats to propose laws that can count on a majority in the House of Representatives was necessary. This is most commonly achieved by building a coalition that has a majority; although a minority cabinet that arranges ad-hoc majorities for its proposals is possible. With the 2006 results a majority coalition requires at least three parties.
+
+Initially, negotiations for a cabinet of CDA, PvdA and SP were started, but the parties seemed unwilling to form this cabinet. Later on, negotiations for a CDA-PvdA-ChristenUnie cabinet were started. This resulted in the formation of the [[Fourth cabinet Balkenende]]. It was installed by Queen [[Beatrix of the Netherlands|Beatrix]] on 22 February 2007. In the meantime the Balkenende III cabinet continued as a [[caretaker cabinet]], which is not supposed to make new policy.
+
+== Reactions ==
+In the final debate between the leaders of the major parties (CDA, PvdA, SP, VVD, PVV, GL and CU) it was pointed out that the seated government lost 9 seats and the left wing parties (PvdA, SP, GL, PvdD) won 8 seats, which was interpreted as a signal from the voters that government policy should be more social. On the right, the PVV gained 9 seats, but other parties are silent about a possible coalition with the PVV. In the debate between party leaders – after the election was over – the question was raised if any of the leaders would want a coalition with the PVV. All kept quiet. When Wilders called this a "[[cordon sanitaire]]," VVD leader Rutte responded fiercely, saying that "there is no cordon sanitaire."<!--"Er is helemaal geen sprake van een cordon sanitaire"--> Rutte believes the PVV is a "one-issue party,"<!--"Ik vind u een single issue-partij"--> but also pointed out that he did not exclude the PVV as coalition partner.<!--"...maar dat betekent niet dat ik daarmee zeg 'Het is uitgesloten dat we met u regeren'."--><ref>{{nl icon}}{{cite news|title=Media|publisher=Trouw|date=2006-11-24}}</ref>
+
+When asked about the possibility of a CDA-PvdA-CU coalition, PvdA leader Bos responded that during the campaign the differences between CDA and PvdA have turned out to be rather big<!-- "afgelopen weken en maanden zijn de verschillen met name tussen PvdA en CDA erg groot gebleken" --> and that the big winner SP also deserves a place at the negotiating table. SP leader Marijnissen responded to this that the SP had never excluded CDA as a coalition partner, but that the CDA of the previous cabinet is not one with which the SP can enter a coalition.<!-- "coalitiebesprekingen met dit CDA, zoals we dat de afgelopen jaren hebben gekend, ik denk niet dat dat zal leiden tot een coalitie waartoe de SP kan toetreden" --> That, combined with the program of the CDA and the list of CDA MPs would constitute many 'road bumps' and 'bears on the road', and said he did not really want to start a coalition with this CDA program and this CDA MP list. Prime minister Balkenende responded that the CDA he wanted does not exist and that he has to enter talks with the CDA as it is now.<ref>{{nl icon}}{{cite news|title=SP: kabinet met CDA, PvdA onderzoeken|url=http://www.nos.nl/nos/artikelen/2006/11/art000001C70F10824DCA01.html|publisher=NOS Nieuws|date=2006-11-23}}</ref>
+
+[[Marco Pastors]]' [[One NL]] was defeated by [[Party for Freedom|PVV]] even in his home town [[Rotterdam]], where he had had a landslide victory at the 2002 municipal elections with his [[Leefbaar Rotterdam]]. Pastors, who himself had compared the present situation in the Netherlands with pre-war Germany, said that Wilders is too extreme for his taste, such as when speaking of a '[[Tsunami]] of [[Islamisation]]'. He didn't want to follow him in this extremism. "I would have done myself injustice".{{Citation needed|date=February 2007}}
+
+== Trivia ==
+* The [http://www.osce.org/odihr-elections/item_12_22041.html OSCE/ODIHR] has deployed an election assessment mission to the Netherlands.
+* The CDA party congress was ended by [[Roger Glover]]'s song "[[Butterfly Ball|Love is All]]".
+* The PvdA party congress was ended by the [[Marco Borsato]] song [http://www.youtube.com/watch?v=Xtamk_gQMdg "Rood"] (Red).
+* The VVD party congress was ended by [[Mick Jagger]] song [http://www.youtube.com/watch?v=lHByn1Skq7M "Let's Work"].
+* [[Filemon Wesselink]], presenter of the (political) television program ''Lijst-0'' for the youth channel [[BNN (Dutch broadcaster)|BNN]], was elected No.&nbsp;30 on the [[Democrats 66|D66]] candidate list. Wesselink tried in the program to become a candidate for various political parties, secretly taping each party's interview process. Although a candidate for D66, Wesselink withdrew himself from the list.
+*The municipality of [[Schiermonnikoog (island and municipality)|Schiermonnikoog]] was able to tally its result first.<ref>{{nl icon}}{{cite news|title=Schiermonnikoog als eerste klaar met tellen|url=http://www.volkskrant.nl/binnenland/article372392.ece/Schiermonnikoog_als_eerste_klaar_met_tellen|publisher=Volkskrant|date=2006-11-22}}</ref>
+*When PvdA leader Wouter Bos wanted to vote he couldn't because the PvdA had converted his 'stempas' to a 'kiezerspas', making it possible for him to vote anywhere in the country, but it also meant he could no longer use his 'stempas'. He didn't know about this, which resulted in an unpleasant surprise, after which he had to go and collect his new 'kiezerspas' in order to vote.
+*In the hamlet of [[Olst-Wijhe|Marle]], with the smallest voting bureau in the Netherlands (housed in the living room of a farm) and with an electorate of 51, 55 people voted, giving it a turnout of 108%. This was made possible by a the 'stempas' (mobile voting card), which allows people to vote at any voting booth within their municipality.<ref>{{nl icon}}{{cite news|title=Opkomst kleinste stembureau boven 100 procent|url=http://www.spitsnet.nl/nieuws.php/58/425350/anp/opkomst_kleinste_stembureau_boven_100_procent.html}}</ref>
+
+==See also==
+* [[Dutch municipal elections, 2006]]
+
+==Further reading==
+* {{cite journal
+ | quotes = 
+ | last = van Holsteyn
+ | first = Joop J. M.
+ |date=November 2007
+ | title = The Dutch Parliamentary Elections of 2006
+ | journal=[[West European Politics]]
+ | volume = 30
+ | issue = 5
+ | pages = 1139–1147
+ | pmid = 
+ | doi = 10.1080/01402380701617522
+ | id = 
+ | url = 
+ | laysummary = 
+ | laysource = 
+ | laydate = 
+ | quote = 
+ }}
+
+== References ==
+<!--See http://en.wikipedia.org/wiki/Wikipedia:Footnotes for an explanation of how to generate footnotes using the <ref(erences/)> tags--> 
+{{Reflist|2}}
+
+==External links==
+* [http://www.kiesraad.nl Dutch Electoral Council]
+*
+* [http://www.wijvertrouwenstemcomputersniet.nl/English "We don't trust voting computers" action group]
+* [http://www.nsd.uib.no/european_election_database/country/netherlands/ NSD: European Election Database – Netherlands] publishes regional level election data (NUTS 1–3); allows for comparisons of election results, 1994–2010
+
+{{Dutch general elections}}
+
+[[Category:General elections in the Netherlands|2006]]
+[[Category:2006 elections in the Netherlands]]

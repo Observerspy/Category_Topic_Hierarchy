@@ -1,0 +1,45 @@
+{{Earthquake
+|title= 1762 Arakan earthquake
+|date= {{Start-date|2 April 1762}}
+|map2 = {{Location map | Bangladesh
+ | label=
+ | lat=22.0
+ | long=92.0
+ | mark=Bullseye1.png
+ | marksize=40
+ | position=top
+ | width= 250
+ | float=right
+ | caption=
+ | relief=yes}}
+|magnitude = ≤8.8 Moment magnitude scale|M<sub>w</sub>
+|depth= 
+|location={{coord|22.0|92.0|display=inline,title}}
+|countries affected = Bangladesh 
+|tsunami = yes
+|casualties = 200
+}}
+The '''1762 Arakan earthquake''' occurred at about 17:00 local time on 2 April, with an epicentre somewhere on the coast from Chittagong (modern Bangladesh) to Rakhine State|Arakan in modern Burma. It had an estimated magnitude of as high as 8.8 on the moment magnitude scale and a maximum estimated intensity of XI (''Extreme'') on the Mercalli intensity scale. It triggered a local tsunami in the Bay of Bengal and caused at least 200 deaths. The earthquake was associated with major areas of both uplift and subsidence.
+
+==Tectonic setting==
+The eastern part of Bangladesh and the southwestern part of Burma lie along the highly oblique convergent boundary between the Indian Plate and the Eurasian Plate. The degree to which the this deformation is partitioned into zones of thrust tectonics (accommodating that part of the motion perpendicular to the boundary) and strike-slip tectonics (accommodating the northward movement of the Indian Plate) varies along the boundary. A pure strike-slip boundary that strike parallel to the plate vector runs along the Western Burma Scarp, that is replaced to the north by  the Indo-Burmese Wedge fold and thrust belt, at the western edge of the boundary zone, and a series of major dextral (right lateral) Fault (geology)#Strike-slip faults|strike-slip faults, particularly the Kabaw Fault and Sagaing Fault further to the east.
+
+==Earthquake==
+The earthquake lasted for about four minutes at Chittagong. The epicentre is not well-constrained and likely locations have varied from near Chittagong to along the Arakan coast. The extent of the rupture is uncertain but may have been as much as 700&nbsp;km along the plate interface. This is based both on the extent of uplift, which was recorded along the coast of Burma from Foul Island to Ramree Island, and the area of subsidence around Chittagong, further north. The 700&nbsp;km extent combined with an estimated displacement of ten metres gives a maximum estimated magnitude of 8.8 on the moment magnitude scale.
+
+Studies of uplifted marine terraces along the Burmese coast have found evidence for three uplifts, the most recent of which is interpreted to be from the 1762 earthquake. A repeat period of about 900 years has been suggested for earthquakes similar to that in 1762.
+
+==Tsunami==
+A tsunami was reported along the northeastern coast of the Bay of Bengal and at Dhaka and Kolkata.
+
+==Damage==
+In Chittagong it was reported that no buildings or walls built of brick had escaped either destruction or serious damage. The East India Company's factory inside the fort was so badly damaged that it could no longer be safely used. An area of about {{convert|60|sqmi|sqkm}} permanently subsided beneath the sea along the coast near Chittagong. At Bar Chara, just north of Cox's Bazar, the land sank and 200 people were killed. Chittagong was said to have "suffered severely" with soil liquefaction effects such as sand volcanoes and ground fissures.
+
+==References==
+{{Reflist}}
+
+Category:Earthquakes in Bangladesh
+Category:Earthquakes in Burma
+Category:1760s earthquakes
+Category:18th-century Tsunamis
+Category:1762 in Asia

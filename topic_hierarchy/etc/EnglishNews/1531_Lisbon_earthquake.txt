@@ -1,0 +1,50 @@
+{{Earthquake
+| title = 1531 Lisbon earthquake
+|map2 = {{Location map+ | Portugal
+|places =
+{{Location map~|Portugal|lat=39.0|long=-8.0|mark=Bullseye1.png|marksize=60}}
+{{Location map~|Portugal|lat=38.71|long=-9.14|label=Lisbon|label_size=120|position=bottom|mark=Blue pog.svg}}
+{{Location map~|Portugal|lat=39.24|long=-8.69|label=Santarém|label_size=120|position=left|mark=Blue pog.svg}}
+ | width = 250
+ | caption =
+ | relief = yes }}
+| date = {{start-date|26 January 1531|27 January 1531}}
+| magnitude = 6.4–7.1 Moment magnitude scale|M<sub>w</sub> (est.)
+| depth =
+| countries affected = Kingdom of Portugal
+| location = {{Coord|39|N|8|W|scale:5000000|display=inline, title}} 
+| intensity = X 
+| casualties = 30,000 deaths
+}}
+The '''1531 Lisbon earthquake''' occurred in the Kingdom of Portugal on the morning of 26 January 1531, between 4 and 5 o'clock. The earthquake and subsequent tsunami resulted in approximately 30,000 deaths.
+
+==Event==
+
+The earthquake is believed to have been caused by the Lower Tagus Fault Zone, Damage to the city, especially the downtown area, was severe: approximately one third of structures in the city were destroyed and 1000 lives were lost in the initial shock. The Ribeira Palace and San Jo?o da Pra?a Church were both completely destroyed.
+
+Contemporary reports tell of flooding near the Tagus River, some ships being thrown onto rocks, and others grounded on the river's floor as the water retreated. Miranda ''et al.'' conclude that "These observations are coherent with the existence of a large change in the estuary seafloor, either tectonic displacement or a landslide."
+
+==Aftermath==
+
+The earthquake was followed by several strong aftershocks, and fear of another earthquake was intense. A rumor spread, apparently encouraged by the friars of Santarém, Portugal|Santarém, that the disaster was divine punishment and that the History of the Jews in Portugal|Jewish community was to blame. Poet and dramatist Gil Vicente reportedly defused the situation, scolding the friars for their fear mongering, and possibly averting a massacre of Jews and Marrano|recent converts to Christianity.
+
+==Rediscovery==
+
+The 1531 earthquake had been largely forgotten until the early 20th century. In 1909, a Portuguese newspaper reported the discovery of an unsigned manuscript of eyewitness accounts of the disaster. In 1919, a four page letter addressed to the Marquis of Tarifa was found in a Lisbon bookshop, which appeared to describe the earthquake. Sousa's 1919 investigation of the 1755 Lisbon earthquake provided more evidence for the 1531 event, particularly his compilation of answers to the Marquis of Pombal's survey in the wake of the 1755 disaster, which included a question about previous earthquakes.
+
+==See also==
+*Historical earthquakes
+
+==Notes==
+{{reflist|refs=
+
+}}
+
+{{Portugal topics}}
+
+{{DEFAULTSORT:1531 Lisbon Earthquake}}
+Category:Earthquakes in Portugal|1531 Lisbon
+Category:History of Lisbon
+Category:1531 in Portugal|Lisbon Earthquake, 1531
+Category:1531 earthquakes|Lisbon earthquake, 1531
+Category:16th-century Tsunamis|1531 Lisbon

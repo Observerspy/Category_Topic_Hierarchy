@@ -1,0 +1,37 @@
+{{Earthquake
+  | title= March 2007 Sumatra earthquakes
+  | date= {{Start date|2007|3|6}}
+  | map = 2007 March Padang quakes.png
+  | magnitude = 6.4 Moment magnitude scale|M<sub>w</sub>, 6.3 Moment magnitude scale|M<sub>w</sub>
+  | countries affected = Indonesia
+  | casualties = 68 fatalities; over 460 serious injuries
+}}
+The '''March 2007 Sumatra earthquakes''' were two earthquakes which hit near the northern end of Lake Singkarak in Sumatra, Indonesia, on March 6, 2007 within two hours of each other.
+
+==Earthquakes==
+The initial quake at 10:49 (03:49 UTC) measured 6.4 on the Moment magnitude scale and the second quake at 12:49 (05:49 UTC) measured 6.3.
+
+==Effects==
+Over 60 fatalities and 460 serious injuries have been reported, spread across many towns and regencies in West Sumatra. The severe damage to other structures includes over 130 public facilities, 310 mosques, 60 government buildings, 370 schools, and 230 shops. The total value of damages is estimated to be around 1.4 trillion Indonesian rupiah (US$160 million).
+
+==Response==
+A variety of local and international aid organizations have deployed to the region to assist victims. A number of countries have pledged aid, including the Netherlands (US$2.0 million), Sweden (US$1.0 million), Canada (US$0.21 million), Malaysia (US$0.16 million), United States (US$0.1 million) and Taiwan (US$0.06 million).
+The US AID has supplied them with all sorts of essentials like blankets, water, food and first aid kits.
+
+==See also==
+* September 2007 Sumatra earthquakes
+* April 2010 Sumatra earthquake
+
+==References==
+{{reflist}}
+
+{{Coord|0.536262|S|100.498466|E|display=title}}
+{{Earthquakes in 2007}}
+
+{{DEFAULTSORT:2007 Sumatra Earthquakes}}
+Category:2007 earthquakes|Sumatra
+Category:Earthquakes in Indonesia|2007 Sumatra
+Category:Earthquake swarms
+
+{{earthquake-stub}}
+{{Indonesia-stub}}

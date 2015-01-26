@@ -1,0 +1,131 @@
+{{Use dmy dates|date=March 2012}}
+{{Infobox earthquake
+|title              = 2011 Van earthquake
+|image              = Anatolian Plate.png
+|image alt          =
+|imagecaption       = Map of tectonic faults surrounding the Anatolian Plate in Turkey, including the Zagros fold and thrust belt which extends to Iran
+|map                =
+|map alt            =
+|image name         =
+|map2 = {{Location map | Turkey 
+ | relief = yes
+ | label =
+ | lat = 38.628
+ | long = 43.486
+ | mark = Bullseye1.png
+ | marksize = 40
+ | position = top
+ | width = 250
+ | float = right
+ | caption = }}
+|mapsize            =
+|caption            =
+|date               = 23 October 2011
+|origintime         = 13:41 (Eastern European Summer Time|EEST) (UTC+03:00|UTC+03.00)
+|duration           =
+|magnitude          = 7.1 moment magnitude scale|M<sub>w</sub>
+|depth              =  {{Convert|7.2|km}}
+|location           = {{Coord|38.628|N|43.486|E|type:event_scale:50000000|display=inline,title}}
+|type               =
+|countries affected = {{TUR}}
+|damage             =
+|intensity          = X - Intense
+|PGA                = ~0.5 ''Peak ground acceleration|g''
+|tsunami            =
+|landslide          =
+|foreshocks         =
+|aftershocks        = 9367
+|casualties         = 604 killed and 4,152 injured in 23 October earthquake<br> 40 killed and 260 injured in 9 November earthquake}}
+
+File:Van EQ intensity USGS.jpg|thumb|USGS ShakeMap for the Van earthquake
+
+The '''Van earthquake''' was a destructive moment magnitude scale|magnitude 7.1 M<sub>w</sub> earthquake that struck eastern Turkey near the city of Van, Turkey|Van on Sunday, 23 October 2011 at 13:41 local time. It occurred at a shallow depth of {{convert|20|km}}, causing heavy shaking across much of eastern Turkey and lighter tremors across neighboring parts of the South Caucasus and Levant. According to Disasters and Emergency Situations Directorate of Turkey AFAD on 30 October, the earthquake killed 604 and injured are 4,152. At least 11,232 buildings sustained damage in the region, 6,017 of which were found to be uninhabitable. The uninhabitable homes left as much as 8,321 households with an average household population of around 7.6 homeless in the province; this could mean that at least around 60,000 people were left homeless.
+The other 5,215 have been damaged but are habitable.
+
+==Geology==
+The Moment magnitude scale|magnitude 7.2 (M<sub>w</sub>) Eastern Highlands earthquake occurred inland on 23 October 2011 at 13:41 local time, centered about {{convert|16|km}} north-northeast of Van, Turkey and at an estimated hypocenter|focal depth of {{convert|7.2|km}}. Its focal region and much of easternmost Turkey lie towards the southern boundary of the complex zone of continental collision between the Arabian Plate and the Eurasian Plate, beyond the eastern extent of the Armenian and Asia Minor fault zones. Part of the convergence between these two plates takes place along the Zagros fold and thrust belt|Bitlis-Zagros fold and thrust belt. The earthquakes's focal mechanism indicates oblique thrust faulting, consistent with the expected tectonics in the region of the Bitlis-Zagros Fault Zone, where thrust mechanisms dominate.
+
+Due to its great intensity and shallow depth, the earthquake produced significant Strong ground motion|ground motions across a large area. Violent shaking measuring MM IX on the Mercalli intensity scale|Mercalli scale occurred in Van, although widespread strong to severe (MM VI–VIII) shaking was observed in many smaller and less populated areas around the epicenter.
+
+The size of the rupture has been estimated as 60&nbsp;km x 20&nbsp;km, consistent with the observed distribution of aftershocks, on a WSW-ENE orientated fault plane with a dip of about 35°. An offset of about {{convert|2|m}} has been estimated at 10–{{convert|15|km}} depth but there is no visible rupture of the ground surface. The rupture lasted for about 50 seconds.
+
+There have been 1561 aftershocks above magnitude 2 M<sub>w</sub> as of 30 October. The highest magnitude aftershock came at 11:45&nbsp;pm Local on 23 October, with a MI 5.7 and M<sub>w</sub> 6.0. The number of aftershocks reported in ranges as follows:
+556 ranging from magnitude 2 to 3;
+832 ranging from magnitude 3 to 4;
+108 ranging from magnitude 4 to 5; and
+7 ranging from magnitude 5 to 6.
+In the first five months there were 9,367 aftershocks with magnitudes in the range 1.5 to 5.8.
+
+==Impact==
+The earthquake and its aftershocks affected much of eastern Turkey, demolishing hundreds of buildings and burying numerous victims under the rubble. Erci?, a town near Van, was hardest hit by the violent shaking; at least 55 destroyed buildings, 45 fatalities, and 156 injuries occurred in the town alone. Most of the buildings  collapsed along the town's main road and were residential, raising the possibility of a higher death toll. In smaller villages near the epicenter, the shaking demolished almost all the brick houses.
+
+File:Collapsed structures and debris in Van, Turkey.jpg|left|thumb|Collapsed structures and damaged car in Van almost a week after the earthquake
+
+In the city center of Van, at least 100 people were confirmed dead, and 970 buildings collapsed in and around the city. The Van Ferit Melen Airport was damaged, but contradictory reports were given: According to NTV, airplanes were diverted to the neighboring cities, while according to the Anatolia News Agency, the earthquake did not disrupt the air traffic.
+
+Twenty-four hours following the main shock the death toll stood at 264 but estimates were ranged up to a thousand. The death toll was caused primarily from building collapse in urban areas.
+
+==Response==
+As of 23 October, The Turkish government had responded the disaster with 1275 personnel, 174 vehicles, 290 health officials, 43 ambulances, and 6 air ambulances. Local people also joined the rescue action, some using their bare hands. Survivors and opposition politicians have criticized the crisis management of the government.
+
+File:AKUT 2011 Van-4.jpg|thumb|A rescue operation being carried out by members of the AKUT Search and Rescue Association.
+
+On 27 October Disasters and Emergency Situations Directorate of Turkey AFAD announced that 13 million TL (around $7 million US) has been sent so far in terms of emergency relief efforts. Another 8.6 million TL (just under $5 million US) has been donated via charity so far. There are now a total of 3,826 search and rescue officers, 904 medical personnel, 18 search dogs, 651 construction equipment and vehicles, including 146 ambulances, 7 rescue choppers (air ambulances), 46 generators, 77 projectors, 95 portable toilets, 37 mobile kitchens, 3,051 kitchen sets, 6,359 catalytic stoves and a mobile oven in the disaster area. 25,185 tents sent by Turkish Red Crescent Society were distributed. 10 collective shelter tents, 60 prefabricated houses, 90 Mevlana Transitional Houses(translation needed) houses have also been erected. 109,986 blankets, 1,150 quilts and 5,109 sleeping bags have also been distributed. 3 meals a day are being provided with distribution of hot meals food etc. Also 30 field tents have been set up for public services and psychosocial trauma support.
+
+As of 27 October, in some sites, rescue work had been stopped where attention was turning to the needs of the survivors, however, there were still survivors found and saved from the rubble on the same day and thereafter. The government had announced that tents will be delivered to those whose homes were deemed unsafe rather than whoever lined up asking for one.
+
+According to  AFAD as of 30 October,12:00 UTC there are 4,440 search and rescue personnel, 1710 medical personnel, 18 search dogs, 651 construction equipment and vehicles including 146 ambulances, 143 generators, 77 projectors, 95 portable toilets, 42,711 tents (including 8,166 from overseas aid), 54 collective shelter tent, 69 general purpose tents, 65 prefabricated houses, 2,300 Mevlana houses, 160,360 blankets, 1,179 quilts, 37 mobile kitchens, 3,051 kitchen sets, 6,899 catalytic stoves, 5,792 sleeping bags, and 1 mobile kitchen are present.
+
+===International===
+The European Union and NATO expressed their condolences and NATO offered help. The President of the ''de facto'' Turkish Republic of Northern Cyprus Dervi? Ero?lu also sent condolences. President of Armenia|Armenian President Serzh Sargsyan sent his condolences to Turkish President Abdullah Gül and offered immediate help. President of the United States|United States President Barack Obama said: "We stand shoulder to shoulder with our Turkish ally in this difficult time and are ready to assist the Turkish authorities."
+
+Armenia, Bulgaria, Bosnia and Herzegovina, China, Denmark, Georgia, Germany, Greece, Hungary, Iran, Ireland, Israel, Japan, Kosovo, New Zealand, Pakistan, Poland, Portugal, Russia, South Korea, Sweden, Switzerland, Taiwan, Ukraine, the United Kingdom, and the United States also offered Turkey aid after the earthquake. People in over 200 cities taking part in Thrill the World 2011 also pledged all proceeds from their efforts.
+
+File:RIAN archive 980006 Russian humanitarian aid delivered to Turkey.jpg|thumb|left|The Russian Emergencies Ministry's aircraft Il-76 seen at the Turkish airport of Erzurum, on having delivered humanitarian aid to earthquake victims.
+
+President of Turkey|Turkish President Abdullah Gül, said that Turkish teams were capable of handling the disaster management. with aid and rescue workers arriving at the affected area shortly after the quake struck without notifying Ministry of Foreign Affairs. Azerbaijan sent 145 rescuers at night on 23 October, another two rescue teams were sent to Turkey afterwards, bringing the total number to 213 rescue personnel. The Azerbaijani teams rescued 12 people, pulled 60 bodies from the rubbles. The Iranian Red Crescent set up relief camps to accommodate people made homeless by the quake. Several injured were transferred for treatment to the Iranian border city of Khoy. However, on 25 October, Turkey announced that they would accept aid from other countries also.
+
+The Turkish government is looking for tents, prefabricated houses, and living containers.
+
+The U.N. Office for the Coordination of Humanitarian Affairs (OCHA) stated that Erzurum would be a hub for international assistance sent by plane, and Van had been asked to establish a centre for assistance coming overland.
+
+As of 27 October, aid from other countries are as follows: Azerbaijan sent search and rescue team of 145 people, 1,250 tents, 700 beds, 40 generators, 5,000 blankets, 40 pieces of kitchen equipment. 490 tents by France, 200 tents by Italy, 284 tents by Russia, 60 tents, 300 blankets, 300 beds, and 60 stoves by Kazakhstan, 4 general purpose tents by Ukraine, 7 prefabricated houses by Israel and tents for 2000 by Belgium sent. Also Armenian government sent 40 tons of cargo to Turkey, including tents, sleeping bags, blankets and bedding. On 31 October Bulgaria provided 100 tents for winter conditions and will provide 50 more tents, 1,000 blankets and 300 mats.
+
+Saudi Arabia sent $50 Million to spend in relief efforts. Also European Union announces that they will release TRY10 million fund for the cause.
+
+==9 November earthquake==
+File:5.9 magnitude earthquake in Van, Turkey.jpg|thumb|USGS ShakeMap of the 9 November earthquake
+
+A 5.7 magnitude earthquake occurred {{convert|16|km}} southwest of Van (near the town of Edremit, Van|Edremit) at a shallow depth of {{convert|4.8|km}} on 9 November at 21:23 local time (19:23 UTC). Early reports from Deputy Prime Minister Be?ir Atalay stated that the event caused five deaths in the collapse of several hotels, though 25 buildings in total had fallen, with most of those buildings being empty since the earthquake a month earlier. The Turkish Anatolian Agency reported that the event was followed by an aftershock measuring 4.4.
+
+Among the buildings collapsed by the earthquake was the six-story Bayram Hotel, which was hosting journalists and rescue workers. A cameraman for the Cihan News Agency had left the hotel just prior to the earthquake and said that some journalists trapped in the rubble in the building had sent text messages to colleagues asking to be rescued. The building, which had been renovated the previous year, was forty years old.
+
+As of the following day, it had not been determined whether the event was an aftershock of the earlier 23 October earthquake, though the Kandilli earthquake center of Turkey said that the 9 November earthquake was an independent earthquake. A Japanese aid worker who had traveled to Turkey for the October earthquake relief work was reported to have been pulled alive from the rubble of the Bayram hotel but later died of his injuries at a hospital. Residents and were angry with authorities for not having closed the building after it suffered cracks and a damaged elevator in the large earthquake a month earlier.
+
+Rescue personnel were able to extricate twenty-three survivors from the rubble of 2 hotels and one apartment building, but the bodies of 7 others were also retrieved. Since most buildings were evacuated after the October 2011 earthquake, only those 3 buildings were occupied, otherwise the death toll could have been worse.
+
+==Disaster Management==
+The government response in terms of emergency assistance was marginal. The temporary shelter is provided mainly by container houses. Approximately 20.000 containers are procured and sent to earthquake zone. The main problem of this decision was the supply of this much containers in a short duration. Approximately four months after the Van Earthquake, the container cities are settled. As a result of this the victims could only accommodated in container cities after March 2012. Until March 2012 most of the victims set up their own tents for the shelter. Many people preferred nylon based materials for economic reasons. Unfortunately, nylon has low ignition temperature and during winter many tent fires occurred. 12 people are dead and more than 160 people are injured because of tent fires  (page 132)
+.
+
+==See also==
+{{Portal|Earthquakes|Turkey}}
+* 1941 Van-Erci? earthquake
+{{clear}}
+
+== References ==
+{{reflist|30em}}
+
+== External links ==
+{{Commons category}}
+* http://www.eedmi.itu.edu.tr/Van_Depremi/index_en.html Van Earthquake Report by ITU Earthquake Engineering and Disaster Management Institute
+
+{{Earthquakes in 2011}}
+{{Earthquakes in Turkey}}
+
+Category:2011 earthquakes|Van
+Category:2011 in Turkey|Van
+Category:Earthquakes in Turkey|2011 Van
+Category:History of Van Province
+
+{{Link GA|tr}}

@@ -1,0 +1,48 @@
+{{infobox earthquake
+| title              = 1981 Dawu earthquake
+| date               = {{Start-date|24 January 1981}}
+| image              = 
+| image alt          = 
+| map2 = {{Location map | China Sichuan
+ | label=
+ | lat=30.93
+ | long=101.10
+ | mark=Bullseye1.png
+ | marksize=40
+ | position=top
+ | width= 250
+ | float=right
+ | caption=}}
+| map_alt            = 
+| magnitude          = 6.8 (Richter scale)
+| depth              = 
+| location           = {{coord|30.93|101.10|display=inline,title}}
+| countries affected = {{flag|China}}
+| tsunami            = 
+| casualties         = About 150 dead; roughly 300 injured
+}}
+On 24 January 1981 at 5:13 a.m. China Standard Time (23 January 1981 at 21:13 UTC), Sichuan, China, was struck by a large earthquake known as the '''1981 Dawu earthquake'''. Registering a Richter scale magnitude of 6.8, the earthquake killed about 150 and injured roughly 300 more. It caused much damage within a close range to its epicenter.
+
+China has a long, catastrophic history of earthquakes that extends from at least 1290 AD to the present day.
+
+== Background ==
+China has an extensive history of catastrophic earthquakes that ranges back to 1290. The first verified earthquake took place in Hebei|Chih-li, killing roughly 100,000 people. The next great earthquake was probably the 1556 Shaanxi earthquake, the most devastating List of natural disasters by death toll#Earthquakes|earthquake of all time. Roughly 830,000 were killed by the event. Other earthquakes in 1917, 1918, 1920, 1923, 1925, 1927, 1931, 1932, 1933, 1948, 1950, 1966, 1969, 1970, 1974, 1975, 1976 each killed at least one thousand people. Since 1981, earthquake fatalities have diminished greatly, though have not been stopped. As recently as 2008, 2008 Sichuan earthquake|an earthquake in Sichuan killed nearly 90,000 people.
+
+== Characteristics ==
+The epicenter was pinpointed to Dawu County, Sichuan|Dawu County in Sichuan. Its official magnitude was 6.8 and its surface wave magnitude reached 6.6.
+
+A moderately well controlled focal mechanism indicates that the earthquake was probably a result of left lateral Fault (geology)#Strike-slip faults|strike-slip faulting A 44&nbsp;km surface rupture has been reported for the 1981 earthquake.
+
+== Damage and casualties ==
+The earthquake killed roughly 150 people, and 300 or so more were injured. Damage was bad, but limited to a small zone around the area.
+
+== References ==
+{{reflist}}
+
+{{Earthquakes in China}}
+{{Earthquakes in 1981}}
+
+Category:1981 earthquakes|Dawu Earthquake, 1981
+Category:1981 in China|Dawu Earthquake, 1981
+Category:Earthquakes in China
+Category:History of Sichuan

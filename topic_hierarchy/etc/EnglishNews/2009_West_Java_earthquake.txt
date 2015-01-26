@@ -1,0 +1,86 @@
+{{Earthquake
+|title = 2009 West Java earthquake
+|date = {{Start date|2009|09|02|df=yes}} 
+|map = 2009-September-Java-quake-shake-map-USGS.jpg
+|magnitude = 7.0 Moment magnitude scale|<math>M_\mathrm{w}</math>
+|depth = {{convert|49|km|mi|abbr=on}}
+|tsunami = 20 cm
+|location = off SW coast of Java,<br>south of Bandung<br>{{Coord|7.778|S|107.328|E|display=inline,title}}
+|countries affected =  Indonesia<br/>West Java
+|casualties = at least 79 dead
+}}
+The '''2009 West Java earthquake''' occurred on September 2 at 14:55 local time in West Java, Indonesia. The Moment magnitude scale|magnitude 7.0 earthquake killed at least 79 people, injured over 1,250, and displaced over 210,000 (including more than 140,000 in Tasikmalaya regency).
+
+The quake was felt in the capital Jakarta although damage there was minimal. At the time it was Indonesia's deadliest earthquake since July 2006 Java earthquake|2006.
+
+==Cause==
+The earthquake's Hypocenter|focus lies close to the major Fault (geology)|fault plane where the Indo-Australian Plate is being Subduction|subducted beneath the Eurasian Plate. However, the focal mechanisms determined for this event shows reverse faulting at a high angle to the trend of the subduction zone and it has been suggested that the cause was deformation within the descending slab.
+
+There was an aftershock of 4.9 magnitude on September 2, 2009  at 16:28 local time
+
+Another earthquake in the same subduction zone occurred only 5 days later in the ocean south of Yogyakarta. This newer quake (magnitude 6.2) is considered to be related to the West Java earthquake.
+
+==Damage==
+Buildings in Bandung and Tasikmalaya, the town closest to the epicenter, were damaged, and hundreds of people were injured. An estimated 18,300 homes and offices were earlier thought to have been damaged. This figure later rose to 87,000.
+
+The quake was felt in Jakarta, Indonesia's capital; causing evacuation in many office buildings and hotels. Several office buildings along major thoroughfares in Central Jakarta suffered damage.
+
+At least 11 houses were covered by a landslide in Cianjur.
+
+Around 37 inhabitants, including 13 children, of Cikangkareng were affected by a landslide caused by the quake and are thought to have been buried beneath rubble. The area has become a breeding ground for voyeurs who are flocking to the area to take photographs of the destruction and victims.
+
+At least one hospital was destroyed by the quake.
+
+==Victims==
+Confirmed death tolls by area were issued by ''The Jakarta Post'' on 4 September.
+
+{|class="sortable wikitable"
+|-
+!Area
+!Total
+|-
+| Cianjur
+| 21
+|-
+| Garut
+| 10
+|-
+| Tasikmalaya
+| 9
+|-
+| Bandung 
+| 8
+|-
+| Ciamis 
+| At least 1
+|-
+| Sukabumi 
+| At least 1
+|-
+| Bogor 
+| At least 1
+|-
+| West Bandung 
+| At least 1 
+The Bandung Health Agency says nearby victims of the quake will be eligible for free medical treatment for at least a month.
+
+More than 25,000 affected people were housed in makeshift tents.
+
+A group of 30 volunteers comprising Malaysian medical students from several universities in Indonesia, headed by Malaysian Students Department director in Indonesia Dr Junaidi Abu Bakar were deployed to provide assistance. They provided food and clothing as well as meals for the breaking of fast.
+|}
+==References==
+{{Reflist|30em}}
+
+==External links==
+* http://www.youtube.com/watch?v=8BtoMg1Tvwc Death toll rises in Indonesia quake &ndash; video from Al Jazeera
+* http://www.youtube.com/watch?v=P__rHb_3SCk 7.0 Magnitude Earthquake Rattles Indonesia &ndash; video from the Associated Press
+* http://www.torontosun.com/news/world/2009/09/03/10739886.html Photos at the ''Toronto Sun''
+
+{{JavaMegathrust}}
+
+{{Earthquakes in 2009}}
+
+{{DEFAULTSORT:2009 West Java Earthquake}}
+Category:2009 earthquakes|West Java
+Category:2009 in Indonesia|West Java earthquake
+Category:Megathrust earthquakes in Java

@@ -1,0 +1,46 @@
+{{Earthquake
+|title= 1965 Rat Islands earthquake
+|date= {{Start-date|February 4, 1965}}
+|map2 = {{Location map many | Alaska | relief=1
+ | label=
+ | lat=51.27
+ | long=178.55
+ | mark=Bullseye1.png
+ | marksize=40
+ | position=top
+ | width= 250
+ | float=right
+ | caption=}}
+|magnitude = 8.7 Moment magnitude scale|M<sub>w</sub>
+|depth=
+|location={{coord|51.29|178.55|display=inline,title}}
+|countries affected = United States (Alaska)
+|tsunami = yes
+|casualties =  
+}}
+The '''1965 Rat Islands earthquake''' occurred at 05:01 UTC, on 4 February. It had a Moment magnitude scale|magnitude of 8.7 and triggered a tsunami of over 10 m on Shemya Island, but caused very little damage.
+
+==Damage==
+Flooding from the tsunami caused $10,000 worth of damage on Amchitka Island. Minor damage from the earthquake was recorded on both Attu and Shemya islands in the form of cracks in runways.
+
+==Tectonic setting==
+File:Alaska earthquakes.jpg|thumb|260 px|Map showing the tectonics and earthquake|seismicity of Alaska
+The Rat Islands form part of the Aleutian Islands, a chain of volcanic islands forming an island arc, that results from the subduction of the Pacific Plate beneath the North American Plate. This plate boundary, the Alaska-Aleutian megathrust, has been the location of many megathrust earthquakes.
+
+==Characteristics==
+
+===Earthquake===
+The earthquake was associated with a 600&nbsp;km long rupture along the plate boundary, based on the distribution of aftershocks. The pattern of energy release suggest the presence of three asperities along the plate interface, each causing a pulse of Seismic moment|moment release. Modelling of the tsunami supports the idea that the earthquake consisted of three sub-events, related to three structural 'blocks' within the overriding plate.
+
+The main shock was followed by an earthquake of magnitude 7.6 nearly two months later, that triggered a small tsunami. This was not an aftershock, but a Fault (geology)#Dip-slip faults|normal fault event within the Outer trench swell|outer rise of the subducting plate, triggered by the earlier event.
+
+===Tsunami===
+The tsunami had a maximum run-up height of 10.7 m on Shemya Island, 2.0 m at Amchitka Island, 1.6 m at Attu Island and 1.1 m in northern Kauai, Hawaii. It was also observed in Peru, Ecuador, Mexico, California, Japan and eastern Russia.
+
+==References==
+{{Reflist}}
+
+Category:1965 in Alaska
+Category:Megathrust earthquakes in Alaska
+Category:1965 earthquakes|Rat Islands
+Category:20th-century tsunamis

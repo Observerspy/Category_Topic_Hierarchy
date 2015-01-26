@@ -1,0 +1,96 @@
+{{Use dmy dates|date=January 2012}}
+{{Infobox earthquake
+| title = 2007 Solomon Islands earthquake/tsunami
+| date = {{Start date|2007|4|2|df=y}}
+| origintime = 20:39:56 UTC
+| map2 = {{Location map | Oceania
+| relief = yes
+| label = 
+| lat = -8.48 
+| long = 156.97
+| mark = Bullseye1.png
+| marksize = 40
+| position = bottom
+| width = 250
+| float = right
+| caption = }}
+| image name = 
+| depth = {{convert|10|km|abbr=on}}
+| location = {{Coord|8.48|S|156.97|E|format=dms|type:event_dim:200km |display=inline,title}}
+| magnitude = 8.1 Moment magnitude scale|M<sub>w</sub>
+| countries affected = Solomon Islands <br> Papua New Guinea
+| casualties = 52 Dead
+}}
+
+The '''2007 Solomon Islands earthquake''' took place on 2 April 2007, near the provincial capital of Gizo, Solomon Islands|Gizo on Ghizo Island, in the Solomon Islands. Its Richter magnitude scale|magnitude was calculated by the United States Geological Survey (USGS) as being at 8.1 on the moment magnitude scale. The tsunami that followed the earthquake killed 52 people.
+
+According to the USGS, the earthquake was recorded around 7:39:56 a.m. local time (UTC+11). The focus (earthquake)|focus was <span style="white-space:nowrap">10&nbsp;km&nbsp;(6&nbsp;mi)</span> deep and <span style="white-space:nowrap">40&nbsp;km&nbsp;(25&nbsp;mi)</span> South South-East of Gizo, Solomon Islands|Gizo township on New Georgia Islands in Western Province (Solomon Islands)|Western Province. There were numerous aftershocks, the largest of which had a magnitude of 6.2.
+
+==Effects==
+
+At least fifty-two people were reported to have been killed and sixty reported missing when a tsunami triggered by the earthquake struck the Solomon Islands, wiping out thirteen or more villages. Thousands were left homeless, and damages are estimated in millions. The largest waves were reported on the northern tip of Simbo Island, where maximum tsunami run-ups were 12 m, completely washing away two villages, Tapurai and Riquru, and killing 10 people. In South Choiseul, waves 10 meters high swept away villages, gardens and a hospital.
+About 900 homes were destroyed.
+
+The tsunami reached Papua New Guinea, with a family of five reportedly missing from a remote island in Milne Bay Province, which was in the tsunami's path.
+
+Aid workers reported that an outbreak of diarrhea emerged among the survivors. However, the UN reported that the outbreak and other diseases were under control as of 12 April. On 18 April, a measles outbreak was reported and an immunization program was underway.
+
+The island of Ranongga in the New Georgia Group was lifted three meters by the earthquake, causing its beaches to shift outwards of up to 70 meters. Large coral reefs in the area are now largely above the surface and local fishermen are worried that the fishing grounds have been destroyed. However, Australian scientists said the exposure of the reefs are a normal part of island building and that careful wildlife management can preserve the reefs that remain.
+
+==Response==
+File:2007 Solomon Islands earthquake impact map.jpg|thumb|ShakeMap showing the mainshock intensity
+
+===Warnings===
+
+A tsunami warning was issued for the South Pacific Ocean, and advisories issued for Japan and Hawaii. The Bureau of Meteorology (Australia)|Australian Bureau of Meteorology issued a warning for Australia's eastern coast, from Queensland's Barrier Reef to Tasmania, and beaches along the coast were closed, while many evacuated to higher ground. However, as the epicenter was close to the Solomon Islands, the tsunami hit before the Hawaiian Pacific Tsunami Warning Center released the warning.
+
+High-magnitude ocean waves propagate at high speeds close to 25 meters per second, which meant that they traversed the 55-kilometer distance from the epicenter to Gavo in less than 20 minutes. Fortunately, the S-waves from the earthquake shook the ground and alerted the population, allowing many to flee to high ground before the wave struck.
+
+From Honiara, one of the first warnings came from the People First Network's Simbo email station, situated close to the epicentre. PFnet's Technical Advisor David Leeming relates that 20 minutes after the earthquake, Nickson Sioni from Simbo came on the (HF) radio and announced the arrival of a huge wave that had washed away several houses and come inland about 200m. This information was passed on by telephone to the Hawaii-based Pacific Tsunami Warning Center who then upgraded their warning to an "expanding regional alert". This was achieved before the 35-minute arrival time of the wave for the capital Honiara, which in the event proved non-destructive.
+The PFnet email station operators had been trained in disaster response by Manager Randall Biliki (late), who had previous worked as Director of the Solomon Islands National Disaster offices for nine years. All stations were equipped with UN-standard assessment forms installed on the email station laptops using Microsoft Access. Information was received from several email stations reporting on damages, needs and assessment information for several days after the tsunami, notably from badly affected Korovou in Shortland Islands.
+
+===Aid response===
+File:US Navy 070413-N-4790M-013 HS-10 rescues crew of stranded fishing vessel delivering aid to Solomon Islands.jpg|thumb|left|Taiwanese fishing vessel aground on a reef while participating in relief operations
+
+Australia committed to contribute an initial 3 million AUD in emergency aid, later increased to 5.7 million as of June 2007.
+New Zealand gave 950,000 NZD during the initial relief period, and committed 7.5 million NZD over two years to reconstruction, as of July 2007. 
+The United States contributed US$250,000 in aid. 
+Republic of China|Taiwan contributed US$214,000 and shipment of 1,000&nbsp;kg of rice. France has also airlifted supplies via New Caledonia.
+
+The United Nations established a field hospital in Gizo, with a total of eight planned for the entire country, and also established three camps for internally displaced persons. Australian and Canadian medical teams have also been deployed across the islands. 
+Papua New Guinea, itself affected by the tsunami, has contributed US$340,000 and a light plane that can better access smaller, more remote airstrips. UNICEF issued an appeal for US$500,000 for both the Solomon Islands and Papua New Guinea. 
+Separately, the International Red Cross and Red Crescent Movement|Red Cross has issued an appeal for US$800,000. The remoteness of some villages meant that aid did not reach them until several days after the tsunami occurred. However, the Associated Press reported on 6 April that Gizo's airport had reopened, easing the delivery of supplies. A Taiwanese fishing boat ran aground on coral reefs while delivering supplies, but it was successfully evacuated by a United States Navy helicopter. The boat's crew managed to free the vessel from the rocks a few days later.
+
+===Aftermath===
+File:Tsunami Warning System.JPG|right|thumb|Tsunami warning buoys to be deployed by the Australian Government
+
+Francis Billy Hilly, the MP for Simbo Island where 10 people died, said on 8 April that those who had previously resisted resettlement away from the island's active volcano were reconsidering their options. The national government may also relocate islanders away from low-lying areas pending a review of long-term rehabilitation and disaster preparedness plans. The Australian government announced that a network of five tsunami warning buoys will be deployed along its Pacific coast, with two buoys stationed in the Papua New Guinea/Solomon Islands area.
+
+== Tectonic summary ==
+The earthquake occurred along the boundary of the Pacific plate with, respectively, the Indo-Australian Plate|Australia, Woodlark Microplate|Woodlark, and Solomon Sea plates. Along much of the plate boundary between the Pacific plate and the Australia/Woodlark/Solomon Sea plates, relative plate-motion is accomplished principally by subduction of the Australia/Woodlark/Solomon Sea plates beneath the Pacific plate. The 2 April earthquake's location and focal mechanism are consistent with the earthquake having occurred as underthrusting of the Australia/Woodlark/Solomon Sea plate beneath the Pacific plate, as part of the broader northeast-directed subduction process. The length of faulting was estimated to be about 260±50&nbsp;km.
+
+The Solomon Islands arc as a whole experiences a very high level of earthquake activity, and many shocks of magnitude 7 and larger have been recorded since the early decades of the twentieth century. The 2 April earthquake, however, nucleated in a 250 kilometre-long segment of the arc that had produced no shocks of magnitude 7 or larger since the early 20th century.
+
+==References==
+{{reflist|30em}}
+
+==External links==
+{{Wikinews|Strong earthquake near Solomon Islands, tsunami warnings issued}}
+*http://www.jsg.utexas.edu/news/feats/2007/rapid_response.html Rapid Response Mission Helps Assess Earthquake Risk in South Pacific JSG Online, 7 Dec. 2007
+*http://www.stuff.co.nz/4013314a12.html Stuff.co.nz:Tsunami fears after massive Solomons quake
+*http://apnews.myway.com/article/20070401/D8O846L00.html Associated Press: Tsunami hits Solomons
+*http://www.bom.gov.au/tsunami/ Australian Bureau of Meteorology Tsunami Warnings summary
+*http://wcatwc.arh.noaa.gov/closevu209039-08.gif NOAA - Solomon Islands - Historic Quakes
+*http://www.alertnet.org/thefacts/satelliteimages/UNOSAT/9f8a371121cd94916847005583e169ba.htm Reuters - Solom Islands Tsunami Damage
+*http://unosat.web.cern.ch/unosat/freeproducts/solomon_islands/UNOSAT_Solomon_EQ_elevation_lowres_v1.0.jpg UNOSAT - Potential Tsunami Affected Areas
+*http://www.pmc.gov.sb/ Solomon Islands Government
+
+{{Earthquakes in 2007}}
+
+{{USGS}}
+
+{{DEFAULTSORT:2007 Solomon Islands Earthquake}}
+Category:2007 in the Solomon Islands|Solomon Islands Earthquake, 2007
+Category:2007 earthquakes|Solomon Islands
+Category:Megathrust earthquakes in the Solomon Islands
+Category:21st-century tsunamis

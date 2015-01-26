@@ -1,0 +1,28 @@
+{{earthquake
+|title = The 1615 Earthquake of Arica
+|map = 
+|date = {{start-date|df=yes|16 December 1615|16 December 1615}}
+|magnitude = 7.5 
+|location = Arica, Chile (then part of the Spanish Empire)
+|countries affected = Chile, Peru
+|tsunami = Yes 
+|casualties = 3 injured 
+}}
+
+The '''1615 Arica earthquake''' was a major earthquake in Arica, Chile. The earthquake caused considerable damage to the infrastructure of the city with the Iglesia Mayor and the city's fort collapsing and the cracks opening on the floor of the royal mercury (element)|quicksilver storage. No human was reported dead but three people suffered injuries.   
+
+==References==
+{{reflist|refs=
+
+
+}}
+
+{{coord missing|Chile}}
+
+{{Earthquakes in Chile}}
+
+{{DEFAULTSORT:1615 Arica earthquake}}
+Category:Megathrust earthquakes in Chile
+Category:1615 in Chile|Arica earthquake
+Category:1610s earthquakes|Arica earthquake
+Category:History of Arica y Parinacota Region

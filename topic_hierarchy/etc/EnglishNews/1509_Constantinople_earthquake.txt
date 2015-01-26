@@ -1,0 +1,57 @@
+{{Earthquake
+|title= 1509 Istanbul earthquake
+|date= {{Start date|1509|9|10|df=yes}}
+|map2 = {{Location map | Turkey |relief=1
+ | label=
+ | lat=40.9
+ | long=28.7
+ | mark=Bullseye1.png
+ | marksize=40
+ | position=top
+ | width= 250
+ | float=right
+ | caption=}}
+|magnitude = 7.2 Surface wave magnitude|M<sub>s</sub>
+|depth=
+|location={{coord|40.9|28.7|display=inline,title}}
+|countries affected = Ottoman Empire
+|casualties = 10,000
+}}
+
+The '''1509 Istanbul earthquake''', referred to as "The Lesser Judgment Day" ({{lang-tr|Kü?ük K?yamet}}) by contemporaries, occurred in the Sea of Marmara on 10 September 1509 at about 10pm. The earthquake had an estimated magnitude of 7.2 ± 0.3 on the surface wave magnitude scale. Forty-five days of aftershocks followed the earthquake, as well as a tsunami. Over a thousand houses and 109 mosques were destroyed, and an estimated 10,000 people died.
+
+==Background==
+The Sea of Marmara is a pull apart basin formed at a Extensional tectonics#Releasing bends along strike-slip faults|releasing bend in the North Anatolian Fault, a right-lateral Fault (geology)#Strike-slip faults|strike-slip fault. This local zone of extension occurs where this Transform fault|transform boundary between the Anatolian Plate and the Eurasian Plate steps northwards to the west of Izmit from the Izmit Fault to the Ganos Fault. The pattern of faults within the Sea of Marmara basin is complex but near Istanbul there is a single main fault segment with a sharp bend. To the west, the fault trends west-east and is pure strike-slip in type. To the east, the fault is NW-SE trending and show evidence of Transtension|both normal and strike-slip motion.
+File:Earthquake of 1509 in the Sea of Marmara.gif|thumb|left|A 1529 woodcut showing damage to the Fatih Mosque, Istanbul|Fatih Mosque
+
+==Damage==
+The area of significant damage (Medvedev-Sponheuer-Karnik scale|intensity ≥ 7) extended from ?orlu in the west to Izmit in the east. Galata and Büyük?ekmece also suffered severe damage. In Constantinople many houses collapsed, chimneys fell and walls cracked. The newly built Bayezid II Mosque was badly damaged, the main dome was destroyed and a minaret collapsed. The Fatih Mosque suffered damage to its four great columns and the dome was split. The former church of Hagia Sophia survived almost unscathed although a minaret collapsed. Inside the mosque, the plaster that had been used to cover up the Byzantine mosaics inside the dome fell off, revealing the Christian images.
+
+The number of dead and injured is hard to estimate, with different sources giving widely varying accounts from 1,000 to 13,000. It is believed that some members of the Ottoman dynasty died in this earthquake. Earthquake shocks continued for 45 days after the big earthquake. People were unable to return to their homes for 2 months.
+
+File:Marmara earthquake 1509.jpg|thumb|Woodcut depicting the effects of the 1509 earthquake
+
+==Characteristics==
+
+===Earthquake===
+From the area and intensity of shaking, a {{convert|70|km|mi|abbr=on}} fault rupture has been estimated.
+
+===Tsunami===
+A tsunami is mentioned in some sources with a run-up of greater than {{convert|6.0|m|ft|abbr=on}}, but discounted in others.
+
+==References==
+{{Reflist}}
+
+{{Earthquakes in Turkey}}
+
+{{DEFAULTSORT:1509 Constantinople earthquake}}
+Category:Tsunamis
+Category:16th-century earthquakes
+Category:16th century in the Ottoman Empire
+Category:Earthquakes in Turkey|1509 Constantinople
+Category:History of Istanbul|1509
+Category:1509 in science
+Category:1509 natural disasters
+Category:1509 in Europe
+Category:1509 in Asia
+Category:1509 in the Ottoman Empire

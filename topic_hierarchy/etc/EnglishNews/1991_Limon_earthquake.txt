@@ -1,0 +1,49 @@
+{{Earthquake
+|title              = 1991 Limon, Costa Rica Earthquake
+|date               = {{Start date|1991|04|22}}
+|map2 = {{Location map many | Costa Rica |relief=1
+ | label =
+ | lat = 9.685
+ | long = -83.073
+ | mark = Bullseye1.png
+ | marksize = 40
+ | position = top
+ | width = 250
+ | float = right 
+ | caption = }}
+|magnitude          = 7.7&nbsp;Moment magnitude scale|M<sub>w</sub>
+|depth              = {{convert|10|km|mi|abbr=on}}
+|location           = {{Coord|9.685|N|83.073|W|display=inline,title}}
+|countries affected = Costa Rica <br> Panama
+|casualties         = 48 dead, 1712 injured
+}}
+
+The '''1991 Costa Rica earthquake''', also known as '''Limon Earthquake''' or '''Bocas del Toro earthquake''', occurred at 3:57&nbsp;pm UTC-6|local time (21:56:51 UTC) on April 22, 1991.  The epicenter of the 7.8&nbsp;Moment magnitude scale|M<sub>w</sub> earthquake was in Pandora, Valle La Estrella District |Valle La Estrella, in the Caribbean region of Limón Province |Limon, Costa Rica, {{convert|225|km|mi}} southeast of San José, Costa Rica|San José. The earthquake was the strongest recorded in Costa Rica's history, and was felt throughout the country as well as in western Panama.
+
+==Damage==
+{{see also|List of earthquakes in Costa Rica}}
+
+The earthquake claimed at least 48 lives in Bocas del Toro Province|Bocas del Toro, Panama. Roads and bridges between Puerto Limón|Limon and Sixaola were all destroyed, and the epicentral region was only accessible by helicopter from the Panamaian side.
+
+In Limon, hotels and other landmarks collapsed and {{convert|1.85|m|abbr=on}} of uplift at the waterfront left coral and sand bluffs exposed. In Panama, extensive damaged also occurred in Guabito, Changuinola, Almirante and Isla Colon. The Chiquita Brands office building in Changuinola separated with a 3 meter breach.
+
+==Aftermath==
+The international bridge of Sixaola stayed intact because it was well constructed by Americans in the early 1900s. At the Changuinola "Capitán Manuel Ni?o" International Airport damage was severe, and no planes were able to land, but helicopters were able to bring food and supplies. 
+
+By 1993, the Changuinola-Guabito road was reconstructed with $10 million USD funded by the Panamanian government, and new housing facilities were constructed in Finca 4 and Almirante. Reconstruction of the Limon-Sixaola road took months, and in 2010 the road was paved and coded as Highway 36.
+
+==References==
+{{reflist}}
+
+==External links==
+* http://www.crid.or.cr/digitalizacion/pdf/spa/doc2203/doc2203-b1.pdf El terremoto de Bocas del Toro 22 de abril, 1991 : Crónica del desastre
+
+{{Earthquakes in 1991}}
+
+{{DEFAULTSORT:1991 Costa Rica Earthquake}}
+Category:1991 in Costa Rica|Costa Rica
+Category:1991 earthquakes|Costa Rica
+Category:Geography of Costa Rica
+Category:Earthquakes in Costa Rica
+Category:1991 in Panama|Panama
+Category:Earthquakes in Panama

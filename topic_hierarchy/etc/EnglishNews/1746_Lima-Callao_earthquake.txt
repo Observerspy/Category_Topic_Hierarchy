@@ -1,0 +1,63 @@
+{{Infobox earthquake
+| title              = 1746 Lima-Callao earthquake
+| date               = {{Start-date|28 October 1746}}
+| map2               = {{Location map | Peru
+ | label=
+ | lat=-11.35
+ | long=-77.28
+ | mark=Bullseye1.png
+ | marksize=40
+ | position=top
+ | width= 250
+ | float=right
+ | caption=
+ | relief=yes}}
+| magnitude          = 8.6–8.8 Magnitude Moment magnitude scale|M<sub>w</sub>
+| depth              =
+| location           = {{coord|-11.35|-77.28||display=inline,title}}
+| countries affected = Peru
+| tsunami            = Yes
+| aftershocks        =
+| intensity          =
+| casualties         = 5941
+}}
+
+The '''1746 Lima-Callao earthquake''' occurred at 22:30 local time on 28 October (03:30 Coordinated Universal Time|UTC on 29 October).  The epicenter was located about 90&nbsp;km north-northwest from Lima. It caused almost complete destruction of the capital Lima and the subsequent tsunami devastated the port city of Callao. It was the deadliest earthquake in Peru’s history prior to the 1970 Ancash earthquake|1970 earthquake.
+
+==Earthquake==
+The earthquake, with an estimated magnitude of 8.6&ndash;8.8 Moment magnitude scale|M<sub>w</sub>, There were at least 200 aftershocks observed in the first 24 hours after the mainshock, out of a total of 1,700 recorded in the following 112 days, although they caused no further casualties or significant damage.
+
+==Tectonic setting==
+Peru lies above the convergent boundary where the Nazca Plate is Subduction|subducting beneath the South American Plate at a rate of 61&nbsp;mm per year. It has been the location for many large and damaging earthquakes since historical records began, most of which triggered devastating tsunamis. The southern segment of the Peruvian part of this plate boundary is affected by the presence of the Nazca Ridge|Nazca aseismic ridge, on the downgoing plate. It also marks a major change in the subduction geometry between 'flat-slab' subduction to the northwest and normally dipping subduction to the southeast. The ridge appears to act as a barrier to rupture propagation, reducing the potential earthquake magnitude. The 1746 earthquake is interpreted to be a Megathrust earthquake|megathrust event that ruptured the whole of the northern segment of the plate interface within this zone.
+
+==Damage==
+
+===Earthquake===
+The earthquake completely destroyed the cities of Lima in 3–4 minutes, and also destroyed Callao and everything else along the central Peruvian coast from Chancay in the north to San Vicente de Ca?ete|Ca?ete in the south. In Lima, all offices and all 74 churches were either damaged or destroyed leaving just 25 of the original 3,000 houses standing. Only 1,141 out of the population of 60,000 died in Lima from the earthquake shaking, despite the amount of damage. This is attributed to the intensity of the shaking increasing as the earthquake went on, giving the inhabitants the chance to escape. The total number of casualties, including those from the tsunami, was almost 6,000, although some chroniclers give higher figures for Lima, partly due to the inclusion of the effects of subsequent epidemics.
+
+===Tsunami===
+The earthquake triggered a tsunami, which reached the coast half an hour following the shock, causing great damage at all Peruvian ports. Callao was worst affected, with a 24 meter runup, and 5 kilometer inundation that destroyed all 23 vessels that were in its harbor. Callao's walls were destroyed and the city was inundated, killing most of the 5&ndash;6,000 inhabitants, leaving less than two hundred survivors. Eyewitness accounts indicate two waves, the first of which was up to 80 feet high (24 m). Four of the boats were carried across the ruined port and thrown up to nearly a mile inland, including the warships ''Fermín'' and ''San Antonio''. Other particularly devastating tsunamis have occurred in Peru in 1586, 1604, and 1868 Arica earthquake|1868.
+
+==Aftermath==
+The rebuilding of Lima was planned by José Manso de Velasco, 1st Count of Superunda|Jose Antonio Manso de Velasco then the List of Viceroys of Peru|viceroy of Peru, with the help of the French mathematician Louis Godin. A key part of these proposals was to restrict buildings to a single storey and widen the roads, but the plans were diluted following opposition from groups within the city and second floors were allowed as long as they used bamboo in their construction rather than adobe bricks.
+
+In 1817, seventy years after the earthquake and the tsunami, the Russian-American Company employee, head of the Sitka, Alaska|Sitka office, Kiril Timofeevich Khlebnikov (1784–1838) visited Callao. His account of the events of what happened on 28 October 1746 may have slight factual mistakes, but he is generally considered a good witness of things he saw with his own eyes, and his attitude in writing history is characterised as sober and realistic. It is also known that he kept a diary. Khlebnikov wrote in his memoirs:
+
+{{cquote|In Lima I saw… an extremely astonishing sight. There, near the village of Bellavista District|Bellavista, there still are remains of a stone wall and some few cellars, which remained from the terrible earthquake of 1746. In connection of the quake, the ocean had first retreated and then flowed back with a terrible force and engulfed the town and the fortress of Callao, and 24 vessels which carried silver worth 300 million piasters, and the 4 000 inhabitants of the town. Some of the fort’s walls remained intact, and within these walls 22 persons survived these events.
+
+After this terrible devastation, bodies of the drowned were thrown to the beach by the waves of the ocean, and later they were collected and stacked in the cellars. In time the bodies decomposed, the cellars collapsed, and piles of skulls and bones came to the surface. We stood for a long time in the Callao harbor in 1817, and we often took walks to the surrounding area, and with feelings of pity we looked upon the earthly remains of such a large group of people, people like us, scattered on the ground, to the shame of coming generations. When facing a sight such as this, views on the vanity of the world and all worldly things appear in our mind completely different from the views we earlier had when floating with the whirl of these vanities. |Kiril Timofeevich Khlebnikov}}
+
+==Remembrance==
+Because the mural of the Lord of Miracles survived the earthquake intact, it became a special object of veneration in the city. There is an annual procession in which the image is carried through the streets of Lima, and it is customary for the faithful to wear purple during the month of October in commemoration.
+
+==See also==
+*List of earthquakes in Peru
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:1746 Lima-Callao Earthquake}}
+Category:1746 earthquakes|Lima-Callao
+Category:1746 in Peru|Lima
+Category:Megathrust earthquakes in Peru
+Category:18th-century Tsunamis

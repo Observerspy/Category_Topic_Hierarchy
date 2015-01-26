@@ -1,0 +1,89 @@
+{{good article}}
+{{Earthquake
+|title= 1980 Azores Islands
+|map2= {{Location map many | Portugal Azores
+| label=
+| lat=38.81
+| long=-27.78
+| mark=Bullseye1.png
+| marksize=40
+| label2=Terceira
+| lat2=38.6
+| long2=-27.3
+| mark2=
+| mark2size=8
+| position2=right
+| label3=Graciosa
+| lat3=39.0
+| long3=-28.0
+| mark3size=8
+| position3=left
+| label4=S?o Jorge
+| lat4=38.35
+| long4=-28.0
+| mark4size=8
+| position=bottom
+| caption=
+}}|date={{Start date|1980|1|1}}
+|magnitude=7.2 Moment magnitude scale|''M''<sub>w</sub>
+|depth=  10 km
+|epicenter location= 50 km West of Angra do Heroísmo
+|countries affected={{flag|Portugal}}<br>{{flag|Azores|name=Azores}}
+|location={{coord|38.81|N|27.78|W}}|tsunami= A small tsunami was registered in Angra do Heroismo
+|casualties=61 confirmed dead, 400 injured| origintime= 15:43:39 UTC-1
+}}
+Striking the Autonomous Region of Azores on 1 January, the '''1980 Azores Island earthquake''' killed 61 people and injured over 400, causing severe damage on the islands of Terceira Island|Terceira and S?o Jorge Island|S?o Jorge. Measuring 7.2 on the Richter scale, it also shook the islands of Pico Island|Pico and Faial Island|Faial, and resulted from a strike slip fault|strike slip fracture, typical of other Timeline of natural disasters in the Azores|historical Azorean earthquakes.
+
+In response to the earthquake, Portuguese president António Ramalho Eanes announced three days of national mourning, while relief efforts, initiated by agents of the local Air Force, were soon accompanied by government-supported agencies.
+
+== Geology ==
+
+=== Background ===
+In 1950, another strong earthquake had rocked the Azores Islands region, and this was the largest earthquake since.
+
+=== Description ===
+Volcanism|Volcanic in origin, the Azores lie in a Tectonics|tectonically complex area on either side of the Mid-Atlantic Ridge, between the European plate|European, Eurasian plate|Eurasian and African plate|African plate boundaries, forming their own microplate.
+
+After aftershocks from the quake had concluded, examination took place, producing a focal mechanism|focal solution to the small events. Movement of these shocks were similar to previous earthquakes around the Azores. For these earthquakes, scientists had determined that the conjugate nodal plane was responsible, seeing Shear (geology)|shearing on the right-lateral (dextral) side. Because of this research, information now points towards Azores volcanism being controlled by earthquake movement.
+
+== Damage and casualties ==
+The earthquake that struck the Azorean islands was a magnitude 7.2 on the Richter scale. destroying several buildings. In general, public buildings such as churches remained intact, while several buildings caved in on themselves. Public utility|Public utilities such as electricity and water, were reported cut in several areas.
+
+Initial the number of fatalities were set at 52, but this was also revised to more than 400. Minor damage was recorded at Pico and Faial islands.
+
+No fatalities were recorded at the Lajes Field air base, nor any major damage.
+
+== Relief efforts and response ==
+United States Navy and Air Force troops stationed at Lajes functioned as disaster relief workers, Portuguese Air Force members brought supplies to earthquake victims, while a Jo?o Coutinho class corvette navy ship transported medical officials to the island. The Portuguese President, António Ramalho Eanes, flew in on a plane accompanied by medical personnel and supplies (such as bedding). Local officials including policemen and volunteer firemen cleared roads for relief supplies and transports. Responding to the situation, these officials were also involved in looking for survivors in the rubble. Soon after, tents were erected to replace the destroyed or unsafe homes for approximately 200 families of the islands. Portable homes were constructed by the People to People International project fund, resulting in 100 shelters.
+
+Three day of national mourning|days of national mourning were declared by Eanes. 
+Following the relief efforts, 19 seismographic stations were installed to monitor seismic activities. Eleven of these were used to monitor earthquake activity, while the other eight also record information on the island's geothermal areas.{{sfn|Lee|Hung|2003|p=1415}}
+
+The earthquake forced hundreds of people to leave the country for the United States. It occurred during a period of several major natural disasters in which many residents of the island left; in 1975, 8,000 residents left. In 1981, however, just 2,500 people left the island.
+
+Dino Meira, a Portuguese-American singer, recorded and sold a 45 single "Acores 20 para as 4" with the proceeds donated to the earthquake relief effort.
+
+== Analysis and current situation ==
+Later studies of the events leading up to the tragedy found several factors contributing to the extent of the damage. A. Malheiro (2006) linked five major causes to damage from these earthquakes. The buildings most damaged by the earthquake were near fault lines on top of loosely packed soil. They tended to be of poor construction and did not conform to proper building code or had not been adequately examined.
+
+The area around the Azores remains active. Threats from earthquakes and landslides remain.
+
+== References ==
+; Notes
+{{Reflist|30em}}
+; Sources
+*{{cite book|ref=harv|title=International handbook of earthquake and engineering seismology, Part 2|first=Kan|last=Lee|first2=William|last2=Hung|publisher=International Association of Seismology and Physics of the Earth's Interior's |year=2003}}
+*{{cite book|title=Caracteriza??o da sismicidade histórica dos A?ores com base na reinterpreta??o de dados de macrossísmica: contribui??o para avalia??o do risco sísmico nas ilhas do Grupo Central|last=Silva|first=M|publisher=University of the Azores, Departamento de Geociências|year=2005|location=Ponta Delgada|language=Portuguese|page=146}}
+*{{cite book|title=Monografia 10 anos após o sismo dos A?ores de 1 de Janeiro de 1980|last=Madeira|first=J.|author2=A. Ribeiro|editor=C.S. Oliveira, A.R. Lucas and J.H. Guedes|chapter=O regime tectónico nos A?ores|volume=1|publisher=Secretaria Regional da Habita??o e Obras Públicas (Terceira); Laboratório Nacional de Engenharia Civil (Lisbon)|pages=163–174|language=Portuguese|year=1992}}
+*{{cite web |url=http://www.cvarg.azores.gov.pt/Cvarg/CentroVulcanologia/geologiaacores/SD+-+01011980.htm |title= Sismo de 1 de Janeiro de 1980|author= CVARG |year=2010 |work= |publisher=Centro de Vulcanologia e Availa??o de Riscos Geológicos|accessdate=2010-04-09}}
+* {{citation |last=Borges |first=J.F. |last2=Bezzeghoud |first2=M. |last3=Pro |last3=C. |last4=Fitas |first4=A. |year=2007 |contribution=The 1980, 1997 and 1998 Azores earthquakes and some seismo-tectonic implications |title=Tectonophysics |issue=435 |pages=54 |url=http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6V72-4N25VR2-1&_user=10&_coverDate=05%2F01%2F2007&_rdoc=3&_fmt=high&_orig=browse&_srch=doc-info(%23toc%235830%232007%23995649998%23649781%23FLA%23display%23Volume)&_cdi=5830&_sort=d&_docanchor=&view=c&_ct=5&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=632856f75f63fce219039e90796b2496}}
+* {{cite journal |title=Regional stresses along the Eurasia-Africa plate boundary derived from focal mechanisms of large earthquakes |publisher=Birkh?user Basel |journal=Pure and Applied Geophysics |volume=136 |issue=4 |pages=433–448 |doi=10.1007/BF00878580 |year=1990 |author=Udías, Agustín |author2=Buforn, Elisa|bibcode = 1991PApGe.136..433U }}
+* {{Cite news|url=http://news.google.com/newspapers?id=w4ALAAAAIBAJ&sjid=tVMDAAAAIBAJ&pg=7129,21775&dq=1980+azores+island+earthquake|title=Earthquakes devastates Azores Island|publisher=Western Newspapers Inc.|date=2 January 1980|accessdate=1 September 2009}}
+
+{{Earthquakes in 1980}}
+
+Category:1980 earthquakes|Azores Islands Earthquake, 1980
+Category:1980 in Portugal|Azores Islands Earthquake, 1980
+Category:Earthquakes in Portugal
+
+{{Link GA|tr}}

@@ -1,0 +1,204 @@
+{{good article}}
+{{Infobox earthquake
+|title = 1952 Kern County earthquake
+|date = {{start-date| 21 July 1952}} 
+|origintime = 11:52 Coordinated Universal Time|UTC 
+|map2 = {{Location map+ | California
+|places =
+{{Location map~|California|lat=35.37|long=-119.02|label=Bakersfield|position=left|mark=Green pog.svg}}
+{{Location map~|California|lat=35.13|long=-118.44|label=Tehachapi|mark=Green pog.svg}}
+{{Location map~|California|lat=36.75|long=-119.77|label=Fresno|mark=Green pog.svg}}
+{{Location map~|California|lat=34.05|long=-118.25|label=Los Angeles|mark=Green pog.svg}}
+{{Location map~|California|lat=35.00|long=-119.01|mark=Bullseye1.png|marksize=40}}
+ | relief  = yes
+ | width = 250
+ | float = right
+ | caption = }}
+|duration = 45 seconds – 1 minute 
+|magnitude = 7.3 Moment magnitude scale|M<sub>W</sub> 
+|depth = {{convert|16|km|abbr=on}} 
+|location = {{coord|35.00|N|119.02|W}}  
+|type = Fault (geology)#Oblique-slip faults|Oblique slip
+|countries affected = Southern California <br> United States
+|damage = $60 million 
+|intensity = XI (''Extreme'') 
+|PGA = ~ 1''Peak ground acceleration|g'' (est)  
+|casualties = 12 
+}}
+
+The '''1952 Kern County earthquake''' occurred on July 21 at the southern end of Central Valley (California)|California's central valley and measured 7.3 on the moment magnitude scale. The main shock occurred at 4:52 am Pacific Daylight Time (11:52 coordinated universal time|UTC), killed 12 people and injured 18, and caused an estimated $60 million in property damage. A small sector of damage near Bealville, California|Bealville corresponded to a maximum Mercalli intensity scale|Mercalli intensity of XI (''Extreme''), though this intensity rating was not representative of the majority of damage. The earthquake occurred on the White Wolf Fault near the community of Wheeler Ridge, California|Wheeler Ridge and was the strongest to occur in California since the 1906 San Francisco earthquake.
+
+The town of Tehachapi, California|Tehachapi suffered the greatest damage and loss of life from the earthquake, though other locations in Kern County experienced significant damage as well, but its effects were widely felt throughout central and southern California. The July mainshock had a significant aftershock sequence that persisted into July and August with many magnitude 5+ events with intensities of V (''Rather Strong'') to VII (''Very Strong''). Six of these aftershocks occurred on the day of the mainshock, but the strongest aftershock came on August 22 as a M5.8 event that had a maximum perceived intensity of VIII (''Destructive'') and resulted in the deaths of two people and caused an additional $10 million in property damage.
+
+Following the event, a field survey was conducted along the fault zone with the goal of estimating the peak ground acceleration of the shock based on visually evaluating precarious rock formations and other indicators. Ground disturbances that were created by the earthquakes were also surveyed, both in the valley and in the foothills, with both vertical and horizontal displacements present in the epicentral area. The Strong ground motion|strong motion records that were acquired from the event were significant, and a reconnaissance report was recognized for its coverage of the event, and how it set a standard for those types of engineering or scientific papers. Repercussions of the sequence of earthquakes were still being felt in the heavily damaged downtown area of Bakersfield, California|Bakersfield well into the 1990s as city leaders attempted to improve safety of the surviving unreinforced masonry buildings.
+
+==Tectonic setting==
+{{see also|Sierra Nevada-Great Valley Block|Tehachapi Mountains}}
+
+At Lebec, California, just south of the epicenter of the July mainshock, the San Andreas Fault comes together with the Garlock Fault, which is positioned at the northern border of the Mojave Desert. The San Andreas has been responsible for considerable seismic activity at its northern and southern sections, and traverses the area near the Transverse Ranges. The Kern Canyon Fault mirrors the path of the Kern River, and was thought to have a connection with the White Wolf Fault, but indicators observed following the July 21 earthquake demonstrated that the two are offset. The Owens Valley Fault, on the east side of the Sierran Fault block|block, has been mapped and may possibly extend into area that was affected by the 1952 shocks. Other fault zones are present in the region, and have been of interest because they may have been responsible for minor earthquakes, but they are considered not as significant as the Kern Canyon, Owens Valley, and San Andreas Faults.
+
+The 1952 earthquakes were the first to be observed well within Kern County, California|Kern county lines. Other strong, but remote events were previously felt in the area, but they were distant enough to cause only occasional destructive effects. The county is bounded on the western side by the Temblor Range which is adjacent to the southern San Andreas Fault. Other large events have affected the area as well, like the January 1857 Fort Tejon earthquake that severely affected Fort Tejon (about {{convert|15|mi|sp=us}} south of Wheeler Ridge, California|Wheeler Ridge).
+
+== Earthquake ==
+{{see also|List of earthquakes in California}}
+
+The M7.3 earthquake occurred on the Fault (geology)#Strike-slip faults|strike-slip White Wolf Fault in the southern San Joaqin Valley. Historically, the Sinistral and dextral|left-lateral fault has had a component of reverse slip, and at the time of the July mainshock the ratio of reverse/left-lateral slip was about 1.2:1. The epicenter of the shock was at the {{convert|90|km|abbr=on}} fault's southwestern end, at a point where it may end, or merge with the east-west trending Pleito thrust fault. The White Wolf Fault (as illuminated by the aftershocks) was found to be curved, with less Strike and dip|dip on the northeast end, though that zone also had a higher strike-slip component. Other distinct characteristics on that end of the fault were the shallower shocks and the less overall slip. If the total fault displacement came about as a result of the same type of large-displacement shocks like the one in 1952, the recurrence interval was proposed to be 170–450 years. The 1995 Working Group on California Earthquake Probabilities gave a (high uncertainty) slip rate estimate of 2&nbsp;mm per year.
+
+Mercalli intensities for the mainshock were gauged to be VIII (''Destructive''), especially in Tehachapi and close to the epicenter, but southeast of Bealville, California|Bealville {{convert|46|cm|abbr=on}} thick reinforced concrete railroad tunnel walls were cracked, tracks were warped, and the gap between tunnel entrances was reduced by up to {{convert|2.5|m|sp=us}}. Because of the extraordinary damage there, an intensity rating of XI (''Extreme'') was assigned specifically for that location.
+
+=== Damage ===
+File:1952 Kern County earthquake - Damaged school.tif|thumb|left|A collapsed school in Kern County, California
+{{see also|Kern County Library System}}
+
+Though damage was spread throughout a large area, most was concentrated in the town of Tehachapi, California|Tehachapi where at least 11 were killed and 35 were injured. An early estimate reported in the ''Los Angeles Times'' had the damage at $2.6 million with 700 families affected in Tehachapi alone, where most of the town's buildings sustained damage. Fifteen homes were destroyed there, 53 were heavily damaged, and another 75 sustained light damage. In Bakersfield, windows were broken and dislodged plaster littered residential and commercial districts, and the county jail was damaged.
+
+To the southwest of Bakersfield in Maricopa, California|Maricopa several buildings including the Maricopa Hotel, the justice court building, the post office, and several businesses were condemned because of heavy damage. In the small town of Taft, California|Taft disruption was light, with the exception of a destroyed wall at a J. C. Penney department store and a single home that was damaged. In the (former) settlement of Paloma, Kern County, California|Paloma a fire burned at an oil refinery, and an explosion occurred at refinery in Long Beach, California|Long Beach due to a cracked pipe, but most of the Greater Los Angeles Area was free from heavy damage due to the distant location (around 10 miles southwest of Tehachapi) of the earthquake. Power disruptions affected Van Nuys and Los Angeles and in Long Beach some windows were broken. Other moderate damage in that area included a {{convert|2.5|ft|abbr=on}} crack on a street in Hollywood and a {{convert|90|ft|abbr=on}} crack in a Santa Ana, California|Santa Ana parking lot.{{clr}}
+
+===Aftershocks===
+{| style="float: right;" border="3" 
+|-
+| colspan="3" style="text-align: center;" | Aftershocks
+|-
+! Mag !! Date (UTC) !! Mercalli intensity scale|MMI
+|-
+| 5.6 M<sub>L</sub>
+| July 21 at 12:02
+| Felt
+|-
+| 6.3 M<sub>W</sub>
+| July 21 at 12:05
+| V
+|-
+| 5.3 M<sub>L</sub>
+| July 21 at 12:19
+| Felt
+|-
+| 5.1 M<sub>L</sub>
+| July 21 at 15:13
+| VI
+|-
+| 5.1 M<sub>L</sub>
+| July 21 at 17:42
+| –
+|-
+| 5.5 M<sub>L</sub>
+| July 21 at 19:41
+| V
+|-
+| 5.7 M<sub>W</sub>
+| July 23 at 00:38
+| VI
+|-
+| 5.0 M<sub>L</sub>
+| July 23 at 03:19
+| V
+|-
+| 5.2 M<sub>W</sub>
+| July 23 at 07:53
+| VII
+|-
+| 5.8 M<sub>W</sub>
+| July 23 at 13:17
+| VII
+|-
+| 5.2 M<sub>L</sub>
+| July 23 at 18:13
+| VI
+|-
+| 5.8 M<sub>W</sub>
+| July 25 at 19:09
+| VI
+|-
+| 5.9 M<sub>W</sub>
+| July 25 at 19:43
+| VI
+|-
+| 6.3 M<sub>W</sub>
+| July 29 at 07:03
+| VII
+|-
+| 5.1 M<sub>L</sub>
+| July 29 at 08:01
+| V
+|-
+| 5.5 M<sub>W</sub>
+| July 31 at 12:09
+| VI
+|-
+| 5.1 M<sub>L</sub>
+| Aug 1 at 13:04
+| V
+|-
+| 5.8 M<sub>W</sub>
+| Aug 22 at 22:41
+| VIII
+|-	
+| colspan="3" style="text-align: center;" | <small>Stover & Coffman 1993, pp.&nbsp;86, 87, 144–147</small>
+|}
+
+Through late September, Caltech seismometers recorded 188 aftershocks higher than magnitude 4.0. Six of those on the day of the mainshock were M5 and above, but some of these (like the 12:05 M6.3 shock) were only felt, and didn't cause any damage. The July 21 M5.1 shock at 15:13 GMT and the July 23 shock at 00:38 both damaged buildings in Arvin, California|Arvin, and the latter event also caused slight damage in Fresno, California|Fresno and near Bakersfield. Three additional shocks on July 23 were particularly destructive. Walls and other portions of buildings that had been previously damaged took a second hit from the 07:53 M5.2 event, and a house that saw only minor damage during the mainshock was nearly destroyed by it. Gas and water lines were also severed, and transformers were loosened or dislodged. The 13:17 M5.8 shock compounded problems at Tehachapi and Arvin with damage to previously-affected buildings that was described as serious, but the 18:13 shock on July 23 only had a slight affect at Arvin.
+
+Two shocks on July 25 that occurred within an hour of each other were felt throughout central California and caused pipeline damage south of Bakersfield and other minor building damage in several locations. Pre-existing ground disturbances were enhanced in Tejon Canyon, and landslides occurred at Caliente Creek Canyon, Oiler Canyon Grade, and on California State Route 178|State Route 178 between Kernville, California|Kernville and Bakersfield. A number of fires were initiated by the July 29 aftershock (intensity VII (''Very Strong'')) and other severe damage was caused by it, especially to buildings that had already been damaged (including one in Bakersfield). The strongest aftershock in the sequence came on August 22 as a magnitude 5.8 event with a maximum perceived intensity of VIII (''Destructive''). Damage was especially heavy to brick buildings in Bakersfield, and although only a few buildings collapsed outright, 90 of 264 buildings that the shock damaged needed to be brought down completely. Total damage from this event alone was estimated to be $10 million, with several injuries, and two additional deaths.
+
+=== Peak acceleration ===
+{{See also|Peak ground acceleration|Strong ground motion}}
+
+Prior to the 921 earthquake|1999 Chi-Chi earthquake in Nantou County, Taiwan, little information was available for estimating ground motion that resulted from large (greater than M7) thrust earthquakes, and whether the values seen in that event are commonplace remains unresolved. Foam rubber modeling, numerical modeling, and field studies have shown that intense ground motions close to 1''g'' are possible on the  Fault (geology)#Dip-slip faults|hanging wall side of the fault during some large thrust earthquakes. A common occurrence of shattered rock that has been observed on the hanging wall of thrust faults reinforces the existence of the strong motions, but Balancing rock|precarious rock surveys have indicated that smaller ground motions are present on the foot wall side of the fault. Foam rubber modelling studies confirm that the ground motion on the foot wall side can be lower by a factor of up to five, and an example of this imbalance was displayed during the September 1999 M7.6 earthquake in Taiwan.
+
+Rocks are classified as precarious if their toppling accelerations are .3''g'' or less and semi-precarious at .3 – .5''g''. The area around the White Wolf fault was surveyed by a group of earth scientists with extensive experience estimating thousands of rock formations. The toppling accelerations of many rocks were assessed by the three geologists, with individual estimates usually agreeing within .1''g''. On the foot wall side, many precarious and semi-precarious rock formations were observed and allowed for peak ground acceleration to be estimated at .5''g'' (within a kilometer of the fault trace) while rock shattering and a lack of precarious rocks on the hanging wall side suggested a value near 1''g'' had been experienced at the time of the shock.
+
+===Ground effects===
+{{see also|Fault (geology)}}
+
+Many erratic surface fractures were generated in the San Joaquin Valley along the White Wolf Fault. The cracks were not well-defined, and were the result of the disturbance of the alluvium that makes up the valley floor, rather than cracking along the fault trace. Northeast trending cracks ranging from hairline-width to near five inches wide were seen between Arvin and California State Route 166, and some showed clear lateral offset, but those were determined to be localized effects. Some of the fractures in the ground were aligned with the fault, and some were perpendicular to the general trend, but the more significant breaks were believed to be a direct result of faulting at depth. This was true in the mountainous areas as well, but some of the breaks at the higher elevations were probably related to Slump (geology)|slumping. The northeast trending breaks were described in a report from the State of California (that was prepared by well-known geologists and seismologists) as "thrusting of the southeast block up and over the northwest block, and/or a lateral movement of the southeast block to the northeast".
+
+Offset rows of cotton were documented at a number of locations along the northeast trending fault breaks in the valley. An offset of {{convert|3|ft|abb=on}} was seen {{convert|17|mi|km}} south of Bakersfield, about {{convert|.5|mi|abbr=on}} east of California State Route 99, and {{convert|3|mi|sp=us}} southwest of Arvin a north south oriented row was offset with movement towards the west on the south side of the shift. At the same location, an east-west road was dislocated towards the northeast a minimum of {{convert|5|ft|abbr=on}}, and near the mouth of Comanche Creek ({{convert|6|mi|sp=us}} south of Arvin) a shallow-sloped fault scarp was raised with a maximum vertical displacement of about {{convert|3|ft|abbr=on}}.
+
+== Response ==
+File:Ridge Route Swede's Cut.jpg|thumb|left|Looking northbound on the Ridge Route in the Angeles National Forest
+
+At the time of the shock, the director of the Caltech Seismological Laboratory was the German-American seismologist Beno Gutenberg. He commented about the event first by saying that the energy of the event was 100 times that of the 1933 Long Beach earthquake. In statements made in the July 22 ''Los Angeles Times'', the shock was compared to the 1857 Fort Tejon event. He went on to say, "There is no doubt that yesterday's quake is the largest Southern California has had in this century and is the largest to occur in this area since modern instruments were available. It's possible that the 1857 quake might have been more intense." Charles Francis Richter|Charles Richter departed the lab in Pasadena, California|Pasadena in a mobile seismograph truck bound for the epicentral area to record aftershocks close to the fault, and Harry O. Wood  (the founder of the lab thirty years prior) visited the lab following the onset of the shocks and commented that it was still not possible to predict the location of large earthquakes.
+
+The American Red Cross called it a major disaster, but getting relief into the area were stalled because of landslides blocking the Ridge Route|ridge route running between Los Angeles and Kern counties. California State Route 99 was also blocked by a landslide ten miles south of Gorman, California|Gorman, but the highway was quickly reopened later in the day. Two tunnels used by the Southern Pacific Railroad and the Atchison, Topeka and Santa Fe Railway|Santa Fe Railroad collapsed between Tehachapi and Marcel, California|Marcel, and all aircraft not related to the relief effort were ordered not to land at the Tehachapi Municipal Airport. All 417 inmates from the California Institution for Women|Tehachapi Prison for Women were evacuated because of damage; the California Department of Corrections and Rehabilitation|California Department of Corrections stated that the facility was left unusable. Most of the injured received medical care at Kern County General Hospital and some sought treatment at Tehachapi Valley Hospital, where some existing patients were moved to make room for new arrivals.{{clr}}
+
+== Aftermath ==
+{{see also|1952 in rail transport|Donald J. Russell}}
+
+Downtown Bakersfield, California|Bakersfield was heavily impacted by the earthquakes and many damaged buildings were bulldozed to make room for buildings that were eventually constructed with newer architectural styles. After World War II, and with a booming economy, the region was experiencing a period of urban renewal. The Kern County Courthouse, St. Francis Church, and the original Beale Memorial Clock Tower were all damaged and were leveled or rebuilt. In what may have been an overambitious push for renewal, some historic buildings that may have been able to be salvaged also were brought down, though some stood for many years after the earthquakes. Some of Bakersfield's unreinforced masonry buildings survived the shocks and were still in use years later, but the cost of retrofitting these buildings was often prohibitive for their owners, and the Bakersfield City Council was given the authority to seize or demolish them in 1993. The city changed its approach in the late 1990s after building owners complained that the upgrade process was too expensive, and the possibility that the city may be left in possession of properties that were left needing the costly renovations.
+
+Following most present day damaging earthquakes, teams of investigators from institutions such as the Earthquake Engineering Research Institute are sent to the affected region to set up instruments to capture strong motion records, and to study the damage and other effects of the event. This hasn't always been the case, and the 1954 report from Steinbrugge and Moran that thoroughly detailed the effects (especially to buildings) of the 1952 shocks put in place a model for how modern earthquake reconnaissance reports are written. The strong motion record that was obtained from the 1952 shock, as well as the accelerogram from the 1940 El Centro earthquake, were the most widely used data sets until the 1971 San Fernando earthquake.
+
+== See also ==
+* First Baptist Church (Bakersfield, California)
+* Kern County Hall of Records
+* Tevis Block
+
+== References ==
+{{Reflist|30em|refs=
+
+
+}}
+
+;Sources
+{{refbegin}}
+* {{citation|title=Precarious rock and overturned transformer evidence for ground shaking in the Ms 7.7 Kern County earthquake: An analog for disastrous shaking from a major thrust fault in the Los Angeles basin|url=http://bssa.geoscienceworld.org/content/94/6/1993|first=J. N.|last=Brune|first2=A.|last2=Anooshehpoor|first3=B|last3=Shi|first4=Y.|last4=Zeng|year=2004|journal=Bulletin of the Seismological Society of America|publisher=Seismological Society of America|volume=94|number=6|pages=1993–2003|doi=10.1785/0120030252}}
+* {{citation|first1=C. W.|last1=Stover|first2=J. L.|last2=Coffman|title=Seismicity of the United States, 1568–1989 (Revised)|url=http://books.google.com/books?id=bY0KAQAAIAAJ&printsec=frontcover&dq=seismicity+of+the+united+states&hl=en&sa=X&ei=wOqeUIjiI4XBiwKVvIHYDg&ved=0CDcQ6AEwAQ#v=onepage&q&f=false|series=U.S. Geological Survey professional paper 1527|year=1993|publisher=United States Government Printing Office}}
+{{refend}}
+
+== External links ==
+* http://earthquake.usgs.gov/regional/states/events/1952_07_21.php Historic Earthquakes:  Kern County, California – United States Geological Survey
+* http://www.data.scec.org/significant/kern1952.html Kern County Earthquake – Southern California Earthquake Center
+* http://www.youtube.com/watch?v=9L8O68p7vxo Earthquake: Kern County's Calamity of 1952 – ''The Bakersfield Californian''
+* http://www.tehachapinews.com/news/local/x780320395/Now-Then-Remembering-the-quake-of-1952 Now & Then: Remembering the quake of 1952 – ''Tehachapi News''
+* http://www.scec.org/ucerf2/ Uniform California Earthquake Rupture Forecast (UCERF) – Southern California Earthquake Center
+* http://www.sjvgeology.org/geology/bakersfield_earthquake.html The White Wolf Fault and the Bakersfield Earthquake of 1952 – San Joaquin Valley Geology
+
+{{Significant earthquakes in California}}
+
+{{DEFAULTSORT:1952 Kern County Earthquake}}
+Category:Earthquakes in California|K
+Category:History of Kern County, California
+Category:San Joaquin Valley
+Category:1952 earthquakes|Kern County Earthquake, 1952
+Category:History of Southern California
+Category:Geology of Kern County, California

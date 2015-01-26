@@ -1,0 +1,73 @@
+{{Earthquake
+|title = 2006 Borujerd earthquake
+|date = {{Start date|2006|3|31}}
+|map2 = {{location map+ | Iran
+ |places = 
+{{Location map~|Iran|lat=33.58|long=48.79|mark=Bullseye1.png|marksize=40}}
+{{Location map~|Iran|lat=35.7|long=51.42|label=Tehran|position=left|mark=Green pog.svg}}
+ |relief = yes
+ |label = 
+ |caption =
+ |float = right
+ |width = 250}}
+|magnitude = 6.1 Richter magnitude scale|M<sub>L</sub>
+|depth = {{convert|7|km|mi|0}}
+|location = {{coord|35.58|N|48.79|E}}
+|countries affected = {{IRN}}
+|casualties = 66
+}}
+
+The '''2006 Borujerd earthquake''' occurred in the early morning of 31 March 2006 in the South of Borujerd with massive destruction in Borujerd, Silakhor and Dorood County|Dorood areas of the Loristan Province in Western Iran. The centre of the earthquake was in Darb-e Astaneh village in South of the Borujerd City. The earthquake measured 6.1 on the Richter magnitude scale.
+
+== Earthquake ==
+{{see also|List of earthquakes in Iran}}
+
+This powerful earthquake shook the entire land of Loristan Province and most areas of Hamedan Province, Markazi Province and destroyed many villages in Khorramabad, Alashtar and Arak County as well. More than 180 aftershocks followed the main earthquake in April, May and June and people had to stay outside for several weeks. 
+
+A lighter foreshock happened the night before, and people stayed outside overnight and this reduced the number of casualties significantly. However, the mainshock at 4:47 am on 31 March shook Borujerd, Dorud and other towns and villages on Silakhor Plain for more than 55 seconds. 
+
+=== Damage ===
+Image:HafeziCarevanserai.jpg|thumb|300 px|Carevanserai Hafezi in Bazaar of Borujerd (18th century); destroyed in Borujerd Earthquake 2006
+
+More than 40 major historical monuments of Borujerd were destroyed by the earthquake and 30% of the historical downtown of the city (2.7 km?) was ruined or damaged thoroughly. Other monuments damaged by the earthquake include:
+
+* Jame Mosque of Borujerd (900 AD)
+* Soltani Mosque of Borujerd
+* Imamzadeh Ja'far, Borujerd
+* Chalenchoolan Bridge
+* Ghaleh Hatam Bridge
+* Birjandi Old House of Borujerd
+* Mesri Old House of Borujerd
+* Imamzadeh Khalogh Ali
+* Tekyeh Movassaghi
+* Pahlavei High School 
+
+=== Response ===
+Apart from UN agencies e.g. UNESCO and UNICEF, there are other international agencies functioning in the field, including MSF, Caritas Italy, Operation Mercy, ACH Spain and ACT Netherlands.
+
+=== Statistics ===
+* 66 people killed
+* 1450 people injured
+* 330 villages destroyed (30-100%)
+* 45000 houses destroyed (30-100%) only in the city of Borujerd
+* 136 schools destroyed 100% and more than 200 other schools were damaged only in Borujerd and its villages
+
+==See also==
+*1909 Borujerd earthquake
+
+== References ==
+{{reflist}}
+
+== External links ==
+* http://www.iiees.ac.ir/iiees/English/bank/Broujerd/silakhor_e.html Darb e Astaneh (Silakhor) Earthquake Report: March 31, 2006; ML=6.1 – International Institute of Earthquake Engineering and Seismology|IIEES
+* http://www.ifrc.org/docs/appeals/rpts06/DoroudIB3.pdf IFRC- Iran Doroud Earthquake, Information Bulletin no.3 – International Federation of Red Cross and Red Crescent Societies|IFRC
+* http://earthquake.usgs.gov/earthquakes/eqinthenews/2006/uskyae/#details Magnitude 6.1 - WESTERN IRAN – United States Geological Survey|USGS
+
+{{Earthquakes in Iran}}
+{{Earthquakes in 2006}}
+
+{{DEFAULTSORT:2006 Borujerd Earthquake}}
+Category:2006 earthquakes|Borujerd earthquake
+Category:2006 in Iran|Borujerd earthquake
+Category:Earthquakes in Iran|2006 Borujerd
+Category:History of Lorestan Province

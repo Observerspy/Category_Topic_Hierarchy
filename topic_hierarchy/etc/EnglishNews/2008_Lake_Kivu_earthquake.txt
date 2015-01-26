@@ -1,0 +1,66 @@
+{{Earthquake
+|title=2008 Lake Kivu earthquake
+|date= {{Start date|2008|2|3}}
+|map = 2008 Lake Kivu earthquake.jpg
+|magnitude = 5.9 Moment magnitude scale|M<sub>w</sub>
+|depth= {{convert|10|km|mi|0}}
+|location= {{coord|2.314|S|28.896|E}}
+|countries affected = {{RWA}}<br />{{BDI}}<br />{{flagicon|COD}} Democratic Republic of the Congo|DR Congo<br />{{KEN}}
+|casualties = 44 dead, 349+ injured
+}}
+The '''2008 Lake Kivu earthquake''' shook several countries in Africa's African Great Lakes|Great Lakes region at 07:34:12 (GMT) on February 3. It measured 5.9 on the moment magnitude scale according to the United States Geological Survey
+
+==Tectonic summary ==
+According to the USGS,
+
+<blockquote>The earthquake occurred in the Western Rift of the East African rift system. The East African rift system is a diffuse, approximately 3000-km-long, zone of crustal extension that passes through eastern Africa from Djibouti and Eritrea on the north to Malawi on the south and that constitutes the boundary between the Africa plate on the west and the Somalia plate on the east. At the earthquake's latitude, the Africa and Somalia plates are spreading apart at a rate of about four millimeters per year. The earthquake occurred near Lake Kivu, the basin of which was created by normal faulting similar to that which produced the February 3 earthquake. The largest earthquake to have occurred in the rift system since 1900 had a magnitude of about 7.6. The epicenter of the February 3, 2008, earthquake is within several tens of kilometres (miles) of the epicenter of a magnitude 6.2 earthquake that killed two people in Goma in October 2002. Earthquakes within the East African rift system occur as the result of both normal faulting and strike-slip faulting.</blockquote>
+
+== Details ==
+At least 25 people are confirmed dead in Rwanda, with a further 200 seriously injured. Ten people were killed when a church collapsed in the Rusizi District of Western Province, Rwanda|Western Province in Rwanda, according to Rwanda radio. In the Democratic Republic of Congo they have confirmed at least 5 dead and 149 seriously injured.
+
+The earthquake was felt in Burundi, causing a break in the electricity supply, and as far as the Kenyan capital Nairobi.
+
+== Similar earthquakes ==
+{|class="wikitable" align="top" style="margin:0 1em 0.5em 0;"
+|+'''Other notable 5.9 MW earthquakes'''
+|-
+! Date
+! Areas affected
+! Notes
+! Fatalities
+|-
+| October 1, 1987
+| Southern California, {{USA}}
+| see 1987 Whittier Narrows earthquake
+| 8
+|-
+| October 31, 2002
+| {{ITA}} (Molise)
+| see 2002 Molise earthquake
+| 28
+|-
+| May 24, 2008
+| {{COL}} (near Bogota)
+| see May 2008 Colombia earthquake
+| 33
+|-
+! colspan="7" |
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{wikinews|At least 30 killed by earthquakes in Rwanda and Congo}}
+* http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/us2008mzam.php USGS Earthquake Hazards Program report
+
+{{Earthquakes in 2008}}
+
+{{DEFAULTSORT:2008 Lake Kivu Earthquake}}
+Category:2008 in Rwanda|Lake Kivu earthquake
+Category:2008 earthquakes|Lake Kivu
+Category:Earthquakes in Africa
+Category:2008 in the Democratic Republic of the Congo|Lake Kivu earthquake
+Category:Earthquakes in Rwanda
+Category:Earthquakes in the Democratic Republic of the Congo
+Category:Lake Kivu

@@ -1,0 +1,72 @@
+{{Use dmy dates|date=March 2012}}
+{{Infobox earthquake
+|title = 2010 Central Canada earthquake
+|map2 = {{Location map+ | Canada Quebec
+|places =
+{{Location map~|Canada Quebec|Canada Quebec|lat=45.5|long=-73.57|label=Montreal|label_size=100|mark=Green pog.svg}}
+{{Location map~|Canada Quebec|lat=45.42|long=-75.7|label=Ottawa|label_size=100|position=left|mark=Green pog.svg}}
+{{Location map~|Canada Quebec|lat=45.904|long=-75.497|mark=Bullseye1.png|marksize=40}}
+| relief = 1
+| width = 250
+| float = right
+| caption = }}
+|caption =
+|date = {{Start-date|df=yes|23 June 2010}}
+|origintime = 17:41:41 UTC <br /> 1:41:41&nbsp;pm Eastern Daylight Time|EDT
+|duration = 30 seconds
+|magnitude = 5.0 Moment magnitude scale|M<sub>w</sub>
+|depth = {{convert|16.4|km|mi|0|abbr=on}}
+|location = {{coord|45.904|N|75.497|W|region:PE_type:event|display=inline,title}}
+|countries affected = Canada, United States
+|casualties = No fatalities
+|intensity = Mercalli intensity scale|Mercalli VI
+}}
+
+The '''2010 Central Canada earthquake''' occurred with a moment magnitude scale|moment magnitude of 5.0 in Central Canada on 23 June at about 13:41:41 Eastern Daylight Time|EDT and lasted about 30 seconds.
+The epicenter|epicentre was situated in the area of Buckingham, Quebec, approximately {{convert|56|km|mi}} north of Ottawa, Ontario,
+closest to the settlement of Val-des-Bois, Quebec. Canada's capital, Ottawa, declared this earthquake as being its most powerful in 65 years.
+
+It was felt across most of Ontario and Quebec, as well as parts of the northeastern United States, in addition to places as far as Chicago, Pittsburgh, Baltimore, Charleston, West Virginia, and Halifax Regional Municipality|Halifax. It was the first moderate earthquake associated with the Western Quebec Seismic Zone since 20 April 2002, when the area was affected by magnitude 5.1 M<sub>w</sub> tremors. Southern Ontario was also affected by the 1998 magnitude 5.2 M<sub>w</sub> 1998 Pymatuning earthquake|Pymatuning earthquake, associated with a different seismic region (Southern Great Lakes Seismic Zone).
+
+Although a 5.0 magnitude quake is only considered to be moderate, the earthquake's depth (estimates of which vary between {{convert|16.4|km|mi}} and {{convert|19.0|km|mi}}) meant that its effects were more widely felt.
+
+==Geology==
+File:2010 Central Canada earthquake skake map.png|thumb|USGS ShakeMap for the event
+
+The magnitude 5.0 M<sub>w</sub> intraplate earthquake occurred near the southern edge of the Western Quebec Seismic Zone, known for frequent, but minor tremors, occurring, on average, every five days. Far away from the North American Plate|North American tectonic plate's margin, the regional seismicity is controlled by a series of geologic faults formed over the last billion years by the processes of orogeny|mountain building, including the Grenville orogeny, and subsequent erosion. The processes causing the earthquakes in the zone are not well understood: the tremors are not linked to particular seismogenic structures, nor are the sources of stress definitively identified. The initial focal mechanism of the 2010 earthquake suggests Reverse fault#Dip-slip faults|reverse faulting on a fault trending southeast-northwest. However, the size and depth of this earthquake make it uncertain whether the causative fault can be identified.
+
+Earthquakes of magnitude 4.5 or greater are fairly infrequent in the area, occurring at a rate of a few per decade. Some studies suggest, however, that larger earthquakes of magnitude around 7 may have occurred 4550 and 7060 years Before Present|BP.
+
+== Earthquake ==
+{{see also|List of earthquakes in Canada}}
+
+''The Globe and Mail'' reported that "Twitter users as distant as Springfield, Massachusetts, Traverse City, Michigan, and Cincinnati, Ohio reported feeling tremors." Places all the way southward to New Jersey reported a disruptive tremor.
+
+This earthquake occurred as Canadian environment minister Jim Prentice was conducting an interview in Ottawa, and he reported that his chair started to move. Several media outlets also aired video of a press conference by New Democratic Party of Canada|New Democratic Party Member of Parliament Don Davies being disrupted by the quake.
+
+===Damage===
+File:2010 Central Canada earthquake - evacuation in Ottawa.jpg|thumb|left|Office building evacuation in Ottawa
+
+Part of Quebec Route 307 was closed due to a partial bridge collapse near Bowman, Quebec|Bowman that injured a nearby fisherman. In the Outaouais (region)|Outaouais, about 1,300 homes lost power. The O-Train in Ottawa was shut down until 5&nbsp;pm, and the Agence métropolitaine de transport shut down four of five commuter trains in Montreal for a similar period of time in order for lines to be inspected.
+
+Immediately after the quake, cell phone service in Ottawa was down, possibly overloaded by callers. Minor damages were also reported to several city-owned facilities, including two branches of the Ottawa Public Library and two municipal sports arenas, and power was out in part of the downtown Golden Triangle neighbourhood. In Toronto, Toronto Transit Commission and GO Transit service was uninterrupted, while eastbound Via Rail trains were significantly delayed.
+
+===Aftershocks===
+On 16 March 2011, a magnitude 3.7 or 4.3 possible aftershock struck Hawkesbury, Ontario, on the Ottawa River Valley and southwest of the initial magnitude 5.0 epicentre. It was felt in places including Ottawa, Montreal and St. Albans (town), Vermont|St. Albans, VT.
+
+==References==
+{{reflist|30em}}
+
+==External links==
+{{Commons category|2010 Central Canada earthquake}}
+* http://earthquakescanada.nrcan.gc.ca/stndon/wf-fo/index-eng.php?day=23&hour=16&month=6&station=first&tpl_region=eon_wqc&type=station&year=2010&filter=raw#SECTION_1 Seismograph recorded in Ottawa, Ontario, Canada
+* http://earthquake.usgs.gov/earthquakes/recenteqsww/Quakes/us2010xwa7.php USGS data on event
+* http://earthquake.usgs.gov/earthquakes/dyfi/events/us/2010xwa7/us/index.html USGS user-reported tremors in New England, Ontario, and Quebec
+
+{{Earthquakes in 2010}}
+{{Earthquakes in Canada}}
+
+Category:Earthquakes in Quebec
+Category:2010 earthquakes|Central Canada earthquake, 2010
+Category:2010 disasters in Canada|Central Canada Earthquake, 2010
+Category:Earthquakes in Ontario

@@ -1,0 +1,41 @@
+{{Earthquake
+|title = 1996 Chimbote Earthquake
+|date = {{Start date|1996|02|21|df=y}}
+|map2 = {{Location map | Peru
+ | relief = yes
+ | label =
+ | lat = -9.593
+ | long = -79.587
+ | mark = Bullseye1.png
+ | marksize = 30
+ | position = top
+ | width = 250
+ | float = right
+ | caption = }} 
+|magnitude = M<sub>w</sub> 7.4 
+|depth = 10 km
+|location = {{coord|9.593|S|79.587|W}} 
+|countries affected =
+|casualties =
+}}
+
+The '''1996 Chimbote earthquake''' occurred on February 21, 1996 at 07:51 local time (12:51 UTC) about 130 km off the coast of northern Peru, near the Peru-Chile Trench. It was an earthquake of magnitude M<sub>w</sub> 7.4. 
+
+== Geology ==
+The mechanism inferred from data is a low-angle thrust of the Nazca Plate, which is subducting beneath the South American Plate. This earthquake occurred in an area where the Peru-Chile subduction zone is relatively quiet. 
+
+== Tsunami ==
+This earthquake was special in that it generated a disproportionally large tsunami. Earthquakes with slow rupture velocities are the most efficient tsunami generators, and the rupture velocity of this earthquake was classified as moderately slow (Newman and Okal, 1996). The tsunami affected the Peruvian coastal area from Pacasmayo Province|Pacasmayo, La Libertad Region|La Libertad to Callao. The straight line distance between the two areas are about 590 km. The greatest runup value of the tsunami was 5.14 m, recorded at the port of Chimbote, located on the north side of Chimbote Bay. 12 people were killed by the tsunami, all in remote areas, likely due to lack of information. In more populated areas, such as Chimbote, people were aware of the approaching tsunami and were able to evacuate the coast in time. A 60 cm tsunami was recorded in Easter Island and 25 cm in Hilo.
+
+== Aftershocks ==
+The aftershock pattern of this earthquake ranged from 120 to 180 km off the coast and seemed to parallel the Peru-Chile Trench and the Peruvian coastline. Of the mechanisms of two of the larger aftershocks, one was a shallow thrust, and the other one was normal faulting.
+
+== References ==
+{{reflist}}
+
+{{Earthquakes in 1996}}
+
+Category:1996 earthquakes|Chimbote Earthquake, 1996
+Category:1996 in Peru|Chimbote Earthquake, 1996
+Category:Megathrust earthquakes in Peru
+Category:20th-century tsunamis

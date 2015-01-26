@@ -1,0 +1,56 @@
+{{Earthquake
+| title = 1927 Jericho earthquake
+|map2 = File:1927 map.jpg|200px<br><small>Map showing the epicentre of the earthquake according to geologist Natan Shalem</small>
+| date = {{Start date|1927|7|11}}
+| magnitude = 6.2 to 6.25 on the Richter scale
+| depth =
+| countries affected = Mandatory Palestine and Emirate of Transjordan|Transjordan
+| location = {{Coord|31.6|N|35.4|E|display=inline, title}} <br> North of the Dead Sea
+| casualties = At least 500
+| damage = Serious damage to Jericho, Ramle, Tiberias, Nablus and Jerusalem
+}}
+
+The '''Jericho earthquake''' of 1927, also known as the '''1927 Palestine earthquake''',{{cn|date=June 2013}} was a devastating event that shook Mandatory Palestine and Emirate of Transjordan|Transjordan on July 11 at 15:08 local time (13:08 coordinated universal time|UTC). The epicenter of the earthquake was in the northern area of the Dead Sea. The cities of Jerusalem, Jericho, Ramle, Tiberias, and Nablus were heavily damaged and at least 500 were estimated to have been killed.
+
+== Damage and casualties ==
+===Mandatory Palestine===
+==== Jerusalem ====
+The death toll in Jerusalem included more than 130 people and around 450 were injured. About 300 houses collapsed or were severely damaged to the point of not being usable. The earthquake also caused heavy damage to the domes of the Church of the Holy Sepulchre and the al-Aqsa Mosque.
+
+==== The rest of the country ====
+The earthquake was especially severe in Nablus where it destroyed around 300 buildings, including the An-Nasr Mosque|Mosque of Victory and the historic parts of the Great Mosque of Nablus. The death toll in Nablus included more than 150 people and around 250 were injured.
+
+In Jericho, a number of houses collapsed, including several relatively new hotels in one of which three women tourists from India were killed. In addition, the Allenby Bridge collapsed and the Jordan river was blocked for about 21 hours following the collapse of the Marl cliffs in its banks{{Citation needed|reason=Garstang has been refuted on this|date=April 2014}}. Ramla and Tiberias were also heavily damaged.
+
+=== Emirate of Transjordan ===
+The most affected city in Transjordan was Salt, Jordan|Salt in which 80 people were killed, in the rest of Transjordan another 20 were killed by the earthquake.
+
+<gallery widths="220px" heights="160px">
+File:1927 Earthqua JQ2.jpg|Destruction in the Jewish Quarter (Jerusalem)|Jewish Quarter of Jerusalem
+File:1927 Earthquake OliveMount.jpg|A destroyed house on the Mount of Olives
+File:1927 Earthquake Jericho.jpg|The destroyed Winter Palace Hotel in Jericho
+</gallery>
+
+== Earthquake epicenter ==
+Vered and Striem (1977) located the earthquake epicenter to be near the Damya Bridge in the Jordan Valley (Middle East)|Jordan Valley, and close to the city of Jericho.
+
+==References==
+{{Reflist|30em}}
+
+;Sources
+{{refbegin}}
+* {{citation|title=Erroneous interpretation of historical documents related to the epicenter of the 1927 Jericho earthquake in the Holy Land|url=http://www.relemr-merc.org/Other_information/AviDoc/fulltext.pdf|first=R.|last=Avni|first2=D.|last2=Bowman|first3=A.|last3=Shapira|first4=A.|last4=Nur|journal=Journal of Seismology|publisher=Kluwer Academic Publishers|year=2002|number=6|pages=469–476}}
+{{refend}}
+
+== External links ==
+{{Commonscat|1927 earthquake in Palestine}}
+* http://news.google.com/newspapers?id=uNoKAAAAIBAJ&sjid=g1ADAAAAIBAJ&pg=4396,1727803 Jerusalem Hit By Earth Jars - published in the Prescott Evening Courier on July 11, 1927
+* http://news.google.com/newspapers?id=NOQ_AAAAIBAJ&sjid=VFgMAAAAIBAJ&pg=6768,4866598 104 Quake Toll In Holy Land - published in the Youngstown Vindicator on July 12, 1927
+* http://news.google.com/newspapers?id=0KNQAAAAIBAJ&sjid=wSEEAAAAIBAJ&pg=5632,4456700 300 reported Toll of Quake - published in the Milwaukee Journal on July 12, 1927
+* http://news.google.com/newspapers?id=ekoiAAAAIBAJ&sjid=-6MFAAAAIBAJ&pg=4301,4840086 Quake Reports From Palestine Yet Fragmentary - published in Newspapers on July 14, 1927
+
+{{Earthquakes in Southern Levant}}
+
+{{DEFAULTSORT:1927 Jericho earthquake}}
+Category:Earthquakes in the Levant
+Category:1927 earthquakes|Jericho earthquake, 1927

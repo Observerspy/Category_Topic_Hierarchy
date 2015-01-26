@@ -1,0 +1,67 @@
+{{Earthquake
+|title = Near East earthquakes of 1759
+|date = {{Start date|1759}}
+|map2 = {{Location map+ | Lebanon 
+ | places =
+ {{Location map~|Lebanon|lat=33.10|long=35.60|label=Oct 30|position=right|marksize=40|label_size=100|mark=Bullseye1.png}}
+ {{Location map~|Lebanon|lat=33.7|long=35.9|label=Nov 25|position=right|marksize=40|label_size=100|mark=Bullseye1.png}}
+ | relief = yes
+ | label =
+ | lat =
+ | long = 
+ | mark =
+ | marksize =
+ | position = top
+ | width = 250
+ | float = right
+ | caption = }}
+|magnitude = Oct 30, 6.6 M<sub>s</sub> <br/> Nov 25, 7.4 M<sub>s</sub>
+|duration = Oct 30, ~ 1 minute 
+|depth =
+|location = Oct 30, {{coord|33.1|35.6|display=title,inline}} <br/> Nov 25, {{coord|33.7|35.9|display=inline}}
+|countries affected = Lebanon <br/> Syria
+|tsunami = 
+|aftershocks = 3 months 
+|casualties = 2000 
+}}
+File:Lebanon tectonics.png|thumb|right|The Yammouneh fault in Lebanon
+The '''Near East earthquakes of 1759''' was a series of devastating earthquakes that shook a large portion of the Levant in October and November of that year. This geographical crossroads in the Eastern Mediterranean includes portions of Syria, Lebanon, Turkey, and Israel. The ruins of Baalbek, a settlement in the Beqaa Valley of Lebanon east of the Litani River, were badly damaged. These events, along with the earlier 1202 Syria earthquake, are likely the strongest historical earthquakes in the region.
+
+==Tectonic setting==
+The Dead Sea Transform|Levant fault zone is a {{convert|1000|km|sp=us|abbr=on}} long transform fault that runs from the northern end of the Red Sea along the Jordan Rift Valley to the Taurus Mountains complex in southern Turkey. The left-lateral fault zone marks the boundary of the Arabian Plate and the Sinai-Levantine block and has produced Graben|pull-apart basins that form the Dead Sea and the Sea of Galilee. The Levant fault system consists of multiple parallel faults with the dominant features being the Yammouneh and Rachaiya faults. The fault strand that produced these earthquakes is not precisely known and has been the source of much debate, but the Yammouneh fault has usually been cited as the source for the 1202 and 1759 events.
+
+==Damage==
+The sequence of events in 1759 began on October 30, with the smaller of the two severe main shocks that year, causing the deaths of 2000 people in Safed and other settlements. This initial event was estimated at 6.6 on the surface wave magnitude scale and given a rating of VIII (''Destructive'') to IX (''Violent'') on the Mercalli intensity scale.
+
+John Kitto, a writer and biblical scholar, documented details of the earthquakes in his 1841 book ''Palestine: the Physical Geography and Natural History of the Holy Land'' and listed first hand details of the events that were provided to him by the Scottish surgeon and naturalist Patrick Russell (herpetologist)|Patrick Russell via his brother (also a doctor) and the Royal Society. Russell had worked as the physician at the British factory in Aleppo for many years, and followed his brother, Dr. Alexander Russel, in that position.
+
+The first earthquake occurred at 4&nbsp;am local time on October 30, and was described by Russell as severe and lasting more than a minute, and was followed ten minutes later by a less violent shock with a duration of no longer than fifteen seconds. Neither of these two events caused damage in Aleppo, which is in the northern region of Syria. Word came in later on that Damascus, in the south, experienced the same earthquakes, along with several others, and was reporting considerable damage, as was Tripoli, Lebanon|Tripoli, Sidon, and Acre, all cities along the coast. The event of November 25 took place in the evening at 7:30&nbsp;pm. The ground motion was described as: {{quote|... at first gently tremulous, increasing by degrees until the vibrations became more distinct, and, at the same time, so strong as to shake the walls of the houses with considerable violence; they then became more gentle, and then again more violent, and thus changed alternately several times during the shock, which lasted altogether about two minutes.|Patrick Russell, as told by John Kitto|}} A second slight shock was felt eight minutes later, and the following night at 9&nbsp;pm there was an undulating aftershock that lasted a few seconds. Many more shocks were recorded during the following days with a 40 second event at 2&nbsp;pm on the 28th. In Aleppo, people were frightened, but no one was killed and damage was slight, and in Antioch some buildings collapsed with some deaths occurring there. In Damascus however, a third of the city was in ruins, with many thousands having been killed. Many who survived there escaped to the fields to remain safe and did not return out of fear to help those in need. Tripoli sustained more damage than Aleppo; many houses collapsed and the residents took shelter in the open fields. Acre and Ladikiah experienced only minor damage to some of their walls, but the town of Safet, located on a hill, was totally destroyed and many of its inhabitants killed. Several slight aftershocks also occurred in December and January.
+
+The large scale temples and courts built in Baalbek during the Roman Empire had deteriorated since their construction nearly two thousand years earlier. During this stretch of time, earthquakes frequently occurred in that area, and these no doubt contributed to its dilapidated condition. Periods of active seismicity came and went, with significant events like the 551 Beirut earthquake damaging much of the Levant and including Baalbek, but other more active periods such as 1156–57, and 1159–70 were especially destructive and repairs to the walls there were made after the earthquake of 1170.
+
+The region became less active seismically between the fourteenth and seventeenth centuries, aside from a large event that was damaging to Jerusalem in 1546; the events in 1759 interrupted that relatively silent period.
+
+==Aftermath==
+Paleoseismic investigation of the area has shown that surface faulting may have occurred during these events. The earlier and much stronger 1202 earthquake left evidence of fault displacement measuring {{convert|1.6|m|sp=us}}. A more recently dated half-meter slip was also found, but it is unknown whether that movement can be attributed to either of the 1759 events or to the Galilee earthquake of 1837.
+
+==See also==
+*Historical earthquakes
+
+==References==
+{{reflist|colwidth=33em}}
+
+;Bibliography
+{{Refbegin}}
+* {{citation|title=Sources of the large A.D. 1202 and 1759 Near East earthquakes|first=M.|last=Daeron|first2=Y.|last2=Klinger|first3=P.|last3=Tapponnier|first4=A.|last4=Elias|first5=E.|last5=Jacques|first6=A.|last6=Sursock|journal=Geology|publisher=Geological Society of America|year=2005|volume=33|number=7|pages=529–532|doi=10.1130/G21352.1|url=http://www.ipgp.fr/~klinger/page_web/biblio/publication/Daeron_geology05.pdf|bibcode = 2005Geo....33..529D }}
+* {{citation|title=Palestine: the Physical Geography and Natural History of the Holy Land|url=http://books.google.com/books?id=3MwsAAAAYAAJ&pg=PR89&dq=1759+earthquake&hl=en&sa=X&ei=MM3CT-bTF9DciAKzyaGPCA&ved=0CGcQ6AEwCTge#v=onepage&q=1759%20earthquake&f=false|last=Kitto|first=John|authorlink=John Kitto|year=1841|publisher=Nabu Press|asin=B004IIHD7S}}
+{{Refend}}
+
+{{Earthquakes in Southern Levant}}
+
+==External links==
+* http://www.youtube.com/watch?v=0jRbIOZOsK4 AUB Research Team Uncovers New Basin Along the Yammouneh Fault from the American University of Beirut
+
+{{DEFAULTSORT:Near East Earthquake Of 1759}}
+Category:Earthquakes in the Levant|1759 Near
+Category:1759 earthquakes
+Category:1759 in Ottoman Syria

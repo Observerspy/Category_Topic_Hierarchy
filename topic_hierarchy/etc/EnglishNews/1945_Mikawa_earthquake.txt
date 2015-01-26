@@ -1,0 +1,71 @@
+{{Infobox earthquake
+|title              = 1945 Mikawa earthquake
+|image              = 
+|image alt          = 
+|imagecaption       =
+|map                = 
+|map alt            = 
+|image name         =
+|map2 = {{Location map | Japan
+ | AlternativeMap = Japan bluemarble location map with side map of the Ryukyu Islands.jpg
+ | label =
+ | lat = 34.7
+ | long = 137.1
+ | mark = Bullseye1.png
+ | marksize = 40
+ | position = top
+ | width = 250
+ | float = right
+ | caption =
+ | relief = yes}}
+|mapsize            = 
+|caption            =
+|date               = {{Start date|1945|01|13}}
+|origintime         = 03:38 Time in Japan|JST 
+|duration           =
+|magnitude          = 6.8 Richter magnitude scale|M<sub>L</sub> 
+|depth              = {{convert|11|km|mi|0|abbr=on}} 
+|location           = {{coord|34.7|N|137.1|E|type:event|display=inline,title}} 
+|type               =
+|countries affected = Japan
+|damage             =
+|intensity          = Japan Meteorological Agency seismic intensity scale|JMA VII 
+|PGA                = <!-- NN''Peak ground acceleration|g'' -->
+|tsunami            = 
+|landslide          =
+|foreshocks         =
+|aftershocks        =
+|casualties         = 2,306 
+}}
+
+The {{nihongo|'''1945 Mikawa earthquake'''|三河地震|Mikawa jishin}} was an earthquake which occurred off Aichi prefectures, Japan at 03:38 AM on January 13, 1945. As the earthquake occurred during World War II, information about the disaster was Censorship in the Empire of Japan|censored, and efforts at keeping the disaster secret hampered relief efforts and contributed to a high death toll.
+
+==Earthquake==
+The Mikawa earthquake had its epicenter offshore in Mikawa Bay at a depth of eleven kilometers). The city of Tsu, Mie|Tsu recorded a magnitude of 6 on the Richter magnitude scale|Richter Scale; however areas in southern Aichi prefecture were closer to the epicenter, and suffered significant damage.
+
+The earthquake created the Fukozu Fault, named after the village lying in the middle of the fault-line, in area adjoining the west of the Tōkaidō Main Line railway between Okazaki and Gamagōri, Aichi Prefecture. The fault has a total visible distance of little more than 9km, but is of great interest to geologists as it has a right angle bend in its middle portion, rather than being straight or at a gentle curve. It is also remarkable in that ground displacement at the fault is up to one meter in places; however, the Tokaido Railway Line although located only 150 meters distant from the fault line in places, suffered no damage.
+
+==Damage==
+Hardest hit were what is now Hazu District, Aichi|Hazu District. Nishio, Aichi|Nishio city, Kira, Aichi|Kira town, Anjō, Aichi|Anjō city, Hekinan, Aichi|Hekinan city and Gamagōri, Aichi|Gamagōri city. The earthquake had a confirmed death toll of 1180, with an additional 1126 missing and 3866 injured. A total of 7221 houses were totally destroyed, and 16,555 severely damaged. However, as the earthquake occurred in the middle of the night, and also towards the end of the war when fuel supplies were very low, only two houses burned down.
+
+==Previous events==
+
+Similar large earthquakes have occurred in the same location in 1685 and 1686, and the large 1944 Tōnankai earthquake was also in the same area.
+
+==References==
+{{reflist|2|refs=
+
+}}
+
+;Sources
+{{refbegin}}
+* {{citation|title=Interpretation of damage to houses and casualties relied on a precise evaluation of earthquake ground motions in the epicentral region : The 1945 Mikawa earthquake|url=http://cidbimena.desastres.hn/pdf/eng/doc1920/doc1920-contenido.pdf|last=Taniguchi|first=H.|last2=Miura|first2=F.|last3=Mochizuki|first3=T.|last4=Inada|first4=O.|year=1988|journal=Natural Disaster Science|publisher=Japan Society for Natural Disaster Science|volume=10|number=1|pages=378–393}}
+{{refend}}
+
+{{Earthquakes in Japan}}
+{{DEFAULTSORT:Mikawa earthquake, 1945}}
+Category:Earthquakes in Japan|Mikawa
+Category:Empire of Japan|1945
+Category:1945 earthquakes
+Category:1945 in Japan
+Category:History of Aichi Prefecture

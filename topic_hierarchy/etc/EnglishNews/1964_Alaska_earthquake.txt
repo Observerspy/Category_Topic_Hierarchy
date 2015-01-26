@@ -1,0 +1,104 @@
+{{Earthquake
+| title = 1964 Alaska earthquake
+| image=AlaskaQuake-FourthAve.jpg
+| imagecaption=Fourth Avenue in Anchorage, Alaska, looking east from near Barrow Street.  The southern edge of one of several landslides in Anchorage, this one covered an area of over a dozen blocks, including 5 blocks along the north side of Fourth Avenue.  Most of the area was razed and made an urban renewal district.
+| map = Good Friday Earthquake 1964 03 28 loc.jpg
+| date = {{start-date|27 March 1964|27 March 1964}} (AKST)
+| magnitude = 9.2 Moment magnitude scale|M<sub>w</sub>
+|PGA = 0.18 ''peak ground acceleration|g''
+| depth = {{convert|14|mi}}
+| countries affected = United States
+| location = {{Coord|61|3|0|N|147|28|48|W}}
+| intensity = Mercalli intensity scale|XI: Extreme
+| casualties = 139 killed
+| damage = $311 million
+}}
+
+The '''1964 Alaskan earthquake''', also known as the '''Great Alaskan Earthquake''' and '''Good Friday Earthquake''', was a megathrust earthquake that began at 5:36 P.M. AST on Good Friday, March 27, 1964. Across south-central Alaska, ground fissures, collapsing structures, and tsunamis resulting from the earthquake caused about 139 deaths.
+
+Lasting four minutes and 38 seconds, it was the most powerful recorded earthquake in United States|U.S. and North American history, and the Lists of earthquakes#Largest earthquakes by magnitude|second most powerful ever measured by seismograph.
+
+The powerful earthquake produced earthquake liquefaction in the region. Ground fissures and failures caused major structural damage in several communities, much damage to property and several landslides.  Anchorage, Alaska|Anchorage sustained great destruction or damage to many inadequately Earthquake engineering|earthquake engineered houses, buildings, and infrastructure (paved streets, sidewalks, water and sewer mains, electrical systems, and other man-made equipment), particularly in the several landslide zones along Knik Arm.  Two hundred miles southwest, some areas near Kodiak were permanently raised by {{convert|30|ft|m}}. Southeast of Anchorage, areas around the head of Turnagain Arm near Girdwood and Portage (Anchorage)|Portage dropped as much as {{convert|8|ft|m}}, requiring reconstruction and fill to raise the Seward Highway above the new high tide mark.
+
+In Prince William Sound, Port Valdez suffered a massive underwater landslide, resulting in the deaths of 30 people between the collapse of the Valdez, Alaska|Valdez city harbor and docks, and inside the ship that was docked there at the time.  Nearby, a {{convert|27|ft|m|sing=on}} tsunami destroyed the village of Chenega, Alaska|Chenega, killing 23 of the 68 people who lived there; survivors out-ran the wave, climbing to high ground. Post-quake tsunamis severely affected Whittier, Seward, Kodiak, and other Alaskan communities, as well as people and property in British Columbia, Oregon, and California. Tsunamis also caused damage in Hawaii and Japan.  Evidence of motion directly related to the earthquake was reported from all over the earth.
+
+==Geology==
+At 5:36 p.m. Alaska Standard Time (3:36 a.m. March 28, 1964 Coordinated Universal Time|UTC), a Fault (geology)|fault between the Pacific Plate|Pacific and North American Plate|North American Tectonic plate|plates ruptured near College Fjord in Prince William Sound. The epicenter of the earthquake was {{Coord|61.05|N|147.48|W|}}, 12.4&nbsp;mi (20&nbsp;km) north of Prince William Sound, 78 miles (125&nbsp;km) east of Anchorage, Alaska|Anchorage and 40 miles (64&nbsp;km) west of Valdez, Alaska|Valdez. The focus occurred at a depth of approximately 15.5&nbsp;mi (25&nbsp;km). Ocean floor shifts created large tsunamis (up to 220 feet (67 m) in height), which resulted in many of the deaths and much of the property damage. Large rockslides were also caused, resulting in great property damage. Vertical displacement of up to 38 feet (11.5 m) occurred, affecting an area of 100,000 miles? (250,000&nbsp;km?) within Alaska.
+
+Studies of ground motion have led to a peak ground acceleration estimate of 0.14 - 0.18 ''g''.
+
+The Alaska Earthquake was a subduction zone earthquake (megathrust earthquake), caused by an oceanic plate sinking under a continental plate. The fault responsible was the Aleutian Megathrust, a reverse fault caused by a compressional force.  This caused much of the uneven ground which is the result of ground shifted to the opposite elevation.
+
+==Tsunamis==
+File:Calculated Travel Time Map for 1964 Alaska Tsunami.jpg|thumb|Calculated travel time map for the tectonic tsunami produced by the 1964 Prince William Sound earthquake in Alaska. Tsunami Travel Times computed using TTT v3.1 (P. Wessel). Map does not show the height or strength of the waves, only the calculated travel times. <P><blockquote><span style="color:#FF0000">Red</span>: 1-4 hour arrival times <P><span style="color:#FFD700">Yellow</span>: 5-6 hour arrival times <P><span style="color:#00FF00">Green</span>: 7-14 hour arrival times <P><span style="color:#0000FF">Blue</span>: 15-21 hour arrival times.
+Two types of tsunami were produced by this subduction zone earthquake. There was a tectonic tsunami produced in addition to about 20 smaller and local tsunami. These smaller tsunami were produced by submarine and subaerial landslides and were responsible for the majority of the tsunami damage. Tsunami waves were noted in over 20 countries, including: Peru, New Zealand, Papua New Guinea, Japan, and Antarctica. The largest tsunami wave was recorded in Shoup Bay, Alaska, with a height of about 67 meters. 
+
+==Death toll, damage, and casualties==
+{{refimprove|section|date=March 2011}}
+File:Good Friday Earthquake at Turnagain Arm.jpg|thumb|The largest landslide in Anchorage occurred along Knik Arm between Point Woronzof and Fish Creek, causing substantial damage to numerous homes in the Turnagain-By-The-Sea subdivision.
+File:Subsidence at portage.jpg|thumb|The ruin of Portage
+File:AlaskaQuake-Tire.jpg|thumb|A 2x6 plank driven through a ten-ply tire by the tsunami in Whittier, Alaska|Whittier.
+
+As a result of the earthquake, 139 people are believed to have died: 5 died from the tsunami in Oregon, and 13 died from the tsunami in California. Property damage was estimated at about $311 million (${{Formatprice|{{Inflation|US|300000000|1964|r=1}}}} in current U.S. dollars).
+
+===Anchorage area===
+Most damage occurred in Anchorage, 75&nbsp;mi (120&nbsp;km) northwest of the epicenter. Anchorage was not hit by tsunamis, but downtown Anchorage was heavily damaged, and parts of the city built on sandy bluffs overlying "Bootlegger Cove clay" near Cook Inlet, most notably the Turnagain neighborhood, suffered landslide damage. The neighborhood lost 75 houses in the landslide, and the destroyed area has since been turned into Earthquake Park. The Government Hill school suffered from the Government Hill landslide leaving it in two jagged, broken pieces. Land overlooking the Ship Creek valley near the Alaska Railroad yards also slid, destroying many acres of buildings and city blocks in downtown Anchorage. Most other areas of the city were only moderately damaged.  The 60-foot concrete control tower at Anchorage International Airport was not engineered to withstand earthquake activity and collapsed, killing one employee.
+
+The house at 918 W. 10th Avenue suffered damage peripherally, but one block away the recently completed and still unoccupied Four Seasons Building on Ninth Avenue collapsed completely with the concrete elevator shafts sticking up out of the rubble like a seesaw.
+
+The hamlets of Girdwood, Alaska|Girdwood and Portage, Alaska|Portage, located 30 and 40&nbsp;mi (60&nbsp;km) southeast of central Anchorage on the Turnagain Arm, were destroyed by subsidence and subsequent tidal action. Girdwood was relocated inland and Portage was abandoned. About {{convert|20|mi|km}} of the Seward Highway sank below the high-water mark of Turnagain Arm; the highway and its bridges were raised<!--really raised, or just rebuilt on higher ground?--> and rebuilt in 1964-66.
+
+===Elsewhere in Alaska===
+Most coastal towns in the Prince William Sound, Kenai Peninsula, and Kodiak Island areas, especially the major ports of Seward, Alaska|Seward, Whittier, Alaska|Whittier and Kodiak, Alaska|Kodiak were heavily damaged by a combination of seismic activity, subsidence, post-quake tsunamis and/or earthquake-caused fires. Valdez was not totally destroyed, but after three years, the town relocated to higher ground 7&nbsp;km (4&nbsp;mi) west of its original site. Some Alaska Native villages, including Chenega, Alaska|Chenega and Afognak, Alaska|Afognak, were destroyed or damaged.  The earthquake caused the Cold-War era ballistic missile detection radar of Clear Air Force Station to go offline for six minutes, the only unscheduled interruption in its operational history.  Near Cordova, the Miles Glacier Bridge|Million Dollar Bridge crossing the Copper River also collapsed. The community of Girdwood was also confined to the southern side of the Seward Highway when water rushed into Turnagain Arm and flooded or destroyed any buildings left standing to the north of the highway. Interestingly, only the ground immediately along the highway and that on the north side of the road dropped, prompting geologists to speculate that Girdwood may rest upon an ancient cliff face, now covered by countless thousands of years of sediment and glacial deposits.{{Citation needed|date=January 2010}}
+
+===Canada===
+A 4.5&nbsp;ft (1.4 m) wave reached Prince Rupert, British Columbia, just south of the Alaska Panhandle, about three hours after the quake. The tsunami then reached Tofino, British Columbia|Tofino, on the exposed west coast of Vancouver Island, and traveled up a Alberni Inlet|fjord to hit Port Alberni, British Columbia|Port Alberni twice, washing away 55 homes and damaging 375 others. The towns of Hot Springs Cove, British Columbia|Hot Springs Cove, Zeballos, British Columbia|Zeballos, and Amai, British Columbia|Amai also saw damage. The damage in British Columbia was estimated at $10 million Canadian ($65 million in 2006 Canadian dollars, or $56 million in 2006 U.S. dollars).
+
+===Elsewhere===
+File:Portagetoday.JPG|thumb|right|A winter scene of a "Ghost forest" that was killed and preserved by salt water along with ruined buildings at the site of the former town of Portage, 2011
+Twelve people were killed by the tsunami in or near Crescent City, California, while four children were killed on the Oregon coast at Beverly Beach State Park. Other coastal towns in the U.S. Pacific Northwest and Hawaii were damaged. Minor damage to boats occurred as far south as Los Angeles, California|Los Angeles. Effects of the earthquake were even noted as far east as Texas. Tide gauges in Freeport, Texas|Freeport recorded waves similar to Surface_wave#Mechanical_waves|seismic surface waves.
+
+==Aftershocks==
+There were thousands of aftershocks for three weeks, following the main shock. In the first day alone, eleven major aftershocks were recorded with a magnitude greater than 6.2. Nine more occurred over the next three weeks. It was not until more than a year later that the aftershocks were no longer noticed.
+
+==See also==
+{{Portal|Disasters}}
+*List of earthquakes and tsunamis in the United States|List of earthquakes in the United States
+*J. C. Penney Store (Anchorage, Alaska)
+
+==References==
+{{Reflist}}
+
+===General references===
+
+{{Refbegin}}
+* {{cite book |title=The Great Alaska Earthquake Of 1964 |last=National Research Council |first=Committee On The Alaska Earthquake |authorlink= |coauthors= |year=1971–73 |publisher=National Academy of Sciences |location=Washington |ISBN= |page= |pages= |url= |accessdate=2009-08-14}}
+**http://books.google.com/books?id=xD8rAAAAYAAJ Geology, Seismology and Geodesy, http://books.google.com/books?id=EkArAAAAYAAJ Hydrology, http://books.google.com/books?id=pT4rAAAAYAAJ Biology, http://books.google.com/books?id=KlsrAAAAYAAJ Oceanography And Coastal Engineering, http://books.google.com/books?id=5EArAAAAYAAJ Engineering, http://books.google.com/books?id=WEErAAAAYAAJ Human Ecology, http://books.google.com/books?id=iUErAAAAYAAJ Summary and Recommendation
+{{Refend}}
+
+==External links==
+{{Commons category|Good Friday Earthquake}}
+*http://www.geo.arizona.edu/~nhartnes/alaska/index.html 1964 Good Friday Great Alaskan Earthquake from University of Arizona, Geosciences Department
+*http://earthquake.usgs.gov/regional/states/events/1964_03_28.php USGS report on the earthquake
+*http://libraryphoto.cr.usgs.gov/cgi-bin/search.cgi?search_mode=noPunct&free_form=alaska&free_form=earthquake&free_form=&free_form= Photo library from the U.S. Geological Survey
+*http://wcatwc.arh.noaa.gov/64quake.htm The Great Alaskan Earthquake & Tsunamis of 1964: NOAA report
+*http://www.drgeorgepc.com/Tsunami1964Canada.html The Effects of the March 28, 1964 Alaska Tsunami in British Columbia, Canada
+*http://alaskanearthquake1964.wordpress.com/ Eyewitness Accounts
+*http://www.aeic.alaska.edu/quakes/Alaska_1964_earthquake.html Info on event from Alaska Earthquake Information Center
+* {{Internet Archive short film|id=gov.dod.dimoc.30190|name=ALASKAN EARTHQUAKE (1966)}}
+*http://www3.gendisasters.com/alaska/7533/anchorage-ak-good-friday-earthquake-mar-1964 Anchorage, AK Good Friday Earthquake, Mar 1964 at GenDisasters.com
+
+{{Alaska history footer}}
+
+{{DEFAULTSORT:Alaska Earthquake 1964}}
+Category:1964 earthquakes
+Category:1964 in Alaska
+Category:1964 in Canada
+Category:Earthquakes in British Columbia|1964 Alaska
+Category:History of Alaska
+Category:Landslides in the United States|1964 Alaska
+Category:Megathrust earthquakes in Alaska|1964 Alaska
+Category:Megathrust earthquakes in Canada|1964 Alaska
+Category:Earthquakes in Alaska|1964 Alaska
+Category:20th-century tsunamis|1964
+Category:Tsunamis in the United States|1964 Alaska

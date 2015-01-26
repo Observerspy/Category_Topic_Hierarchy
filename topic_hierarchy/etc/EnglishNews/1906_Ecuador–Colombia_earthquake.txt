@@ -1,0 +1,58 @@
+{{Earthquake
+|title = 1906 Ecuador-Colombia earthquake
+|date = {{Start-date|January 31, 1906}}
+|map2 = {{Location map many | Ecuador |relief=1
+| label =
+| lat = 1.0
+| long = -81.5
+| mark = Bullseye1.png
+| marksize = 40
+| position = top
+| label2 = Esmeraldas, Ecuador|Esmeraldas
+| lat2 = 1.05
+| long2 = -79.2
+| mark2 =
+| mark2size = 10
+| position2 = right
+| width = 250
+| float = right
+| caption = }}
+|magnitude = 8.8 Magnitude Moment magnitude scale|M<sub>w</sub>
+|depth=
+|location = {{coord|1.0|-81.5||display=inline,title}}
+|countries affected = Ecuador, Colombia
+|tsunami = Yes
+|casualties = ~1,000 }}
+
+The '''1906 Ecuador–Colombia earthquake''' occurred at 15:36 UTC on January 31, off the coast of Ecuador, near Esmeraldas, Ecuador|Esmeraldas. The earthquake had a Moment magnitude scale|magnitude of 8.8 and triggered a destructive tsunami that caused at least 500 casualties on the coast of Colombia.
+
+==Tectonic setting==
+The earthquake occurred along the boundary between the Nazca Plate and the South American Plate. The earthquake is likely to be a result of thrust fault|thrust-faulting, caused by the subduction of the Nazca plate beneath the South American plate.
+
+The coastal parts of Ecuador and Colombia have a history of great megathrust earthquakes originating from this plate boundary.
+
+==Damage==
+The greatest damage from the tsunami occurred on the coast between Río Verde Canton|Río Verde, Ecuador and Micay, Colombia. 
+Estimates of the number of deaths caused by the tsunami vary between 500 and 1,500.
+
+==Characteristics==
+
+===Earthquake===
+The rupture zone for this earthquake was 500&ndash;600&nbsp;km long, and encompassed those for the earthquakes of 1942 (Moment magnitude scale|M<sub>w</sub>=7.8), 1958 Ecuador-Colombia earthquake|1958 (M<sub>w</sub>=7.7) and 1979 Tumaco earthquake|1979 (M<sub>w</sub>=8.2). The lack of overlap between the three more recent events suggest the presence of minor barriers to rupture propagation along the plate boundary.
+
+===Tsunami===
+The maximum recorded run-up height was 5 m in Tumaco, Colombia. At Hilo, Hawaii a 1.8 m run-up height was recorded for this event. The tsunami was also noted in Costa Rica, Panama, Mexico, California and Japan.
+
+==Future seismic hazard==
+Because the sequence of three earthquakes that ended in 1979 did not release as much energy as the 1906 event, it has been suggested that an earthquake of similar magnitude to that in 1906 was likely in the near future. However, analysis of the amount of slip associated with the three later events suggest that they have released most of the accumulated displacement across the plate boundary since 1906.
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:1906 Ecuador-Colombia earthquake}}
+Category:Megathrust earthquakes in Ecuador
+Category:Megathrust earthquakes in Colombia
+Category:1906 earthquakes
+Category:1906 in Ecuador
+Category:1906 in Colombia
+Category:20th-century tsunamis

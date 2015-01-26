@@ -1,0 +1,53 @@
+{{Earthquake
+|title= 2007 Aisén Fjord earthquake
+|map= April 21 2007 Aisen earthquake intensity.jpg
+|date={{Start date|2007|4|21}}
+|magnitude=6.2 Moment magnitude scale|M<sub>w</sub>
+|depth= 38,1 km
+|epicenter location={{coor d|45.266|S|72.496|W}}
+|countries affected=Chile
+|location=Aisén Fjord, Aysén Region, Chile
+|casualties=10 killed
+}}
+
+Image:April 21 2007 Aisen Earthquake.gif|thumb|right|300px|Map of southern Chile with the epicenter of the earthquake marked in orange 
+The '''Aisén Fjord earthquakes''' were a series of seismic events of different magnitudes that occurred in Aisén Fjord from January 22, 2007, to April 22. The biggest occurred at 1:53 p.m. (local time) on April 21 and reached a felt intensity of VII (Very strong) on the Mercalli intensity scale. On the moment magnitude scale, the earthquake reached a gradation of 6.2. Ten people disappeared, according to ONEMI (Chile's National emergency office), but three bodies were found on April 22 by the Navy of Chile.
+
+On the mountains around the fjord, the earthquake caused landslides that in turn created waves as high as 6m, which severely damaged some salmon aquaculture installations. The potable water systems of the cities of Puerto Chacabuco, Chile|Puerto Chacabuco and Puerto Aisén, Chile|Puerto Aisén were broken, forcing firefighters and the army of Chile|army to supply water. The electricity network of Puerto Chacabuco was also cut off by the temblor.
+
+The earthquake expanded to several zones of the country. At 6:22 a.m. (local time) on April 22, an intense earthquake was felt in Santiago, reaching grade II on the Mercalli scale.
+
+Despite the protests against the government organized by Aysen's mayor, Chile's president, Michelle Bachelet visited the affected zone. She was met with black flags and, during the protest, Aysen's mayor ?scar Catalán was arrested. Catalán criticized heavily that the region hadn't received the necessary help to prevent damage and casualties during the earthquake as there had been minor earthquakes since January.
+
+According to ONEMI, the following cities and town in Aysén del General Carlos Ibá?ez del Campo Region were affected by the latest earthquake. The Roman numerals show the intensity on the Mercalli scale.
+
+*Puerto Chacabuco, Chile|Puerto Chacabuco VII
+*Puerto Aisén, Chile|Puerto Aisén VII
+*Coihaique VI
+*Balmaceda, Chile|Balmaceda V
+*Cochrane, Chile|Cochrane IV
+
+==Seismic movements and events before April 21==
+Since January 22, Aysén Fjord has suffered a series of minor earthquakes. The greatest before April 21 reached grade VI on the Mercalli scale and occurred at 3:44 on p.m. on April 14, 2007. Local fishermen have reported seeing steam rising from the fjord.
+
+==See also==
+*2007 Antofagasta earthquake
+*Liqui?e-Ofqui Fault
+*Great Chilean Earthquake
+*Ri?ihuazo
+
+==Sources==
+*http://www.emol.com/noticias/nacional/detalle/detallenoticias.asp?idnoticia=253391 Emol
+*http://www.radio.uchile.cl/notas.aspx?idNota=37511 Radio universidad de Chile
+
+==References==
+{{reflist}}
+
+{{Earthquakes in 2007}}
+
+{{DEFAULTSORT:Aisen Fjord Earthquake 2007}}
+Category:Earthquakes in Chile|2007 Aysen Fjord
+Category:Landslides in Chile|2007 Aisen Fjord
+Category:2007 earthquakes
+Category:2007 in Chile
+Category:History of Aysén Region|2007 Aysen Fjord earthquake

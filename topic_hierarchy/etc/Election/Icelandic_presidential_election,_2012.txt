@@ -1,0 +1,107 @@
+{{Infobox Election
+| election_name = Icelandic presidential election, 2012
+| country = Iceland
+| type = presidential
+| ongoing = no
+| previous_election = Icelandic presidential election, 2008
+| previous_year = 2008
+| next_election = Icelandic presidential election, 2016
+| next_year = 2016
+| election_date = 30 June 2012
+| image1 = [[Image:Olafur Ragnar Grimsson - Davos 2011.jpg|115px]]
+| nominee1 = {{nowrap|'''[[Ólafur Ragnar Grímsson]]'''}}
+| party1 = Independent (politician)
+| popular_vote1 = {{nowrap|'''84,036'''}}
+| percentage1 = '''52.78%'''
+| image2 =  
+| nominee2 = {{nowrap|[[Thóra Arnórsdóttir]]}}
+| party2 = Independent (politician) 
+| popular_vote2 = {{nowrap|52,795}}
+| percentage2 = 33.16%
+| image3 =  
+| nominee3 = {{nowrap|[[Ari Trausti Guðmundsson]]}}
+| party3 = Independent (politician) 
+| popular_vote3 = {{nowrap|13,762}}
+| percentage3 = 8.64%
+| title = President
+| before_election = [[Ólafur Ragnar Grímsson]]
+| before_party = Independent (politician)
+| after_election = [[Ólafur Ragnar Grímsson]]
+| after_party = Independent (politician)
+}}{{Politics of Iceland}}
+
+A '''Presidential election''' was held in [[Iceland]] on 30 June 2012.<ref>{{cite web|url=http://www.icenews.is/index.php/2011/10/05/icelandic-pm-wants-public-vote-on-new-constitution/ |title=Icelandic PM wants public vote on new constitution |publisher=Icenews.is |date=2012-06-08 |accessdate=2012-06-29}}</ref> The result was a victory for [[Ólafur Ragnar Grímsson]], who defeated his nearest rival, [[Thóra Arnórsdóttir]], by nearly 20% of the vote. He will now serve a record fifth term as [[president of Iceland]].
+
+If one of the female candidates had won, Iceland would have had all its leading governing and religious positions held by women; the female president would be [[head of state]], [[Jóhanna Sigurðardóttir]] would be [[head of government]], [[Ásta Ragnheiður Jóhannesdóttir]] would be the [[Althing]] speaker, while [[Agnes M. Sigurðardóttir]] would have been the head of the [[Church of Iceland]].<ref name="pdf">{{cite web|url=http://www.robert-schuman.eu/doc/oee/oee-782-en.pdf |title=Presidential election in iceland - 30th June 2012 |format=PDF |date= |accessdate=2013-04-22}}</ref>
+
+==Candidates and campaign==
+There were six candidates:
+*The incumbent president, [[Ólafur Ragnar Grímsson]], initially stated he would not seek re-election,<ref>{{cite web|author=Iceland Travel Guide |url=http://www.goiceland.is/2012/01/icelands-president-might-seek-a-fifth-term/ |title=Iceland’s president might seek a fifth term |publisher=Goiceland.is |date= |accessdate=2012-06-29}}</ref><ref>http://english.forseti.is/media/PDF/2012_01_01Aramotaavarp_Enska.pdf</ref><ref>{{cite web|author=Ísland |url=http://ruv.is/sarpurinn/frettir/06012012/neitar-ad-upplysa-hvort-hann-bjodi-sig-aftur-fram |title=
+Fréttir: Neitar að upplýsa hvort hann bjóði sig aftur fram |language=Icelandic |publisher=Ruv.is |date= |accessdate=2012-06-29}}</ref> but then stated on 4 March that he would run for a fifth term, after receiving a petition of over 30,000 voters in favour of his candidacy.<ref>{{cite web|last=Valdimarsson |first=Omar R. |url=http://www.bloomberg.com/news/2012-03-04/iceland-president-seeks-fifth-term-after-petition-from-voters.html |title=Iceland President Seeks Fifth Term After Petition From Voters |publisher=Bloomberg |date=2012-03-04 |accessdate=2012-06-29}}</ref> Speaking in [[Selfoss (town)|Selfoss]], he said that "under normal circumstances I would have come to a different conclusion, but more than 30,000 Icelanders, which is a significant part of all the voters in Iceland, requested that I continue. Many significant matters that are likely to lead to conflict and confrontations are going to be on the agenda in the coming years."<ref name="bbrg"/>
+*[[Ari Trausti Gudmundsson]], a writer, geophysicist and formerly of the [[Communist Party of Iceland]], but now an independent.
+*[[Hannes Bjarnason]], a farmer who lived in Norway for 14 years. He seeks to enhance the place of "morality" in the public debate and to "safeguard" national interests.
+*Dr. [http://herdis.is/?page_id=178 Herdís Thorgeirsdóttir], a lawyer and professor of constitutional law and human rights at [[Bifröst University]], announced her candidacy on 30 March.<ref>{{cite web|url=http://mbl.is/frettir/innlent/2012/03/30/herdis_fer_i_forsetann/ |title=Herdís fer í forsetann |language=Icelandic |publisher=mbl.is |date= |accessdate=2012-06-29}}</ref> She called a press meeting that day and said her campaign would be an experiment on democracy, whether it was possible to run without the backing of powerful financial actors and political parties. She referred to the financial collapse in 2008 and the Parliamentary investigative report which concluded that the main reason for the collapse were the close ties between politics and the corporate world seriously damaging the democratic process. Her candidacy was an attempt to increase accountability in the democratic process by not accepting funding from corporations as it is crucial in the struggle against prevailing corruption to limit the influence of money in elections.{{fact|date=June 2012}} She is the [http://www.ewla.org/EWLABoards/2009/PresidentHerdisTHORGEIRSDOTTIR/ President] of the [[European Women Women Lawyers' Association]] and Iceland's representative at the [[Venice Commission]] of the [[Council of Europe]].
+*[[Thóra Arnórsdóttir]], a journalist and news presenter. She announced her candidacy on 4 April and received the necessary 500 signatures in one weekend.
+*[[Andrea Jóhanna Ólafsdóttir]], former chairwoman of [[Hagsmunasamtök heimilanna]], a [[non-governmental organisation]] founded in the wake of the [[2008–2012 Icelandic financial crisis]]. A vocal critic of both government and financial institutions, she announced her candidacy on 1 May.<ref>{{cite web|url=http://icelandreview.com/icelandreview/daily_news/Eighth_Candidate_Joins_Iceland%E2%80%99s_Presidential_Race_0_389606.news.aspx |title=Eighth Candidate Joins Iceland’s Presidential Race 
+|publisher=Icelandreview.com |date= |accessdate=2012-06-29}}</ref> She supports the [[minimum wage]] of 193,000 krona.
+
+Two other candidates who were originally reported to be standing in the election, later dropped out:<ref name="bbc">{{cite web|url=http://www.bbc.co.uk/news/world-europe-18642901 |title=BBC News - Q&A: Iceland's presidential election |publisher=Bbc.co.uk |date=2012-06-29 |accessdate=2013-04-22}}</ref>
+*[[Jón Lárusson]], a police inspector charged with investigating tax fraud since the economic crisis. He claims to be apolitical and has opposed [[Accession of Iceland to the European Union|membership of the EU]].<ref name="pdf"/>
+*[[Ástþór Magnússon]], previously a candidate in the [[Icelandic presidential election, 2004|2004 election]], a pacificist and a businessman, announced his candidacy on 3 March 2012.<ref>{{cite web|url=http://www.icenews.is/index.php/2012/03/03/first-candidate-revealed-for-iceland-presidential-election/ |title=First candidate revealed for Iceland presidential election |publisher=Icenews.is |date=2012-06-08 |accessdate=2012-06-29}}</ref>
+
+==Campaign==
+After trailing in the opinion polls, Ólafur resorted to a [[negative campaign]] against Thóra, saying she would be "dangerous for the country" and that she would "do nothing but follow the government's will, particularly in terms of foreign policy", in continuing its membership application to the [[European Union]] being pursued by the current government led by [[Jóhanna Sigurðardóttir]]'s [[Social Democratic Party (Iceland)|Social Democratic Party]], and he had reservervations about the prospect of being a member of the EU. He also accused the Icelandic media of giving Thóra preferential treatment.<ref name="pdf"/> Ólafur also claimed to be the best person to steer Iceland through financial crisis.<ref name="bbrg"/> Thóra also accused Ólafur of distorting the president's role from that of a [[figurehead]] to a more political position<ref name="bbc"/> and that she would return the post to its ceremonial stature instead of getting involved in politics.<ref name="africa"/> However, Ólafur was said to be popular because of the two referenda Iceland held over the financial crisis and, as a result, many Icelanders felt he was looking out for their interests<ref name="bbc">{{cite web|last=Baldini |first=Luisa |url=http://www.bbc.co.uk/news/uk-18629907 |title=Election in Iceland: Campaigning with nappies in hand |publisher=Bbc.co.uk |date=2012-03-15 |accessdate=2012-06-29}}</ref> after being seen to have stood up to the [[United Kingdom]] and the [[Netherlands]] over [[Icesave]] repayments.<ref>{{cite web|url=http://in.reuters.com/article/2012/06/28/iceland-election-idINL6E8HP52Y20120628 |title=Defiance to secure Iceland president record 5th term |publisher=In.reuters.com |date=2009-02-09 |accessdate=2012-06-29}}</ref>
+
+Thóra told the ''[[Reykjavik Grapevine]]'' that Iceland needs new leadership: "I think we have all felt a strong need for a change in this country. Iceland is a small country, and we pretty much agree on how this society should be;" she also told ''[[Morgunbladid]]'' that her lack of experience in politics was not a bad thing as she "think[s] that now is an opportunity to learn from the experience we have been through … and use it for a new beginning...[although the presidency is largely ceremonial, the position] has a great power of influence."<ref>{{cite web|url=http://www.icenews.is/index.php/2012/06/29/iceland-to-vote-in-presidential-elections/#ixzz1zJxLaYbl |title=Iceland to vote in presidential elections &#124; IceNews - Daily News |publisher=Icenews.is |date= |accessdate=2013-04-22}}</ref>
+
+==Opinion polls==
+An [[opinion poll]] published on 21 May by the Institute of Social Sciences at the [[University of Iceland]] showed Thóra leading with 46.2%, with Ólafur on 37.8%. However, after she suspended her campaign as she was due to give birth, the gap narrowed as Ólafur stood alone as the leading campaigner.<ref name="pdf"/> An average of three poll prior to the election indicated Ólafur leading with 45% and Thóra in second place with 37.7% ahead of four other candidates.<ref name="bbrg">{{cite web|last=Valdimarsson |first=Omar R. |url=http://www.bloomberg.com/news/2012-06-27/iceland-s-grimsson-sees-conflict-as-record-re-election-nears.html |title=Iceland’s Grimsson Sees Conflict as Record Re-Election Nears |publisher=Bloomberg |date= |accessdate=2012-06-29}}</ref>
+
+{| class="wikitable" style="margin:auto;"
+!Name||11 and 12 April<ref>{{cite web|url=http://smugan.is/2012/04/22-prosent-oakvedin-thora-og-olafur-jofn/ |title=22 prósent óákveðin – Þóra og Ólafur jöfn |publisher=Smugan.is |date=2012-04-13 |accessdate=2012-06-29}}</ref>||26 April<ref name="konnun1">{{cite web|url=http://www.mbl.is/frettir/innlent/2012/04/26/thora_maelist_med_mest_fylgi/ |title=Þóra mælist með mest fylgi |language=Icelandic |publisher=mbl.is |date= |accessdate=2012-06-29}}</ref>>||10 and 15 May<ref>{{cite web|url=http://www.icelandreview.com/icelandreview/daily_news/Top_Presidential_Candidates_Neck_on_Neck_in_Polls_0_390076.news.aspx |title=Top Presidential Candidates Neck-on-Neck in Polls |publisher=Icelandreview.com |date= |accessdate=2012-06-29}}</ref>||8-18 May<ref>{{cite web|author=Ísland |url=http://www.ruv.is/frett/thora-med-forskot-a-olaf |title=Þóra með forskot á Ólaf |language=Icelandic |publisher=Ruv.is |date=2012-05-18 |accessdate=2012-06-29}}</ref>||23 and 24 May<ref>{{cite web|url=http://www.icelandreview.com/icelandreview/daily_news/%C3%93lafur_Ragnar_Takes_Lead_in_Iceland_Presidential_Race_0_390318.news.aspx |title=Ólafur Ragnar Takes Lead in Iceland Presidential Race |publisher=Icelandreview.com |date= |accessdate=2012-06-29}}</ref>||1-5 June<ref>{{cite web|author= |url=http://www.icelandreview.com/icelandreview/search/news/Default.asp?ew_0_a_id=390717 |title=President of Iceland Still Gets Most Support in Polls |publisher=IcelandReview |date=1944-06-17 |accessdate=2012-06-29}}</ref>||14-20 June<ref>{{cite web|url=http://www.icelandreview.com/icelandreview/daily_news/Both_Top_Presidential_Candidates_Lose_Support_0_391155.news.aspx |title=Both Top Presidential Candidates Lose Support |publisher=Icelandreview.com |date= |accessdate=2012-06-29}}</ref>||22-26 June<ref name="revpoll">{{cite web|url=http://www.icelandreview.com/icelandreview/daily_news/?cat_id=29314&ew_0_a_id=391325 |title=Iceland Prepares to Elect New President |publisher=Icelandreview.com |date= |accessdate=2012-06-29}}</ref>||25-26 June<ref name="revpoll"/>
+|-
+|Andrea Ólafsdóttir||-||-||-||3.8 %||2.7 %||2.1 %||1.6 %||2.5 %||1.7 %
+|-
+|Ari Trausti Guðmundsson||-||11.5 %||8.9 %||8.9 %||5.3 %||9.2 %||10.5 %||9.3 %||7.5 %
+|-
+|Ástþór Magnússon||1.5 %||0.8 %||0.9 %||0.4 %||0.9 %||-||-||-||- 
+|-
+|Hannes Bjarnason||0.4 %||0.3 %||0.6 %||0.2 %||0.0 %||1.1 % ||0.8 %||0.8 %||0.3 %
+|-
+|Herdís Þorgeirsdóttir||2.9 %||3.0 %||1,3 %||2.6 %||1.3 %||2.6 %||5.3 %||3.4 %||2.6 %
+|-
+|Jón Lárusson||1.2 %||0.6 %||1.0 %||0.1 %||1.2 %||-||-||-||- 
+|-
+|Ólafur Ragnar Grímsson||46.0 %||34.8 %||41.3 %||37.8 %||53.9 %||45.8 %||44.8 %||50.8 %||57.0 %
+|-
+|Thóra Arnórsdóttir||46.5 %||49.0 %||43.4 %||46.2 %||35.3 %||39.3 %||37.0 %||33.6 %||30.8 %
+|}
+
+==Conduct==
+Voting centres were open from 09:00 to 22:00.<ref name="bbc"/> After having voted, Thóra said ''[[DV]]'': "You see this glorious day, I can't be anything but optimistic. The ''[[The Gallup Organization|Gallup]]'' poll gives a strong indication of the outcome, but we will just count the votes and accept whatever that brings us. To have the possibility to topple the current president is a victory in itself." The same day Ólafur wrote in ''Morgunbladid'': "Iceland is now at a crossroads. Behind us are difficult years. Ahead are decisions on the constitution and our relationship with other countries in Europe. There is still turbulence in the continent's economy and in many areas... The president...shall assist the country in tackling the biggest issues; they will determine the fate of Icelanders for decades."<ref name="africa">{{cite web|url=http://www.starafrica.com/en/news/detail-news/view/new-mum-challenges-icelands-president-i-240373.html |title=Iceland president wins record fifth term - rest of the world - News |publisher=StarAfrica.com |date=2012-07-01 |accessdate=2013-04-22}}</ref>
+
+==Results==
+{{Icelandic presidential election, 2012}}
+
+===Reactions===
+
+After part of the result was released Thóra told ''[[RUV]]'': "This has been a valuable experience. Now I will take a holiday, attend to my new daughter and the other children and go on maternity leave and think how I can put this experience to use. To get more than one-third [of votes], I'm overwhelmed. I of course hoped to win. This is something you only do once in a lifetime," as she indicated she would not run in the [[Icelandic presidential election, 2016|next election]].<ref>{{cite web|url=http://www.aljazeera.com/news/europe/2012/07/20127112755390374.html |title=Journalist admits defeat in Iceland vote - Europe |publisher=Al Jazeera English |date= |accessdate=2013-04-22}}</ref>
+
+==Analysis==
+According to ''[[Euronews]]'', Ólafur's win was seen as having "emboldened a presidential office that had up until then played a mainly ceremonial role."<ref>[http://www.euronews.com/newswires/1572230-icelands-defiant-president-wins-record-fifth-term/ ]{{dead link|date=April 2013}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.kosning.is/forsetakosningar/kjorskra/ District finder]
+*[http://www.reykjavik.is/desktopdefault.aspx/tabid-2784/4398_view-5651/ List of voting centres in Reykjavik]
+
+;Candidates
+*[http://www.andreaolafs.is Andrea Ólafsdóttir]
+
+{{Icelandic elections}}
+
+[[Category:Presidential elections in Iceland|2012]]
+[[Category:2012 in Iceland|Presidential election]]
+[[Category:2012 elections in Europe]]

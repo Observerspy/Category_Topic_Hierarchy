@@ -1,0 +1,47 @@
+{{Use Indian English|date=December 2013}}
+{{Use dmy dates|date=December 2013}}
+{{Earthquake
+|title= 1956 Anjar earthquake
+|date= {{Start date|df=yes|21 July 1956}}
+|map2 = {{Location map | India |relief=1
+ | label=
+ | lat=23.3
+ | long=70.0
+ | mark=Bullseye1.png
+ | marksize=40
+ | position=top
+ | width= 250
+ | float=right
+ | caption=}}
+|magnitude = 6.1 Surface wave magnitude|M<sub>s</sub>
+|depth= 
+|intensity= IX ''(Violent)''
+|location={{coord|23.3|70.0|display=inline,title}}
+|countries affected = India, Gujurat
+|tsunami = 
+|casualties = 	approximately 115 reported dead and 254 injured.
+}}
+
+The  '''1956 Anjar earthquake''' occurred at 15:32 Coordinated Universal Time|UTC on 21 July, which caused maximum damage in town of Anjar, India|Anjar in Kutch, Gujarat, India. It had an estimated magnitude of 6.1 on the surface wave magnitude scale and a maximum perceived intensity of IX on the Mercalli intensity scale.
+
+==Earthquake==
+The epicenter of earthquake of 21 July 1956 was at somewhere between Anjar and Bhadreswar, Kutch|Bhadreshwar, very close to that of 1819 Rann of Kutch earthquake|1819 Kutch earthquake, between 50 to 120&nbsp;km away depending on the epicentral location chosen for the earlier event. It caused considerable damage and casualties, especially in and around town of Anjar, India. The area of maximum damage was of 2000 km<sup>2</sup> and radius of perceptibility was 300&nbsp;km. The cause of earthquake was Fault (geology)|reverse faulting, similar to that which caused the 1819 Rann of Kutch earthquake.
+
+==Damage==
+The town of Anjar and the Taluka of Anjar were the most affected region with 2000 houses damaged, of which half of them were in Anjar town alone. The other towns affected were Bhuj, Kirai, Bhachau, Gandhidham and port town of Kandla. It was estimated that more than 3,000 houses in 25 villages developed huge cracks, losses ran up to Rs 10&nbsp;million. Such devastation wreaked by the quake made it one of the worst calamity to hit Kutch in the past 100 years. More than 8,000 people migrated from the district a few days after the quake. The earthquake was followed by heavy rains, which added to the misery of thousands living in temporary camps.
+
+Anjar, which is a historic town and very congested in the old parts was largely destroyed in this earthquake of 1956. Later, new houses were raised on old foundations, and in due course of time also the new township of Naya Anjar or New Anjar township was founded after this earthquake for rehabilitation purpose. The railway track near Anjar was damaged as the earth gave way over a length of nearly 50 feet, however, other major railway lines, roads, bridges, culverts, were not affected by this earthquake.
+
+==Other events==
+The next major earthquake in the region was of 2001 Gujarat earthquake|26 January 2001, which again was due to a similar style of faulting as the 1819 earthquake.
+
+==References==
+{{Reflist|colwidth=33em}}
+
+Category:Earthquakes in Gujarat|1956
+Category:1956 earthquakes
+Category:Kutch district
+Category:History of Gujarat
+Category:1956 in India
+Category:History of Kutch
+Category:Earthquakes in India|1956

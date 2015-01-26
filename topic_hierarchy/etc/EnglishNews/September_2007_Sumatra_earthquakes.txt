@@ -1,0 +1,68 @@
+{{Earthquake 
+|title=September 2007 Sumatra earthquakes
+|date= {{Start date|2007|9|12|df=y}}
+|map = Sumatra 2007 earthquakes map.gif
+|image name = <small>Map showing the 3 large quakes and 22 pre and aftershocks in a span of 24 hours.</small>
+|magnitude = 8.5 Moment magnitude scale|M<sub>w</sub>
+|depth={{convert|30|km}}
+|location={{coord|4.520|S|101.374|E|type:event}} 
+|countries affected = Indonesia<br />Singapore<br />Malaysia<br />Thailand
+|casualties = 23 killed
+}}
+
+The '''September 2007 Sumatra earthquakes''' were a series of megathrust earthquakes that struck the Sunda Trench off the coast of Sumatra, Indonesia, three greater than magnitude 7.  A series of tsunami bulletins was issued for the area. The most powerful of the series had a Moment magnitude scale|magnitude of 8.5, which makes it in the top 20 of the list of earthquakes|largest earthquakes ever recorded on a seismograph.
+
+== Timeline ==
+The first earthquake occurred at 11:10:26 Coordinated Universal Time|UTC (18:10 UTC+7|local time) on 12 September 2007, and was an 8.5&nbsp;Moment magnitude scale|M<sub>w</sub> earthquake on the moment magnitude scale.  It was centered about 34&nbsp;km underground, at {{coord|4.520|S|101.374|E|type:event}}, about 130&nbsp;km southwest of Bengkulu (city)|Bengkulu on the southwest coast of Sumatra, Indonesia, and some 600&nbsp;km west-northwest of Indonesia's capital city, Jakarta. It was followed by several earthquakes of magnitude&nbsp;5 through 6 along the same fault, west of Sumatra.
+
+The second largest earthquake, 7.9&nbsp;Moment magnitude scale|M<sub>w</sub>, occurred later the same day at 23:49:04 Coordinated Universal Time|UTC (06:49:04 local time the following day).  It was centred about 10&nbsp;km underground, at {{coord|2.506|S|100.906|E|type:event}}, some {{convert|185|km|mi|abbr=on}} south-southeast of Padang, Indonesia and about 205&nbsp;km northwest of Bengkulu (about 225&nbsp;km northwest of the magnitude 8.5 earthquake).
+
+After further aftershocks above magnitude 5, a third earthquake, 7.0&nbsp;Moment magnitude scale|M<sub>w</sub>, occurred at 03:35:26 UTC (10:35:26 local time) on 13 September.  It was centred about 10&nbsp;km underground, at {{coord|2.160|S|99.851|E|type:event}}, some 165&nbsp;km south-southwest of Padang and 345&nbsp;km west-northwest of Bengkulu.
+
+Aftershocks continued into 13 September and 14 September, with more earthquakes ranging up to magnitude 6.4.  Most of the aftershocks have been northwest of the original magnitude 8.5 earthquake.  A 6.7 struck Southern Sumatra on Sept 20, 2007.  
+
+Tidal buoys positioned in the Indian Ocean and other seismic tools have led scientists to issue a series of tsunami bulletins.
+
+==Effects==
+The tremors of the 8.5&nbsp;Moment magnitude scale|M<sub>w</sub> earthquake lasted for several minutes. It caused buildings to sway in Jakarta, and some buildings were reported to have collapsed in the city of Bengkulu (city)|Bengkulu, Bengkulu Province, about 100&nbsp;km from the epicenter. Tremors felt in Jakarta were described as being "violent". The death toll of the earthquakes is 21 with 88 people injured.
+
+Tremors were felt in neighbouring countries as far away as Southern Thailand. In Singapore, which is about 670&nbsp;km from the epicenter, the tremor was felt at around 11:10 UTC (19:10 Singapore Standard Time|local time). Most of the Central Region, Singapore|Central and East Region, Singapore|Eastern part of Singapore has felt the tremor. In Peninsular Malaysia, tremors were reported after 19:15 Malaysian Standard Time|local time, including Kuala Lumpur, Putrajaya, Johor Bahru, Malacca and Penang. Like Singapore, the tremors were most severe on high-rises, resulting in minor panic and evacuations. No casualties were reported in the country, as of 13 September.
+
+==Tsunami==
+Sea level readings indicated that a tsunami was generated. A total of 4 tsunami alerts were issued in 24 hours.  After the first, and largest, earthquake, the Pacific Tsunami Warning Centre issued a tsunami alert for much of the Indian Ocean basin. A tsunami approximately 1&nbsp;metre high was reported at Padang, Indonesia.  A small tsunami, some 15&nbsp;cm high, was reported at the Cocos Islands.  Sumatra was taken off tsunami alert after two hours.
+
+Tsunami warnings were also issued in India and other countries around the Indian Ocean soon after the earthquake. The Government of India asked the states of Tamil Nadu, Kerala, Andhra Pradesh and the union territories of Andaman and Nicobar Islands and Puducherry to be on high alert.
+
+== Tectonic summary ==
+Image:September 2007 Sumatra quake.gif|thumb|right
+According to the US Geological Survey, the earthquake was caused by thrust faulting on the boundary between the Indo-Australian Plate|Australian Plate and the Eurasian Plate|Sunda Plate.  At the location of the earthquake, offshore of the west coast of Sumatra, the Australia plate moves northeast with respect to the Sunda Plate at a velocity of about 69&nbsp;mm/year, oblique to the orientation of the plate boundary. The component of plate motion perpendicular to the boundary produces thrust faulting on the offshore plate-boundary.
+
+The magnitude 7.9 earthquake was also a result of thrust faulting on the same plate boundary.  It occurred about 225&nbsp;km northwest of the magnitude 8.4 earthquake, at the northern end of the aftershock zone.
+
+The magnitude 8.5 earthquake was the most powerful earthquake of 2007 to date, more powerful than the two March 2007 Sumatra earthquakes nearby and the 2007 Peru earthquake. It was the second most powerful earthquake since the magnitude&nbsp;9.3 2004 Indian Ocean earthquake, exceeded only by the magnitude&nbsp;8.6 2005 Sumatra earthquake.  The two largest earthquakes were the fourth and fifth earthquakes with magnitude&nbsp;7.9 or greater to have occurred on or near the plate boundaries offshore of western Sumatra in 7 years, the others being the 2000 Sumatra earthquake|magnitude&nbsp;7.9 earthquake of 4 June 2000; the magnitude&nbsp;9.3 2004 Indian Ocean earthquake on 26 December 2004; and the magnitude&nbsp;8.6 2005 Sumatra earthquake on 28 March 2005.
+
+According to data from the Japanese PALSAR microwave sensor aboard the ALOS|Daichi(ALOS) satellite, South Pagai Island was uplifted, creating 6 new islands, and exposing previously submerged coral reefs as well as enlarging existing islands.
+
+==See also==
+{{wikinews|Massive earthquake strikes Indonesia on September 12}}
+* March 2007 Sumatra earthquakes
+* April 2010 Sumatra earthquake
+
+== References ==
+{{reflist|2}}
+
+== External links ==
+{{coord|4.517|S|101.382|E|display=title|type:event}}
+* http://earthquake.usgs.gov/eqcenter/eqinthenews/2007/us2007hear/ USGS Earthquake Center 8.5 tracking report
+* http://earthquake.usgs.gov/eqcenter/eqinthenews/2007/us2007hec6/ USGS Earthquake Center 7.9 tracking report
+* http://wcatwc.arh.noaa.gov/message622582-01.htm Tsunami Information Statement #1, NOAA/NWS/West Coast and Alaska Tsunami Warning Center
+* http://www.prh.noaa.gov/ptwc/messages/indian/2007/indian.2007.09.12.123044.txt Tsunami bulletin number 003, Pacific Tsunami Warning Center/NOAA/National Weather Service|NWS
+{{Earthquakes in 2007}}
+{{SumatraMegathrust}}
+{{USGS}}
+
+{{DEFAULTSORT:Sumatra Earthquakes, September 2007}}
+Category:2007 earthquakes
+Category:Megathrust earthquakes in Sumatra|2007-09 Sumatra earthquakes
+Category:2007 in Indonesia
+Category:Earthquake swarms

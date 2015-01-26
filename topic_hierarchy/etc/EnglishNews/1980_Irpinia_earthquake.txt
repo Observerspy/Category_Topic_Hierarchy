@@ -1,0 +1,57 @@
+{{Earthquake
+|title= Terremoto dell'Irpinia
+|date= {{Start-date|November 23, 1980}}
+|map2 = {{Location map | Italy
+| relief=1
+| label=
+| lat=40.85
+| long=15.3
+| mark=Bullseye1.png
+| marksize=40
+| position=top
+| width= 250
+| float=right
+| caption=}}
+|magnitude = 6.89 Magnitude Moment magnitude scale|M<sub>w</sub>
+|depth=
+|location={{coord|40.85|N|15.28|E|region:IT-AV_type:event|display=inline,title}}
+|countries affected = {{ITA}}
+|tsunami =
+|casualties = 2,914 dead, > 10,000 injured}}
+
+The '''1980 Irpinia earthquake''' took place in the Irpinia region in Southern Italy on Sunday, November 23, 1980. Measuring 6.89 on the Richter Scale, the quake, centered on the village of Conza, killed 2,914 people, injured more than 10,000 and left 300,000 homeless. It is known in Italy as '''Terremoto dell'Irpinia''' (''Irpinian earthquake'').
+
+==Event==
+The quake struck at 18:34 UTC. The first jolt was followed by 90 aftershocks. Towns in the province of Avellino were hit the hardest. In Sant'Angelo dei Lombardi, 300 died including 27 children in an orphanage and eighty percent of the town was destroyed. One hundred were killed in Balvano when a medieval church collapsed during Sunday services. The towns of Lioni, Conza di Campania (near the epicenter), and Teora were destroyed, and dozens of structures in Naples were levelled, including a 10-story apartment building. Damage was spread over more than 26,000&nbsp;km?, including Naples and Salerno.
+
+==Rebuilding==
+The Italian government spent 59,000 1,000,000,000,000 (number)|billion (or 59 thousand milliard) Italian lira|lire on reconstruction, while other nations sent contributions. West Germany contributed 32 million United States dollars (USD) and the United States 70 million USD.
+
+However, in the early nineties a major corruption scandal emerged of the billions
+
+==Notes==
+
+
+==Footnotes==
+{{Reflist|2}}
+
+==References==
+* Translated from :it:Terremoto dell'Irpinia
+* Other sources: Facts on File 1980 Yearbook p893
+
+==External links==
+*http://www.23novembre1980.it History and documents - audio of the earthquake {{it icon}}
+*http://emidius.mi.ingv.it/DOM/pianiquot.php?record=1587&studio=POA85 INGV - sismica Map {{it icon}}
+*http://www.agendaonline.it/terremotoirpinia/ Memory and Images Earthquake 1980 {{it icon}}
+*http://carlogesualdo.altervista.org/pagine/terremoto_irpinia_1980.htm Earthquake 1980 Gesualdo {{it icon}}
+*http://emidius.mi.ingv.it/DOM/pianiquot.php?record=1587&studio=POA85 Map and locality list of affected area {{it icon}}
+*{{citation |title=Dank für die deutsche Hilfe |url=http://www.abendblatt.de/extra/service/944949.html?url=/ha/1980/xml/19801204xml/habxml801012_7712.xml |date=1980-12-04 |publisher=Hamburger Abendblatt}} {{de icon}}
+
+{{Earthquakes in 1980}}
+
+{{DEFAULTSORT:Irpinia Earthquake, 1980}}
+Category:1980 earthquakes
+Category:1980 in Italy
+Category:History of Campania|1980 Earthquake
+Category:Earthquakes in Italy|1980 Irpinia
+Category:Geology of Italy

@@ -1,0 +1,764 @@
+{{Use dmy dates|date=April 2011}}
+{{Infobox Election
+| election_name      = French presidential election, 2007
+| country            = France
+| type               = presidential
+| ongoing            = no
+| previous_election  = French presidential election, 2002
+| previous_year      = 2002
+| next_election      = French presidential election, 2012
+| next_year          = 2012
+| election_date      = 21–22 April and 5–6 May 2007
+| image1             = [[File:Flickr - europeanpeoplesparty - EPP Summit October 2010 (105).jpg|200x200px]]
+| nominee1           = [[Nicolas Sarkozy]]
+| party1             = Union for a Popular Movement
+| popular_vote1      = '''18,983,138'''
+| percentage1        = '''53.06%'''
+| image2             = [[File:Meeting Royal 2007 02 06 n11.jpg|200x200px]]
+| nominee2           = [[Ségolène Royal]]
+| party2             = Socialist Party (France)
+| popular_vote2      = 16,790,440 	
+| percentage2        = 46.94%
+| map_image          = 2007-présidentielle.png
+| map_size           = 280px
+| map_caption        = Results of the second round: the candidate with the majority of votes in each of the 36,784 [[communes of France]]. Nicolas Sarkozy: <span style="color:#4169e1;">blue</span>; Ségolène Royal: <span style="color:hotPink;">pink</span>. All territories are shown at the same geographic scale.
+| title              = President
+| before_election    = [[Jacques Chirac]]
+| before_party       = Union for a Popular Movement
+| after_election     = [[Nicolas Sarkozy]]
+| after_party        = Union for a Popular Movement
+}}{{Politics of France}}
+The '''2007 French presidential election''', the ninth of the [[Fifth French Republic]] was held to elect the successor to [[Jacques Chirac]] as [[President of the French Republic|president]] of France for a five-year term.
+
+The winner, decided on 5 and 6 May 2007, was [[Nicolas Sarkozy]]. The first round of voting took place on Saturday, 21 April 2007 (French territories in the Americas and the Eastern Pacific) and Sunday, 22 April 2007 (French territories in the Western Pacific, Indian Ocean, and [[Metropolitan France]]). As no candidate obtained a [[majority]] (50 percent plus one), a [[Two-round system|second round]] between the two leading candidates, [[Nicolas Sarkozy]] and [[Ségolène Royal]], took place on Saturday, 5 May and Sunday, 6 May 2007.
+
+Sarkozy and Royal both represented a generational change. Either candidate would have become the first French president to be born after World War II,<ref>{{cite news | agency=Associated Press | title = Voting begins in presidential election in France |work=International Herald Tribune | date = 22 April 2007 | url = http://www.iht.com/articles/ap/2007/04/22/europe/EU-POL-France-Election.php | accessdate = 29 April 2007}} "Either way, France will get its first president born after World War II, since both Royal and Sarkozy are in their fifties."</ref> the first to have seen adulthood under the [[French Fifth Republic|Fifth Republic]] and the first not to have been in politics under [[Charles de Gaulle]].
+
+==Summary of results==
+The first round saw a very high turnout of 83.8% – 36.7&nbsp;million of the 44.5&nbsp;million [[constituency|electorate]] voted from a [[demographics of France|population]] of 64.1&nbsp;million (not including French people living abroad).<ref>Including children and non-registered people (citizens and non-citizens)</ref><ref name=Libe>[http://www.liberation.fr/actualite/politiques/elections2007/ Elections 2007]{{dead link|date=April 2012}} on the website of ''[[Libération]]'' {{fr icon}}</ref><ref>[http://news.bbc.co.uk/1/hi/world/europe/6582541.stm France left with clear choice], ''[[BBC]]'', 23 April 2007 {{en icon}}</ref> The results of that round saw Sarkozy and Royal qualify for the second round with Sarkozy getting 31% and Royal 26%. [[François Bayrou]] came third (19%) and [[Jean-Marie Le Pen]] fourth (10%), unlike [[French presidential election, 2002|in 2002]] when Le Pen got a surprising 16.9% and qualified for the second round.<ref name=MondeResults>[http://www.lemonde.fr/web/vi/0,47-0@2-823448,54-899922@51-899913,0.html Results] from ''[[Le Monde]]'' {{fr icon}}</ref>
+
+Immediately after the first round's results were made official, four defeated left-wing candidates – [[José Bové]], [[Marie-George Buffet]], [[Arlette Laguiller]] and [[Dominique Voynet]] – urged their supporters to vote for Royal.<ref>[http://www.news24.com/News24/World/News/0,,2-10-1462_2102972,00.html French left rallies behind Royal: World: News: News24]{{dead link|date=April 2012}}</ref> This was the first time since 1981 that Laguiller had endorsed the Socialist Party's candidate.<ref>{{cite web|url=http://www.asiantribune.com/index.php?q=node/5436 |title=French presidential election: Sarkozy and Royal to compete in second round |publisher=Asian Tribune |date=23 April 2007 |accessdate=13 June 2010}}</ref> [[Olivier Besancenot]] called his supporters to vote against Sarkozy.<ref>[http://besancenot2007.org/spip.php?rubrique19 Déclaration d’Olivier Besancenot] {{fr icon}}</ref> [[Frédéric Nihous]] and [[Gérard Schivardi]] never officially supported either Royal or Sarkozy. [[Philippe de Villiers]] called for a vote for Sarkozy.<ref>[http://www.lemonde.fr/web/depeches/0,14-0,39-30659299@7-354,0.html Philippe de Villiers appelle à voter pour Nicolas Sarkozy], ''[[Le Monde]]'', 25 April 2007 {{fr icon}}</ref> Le Pen told his voters to "abstain massively" in the second round.<ref>{{cite web| url=http://news.monstersandcritics.com/europe/news/article_1298683.php/Le_Pen_tells_his_supporters_to_abstain_in_French_election |title=Le Pen tells his supporters to abstain in French election |date=1 May 2007 |accessdate=2 May 2007}}</ref>
+
+On 25 April, Bayrou declared he would not support either candidate in the runoff,<ref>[http://www.sfgate.com/cgi-bin/article.cgi?f=/n/a/2007/04/25/international/i065134D16.DTL&type=politics Bayrou Refuses to Endorse Candidate]{{dead link|date=April 2012}}, ''[[Sfgate]]'', 25 April 2007 {{en icon}}</ref> and announced he would form a new political party called the [[Democratic Movement (France)|Democratic Movement]].  He criticised both major candidates, and offered to debate them.  Royal agreed to hold a televised debate, while Sarkozy offered to have a private discussion but not a televised [[French presidential debates|debate]].<ref>[http://www.lemonde.fr/web/video/0,47-0@2-823448,54-901898,0.html François Bayrou refuse de donner une consigne de vote], (video), ''[[Le Monde]]'', 25 March 2007 {{fr icon}}</ref>
+
+By around 6:15&nbsp;pm local time on 6 May, Belgian and Swiss news sources such as ''[[Le Soir]]'',<ref>{{cite web|url=http://www.lesoir.be/ |title=actu |publisher=lesoir.be |date= |accessdate=13 June 2010}}</ref> [[RTBF]],<ref>{{cite web|url=http://evenement.rtbf.be/ |title=RTBF – EVENEMENT – Elections fédérales 10 juin 2007 |publisher=Evenement |date= |accessdate=13 June 2010}}</ref> '' [[La Libre Belgique]]''<ref>{{cite web|url=http://www.lalibre.be/ |title=Comprendre c'est déjà agir |publisher=Lalibre.be |date= |accessdate=13 June 2010}}</ref> and ''[[Tribune de Genève|La Tribune de Genève]]''<ref>{{cite web|url=http://www.tdg.ch/ |title=Tribune de Genève |publisher=Tdg.ch |date= |accessdate=13 June 2010}}</ref> had announced Nicolas Sarkozy as the winner of the second round, citing preliminary exit poll data. The final CSA estimate showed him winning with 53% of the votes cast. Royal conceded defeat to Sarkozy that evening.<ref>[http://news.bbc.co.uk/2/hi/europe/6630797.stm Sarkozy takes French presidency], ''[[BBC News]]'', 6 May 2007</ref>
+
+==Results==
+[[File:Affiches presidentielles fr 2007.3.png|center|500px|Electoral posters for the first round]]
+
+
+{{French presidential election, 2007}}
+
+==First round and analysis==
+[[File:French presidential election, 2007 1st.svg|thumb|Results of the first round]]
+[[File:French presidential election result first round 2007.svg|right|Results of the first round in  [[Metropolitan France]]: the candidate with the plurality of votes in each administrative division. Sarkozy: <span style="color:#4169e1;">blue</span>; Royal: <span style="color:hotPink;">pink</span>; Bayrou: <span style="color:#ff8c00;">orange</span>|thumb]]
+Nationwide, Nicolas Sarkozy obtained 31% and Ségolène Royal 26% – while in 2002, [[Jacques Chirac]] had obtained 20%, and [[Lionel Jospin]] 16.18%. The right-of-centre François Bayrou obtained 18.6% this time, nearly tripling his 2002 result (6.8%). National Front (FN) candidate, Jean-Marie Le Pen, made only 10.4%, compared to his stunning 16.9% finish in 2002. Along with the April–May shift to the far right made by Sarkozy, this has led many commentators to allege that traditional voters of the FN had been tempted by Sarkozy.<ref>Jean-Luc Porquet, "Le Pen refait et contre-fait", ''[[Le Canard enchaîné]]'', 25 April 2007 (n°4513)</ref><ref name=SarkozyRFI>[http://www.rfi.fr/actufr/articles/076/article_43254.asp Sarkozy et les immigrés «qui n'aiment pas» la France], ''[[Radio France Internationale|RFI]]'', 24 April 2006 {{fr icon}}</ref> On a global scale, the left-wing reached 36% of the votes, against 19% for the "centre", 33% for the right wing and 11% for the [[History of far-right movements in France|far right]].
+
+Other candidates received a much lower share of the vote than they had in 2002, with [[Olivier Besancenot]] ([[Revolutionary Communist League (France)|Revolutionary Communist League]], LCR) failing to achieve the 5% necessary to have his political campaign reimbursed by the state. Besancenot received 4.1%, compared to 4.3% in 2002. He was followed by the traditionalist [[Philippe de Villiers]] (2.2%), Communist [[Marie-George Buffet]] (1.9%, compared to 3.4% for [[Robert Hue]] in 2002), Green candidate [[Dominique Voynet]] (1.6%, compared to 5.3% for [[Noël Mamère]] in 2002), [[Workers' Struggle]]'s candidate [[Arlette Laguiller]] (1.3%, compared to 5.7% in 2002), [[alter-globalisation]] candidate [[José Bové]] (1.3%), [[Frédéric Nihous]] (1.2% <!--official current result-->, against 4.2% for [[Jean Saint-Josse]] in 2002) and finally [[Gérard Schivardi]] with 0.3% ([[Daniel Gluckstein]] had achieved 0.5% in 2002). The [[abstention]] rate was 15.4%.
+
+With an overall record [[Voter turnout|turnout]] of 83.8%, a level not achieved since the [[French presidential election, 1965|1965 presidential election]] when turnout was 84.8%, the vast majority of the electorate decided not to stay home. Most of them decided against [[protest vote]]s, and chose the ''vote utile'' ([[tactical voting]], literally "useful vote"), that is, a vote for one of the purported leaders of the electoral race (Nicolas Sarkozy, Ségolène Royal and/or François Bayrou). The "Anyone But Sarkozy" push benefited both Bayrou and Royal,<ref name=Clivage/> while the tactical voting, on the right or on the left, explains the low score of the other candidates, in contrast with the last presidential election's first round.
+
+The electoral campaign saw a polarisation of the political scene, encapsulated by the "Anyone But Sarkozy" slogan on the left. But it also saw a reconfiguration of the political chessboard, with various left-wing figures and voters deciding to support Sarkozy against Royal, who saw opposition inside her own party. [[Bernard Tapie]], a former Socialist, [[Max Gallo]], who had supported left-wing Republican [[Jean-Pierre Chevènement]] in 2002, [[Eric Besson]],<ref>[http://www.liberation.fr/actualite/politiques/elections2007/249395.FR.php Besson, le traître étalon]{{dead link|date=April 2012}}, ''[[Libération]]'', 23 April 2007 {{fr icon}}</ref> etc., passed on Sarkozy's side. On the other hand, some right-wing voters, upset by Sarkozy's attitude on law and order, immigration, and even genetics (his recent declarations on [[paedophilia]], homosexuality and suicides as [[genetics|genetically]] induced, denounced by the geneticist [[Axel Kahn]]<ref>[http://www.humaniteinenglish.com/article552.html For France’s Right-Wing Candidate, “Paedophiles are born, not made”], ''[[L'Humanité]]'', 4 April 2007 (transl. 26 April) {{en icon}}</ref><ref>Dialogue between [[Nicolas Sarkozy]] and [[Michel Onfray]] in ''[[Philo Mag]]'', [http://www.philomag.com/article,dialogue,nicolas-sarkozy-et-michel-onfray-confidences-entre-ennemis,288.php Confidences entre ennemis] {{fr icon}}</ref><ref>[http://www.lemonde.fr/web/article/0,1-0@2-823448,36-892092,0.html Les propos sur la génétique de Nicolas Sarkozy suscitent la polémique], ''[[Le Monde]]'', 4 April 2007 {{fr icon}}</ref><ref>[http://www.lemonde.fr/web/article/0,1-0@2-823448,36-894367@51-823770,0.html Tollé dans la communauté scientifique après les propos de Nicolas Sarkozy sur la génétique], ''[[Le Monde]]'', 11 April 2007 {{fr icon}}</ref><ref>''[[Le Canard enchaîné]]'', "Le Gay Savoir de Sarko", 18 April 2007</ref>), decided to vote for Bayrou. Centrist figures of the Socialist party, such as [[Michel Rocard]] and [[Bernard Kouchner]], called for an alliance between Bayrou and Royal, which might have had consequences in the [[French legislative elections, 2007|June 2007 legislative elections]] – these determined the [[parliamentary majority]], and decided that France would not see another ''[[cohabitation (government)|cohabitation]]'' between the President, head of state, and the Prime minister, leader of the government. Former socialist minister [[Claude Allègre]] stated such an alliance was "entirely conceivable", while Royal herself strongly criticised Rocard's comments. [[François Hollande]], the national secretary of the Socialist Party and Ségolène Royal's partner, excluded any alliance with the centre-right, along with others left-wing leaders, such as [[Laurent Fabius]] or [[Dominique Voynet]].<ref>[http://www.humaniteinenglish.com/article555.html A Look behind the Operation for an Alliance of the Center], ''[[L'Humanité]]'', 17 April 2007 (transl. 19 April) {{en icon}}</ref>
+
+===Urban votes===
+[[File:Election MG 3468.JPG|thumb]]
+[[File:Isoloir2007.JPG|thumb|Voting booth in [[Vaulnaveys-le-Haut]].]]
+In urban areas, most lower and middle-income neighbourhoods and cities voted largely for Ségolène Royal. In the [[10th arrondissement of Paris|tenth arrondissement of Paris]], Royal obtained 42% against 25% for Sarkozy, and 20.35% for Bayrou; in the [[11th arrondissement of Paris|11th arrondissement]], Royal obtained more than 40.8% to 25.8% for Sarkozy and 20.9% for Bayrou. In the [[XVIIIe arrondissement|18th arrondissement]], Royal obtained 41.1% against 23.4% for Sarkozy; in the [[19th arrondissement of Paris|19th arrondissement]], Royal obtained more than 39%, against almost 28% for Sarkozy; and in the [[20th arrondissement of Paris|20th arrondissement]], Royal obtained 42.4% against 23.2% for Sarkozy, and 18.3% for Bayrou. Royal also narrowly beat Sarkozy in the normally conservative city of [[Bordeaux]] (31.4% against 30.8%, and 22% for Bayrou), as well as in [[Brest, France|Brest]], [[Caen]], [[Clermont-Ferrand]], [[Grenoble]], [[Nantes]], [[Rouen]], [[Lille]], [[Le Mans]],  [[Montpellier]], [[Saint-Étienne]], [[Limoges]], [[Amiens]], [[Pau, Pyrénées-Atlantiques|Pau]] (where Bayrou finished first), [[Rennes]] and  [[Toulouse]] (the historical base of the former [[Radical-Socialist Party (France)|Radical-Socialist Party]]). Working-class Paris suburbs (called ''les [[banlieue]]s'') also massively voted for Royal. This was more or less expected, in particular with the high level of voter registration by suburban youths, who had been strongly opposed to Sarkozy since the [[2005 civil unrest in France|2005 riots]] during which he had made controversial remarks. Meanwhile, a large number of university students had participated in the [[2006 labor protests in France|protests against the CPE]], proposed by Sarkozy's UMP party, in the spring of 2006; they also strongly backed Royal. She consequently came first in [[Nanterre]], with almost 36% against 23% for Sarkozy. She reached 41.6% in [[Saint-Denis]], against 19.6% for Sarkozy and 15.5% for Bayrou. In [[Évry, Essonne|Évry]], she also passed the 40% line, while Sarkozy received only 23.6%. In [[Créteil]], she won a closer race, gaining 35% to Sarkozy's 30% and 18% for Bayrou. In the department of [[Seine-Saint-Denis]], home to many people of immigrant origin, Royal obtained 34.2% to 26.8% for Sarkozy and 16.7% for Bayrou.
+
+In contrast, wealthy [[arrondissements of Paris]] voted for Sarkozy. The prosperous [[16th arrondissement of Paris|16th arrondissement]] gave him 64% of its vote, against 16.4% for Bayrou and only 11.27% for Royal; the [[7th arrondissement of Paris|seventh arrondissement]] voted for 56% in favour of Sarkozy, to 20.35 for Bayrou and 15.35% for Royal; the [[8th arrondissement of Paris|eighth arrondissement]] voted at more than 58% for Sarkozy to 18.65% for Bayrou and 14% for Royal; the [[15th arrondissement of Paris|15th arrondissement]] voted 41.5% for Sarkozy against 24.3% for Royal and 22.9% for Bayrou. The mostly wealthy Paris suburbs of the [[Hauts-de-Seine]] department, home of [[Neuilly-sur-Seine]] where Sarkozy is [[Mayor (France)|mayor]], voted 38.3% for him, against 26% for Royal and 21.3% for Bayrou. Sarkozy also won in the [[Essonne]] department (more than 31% against 27% for Royal), in the [[Seine-et-Marne]] (33.5% to almost 24% for Royal) as well as in the [[Yvelines]] (37.7% against 23% for Royal and 22% for Bayrou).
+
+[[Marseille]], the second-largest city of France, went Sarkozy's way overall as he won 34.25% of the vote to 27.1% for Royal and only 14.1% for Bayrou (putting a close third ahead of Le Pen, who obtained 13.4%). However, in working-class neighbourhoods of the north of Marseille, such as Savine ([[15th arrondissement of Marseille|15th arrondissement]]) and the Busserine ([[14th arrondissement of Marseille|14th arrondissement]]), Royal received overwhelming support, receiving 60% of the vote in Busserine.
+
+France's third-largest city, [[Lyon]], also was won by Sarkozy, who received 34.5% of the vote to 27.3% for Royal and 22% for Bayrou. He triumphed as well in the wealthy city of [[Aix-en-Provence]] with 36.8%, against 25.4% for Royal and 19.8% for Bayrou. In [[Nice]], a conservative stronghold, Sarkozy obtained more than 41% against 20.4% for Royal and less than 15% for Bayrou. Sarkozy also narrowly beat Royal in the industrial port of [[Le Havre]] (29% against 26.8%), as well as in [[Avignon]], [[Nîmes]], [[Metz]], [[Nancy, France|Nancy]], and [[Strasbourg]] (these last three cities belonging to the [[Alsace-Lorraine]] region).
+
+===Regional votes===
+[[File:2007 presidential france official posters.jpg|thumb|Official posters for the first round of vote near a polling station in rural France.]]
+A map of France's departments shows the candidate of the Socialist Party, Ségolène Royal, came first in the South-West and the [[Massif Central]], which were traditional bases of the [[Radical-Socialist Party]] during the [[French Third Republic|Third Republic]]. She also topped the poll in [[Brittany (administrative region)|Brittany]], except in the department of [[Morbihan]], but a fifth of electors in Brittany voted for Bayrou.<ref>[http://agencebretagnepresse.com/fetch.php?id=6740&title=PRESIDENTIELLES,%20RESULTATS%20DEFINITIFS%20EN%20BRETAGNE Présidentielles, résultats définitifs en Bretagne], ''[[Agence Bretagne Presse]]'', 23 April 2007</ref> [[Nièvre]] and [[Seine-Saint-Denis]] were other departments where she came first, as well as the overseas departments of [[Martinique]] and [[Réunion]] and the overseas territory of [[Saint Pierre and Miquelon]]. Sarkozy came first everywhere else, except for [[Pyrénées-Atlantiques]], where Bayrou topped the poll in the department of his birth.
+
+The left regressed, compared 2002, in the [[Nord-Pas-de-Calais]] region, which has traditionally favored Socialist and Communist candidates. The [[Nord (French department)|Nord department]], hit hard during the 1980s by an industrial crisis, gave a plurality to Sarkozy (29.3%), while Royal won 24.8% (and won the city of [[Lille]]) and Bayrou received 15.6%. [[Marie-George Buffet]] barely received 5% in the constituency of the Communist deputy [[Alain Bocquet]].
+
+The [[Haute-Garonne]], traditional Radical-Socialist territory, voted (including its capital, Toulouse), for Ségolène Royal, giving her 33%, against less than 27% for Sarkozy and slightly more than 19% for Bayrou. The [[Corrèze]], where Jacques Chirac began his political career as the deputy of [[Ussel, Corrèze|Ussel]], also voted slightly in favour of Royal, as did the [[Creuse]], one of the least-populated departments of France.
+
+[[File:Fr073.png|thumb|left|Results of candidates with over 3% of votes in the first round, by [[departments of France|departments]] of [[Metropolitan France]].]]
+
+The [[Alpes-Maritimes]], part of the [[Provence-Alpes-Côte d'Azur]] region where the National Front won several cities in the 1990s ([[Toulon]] of the [[Var (department)|Var]], [[Marignane]] of the [[Bouches-du-Rhône]] and [[Orange, Vaucluse|Orange]] of the [[Vaucluse]]) voted for Sarkozy at 43.6%, while Royal received only 17.9%, Bayrou 15.0%, and Jean-Marie Le Pen 13.5%. The [[Vaucluse]] department gave 32.8% of its votes to Sarkozy, 20.9% to Royal, 16.8% to Le Pen and 15.5% to Bayrou.
+
+The [[Vendée]] voted 29.7% for Sarkozy, 21.7% for Royal, 20.8% for Bayrou, and 11.3% for [[Philippe de Villiers]], deputy of the department. Le Pen. meanwhile, managed only 6.5%.
+
+Le Pen's highest departmental tallies occurred in [[Aisne]] (17.3%) and [[Haute-Marne]] (17%). Other departments to gave him more than 15% were the [[Vaucluse]] (16.8%), [[Haute-Saône]] (16.5%), [[Meuse]] (16.3%), [[Ardennes]] (16.2% – where far-left candidate Besancenot received 5.35%), [[Pas-de-Calais]] (16%), [[Oise]] (15.9%), [[Corse-du-Sud]] (15.9%), [[Vosges (department)|Vosges]] (15.7%), and [[Gard]] (15.4%),
+
+Departments where Besancenot obtained more than 5% of the vote include [[Ardennes]], Aisne (where Le Pen also achieved a strong results), [[Ariège]], Allier (where Sarkozy obtained 28% against nearly 26% for Royal), [[Calvados]] (where Sarkozy finished first with 29% to 25% for Royal), [[Finistère]], Cher, [[Côtes d'Armor]], Creuse, [[Indre]], Meurthe-et-Moselle, [[Nord (French department)|Nord]], Meuse, [[Moselle]], Pas-de-Calais (6.2%), [[Sarthe]], Nièvre, [[Puy-de-Dôme]], Somme, [[Territoire-de-Belfort]], Seine-Maritime, [[Haute-Vienne]] and the [[overseas collectivity]] of [[Saint Pierre and Miquelon]] (6.5%, along with 5.1% for José Bové; only 6.7% for Le Pen).
+
+The [[overseas departments and territories of France|overseas department]] of [[Martinique]] has been strongly opposed to Sarkozy; [[Aimé Césaire]], [[Mayor (France)|mayor]] of [[Fort-de-France]] and leader of the ''[[Négritude]]'' movement, refused to see him during his visit there in December 2005 (due to the UMP vote of the [[French law on colonialism|2005 law on colonialism]]<ref>[http://www.lemonde.fr/web/recherche_breve/1,13-0,37-925792,0.html Aimé Césaire refuse de recevoir Nicolas Sarkozy], ''[[Le Monde]]'', 7 December 2005 {{fr icon}}</ref>). In the first round, it heavily supported Royal (48.5%, against 33.8% for Sarkozy and only 8.6% for Bayrou; the next highest total was received by Besancenot, with 2.5%). [[Réunion]] also strongly supported Royal (46.2%, to 25% for Sarkozy and 13% for Bayrou). Meanwhile, Sarkozy won in [[New Caledonia]] (with 49.7% of the vote) and in [[Guadeloupe]] (with 42.6%, against 38.3% for Royal), as well as in [[French Guiana]] and the overseas territories of [[French Polynesia]] and [[Wallis and Futuna]].
+
+===Demographic breakdown of the first-round vote===
+''Source: [[IPSOS]], see [http://www.humanite.fr/journal/2007-05-05/2007-05-05-850796 Sociologie du vote du 1er tour]{{dead link|date=April 2012}}, ''[[L'Humanité]]'', 5 May 2007.''
+
+30% of men voted for Sarkozy, 24% of them for Royal. 32% of women voted Sarkozy, 27% Royal. 29% of 18–24 years-old voted Royal, against 26% for Sarkozy. Sarkozy also made a higher score for 35–44 years-old and 60–69 years-old, but a lesser score in the 45–59 years-old category.
+
+36% of farmers voted Sarkozy against 8% for Royal. Workers voted at similar levels for both Sarkozy and Royal (21% for each), while public servants voted at 34% for Royal (18% for Sarkozy). 19% of unemployed people voted for Sarkozy, 32% of them for Royal. Students also voted in majority for Royal (32% against 21%), while pensioned elders voted at 41% for Sarkozy (23% for Royal).
+
+==Second round==
+[[File:2007-présidentielle.png|thumb|300px|Results of the second round: the candidate with the majority of votes in each of the 36,784 [[communes of France]]. Nicolas Sarkozy: <span style="color:#4169e1;">blue</span>; Ségolène Royal: <span style="color:hotPink;">pink</span>. All territories are shown at the same geographic scale.]]
+[[File:Nicolas Sarkozy Concorde P1200828.jpg|thumb|Nicolas Sarkozy supporters celebrate on the [[Place de la Concorde]] in Paris]]
+[[File:Segolene Royal supporters P1200770.jpg|thumb|Supporters of Ségolène Royal awaiting the results, 8 pm, in front of the headquarters of the Socialist Party in Paris]]
+
+The second round of the 2007 French presidential election started in [[Saint Pierre and Miquelon]] on Saturday, 5 May 2007 at 8&nbsp;am local time (2007-05-05 10:00 UTC) and ended in the large cities of [[Metropolitan France]] on Sunday, 6 May 2007 at 8&nbsp;pm local time (2007-05-06 18:00 UTC). [[Voter turnout|Turnout]] in the second round of the election was 84.0%, higher than in the first round. Nicolas Sarkozy got 53.06% of the votes and Ségolène Royal got 46.94%.
+
+The [[left and right in politics|left-right division]] was reinforced, according to many observers, by the election of Nicolas Sarkozy.<ref name=Clivage>[http://www.lefigaro.fr/election-presidentielle-2007/20070508.FIG000000070_un_clivage_droite_gauche_renforce.html Analyse : un clivage droite-gauche renforcé]{{dead link|date=April 2012}}, by Eric Dupin in ''[[Le Figaro]]'', 8 May 2007 {{fr icon}}</ref> 91% of the electors self-identifying as members of the centre-left voted for Royal, and 92% of those who self-identified as centre-right voted for Sarkozy.<ref name=Clivage/> The center thus appears to be submitted to the left-right polarization.<ref name=Clivage/> The vast majority of the far-left also voted for Royal, while their far-right counterparts strongly supported Sarkozy.<ref name=Clivage/> Although Jacques Chirac was successful among young electors [[French presidential election, 1995|in 1995]], mostly due to his discourse on the "social rupture" (''fracture sociale''), Sarkozy's electorate is more traditionally right-wing and focused on older people.  The only age group that gave him a majority was the over-50, who account for 52% of his voters, compared to only 37% of Royal's.<ref name=Clivage/> Sarkozy obtained only 40% among those 18–24 years old, while Chirac had obtained 55% in the same category in 1995.<ref name=Clivage/>
+
+In social categories, Sarkozy won majorities among pensioned and inactive elders (58%), CEOs, negotiants and craftworkers (82% <!-- chefs d'entreprises, artisans et commerçants-->), categories which are traditionally conservative.<ref name=Clivage/> Sarkozy lost votes, compared to Chirac, among workers (59% for Royal) and employees (58% for Royal).<ref name=Clivage/>
+
+The general electoral geography did not significantly change from the first Chirac election. However, Sarkozy received a lesser score in [[Corrèze]], Chirac's home department, and bettered Chirac's score in the North-East, where Le Pen had obtained some of his better scores in 2002.<ref name=Clivage/> Overall, the increase in votes for Sarkozy between the two rounds occurred mostly in departments where the [[National Front (France)|National Front]]'s presence is strong.<ref name=Clivage/>
+
+Spoilt votes represented 4.2% of the electors (as much as in 2002 and 1995).<ref name=Clivage/>
+
+==Electoral issues==
+The election campaign raised a number of issues:
+* '''Jobs and unemployment''' – France has long had an [[unemployment rate]] officially close to 10%, down to below 9% in 2007. Employment, and employment conditions, are a perennial concern for the French (see [[Economy of France]] and [[Poverty in France]]).
+* '''European disunity''' – The presidential election followed the [[Treaty establishing a Constitution for Europe|EU Constitution]] [[French referendum on the European Constitution|rejection vote]] in 2005, which threw into question the future direction of the European Union.
+* '''International politics''' – A majority in France approved of President [[Jacques Chirac]]'s opposition to the [[2003 invasion of Iraq]] by the United States. Sarkozy is considered as pro-Washington, while Royal, although seen as probably also in line with Washington, is thought to be more moderate.{{Citation needed|date=May 2007}} Left-wing intellectual [[Régis Debray]]'s metaphor was that Sarkozy was like a direct flight to Washington, D.C., while Royal was a flight to Washington with a stop-off in [[Oslo]], referring to her European inclinations.<ref name=Debray>[[Régis Debray]], [http://www.lemonde.fr/cgi-bin/ACHATS/acheter.cgi?offre=ARCHIVES&type_item=ART_ARCH_30J&objet_id=978049 La Coupe de l'Elysée 2007], ''[[Le Monde]]'', 23 February 2007 {{fr icon}}</ref> Chirac's public opposition to the [[Iraq War]] should however be relativised, as he toned down his criticisms after a while. Furthermore, he has involved French [[War in Afghanistan (2001–present)|troops in Afghanistan]] and agreed, immediately after the [[11 September 2001 attacks]], on increased cooperation between Western intelligence services, materialised by the creation of [[Alliance Base]] in the centre of Paris, a joint international [[Counterterrorist Intelligence Center|Counterterrorist Intelligence Centre]].
+* '''Law and order''' – During the 2002 campaign, [[Law and order (politics)|law and order]] came to the forefront, especially with respect to unruly youths from [[Social situation in the French suburbs|poor suburbs]]. In late 2005, in some of these suburbs [[2005 civil unrest in France|significant unrest]] erupted. Again, law and order was a forefront issue, mainstream candidates tackled the problem of reining in unruly youngsters. Sarkozy proposed measures for harsher criminal procedure for youngsters, while Royal proposed to send unruly youths to centres under military discipline.<ref>''[http://www.humanite.presse.fr/journal/2006-10-04/2006-10-04-837931 Ségolène Royal, pour « l’ordre juste »]{{dead link|date=April 2012}}'', [[L'Humanité]], 4 October 2006; ''[http://www.liberation.fr/actualite/evenement/evenement1/234627.FR.php Les 100 proposiions de Ségolène Royal]{{dead link|date=April 2012}}'', [[Libération]], 12 février 2007, proposition 52</ref> Sarkozy's attitude has been widely criticised on the left, and also by the UMP minister [[Azouz Begag]], who defected his party to support Bayrou following Sarkozy's management of the autumn 2005 crisis.<ref>[http://www.humaniteinenglish.com/article538.html 2007 Presidential Campaign: Humiliated, the "Beur" Minister Defects ... to the Right], ''[[L'Humanité]]'', 16 March 2007 (transl. 30 March) {{en icon}}</ref>
+* '''Immigration''' – The issue of [[demographics of France|immigration in France]] has split France. The number of [[deportation]]s more than doubled since 2002, with Sarkozy as Minister of the Interior from 2002 to 2004 and 2005 to 2007.<ref>[http://www.lemonde.fr/web/infog/0,47-0@2-823448,54-888207@51-863813,0.html Les reconduites à la frontière en France depuis 1990], ''[[Le Monde]]'', 26 March 2007 {{fr icon}}</ref> Sarkozy declared in April 2006 that immigrants who did not "like France" should "leave it."<ref name="SarkozyRFI"/> Opponents have labelled Sarkozy's attitude as repressive, in particular towards [[Illegal immigration|illegal immigrants]],<ref>[http://www.humanite.presse.fr/journal/2005-11-10/2005-11-10-817627 Répression: Sarkozy s’en prend aux immigrés]{{dead link|date=April 2012}}, ''[[L'Humanité]]'', 10 November 2005 {{fr icon}}</ref><ref>[http://www.lemonde.fr/web/article/0,1-0@2-823448,36-890443@51-823374,0.html Nicolas Sarkozy fait de la sécurité un thème majeur de la campagne], ''[[Le Monde]]'', 1 April 2007 {{fr icon}}</ref> materialised by numerous police raids against [[Alien (law)|illegal aliens]], strongly opposed by the left.<ref>[http://www.monde-diplomatique.fr/carnet/2005-09-21-M-Sarkozy-contre-l-anti-France M. Sarkozy contre l’anti-France], ''[[Le Monde diplomatique]]'', 26 September 2005 {{fr icon}}</ref> The main problem concerns illegal immigrants (''sans-papiers'', "without documents") who cannot obtain [[work permit]]s without proper immigration documents and are therefore mostly found in the [[informal economy]] – construction, restaurants, etc. Although the [[right of foreigners to vote]] was a classic claim of the left-wing, it has not been an important issue of the campaign. On the other hand, Sarkozy has declared himself in favour of [[affirmative action]] which has been widely contested both on the left and on the right, on grounds that it would favour ''communautarisme'' – separation of communities – along ethnic lines, and that it means taking into account ethnic alleged memberships in statistics, which is legally prohibited and not done by the [[INSEE]]. Left-wingers argued in favour of social actions not based on ethnic factors, but on geographical situation and equality of territory; however, the traditional [[Moral universalism|Universalism]] of the French Republicans has also been criticised on the left-wing by some intellectuals supporting a middle-ground between Republican universalism and [[multiculturalism]].<ref name=Balibar>[[Étienne Balibar]], [http://www.liberation.fr/actualite/politiques/elections2007/245943.FR.php «Royal, pour faire échec à la droite»]{{dead link|date=April 2012}}, ''[[Libération]]'', 6 April 2007 {{fr icon}}</ref>
+* '''The Far Right''' – The [[French National Front|National Front]], long dismissed as a fringe party, stunned many when its leader, [[Jean-Marie Le Pen]], reached the second round of the [[French presidential election, 2002|2002 elections]]. Le Pen's points of focus – law and order and immigration – are now openly taken up by politicians such as [[Nicolas Sarkozy]]. Ironically, Le Pen on 12 April criticised Sarkozy for being Hungarian and asked if he should run for the [[president of Hungary]].<ref>{{cite news| url=http://news.independent.co.uk/europe/article2437270.ece | work=The Independent | location=London | title=Le Pen's mask slips as he plays the race card against Sarkozy | first=John | last=Lichfield | date=10 April 2007 | accessdate=2 May 2010}}{{dead link|date=April 2012}}</ref><ref>{{cite web|url=http://ejpress.org/article/15764 |title=EJP &#124; France’s extreme-right candidate evokes Sarkozy’s immigrant roots |publisher=Ejpress.org |date=10 April 2007 |accessdate=13 June 2010}}</ref> Le Pen is 79 years old, the same age which [[Charles de Gaulle]] was when he stepped down from the presidency in 1969. His approval rating in opinion polls markedly increased after France's [[2005 civil unrest in France|riots in 2005]]. As a counterweight, the Left and the cultural elite and athletes (like [[Lilian Thuram]]) have risen to oppose Sarkozy's response to the riots.
+* '''Anti-neoliberalism and Disarray of left-wing parties''' – During the [[French presidential elections, 2002|2002 presidential elections]], a number of left-wing candidates ran for office, which, according to commentators, was one reason for the defeat of Socialist candidate [[Lionel Jospin]]. Jospin blamed in particular [[Jean-Pierre Chevènement]]'s candidacy, as well as [[Christiane Taubira]]'s one. However, others commentators have criticised Jospin's attitude and the policies of the PS, which account, according to them, for the low score of Jospin. Inheritor of the [[French Section of the Workers' International]] (SFIO), the PS is historically [[social-democrat]], while the [[French Communist Party]] (PCF) is a governmental party, which participated in Jospin's ''[[Gauche plurielle]]'' (Plural Lefts) government (with ministers such as [[Jean-Claude Gayssot]], etc.). In this sense, the PCF does not consider itself a far-left party, to the contrary of the Revolutionary Communist League (LCR) or [[Workers' Struggle]] (LO). But the PCF does consider itself part of the "[[Far-right politics|anti-liberal]]" coalition, which opposed the [[Treaty establishing a Constitution for Europe]] (TCE). Inside the [[French Socialist Party]] (PS, ''Parti socialiste'') itself, [[Laurent Fabius]] headed the minority who opposed the treaty. However, the victory of the "No" during the [[French European Constitution referendum, 2005|May 2005 referendum]] on the TCE hasn't been exploited yet by the left parties or organisations which supported it. The main topic of the non-PS left-wings was to try to choose a single candidate for the "anti-liberal" Left, which opposes [[neo-liberalism]]. This eventually failed, and the far-left was represented by [[French presidential election, 2007#Other candidates|four competing candidates]], Marie-George Buffet, Olivier Besancenot, José Bové and Arlette Laguiller.<ref>[http://www.humaniteinenglish.com/article473.html What Future for the Anti-liberal Movement?], ''[[L'Humanité]]'', 22 December 2006 (transl. 25 December) {{en icon}}</ref><ref>[http://www.humaniteinenglish.com/article502.html José Bové – One Candidacy Too Many or a Miracle Candidate?], analysis in ''[[L'Humanité]]'', 2 February 2007 (transl. 23 February) {{en icon}}</ref> "
+* '''High-level political scandals and disrepute''' – A number of scandals have tainted various French politicians, including president [[Jacques Chirac]] (see [[Corruption scandals in the Paris region]]), with some, such as former prime minister [[Alain Juppé]], being convicted. The recent [[Clearstream]] affair was exposed as a case of forgery and denunciations involving major politicians from the ruling UMP coalition.
+* '''Feminism''' – France's first woman president had the opportunity to be elected in 2007 – [[Ségolène Royal]], a Socialist, ran following her selection on 16 November 2006 as the candidate for the [[Socialist Party (France)|Socialist Party]].
+* '''Environment''' – The environmental party, the Greens, are low in the polls, but [[Nicolas Hulot]], a presenter of an environmentally themed television show, is very popular and had considered running. Many parties, from the left to the right, were interested in his support.
+* '''Labour''' – Both Royal and Sarkozy called for "[[Workforce|labour]]" to be respected as a value, although the meaning of this is somewhat open to very different interpretations.
+* '''Housing and homelessness'''. Following political actions by the [http://www.lesenfantsdedonquichotte.com/v2/index.php Enfants de Don Quichotte NGO], who set up tents for [[homeless]] people by the [[Canal Saint-Martin]] in Paris and elsewhere, in December 2006, the problem of homelessness was at the centre of the campaign for a period of time. The death of veteran campaigner [[Abbé Pierre]] a short time afterward increased the focus on the issue.
+* '''Religion and communautarisme'''. Sarkozy has opposed both the left-wing and Chirac on the issue of [[Religion in France|religions]], adopting a stance critical of [[state secularism]] and of the [[1905 French law on Separation of the State and the Church|1905 law on Separation of the State and the Church]]. His creation of the [[French Council of the Muslim Faith]] (CFCM) was strongly criticised as giving an official voice to the more radical sectors of organised Islam.
+*'''Bayrou's candidacy'''. [[François Bayrou]], leader of the [[Union for French Democracy]] (UDF) centre-right party, decided to present himself as a centrist candidate. He opposed in particular the [[Union for a Popular Movement]] (UMP) party led by Sarkozy. Critics have pointed-out that Bayrou and his party voted along with the UMP parliamentary majority on nearly all cases.<ref>[http://www.humaniteinenglish.com/article543.html Bayrou’s Journey to the Heart of the Chirac-d’Estaing Machine], ''[[L'Humanité]]'', 9 March 2007 (transl. 11 April) {{en icon}}</ref> Bayrou's trend is generally considered to be the inheritor of the [[Christian-Democrat]] [[Popular Republican Movement|MRP]].
+
+==Officially proposed policies==
+*'''Europe'''
+**''[[Ségolène Royal]]'' ([[Socialist Party (France)|Socialist Party]]) proposed a referendum on a new European treaty for 2009. She declared she would request guarantees on the social policies followed by the European Union, in particular by reaching an agreement with German chancellor [[Angela Merkel]] on the controversial role of the [[European Central Bank]] – contrary to the [[Federal Reserve System|U.S Federal Reserve]], the ECB has an ''exclusive role'' to counter inflation. Royal stated she would negotiate with European partners in order to include [[economic growth]] and employment as aims within the ECB's policies.<ref name=MondeRoyal/>)<ref name=EuropeRoyal>[http://www.lemonde.fr/web/articleinteractif/0,41-0@2-823448,49-895888,0.html Europe : le programme des candidats] (Royal), ''[[Le Monde]]'', 13 March 2007 {{fr icon}}</ref>
+**''[[Nicolas Sarkozy]]'' ([[Union for a Popular Movement]]) proposed a simplified European treaty which would be ratified by the French Parliament instead of being submitted to a referendum. He also declared himself against the rule of [[unanimity]] in European decisions and opposed the [[accession of Turkey to the European Union]].<ref name=EuropeSarkozy>[http://www.lemonde.fr/web/articleinteractif/0,41-0@2-823448,49-895888@45-3371,0.html Europe : le programme des candidats] (Sarkozy)''[[Le Monde]]'', 13 March 2007 {{fr icon}}</ref> Furthermore, he said he would argue in favour of revaluing the euro, increasing the European defence budget and creating a European Foreign Affairs Minister.<ref name=MondeSarkozy>[http://www.lemonde.fr/web/articleinteractif/0,41-0@2-823448,49-822922@45-3054,0.html Les principales propositions de Nicolas Sarkozy], ''[[Le Monde]]'', 16 March 2007 {{fr icon}}</ref>
+*'''International policies'''
+**''Royal'' proposed a new EU-led [[List of Middle East peace proposals|peace proposal in the Middle East]].<ref name=BBC_Policies>[http://news.bbc.co.uk/1/hi/in_depth/629/629/6523279.stm Royal, Sarkozy and Bayrou: The policies], ''[[BBC]]'', 11 April 2007 {{en icon}}</ref> She also declared herself in favour of a [[Force de frappe|nuclear deterrent power]], increased European cooperation on military matters, relaunching the [[Euromediterranean Partnership]] (Barcelona Process) and promoting [[generic drug]]s in [[developing countries]].<ref name=MondeRoyal/>
+**''Sarkozy'' pledged to maintain the defence budget at its current level; develop new weapons; create a [[national security council]], which would respond to the President of the Republic; launch a reflection on nuclear deterrence; limit French military presence in Africa; maintain a firm policy concerning the [[Iranian nuclear programme]], enacted in the frame of the UN.<ref name="MondeSarkozy"/>
+*'''Economic and social policies'''
+**''Royal'' promised a [[minimum wage]] (known as the ''salaire minimum interprofessionnel de croissance'', or SMIC) of 1,500 euros, with 90 percent of salary for year after losing job.<ref name=BBC_Policies/> She declared herself for the repeal of the [[Contrat Nouvelle Embauche|CNE]] employment contract.<ref name=MondeRoyal>[http://www.lemonde.fr/web/articleinteractif/0,41-0@2-823448,49-822922@45-3053,0.html Les principales propositions de Ségolène Royal], ''[[Le Monde]]'', 16 March 2007 {{fr icon}}</ref> She declared herself for the reimbursement of public aid to companies who [[offshoring|offshored]] themselves, and would not support with public money firms that implement [[Layoff|downsizing]] plans.<ref name=MondeRoyal/>
+**''Sarkozy'' proposed to the contrary to adapt the [[35-hour workweek]] previously established by PS minister [[Martine Aubry]] during [[Lionel Jospin]]'s government by promoting overtime work.
+*'''Energy and environment'''
+**''Royal'' stated she would cut dependency on [[Nuclear power in France|nuclear power]] and would aim to have [[renewable energy]] provide at least 20 percent of France's electricity before 2020.<ref name=BBC_Policies/> She also said she would create a public pole of energy around [[Électricité de France|EDF]] and [[Gaz de France|GDF]] (this is directly count to the GDF-[[Suez (company)|Suez]] merger and announced in 2006 by the government of [[Dominique de Villepin]], which involved [[privatisation]]).<ref name=MondeRoyal/>
+**''Sarkozy'' said he would develop nuclear technologies and increase the [[Ecotax|tax on pollution]].<ref name=BBC_Policies/> He also said he would promote [[international law]] on [[Natural environment|environment]].<ref name=MondeSarkozy/>
+*'''Unemployment'''
+**''Royal'' promised that no youth will stay unemployed for more than six months without receiving a publicly supported job or training.<ref name=MondeRoyal/> She also said she would create zero-interest [[loan]]s to youth.<ref name=MondeRoyal/>
+*'''Health'''
+**''Royal'' said she would emphasise [[occupational safety and health]]; sanction physicians who refuse [[Couverture maladie universelle|CMU patients]]; re-establish free medicine for illegal aliens;<ref name=MondeRoyal/> create a plan of research on rare diseases; grant a weekly free medical consultation for those 16–25 years old; free [[birth control]] for women under 25.<ref name=MondeRoyal/>
+*'''Housing'''
+**''Royal'' declared herself for a construction project of 120,000 [[council house|council homes]] a year to cut the "housing crisis" as well as a private [[Rent control|rent cap]] and lifelong guarantee of housing (in the continuation of the debate on the ''[[droit au logement]]'', right to housing, on the model of Scotland's [[List of Acts of the Scottish Parliament from 1999|2003 Homelessness Act]]). She said she would simplify procedures for [[Eviction|evicting]] people who were deliberately not paying their rent; and would facilitate the purchase of council housing by people who have rented it for 15 years.<ref name=MondeRoyal/>
+**''Sarkozy'' promised to provide assistance for those who want to buy their council homes and to eradicate [[homelessness]] within two years<ref name=BBC_Policies/>
+*'''Immigration'''
+**''Royal'' declared herself in favour of granting [[Permanent residency|residency papers]] (i.e. of regularisation of the status of illegal aliens) if they have a [[work permit]] and reside in France for a sufficient time.<ref name=BBC_Policies/>
+**''Sarkozy'' promised to cut immigration flux and favour "chosen immigration" (i.e. "qualified immigration").<ref name=BBC_Policies/>
+*'''Taxes'''
+**''Royal'' said she would not increase general taxation, would lighten burden on employment-creative firms and "consolidate" the 35-hour week, a goal which would pass by decreasing its negative effects.<ref name=MondeRoyal/><ref name=BBC_Policies/> She said she would modulate tax on companies depending on if they use it for re-investment or to redistribute the profits to the [[shareholders]].<ref name=MondeRoyal/> She also declared she would simplify the procedures to create new firms and better social protection for employers.<ref name=MondeRoyal/>
+**''Sarkozy'' promised to cut taxes by four percent, increase the exemption for [[inheritance tax]] to 95% and grant a "right to work for more than 35 hours.".<ref name=BBC_Policies/>
+*'''Law and order'''
+**''Royal'' said she would force young offenders to military-like education.<ref name=BBC_Policies/> She promised to double the budget of the [[Minister of Justice (France)|Minister of Justice]], strengthen security on public transport, promote a law against [[domestic violence]], reinforce judicial aid processes and create an independent organ of surveillance of the state of prisons.<ref name=MondeRoyal/>
+**''Sarkozy'' declared himself in favour of minimum terms for [[recidivism|reoffenders]] and tougher sentences on [[Juvenile delinquency|juvenile offenders]].<ref name=BBC_Policies/>
+*'''Culture and Media'''
+**''Royal'' promised to support the [[tertiary sector]] of [[Culture in France|culture]]. She also pledged to take measures against [[concentration of media ownership]] and tax private TV companies ([[TF1]], [[Métropole 6|M6]], etc.) to support public companies ([[France Télévisions]], [[Arte]], etc.).<ref name=MondeRoyal/>
+**''Sarkozy'' promised free entry to national museums; to increase the budget of the [[Minister of Culture (France)|Minister of Culture]]; to remove blocks to private patronage of the arts; to force public TV to increase the amount of cultural shows; to support [[authors' rights]] (''droit d'auteur'') and other [[copyright]] protections ([[DADVSI]]); and to support [[free software]].<ref name=MondeSarkozy/>
+*'''Research'''
+**''Royal'' said she would increase the research budget by 10% and increase the budget for universities to the extent that, within five years, it would reach the average of [[OECD]] countries.<ref name=MondeRoyal/>
+**''Sarkozy'' said he would increase by 40% the budget dedicated to research by 2012.<ref name=MondeSarkozy/>
+*'''Budget'''
+**''Royal'' said a 2.5% expected [[economic growth]] would finance her promises.<ref name=BBC_Policies/>
+**''Sarkozy'' gave assurances he would cut the costs of the [[French Civil Service]], which account for 45% of the budget.<ref name=BBC_Policies/>
+*'''Institutional reforms'''
+**''Royal'' said she would grant the [[right of foreigners to vote]] in local elections.<ref name=MondeRoyal/> She would repeal the veto of the [[Senate of France|Senate]] in constitutional matters.<ref name=MondeRoyal/> She declared herself in favour of the addition of a ''[[laïcité]]'' charter (secular charter) to the Constitution.<ref name=MondeRoyal/>
+**''Sarkozy'' said he would establish minimum service in the public administration (thus restricting [[right of strike]]); cut unneeded government bodies; increase the productivity of the public administration; insure state expenses by taxes only; a two-term [[Term limit|limit]] for the president; organise the responsibility of the President before the Parliament; limit the number of ministers to 15; non-replacement of one civil servant out of two which retires and increase of wages and training in the public administration.<ref name=MondeSarkozy/>
+*'''LGBT Issues'''
+**''Royal'' proposed introducing a bill to legalize [[same-sex marriage]] and [[gay adoption]].<ref>[http://www.365gay.com/Newscon06/06/061906france.htm ]{{dead link|date=June 2010}}</ref>
+** ''Sarkozy'' voiced opposition to both gay marriage and adoption, although he favours civil unions for same-sex couples.<ref>{{cite web|url=http://www.gay.com/news/election/article.html?2007/02/22/6 |title=gay.com |publisher=gay.com |date= |accessdate=13 June 2010}}</ref> He maintained, however, close ties to MP [[Christine Boutin]], known for her anti-gay views.
+
+==Schedule for the election==
+*22 February 2007: The decree convoking the election was published in the [[Journal officiel de la République française]].<ref>{{cite web|url=http://www.legifrance.gouv.fr/WAspad/UnTexteDeJorf?numjo=INTX0700024D |title=Decree n°2007-227 of 21&nbsp;February 2007 |language= fr |publisher=Legifrance.gouv.fr |date= |accessdate=13 June 2010}}</ref>
+*16 March 2007 – 18:00 (16:00 [[UTC]]): Deadline for candidates to have obtained the 500 sponsors from elected officials in at least 30 different [[Departments of France|departments]] or overseas territories which are required to run for president.<ref>{{cite web|url=http://www.elysee.fr/elysee/anglais/the_president/his_function/6_questions_about_the_president/6_questions_about_the_president.20030.html |title=6 questions about the president |publisher=Elysee.fr |date= |accessdate=13 June 2010}}</ref>
+*19 March 2007 – 17:30 (15:30 UTC): Official candidate list was announced by the [[Constitutional Council of France|Constitutional Council]]: 12 candidates.<ref name="cc">{{cite web|url=http://www.conseil-constitutionnel.fr/decision/2007/20070319/index.htm |title=Decision of 19 March 2007, of the Constitutional Council |publisher=Conseil-constitutionnel.fr |date= |accessdate=13 June 2010}}</ref>
+*9 April 2007: Official campaign started.
+*20 April 2007: Official campaign ended.
+*21 April 2007: '''First round of voting''' started in [[Saint Pierre and Miquelon]] at 8&nbsp;am local time (10:00 UTC) and subsequently took place in [[Guadeloupe]], Martinique, [[French Guiana]], [[French Polynesia]], and in voting offices in [[embassy|embassies]] and consulates in the Americas.
+*22 April 2007: '''First round of voting''' took place in [[Wallis and Futuna]], [[New Caledonia]], Réunion, [[Mayotte]], [[Metropolitan France]], and in voting offices in embassies and consulates in Oceania, Asia, Africa and Europe – the last polling stations closed in the large cities of Metropolitan France at 8&nbsp;pm local time (18:00 UTC) and publication of the first exit polls were allowed immediately after they closed.
+*25 April 2007: Official results of the first round announced.
+*27 April 2007: Official candidate list for second round announced.<ref>[http://www.conseil-constitutionnel.fr/dossier/presidentielles/2007/documents/tour2/20070426.htm]{{dead link|date=April 2012}}</ref>
+*2 May 2007 – 21:00 (19:00 UTC): Nationally televised [[French presidential debates|debate]] between the two candidates.
+*5 May 2007: '''Second round of voting''' started in [[Saint Pierre and Miquelon]] at 8&nbsp;am local time (10:00 UTC) and subsequently took place in [[Guadeloupe]], Martinique, [[French Guiana]], [[French Polynesia]], and in voting offices in [[embassy|embassies]] and consulates in the Americas.
+*6 May 2007: '''Second round of voting''' took place in [[Wallis and Futuna]], [[New Caledonia]], Réunion, [[Mayotte]], [[Metropolitan France]], and in voting offices in embassies and consulates in Oceania, Asia, Africa and Europe – the last polling stations closed in the large cities of Metropolitan France at 8&nbsp;pm local time (18:00 UTC) and publication of the first exit polls were allowed immediately after they closed.
+*10 May 2007: Official results of the second round announced.
+*16 May 2007 – Midnight (22:00 UTC):  Expiration of the term of president [[Jacques Chirac]].
+
+==Candidates==
+
+===Requirements===
+[[File:French presidential elections 2007 Paris Place dItalie 12 candidates.jpg|thumb|right|500px|The official campaign: the posters for the 12 candidates]]
+:''Reference: [http://www.conseil-constitutionnel.fr/dossier/presidentielles/2007/faq/p01.htm Constitutional Council, FAQ]{{dead link|date=April 2012}}''
+{{further|President of the French Republic}}
+The requirements for being [[nomination rules|successfully nominated as a candidate]] are defined by the organic law of 6 November 1962.<ref>[http://www.conseil-constitutionnel.fr/dossier/presidentielles/2007/documents/lopdr62.htm]{{dead link|date=April 2012}}</ref>
+
+All candidates must be of French nationality and at least 23 years old (the same requirement as for the candidates to the [[National Assembly of France|National Assembly]]).
+
+Candidates must obtain signatures from 500 elected officials (mayors, members of Parliament, elected representatives) supporting their candidacy.  These signatures from elected officials (informally known in French as ''parrainages'', but legally known as "presentations") must be from at least 30 different [[Departments of France|departments]] or overseas territories, and no more than 10 percent can be from any individual department. A presentation from an elected official does not imply the official supports the policies of the candidate, but rather that this official considers the candidate to be a serious candidate.
+
+Candidates must also submit a statement with details of their personal assets.
+
+The [[Constitutional Council of France|Constitutional Council]] published the official candidate list on 20 March 2007. The candidates are listed in a [[randomisation|randomised]] order. This order will be used for the official campaign: thus, posters for Olivier Besancenot will always be on the #1 board, those for Marie-George Buffet on the #2 board, etc., regardless of where in France the boards are located.
+
+There were a total of 12 candidates for the 2007 election.<ref name="cc" />
+
+===Leading candidates===
+Four candidates consistently registered over 10% in the opinion polls and were regarded as having a reasonable chance of reaching the second round.<ref>[http://www.baltimoresun.com/news/nationworld/bal-te.france09mar09,0,2949377.story?coll=bal-nationworld-headlines 3-way presidential race building in France]{{dead link|date=June 2010}}</ref>
+* [[Nicolas Sarkozy]] was nominated by the [[Union for a Popular Movement]] on 14 January 2007.  He is the leader of the UMP and was [[Minister of the Interior (France)|Interior Minister]] until stepping down to focus on his campaign on 26 March 2007.<ref>[http://newsmax.com/archives/articles/2007/3/21/92845.shtml?s=os France's Jacques Chirac Backs Nicolas Sarkozy]. 21 March 2007.</ref>
+* [[Ségolène Royal]] was selected by the [[French Socialist Party|Socialist Party]] on 17 November 2006 to be the party's candidate for the election.   She won 60.6% of the votes in a ballot of party members to choose their candidate, against 20.8% for [[Dominique Strauss-Kahn]] and 18.5% for [[Laurent Fabius]]. She is the first woman to represent a major French party in a presidential contest.
+* [[François Bayrou]] was nominated by the [[centrism|centrist]] [[Union for French Democracy]] (UDF) on 2 December 2006.
+*[[Jean-Marie Le Pen]] ran for the [[National Front (France)|National Front]], a far-right party which promotes policies of strong law enforcement, economic [[protectionism]] and strong measures to control immigration.  As during previous presidential campaigns, Le Pen raised the question of whether he would be able to obtain the necessary 500 signatures on a number of occasions, which he claims is the result of pressure placed on elected officials by the major parties to support their own candidate (he has often claimed, during past elections, that "political elites" have sabotaged his campaigns); however, on 14 March 2007 his party said that he had obtained the necessary signatures.<ref>{{cite news|url=http://news.bbc.co.uk/1/hi/world/europe/6449711.stm |title=France's Le Pen 'to run' in poll, BBC |publisher=BBC News  |date=15 March 2007 |accessdate=13 June 2010}}</ref>
+
+<center><gallery>
+Image: Flickr_-_europeanpeoplesparty_-_EPP_Summit_October_2010_%28105%29.jpg|[[Nicolas Sarkozy]] candidate of the [[Union for a Popular Movement]]
+Image:Meeting Royal 2007 02 06 n11.jpg|[[Ségolène Royal]] candidate of the [[Socialist Party (France)|Socialist Party]]
+Image:Bayrou-thiez-17-07-2006-054.jpg|[[François Bayrou]] candidate of the [[Union for French Democracy]]
+Image:Jean-Marie Le Pen 479834203 5030701e77 o.jpg|[[Jean-Marie Le Pen]] candidate of the [[National Front (France)|National Front]]
+</gallery></center>
+
+===Other candidates===<!-- This section is linked from [[French presidential election, 2007]] -->
+These were the eight other candidates who obtained the required 500 signatures from elected officials to endorse their candidacy.
+
+* [[Olivier Besancenot]]: [[Revolutionary Communist League (France)|Revolutionary Communist League]]
+* [[José Bové]]: Leftist environmentalist who ran on an [[alter-globalisation]] platform<ref>[http://edition.cnn.com/2007/WORLD/europe/03/16/france.election.ap/ 11 French hopefuls make deadline]{{dead link|date=June 2010}}</ref>
+* [[Marie-George Buffet]]: [[French Communist Party|Communist Party]]
+* [[Arlette Laguiller]]: [[Workers' Struggle]]
+* [[Frédéric Nihous]]: [[Hunting, Fishing, Nature, Tradition|Hunting, Fishing, Nature, Tradition Party]]
+* [[Gérard Schivardi]]: styled himself as "the mayors' candidate", supported by the [[Workers' Party (France)|Workers' Party]]
+* [[Philippe de Villiers]]: president of the [[Movement for France]] party ran on a traditionalist Catholic and [[eurosceptic]] platform, and with a firm anti-Islamic message.
+* [[Dominique Voynet]]: [[The Greens (France)|Green Party]].
+
+<center><gallery>
+Image:Olivier Besancenot - Airbus public demonstration in Toulouse 0346 2007-03-06.jpg|[[Olivier Besancenot]]
+Image:José Bové - Meeting in Toulouse for the 2007 French presidential election 0188 2007-04-18 cropped.jpg|[[José Bové]]
+Image:Marie-George Buffet cropped.jpg|[[Marie-George Buffet]]
+Image:Arlette Laguiller - Meeting in Toulouse for the 2007 French presidential election 0021 2007-04-18.jpg|[[Arlette Laguiller]]
+Image:Frédéric Nihous - Langon 2007 - p1 cropped.jpg|[[Frédéric Nihous]]
+Image:Schivardi écharpe tricolore Bureau Mailhac.jpg|[[Gérard Schivardi]]
+Image:Philippe de Villiers - Meeting in Toulouse for the 2007 French presidential election 0165 2007-04-16 cropped.jpg|[[Philippe de Villiers]]
+Image:Dominique Voynet - Anti-EPR demonstration in Toulouse 0261 2007-03-17 cropped.jpg|[[Dominique Voynet]]
+</gallery></center>
+
+===Confirmed non-candidates===
+*President [[Jacques Chirac]] announced on 11 March 2007 that he would not be standing for another term as president.  It had been rumoured that President Chirac was considering running for a third term, following statements he made at the beginning of 2007, including his New Year's Address on 31 December 2006, and subsequent speeches which contained robust comments on international policy and detailed national policy proposals with a suggested five-year timetable.<ref>{{cite news| url=http://news.bbc.co.uk/1/hi/world/europe/6234759.stm |publisher=BBC News  | title=Chirac renews attack on Iraq war | date=5 January 2007 | accessdate=2 May 2010}}</ref> In March, Chirac announced his support for Sarkozy.<ref>{{cite news|url=http://news.bbc.co.uk/2/hi/europe/6474573.stm |title=Chirac Backs Sarkozy in Poll Race |publisher=BBC News  |date=21 March 2007 |accessdate=13 June 2010}}</ref>  There was no provision at the time in the [[Constitution of France|Constitution of 1958]] specifying a limited number of terms, though a third term would have been unprecedented under the [[French Fifth Republic|Fifth Republic]].
+*[[Christine Boutin]] announced that she would not be a candidate for the election and pledged her support for [[Nicolas Sarkozy]] (source: [[France 2]] news, 2 December 2006).
+*[[Rachid Kaci]], member of the UMP and President of the group Free Right (la Droite Libre), announced his withdrawal as candidate and also pledged to support Nicolas Sarkozy on 21 December 2006 during a UMP public Forum.
+*MRC chairman [[Jean-Pierre Chevènement]] announced on 10 December 2006 that he would not be running, and that his movement would back Ségolène Royal in return for an electoral agreement in the 2007 general election.
+*Candidate for the [[Left Radical Party|Radical Party]], [[Christiane Taubira]] in the 2002 election, confirmed that she would not be running following an electoral agreement between her party and the Socialist Party.  The Left Radicals in return will support Ségolène Royal.
+*[[Nicolas Hulot]], television presenter and environmental activist, was widely considered to be a possible candidate following the positive media and public reaction to his recent book and Environmental Charter.  On 3 January 2007 ''[[Le Figaro]]'' newspaper reported that supporters of Hulot had begun gathering signatures to mount a campaign and a website,<ref>http://nicolashulot2007.org/</ref> was created to generate support. On 22 January he announced that he will not be a candidate.
+*[[Corinne Lepage]], environmentalist politician and activist, withdrew her candidacy in favour of Bayrou on 10 March 2007.<ref>{{cite web|url=http://www.lemonde.fr/web/depeches/0,14-0,39-30072777@7-37,0.html |title=Les Dépêches |publisher=Le Monde.fr |date= |accessdate=13 June 2010}}</ref>
+* [[Roland Castro]], architect and "utopian left" activist, withdrew his candidacy on 12 March 2007.
+* [[Édouard Fillias]]: [[Alternative Libérale]], a new French libertarian party, withdrew his candidacy on 13 March 2007 in favour of Bayrou.<ref>{{cite web|url=http://www.lemonde.fr/web/depeches/0,14-0,39-30104084@7-354,0.html |title=Les Dépêches |publisher=Le Monde.fr |date= |accessdate=13 June 2010}}</ref>
+* [[Antoine Waechter]]: [[Independent Ecological Movement]], withdrew his candidacy on 14 March 2007
+
+===Did not get enough endorsements===
+* [[Yves-Marie Adeline]]
+* [[Yves Aubry (French politician)|Yves Aubry]]
+* [[Soheib Bencheikh]]
+* [[Jacques Cheminade]]
+* [[Nicolas Dupont-Aignan]]: former member of [[Union for a Popular Movement]], announced on RTL radio on 10 January 2007 that he had obtained approximately 310 promises for signatures to validate his candidacy and intended to stand on a '[[Souverainism|sovereigntist]]' platform, against further European integration through the EU.
+* [[France Gamerre]]: [[Génération Écologie]]
+* [[Nicolas Miguet]] : right-wing businessman, press publisher and [[tax protester]], he was accused of running a scam in order to obtain the 500 endorsements. He was arrested and freed on bail. Announced that he would support François Bayrou.
+* [[Rachid Nekkaz]]
+
+==Legal issues and freedom of speech==
+[[File:French presidential election P1200051.jpg|thumb|left|Official campaign posters of candidates often were vandalised.]]
+
+Apart from issues related to TV and radio time regulated by the broadcasting authorities during the two-week "official campaign", other legal issues related to freedom of speech of candidates appeared during the month before the first round.
+
+* Prominent political commentator [[Alain Duhamel]] was suspended in 2006 after a video was published on [[DailyMotion]], where he stated his personal  intentions of voting for François Bayrou.
+
+* Candidate Gérard Schivardi was banned from calling himself ''le candidat des maires'' ("the candidate of the mayors"). The 2 April 2007 judicial injunction<ref>[[s:fr:Ordonnance de référé rendue le 2 avril 2007 contre Gérard Schivardi|2 April 2007 Injunction by Isabelle Nicole]], first vice-president of the Paris court of large claims</ref> was requested by the Association of French Mayors, who feared that the candidate might be perceived as officially endorsed by the country's [[Mayor (France)|mayors]]. As a result, he was unable to use the 25&nbsp;million electoral flyers already printed, which he claims will cost his campaign [[€]]300,000.<ref>[[Reuters]], [http://www.lemonde.fr/web/depeches/0,14-0,39-30374115@7-37,0.html 2 April 2007]</ref> Thus he styled himself as "the candidates of mayors" or "candidate of some mayors" ("''de'' ''maires"'' rather than "''des'' ''maires"'' – see [[United Nations Security Council Resolution 242#Semantic dispute]] for an analogy of this difference between ''de'' and ''des'').
+
+[[File:Ensemble rien est possible sarkozy.jpg|thumb|right|A pro-Sarkozy sticker, after being defaced, in Paris, France. (Translation: "''Together, NOTHING is possible.''")]]
+* Using the three colours of the national flag (blue, white, and red) on electoral advertisements or partisan documentation is prohibited by electoral regulations.<ref>Electoral code, [http://www.legifrance.gouv.fr/WAspad/UnArticleDeCode?commun=&code=CELECTOM.rcv&art=R27 article R27]: "Posters and flyers, having an electoral goal or character, and including some combination of the three colours blue, white, and red (except the reproduction of an emblem of a party or political group), are prohibited"</ref> Ségolène Royal contended that the book ''Ensemble'' ("together") published by Nicolas Sarkozy, whose cover is blue, white and red,<ref>Nicolas Sarkozy, ''Ensemble'', Xo, 3 April 2007, ISBN 2-84563-345-9</ref> is effectively an electoral partisan documentation and should be covered by this prohibition.<ref>''[http://www.lemonde.fr/web/article/0,1-0@2-823448,36-891681,0.html M. Sarkozy et Mme Royal se rendent coup pour coup]{{dead link|date=April 2012}}'', [[Le Monde]]</ref>
+
+* François Bayrou proposed the idea of organising a "debate over the Internet" between the four leading candidates, in order to circumvent the obligation of TV and radio channels to provide equal times to all twelve candidates. However, Nicolas Sarkozy was opposed to such a debate, believing it would be illegal.<ref>[[Reuters]], [http://www.lemonde.fr/web/depeches/0,14-0,39-30409086@7-37,0.html 5 April 2007]</ref>
+
+* French law prohibits publishing the results of opinion polls related to the election during the day of the election and the preceding day, so as to prevent undue influencing of the vote.<ref>[http://www.legifrance.gouv.fr/texteconsolide/PPEAE.htm Law 77-808 of 19 July 1977]{{dead link|date=April 2012}}, article 11, as amended by [http://www.legifrance.gouv.fr/WAspad/UnTexteDeJorf?numjo=INTX0100196L law 2002-214 of 19 February 2002]</ref> No estimate can be given before Sunday 8&nbsp;pm, when the last voting office closes and official counts begin to be released. However, media from neighbouring countries, which are not bound by these regulations, have long broadcast estimates ([[Télévision Suisse Romande]] in particular). In 2007, the issue took a particular importance because of the generalisation of blogs and Internet pages. Journalist [[Jean-Marc Morandini]] stirred turmoil when he announced his intention of publishing results on his blog as soon as 18:00.<ref>{{cite web|url=http://www.jeanmarcmorandini.com/news.php?id=4713 |title=Résultats à 18h: Et si on sortait de la polémique stérile ? |publisher=Jeanmarcmorandini.com |date= |accessdate=13 June 2010}}{{dead link|date=April 2012}}</ref> Another problem was that the results from the voting offices in the Americas (consulates and French overseas possessions) were counted on Saturday night,<ref>{{cite web|url=http://www.conseil-constitutionnel.fr/dossier/presidentielles/2007/documents/operations/operations.htm
+|title=Consel Constitutionnel – Election Presidentielle 2007
+|accessdate=6 May 2007
+|language=French}}{{dead link|date=April 2012}}</ref> and some began circulating rumours as to these results.
+
+==Abstention and spoilt votes==
+
+[[Abstention]] was exceptionally low, as well as [[protest vote]]s. [[Blank vote]] (going to vote, but deliberately cancelling one's ballot, by any means possible – tearing it in two, writing [[Tintin (character)|Tintin]] on it, or anything absurd as such) is not included in official counts – i.e. it is considered a [[spoilt vote]], counted as equivalent to abstention. A very small party, the ''[[Parti Blanc]]'' (White Party, for "white vote", i.e. blank vote) has called for the official count of white votes by the state (as in [[None of the above]] systems). It organised a march in Paris on Wednesday 18 March 2007 in which only thirty people participated.<ref>[http://www.lemonde.fr/cgi-bin/ACHATS/985304.html?offre=ARCHIVES&type_item=ART_ARCH_30J&objet_id=985304 Le Parti blanc voudrait légitimer les bulletins vierges], ''[[Le Monde]]'', 20 April 2007 {{fr icon}}</ref>
+
+==Electronic voting==
+[[File:Election MG 3455.JPG|thumb|Transparent ballot boxes have been required since 1988.]]
+[[File:IVotronic img 3452.jpg|thumb|upright|Some French cities used [[voting machine]]s.]]
+
+For the first time in a presidential election, [[electronic voting]] has been introduced in some areas. Voting machines have been authorised in 2004. They have been introduced in only 82 of 36,000 [[French communes|voting districts]], and have been criticised by a number of people, both on the left and on the right.<ref>[http://www.iht.com/articles/2007/04/17/business/evote.php France to choose president with help of electronic voting], ''[[International Herald Tribune]]'', 17 April 2007 {{en icon}}</ref> A [[petition]] against them has also been made (see [[n:Electronic voting disputed in France|Wikinews:Electronic voting disputed in France]]).
+
+==Position of third parties==
+
+===French personalities===
+Approximately 200 French intellectuals expressed support for Ségolène Royal. These included the philosopher [[Étienne Balibar]] (a student of [[Louis Althusser]]),<ref name=Balibar/> the editor [[François Maspero]], the historian [[Pierre Rosanvallon]], the psychanalyst [[Fethi Benslama]], the philosopher [[Jacques Bouveresse]], the sociologist [[Robert Castel]], the philosopher [[Catherine Colliot-Thélène]], the writer [[Chloé Delaume]], the historian [[Michel Dreyfus]], the anthropologist [[Françoise Héritier]], the sculptor [[Françoise Jolivet]], the film-maker [[Roy Lekus]], the sociologist [[Eric Macé]], the philosopher [[Pierre Macherey]], the philosopher [[Jean-Claude Monod]] the artist [[Ariane Mnouchkine]], the economist [[Yann Moulier Boutang]] (involved with ''[[Multitudes]]''), the historian [[Gérard Noiriel]], the historian [[Pascal Ory]], the historian [[Michelle Perrot]], the economist [[Thomas Piketty]], the historian [[Benjamin Stora]],  the anthropologist [[Emmanuel Terray]], the lawyer [[Michel Tubiana]] (former president of the [[Human Rights League (France)|Human Rights League]]), and the sociologist [[Loïc Wacquant]] (a student of [[Pierre Bourdieu]]).<ref>[http://tempsreel.nouvelobs.com/speciales/politique/elysee_2007/20070419.OBS2862/un_appel_dintellectuelspour_segolene_royal.html Un appel d'intellectuels pour Ségolène Royal], ''[[Le Nouvel Observateur]]'', 19 April 2007 {{fr icon}}</ref>
+
+[[Régis Debray]] called to vote first for a far-left candidate, then Royal in the second round.<ref name=Debray/>
+
+On the other hand, the so-called ''[[Nouveaux Philosophes]]'' were split on their support. [[André Glucksmann]] called to vote Sarkozy,<ref name=Glucksmann>[http://www.lemonde.fr/web/article/0,1-0@2-3232,36-860988,0.html Pourquoi je choisis Nicolas Sarkozy]{{dead link|date=April 2012}}, ''[[Le Monde]]'', 29 January 2007 {{fr icon}}</ref> while [[Bernard-Henri Lévy]] voted for Ségolène Royal.<ref>[http://tempsreel.nouvelobs.com/speciales/elysee_2007/20070410.OBS1268/bernardhenri_levy_ralliesegolene_royal.html Bernard-Henri Lévy votera Ségolène Royal], ''[[Le Nouvel Observateur]]'', 10 April 2007 {{fr icon}}</ref> [[Max Gallo]], who had supported the left-wing Republican [[Jean-Pierre Chevènement]] in 2002, joined Sarkozy five years later.<ref>[http://www.lemonde.fr/cgi-bin/ACHATS/acheter.cgi?offre=ARCHIVES&type_item=ART_ARCH_30J&objet_id=949752 Le pas de deux de Max Gallo et Nicolas Sarkozy], ''[[Le Monde]]'', 22 June 2006 {{fr icon}}</ref> [[Pascal Bruckner]] and [[Alain Finkielkraut]] have also proved close to Sarkozy, although they did not declare support for him, but Sarkozy did support Finkielkraut after controversial statements made in ''[[Haaretz]]'' newspaper following the 2005 civil unrest.<ref name=Julliard>[http://hebdo.nouvelobs.com/p2205/articles/a332538.html L'Amérique dans leur tête], Chronicle of [[Jacques Julliard]] in ''[[Le Nouvel Observateur]]'', 8 February 2007 {{fr icon}}</ref> According to the journalist [[Jacques Julliard]], the support of some French intellectuals for the 2003 invasion of Iraq is the root of their rallying to Sarkozy, following the creation of the review titled ''[[Le Meilleur des mondes]]'' (Brave New World). [[Pascal Bruckner]], historian [[Stéphane Courtois]], [[Thérèse Delpech]], [[André Glucksmann]], [[Romain Goupil]], [[Pierre-André Taguieff]], [[Olivier Rollin]], and [[Pierre Rigoulot]] are frequent contributors to this review.
+
+Tennis player [[Yannick Noah]] called to vote for Royal, while Sarkozy obtained the support of singers [[Johnny Hallyday]], [[Mireille Mathieu]] and [[Faudel]], of  rapper [[Doc Gyneco]], and former politician and current actor [[Bernard Tapie]]. He also had the support of actors [[Jean Reno]] and [[Christian Clavier]], both residing in [[Neuilly-sur-Seine]] where Sarkozy was the mayor between 1983 and 2002<ref name=Liberation_Sansmerci/> and of [[Gérard Depardieu]]. But also of industrialist [[Martin Bouygues]], whose children attended the same school as Sarkozy's offspring.<ref name=Liberation_Sansmerci>[http://www.liberation.fr/actualite/evenement/evenement1/252185.FR.php Sarkozy, une lutte sans merci pour le pouvoir]{{dead link|date=April 2012}}, ''[[Libération]]'', 7 May 2007 {{fr icon}}</ref> The humourist [[Dieudonné M'bala M'bala|Dieudonné]] and the writer [[Alain Soral]] supported Jean-Marie Le Pen. Actress [[Juliette Binoche]] supported José Bové.
+
+The song ''Elle est facho'' (She's a fascist) on the ''[[Rouge sang]]'' album by singer [[Renaud]] released in 2006 gained particular media attention for lyrics in the lqst verse the translated as "she's a fascist and votes Sarko"<ref>{{cite web|url=http://www.rfimusique.com/siteen/biographie/biographie_6062.asp |title=RFI music review |publisher=Rfimusique.com |date= |accessdate=2012-04-23}}</ref>
+
+===International support===
+
+Abroad, [[Silvio Berlusconi]], the former [[prime minister of Italy]], gave his support to Sarkozy immediately following the first round, while [[Romano Prodi]], the then Italian premier and leader of the centre-left [[The Union (political coalition)|Union]] coalition, called for an alliance between Bayrou and Royal.<ref>[http://www.lemonde.fr/web/article/0,1-0@2-823448,36-901020,0.html Coups de griffe, séduction et bons conseils : récit du jour d'après]{{dead link|date=April 2012}}, ''[[Le Monde]]'', 24 April 2007 {{fr icon}}</ref>
+
+Spanish Prime Minister [[José Luis Rodríguez Zapatero]] has shown his support for Royal.<ref>{{cite web|author=Posted by Boz |url=http://frenchelection2007.blogspot.com/2007/04/zapatero-supports-zapatera.html |title=French Élection 2007: Zapatero supports "Zapatera" |publisher=Frenchelection2007.blogspot.com |date=19 April 2007 |accessdate=13 June 2010}}</ref>
+
+In the summer of 2010 in the French Press appeared materials regarding [[Liliane Bettencourt]]'s "illegal financial support to Sarkozy" with the help of [[Eric Woerth]].<ref>{{cite web|url=http://www.lemonde.fr/politique/article/2010/06/21/florence-woerth-va-demissionner-de-l-oreal_1376493_823448.html|title=Florence Woerth va quitter ses fonctions auprès de Liliane Bettencourt|date=21 June 2010|publisher=Le Monde|language=french|accessdate=14 March 2012}}</ref><ref>{{cite web|url=http://www.france24.com/en/20100707-france-probe-launched-eric-woerth-role-loreal-heiress-scandal-sarkzoy-thibout-justice-government|title=Inquiry launched into L’Oreal/Sarkozy donations scandal|date=8 July 2010|publisher=France 24|accessdate=14 March 2012}}</ref><ref>{{cite web|url=http://www.guardian.co.uk/world/2011/aug/31/sarkozy-campaign-cash-heiress-bettencourt|title=Nicolas Sarkozy received campaign cash from L'Oreal heiress, nurse says|date=31 August 2011|publisher=The Guardian|accessdate=14 March 2012}}</ref>
+
+[[European Commission|European commissioner]] and [[Vice-President of the European Commission|Vice-President]] [[Margot Wallström]] was criticised after she informally suggested support for Royal on her blog, celebrating the fact that a woman got into the second round. She said: "J'étais si contente de voir qu'une femme participera au deuxième tour de l‘élection présidentielle!" (I was so happy to see that a woman would be participating in the second round of the presidential election!)<ref>{{cite web|url=http://blogs.ec.europa.eu/blog_wallstrom/page/wallstrom?entry=title|date=23 April 2007|title=L'élection présidentielle française|author=Margot Wallström}}{{dead link|date=April 2012}}</ref> Commissioners are not meant to be politically biased in elections under their code of conduct.<ref>{{cite web|url=http://ec.europa.eu/commission_barroso/code_of_conduct/code_conduct_en.pdf
+|format=PDF|title=European Commissioner's Code of Conduct
+|accessdate=6 May 2007}}</ref>  It should be noted that Wallström is a social-democrat, like Royal. [[José Manuel Barroso]], the head of the European Commission, has privately discussed the idea of forming a "strategic partnership" with Mr. Sarkozy.<ref>{{cite web|author=Honor Mahony |url=http://euobserver.com/9/23951 |title=[Sarkozy has support in Berlin, London and Brussels, EUobserver |publisher=Euobserver.com |date=27 April 2007 |accessdate=13 June 2010}}</ref>
+
+Many U.S. [[Pundit (expert)|pundits]] and western economists expressed support for [[Nicolas Sarkozy]]. [[Steve Forbes]] devoted several columns in the influential financial publication ''[[Forbes|FORBES Magazine]]''.<ref name=FORBES>[http://members.forbes.com/forbes/2007/0312/023.html Royal Rubbish], article by [[Steve Forbes]] in ''[[Forbes|FORBES Magazine]]'', 12 March 2007</ref> The London-based magazine ''[[The Economist]]'' also expressed support for Sarkozy's economic platform {{Citation needed|date=May 2007}}.
+
+In 2011, according to the son of the Libyan leader Saif Al-Islam Gaddafi, Sarkozy was provided with financial support from Libya during the presidential election.<ref>{{cite web|url=http://www.euronews.net/2011/03/16/gaddafi-s-son-calls-the-libyan-rebels-traitors/|title=EXCLUSIVE – Gaddafi to Sarkozy: ‘give us back our money’|date=16 March 2011|publisher=[[Euronews]]|accessdate=21 March 2011}}{{cite web|url=http://www.bbc.co.uk/news/world-europe-12760367|title=Gaddafi: 'Libya funded Sarkozy's French poll campaign'|date=16 March 2011|publisher=BBC News |accessdate=21 March 2011}}</ref> In 2012, [[Mediapart]] published material revealing Gaddafi's financial support to Nicolas Sarkozy for the election.<ref>{{cite web|url=http://www.mediapart.fr/journal/international/120312/presidentielle-2007-kadhafi-aurait-finance-sarkozy|title=Présidentielle 2007: Kadhafi aurait financé Sarkozy|date=12 March 2012|publisher=Mediapart|accessdate=14 March 2012}}</ref>
+
+==International media coverage==
+The 2007 presidential elections have been heavily covered by international media due to the significance of France's stature as a European Union member as well as being a member of the [[Group of Eight|G8]] nations.  For example, on 22 April 2007, [[CNN International]] carried live coverage of [[Ségolène Royal]]'s speech after the day's election.  [[Hala Gorani]] of [[CNN]] also conducted a live interview and analysis with some of France's [[bloggers]] and [[political insiders]] after [[Ségolène Royal]]'s speech.
+
+==Riots==
+[[File:Bastille 2007-05-06 anti Sarkozy 487598948 cc5b582851 o.jpg|thumb|Pro-Ségolène Royal youth chanted against Nicolas Sarkozy]]
+[[File:Bastille 2007-05-06 anti Sarkozy 487637091 74ac909b8d o.jpg|upright|thumb|A gathering of opponents to Sarkozy on [[Place de la Bastille]] in Paris, on 6 May evening, quickly ended in confrontations between the far-left and the riot control forces]]
+[[File:Place de la Bastille during the riots that followed the 05-06-2007 presidential elections.JPG|thumb|upright|Bastille tear-gased]]
+Thousands of youths took to the streets Sunday night following the final presidential election results. While many simply expressed their discontent at the election of Nicolas Sarkozy, others chose to engage in violent action. Riots erupted in several urban centers including the capital Paris where some of the most intense clashes were reported in the [[Place de la Bastille]].<ref>[http://www.nytimes.com/2007/05/08/world/europe/08protests.html Hundreds Are Arrested in Post-Election Riots Across France], ''[[The New York Times]]'', 8 May 2007 {{en icon}}</ref> A gathering of opponents to Sarkozy there quickly ended in confrontations between the youth and the riot control forces, who [[Riot control agent|tear gased]] the whole place.
+
+732 cars were torched according to estimates of the [[DGPN]] (direction of the police) and government buildings and property came under attack. Police clashed with protesters who were described by French media as members of the [[ultra-left]] and of the [[autonomism|autonome movement]] or youth from the suburbs.<ref name=UG/> During the fighting dozens of officers were injured and 592 alleged rioters were arrested.<ref name=Libe592>[http://www.liberation.fr/actualite/politiques/elections2007/252241.FR.php Premier bilan de la présidence Sarkozy: 730 voitures brûlées, 592 interpellations]{{dead link|date=April 2012}}, ''[[Libération]]'', 7 May 2007 {{fr icon}}</ref> 70 people were arrested in the North department and 79 in Paris.<ref>Le nouveau président est parti «habiter la fonction», ''[[Libération]]'', 7 May 2007 (see here [http://www.liberation.fr/actualite/politiques/elections2007/252241.FR.php]{{dead link|date=April 2012}}) {{fr icon}}</ref> Overall the situation remained calm.
+
+Some clashes continued on the night of Monday to Tuesday, with 365 torched cars and 160 alleged rioters [[police detention|detained by the police]].<ref name=UG>[http://www.lefigaro.fr/france/20070509.FIG000000002_l_ultragauche_se_dechaine_contre_sarkozy.html L'ultragauche se déchaîne contre Sarkozy], ''[[Le Figaro]]'', 9 May 2007 {{fr icon}}</ref> Ten people were in court already by Monday. Two of them were given firm prison sentences of six and three months respectively, and two others to 120 hours of [[TIG]] (General Interest Labour, an alternative sentence to prison).<ref name=UG/> Another one has been given a two months firm prison sentence and two others TIG hours.<ref>[http://www.lefigaro.fr/france/20070508.WWW000000364_prison_ferme_pour_des_manifestants_anti_sarkozy.html Prison ferme pour des manifestants anti-Sarkozy], ''[[Le Figaro]]'', 8 May 2007 {{fr icon}}</ref> Some of the people judged in [[Lyon]] have denied any involvement in the riots (two of them received 120 hours of TIG and a 200 euros fine).<ref>[http://www.hns-info.net/article.php3?id_article=11218 Les premières comparutions immédiates après les arrestations du soir du 6 mai à Lyon], [[Hacktivist News Service|HNS]], 9 May 2007 {{fr icon}}</ref>
+
+300 to 400 people demonstrated on the [[Boulevard Saint-Michel]] on Wednesday 9 May, in opposition to a demonstration of [[white supremacist]]s. By 9&nbsp;pm that night 118 of them had been arrested.<ref>"Manif et interpellations mouvementées mercredi soir à Paris", ''[[Libération]]'', 9 May 2007, read here [http://www.liberation.fr/actualite/politiques/252769.FR.php] {{fr icon}}</ref> A 31 year-old engineer took legal action following his release from custody claiming he had been a victim of [[police brutality]]. He claimed that he had not taken part to the demonstrations, but had been arrested nonetheless.<ref>"Manifs anti-Sarkozy: un ingénieur victime d'une bavure porte plainte", ''[[Libération]]'', 11 May 2007, read here [http://www.liberation.fr/actualite/societe/253152.FR.php]; [http://www.youtube.com/watch?v=bJeIhpCEAmg video here]</ref>
+
+==Opinion polling==
+
+===Exit polls second round===
+{|class="sortable wikitable"
+|- style="background:#e9e9e9;"
+!Candidate
+!Party
+!France&nbsp;2
+|-
+|  style="width:200px; background:#ffdf80;"|[[Nicolas Sarkozy]]
+|  style="width:70px; background:#ffdf80;"|[[Union for a Popular Movement|UMP]]
+|  style="text-align:right; width:50px; background:#ffdf80;"|'''53%'''
+|-
+|  style="text-align:left;"|[[Ségolène Royal]]
+|  style="text-align:left;"|[[Socialist Party (France)|PS]]
+|  style="text-align:right;"|'''47%'''
+|-
+| colspan="3" | <small>Sources: [http://elections.france2.fr/presidentielles/2007/second-tour/ elections.france2.fr]{{dead link|date=April 2012}}</small>
+|}
+
+===Before the second round of vote===
+{|class="wikitable"
+|- style="background:#e9e9e9;"
+!width=10%|Polling Firm
+!width=12%|Date
+!width=5%|Source
+!width=5%|'''Sarkozy'''
+!width=5%|'''Royal'''
+|-
+||BVA||4 May 2007 (just before midnight)||<ref>{{cite web|url=http://www.bva.fr/data/sondage/sondage_sondage/562/sondage_fichier/fichier/bvaorange_4mai__5e28d.pdf |title=BVA, Marketing and Opinion Insights |publisher=Bva.fr |date= |accessdate=13 June 2010}}{{dead link|date=April 2012}}</ref>||'''55'''||45
+|-
+||Ipsos||4 May 2007 (just before midnight)||<ref name="ipsos2007">http://www.ipsos.fr/presidentielle-2007/pdf/040507.pdf</ref>||'''55'''||45
+|-
+||TNS-Sofres||4 May 2007||<ref>http://www.lefigaro.fr/assets/pdf/barom.pdf</ref>||'''54.5'''||45.5
+|-
+||Ipsos||4 May 2007||<ref name="ipsos2007"/>||'''54'''||46
+|-
+||CSA||3 May 2007||<ref>{{cite web|url=http://www.csa-fr.com/dataset/data2007/opi20070425-les-intentions-de-vote-pour-le-second-tour-de-l-election-presidentielle.pdf |title=Microsoft Word - 0700546A - Intentions de vote pour le second tour.doc |format=PDF |date= |accessdate=13 June 2010}}{{dead link|date=April 2012}}</ref>||'''53'''||47
+|-
+||Ipsos||3 May 2007||<ref>http://www.ipsos.fr/presidentielle-2007/pdf/030507.pdf</ref>||'''53.5'''||46.5
+|-
+||Ipsos||2 May 2007||<ref>http://www.ipsos.fr/presidentielle-2007/pdf/020507.pdf</ref>||'''53.5'''||46.5
+|-
+||BVA||2 May 2007||<ref>{{cite web|url=http://www.bva.fr/data/sondage/sondage_sondage/560/sondage_fichier/fichier/26observatoirebvaorange-presseragionale_3bb0a.pdf |title=BVA, Marketing and Opinion Insights |publisher=Bva.fr |date= |accessdate=13 June 2010}}{{dead link|date=April 2012}}</ref>||'''52'''||48
+|-
+||Ipsos||1 May 2007||<ref>http://www.ipsos.fr/presidentielle-2007/pdf/010507.pdf</ref>||'''53'''||47
+|-
+||Ifop||30 April 2007||<ref>[http://www.ifop2007.fr/photo/File/IntentionDeVote/PM-PRESI21-30042007-16265.pdf ]{{dead link|date=April 2012}}</ref>||'''53'''||47
+|-
+||TNS-Sofres||29 April 2007||<ref>{{cite web|url=http://www.lefigaro.fr/assets/pdf/Sofresv23.pdf |title=Baro TNS Sofres Unilog-RTL-LCI-Figaro v23.xls |format=PDF |date= |accessdate=13 June 2010}}</ref>||'''52'''||48
+|-
+||Ipsos||29 April 2007||<ref>http://www.ipsos.fr/presidentielle-2007/pdf/290407.pdf</ref>||'''52.5'''||47.5
+|-
+||Ipsos||28 April 2007||<ref>{{cite web|url=http://www.ipsos.fr/presidentielle-2007/pdf/280407.pdf |title=Rapport IpsosDell SFR Le Point - Vague 50.xls |format=PDF |date= |accessdate=13 June 2010}}</ref>||'''52.5'''||47.5
+|-
+||Ifop||27 April 2007||<ref>[http://www.ifop2007.fr/photo/File/IntentionDeVote/JDD-PRESI20-28-04-2007-16263A.pdf ]{{dead link|date=April 2012}}</ref>||'''52.5'''||47.5
+|-
+||Ipsos||27 April 2007||<ref>http://www.ipsos.fr/presidentielle-2007/pdf/270407.pdf</ref>||'''53'''||47
+|-
+||Ipsos||26 April 2007||<ref>http://www.ipsos.fr/presidentielle-2007/pdf/260407.pdf</ref>||'''53'''||47
+|-
+||BVA||26 April 2007||<ref>{{cite web|url=http://www.bva.fr/data/sondage/sondage_sondage/557/sondage_fichier/fichier/25observatoirebvaorange-presseragionale_35826.pdf |title=BVA, Marketing and Opinion Insights |publisher=Bva.fr |date= |accessdate=13 June 2010}}{{dead link|date=April 2012}}</ref>||'''53'''||47
+|-
+||Ipsos||25 April 2007||<ref>http://www.ipsos.fr/presidentielle-2007/pdf/250407.pdf</ref>||'''53.5'''||46.5
+|-
+||TNS-Sofres||24 April 2007||<ref>http://www.lefigaro.fr/assets/pdf/Sofresv22.pdf</ref>||'''51'''||49
+|-
+||Ipsos||24 April 2007||<ref>http://www.ipsos.fr/presidentielle-2007/pdf/240407.pdf</ref>||'''54'''||46
+|-
+||LH2||23 April 2007||<ref>{{cite web|url=http://www.lh2.fr/_upload/ressources/sondages/politique_nationale/lh2rmcbfmtv20mn23avril07.pdf |title=Microsoft Word - Lh2RmcBfmTv20MnIntentionsVote23avril07.doc |format=PDF |date= |accessdate=13 June 2010}}</ref>||'''54'''||46
+|-
+||CSA||22 April 2007||<ref>{{cite web|url=http://www.csa-fr.com/dataset/data2007/opi20070422-les-intentions-de-vote-pour-le-second-tour-de-l-election-presidentielle.pdf |title=Les intentions de vote pour le second tour de l'élection présidentielle |format=PDF |date= |accessdate=13 June 2010}}{{dead link|date=April 2012}}</ref>||'''53.5'''||46.5
+|-
+||BVA||22 April 2007||<ref>{{cite web|url=http://www.bva.fr/data/sondage/sondage_sondage/556/sondage_fichier/fichier/ssvobservatoirebvaorange-presseragionale_82ae1.pdf |title=BVA, Marketing and Opinion Insights |publisher=Bva.fr |date= |accessdate=13 June 2010}}{{dead link|date=April 2012}}</ref>||'''52'''||48
+|-
+||Ifop||22 April 2007||<ref>[http://www.ifop2007.fr/photo/File/IntentionDeVote/M6-SSV-22042007-16159.pdf ]{{dead link|date=April 2012}}</ref>||'''54'''||46
+|-
+||Ipsos||22 April 2007||<ref>http://www.ipsos.fr/presidentielle-2007/pdf/2dTour.pdf</ref>||'''54'''||46
+|}
+
+===Exit polls first round===
+[[File:Election presidentielle 2007 Lausanne MG 2757.jpg|thumb|[[Expatriated]] voters queue in [[Lausanne]] for the first round]]
+Under French Law, exit polls were not officially allowed to be published until after the polling stations close at 1800 UTC. Three polls, the first published by France 2 television conducted by Ipsos, the second conducted by Sofres, the third conducted by CSA, gave:
+
+{|class="sortable wikitable"
+|- style="background:#e9e9e9;"
+!Candidate
+!Party
+!Ipsos
+!Sofres
+!CSA
+|-
+|  style="width:200px; background:#ffdf80;"|[[Nicolas Sarkozy]]
+|  style="width:70px; background:#ffdf80;"|[[Union for a Popular Movement|UMP]]
+|  style="text-align:right; width:50px; background:#ffdf80;"|'''30.8'''
+|  style="text-align:right; width:50px; background:#ffdf80;"|'''30.5'''
+|  style="text-align:right; width:50px; background:#ffdf80;"|'''30.6'''
+|-
+| style="background:#ffdf80;"|[[Ségolène Royal]]
+| style="background:#ffdf80;"|[[Socialist Party (France)|PS]]
+|  style="text-align:right; width:50px; background:#ffdf80;"|'''25.2'''
+|  style="text-align:right; width:50px; background:#ffdf80;"|'''25.7'''
+|  style="text-align:right; width:50px; background:#ffdf80;"|'''25.9'''
+|-
+|[[François Bayrou]]
+|[[Union for French Democracy|UDF]]
+|  style="width:50px; text-align:right;"|19.0
+|  style="width:50px; text-align:right;"|18.5
+|  style="width:50px; text-align:right;"|18.5
+|-
+|[[Jean-Marie Le Pen]]
+|[[National Front (France)|FN]]
+|  style="width:50px; text-align:right;"|10.8
+|  style="width:50px; text-align:right;"|11.0
+|  style="width:50px; text-align:right;"|10.8
+|-
+|[[Olivier Besancenot]]
+|[[Revolutionary Communist League (France)|LCR]]
+|  style="width:50px; text-align:right;"|4.1
+|  style="width:50px; text-align:right;"|4.3
+|  style="width:50px; text-align:right;"|4.5
+|-
+|[[Philippe de Villiers]]
+|[[Movement for France|MPF]]
+|  style="width:50px; text-align:right;"|2.3
+|  style="width:50px; text-align:right;"|2.4
+|  style="width:50px; text-align:right;"|2.3
+|-
+|[[Marie-George Buffet]]
+|[[French Communist Party|PCF]]
+|  style="width:50px; text-align:right;"|2.0
+|  style="width:50px; text-align:right;"|1.9
+|  style="width:50px; text-align:right;"|2.0
+|-
+|[[Dominique Voynet]]
+|[[The Greens (France)|The Greens]]
+|  style="width:50px; text-align:right;"|1.5
+|  style="width:50px; text-align:right;"|1.5
+|  style="width:50px; text-align:right;"|1.5
+|-
+|[[Arlette Laguiller]]
+|[[Lutte ouvrière|LO]]
+|  style="width:50px; text-align:right;"|1.4
+|  style="width:50px; text-align:right;"|1.4
+|  style="width:50px; text-align:right;"|1.4
+|-
+|[[José Bové]]
+|[[Independent (politician)|Ind]]
+|  style="width:50px; text-align:right;"|1.3
+|  style="width:50px; text-align:right;"|1.3
+|  style="width:50px; text-align:right;"|1.2
+|-
+|[[Frédéric Nihous]]
+|[[Hunting, Fishing, Nature, Tradition|CPNT]]
+|  style="width:50px; text-align:right;"|1.2
+|  style="width:50px; text-align:right;"|1.1
+|  style="width:50px; text-align:right;"|1.0
+|-
+|[[Gérard Schivardi]]
+|[[Workers' Party (France)|PT]]
+|  style="width:50px; text-align:right;"|0.3
+|  style="width:50px; text-align:right;"|0.4
+|  style="width:50px; text-align:right;"|0.3
+|-
+| colspan="5" | <small>Sources: [http://elections.france2.fr/presidentielles/2007/premier-tour/ elections.france2.fr]{{dead link|date=April 2012}}, [http://2007a.tns-sofres.com/ tns-sofres.com], [http://www.csa-fr.com/fusioncharts/22avril2007/ csa-fr.com]{{dead link|date=April 2012}}</small>
+|}
+
+===Before first round of vote===
+{|class="wikitable"
+|- style="background:#e9e9e9;"
+!width=10%|Polling Firm
+!width=12%|Date
+!width=5%|Source
+|'''Sarkozy'''
+|'''Royal'''
+|'''Bayrou'''
+|'''Le Pen'''
+|'''Others'''
+|'''Second round'''
+|-
+||Ipsos||21 April 2007||<ref>http://www.ipsos.fr/presidentielle-2007/pdf/200407-2.pdf</ref>||'''30'''||23.5||17||13.5||16||'''Sarkozy 53.5''' Royal 46.5, '''Bayrou 52.5''' Sarkozy 47.5
+|-
+||CSA||20 April 2007||<ref>[http://www.csa-fr.com/dataset/data2007/opi20070420-intentions-de-vote-a-l-election-presidentielle-de-2007-vague-27.pdf ]{{dead link|date=April 2012}}</ref>||'''26.5'''||25.5||16||16.5||15.5||Sarkozy 50 Royal 50
+|-
+||Ifop||20 April 2007||<ref>[http://www.ifop.com/europe/docs/intentions2004.pdf ]{{dead link|date=June 2010}}</ref>||'''28'''||22.5||20||13||16.5||'''Sarkozy 51''' Royal 49, '''Bayrou 55''' Sarkozy 45, '''Bayrou 58''' Royal 42
+|-
+||Ipsos||20 April 2007||<ref>http://www.ipsos.fr/presidentielle-2007/pdf/200407.pdf</ref>||'''30'''||23||18||13||16||'''Sarkozy 53.5''' Royal 46.5, '''Bayrou 52''' Sarkozy 48
+|-
+||TNS-Sofres||19 April 2007||<ref>http://2007.tns-sofres.com/etude.php?id=374</ref>||'''28'''||24||19.5||14||14.5||'''Sarkozy 53''' Royal 47, '''Bayrou 54''' Sarkozy 46
+|-
+||BVA||19 April 2007||<ref>{{cite web|url=http://www.bva.fr/data/sondage/sondage_sondage/554/sondage_fichier/fichier/23observatoirebvaorange-presseragionale_56efa.pdf |title=BVA, Marketing and Opinion Insights |publisher=Bva.fr |date= |accessdate=13 June 2010}}{{dead link|date=April 2012}}</ref>||'''29'''||25||15||13||18||'''Sarkozy 53''' Royal 47
+|-
+||Ipsos||19 April 2007||<ref>http://www.ipsos.fr/presidentielle-2007/pdf/190407.pdf</ref>||'''30'''||23.5||18.5||13||15||'''Sarkozy 53.5''' Royal 46.5, '''Bayrou 52''' Sarkozy 48
+|-
+||Ifop||18 April 2007||<ref>[http://www.ifop2007.fr/photo/File/IntentionDeVote/PM-PRESI17-0407-16235.pdf ]{{dead link|date=April 2012}}</ref>||'''28'''||22.5||19||12.5||18||'''Sarkozy 53''' Royal 47
+|-
+||TNS-Sofres||18 April 2007||<ref>http://www.lefigaro.fr/assets/pdf/barometre.pdf</ref>||'''28.5'''||25||19||14||13.5||'''Sarkozy 51''' Royal 49
+|-
+||Ipsos||18 April 2007||<ref>{{cite web|url=http://www.ipsos.fr/presidentielle-2007/pdf/180407.pdf |title=Rapport IpsosDell SFR Le Point - Vague 42.xls |format=PDF |date= |accessdate=13 June 2010}}</ref>||'''29.5'''||24.5||18.5||13.5||14||'''Sarkozy 53''' Royal 47, '''Bayrou 53''' Sarkozy 47
+|-
+||CSA||17 April 2007||<ref>{{cite web|url=http://www.csa-fr.com/dataset/data2007/opi20070416-intentions-de-vote-a-l-election-presidentielle-de-2007-vague-25.pdf |title=Intentions de vote à l'élection présidentielle – vague 25 |format=PDF |date= |accessdate=13 June 2010}}{{dead link|date=April 2012}}</ref>||'''27'''||25||19||15.5||13.5||Sarkozy 50 Royal 50
+|-
+||Ipsos||17 April 2007||<ref>http://www.ipsos.fr/presidentielle-2007/pdf/170407.pdf</ref>||'''28.5'''||25||18.5||14||14||'''Sarkozy 52''' Royal 48, '''Bayrou 54''' Sarkozy 46
+|-
+||Louis-Harris||16 April 2007||<ref>{{cite web|url=http://www.lh2.fr/_upload/ressources/sondages/politique_nationale/lh2rmcbfmtv20mn16_17avril07.pdf |title=Microsoft Word - Lh2RmcBfmTv20Mn16-17avril07.doc |format=PDF |date= |accessdate=13 June 2010}}</ref>||'''27'''||23||19||14||17||'''Sarkozy 51''' Royal 49
+|-
+||CSA||15 April 2007||<ref>{{cite web|url=http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/15422 |title=Nothing Certain Before France’s First Round: Angus Reid Global Monitor |publisher=Angus-reid.com |date= |accessdate=13 June 2010}}</ref>||'''26'''||23||21||15||15||'''Sarkozy 51''' Royal 49
+|-
+||Ipsos||15 April 2007||<ref>{{cite web|url=http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/15409 |title=Sarkozy, Royal Ahead of Rivals in France: Angus Reid Global Monitor |publisher=Angus-reid.com |date= |accessdate=13 June 2010}}</ref>||'''29.5'''||25||17.5||13.5||14.5||'''Sarkozy 53''' Royal 47, '''Bayrou 53.5''' Sarkozy 46.5
+|-
+||Ifop||15 April 2007||<ref>[http://www.ifop.com/europe/docs/intentions1504.pdf ]{{dead link|date=June 2010}}</ref>||'''28.5'''||24||18||13||16.5||'''Sarkozy 53''' Royal 47
+|-
+||TNS-Sofres||14 April 2007||<ref>http://www.lefigaro.fr/assets/pdf/barometre_sofres_v19.pdf</ref>||'''30'''||26||17||12||15||'''Sarkozy 52''' Royal 48
+|-
+||Ipsos||14 April 2007||<ref>http://www.ipsos.fr/presidentielle-2007/pdf/140407.pdf</ref>||'''29.5'''||24.5||17.5||14||14.5||'''Sarkozy 53.5''' Royal 46.5, '''Bayrou 53''' Sarkozy 47
+|-
+||Ipsos||13 April 2007||<ref>http://www.ipsos.fr/presidentielle-2007/pdf/130407.pdf</ref>||'''30'''||24||18.5||13.5||14||'''Sarkozy 54''' Royal 46, '''Bayrou 53''' Sarkozy 47
+|-
+||CSA||12 April 2007||<ref>[http://www.csa-fr.com/dataset/data2007/opi20070411a-intentions-de-vote-a-l-election-presidentielle-de-2007-vague-23.pdf ]{{dead link|date=June 2010}}</ref>||'''27'''||25||19||15||14||'''Sarkozy 52''' Royal 48
+|-
+||Ipsos||12 April 2007||<ref>http://www.ipsos.fr/presidentielle-2007/pdf/120407.pdf</ref>||'''29.5'''||24||19||14||13.5||'''Sarkozy 53.5''' Royal 46.5, '''Bayrou 53.5''' Sarkozy 46.5
+|-
+||BVA||12 April 2007||<ref>{{cite web|url=http://www.bva.fr/data/sondage/sondage_sondage/549/sondage_fichier/fichier/22observatoirebvaorange-presseragionale_74e3b.pdf |title=BVA, Marketing and Opinion Insights |publisher=Bva.fr |date= |accessdate=13 June 2010}}{{dead link|date=April 2012}}</ref>||'''28'''||24||18||14||16||'''Sarkozy 55''' Royal 45
+|-
+||Ipsos||11 April 2007||<ref>{{cite web|url=http://www.ipsos.fr/presidentielle-2007/pdf/110407.pdf |title=Rapport IpsosDell SFR Le Point - Vague 36.xls |format=PDF |date= |accessdate=13 June 2010}}</ref>||'''30'''||23.5||19||13.5||14||'''Sarkozy 53.5''' Royal 46.5, '''Bayrou 53.5''' Sarkozy 46.5
+|-
+||Ipsos||10 April 2007||<ref>http://www.ipsos.fr/presidentielle-2007/pdf/100407.pdf</ref>||'''30.5'''||23||19.5||13||14||'''Sarkozy 54''' Royal 46, '''Bayrou 53.5''' Sarkozy 46.5
+|-
+||Louis-Harris||9 April 2007||<ref>{{cite web|url=http://www.rmcinfo.fr/presidentielle2007/index.php?2007/04/09/602-sondage-hebdo-le-pen-gagne-2-points&cos=1 |title=Rmc.fr radio : Info, Sport. Radio du sport en direct et de l'info |publisher=Rmcinfo.fr |date= |accessdate=13 June 2010}}</ref>||'''28'''||24||18||15||15||'''Sarkozy 52''' Royal 48
+|-
+||Ifop||8 April 2007||<ref>{{cite web|url=http://www.lejdd.fr/sondages/35.html |title=Archives Sondages |publisher=leJDD.fr |date= |accessdate=13 June 2010}}</ref>||'''29.5'''||22||19||14||15.5||'''Sarkozy 54''' Royal 46
+|-
+||Ipsos||8 April 2007||<ref>{{cite web|url=http://www.ipsos.fr/presidentielle-2007/pdf/080407.pdf |title=Rapport IpsosDell SFR Le Point - Vague 34.xls |format=PDF |date= |accessdate=13 June 2010}}</ref>||'''30.5'''||22.5||19.5||13||14.5||'''Sarkozy 54''' Royal 46, '''Bayrou 53''' Sarkozy 47
+|-
+||Ipsos||7 April 2007||<ref>http://www.ipsos.fr/presidentielle-2007/pdf/070407.pdf</ref>||'''31.5'''||23.5||19||12.5||13.5||'''Sarkozy 54''' Royal 46, '''Bayrou 52''' Sarkozy 48
+|-
+||CSA||6 April 2007||<ref>{{cite web|url=http://www.csa-fr.com/dataset/data2007/opi20070405-intentions-de-vote-a-l-election-presidentielle-de-2007-vague-22.pdf |title=Intentions de vote à l'élection présidentielle – vague 22 |format=PDF |date= |accessdate=13 June 2010}}{{dead link|date=April 2012}}</ref>||'''26'''||23.5||21||16||13.5||'''Sarkozy 52''' Royal 48
+|-
+||Ipsos||6 April 2007||<ref>http://www.ipsos.fr/presidentielle-2007/pdf/060407.pdf</ref>||'''31'''||24||18.5||13||13.5||'''Sarkozy 54''' Royal 46, '''Bayrou 51.5''' Sarkozy 48.5
+|-
+||BVA||5 April 2007||<ref>{{cite web|url=http://www.bva.fr/data/sondage/sondage_sondage/546/sondage_fichier/fichier/21observatoirebvaorange-presseragionale_b7187.pdf |title=BVA, Marketing and Opinion Insights |publisher=Bva.fr |date= |accessdate=13 June 2010}}{{dead link|date=April 2012}}</ref>||'''29.5'''||24||18||12||16.5||'''Sarkozy 54''' Royal 46
+|-
+||Ipsos||5 April 2007||<ref>http://www.ipsos.fr/presidentielle-2007/pdf/050407.pdf</ref>||'''31.5'''||24.5||18.5||13||12.5||'''Sarkozy 54''' Royal 46, '''Bayrou 51''' Sarkozy 49
+|-
+||Ifop||4 April 2007||<ref>[http://www.ifop2007.fr/intentions-presidentielles ]{{dead link|date=April 2012}}</ref>||'''27.5'''||23||20||14||15.5||'''Sarkozy 52''' Royal 48
+|-
+||Ipsos||4 April 2007||<ref>http://www.ipsos.fr/presidentielle-2007/pdf/040407.pdf</ref>||'''31.5'''||25||18.5||13||12||'''Sarkozy 54''' Royal 46, '''Bayrou 51''' Sarkozy 49
+|-
+||Ipsos||3 April 2007||<ref>{{cite web|url=http://www.ipsos.fr/presidentielle-2007/pdf/030407.pdf |title=Rapport IpsosDell SFR Le Point - Vague 29.xls |format=PDF |date= |accessdate=13 June 2010}}</ref>||'''31.5'''||24||19||13.5||12||'''Sarkozy 54''' Royal 46, '''Bayrou 51''' Sarkozy 49
+|-
+||Louis-Harris||2 April 2007||<ref>{{cite web|url=http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/15296 |title=Sarkozy Holds Three-Point Edge in France: Angus Reid Global Monitor |publisher=Angus-reid.com |date= |accessdate=13 June 2010}}</ref>||'''29'''||26||18||13||14||'''Sarkozy 51''' Royal 49
+|-
+||Ipsos||1 April 2007||<ref>http://www.ipsos.fr/presidentielle-2007/pdf/010407.pdf</ref>||'''31'''||24.5||19||13||12.5||'''Sarkozy 53.5''' Royal 46.5, '''Bayrou 52''' Sarkozy 48
+|-
+||Ipsos||31 March 2007||<ref>http://www.ipsos.fr/presidentielle-2007/pdf/310307.pdf</ref>||'''32'''||24||18.5||12||13.5||'''Sarkozy 54''' Royal 46, '''Bayrou 51.5''' Sarkozy 48.5
+|-
+||Ifop||31 March 2007||<ref>[http://www.ifop2007.fr/photo/File/IntentionDeVote/FID-FL8GPB-0307.pdf ]{{dead link|date=April 2012}}</ref>||'''28'''||23||21||13.5||14.5||'''Sarkozy 54''' Royal 46
+|-
+||TNS-Sofres||30 March 2007||<ref>{{cite web|url=http://www.lefigaro.fr/assets/pdf/barometre_sofres_30_mars.pdf |title=Baro TNS Sofres Unilog - RTL LCI Figaro - v17.xls |format=PDF |date= |accessdate=13 June 2010}}</ref>||'''30'''||27||18||12||13||'''Sarkozy 52''' Royal 48
+|-
+||CSA||30 March 2007||<ref>{{cite web|url=http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/15268 |title=Bayrou Drops, Sarkozy Stable in France: Angus Reid Global Monitor |publisher=Angus-reid.com |date= |accessdate=13 June 2010}}</ref>||'''26'''||24.5||19.5||15||15||'''Sarkozy 52''' Royal 48
+|-
+||Ipsos||30 March 2007||<ref>{{cite web|url=http://www.ipsos.fr/presidentielle-2007/ |title=Ipsos – Sondages élection présidentielle 2007 – intentions de vote |publisher=Ipsos.fr |date= |accessdate=13 June 2010}}</ref>||'''31.5'''||25||17.5||12||14||'''Sarkozy 53.5''' Royal 46.5, '''Bayrou 51''' Sarkozy 49
+|-
+||Ipsos||29 March 2007||<ref>http://www.ipsos.fr/presidentielle-2007/pdf/290307.pdf</ref>||'''31'''||24.5||18||12.5||14||'''Sarkozy 53.5''' Royal 46.5, '''Bayrou 51.5''' Sarkozy 48.5
+|-
+||BVA||27 March 2007||<ref>{{cite web|url=http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/15239 |title=Sarkozy’s Lead Disappears in France: Angus Reid Global Monitor |publisher=Angus-reid.com |date= |accessdate=13 June 2010}}</ref>||'''28'''||27||20||12||13||'''Sarkozy 51''' Royal 49
+|-
+||Ipsos||27 March 2007||<ref>{{cite web|url=http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/15212 |title=Sarkozy First, Royal Likely Rival in France: Angus Reid Global Monitor |publisher=Angus-reid.com |date= |accessdate=13 June 2010}}</ref>||'''30.5'''||25||18.5||13||13||'''Sarkozy 53''' Royal 47, '''Bayrou 52''' Sarkozy 48
+|-
+||Louis-Harris||24 March 2007||<ref>{{cite web|url=http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/15188 |title=Sarkozy, Royal Tied at 27% in French Race: Angus Reid Global Monitor |publisher=Angus-reid.com |date= |accessdate=13 June 2010}}</ref>||27||27||20||12||14||'''Sarkozy 51''' Royal 49, '''Bayrou 60''' Sarkozy 40
+|-
+||Ipsos||24 March 2007||<ref>{{cite web|url=http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/15177 |title=Sarkozy Stable, Bayrou Falls to 19% in France: Angus Reid Global Monitor |publisher=Angus-reid.com |date= |accessdate=13 June 2010}}</ref>||'''30'''||25.5||19||13.5||12||'''Sarkozy 53''' Royal 47, '''Bayrou 53''' Sarkozy 47
+|-
+||Ifop||23 March 2007||<ref>{{cite web|url=http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/15199 |title=Tight Presidential Contest Continues in France20070328: Angus Reid Global Monitor |publisher=Angus-reid.com |date= |accessdate=13 June 2010}}</ref>||'''26'''||25||22||14.5||12.5||'''Sarkozy 52''' Royal 48
+|-
+||TNS-Sofres||23 March 2007||<ref>[http://www.lefigaro.fr/medias/pdf/Barometre-TNS-Sofres-Unilog.pdf ]{{dead link|date=April 2012}}</ref>||'''28'''||26.5||21.5||11||13||'''Sarkozy 52''' Royal 48
+|-
+||CSA||22 March 2007||<ref>{{cite web|url=http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/15168 |title=Sarkozy and Royal Are Tied in France: Angus Reid Global Monitor |publisher=Angus-reid.com |date= |accessdate=13 June 2010}}</ref>||26||26||21||13||14||Sarkozy 50 Royal 50
+|-
+||BVA||20 March 2007||<ref>{{cite web|url=http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/15156 |title=Sarkozy Up, Bayrou Down in French Race: Angus Reid Global Monitor |publisher=Angus-reid.com |date= |accessdate=13 June 2010}}</ref>||'''31'''||24||17||13||15||'''Sarkozy 54''' Royal 46
+|-
+||Ifop||19 March 2007||<ref>{{cite web|url=http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/15145 |title=Four-Point Lead for Sarkozy in France: Angus Reid Global Monitor |publisher=Angus-reid.com |date= |accessdate=13 June 2010}}</ref>||'''28'''||24||21||14||13||'''Sarkozy 53''' Royal 47, '''Bayrou 54''' Sarkozy 46
+|-
+||Louis-Harris||17 March 2007||<ref>{{cite web|url=http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/15132 |title=Sarkozy Leads Royal by Three Points in France: Angus Reid Global Monitor |publisher=Angus-reid.com |date= |accessdate=13 June 2010}}</ref>||'''29'''||26||22||12.5||10.5||'''Sarkozy 52''' Royal 48, '''Bayrou 57''' Sarkozy 43
+|-
+||Ipsos||17 March 2007||<ref>{{cite web|url=http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/15106 |title=Sarkozy at 29.5%, Royal Second in France: Angus Reid Global Monitor |publisher=Angus-reid.com |date= |accessdate=13 June 2010}}</ref>||'''29.5'''||25||21||12.5||12||'''Sarkozy 52''' Royal 48
+|-
+||Ifop||17 March 2007||<ref>{{cite web|url=http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/15096 |title=Sarkozy Has Two-Point Lead in French Race: Angus Reid Global Monitor |publisher=Angus-reid.com |date= |accessdate=13 June 2010}}</ref>||'''26'''||24||22.5||14||13.5||'''Sarkozy 51.5''' Royal 48.5
+|-
+||TNS-Sofres||15 March 2007||<ref>{{cite web|url=http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/15120 |title=Bayrou is Run-Off Favourite in France: Angus Reid Global Monitor |publisher=Angus-reid.com |date= |accessdate=13 June 2010}}</ref>||'''31'''||24||22||12||11||'''Sarkozy 54''' Royal 46, '''Bayrou 54''' Sarkozy 46, '''Bayrou 60''' Royal 40
+|-
+||CSA||14 March 2007||<ref>{{cite web|url=http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/15083 |title=Sarkozy Almost Tied with Royal in France: Angus Reid Global Monitor |publisher=Angus-reid.com |date= |accessdate=13 June 2010}}</ref>||'''27'''||26||21||14||12||'''Sarkozy 53''' Royal 47
+|-
+||Ipsos||14 March 2007||<ref>{{cite web|url=http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/15058 |title=Sarkozy Falls, Bayrou Gains in France: Angus Reid Global Monitor |publisher=Angus-reid.com |date= |accessdate=13 June 2010}}</ref>||'''28.5'''||24||23||13.5||13||'''Sarkozy 53''' Royal 47
+|-
+||BVA||13 March 2007||<ref>{{cite web|url=http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/15070 |title=Sarkozy Ahead by Six Points in France: Angus Reid Global Monitor |publisher=Angus-reid.com |date= |accessdate=13 June 2010}}</ref>||'''29'''||23||21||13||14||'''Sarkozy 51''' Royal 49, '''Bayrou 55''' Sarkozy 45
+|-
+||Louis-Harris||10 March 2007||<ref>{{cite web|url=http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/15047 |title=Three Contenders Surpass 20% Mark in France: Angus Reid Global Monitor |publisher=Angus-reid.com |date= |accessdate=13 June 2010}}</ref>||'''28'''||26||22||13.5||10.5||'''Sarkozy 52''' Royal 48, '''Bayrou 55''' Sarkozy 45
+|-
+||Ipsos||10 March 2007||<ref>{{cite web|url=http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/15022 |title=Sarkozy Still Ahead in French Ballot: Angus Reid Global Monitor |publisher=Angus-reid.com |date= |accessdate=13 June 2010}}</ref>||'''31'''||25.5||21.5||12.5||9.5||'''Sarkozy 53.5''' Royal 46.5
+|-
+||Ifop||9 March 2007||<ref>{{cite web|url=http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/15012 |title=Sarkozy First, Bayrou Ties Royal in France: Angus Reid Global Monitor |publisher=Angus-reid.com |date= |accessdate=13 June 2010}}</ref>||'''28'''||23||23||13||13|| 
+|-
+||TNS-Sofres||8 March 2007||<ref>{{cite web|url=http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/15035 |title=Sarkozy Drops, Bayrou Gains in France: Angus Reid Global Monitor |publisher=Angus-reid.com |date= |accessdate=13 June 2010}}</ref>||'''27'''||25.5||23||12||12||'''Sarkozy 52''' Royal 48
+|-
+||CSA||7 March 2007||<ref>{{cite web|url=http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14999 |title=Three-Candidate Race Evident in France: Angus Reid Global Monitor |publisher=Angus-reid.com |date= |accessdate=13 June 2010}}</ref>||'''26'''||25||24||14||11||'''Sarkozy 53''' Royal 47
+|-
+||Ipsos||7 March 2007||<ref>{{cite web|url=http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14979 |title=Sarkozy Remains Ahead in French Ballot: Angus Reid Global Monitor |publisher=Angus-reid.com |date= |accessdate=13 June 2010}}</ref>||'''32.5'''||27||19||12.5||9||'''Sarkozy 53''' Royal 47
+|-
+||BVA||6 March 2007||<ref>{{cite web|url=http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/15004 |title=Sarkozy Has Five-Point Edge in France: Angus Reid Global Monitor |publisher=Angus-reid.com |date= |accessdate=13 June 2010}}</ref>||'''29'''||24||21||13||13||'''Sarkozy 53''' Royal 47, '''Bayrou 55''' Sarkozy 45
+|-
+||Louis-Harris||3 March 2007||<ref>{{cite web|url=http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14986 |title=Sarkozy Barely Ahead in French Election: Angus Reid Global Monitor |publisher=Angus-reid.com |date= |accessdate=13 June 2010}}</ref>||'''28'''||27||20||14||11||'''Sarkozy 52''' Royal 48
+|-
+||TNS-Sofres||1 March 2007||<ref>{{cite web|url=http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14966 |title=Sarkozy First, Bayrou Gaining in France: Angus Reid Global Monitor |publisher=Angus-reid.com |date= |accessdate=13 June 2010}}</ref>||'''31'''||25.5||18.5||12||13||'''Sarkozy 54''' Royal 46
+|-
+||Ipsos||28 February 2007||<ref>{{cite web|url=http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14906 |title=Sarkozy Leads by Seven Points in French Ballot: Angus Reid Global Monitor |publisher=Angus-reid.com |date= |accessdate=13 June 2010}}</ref>||'''32'''||25||18||12.5||10||'''Sarkozy 53.5''' Royal 46.5
+|-
+||CSA||28 February 2007||<ref>{{cite web|url=http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14969 |title=Royal and Sarkozy Even in French Ballot: Angus Reid Global Monitor |publisher=Angus-reid.com |date= |accessdate=13 June 2010}}</ref>||29||29||17||14||11||'''Sarkozy 52''' Royal 48
+|-
+||BVA||27 February 2007||<ref>{{cite web|url=http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14920 |title=Sarkozy Still Leads Royal in France: Angus Reid Global Monitor |publisher=Angus-reid.com |date= |accessdate=13 June 2010}}</ref>||'''31'''||25||17||14||13||'''Sarkozy 53''' Royal 47, '''Bayrou 54''' Sarkozy 46, '''Bayrou 55''' Royal 45
+|-
+||Louis-Harris||24 February 2007||<ref>{{cite web|url=http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14895 |title=Sarkozy Drops, Royal Gets Closer in France: Angus Reid Global Monitor |publisher=Angus-reid.com |date= |accessdate=13 June 2010}}</ref>||'''30'''||27||17||13||13||Sarkozy 50 Royal 50
+|-
+||Ifop||23 February 2007||<ref>{{cite web|url=http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14877 |title=Royal Ties Sarkozy in French Presidential Race: Angus Reid Global Monitor |publisher=Angus-reid.com |date= |accessdate=13 June 2010}}</ref>||28||28||17||11.5||15.5||'''Sarkozy 50.5''' Royal 49.5
+|-
+||BVA||20 February 2007||<ref>{{cite web|url=http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14850 |title=Sarkozy First, Bayrou Would Win French Run-Off: Angus Reid Global Monitor |publisher=Angus-reid.com |date= |accessdate=13 June 2010}}</ref>||'''33'''||26||15||10||16||'''Sarkozy 52''' Royal 48, '''Bayrou 54''' Sarkozy 46, '''Bayrou 52''' Royal 48
+|-
+||CSA||20 February 2007||<ref>{{cite web|url=http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14820 |title=Royal Rebounds, Leads Sarkozy in France: Angus Reid Global Monitor |publisher=Angus-reid.com |date= |accessdate=13 June 2010}}</ref>||28||'''29'''||17||14||13||'''Sarkozy 51''' Royal 49
+|-
+||Louis-Harris||17 February 2007||<ref>{{cite web|url=http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14861 |title=Sarkozy Gains, Royal Falls Behind in France: Angus Reid Global Monitor |publisher=Angus-reid.com |date= |accessdate=13 June 2010}}</ref>||'''33'''||25.5||14||13||15||'''Sarkozy 54''' Royal 46
+|-
+||Ipsos||17 February 2007||<ref>{{cite web|url=http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14840 |title=Sarkozy Has Ten-Point Advantage in France: Angus Reid Global Monitor |publisher=Angus-reid.com |date= |accessdate=13 June 2010}}</ref>||'''33'''||23||16||13||15||'''Sarkozy 54''' Royal 46
+|-
+||Ifop||15 February 2007||<ref>{{cite web|url=http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14828 |title=Bayrou Gains, But Still Third in French Ballot: Angus Reid Global Monitor |publisher=Angus-reid.com |date= |accessdate=13 June 2010}}</ref>||'''32'''||25.5||16||11||15.5||'''Sarkozy 53''' Royal 47
+|-
+||TNS-Sofres||15 February 2007||<ref>{{cite web|url=http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14808 |title=Sarkozy Remains Ahead of Royal in France: Angus Reid Global Monitor |publisher=Angus-reid.com |date= |accessdate=13 June 2010}}</ref>||'''33'''||26||12||13||16||'''Sarkozy 55''' Royal 45
+|-
+||CSA||12 February 2007||<ref>{{cite web|url=http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14788 |title=Sarkozy Leads by Seven Points in France: Angus Reid Global Monitor |publisher=Angus-reid.com |date= |accessdate=13 June 2010}}</ref>||'''33'''||26||12||14||15||'''Sarkozy 54''' Royal 46
+|-
+||BVA||12 February 2007||<ref>{{cite web|url=http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14771 |title=Sarkozy First in French Presidential Ballot: Angus Reid Global Monitor |publisher=Angus-reid.com |date= |accessdate=13 June 2010}}</ref>||'''35'''||29||14||10||12||'''Sarkozy 53''' Royal 47
+|-
+||Ipsos||12 February 2007||<ref>{{cite web|url=http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14751 |title=Royal Gets No Bounce, Sarkozy First in France: Angus Reid Global Monitor |publisher=Angus-reid.com |date= |accessdate=13 June 2010}}</ref>||'''34'''||27||14||13||12||'''Sarkozy 54''' Royal 46
+|-
+||Ifop||12 February 2007||<ref>{{cite web|url=http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14738 |title=Sarkozy Leads, Bayrou Gains in France: Angus Reid Global Monitor |publisher=Angus-reid.com |date= |accessdate=13 June 2010}}</ref>||'''33.5'''||26||14||10||16.5||'''Sarkozy 54''' Royal 46
+|-
+||Louis-Harris||10 February 2007||<ref>{{cite web|url=http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14779 |title=Sarkozy First, Bayrou Third in France: Angus Reid Global Monitor |publisher=Angus-reid.com |date= |accessdate=13 June 2010}}</ref>||'''31'''||27||13||12||17||'''Sarkozy 53''' Royal 47
+|-
+||Louis-Harris||3 February 2007||<ref>{{cite web|url=http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14704 |title=Sarkozy’s Gain is Royal’s Loss in France: Angus Reid Global Monitor |publisher=Angus-reid.com |date= |accessdate=13 June 2010}}</ref>||'''33'''||27||13||9||18||'''Sarkozy 52''' Royal 48
+|-
+||Ipsos||3 February 2007||<ref>{{cite web|url=http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14687 |title=Sarkozy Leads Royal by Seven Points in France: Angus Reid Global Monitor |publisher=Angus-reid.com |date= |accessdate=13 June 2010}}</ref>||'''34'''||27||13||11||15||'''Sarkozy 53''' Royal 47
+|-
+||TNS-Sofres||1 February 2007||<ref>{{cite web|url=http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14661 |title=Sarkozy Still Ahead of Royal in France: Angus Reid Global Monitor |publisher=Angus-reid.com |date= |accessdate=13 June 2010}}</ref>||'''32'''||26||13||12.5||18.5||'''Sarkozy 53''' Royal 47
+|-
+||CSA||31 January 2007||<ref>{{cite web|url=http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14674 |title=Sarkozy Keeps Upper Hand in French Ballot: Angus Reid Global Monitor |publisher=Angus-reid.com |date= |accessdate=13 June 2010}}</ref>||'''31'''||27||12||16||14||'''Sarkozy 53''' Royal 47
+|-
+||Ipsos||27 January 2007||<ref>{{cite web|url=http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14625 |title=Sarkozy Gains, Royal Stumbles in France: Angus Reid Global Monitor |publisher=Angus-reid.com |date= |accessdate=13 June 2010}}</ref>||'''35'''||26||11||11||17||'''Sarkozy 54''' Royal 46
+|-
+||Louis-Harris||27 January 2007||<ref>{{cite web|url=http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14595 |title=Sarkozy Leads Royal, Le Pen Fourth in France: Angus Reid Global Monitor |publisher=Angus-reid.com |date= |accessdate=13 June 2010}}</ref>||'''31'''||29||14||10||15.5||'''Sarkozy 51''' Royal 49
+|-
+||BVA||23 January 2007||<ref>{{cite web|url=http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14496 |title=Sarkozy Has Six-Point Lead in France: Angus Reid Global Monitor |publisher=Angus-reid.com |date= |accessdate=13 June 2010}}</ref>||'''33'''||27||13||10||17||'''Sarkozy 52''' Royal 48
+|-
+||Ipsos||20 January 2007||<ref>{{cite web|url=http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14540 |title=Sarkozy Extends Lead Over Royal in France: Angus Reid Global Monitor |publisher=Angus-reid.com |date= |accessdate=13 June 2010}}</ref>||'''32'''||29||11||13||15||'''Sarkozy 52''' Royal 48
+|-
+||Ifop||20 January 2007||<ref>{{cite web|url=http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14518 |title=Sarkozy Maintains Edge in French Ballot: Angus Reid Global Monitor |publisher=Angus-reid.com |date= |accessdate=13 June 2010}}</ref>||'''32.5'''||28||12.5||11||16||'''Sarkozy 51''' Royal 49
+|-
+||CSA||17 January 2007||<ref>{{cite web|url=http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14454 |title=Sarkozy Barely Ahead of Royal in France20070122: Angus Reid Global Monitor |publisher=Angus-reid.com |date= |accessdate=13 June 2010}}</ref>||'''30'''||29||9||15||17||'''Sarkozy 52''' Royal 48
+|-
+||Ifop||15 January 2007||<ref>{{cite web|url=http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14424 |title=Sarkozy Leads, Bayrou Third in France: Angus Reid Global Monitor |publisher=Angus-reid.com |date= |accessdate=13 June 2010}}</ref>||'''33'''||28||12||10||17||'''Sarkozy 52''' Royal 48
+|-
+||Ipsos||7 January 2007||<ref>{{cite web|url=http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14358 |title=Sarkozy First, Run-Off Expected in France: Angus Reid Global Monitor |publisher=Angus-reid.com |date= |accessdate=13 June 2010}}</ref>||'''33'''||32||10||12||13||Sarkozy 50 Royal 50
+|-
+||Ifop||5 January 2007||<ref>{{cite web|url=http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14370 |title=Royal First, Hulot Would Alter Race in France: Angus Reid Global Monitor |publisher=Angus-reid.com |date= |accessdate=13 June 2010}}</ref>||25||'''27'''||10||12||25.5||'''Royal 50.5''' Sarkozy 49.5
+|-
+||CSA||3 January 2007||<ref>{{cite web|url=http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14317 |title=Royal Edges Sarkozy in French Presidential Race: Angus Reid Global Monitor |publisher=Angus-reid.com |date= |accessdate=13 June 2010}}</ref>||32||'''34'''||6||15||13||'''Royal 52''' Sarkozy 48
+|-
+||Ifop||15 December 2006||<ref>{{cite web|url=http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14269 |title=Royal First, Chirac at 5% in French Election: Angus Reid Global Monitor |publisher=Angus-reid.com |date= |accessdate=13 June 2010}}</ref>||29||'''31'''||8||11||21||Sarkozy 50 Royal 50
+|-
+||BVA||12 December 2006||<ref>{{cite web|url=http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14194 |title=Royal Leads, Sarkozy Second in France: Angus Reid Global Monitor |publisher=Angus-reid.com |date= |accessdate=13 June 2010}}</ref>||32||'''35'''||8||9||16||'''Royal 51''' Sarkozy 49
+|-
+||Ipsos||9 December 2006||<ref>{{cite web|url=http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14099 |title=Sarkozy Still Barely Ahead in France: Angus Reid Global Monitor |publisher=Angus-reid.com |date= |accessdate=13 June 2010}}</ref>||'''34'''||32||9||11.5||13.5||Sarkozy 50 Royal 50
+|-
+||Ipsos||2 December 2006||<ref>{{cite web|url=http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14024 |title=Sarkozy Keeps Edge in French Election: Angus Reid Global Monitor |publisher=Angus-reid.com |date= |accessdate=13 June 2010}}</ref>||'''35'''||31||8||12.5||14.5||'''Sarkozy 51''' Royal 49
+|-
+||Ifop||1 December 2006||<ref>{{cite web|url=http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/14004 |title=Tight Presidential Contest Continues in France: Angus Reid Global Monitor |publisher=Angus-reid.com |date= |accessdate=13 June 2010}}</ref>||30||'''31'''||9||12||18||Sarkozy 50 Royal 50
+|-
+||CSA||22 November 2006||<ref>{{cite web|url=http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/13949 |title=Royal First, Le Pen Gains in France: Angus Reid Global Monitor |publisher=Angus-reid.com |date= |accessdate=13 June 2010}}</ref>||29||'''32'''||6||17||16||'''Royal 53''' Sarkozy 47
+|-
+||Ifop||18 November 2006||<ref>{{cite web|url=http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/13937 |title=Sarkozy, Royal Even in French Presidential Race: Angus Reid Global Monitor |publisher=Angus-reid.com |date= |accessdate=13 June 2010}}</ref>||29||29||11||11||20||'''Royal 51''' Sarkozy 49
+|-
+||Ipsos||11 November 2006||<ref>{{cite web|url=http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/13853 |title=Sarkozy Ahead of Royal in French Ballot: Angus Reid Global Monitor |publisher=Angus-reid.com |date= |accessdate=13 June 2010}}</ref>||'''34'''||30||8||10||18||Sarkozy 50 Royal 50
+|-
+||TNS-Sofres||9 November 2006||<ref>{{cite web|url=http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/13808 |title=Sarkozy, Royal Tied in French Presidential Race: Angus Reid Global Monitor |publisher=Angus-reid.com |date= |accessdate=13 June 2010}}</ref>||34||34||7||13||12|| 
+|-
+||CSA||8 November 2006||<ref>{{cite web|url=http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/13783 |title=No Clear Favourite Yet in French Election: Angus Reid Global Monitor |publisher=Angus-reid.com |date= |accessdate=13 June 2010}}</ref>||'''30'''||29||7||15||19||'''Royal 51''' Sarkozy 49
+|-
+||CSA||18 October 2006||<ref>{{cite web|url=http://www.angus-reid.com/polls/index.cfm/fuseaction/viewItem/itemID/13578 |title=Royal, Sarkozy Keep Close Race in France: Angus Reid Global Monitor |publisher=Angus-reid.com |date= |accessdate=13 June 2010}}</ref>||31||'''32'''||7||15||15||'''Royal 52''' Sarkozy 48
+|}
+
+==See also==
+* [[Elections in France]]
+* [[French legislative election, 2007]]
+* [[Two-round system]]
+
+==References==
+{{reflist|30em}}
+
+==External links==
+{{Commons category|French presidential election (2007)|French presidential election, 2007}}
+*[http://www.telegraph.co.uk/frenchelections2007/ French Elections 2007] from Britain's ''Daily Telegraph''
+*[http://news.bbc.co.uk/1/hi/in_depth/629/629/6523279.stm Royal, Sarkozy and Bayrou: The policies], [[BBC]]
+*[http://www.ambafrance-uk.org/The-presidential-election.html Explanation of the French presidential election on the site of the French Embassy to the United Kingdom]
+* [http://perso.orange.fr/john.mullen/2007elections.html Polarisation and crisis – the French elections and the radical Left]
+*[http://www.angus-reid.com/polls/index.cfm/fuseaction/searchSimpleResults/iw/1/keyword/sarkozy%20and%20royal AngusReid (French election polls in English)]
+*[http://news.bbc.co.uk/2/hi/europe/6378341.stm BBC News: Q&A: French presidential vote]
+* {{fr icon}} [http://www.politiquemania.com/resultats-presidentielles-2007-commune-0-0-0.html#resultats 2007 Presidential Vote Results by Commune]
+{{French elections}}
+
+[[Category:French presidential election, 2007| ]]
+[[Category:2007 elections in France]]
+[[Category:Presidential elections in France|2007]]

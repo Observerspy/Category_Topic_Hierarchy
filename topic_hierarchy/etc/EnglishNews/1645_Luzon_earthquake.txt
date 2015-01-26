@@ -1,0 +1,68 @@
+{{Infobox earthquake
+|title              = 1645 Luzon earthquake
+|image              = 
+|image alt          = 
+|imagecaption       =
+|map                = 
+|map alt            = 
+|image name         =
+|map2               = {{Location map | Philippines
+ | label=
+ | lat=15.7
+ | long=121.2
+ | mark= Bullseye1.png
+ | marksize=40
+ | position=top
+ | label=
+ | lat2=
+ | long2=
+ | mark2=
+ | mark2size=
+ | position=left
+ | width= 260
+ | float=right
+ | caption=Location of epicenter in the Philippines}}
+|mapsize            = 
+|caption            = 
+|date               = {{Start-date|November 30, 1645}}
+|origintime         = 8:00 PM
+|duration           =
+|magnitude          = 7.5 Surface wave magnitude|M<sub>s</sub>
+|depth              = <!-- {{convert|NNN|km|mi|0|abbr=on}} -->
+|location           = 
+|type               =
+|countries affected = Philippines, Central Luzon
+|damage             = Unknown
+|intensity          =
+|PGA                = <!-- NN''Peak ground acceleration|g'' -->
+|tsunami            = 
+|landslide          = 
+|foreshocks         =
+|aftershocks        =
+|casualties         = 600 (?)
+}}
+
+The '''1645 Luzon earthquake''' was one of the most destructive earthquakes to hit the Philippines. It occurred on a Monday, November 30, 1645 at about 08:00 PM local time on Luzon|Luzon Island in the northern part of the country. The island was struck by a 7.5 M<sub>s</sub> (surface wave magnitude) tremor produced by the San Manuel and Gabaldon Faults (Gabaldon, Nueva Ecija|Nueva Ecija) in the central section of the island.
+
+Aftershocks continued a few days after the quake then on December 4, 1645 at 11:00 pm, a strong earthquake allegedly equal or stronger than the November 30 shaking hit the same area, causing further death and destruction.{{rp|226}}
+
+==Extent==
+Its meizoseismal area was not less than {{convert|490|km}} from north to south, that is, from the southern coast of Batangas and Quezon Provinces of the Philippines|provinces to Cagayan in the northeasternmost part of the island. On the western coast, it seems to have been of less intensity; at least the chronicles of the time are silent about its effects in these parts.  They dealt very much with the destruction caused in Manila and neighboring provinces to the south, east, and north, the tremendous effects produced in the eastern part of the Cordillera Central (Luzon)|Central Cordillera Mountains, and as far north as in Lal-Lo, Cagayan|Lal-Lo in the Cagayan Valley where large fissures opened in the earth and many large landslides occurred in the hills.
+
+==Manila==
+In Manila, the earthquake occurred during the feast of Saint Andrew, the patron saint of the city. The damage was entirely severe; almost all the city lay in ruins.  An estimated 600 Spanish people were killed, and about 3,000 Spanish were injured. Only the Spaniards, who perished during the earthquake, were counted by the ruling Spanish government, while other persons were disregarded.
+
+==See also==
+*List of earthquakes in the Philippines
+
+==References==
+
+{{reflist}}
+
+{{Earthquakes in the Philippines}}
+
+{{Coord|16.741428|N|121.750488|E|display=title}}
+
+Category:Earthquakes in the Philippines
+Category:1645 in the Philippines|Luzon Earthquake, 1645
+Category:1645 earthquakes|Luzon Earthquake, 1645

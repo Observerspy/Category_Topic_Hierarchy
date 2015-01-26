@@ -1,0 +1,73 @@
+{{Infobox earthquake
+| title = 2013 Solomon Islands earthquake
+| image = 
+| image alt =
+| imagecaption =Shake map
+| caption =
+| map2 = {{Location map | Oceania
+| relief = yes
+| label = Epicenter
+| lat = -10.7377
+| long = 165.1378
+| mark = Bullseye1.png
+| marksize = 40
+| position = bottom
+| width = 250
+| float = right
+| caption = }}
+| date = {{Start date|2013|02|06|df=y}}
+| magnitude = M<sub>w</sub> 8.0
+|depth = 28.7 km
+|location = {{Coord|10.7377|S|165.1378|E |format=dms |type:event_dim:200km |display=inline,title}}
+|type = Megathrust earthquake|Megathrust
+|countries affected = {{SOL}}<br> {{NCL}}<br> {{VAN}}
+|damage =
+|intensity = 
+|tsunami = Yes
+|aftershocks = 20
+|PGA =
+|casualties = 10 dead, 6 missing, 17 injured
+}}
+The '''2013 Solomon Islands earthquake''' struck northeast of Australia on 6&nbsp;February with a Moment magnitude scale|moment magnitude of 8.0. Its epicenter was the Solomon Islands, at the boundaries of the Indo-Australian Plate|Australian and Pacific plate|Pacific List of tectonic plates|tectonic plates, causing local evacuations and a tsunami of {{convert|1.5|m|ft|abbr=on}} and killing at least 9 people.
+
+== Background ==
+
+The Santa Cruz and Solomon Islands are located on the plate boundary between the Australian and Pacific plate. This highly seismic region has “near 90° bend in the boundary…" On February 6, 2013, the largest under-thrusting earthquake ever to be recorded in that area caused a tsunami and both were destructive to the area. Major villages on both groups of islands, Lata and Nend? were destroyed and at least 724 homes were confirmed as damaged.
+== Geographic Information ==
+
+The earthquake was formed on the boundary between the Pacific and Australian plates. This area has very complicated faulting patterns that are very close to the Solomon Island arcs and Vanuatu Island arcs. The area is used to high frequency, low to moderate intensity seismic activity.
+However, many of the “larger events recorded have involved intraplate and interplate earthquakes with magnitudes up to about 8.0, several of which were located near the abrupt bends in the arcs.
+The Solomon Islands appear to have more seismic activity than the other areas earthquake productivity than most areas. The area also seems to produce more earthquake “doublets” and “triplets,” a deviation from the normal earthquake aftershock in which a second and sometimes third earthquake can be produced from the aftershock of the first earthquake. This occurs rarely, maybe once or twice a year, making this area a unique seismic area.
+
+==Seismologic details==
+On 6&nbsp;February 2013, at 12:12 local time (01:12 UTC) an earthquake struck the Solomon Islands, located in the south Pacific Ocean. The earthquake occurred due to the interaction between the Indo-Australian Plate|Australian Plate and the Pacific Plate, and was preceded by dozens of foreshocks in the region.“This event had a shallow dipping thrust faulting mechanism…” and “…produced a tsunami of ~ 1.5 height” on the Santa Cruz Islands. This is the largest regional event in the seismological record dating back to about 1900 and there is no record of large tsunami ever hitting the area after similar sized events. Toward the end of the week before February 6, the area was very active and there were many magnitude 6 earthquakes that occurred in the area.
+Originally, the earthquake was reported as a magnitude 6, which would not be a cause for concern in this area as it was unlikely that a tsunami would form. However, more information came in, determining that the earthquake was about a magnitude 8 causing extreme tsunami warnings for the area. The closest island to the epicenter, Nendo and it’s largest city, Lata were said to experience the largest amount of shaking. Even though there were aftershock earthquakes of magnitude 6, the most worrisome affect of the earthquake was the potential tsunami. As the wait for the tsunami continued, many villages had already been destroyed. For example, the massive earthquake destroyed many villages to the west and south of Lata, on the coastline, before the tsunami had even arrived. Many Pacific countries had ordered evacuations, as their authorities did not have to take any risks. Even countries that were not on the warning list were being evacuated. Residents of the Solomon Islands and other surrounding islands were working their way to higher ground. Major traffic jams were caused in Honiara, the capital city of Solomon Islands as people were attempting to get away from the coming wave. After the mainshock, the epicenter area was hit by 13 aftershocks greater than magnitude 5.”
+
+==Tsunami==
+The Pacific Tsunami Warning Center issued a tsunami warning for the Solomon Islands, Papua New Guinea, Fiji,
+
+==Damage==
+In Honiara, the capital of the Solomon Islands, residents evacuated to higher ground, In Lata, the tsunami damaged the airport and flooded low-lying areas, More than 100&nbsp;houses on the island were damaged, and the water and electricity services were interrupted. The earthquake killed 9 people, and 5 people remain listed as missing.
+
+== Recovery ==
+
+85% of the people on these islands live a subsistence lifestyle.
+The ecosystems in both of these islands are already being threatened by things like invasive species, major loss of costal land, and overharvesting. This is because the population is slowly growing and they need more resources to survive. The population is growing about 4.4% annually and as it grows, the people must use more of their natural resources as food and shelter. There are many human elements that affect the ecosystem and how both the Santa Cruz and Solomon Islands will recover from the natural disasters. Firstly, both sets of islands are guilty of destroying their land by overharvesting and slowly depleting their biodiversity. Though it was once one of the most diverse ecosystems in the world, very little attention is given to biodiversity and environmental conservation.
+
+==See also==
+* 2007 Solomon Islands earthquake
+
+==References==
+{{reflist|30em}}
+
+==External links==
+*http://www.iris.edu/spudservice/data/1066761 February 06, 2013, Santa Cruz Islands, M = 8.0 (1:23) by the Incorporated Research Institutions for Seismology
+
+{{Earthquakes in 2013}}
+
+Category:2013 earthquakes
+Category:2013 in the Solomon Islands
+Category:2013 in Vanuatu
+Category:21st-century tsunamis
+Category:Megathrust earthquakes in the Solomon Islands
+Category:Natural disasters in Vanuatu|2013 Solomon

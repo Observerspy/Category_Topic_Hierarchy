@@ -1,0 +1,102 @@
+{{pp-move-indef}}
+{{Earthquake
+|title=1997 Qayen earthquake
+|date= {{start-date| May 10, 1997}}
+|map = 1997 northern iran earthquake map.jpg
+|caption= Map showing the earthquake's epicenter
+|map alt= The earthquake's epicenter is shown in northeastern Iran. Just next to the earthquake is a mountain ridge. To the west is the Afghan border.
+|magnitude = 7.3 Moment magnitude scale|M<sub>w</sub>
+|depth={{convert|10|km|mi|0|sp=us}}
+|location={{Coord|33.82|N|59.80|E |format=dms |region:IR_type:event |display=inline,title}}
+|countries affected = {{flag|Iran}}
+{{Flag|Afghanistan|Taliban}}
+|casualties = at least 1,567 dead, 2,300 injured, and around 50,000 homeless
+}}
+
+The '''Qayen earthquake''', also known as the '''Ardekul''' or '''Qaen earthquake''', was a Earthquake#Major earthquakes|major earthquake that struck Northern Iran's Khorasan Province on May 10, 1997 at 07:57 Coordinated universal time|UTC (12:57 local time). Some 155&nbsp;aftershocks caused further destruction and drove away survivors. The earthquake was later discovered to have been caused by a rupture along a Fault (geology)|fault that runs underneath the Iran–Afghanistan border.
+
+Damage was eventually estimated at $100&nbsp;million, and many countries responded to the emergency with donations of blankets, tents, clothing, and food. Rescue teams were also dispatched to assist local volunteers in finding survivors trapped under the debris. The destruction around the earthquake's epicenter was, in places, almost total; this has been attributed to poor construction practices in rural areas, and imparted momentum to a growing movement for changes in building codes. With 1 in 3,000 deaths in Iran attributable to earthquakes, a US geophysicist has suggested that a country-wide rebuilding program would be needed to address the ongoing public safety concerns.
+
+== Background and geology ==
+Iran experiences regular earthquakes, with 200 reported in 1996 alone. It occurred on Saturday, May 10, 1997, at 12:57 IRST in the Sistan region, one of the most seismically active areas of the country.  The first major earthquake in that region since 1979, it registered 7.3 on the moment magnitude scale (M<sub>w</sub>), 7.2 on the surface wave magnitude scale (M<sub>s</sub>), 7.7 on the energy magnitude scale (M<sub>e</sub>), and had a maximum perceived intensity of ''X'', or ''disastrous'' on the Mercalli scale.
+File:Crocus sativus2.jpg|thumb|left|Saffron was a spice farmed by some of the earthquake victims.|alt=Two purple flowers rise above a variety of weeds. The stigmas of the plant are visible.
+
+The earthquake was caused by a rupture along the Abiz Fault, part of the Sistan suture zone of eastern Iran. Most of Iran is contained on one microplate, causing seismic activity mainly along its borders. Both the 1968 Dasht-e Bayaz and Ferdows earthquake|1968 Dasht-e-Bayez earthquake (magnitude 7.3, resulting in 12,000–20,000&nbsp;deaths) and the Qayen earthquake were the results of Fault (geology)#Strike-slip faults|strike-slip faults, meaning that the crustal blocks on either side of the faults shifted against each other horizontally. In addition to the dominant strike-slip displacement, there was also local evidence of Fault (geology)#Dip-slip faults|reverse faulting. The average displacement of about 2 m indicates a low static stress drop, more consistent with an interplate earthquake than an Intraplate earthquake|intraplate event. The Fault (geology)|surface fault that caused the earthquake extended for {{convert|110|km|mi|0|sp=us|adj=on}}, which was longer than would be expected given the earthquake's magnitude. There were at least 155&nbsp;aftershocks, reaching a magnitude of up to 5.5 on the Richter magnitude scale. Many of the aftershocks occurred along the rupture up to {{convert|24|km|mi|...}} below the surface.
+
+The earthquake's epicenter was within the village of Ardekul The village is isolated between mountains and hills.  Although the Iranian government had distributed more than 800 seismographs throughout the country, few had been placed in the Qayen region due to its  desert climate and the remoteness of the area.
+
+As a result of the dry climate, timber—a main component in building earthquake-resistant homes—is scarce in Qayen; homes are instead constructed of adobe. The inhabitants of the poverty-stricken region rely on subsistence agriculture|subsistence farming, raising livestock and crops such as wheat and saffron.  When the earthquake struck, much of the population was already working in the fields;<!--this makes implications about the time of day the quake hit, but the time isn't mentioned above--> for the most part, these people survived. Many of those treated for injuries were found to be undernourished.
+
+== Damage and casualties ==
+File:Qayen.JPG|thumb|right|400px|Southwest view of Qayen in 2006|alt=Sparse brown vegetation in dusty soil fills the foreground, fading to distant mountains along the horizon. A barely discernible scattering of buildings is in the middle-distance.
+The earthquake was felt over an area of {{convert|500000|km2|mi2|0|sp=us}}, including in the cities of Mashhad, Kerman and Yazd. Destruction was most severe within a {{convert|60|mi|km|0|sp=us|adj=on}} strip between the epicenter and Birjand, Iran|Birjand. The tremors triggered landslides across the region and proved  highly destructive to the region's mud-hut buildings. Entire streets were reduced to rubble, and in one village, 110&nbsp;young girls were killed when their elementary school collapsed.
+
+An initial report in ''The New York Times'' claimed that more than 2,000 people had died in the worst-affected area, with a further 394 in Birjand and two in the small town of Khavaf. The earthquake was also said to have caused five fatalities in Afghanistan.
+
+Many villages lost both power and water, leaving survivors unable to fend for themselves.
+The extensive aftershocks prompted survivors to leave the vicinity of their homes and take to tents. Several days later, another earthquake of magnitude 4.8 struck. In the wake of the earthquake and its aftershocks, every one of the 700&nbsp;houses in the tiny village of Abiz, {{convert|90|km|mi|...|sp=us}} east of Qayen, was destroyed, and 400 of its 1200 residents killed.
+
+According to an Iranian radio station report, 200 villages sustained severe damage or were totally destroyed.  Local officials initially estimated the cost of the damage at $67&nbsp;million 1997 US$ (roughly 89.5&nbsp;million 2008 USD).
+
+Many of the more seriously damaged homes were of simple construction, with walls made of mud, adobe, or brick packed 40–50&nbsp;cm (16–20&nbsp;in) thick.  These materials are generally more vulnerable to the force of the earthquake. However, some of the traditionally constructed homes sustained little or no damage.  This was due to a range of factors, possibly including the height-to-width ratio, the lack of windows, and the quality of the materials used.
+
+== Relief efforts ==
+<div style="float:right; width:25%">
+{| class="wikitable" border="1"
+|-
+!Organization/Country
+!Amount donated
+|-
+|United Nations-related agencies||$525,000
+|-
+|Japan||$300,000
+|-
+|Organization of Petroleum Exporting Countries|OPEC countries||$300,000
+|-
+|Germany||$235,000
+|-
+|United Kingdom||$200,000
+|-
+|Norway||$90,000
+|-
+|Denmark||$35,000
+|-
+|International Red Cross and Red Crescent Organizations||$33,800
+|-
+|United States||$25,000
+|}
+</div>
+Several thousand volunteers were brought in to join the search for survivors buried under mounds of brick and cement debris.  Many volunteers worked with nothing but their hands. Local organizations, including the Iranian Red Crescent, sent 9,000&nbsp;tents, more than 18,000&nbsp;blankets, canned food, rice, and dates.
+
+The United Nations Secretary General, Kofi Annan, pleaded that the international community "respond promptly and with generosity". A specialist British disaster rescue organisation, the International Rescue Corps, offered to send a team but were refused visas (with the reasoning that "enough rescue crews had already arrived at the disaster site") and a Swiss offer of additional assistance was also turned down. Several countries within the Persian Gulf political region sent condolences to the families of victims and the government in the area.
+
+Because the affected area is extremely remote, distributing the relief supplies was difficult.  Reaching some villages would require a five-hour drive over unpaved roads, some of which had collapsed or had been covered by landslides during the earthquake.  Helicopters were used to provide supplies to some otherwise inaccessible areas.
+
+Although aid operations continued for some time, the Iranian government ceased rescue work on May 14.  No more survivors were expected to be found in the rubble.
+
+== Future threats ==
+Iran was listed as "the worst offender" in a 2004 report on countries with poor earthquake engineering. The United Nations have prepared a Common Country Assessment for Iran, which likewise states that, "While adequate building regulations exist for large cities, it is generally believed that they are not rigorously adhered to... most of those who have suffered in recent major earthquakes have lived in small towns and villages. Earthquake-proof construction is very rare in those areas and adequate building regulations are not yet in place".
+
+The earthquakes of Iran are a large concern to the populace and are an impediment to economic development. Twelve earthquakes with a Richter magnitude of over seven have occurred within the last century. Three-quarters of the major cities of Iran are in areas prone to major earthquakes. The 1990 Manjil-Rudbar earthquake, with at least 42,000 fatalities, cost Iran roughly 7.2 percent of its Gross National Product (GNP) for that year and wiped out two years of economic growth.
+
+In 2007, the Asian Centre on Seismic Risk Reduction was formed in response to the regular earthquakes experienced by the southern, southwestern, and central Asian areas. This organization exists to "encourage regional and inter-regional networking and partnerships to reduce seismic damage". Earthquakes account for 73 percent of natural disaster deaths in the area.
+
+== Footnotes ==
+{{Reflist|group=nb}}
+
+== References ==
+{{Reflist|colwidth=30em}}
+{{Use mdy dates|date=May 2012}}
+
+{{Featured article}}
+
+{{Earthquakes in Iran}}
+
+{{DEFAULTSORT:1997 Qayen Earthquake}}
+Category:1997 earthquakes|Qayen
+Category:1997 in Iran|Qayen earthquake
+Category:Earthquakes in Iran|1997 Qayen
+Category:History of South Khorasan Province
+
+{{Link FA|fa}}
+{{Link FA|zh}}

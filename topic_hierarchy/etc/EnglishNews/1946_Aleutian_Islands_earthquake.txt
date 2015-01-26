@@ -1,0 +1,47 @@
+{{Infobox earthquake
+|title = 1946 Aleutian Islands earthquake
+|date = {{start-date|1 April 1946}}
+|origintime =  12:28 (Coordinated Universal Time|UTC)
+|image = Tsunami large.jpg
+|imagecaption = Residents run from an approaching tsunami in Hilo, Hawai'i
+|map2 = {{Location map | Alaska
+ | relief = yes
+ | label =
+ | lat = 52.8
+ | long = -163.5
+ | mark = Bullseye1.png
+ | marksize = 40
+ | position = top
+ | width = 250
+ | float = right
+ | caption = }}
+|magnitude = 8.1 Moment magnitude scale|M<sub>w</sub>  
+|depth = {{convert|25|km|mi|sp=us}}
+|location = {{Coord|52.8|N|163.5|W|display=inline,title}}
+|countries affected = USA, Hawaii, Alaska
+|tsunami = Yes
+|casualties = 165
+}}
+The '''1946 Aleutian Islands earthquake''' occurred near the Aleutian Islands, Alaska on April 1, 1946. It was followed by a Pacific-wide tsunami. The earthquake was a magnitude 8.1, with its epicenter at 52.8°N, 163.5°W, and focal depth of 25&nbsp;km.  It resulted in 165 casualties (159 people on Hawaii and six in Alaska) and over $26 million in damages. Multiple destructive waves at heights ranging from 45–130&nbsp;ft occurred. The tsunami obliterated the Scotch Cap Lighthouse on Unimak Island, Alaska among others, and killed all five lighthouse keepers. The wave reached Kauai 4.5 hours after the quake, and Hilo, Hawaii|Hilo 4.9 hours later.
+
+The tsunami was unusually powerful for the size of the earthquake and due to the discrepancy between the size of the tsunami and the relatively low magnitude on the surface wave magnitude scale, it is classified as a tsunami earthquake. The large-scale destruction prompted the creation of the Seismic Sea Wave Warning System, which later became the Pacific Tsunami Warning Center in 1949.
+
+==See also==
+*List of earthquakes and tsunamis in the United States
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{YouTube|id=09xQ8n6GiTY|title=Tsunami 1946 - Hilo}}. Photo- and video-material of the tsunami in Hilo.
+
+{{Alaska history footer|state=collapsed}}
+
+{{DEFAULTSORT:1946 Aleutian Islands Earthquake}}
+Category:1946 earthquakes|Aleutian Islands Earthquake, 1946
+Category:1946 in Alaska
+Category:Megathrust earthquakes in Alaska
+Category:Tsunamis in the United States
+Category:20th-century tsunamis
+
+{{earthquake-stub}}

@@ -1,0 +1,57 @@
+{{coord|38.5|20.5|display=title}}
+{{Earthquake
+|title = 1953 Ionian earthquake
+|date = {{start-date| 12 August 1953}}
+|origintime = 09:24 Coordinated Universal Time|UTC
+|map2 = {{Location map | Greece|relief=1
+ | label =
+ | lat = 38.2
+ | long = 20.6
+ | mark = Bullseye1.png
+ | marksize = 40
+ | position = top
+ | width = 250
+ | float = right
+ | caption = }}
+|magnitude = 7.2 Surface wave magnitude|M<sub>s</sub> 
+|depth =
+|location = {{coord|38.2|N|20.6|E}} 
+|countries affected = Greece, Kefalonia and Zakynthos
+|tsunami = 
+|casualties = 455 
+}}
+
+The '''Great 1953 Ionian Earthquake''' struck the southern Ionian Islands in Greece on August 12, 1953. In mid-August there were over 113 recorded earthquakes in the region between Kefalonia and Zakynthos, and the most destructive was the August 12 earthquake. The event measured 7.2 on the surface wave magnitude scale, and it raised up the whole island of  Kefalonia by 60&nbsp;cm,
+
+== Earthquake ==
+{{see also|Hellenic arc}}
+
+The quake struck at 09:24 (UTC) or 11:24 (local time) and the Royal Navy vessels HMS Gambia|HMS ''Gambia'' and HMS Bermuda (52)|HMS ''Bermuda'' were among the first on the scene. In addition, four Israeli warships received calls for help coming from the Island of Kefalonia and the ships headed to the island. The sailors provided emergency medical aid, food, and water. This was the first time Israel provided aid to a disaster-stricken area.
+
+The earthquake is generally known as the great Kefalonia Earthquake, but damage was very heavy in the capital of Zakynthos (city)|Zakynthos. Only two buildings survived the earthquake there and the rest of the island's capital had to be rebuilt. Argostoli, the capital of Kefalonia, suffered substantial damage and the whole of Kefalonian buildings were flattened except for Fiskardo's in the far north.
+
+== Damage ==
+As well as causing major destruction on the two islands, the economic impact of the earthquake was far greater, and damage was estimated to have totaled billions of Drachmas. Many people fled the island after the earthquake: some people temporarily moved to the capital, however the majority immigrated out of Greece entirely to countries such as Canada, USA or the UK, leaving both the islands and their economy in ruins. File:Z-assos-1953.jpg|thumb|damage still present in 2011
+
+== Aftermath ==
+{{see also|List of earthquakes in Greece}}
+
+Earthquakes still regularly shake the islands of Zakynthos and Kefalonia, including several 2006 earthquakes at Zakynthos and others in 2003 and 2005, respectively. Lately there were two big earthquakes on January 26th & February 3rd 2014, which were measured 6.1 & 6.0 on the Richter scale, respectively. The epicenter of those earthquakes was both times in Kefalonia at a very low depth and caused several damage to the island.
+
+==Notes==
+{{Reflist|refs=
+
+
+}}
+
+== External links ==
+{{Commonscat|1953 Ionian earthquake}}
+
+{{Earthquakes in Greece}}
+{{History of the Ionian Islands}}
+
+Category:1953 earthquakes|Ionian Earthquake, 1953
+Category:Megathrust earthquakes in Greece
+Category:1953 in Greece|Ionian Earthquake, 1953
+Category:History of the Ionian Islands
+Category:Cephalonia

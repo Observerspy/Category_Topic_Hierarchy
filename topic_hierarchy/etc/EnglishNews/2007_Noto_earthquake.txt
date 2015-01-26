@@ -1,0 +1,280 @@
+{{Earthquake
+| title = 2007 Noto earthquake
+| date = {{Start date|2007|3|25}}
+| duration = About 30 seconds
+| origintime = 9:41:48 Japan Standard Time|JST (UTC+09:00)
+| map2 = {{Location map | Japan
+ | relief = yes
+ | label =
+ | lat = 37.3
+ | long = 136.5
+ | mark = Bullseye1.png
+ | marksize = 40
+ | position = top
+ | width = 250
+ | float = right
+ | caption = }}
+| magnitude = 6.9 M<sub>j</sub> (6.7 Moment magnitude scale|M<sub>w</sub>)
+| depth = {{Convert|11|km|mi|0|abbr=on}}
+| location = {{coord|37.3|136.5|display=inline, title}}
+| type = Intraplate earthquake
+| intensity = ''Mercalli Scale|MM'' IX''Japan Meteorological Agency seismic intensity scale|Shindo'' 6+
+| PGA = 1.33 ''peak ground acceleration|g'' (vector sum)
+| countries affected = {{flagicon|Japan}} Japan
+| landslide= Yes
+| tsunami = Up to 22 cm in Suzu, Ishikawa|Suzu
+| aftershocks = 500~
+| casualties = 1 dead, 356 injured
+|}}
+
+At 9:41:58 a.m. on March 25, 2007, the {{nihongo|'''Noto Peninsula Earthquake'''|能登半岛地震|Noto hantō jishin}}, a Richter magnitude scale|magnitude 6.9 earthquake, struck the Hokuriku region of Japan, near the Noto Peninsula. The earthquake shook the city of Wajima, Ishikawa|Wajima, the city of Nanao, Ishikawa|Nanao, and the town of Anamizu, Ishikawa|Anamizu with a Japan Meteorological Agency seismic intensity scale|seismic intensity of 6+ on Japan's Japan Meteorological Agency seismic intensity scale|''shindo'' scale.
+
+== Geology ==
+
+This earthquake was the result of Fault (geology)#Oblique-slip faults|oblique-slip faulting. By using sound waves, the National Institute of Advanced Industrial Science and Technology also found a fault 18~ km long that is supposed to have caused this earthquake.
+
+This earthquake was an intraplate earthquake that occurred within the Eurasia Plate, near the boundary with the North American Plate. Noto Peninsula itself was created by pressure pushing up sediment from the south-east, and many Fold (geology)|folds and Thrust fault#Reverse faults|reverse faults are in the area. Some Fault (geology)#Strike-slip faults|strike-slip faults are also found in the area. A 6.6 M<sub>j</sub> earthquake also struck Ishikawa Prefecture on February 7, 1993.
+
+Since the 1990s, the number of earthquakes with a magnitude of 6.0~ M<sub>j</sub> are increasing. Some seismologists say that the seismic activity in West Japan is at its peak, and many earthquakes will occur, like the Great Hanshin earthquake. This earthquake is sometimes considered as one of those earthquakes.
+
+Like the 2005 Fukuoka earthquake, it was announced that it "occurred in a area where seismic activity was relatively quiet", but earthquakes are possible anywhere in Japan and its surrounding areas. Also this earthquake's fault was out in sea, so it was not simulated in the seismic danger maps, since most of the faults simulated are inland faults. Some seismologists are trying to simulate these kind of earthquakes as well as inland earthquakes.
+
+=== Frequency ===
+
+This type of earthquake was estimated to have occurred 1~2 times in the last 20,000 years.
+
+== Main Shock ==
+File:Intensity 2007 march japan.jpg|thumb|USGS ShakeMap for the event
+
+The Japan Meteorological Agency placed the earthquake at 37.3°N, 136.5°E, at a depth of 11&nbsp;km. It estimated the magnitude at 7.1, but later revised its estimate to 6.9.  The earthquake had a maximum three-component vector sum peak ground acceleration of 1,304&nbsp;cm/s<sup>2</sup> (1.33 g). It occurred in a big seismic gap. Shaking in Wajima, Ishikawa|Wajima was very close to ''Japan Meteorological Agency seismic intensity scale|Shindo'' 7. It was the first time that ''Japan Meteorological Agency seismic intensity scale|Shindo'' 6- or more was observed in Ishikawa prefecture. It was also the 2nd time that ''Japan Meteorological Agency seismic intensity scale|Shindo'' 5- or more was observed in Toyama prefecture.
+
+=== Geophysical Effects ===
+
+The earthquake moved Shika, Ishikawa|Shika 25&nbsp;cm southwest, and Anamizu, Ishikawa|Anamizu 15&nbsp;cm northwest.　It also shifted an erosion terrace formed in the ice age and the sediment on top by 10&nbsp;cm.
+
+=== Extent ===
+
+Shaking was felt as far as Oshamanbe, Hokkaidō|Oshamanbe in the north, to Hiroshima, Hiroshima|Hiroshima in the west and Nahari, Kōchi|Nahari in the south.
+
+== Damage ==
+
+According to the National Research Institute for Earth Science and Disaster Prevention, the pattern of the shaking was similar to the shaking in the Great Hanshin earthquake and the 1994 Northridge earthquake, called the "killer pulse", pulse waves with a frequency of 1–2 seconds. This kind of shaking heavily damages buildings with around 2 floors. The shaking then got larger as it reached softer ground like alluvial plains, causing major damage.
+
+File:The Damage of Noto Toll Road.jpg|thumb|Board that shows the damage and repairs made on the Noto Toll Road
+File:The Damage of Bessyodake.jpg|thumb|Besshyo Service Area immediately after the earthquake
+* A 52-year-old woman died after a Tōrō collapsed and hit her head in Wajima, Ishikawa|Wajima.
+
+* 25 track ballasts on the Noto Line were shifted after the earthquake.
+
+* 22 cracks were found in the runway of Noto Airport. The runway was repaired by March 26.
+
+* Some parts of the Noto Toll Road collapsed, making people leave their cars on the road after they evacuated. The roads were completely repaired by November 30.
+
+* According to estimates about 110,000 houses had power outages, 13,250 houses had no water supply, and 260 houses' phones stopped working.
+
+* Many other houses had no gas supply after the earthquake.
+
+* Soil liquefaction was confirmed at the coasts near the epicenter and Himi, Toyama|Himi port.
+
+* Some people were trapped in elevators that stopped after the earthquake.
+
+; Ishikawa Prefecture(As of July 17, 2007)
+{| class="wikitable"
+! rowspan="2" |
+! colspan="3" | Casualties
+! colspan="3" | Structural<br/>Damage
+! rowspan="1" | Evacuation<br/>Centers
+! rowspan="1" | ''Japan Meteorological Agency seismic intensity scale|Shindo''
+|-
+! Deaths !! Serious Injuries !! Minor Injuries
+! Collapsed !! Half Collapsed !! Partially Damaged
+!
+!
+|-
+! Anamizu, Ishikawa|Anamizu
+|0||3||36||72||94||2,197||3||rowspan="3"|6+
+|-
+! Wajima, Ishikawa|Wajima
+|1||46||69||503||1,057||9,984||6
+|-
+! Nanao, Ishikawa|Nanao
+|0||17||110||50||252||6,493||0
+|-
+! Noto, Ishikawa|Noto
+|0||2||10||1||10||1,018||0||rowspan="3"|6-
+|-
+! Nakanoto, Ishikawa|Nakanoto
+|0||3||0||3||7||1,524||0
+|-
+! Shika, Ishikawa|Shika
+|0||10||27||14||217||3,385||1
+|-
+! Suzu, Ishikawa|Suzu
+|0||0||3||2||13||769||0||5+
+|-
+! Kahoku, Ishikawa|Kahoku
+|0||0||0||3||2||18||0||rowspan="3"|5-
+|-
+! Hōdatsushimizu, Ishikawa|Hōdatsushimizu
+|0||0||0||0||3||25||0
+|-
+! Hakui, Ishikawa|Hakui
+|0||0||1||3||13||133||0
+|-
+! Hakusan, Ishikawa|Hakusan
+|0||0||0||0||0||1||0||rowspan="3"|4
+|-
+! Tsubata, Ishikawa|Tsubata
+|0||0||1||0||0||2||0
+|-
+! Kaga, Ishikawa|Kaga
+|0||0||0||0||0||6||0
+|-
+! Total
+|1||81||257||649||1,655||24,959||10||Max 6+
+|}
+
+; Toyama Prefecture (As of March 28, 2007)
+{| class="wikitable"
+! rowspan="2" |
+! colspan="2" | Casualties
+! rowspan="1" | ''Japan Meteorological Agency seismic intensity scale|Shindo''
+|-
+! Serious Injuries !! Minor Injuries
+!
+|-
+! Toyama, Toyama|Toyama
+|1||0||rowspan="4"|5-
+|-
+! Himi, Toyama|Himi
+|0||1
+|-
+! Oyabe, Toyama|Oyabe
+|0||1
+|-
+! Imizu, Toyama|Imizu
+|0||2
+|-
+! Takaoka, Toyama|Takaoka
+|0||6||rowspan="2"|4
+|-
+! Uozu, Toyama|Uozu
+|0||2
+|-
+! Total
+|1||12||Max 5-
+|}
+
+== Effects ==
+
+=== Evacuations ===
+At least 1000 people in Wajima, Ishikawa|Wajima were evacuated to temporary shelters.
+
+=== Transportation ===
+The train lines that were stopped after the earthquake were:
+
+* Hokuriku Main Line (?mi-Shiotsu Station – Naoetsu Station)
+* Etsumi-Hoku Line
+* Nanao Line
+* Himi Line
+* Jōhana Line
+* Takayama Main Line (Toyama Station – Inotani Station)
+* ?ito Line (Itoigawa Station – Minami-Otari Station)
+
+Noto Airport temporarily closed due to the fact that 22 cracks were found in the runway.
+
+A part of the Noto Toll Road temporarily closed since many parts of it collapsed. It re-opened on April 27.
+
+== Tsunami ==
+
+A tsunami advisory was immediately made for the Kaga　Province|Kaga coast and Noto Province|Noto coast, and a 22&nbsp;cm wave hit shore about 30 minutes later.
+
+== Aftershocks ==
+
+More than 500 perceptible aftershocks were observed.
+
+{| class="wikitable sortable" border="1"
+|+Aftershocks with ''Japan Meteorological Agency seismic intensity scale|Shindo'' 4 or more
+! Date <br />(YYYY-MM-DD) !! Time <br />(UTC) !!  Magnitude !! ''Japan Meteorological Agency seismic intensity scale|Shindo''
+|-
+| 2007-03-25 || 09:45:50 || 4.7 (M<sub>j</sub>) || 4
+|-
+| 2007-03-25 || 09:52:37 || 4.5 (M<sub>j</sub>) || 4
+|-
+| 2007-03-25 || 15:43:34 || 4.5 (M<sub>j</sub>) || 4
+|- style="background: #9999ff"
+| 2007-03-25 || 18:11:45 || 5.3 (M<sub>j</sub>) || 5-
+|- style="background: #9999ff"
+| 2007-03-26 || 07:16:36 || 5.3 (M<sub>j</sub>) || 4
+|- style="background: #ccccff"
+| 2007-03-26 || 14:46:35 || 4.8 (M<sub>j</sub>) || 5-
+|-
+| 2007-03-26 || 18:02:53 || 4.6 (M<sub>j</sub>) || 4
+|- style="background: #ccccff"
+| 2007-03-28 || 08:08:15 || 4.9 (M<sub>j</sub>) || 5-
+|-
+| 2007-03-28 || 13:05:31 || 4.7 (M<sub>j</sub>) || 4
+|-
+| 2007-04-06 || 15:18:18 || 4.3 (M<sub>j</sub>) || 4
+|-
+| 2007-05-02 || 20:44:38 || 4.7 (M<sub>j</sub>) || 4
+|- style="background: #ccccff"
+| 2007-06-11 || 03:45:14 || 5.0 (M<sub>j</sub>) || 4
+|- style="background: #ccccff"
+| 2008-01-26 || 04:33:00 || 4.8 (M<sub>j</sub>) || 5-
+|}
+
+Largest aftershocks are blue, and 4.8~ M<sub>j</sub> earthquakes are light blue.
+
+== Response ==
+
+=== The Cabinet Office ===
+
+At 9:45, an emergency meeting for this earthquake was held at the Prime Minister's Official Residence. Government damage inspecting teams under command of Kensei Mizote were sent to the epicenter area from the 25th to the 26th.
+
+=== Ishikawa Prefecure ===
+
+At 10:45, an emergency disaster prevention meeting was held. 375 firefighters were summoned from Toyama Prefecture, Fukui Prefecture, Tokyo prefecture, Kyoto Prefecture, Osaka Prefecture, Shiga prefecture, and Hyogo Prefecture. They were ordered to leave on 10:42 on the 26th, and left on 11:55.
+
+=== Japan Self-Defense Forces ===
+
+At 10:45, the Ministry of Defense (Japan)|Ministry of Defense held an emergency meeting. At 11:08, Masanori Tanimoto, the governor of Ishikawa Prefecture summoned 30 soldiers from the Japan Ground Self-Defense Force|Ground forces from bases in Kanazawa, Ishikawa|Kanazawa, Sabae, Fukui|Sabae, Toyama, Toyama|Toyama, Kasugai, Aichi|Kasugai, Nagoya, Aichi|Nagoya, Hisai, Mie|Hisai, and Takashima, Shiga|Takashima. Helicopters from bases in Wajima, Ishikawa|Wajima and Komatsu, Ishikawa|Komatsu were also used. Japan Ground Self-Defense Force|Ground forces, Japan Maritime Self-Defense Force|maritime forces, and Japan Air Self-Defense Force|air forces all went to investigate damage.
+
+== Other ==
+
+* Since Toyama Prefecture had no damaging earthquakes for 116 years since the 1891 Mino-Owari earthquake, most residents commonly believed that no earthquakes ever occurred in that area.
+
+* About 6 months after the earthquake, rumors spread for a little while within the 13–18-year-old range of the residents of Toyama Prefecture that a massive earthquake would occur in Toyama Prefecture.
+
+* An Athletics (sport)|athletics competition that was to be held in Wajima, Ishikawa|Wajima was cancelled after the earthquake.
+
+== See also ==
+*1995 Kobe earthquake
+*2004 Chūetsu earthquake
+*2007 Chūetsu offshore earthquake
+
+==References==
+{{reflist}}
+
+==Notes==
+{{reflist|group=note}}
+
+==Sources==
+*{{cite news|title=Strong quake off Japan kills 1, injures scores|url=http://www.cnn.com/2007/WORLD/asiapcf/03/25/quake.japan.ap/index.html|publisher=AP via CNN|date=2007-03-25| accessdate= 25 March 2007 <!--DASHBot-->| archiveurl= http://web.archive.org/web/20070329050302/http://www.cnn.com/2007/WORLD/asiapcf/03/25/quake.japan.ap/index.html| archivedate= 29 March 2007| deadurl= yes}}
+*http://www.jma.go.jp/jp/quake/25094700384.html Japan Meteorological Agency {{ja icon}}
+*{{cite news|url=http://news.bbc.co.uk/2/hi/asia-pacific/6492473.stm|title=Earthquakes rock Pacific nations|publisher=BBC|date=2007-03-25| accessdate= 26 March 2007 <!--DASHBot-->| archiveurl= http://web.archive.org/web/20070328212654/http://news.bbc.co.uk/2/hi/asia-pacific/6492473.stm| archivedate= 28 March 2007| deadurl= no}}
+*{{cite news|url=http://www.foxnews.com/story/0,2933,260942,00.html|title=6.9 Magnitude Earthquake Kills 1, Injures 170 in Japan|publisher=AP via Fox|date=2007-03-25| accessdate= 26 March 2007 <!--DASHBot-->| archiveurl= http://web.archive.org/web/20070329011729/http://www.foxnews.com/story/0,2933,260942,00.html| archivedate= 29 March 2007| deadurl= no}}
+*{{cite web|last=Hamada|first=Masanori|first2=?mer|last2=Aydan|first3=Akio|last3=Sakamoto|title=A Quick Report on Noto Peninsula Earthquake on March 25, 2007|publisher=Japan Society of Civil Engineers|year=2007|url=http://www.jsce.or.jp/kokusai/disaster_report/noto_report.pdf}}
+
+{{Wikinews|Large earthquake off Japan, tsunami warning issued}}
+
+{{Earthquakes in 2007}}
+{{Earthquakes in Japan}}
+
+{{DEFAULTSORT:2007 Noto Earthquake}}
+Category:Chūbu region|Noto Earthquake, 2007
+Category:Earthquakes in Japan|2007 Noto
+Category:2007 earthquakes|Noto Earthquake, 2007
+Category:2007 in Japan|Noto earthquake
+Category:Hokuriku region
+Category:21st-century tsunamis

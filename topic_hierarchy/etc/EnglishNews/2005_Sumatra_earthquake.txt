@@ -1,0 +1,68 @@
+{{more footnotes|date=March 2011}}
+{{Earthquake
+| title = 2005 Sumatra earthquake
+| date = {{Start date|2005|3|28|df=y}}
+| map = Tsumap.jpg
+| image name = Epicentre map from NOAA
+| magnitude = 8.6 Moment magnitude scale|M<sub>w</sub> 
+| location = {{coord|2|04|35|N|97|00|58|E|display=inline,title}}
+| depth = {{convert|30|km}}
+| countries affected = Indonesia
+| casualties = 1346
+| Deaths = 320
+}}
+The '''2005 Sumatra earthquake''', referred to as the '''Nias Earthquake''' by the scientific community, was a major earthquake on 28 March 2005, off the west coast of northern Sumatra, Indonesia. Approximately 1300 people were killed by it, mostly on the island of Nias. The event caused panic in the region, which had been devastated by the massive tsunami triggered by the 2004 Indian Ocean earthquake, but this earthquake generated a relatively small tsunami that caused limited damage. It was the third most powerful earthquake since 1965 in Indonesia.
+
+The earthquake occurred at 16:09:36 UTC (23:09:36 local time) on 28 March 2005. The hypocenter was located at {{coord|2|04|35|N|97|00|58|E|}}, {{convert|30|km|mi}} below the surface of the Indian Ocean, where subduction is forcing the Indo-Australian Plate to the southwest under the Eurasian plate's Sunda edge. The area is {{convert|200|km|mi}} west of Sibolga, Sumatra, or {{convert|1400|km|mi}} northwest of Jakarta, approximately halfway between the islands of Nias and Simeulue. Seismic recordings give the earthquake a moment magnitude scale|moment magnitude of about 8.6,
+
+==Earthquake and damage==
+Image:USGS Sunda Trench.JPG|thumb|left|USGS image depicting earthquake rupture zones for the Sunda Trench — damage zones for 1833 and 1861, then 2004 Indian Ocean earthquake, and 2005 Sumatra earthquake.
+The earthquake lasted for about two minutes. In the twenty-four hours immediately after the event, there were eight major aftershocks, measuring between 5.5 and 6.0. Despite the proximity of the epicenter to that for the 2004 Indian Ocean earthquake, it ruptured a separate segment of the Sunda megathrust and was most likely coulomb stress transfer|triggered by stress changes associated with that earlier event.
+
+On the Indonesian island of Nias, off the coast of Sumatra, hundreds of buildings were destroyed by the earthquake. The death toll on Nias was at least one thousand, with 220 dying in Gunungsitoli, the island's largest town. Nearly half of Gunungsitoli's population (27000) fled the town.
+
+The earthquake was strongly felt across the island of Sumatra and caused widespread power outages in the Indonesian city of Banda Aceh, already devastated by the December 2004 tsunami, and prompted thousands to flee their homes and seek higher ground.
+
+It was strongly felt along the west coast of Thailand and Malaysia, and in Kuala Lumpur high-rise buildings were evacuated. The earthquake was felt less strongly in the Maldives, India, and Sri Lanka.{{clr}}
+
+==Tsunami==
+The earthquake caused great concern around the Indian Ocean that it might trigger a tsunami similar to the massive one generated three months earlier by the 2004 Indian Ocean earthquake on 26 December 2004. Evacuations were carried out in coastal regions of Thailand, Malaysia, and Sri Lanka. This earthquake, however, produced a relatively small tsunami. A {{convert|3|m|ft|adj=on}} tsunami caused moderate damage to port and airport facilities on Simeulue, and a {{convert|2|m|ft|adj=on}} tsunami was recorded on the west coast of Nias. Much smaller waves, most detectable only in tide gauge recording systems, were recorded across the Indian Ocean; for example, a {{convert|25|cm|in}} wave was recorded at Colombo, Sri Lanka.
+
+Tsunami warnings were issued by the Pacific Tsunami Warning Center, operated by the US National Oceanic and Atmospheric Administration (NOAA), and by the government of Thailand. There were initial concerns that a major tsunami could be generated, particularly travelling south from the event's hypocenter. 
+
+Portions of Thailand's southern coast were evacuated as a precaution, and NOAA advised an evacuation of {{convert|965|km|mi}} of coastline in Sumatra. Evacuations occurred in the northern Malaysian states of Penang and Kedah, as well as the eastern coast of Sri Lanka, where ten people were killed in the confusion of the evacuation. Many of the southern states of India were put on high alert; all of these areas had seen significant damage from December's tsunami. After the detection of a minor tsunami south of the epicenter, including a 30&nbsp;cm tsunami on Australia's Cocos Islands, the island states of Mauritius, Madagascar, and the Seychelles in the Indian Ocean issued warnings to their populations.
+
+Although tsunami warning systems for the region had been actively discussed before the December 2004 earthquake, none had yet been implemented in the Indian Ocean.
+
+==Humanitarian response==
+The United Nations worked with the Indonesian government to take further actions to prevent a possible catastrophe after the strong earthquake. The US State Department announced that it will help countries affected by a possible tsunami. The government of India announced aid of USD|US$2 million for the earthquake victims. 
+
+Australia announced it would provide A$1 million in emergency aid and, at the request of the Government of Indonesia|Indonesian Government, dispatched Australian Defence Force medical teams and equipment to Nias. The Australian naval ship HMAS Kanimbla (L 51)|HMAS Kanimbla, having only recently left Aceh, was redeployed to the region from Singapore. At about 09:30 (UTC) 2 April 2005, one of Kanimbla's two Sea King helicopters, 2005 Nias Island WS-61 Sea King crash|Shark 02, crashed on the island of Nias while taking medical personnel to a village. Nine personnel were killed, and two others sustained injuries but were rescued from the site by the other helicopter. The crash occurred one day before a state visit by President of Indonesia|President Susilo Bambang Yudhoyono to Australia, where he and Prime Minister of Australia John Howard expressed mutual sorrow for their countries' losses.
+
+The US Navy responded to this earthquake by deploying the {{USNS|Mercy|T-AH-19|6}}, a 100-bed hospital ship, off the coast of Nias.
+
+==See also==
+* 2000 Sumatra earthquake
+
+==References==
+{{reflist}}
+
+== External links ==
+*http://asc-india.org/lib/20050328-nias.htm Special Event Page, Amateur Seismic Centre, India
+*http://www.navy.gov.au/Publication:Navy_Annual_2005/Operations_SUMATRA_ASSIST_I_and_II Royal Australian Navy assistance to earthquake relief
+{{wikinews|Magnitude 8.7 earthquake hits Northern Sumatra, Indonesia}}
+{{wikinews|Panic in Sumatra after new earthquake}}
+*http://earthquake.usgs.gov/eqcenter/eqinthenews/2005/usweax/ United States Geological Survey event page
+*http://www.indonesia-relief.org/mod.php?mod=publisher&op=viewcat&cid=28 Indonesia-Relief.Org: Sumatra Earthquake
+*''http://news.bbc.co.uk/2/hi/asia-pacific/4388579.stm Lethal quake rattles tsunami zone'' - BBC News
+*''http://edition.cnn.com/2005/WORLD/asiapcf/03/28/indonesia.quake/index.html Quake kills at least 300 on Indonesian island'' - CNN
+*http://rev.seis.sc.edu/earthquakes/2005/03/28/16/09/36 Seismograms for this earthquake via REV, the Rapid Earthquake Viewer
+*''http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20070413/quake_coral_070413/20070413?hub=SciTech Earthquake causes coral reefs to die'' CTV News
+{{Earthquakes in 2005}}
+{{SumatraMegathrust}}
+
+{{DEFAULTSORT:Sumatra Earthquake, 2005}}
+Category:Megathrust earthquakes in Sumatra|2005
+Category:2005 earthquakes
+Category:2005 in Indonesia
+Category:21st-century tsunamis|2005 Sumatra

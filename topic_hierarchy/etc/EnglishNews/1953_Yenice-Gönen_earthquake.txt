@@ -1,0 +1,56 @@
+{{Earthquake
+|title=1953 Yenice-G?nen earthquake
+|date= {{start date|1953|3|18|df=yes}}
+|map2 = {{Location map | Turkey |relief=1
+ | label=
+ | lat=40.02
+ | long=27.53
+ | mark=Bullseye1.png
+ | marksize=40
+ | position=top
+ | width= 250
+ | float=right
+ | caption=}}
+|magnitude = 7.5 Surface wave magnitude|M<sub>s</sub>
+|depth=
+|location= {{coord|40.02|27.53||display=inline,title}}
+|countries affected = {{flag|Turkey}} Yenice, ?anakkale, G?nen
+|tsunami = none
+|casualties = at least 1070 dead
+}}
+File:Anatolian Plate.png|thumb|Tectonic map of the Anatolian Plate showing the main fault zones - the Yenice–G?nen Fault is the southernmost splay at the western end of the North Anatolian Fault|260px
+The '''1953 Yenice-G?nen earthquake''' occurred at 21:06 local time (19:06 Coordinated universal time|UTC on 18 March in the province of ?anakkale Province|?anakkale and Bal?kesir Province|Bal?kesir in the Marmara Region at western Turkey. It had a magnitude 7.5 on the surface wave magnitude scale and a maximum felt intensity of IX (Violent) on the Mercalli intensity scale. It caused widespread damage, killing 1070 and causing damage that was estimated at US$3,570,000 repair value.
+
+==Tectonic setting==
+The tectonics of northern and eastern Turkey are dominated by the two Fault (geology)#Strike-slip faults|strike-slip fault zones that accommodate the west to southwestward movement of the Anatolian Plate relative to the Eurasian Plate and the Arabian Plate as it is effectively being squeezed out by convergence between them. The quake occurred along the Yenice–G?nen Fault, which is a southern extension of the North Anatolian Fault Zone.
+
+==Damage and casualties==
+The quake was a magnitude 7.3, therefore it was rather strong. The rupture killed at least 1070, 998 of those deaths in Yenice, ?anakkale|Yenice, with another 50 in G?nen, 20 in ?an, and 3 in Manyas. The cost of repair was estimated at US$3,570,000.
+
+Several thousand buildings were affected in the Can-Yenice-Gonen area. Damage of intensity VI occurred at Adapazar?|Sakarya (Adapazari), Bursa, Edirne, Istanbul and Izmir. The quake was felt throughout the Aegean Islands and in much of mainland Greece, with damage occurring as far away as Crete. Shaking was also recorded in Bulgaria.
+
+Although officials predicted the earthquake would cause only 265 deaths, it multiplied with a death toll seven times the number as expected.
+
+==Characteristics==
+As a result of the earthquake, approximately {{convert|70|km|mi|abbr=on}} of surface faulting occurred, with as much as {{convert|4.3|m|ft|abbr=on}} of strike-slip (horizontal) faulting was observed by geologists east of Yenice.
+
+==Aftermath==
+The damage caused by this earthquake led to a new national reconstruction law in Turkey. In Greece the damage was severe enough that new building codes were introduced.
+
+==Future seismic hazard==
+Trenching and other fieldwork along the trace of the Yenice–G?nen Fault has identified three earthquakes before the 1953 event, about 1440 AD, between 620 and 1270 AD, and another event of uncertain age. These past events give a mean recurrence interval for large earthquakes of 660±160 years. This indicates that there is no significant current threat from ruptures along this fault zone.
+
+==Notes==
+{{Reflist}}
+
+==Further reading==
+* Dewey, J.E. (1976) "Seismicity of Northern Anatolia" ''Bulletin of the Seismological Society of America'' 66(3): pp.&nbsp;843–868
+
+{{Earthquakes in Turkey}}
+
+{{DEFAULTSORT:Yenice Gonen 1953}}
+Category:Earthquakes in Turkey|1953 Yenice
+Category:1953 earthquakes
+Category:1953 in Turkey
+Category:History of ?anakkale Province
+Category:History of Bal?kesir Province

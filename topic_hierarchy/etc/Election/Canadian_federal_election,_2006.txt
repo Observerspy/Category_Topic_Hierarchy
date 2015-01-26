@@ -1,0 +1,759 @@
+{{Use mdy dates|date=September 2013}}
+{{Infobox election
+| election_name      = Canadian federal election, 2006
+| country            = Canada
+| type               = parliamentary
+| party_colour       = no
+| party_name         = no
+| ongoing            = no
+| previous_election  = Canadian federal election, 2004
+| previous_year      = 2004
+| previous_mps       = List of House members of the 38th Parliament of Canada
+| next_election      = Canadian federal election, 2008
+| next_year          = 2008
+| next_mps           = List of House members of the 40th Parliament of Canada
+| seats_for_election = 308 seats in the [[39th Canadian Parliament]] <br> 155 seats were needed for a majority
+| election_date      = {{Start date|2006|1|23}}
+| opinion_polls      = Opinion polling in the Canadian federal election, 2006
+| turnout            = 64.7%
+| image1 = [[File:Stephen Harper by Remy Steinegger Infobox.jpg|150x150px]]
+| colour1 = {{Canadian party colour|CA|Conservative|nohash}}
+| leader1 = [[Stephen Harper]]
+| leader_since1 = [[Conservative Party of Canada leadership election, 2004|March 20, 2004]]
+| party1 = {{Canadian party colour|CA|Conservative|name}}
+| leaders_seat1 = [[Calgary Southwest]]
+| last_election1 = 99 seats, 29.63%
+| seats_before1 = 98
+| seats1 = 124
+| seat_change1 = +26
+| popular_vote1 = 5,374,071
+| percentage1 = 36.27%
+| swing1 = +6.64[[Percentage Point|pp]]
+| image2 = [[File:Paul Martin in 2006.jpg|150x150px]]
+| colour2 = {{Canadian party colour|CA|Liberal|nohash}}
+| leader2 = [[Paul Martin]]
+| leader_since2 = [[Liberal Party of Canada leadership election, 2003|November 14, 2003]]
+| party2 = {{Canadian party colour|CA|Liberal|name}}
+| leaders_seat2 = [[LaSalle—Émard]]
+| last_election2 = 135 seats, 36.73%
+| seats_before2 = 133
+| seats2 = 103
+| seat_change2 = -30
+| popular_vote2 = 4,479,415
+| percentage2 = 30.23%
+| swing2 = -6.50[[Percentage Point|pp]]
+| image4 = [[Image:Gilles Duceppe2.jpg|150x150px]]
+| colour4 = {{Canadian party colour|CA|BQ|nohash}}
+| leader4 = [[Gilles Duceppe]]
+| leader_since4 = [[Bloc Québécois leadership election, 1997|March 15, 1997]]
+| party4 = {{Canadian party colour|CA|BQ|name}}
+| leaders_seat4 = [[Laurier—Sainte-Marie|Laurier—<br />Sainte-Marie]]
+| last_election4 = 54 seats, 12.39%
+| seats_before4 = 53
+| seats4 = 51
+| seat_change4 = -2
+| popular_vote4 = 1,553,201
+| percentage4 = 10.48%
+| swing4 = -1.91[[Percentage Point|pp]]
+| image5 = [[Image:Jack Layton.jpg|150x150px]]
+| colour5 = {{Canadian party colour|CA|NDP|nohash}}
+| leader5 = [[Jack Layton]]
+| leader_since5 = [[New Democratic Party leadership election, 2003|January 24, 2003]]
+| party5 = {{Canadian party colour|CA|NDP|name}}
+| leaders_seat5 = [[Toronto—Danforth]]
+| last_election5 = 19 seats, 15.68%
+| seats_before5 = 18
+| seats5 = 29
+| seat_change5 = +11
+| popular_vote5 = 2,589,597
+| percentage5 = 17.48%
+| swing5 = +1.80[[Percentage Point|pp]]
+| map_image = Canada 2006 Federal Election.svg
+| map_size = 280px
+| map_caption =
+| title = [[Prime Minister of Canada|Prime Minister]]
+| posttitle = [[Prime Minister of Canada|Prime Minister]]-designate
+| before_election = [[Paul Martin]]
+| before_party = {{Canadian party colour|CA|Liberal|name}}
+| after_election = [[Stephen Harper]]
+| after_party = {{Canadian party colour|CA|Conservative|name}}
+}}
+[[Image:Canada Fed election 2006 Ridings.svg|thumb|250px|Map of the ridings and their popular vote]]
+
+The '''2006 Canadian federal election''' (more formally, the '''39th General Election''') was held on January 23, 2006, to elect members  of the [[Canadian House of Commons]] of the [[39th Canadian Parliament|39th Parliament]] of [[Canada]]. The [[Conservative Party of Canada]] won the greatest number of [[Electoral district (Canada)|seats]]: 40.3% of seats, or 124 out of 308, up from 99 seats in 2004, and 36.3% of votes: up from 29.6% in the 2004 election. The election resulted in a [[minority governments in Canada|minority government]] led by the Conservative Party with [[Stephen Harper]] becoming the 22nd [[Prime Minister of Canada]].  By proportion of seats, this was Canada's smallest minority government since [[Canadian Confederation|Confederation]].  An investigation by [[Elections Canada]] into improper election spending by the Conservative Party became widely known as the [[In and Out scandal]]. Despite this it was the longest serving minority government overall.
+
+Voter turnout was 64.7%.<ref>{{cite web|last=Pomfret|first=R.|title=Voter Turnout at Federal Elections and Referendums|url=http://www.elections.ca/content.aspx?section=ele&dir=turn&document=index&lang=e|work=Elections Canada Online|publisher=Elections Canada|accessdate= February 10, 2012}}</ref>
+
+==Cause of the election==
+This unusual winter [[Elections in Canada|general election]] was caused by a [[motion of no confidence]] passed by the House of Commons on November 28, 2005, with Canada's three opposition parties contending that the governing [[Liberal Party of Canada|Liberal]] government of Prime Minister [[Paul Martin]] was corrupt.<ref>{{cite news|title=Liberal Party Loses Vote Of Confidence In Canada|first=Clifford|last=Krauss|publisher=New York Times|date=November 29, 2005|url=http://query.nytimes.com/gst/fullpage.html?res=9E04E0DB1431F93AA15752C1A9639C8B63}}</ref> The following morning, Prime Minister Paul Martin met Governor General [[Michaëlle Jean]], who then [[dissolution of parliament|dissolved parliament]],<ref>{{cite journal|url=http://www.gazette.gc.ca/archives/p2/2005/2005-12-01-x6/pdf/g2-139x6.pdf|journal=Canada Gazette Part II|volume=139|issue=6 Extra|page=1|publisher=Government of Canada|title=Proclamation Dissolving Parliament}}</ref> summoned the next parliament,<ref>{{cite journal|url=http://www.gazette.gc.ca/archives/p2/2005/2005-12-01-x6/pdf/g2-139x6.pdf|journal=Canada Gazette Part II|volume=139|issue=6 Extra|page=4|publisher=Government of Canada|title=Proclamation Summoning Parliament to Meet on February 20, 2006}}</ref> and ordered the issuance of writs of election.<ref>{{cite journal|url=http://www.gazette.gc.ca/archives/p2/2005/2005-12-01-x6/pdf/g2-139x6.pdf|journal=Canada Gazette Part II|volume=139|issue=6 Extra|page=3|publisher=Government of Canada|title=Proclamation Issuing Election Writs}}</ref> The last set January 23, 2006, as election day and February 13 as the date for return of the writs. The campaign was almost eight weeks in length, the longest in two decades, in order to allow time for the Christmas and New Year holidays.
+
+Recent political events, most notably testimony to the [[Gomery Commission]] investigating the [[sponsorship scandal]], significantly weakened the Liberals (who, under Martin, had formed the first Liberal [[minority government]] since the Trudeau era) by allegations of criminal corruption in the party. The first Gomery report, released November 1, 2005, had found a "culture of entitlement" to exist within the Government. Although the next election was not legally required until 2009, the opposition had enough votes to force the dissolution of [[38th Canadian Parliament|Parliament]] earlier. While Prime Minister Martin had committed in April 2005 to dissolve Parliament within a month of the tabling of the second Gomery Report (which was released on schedule on February 1, 2006), all three [[parliamentary opposition|opposition parties]]—the Conservatives, [[Bloc Québécois]], and [[New Democratic Party (Canada)|New Democratic Party]] (NDP) — and three of the four independents decided that the issue at hand was how to correct the Liberal corruption, and the motion of non-confidence passed 171-133.
+
+==Results==
+{{Main|Results of the Canadian federal election, 2006}}
+[[Image:Canada 2006 Federal Election seats.svg|thumb|right|250px|Rendition of party representation in the [[39th Canadian parliament]] decided by this election.
+{{legend|#6495ED|Conservatives (124)}}
+{{legend|#F08080|Liberals (103)}}
+{{legend|#87CEFA|Bloc Québécois (51)}}
+{{legend|#F4A460|New Democrats (29)}}
+{{legend|#DCDCDC|Independent (1)}}]]
+The election was held on January 23, 2006. The first polls closed at 07:00 p.m. [[Eastern Standard Time Zone|ET]] (0000 [[Coordinated Universal Time|UTC]]); [[Elections Canada]] started to publish preliminary results on its website at 10:00 p.m. [[Eastern Standard Time Zone|ET]] as the last polls closed. Harper was reelected in [[Calgary Southwest]], which he has held since 2002, ensuring that he had a seat in the new parliament. Shortly after midnight (ET) that night, incumbent Prime Minister [[Paul Martin]] conceded defeat, and announced that he would resign as leader of the [[Liberal Party of Canada|Liberal Party]]. He continued to sit as a [[39th Canadian parliament|Member of Parliament]] representing [[LaSalle—Émard]], the [[Montreal]]-area riding he had held since [[Canadian federal election, 1988|1988]], until his retirement in 2008.
+
+At 9:30 a.m. on January 24, Martin informed [[Governor General of Canada|Governor General]] [[Michaëlle Jean]] that he would not form a government and intended to resign as Prime Minister. It was announced a month later that there would be a [[Liberal Party of Canada leadership election, 2006|Liberal leadership convention]] later in the year, during which Stéphane Dion won the leadership of the Liberal Party. Later that day, at 6:45 p.m., Jean invited Harper to form a government. Martin formally resigned and Harper was formally appointed and sworn in as Prime Minister on February 6.<ref>[http://www.gg.ca/media/doc.asp?lang=e&DocID=4657 Date for the Swearing-in of the Honourable Stephen Harper as the 22nd Prime Minister and of his Cabinet]{{dead link|date=March 2011}}</ref>
+
+===Overall results===
+The elections resulted in a Conservative minority government with 124 seats in parliament with a Liberal opposition and a strengthened NDP. In his speech following the loss, Martin stated he would not lead the Liberal Party of Canada in another election. Preliminary results indicated that 64.9% of registered voters cast a ballot, a notable increase over 2004's 60.9%.<ref>{{cite web|url=http://enr.elections.ca/National_e.aspx |title=Elections Canada - Electoral Districts |publisher=Enr.elections.ca |date=November 29, 2010 |accessdate=March 29, 2011}}</ref>
+
+The NDP won new seats in British Columbia and Ontario as their overall popular vote increased 2% from 2004. The Bloc managed to win almost as many seats as in 2004 despite losing a significant percentage of the vote. Most of the Conservatives' gains were in rural Ontario and Quebec as they took a net loss in the west, but won back the only remaining Liberal seat in Alberta. The popular vote of the Conservatives and Liberals were almost the mirror image of 2004, though the Conservatives were not able to translate this into as many seats as the Liberals did in 2004.
+
+A judicial recount was automatically scheduled in the [[Parry Sound—Muskoka]] riding, where early results showed Conservative [[Tony Clement]] only 21 votes ahead of Liberal [[Andy Mitchell (politician)|Andy Mitchell]], because the difference of votes cast between the two leading candidates was less than 0.1%. Clement was confirmed as the winner by 28 votes.<ref>{{cite web|url=http://enr.elections.ca/JudicialRecount_e.aspx |title=Elections Canada - Judicial Recounts |publisher=Enr.elections.ca |date= |accessdate=February 2, 2012}}</ref>
+
+Conservative candidate [[Jeremy Harrison]], narrowly defeated by Liberal [[Gary Merasty]] in the Saskatchewan riding of [[Desnethé—Missinippi—Churchill River]] by 72 votes, alleged electoral fraud but decided not to pursue the matter. A judicial recount was ordered in the riding,<ref>{{cite news|url=http://www.cbc.ca/sask/story/harrison-appeal060124.html |title=Seat was 'stolen,' defeated MP says |deadurl=yes |archiveurl=http://web.archive.org/web/20070527184147/http://www.cbc.ca/canada/saskatchewan/story/2006/01/24/harrison-appeal060124.html |archivedate=May 27, 2007 |accessdate= September 23, 2013}}</ref> which certified [[Gary Merasty]] the winner by a reduced margin of 68 votes.<ref>{{cite news| url=http://www.cbc.ca/canada/story/2006/02/10/saskrecount060210.html | work=CBC News | title=Liberals hold on to Saskatchewan riding after judicial recount | date=February 10, 2006 | deadurl=yes}} {{Dead link|date=September 2013|bot=RjwilmsiBot}}</ref>
+
+{| style="width:66em; text-align:center; font-size:88%"
+|-
+| colspan="5" style="text-align:center;"|↓
+|- style="font-weight:bold"
+| style="background:cornflowerblue; width:40.26%; color:white" | 124
+| style="background:lightcoral; width:33.44%; color:white" | 103
+| style="background:lightskyblue; width:16.56%; color:white" | 51
+| style="background:sandybrown; width:9.42%; color:white" | 29
+| style="background:gray; width:0.1%; color:white" | 1
+|- style="font-weight:bold"
+| style="color:cornflowerblue" | Conservative
+| style="color:lightcoral" | Liberal
+| style="color:lightskyblue" | BQ
+| style="color:sandybrown" | NDP
+| style="color:gray" | I
+|}
+
+{{Canadian federal election, 2006}}
+
+==Vote and seat summaries==
+{{Bar box
+|title=Popular vote
+|titlebar=#ddd
+|width=600px
+|barwidth=410px
+|bars=
+{{Bar percent|Conservative|#6495ED|36.27}}
+{{Bar percent|Liberal|#F08080|30.23}}
+{{Bar percent|NDP|#F4A460|17.48}}
+{{Bar percent|Bloc Québécois|#87CEFA|10.48}}
+{{Bar percent|Green|{{Canadian party colour|CA|Green}}|4.48}}
+{{Bar percent|Others|#DCDCDC|1.06}}
+}}
+<br />
+{{Bar box
+|title=Seat totals
+|titlebar=#ddd
+|width=600px
+|barwidth=410px
+|bars=
+{{Bar percent|Conservative|#6495ED|40.26}}
+{{Bar percent|Liberal|#F08080|33.44}}
+{{Bar percent|Bloc Québécois|#87CEFA|16.56}}
+{{Bar percent|NDP|#F4A460|9.4}}
+{{Bar percent|Independents|#DCDCDC|0.32}}
+}}
+
+===Results by province===
+[[File:Canadian-Federal-2006.png|300px|right]]
+{| class="wikitable"
+|-
+! style="text-align:center;" colspan=3|Party name
+! style="text-align:center;"|[[British Columbia|BC]]
+! style="text-align:center;"|[[Alberta|AB]]
+! style="text-align:center;"|[[Saskatchewan|SK]]
+! style="text-align:center;"|[[Manitoba|MB]]
+! style="text-align:center;"|[[Ontario|ON]]
+! style="text-align:center;"|[[Quebec|QC]]
+! style="text-align:center;"|[[New Brunswick|NB]]
+! style="text-align:center;"|[[Nova Scotia|NS]]
+! style="text-align:center;"|[[Prince Edward Island|PE]]
+! style="text-align:center;"|[[Newfoundland and Labrador|NL]]
+! style="text-align:center;"|[[Nunavut|NU]]
+! style="text-align:center;"|[[Northwest Territories|NT]]
+! style="text-align:center;"|[[Yukon|YT]]
+! style="text-align:center;"|Total
+|-
+{{Canadian party colour|CA|Conservative|row}}
+| rowspan=2|[[Conservative Party of Canada|Conservative]]
+| Seats:
+| style="text-align:right;"|'''17'''{{Ref|Emerson}} <!--BC-->
+| style="text-align:right;"|'''28''' <!--Alta-->
+| style="text-align:right;"|'''12''' <!--Sask-->
+| style="text-align:right;"|'''8''' <!--Man-->
+| style="text-align:right;"|'''40''' <!--Ont-->
+| style="text-align:right;"|'''10''' <!--Que-->
+| style="text-align:right;"|'''3''' <!--NB-->
+| style="text-align:right;"|'''3''' <!--NS-->
+| style="text-align:right;"|- <!--PEI-->
+| style="text-align:right;"|'''3''' <!--NL-->
+| style="text-align:right;"|- <!--NU-->
+| style="text-align:right;"|- <!--NT-->
+| style="text-align:right;"|- <!--YT-->
+| style="text-align:right;"|'''124''' <!--Canada/Total-->
+{{Canadian party colour|CA|Conservative|row}}
+| Vote:
+| style="text-align:right;"|37.3 <!--BC-->
+| style="text-align:right;"|65.0 <!--Alta-->
+| style="text-align:right;"|48.9 <!--Sask-->
+| style="text-align:right;"|42.8 <!--Man-->
+| style="text-align:right;"|35.1 <!--Ont-->
+| style="text-align:right;"|24.6 <!--Que-->
+| style="text-align:right;"|35.7 <!--NB-->
+| style="text-align:right;"|29.69 <!--NS-->
+| style="text-align:right;"|33.4 <!--PEI-->
+| style="text-align:right;"|42.67 <!--NL-->
+| style="text-align:right;"|29.6 <!--NU-->
+| style="text-align:right;"|19.8 <!--NT-->
+| style="text-align:right;"|23.67 <!--YT-->
+| style="text-align:right;"|36.25 <!--Canada/Total-->
+{{Canadian party colour|CA|Liberal|row}}
+| rowspan=2|[[Liberal Party of Canada|Liberal]]
+| Seats:
+| style="text-align:right;"|'''9'''{{Ref|Emerson}} <!--BC-->
+| style="text-align:right;"|- <!--Alta-->
+| style="text-align:right;"|'''2''' <!--Sask-->
+| style="text-align:right;"|'''3''' <!--Man-->
+| style="text-align:right;"|'''54''' <!--Ont-->
+| style="text-align:right;"|'''13''' <!--Que-->
+| style="text-align:right;"|'''6''' <!--NB-->
+| style="text-align:right;"|'''6''' <!--NS-->
+| style="text-align:right;"|'''4''' <!--PEI-->
+| style="text-align:right;"|'''4''' <!--NL-->
+| style="text-align:right;"|'''1''' <!--NU-->
+| style="text-align:right;"|- <!--NT-->
+| style="text-align:right;"|'''1''' <!--YT-->
+| style="text-align:right;"|'''103''' <!--Canada/Total-->
+{{Canadian party colour|CA|Liberal|row}}
+| Vote:
+| style="text-align:right;"|27.6 <!--BC-->
+| style="text-align:right;"|15.3 <!--Alta-->
+| style="text-align:right;"|22.4 <!--Sask-->
+| style="text-align:right;"|26.0 <!--Man-->
+| style="text-align:right;"|39.9 <!--Ont-->
+| style="text-align:right;"|20.7 <!--Que-->
+| style="text-align:right;"|39.2 <!--NB-->
+| style="text-align:right;"|37.15 <!--NS-->
+| style="text-align:right;"|52.5 <!--PEI-->
+| style="text-align:right;"|42.82 <!--NL-->
+| style="text-align:right;"|39.1 <!--NU-->
+| style="text-align:right;"|34.9 <!--NT-->
+| style="text-align:right;"|48.52 <!--YT-->
+| style="text-align:right;"|30.2 <!--Canada/Total-->
+{{Canadian party colour|CA|BQ|row}}
+| rowspan=2|[[Bloc Québécois]]
+| Seats:
+| style="text-align:right;"|&nbsp; <!--BC-->
+| style="text-align:right;"|&nbsp; <!--Alta-->
+| style="text-align:right;"|&nbsp; <!--Sask-->
+| style="text-align:right;"|&nbsp; <!--Man-->
+| style="text-align:right;"|&nbsp; <!--Ont-->
+| style="text-align:right;"|'''51''' <!--Que-->
+| style="text-align:right;"|&nbsp; <!--NB-->
+| style="text-align:right;"|&nbsp; <!--NS-->
+| style="text-align:right;"|&nbsp; <!--PEI-->
+| style="text-align:right;"|&nbsp; <!--NL-->
+| style="text-align:right;"|&nbsp; <!--NU-->
+| style="text-align:right;"|&nbsp; <!--NT-->
+| style="text-align:right;"|&nbsp; <!--YT-->
+| style="text-align:right;"|'''51''' <!--Canada/Total-->
+{{Canadian party colour|CA|BQ|row}}
+| Vote:
+| style="text-align:right;"|&nbsp; <!--BC-->
+| style="text-align:right;"|&nbsp; <!--Alta-->
+| style="text-align:right;"|&nbsp; <!--Sask-->
+| style="text-align:right;"|&nbsp; <!--Man-->
+| style="text-align:right;"|&nbsp; <!--Ont-->
+| style="text-align:right;"|42.1 <!--Que-->
+| style="text-align:right;"|&nbsp; <!--NB-->
+| style="text-align:right;"|&nbsp; <!--NS-->
+| style="text-align:right;"|&nbsp; <!--PEI-->
+| style="text-align:right;"|&nbsp; <!--NL-->
+| style="text-align:right;"|&nbsp; <!--NU-->
+| style="text-align:right;"|&nbsp; <!--NT-->
+| style="text-align:right;"|&nbsp; <!--YT-->
+| style="text-align:right;"|10.5 <!--Canada/Total-->
+{{Canadian party colour|CA|NDP|row}}
+| rowspan=2|[[New Democratic Party (Canada)|New Democrat]]
+| Seats:
+| style="text-align:right;"|'''10''' <!--BC-->
+| style="text-align:right;"|- <!--Alta-->
+| style="text-align:right;"|- <!--Sask-->
+| style="text-align:right;"|'''3''' <!--Man-->
+| style="text-align:right;"|'''12''' <!--Ont-->
+| style="text-align:right;"|- <!--Que-->
+| style="text-align:right;"|'''1''' <!--NB-->
+| style="text-align:right;"|'''2''' <!--NS-->
+| style="text-align:right;"|- <!--PEI-->
+| style="text-align:right;"|- <!--NL-->
+| style="text-align:right;"|- <!--NU-->
+| style="text-align:right;"|'''1''' <!--NT-->
+| style="text-align:right;"|- <!--YT-->
+| style="text-align:right;"|'''29''' <!--Canada/Total-->
+{{Canadian party colour|CA|NDP|row}}
+| Vote:
+| style="text-align:right;"|28.6 <!--BC-->
+| style="text-align:right;"|11.6 <!--Alta-->
+| style="text-align:right;"|24.0 <!--Sask-->
+| style="text-align:right;"|25.4 <!--Man-->
+| style="text-align:right;"|19.4 <!--Ont-->
+| style="text-align:right;"|7.5 <!--Que-->
+| style="text-align:right;"|21.9 <!--NB-->
+| style="text-align:right;"|29.84 <!--NS-->
+| style="text-align:right;"|9.6 <!--PEI-->
+| style="text-align:right;"|13.58 <!--NL-->
+| style="text-align:right;"|17.6 <!--NU-->
+| style="text-align:right;"|42.1 <!--NT-->
+| style="text-align:right;"|23.85 <!--YT-->
+| style="text-align:right;"|17.5 <!--Canada/Total-->
+{{Canadian party colour|CA|Green|row-name}}
+| Vote:
+| style="text-align:right;"|5.3 <!--BC-->
+| style="text-align:right;"|6.5 <!--Alta-->
+| style="text-align:right;"|3.2 <!--Sask-->
+| style="text-align:right;"|3.9 <!--Man-->
+| style="text-align:right;"|4.7 <!--Ont-->
+| style="text-align:right;"|4.0 <!--Que-->
+| style="text-align:right;"|2.4 <!--NB-->
+| style="text-align:right;"|2.6 <!--NS-->
+| style="text-align:right;"|3.9 <!--PEI-->
+| style="text-align:right;"|0.9 <!--NL-->
+| style="text-align:right;"|5.9 <!--NU-->
+| style="text-align:right;"|2.1 <!--NT-->
+| style="text-align:right;"|4.0 <!--YT-->
+| style="text-align:right;"|4.5 <!--Canada/Total-->
+|-
+{{Canadian party colour|CA|Independents|row}}
+| rowspan=2|[[Independent (politics)|Independent / No affiliation]]
+| Seats:
+| style="text-align:right;"| <!--BC-->
+| style="text-align:right;"|<!--Alta-->
+| style="text-align:right;"|<!--Sask-->
+| style="text-align:right;"| <!--Man-->
+| style="text-align:right;"| <!--Ont-->
+| style="text-align:right;"|'''1'''{{Ref|Arthur}} <!--Que-->
+| style="text-align:right;"|<!--NB-->
+| style="text-align:right;"|<!--NS-->
+| style="text-align:right;"|<!--PEI-->
+| style="text-align:right;"|&nbsp; <!--NL-->
+| style="text-align:right;"|&nbsp; <!--NU-->
+| style="text-align:right;"|&nbsp; <!--NT-->
+| style="text-align:right;"|&nbsp; <!--YT-->
+| style="text-align:right;"|'''1''' <!--Canada/Total-->
+{{Canadian party colour|CA|Independents|row}}
+| Vote:
+| style="text-align:right;"|<!--BC-->
+| style="text-align:right;"|&nbsp; <!--Alta-->
+| style="text-align:right;"|<!--Sask-->
+| style="text-align:right;"|&nbsp; <!--Man-->
+| style="text-align:right;"|<!--Ont-->
+| style="text-align:right;"|0.9 <!--Que-->
+| style="text-align:right;"|&nbsp; <!--NB-->
+| style="text-align:right;"|&nbsp; <!--NS-->
+| style="text-align:right;"|&nbsp; <!--PEI-->
+| style="text-align:right;"|&nbsp; <!--NL-->
+| style="text-align:right;"|&nbsp; <!--NU-->
+| style="text-align:right;"|&nbsp; <!--NT-->
+| style="text-align:right;"|&nbsp; <!--YT-->
+| style="text-align:right;"|0.1 <!--Canada/Total-->
+
+{{Canadian party colour|CA|Independents|row}}
+|Total seats:
+! style="text-align:right;"| <!--BC-->
+! style="text-align:right;"|36 <!--BC-->
+! style="text-align:right;"|28 <!--Alta-->
+! style="text-align:right;"|14 <!--Sask-->
+! style="text-align:right;"|14 <!--Man-->
+! style="text-align:right;"|106 <!--Ont-->
+! style="text-align:right;"|75 <!--Que-->
+! style="text-align:right;"|10 <!--NB-->
+! style="text-align:right;"|11 <!--NS-->
+! style="text-align:right;"|4 <!--PEI-->
+! style="text-align:right;"|7 <!--NL-->
+! style="text-align:right;"|1 <!--NT-->
+! style="text-align:right;"|1 <!--NU-->
+! style="text-align:right;"|1 <!--YT-->
+! style="text-align:right;"|308 <!--Canada/Total-->
+|}
+
+===Notes===
+{{note|Emerson}} [[David Emerson]], elected on January 23 as a Liberal in the British Columbia riding of [[Vancouver Kingsway]], [[crossing the floor|changed parties]] on February 6 to join the Conservatives before the new Parliament had taken office. He is reflected here as a Liberal.
+
+{{note|Arthur}}[[André Arthur]] was elected as an independent candidate in the Quebec riding of [[Portneuf—Jacques-Cartier]].
+
+===10 closest ridings===
+# '''[[Parry Sound—Muskoka]], ON''': [[Tony Clement]] (Cons) def. [[Andy Mitchell (politician)|Andy Mitchell]] (Lib) by 28 votes
+# '''[[Desnethé—Missinippi—Churchill River]], SK''': [[Gary Merasty]] (Lib) def. [[Jeremy Harrison]] (Cons) by 73 votes
+# '''[[Winnipeg South]], MB''': [[Rod Bruinooge]] (Cons) def. [[Reg Alcock]] (Lib) by 111 votes
+# '''[[Glengarry—Prescott—Russell]], ON''': [[Pierre Lemieux]] (Cons) def. René Berthiaume (Lib) by 203 votes
+# '''[[Louis-Hébert]], QC''': [[Luc Harvey]] (Cons) def. [[Roger Clavet]] (BQ) by 231 votes
+# '''[[St. Catharines (electoral district)|St. Catharines]], ON''': [[Rick Dykstra]] (Cons) def. [[Walt Lastewka]] (Lib) by 244 votes
+# '''[[Tobique—Mactaquac]], NB''': [[Mike Allen (Canadian politician)|Mike Allen]] (Cons) def. [[Andy Savoy]] (Lib) by 254 votes
+# '''[[Thunder Bay—Superior North]], ON''': [[Joe Comuzzi]] (Lib) def. [[Bruce Hyer]] (NDP) by 408 votes
+# '''[[West Nova]], NS''': [[Robert Thibault]] (Lib) def. [[Greg Kerr]] (Cons) by 511 votes
+# '''[[Brant (electoral district)|Brant]], ON''': [[Lloyd St. Amand]] (Lib) def. [[Phil McColeman]] (Cons) by 582 votes
+
+===Results by electoral district===
+{|
+|-
+|  style="vertical-align:top; width:25%;"|
+* '''[[Results of the Canadian federal election, 2006: All on one page|All on one page]]'''
+* [[Results of the Canadian federal election, 2006: Quebec and Atlantic Canada#Newfoundland and Labrador|Newfoundland and Labrador]]
+* [[Results of the Canadian federal election, 2006: Quebec and Atlantic Canada#Prince Edward Island|Prince Edward Island]]
+* [[Results of the Canadian federal election, 2006: Quebec and Atlantic Canada#Nova Scotia|Nova Scotia]]
+|  style="vertical-align:top; width:25%;"|
+* [[Results of the Canadian federal election, 2006: Quebec and Atlantic Canada#New Brunswick|New Brunswick]]
+* [[Results of the Canadian federal election, 2006: Quebec and Atlantic Canada#Quebec|Quebec]]
+* [[Results of the Canadian federal election, 2006: Ontario|Ontario]]
+* [[Results of the Canadian federal election, 2006: Western Canada and Territories#Manitoba|Manitoba]]
+|  style="vertical-align:top; width:25%;"|
+* [[Results of the Canadian federal election, 2006: Western Canada and Territories#Saskatchewan|Saskatchewan]]
+* [[Results of the Canadian federal election, 2006: Western Canada and Territories#Alberta|Alberta]]
+* [[Results of the Canadian federal election, 2006: Western Canada and Territories#British Columbia|British Columbia]]
+|  style="vertical-align:top; width:25%;"|
+* [[Results of the Canadian federal election, 2006: Western Canada and Territories#Nunavut|Nunavut]]
+* [[Results of the Canadian federal election, 2006: Western Canada and Territories#Northwest Territories|Northwest Territories]]
+* [[Results of the Canadian federal election, 2006: Western Canada and Territories#Yukon|Yukon]]
+|}
+
+==Parties==
+{{refimprove section|date=January 2011}}
+[[Image:Election.png|right|thumb|300px|Election signs for the Conservatives, Liberals and NDP in the snow in [[Ottawa South]], characterizing Canada's mid-winter election]]
+Most observers believed only the Liberals and the Conservatives were capable of forming a government in this election, although Canadian political history is not without examples of wholly unexpected outcomes, such as [[Ontario general election, 1990|Ontario's provincial election in 1990]]. However, with the exception of the Unionist government of 1917 (which combined members of both the Conservatives and the Liberals), at the Federal stage, only Liberals or Conservatives have formed government. With the end of the campaign at hand, pollsters and pundits placed the Conservatives ahead of the Liberals.
+
+Prime Minister Paul Martin's Liberals hoped to recapture their majority, and this appeared likely at one point during the campaign; but it would have required holding back Bloc pressure in [[Quebec]] plus picking up some new seats there while also gaining seats in English Canada, most likely in rural [[Ontario]] and southwestern [[British Columbia]]. Towards the end of the campaign, even high-profile Liberals were beginning to concede defeat, and the best the Liberals could have achieved was a razor-thin minority.
+
+Stephen Harper's Conservatives succeeded in bringing their new party into power in Canada. While continuing weaknesses in Quebec and urban areas rightfully prompted most observers to consider a Conservative [[majority government]] to be mathematically difficult to achieve, early on, Harper's stated goal was to achieve one nonetheless. Though the Conservatives were ahead of the Liberals in Quebec, they remained far behind the Bloc Québécois, and additional gains in rural and suburban Ontario would have been necessary to meet Stephen Harper's goal. The polls had remained pretty well static over the course of December, with the real shift coming in the first few days of the New Year. That is when the Conservatives took the lead and kept it for the rest of the campaign.
+
+Harper started off the first month of the campaign with a policy-per-day strategy, which included a GST reduction and a child-care allowance.  The Liberals opted to hold any major announcements until after the Christmas holidays; as a result, Harper dominated media coverage for the first weeks of the campaign and was able to define his platform and insulate it from expected Liberal attacks.  On December 27, 2005, the [[Royal Canadian Mounted Police]] announced it was investigating allegations that Liberal [[Minister of Finance (Canada)|Finance Minister]] [[Ralph Goodale]]'s office had engaged in [[insider trading]] before making an important announcement on the taxation of [[income trust]]s. The RCMP indicated that they had no evidence of wrongdoing or criminal activity from any party associated with the investigation, including Goodale. However, the story dominated news coverage for the following week and prevented the Liberals from making their key policy announcements, allowing the Conservatives to refocus their previous attacks about corruption within the Liberal party. The Conservatives soon found themselves leading in the polls. By early January, they made a major breakthrough in Quebec, pushing the Liberals to second place.
+
+As their lead solidified, [[Newspaper endorsements in the Canadian federal election, 2006|media coverage]] of the Conservatives was much more positive, while Liberals found themselves increasingly criticized for running a poor campaign and making numerous gaffes.<ref>{{cite news |first=Les |last=Whittington |title='This is like a live grenade' for Liberal party |url=http://www.thestar.com/NASApp/cs/ContentServer?pagename=thestar/Render&c=Article&cid=1135896622064&call_pageid=968332188774 |format=Free |work=Toronto Star |publisher=Toronto Star Newspapers |date=December 30, 2005 |accessdate= August 31, 2006}}</ref>
+
+The NDP has claimed that last minute [[tactical voting]] cost them several seats last time, as left-of-centre voters moved to the Liberals so that they could prevent a Harper-led government. Jack Layton avoided stating his party's goal was to win the election outright, instead calling for enough New Democrats to be elected to hold the [[balance of power (parliament)|balance of power]] in a Liberal or Conservative minority government. Political commentators have long argued that the NDP's main medium-term goal is to serve as junior partners to the Liberals in Canada's first-ever true [[coalition government]]. NDP leader Jack Layton was concerned last time over people voting Liberal so that they could avoid a Conservative government. Over the course of the last week of the campaign, Jack Layton called on Liberal voters disgusted with the corruption to "lend" their votes to the NDP to elect more NDP members to the House and hold the Conservatives to a minority.
+
+The Bloc Québécois had a very successful result in the 2004 election, with the Liberals reduced to the core areas of federalist support in portions of [[Montreal]] and the [[Outaouais (region)|Outaouais]]. Oddly enough, this meant that there were comparatively few winnable Bloc seats left—perhaps eight or so—for the party to target. With provincial allies the [[Parti Québécois]] widely tipped to regain power in 2007, a large [[Quebec sovereignty|sovereigntist]] contingent in the House could play a major role in reopening the matter of [[National Question (Quebec)|Quebec independence]]. The Bloc Québécois only runs candidates in the province of Quebec. However, Gilles Duceppe's dream of winning 50%+ of the popular vote was dashed when the polls broke after the New Year, and the Conservatives became a real threat to that vision in Quebec.
+
+In addition to the four sitting parties, the [[Green Party of Canada]] ran candidates in all 308 federal ridings for the second consecutive election. Though the Greens had been an official party since the [[Canadian federal election, 1984|1984 election]], this campaign was the first in which they had stable financial support with which to campaign. After a breakthrough in the 2004 election, they exceeded the minimum 2% of the popular vote to receive federal funding. Supporters and sympathisers criticize that the party were not invited to the nationally televised debates even with its official status. The party has occasionally polled as high as 19% in British Columbia and 11% nationwide. Critics of the Green Party contend that, by drawing away left-of-centre votes, the Green Party actually assists the Conservative Party in some ridings. The Greens deny this.<ref>{{cite web |url=http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20060118/elxn_green_vote_060119/20060119?s_name=election2006 |title=The Greening of Canada |publisher=CTV.ca |date=January 19, 2006 |accessdate=March 29, 2011}}</ref>
+
+Other parties are listed in the table of results above.
+
+==Events during the 38th Parliament==
+{{unreferenced section|date=January 2011}}
+{{Main|Timeline of the Canadian federal election, 2006}}
+An early election seemed likely because the [[Canadian federal election, 2004|2004 federal election]], held on June 28, 2004, resulted in the election of a [[Liberal Party of Canada|Liberal]] [[minority government]]. In the past, minority governments have had an average lifespan of a year and a half. Some people considered the 38th parliament to be particularly unstable. It involved four parties, and only very implausible ideological combinations (e.g., Liberals + Conservatives; Liberals + BQ; Conservatives + BQ + NDP) could actually command a majority of the seats, a necessity if a government is to retain power. From its earliest moments, there was some threat of the government falling as even the [[Speech from the Throne]] almost resulted in a non-confidence vote.
+
+===[[Brinkmanship]] in the spring of 2005===
+The Liberal government came close to falling when testimony from the [[Gomery Commission]] caused public opinion to move sharply against the government. The Bloc Québécois were eager from the beginning to have an early election. The Conservatives announced they had also lost confidence in the government's [[moral authority]]. Thus, during much of spring 2005, there was a widespread belief that the Liberals would lose a confidence vote, prompting an election taking place in the spring or summer of 2005.
+
+In a televised speech on April 21, Martin promised to request a [[dissolution of Parliament]] and begin an election campaign within 30 days of the Gomery Commission’s final report. The release date of that report would later solidify as February 1, 2006; Martin then clarified that he intended to schedule the election call so as to have the polling day in April 2006.
+
+Later that week, the NDP, who had initially opposed the budget, opted to endorse Martin's proposal for a later election. The Liberals agreed to take corporate tax cuts out of the budget on April 26 in exchange for NDP support on votes of confidence, but even with NDP support the Liberals still fell three votes short of a majority. However, a surprise defection of former Conservative leadership candidate [[Belinda Stronach]] to the Liberal party on May 17 changed the balance of power in the House. Independents [[Chuck Cadman]] and [[Carolyn Parrish]] provided the last two votes needed for the Liberals to win the budget vote.
+
+The deal turned out to be rather unnecessary, as the Conservatives opted to ensure the government's survival on the [[motion of confidence]] surrounding the original budget, expressing support to the tax cuts and defence spending therein. When Parliament voted on second reading and referral of the budget and the amendment on May 19, the previous events kept the government alive. The original budget bill, C-43, passed easily, as expected, but the amendment bill, C-48, resulted in an equality of votes, and the [[Speaker of the Canadian House of Commons|Speaker of the House]] broke the tie to continue the parliament. The government never got as close to falling after that date. Third reading of Bill C-48 was held late at night on an unexpected day, and several Conservatives being absent, the motion passed easily, guaranteeing there would be no election in the near future.
+
+===Aftermath of the first Gomery report===
+On November 1, [[John Gomery]] released his interim report, and the scandal returned to prominence. Liberal support again fell, with some polls registering an immediate ten percent drop. The Conservatives and Bloc thus resumed their push for an election before Martin's April date. The NDP stated that their support was contingent on the Liberals agreeing to move against the private provision of healthcare. The Liberals and NDP failed to come to an agreement, however, and the NDP joined the two other opposition parties in demanding an election.
+
+However, the Liberals had intentionally scheduled the mandatory "opposition days" (where a specified opposition party controls the agenda) on November 15 (Conservative), November 17 (Bloc Québécois) and November 24 (NDP). These days meant that any election would come over the [[Christmas]] season, an unpopular idea. Following negotiations between the opposition parties, they instead issued an ultimatum to the Prime Minister to call an election immediately after the Christmas holidays or face an immediate non-confidence vote which would prompt a holiday-spanning campaign.
+
+To that end, the NDP introduced a parliamentary motion demanding that the government [[drop the writ]] in January 2006 for a February 13 election date; however, only the prime minister has the authority to advise the Governor General on an election date, the government was therefore not bound by the NDP's motion. Martin had indicated that he remained committed to his April 2006 date, and would disregard the motion, which the opposition parties managed to pass, as expected, on November 21 by a vote of 167-129.
+
+The three opposition leaders had agreed to delay the tabling of the no-confidence motion until the 24th, to ensure that a conference between the government and aboriginal leaders scheduled on the 24th would not be disrupted by the campaign. Parliamentary procedure dictated that the vote be deferred until the 28th. Even if the opposition hadn't put forward the non-confidence motion, the government was still expected to fall—there was to have been a vote on supplementary budget estimates on December 8, and if it had been defeated, [[loss of Supply]] would have toppled the Liberals.
+
+Conservative leader [[Stephen Harper]], the [[Leader of the Official Opposition (Canada)|leader of the Opposition]], introduced a motion of no confidence on November 24, which NDP leader [[Jack Layton]] seconded. The motion was voted upon and passed in the evening of November 28, with all present MPs from the NDP, Bloc Québécois, and Conservatives and 3 [[Independent (politician)|Independents]] ([[Bev Desjarlais]], [[David Kilgour]] and [[Pat O'Brien (politician)|Pat O'Brien]]), voting with a combined strength of 171 votes for the motion and 132 Liberals and one Independent ([[Carolyn Parrish]]) voting against. One Bloc Québécois MP was absent from the vote. It is the fifth time a Canadian government has lost the confidence of Parliament, but the first time this has happened on a straight motion of no confidence. The four previous instances have been due to loss of supply or votes of [[censure]].
+
+Martin visited [[Governor General of Canada|Governor General]] [[Michaëlle Jean]] the following morning, where he formally advised her to dissolve Parliament and schedule an election for January 23. In accordance with Canadian constitutional practice, she consented (such a request has only been turned down [[King-Byng Affair|once in Canadian history]]), officially beginning an election campaign that had been simmering for months.
+
+Early on in the campaign, polls showed the Liberals with a solid 5-10 point lead over the Conservatives, and poised to form a strong minority government at worst. Around Christmas, after reports of an RCMP investigation into allegations of insider trading within the Finance department, this situation changed dramatically, leading to the opposition parties to consistently attack the Liberals on corruption. Almost at the same time, the [[Boxing Day shooting]], an unusually violent gun fight between rival gangs on December 26 in downtown [[Toronto]] (resulting in the death of 15-year-old Jane Creba, an innocent bystander), may have swayed some Ontario voters to support the more hardline CPC policies on crime. The Conservatives enjoyed a fairly significant lead in polls leading up to the election, but the gap narrowed in the last few days.
+
+==Issues==
+{{Further2|[[Issues in the Canadian federal election, 2006]]}}
+
+Several issues—some long-standing (notably [[Vertical fiscal imbalance in Canada|fiscal imbalance]], the [[Canadian gun registry|gun registry]], [[abortion in Canada|abortion]], and [[Quebec sovereignty movement|Quebec sovereigntism]]), others recently brought forth by media coverage (including redressing the Chinese Canadian community for long-standing wrongs that forced both parties to back-track on their position in the national and ethnic media, particularly in key British Columbia and Alberta ridings),  or court decisions (the [[sponsorship scandal]], [[Same-sex marriage in Canada|same-sex marriages]], [[income trust]]s, or [[U.S.-Canada relations|Canada-United States relations]])—took the fore in debate among the parties and also influenced aspects of the parties’ electoral platforms.
+
+==Opinion polls==
+[[Image:CombinedPollsVotes-39Cdnelxn.png|thumb|250px|Compiled polling/vote chart showing levels of party support over the course of the election campaign. Note the shift from the [[Liberal Party of Canada|Liberals]] to the [[Conservative Party of Canada|Conservatives]], during late December and early January.]]{{Main|Opinion polling in the Canadian federal election, 2006}}
+Prior to and during the election campaign, [[opinion poll]]ing showed variable support for the governing Liberals and opposition Conservatives. In November 2005, the [[Gomery Commission|first report by Justice John Gomery]] was released to the public; subsequently, poll numbers for the Liberals again dropped. Just days later, polling showed the Liberals were already bouncing back; upon the election call, the Liberals held a small lead over the Conservatives and maintained this for much of December. Renewed accusations of [[Political corruption|corruption]] and impropriety at the end of 2005 – amid [[Royal Canadian Mounted Police]] criminal probes of possible government leaks regarding [[income trust]] tax changes and [[sponsorship scandal|advertising sponsorships]] – led to an upswing of Conservative support again and gave them a lead over the Liberals, portending a change in government. Ultimately this scandal was linked to a blackberry exchange to a banking official by Liberal candidate [[Scott Brison]]. Polling figures for the NDP increased slightly, while Bloc figures experienced a slight dip; figures for the Green Party did not change appreciably throughout the campaign.
+
+==Candidates==
+The election involved the same 308 [[Canadian electoral district|electoral districts]] as in 2004, except in [[New Brunswick]], where the boundary between [[Acadie—Bathurst]] and [[Miramichi (electoral district)|Miramichi]] was ruled to be illegal. Many of the candidates were also the same: fewer incumbents chose to leave than if they had served a full term, and the parties have generally blocked challenges to sitting MPs for the duration of the minority government, although there had been some exceptions.
+
+{{See also|star candidate|Conservative Party candidates, 2006 Canadian federal election|Liberal Party candidates, 2006 Canadian federal election|NDP candidates, 2006 Canadian federal election|Bloc Québécois candidates, 2006 Canadian federal election|Green Party candidates, 2006 Canadian federal election}}
+
+===Gender breakdown of candidates===
+An on-going issue in Canadian politics is the imbalance between the genders in selection by political parties of candidates. Although in the past some parties, particularly the New Democrats, have focused on the necessity of having equal gender representation in Parliament, no major party has ever nominated as many or more women than men in a given election. In 2006, the New Democrats had the highest percentage of female candidates (35.1%) of any party aside from the Animal Alliance, which only had one candidate, its leader, [[Liz White (politician)|Liz White]]. The proportion of female New Democrats elected was greater than the proportion nominated, indicating female New Democrats were nominated in winnable ridings. 12.3% of Conservative candidates and 25.6% of Liberal candidates were female.
+
+{{See also|Women in the 39th Canadian Parliament|Female candidates in Canadian elections}}
+
+{|
+|-
+|  style="vertical-align:top; width:50%;"|
+{{election-table}} colspan="7"|Gender breakdown
+|- style="background:#ccc;"
+!rowspan=2 colspan="2"|Party
+!rowspan=2|Leader's<br />gender
+!colspan=4|Candidates
+|- style="background:#ccc;"
+!Total
+![[Female]]
+![[Male]]
+!% female
+|-
+{{Canadian_politics/party_colours/Conservative/row}}
+|[[Conservative Party of Canada|Conservative]]
+|align=center|M
+|align="right"|307
+|align="right"|38
+|align="right"|270
+|align="right"|12.3%
+{{Canadian_politics/party_colours/Liberal/row}}
+|[[Liberal Party of Canada|Liberal]]
+|align=center|M
+|align="right"|307
+|align="right"|79
+|align="right"|229
+|align="right"|25.6%
+{{Canadian_politics/party_colours/BQ/row}}
+|[[Bloc Québécois]]
+|align=center|M
+|align="right"|75
+|align="right"|23
+|align="right"|52
+|align="right"|30.1%
+{{Canadian_politics/party_colours/NDP/row}}
+|[[New Democratic Party (Canada)|New Democrats]]
+|align=center|M
+|align="right"|308
+|align="right"|108
+|align="right"|200
+|align="right"|35.1%
+{{Canadian party colour|CA|Green|row-name}}
+|align=center|M
+|align="right"|308
+|align="right"|72
+|align="right"|236
+|align="right"|23.4%
+{{Canadian_politics/party_colours/Christian Heritage/row}}
+|[[Christian Heritage Party of Canada|Christian Heritage]]
+|align=center|M
+|align="right"|45
+|align="right"|8
+|align="right"|37
+|align="right"|17.8%
+{{Canadian_politics/party_colours/Progressive Conservatives/row}}
+|[[Progressive Canadian Party|Progressive Cdn.]]
+|align=center|F
+|align="right"|25
+|align="right"|1
+|align="right"|24
+|align="right"|4.0%
+{{Canadian_politics/party_colours/Marxist-Leninist/row}}
+|[[Communist Party of Canada (Marxist-Leninist)|Marxist-Leninist]]
+|align=center|F
+|align="right"|69
+|align="right"|24
+|align="right"|45
+|align="right"|34.8%
+{{Canadian_politics/party_colours/Marijuana/row}}
+|[[Marijuana Party of Canada|Marijuana]]
+|align=center|M
+|align="right"|23
+|align="right"|1
+|align="right"|22
+|align="right"|4.3%
+|}
+|  style="vertical-align:top; width:50%;"|
+{{election-table}} colspan="7"|Gender breakdown
+|- style="background:#ccc;"
+!rowspan=2 colspan="2"|Party
+!rowspan=2|Leader's<br />gender
+!colspan=4|Candidates
+|- style="background:#ccc;"
+!Total
+![[Female]]
+![[Male]]
+!% female
+|-
+{{Canadian_politics/party_colours/Canadian Action/row}}
+|[[Canadian Action Party|Canadian Action]]
+|align=center|F
+|align="right"|34
+|align="right"|8
+|align="right"|26
+|align="right"|23.5%
+{{Canadian_politics/party_colours/Communist/row}}
+|[[Communist Party of Canada|Communist]]
+|align=center|M
+|align="right"|21
+|align="right"|7
+|align="right"|14
+|align="right"|33.3%
+{{Canadian_politics/party_colours/Libertarian/row}}
+|[[Libertarian Party of Canada|Libertarian]]
+|align=center|M
+|align="right"|10
+|align="right"|1
+|align="right"|9
+|align="right"|10.0%
+{{Canadian party colour|CA|FPNP|row-name}}
+|align=center|F
+|align="right"|5
+|align="right"|0
+|align="right"|5
+|align="right"|0.0%
+{{Canadian_politics/party_colours/Western Canada Concept/row}}
+|[[Western Block Party|Western Block]]
+|align=center|M
+|align="right"|4
+|align="right"|1
+|align="right"|3
+|align="right"|25.0%
+{{Canadian party colour/Temporary|CA|AAEVPC|row-name}}
+|align=center|F
+|align="right"|1
+|align="right"|1
+|align="right"|0
+|align="right"|100.0%
+{{Canadian_politics/party_colours/Independents/row}}
+|colspan=2|[[Independent (politician)|Independent]]
+|align="right"|90
+|align="right"|8
+|align="right"|82
+|align="right"|8.9%
+|-
+| colspan="3"|'''Total'''
+| style="text-align:right;"|'''1634'''
+| style="text-align:right;"|'''380'''
+| style="text-align:right;"|'''1254'''
+| style="text-align:right;"|'''23.3%'''
+|-
+| style="text-align:center;" colspan="7"|'''Source:''' [http://www.elections.ca Elections Canada]
+|}
+|}
+
+==Campaign slogans==
+The parties' [[political slogan|campaign slogans]] for the 2006 election:
+
+{|class="wikitable"
+|-
+|  style="background:#fff; width:16%; border:none;"|
+!width=28%|[[English language|English]] slogan
+!width=28%|[[French language|French]] slogan
+!width=28%|Literal English translation
+|-
+| {{Canadian politics/party colours/Conservative}}| '''Conservative''' || Stand up for Canada || ''Changeons pour vrai'' || Let's change for real / for truth (pun)
+<!-- Please: If you don't speak French, don't edit these -->
+|-
+| {{Canadian politics/party colours/Liberal}}|  '''Liberal''' || Choose your Canada || ''Un Canada à votre image'' || A Canada in your image
+|-
+| {{Canadian politics/party colours/NDP}}|  '''NDP''' || Getting results for people || ''Des réalisations concrètes pour les gens'' || Solid results for people
+|-
+| {{Canadian politics/party colours/BQ}}|  '''BQ''' || Thankfully, the Bloc is here! <!-- see talk page for link to Bloc website that uses this as its English slogan--> || ''Heureusement, ici, c'est le Bloc!'' || Fortunately, here, it's the Bloc!
+|-
+| {{Canadian party colour|CA|Green|background}}|  '''Green''' || We can || ''Oui, nous pouvons'' || Yes, we can
+|}
+
+==Endorsements==
+{{Further|Endorsements in the Canadian federal election, 2006|Newspaper endorsements in the Canadian federal election, 2006}}
+
+==Target ridings==
+{{Further|Target ridings in the Canadian federal election, 2006}}
+
+==Incumbent MPs who did not run for re-election==
+{|
+|-
+|  style="vertical-align:top; width:50%;"|
+
+===Liberals===
+*[[Peter Adams (politician)|Peter Adams]], [[Peterborough (electoral district)|Peterborough]]
+*[[David Anderson (British Columbia politician)|David Anderson]], [[Victoria (electoral district)|Victoria]]
+*[[Jean Augustine]], [[Etobicoke—Lakeshore]]
+*[[Don Boudria]], [[Glengarry—Prescott—Russell]]
+*[[Claudette Bradshaw]], [[Moncton—Riverview—Dieppe]]
+*[[Marlene Catterall]], [[Ottawa West—Nepean]]
+*[[Claude Drouin]], [[Beauce]]
+*[[Paul DeVillers]], [[Simcoe North]]
+*[[John Efford]], [[Avalon (electoral district)|Avalon]]
+*[[Beth Phinney]], [[Hamilton Mountain]]
+*[[Jerry Pickard]], [[Chatham-Kent—Essex]]
+*[[Rose-Marie Ur]], [[Middlesex—Kent—Lambton]]
+
+===Independents===
+*[[David Kilgour]], [[Edmonton—Mill Woods—Beaumont]]
+*[[Pat O'Brien (politician)|Pat O'Brien]], [[London—Fanshawe]]
+*[[Carolyn Parrish]], [[Mississauga—Erindale]]
+|  style="vertical-align:top; width:50%;"|
+
+===Conservatives===
+*[[David Chatters]], [[Westlock—St. Paul]]
+*[[Gurmant Grewal]], [[Newton—North Delta]]
+*[[Jim Gouk]], [[British Columbia Southern Interior (electoral district)|British Columbia Southern Interior]]
+*[[Dale Johnston]], [[Wetaskiwin (electoral district)|Wetaskiwin]]
+*[[Charlie Penson]], [[Peace River (electoral district)|Peace River]]
+*[[John Reynolds (Canadian politician)|John Reynolds]], [[West Vancouver—Sunshine Coast—Sea to Sky Country]]
+*[[Werner Schmidt]], [[Kelowna—Lake Country]]
+*[[Darrel Stinson]], [[Okanagan—Shuswap]]
+*[[Randy White (politician)|Randy White]], [[Abbotsford (electoral district)|Abbotsford]]
+
+===New Democrats===
+*[[Ed Broadbent]], [[Ottawa Centre]]
+
+===Bloquistes===
+*[[Alain Boire]], [[Beauharnois—Salaberry]]
+*[[Marcel Gagnon]], [[Saint-Maurice—Champlain]]
+*[[Denise Poirier-Rivard]], [[Châteauguay—Saint-Constant]]
+|}
+
+==See also==
+{{Portal|Canadian politics}}
+Articles on parties' candidates in this election:
+{| <br />
+|  style="vertical-align:top; width:33%;"|
+* [[Independent candidates, 2006 Canadian federal election|Independents]]
+* [[Canadian Action Party candidates, 2006 Canadian federal election|Canadian Action]]
+* [[Communist Party candidates, 2006 Canadian federal election|Communists]]
+* [[Progressive Canadian Party candidates, 2006 Canadian federal election|Progressive Canadians]]
+* [[List of Canadian political scandals]]
+|  style="vertical-align:top; width:33%;"|
+* [[Libertarian Party candidates, 2006 Canadian federal election|Libertarians]]
+* [[Marijuana Party candidates, 2006 Canadian federal election|Marijuana Party]]
+* [[Bloc Québécois candidates, 2006 Canadian federal election|Bloc Québécois]]
+* [[Conservative Party candidates, 2006 Canadian federal election|Conservatives]]
+|  style="vertical-align:top; width:33%;"|
+* [[Green Party candidates, 2006 Canadian federal election|Green Party]]
+* [[New Democratic Party candidates, 2006 Canadian federal election|New Democrats]]
+* [[Christian Heritage Party candidates, 2006 Canadian federal election|Christian Heritage]]
+* [[In and Out scandal]]
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Wikinewspar2|Conservative party wins minority government in Canada|Canadian federal elections underway}}
+*[http://www.electionprediction.org/2005_fed/index.html Election Prediction Project]
+*[http://esm.ubc.ca/CA06/ UBC Election Stock Market 2006]
+*[http://www.saplin.com/vote2006 Which party to vote for ? (saplin.com)] - Vote by issue quizz
+*[http://trendlines.ca/politics.htm  TrendLines Riding Projections (2004, 2006 & 2009)]
+*[http://www.egwald.ca/statistics/canadianelections2006.php Predicting the 2006 Canadian Election]
+
+===Government links===
+*[[Elections Canada]] [http://www.elections.ca/scripts/webpep/reg/contest_search.aspx?textonly=false&lang=e nominations database]
+
+===National media coverage===
+*First French Leaders' Debate [http://radio-canada.ca/nouvelles/electionsFed2006/2005/12/13/017-elections_debat.shtml Windows Media Video stream]
+*[http://www.ctv.ca/mini/election2006/ CTV News - Election 2006]
+*[http://www.theglobeandmail.com/decision2006 The Globe and Mail - Decision 2006]
+
+===Humour===
+*[http://www.mackaycartoons.net/election2006.html 2006 Election Editorial Cartoon Gallery] by Graeme MacKay of The Hamilton Spectator.
+
+{{Canadian federal election, 2006A}}
+{{election canada}}
+
+{{DEFAULTSORT:Canadian Federal Election, 2006}}
+[[Category:Canadian federal election, 2006| ]]
+[[Category:2006 elections in Canada| Federal]]

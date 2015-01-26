@@ -1,0 +1,173 @@
+{{Earthquake|
+| title= 2006 Hengchun earthquake
+| date= {{Start date|2006|12|26}}
+| map2 = {{Location map | Taiwan 
+ | relief = yes
+ | label =
+ | lat = 21.83
+ | long = 120.54
+ | mark = Bullseye1.png
+ | marksize = 40
+ | position = top
+ | width = 250
+ | float = right
+ | caption = }}
+| depth = {{convert|10|km|mi|0}}
+| location = {{coord|21.83|N|120.54|E|type:event}}
+| magnitude = 7.1 Moment magnitude scale|M<sub>w</sub>
+| countries affected = Physical: Republic of China<br/>Communications: Various countries in East Asia|East and Southeast Asia
+| casualties = 2 dead; 42 injured
+}}
+
+The '''2006 Hengchun earthquake''' occurred on Tuesday December 26, 2006 at 12:25 UTC (20:25 China Standard Time|local time), with an epicenter off the southwest coast of Taiwan, approximately 22.8&nbsp;km west southwest of Hengchun, Pingtung|Hengchun, Pingtung County, Taiwan, with an exact hypocenter 21.9&nbsp;km deep in the Luzon Strait, which connects the South China Sea with the Philippine Sea.
+
+There are conflicting reports of the magnitude of the quake, with the Republic of China's Central Weather Bureau marking it at 7.0 Richter magnitude scale|M<sub>L</sub>, the United States Geological Survey estimating it at 7.1 Moment magnitude scale|M<sub>w</sub>, the Hong Kong Observatory, and the Japan Meteorological Agency  put the magnitude at 7.2 Moment magnitude scale|M<sub>w</sub>. The earthquake not only caused casualties and building damages, but also damaged several Submarine communications cable|undersea cables, disrupting telecommunication services in various parts of Asia. Coincidentally, the earthquake occurred on the second anniversary of the 2004 Indian Ocean earthquake that devastated the coastal communities across Southeast Asia|Southeast and South Asia and 3rd anniversary of the 2003 Bam earthquake|2003 earthquake that devastated the southern Iranian city of Bam,_Iran|Bam.
+
+==Damage==
+===Taiwan===
+News agencies aired reports in southern Taiwan of collapsed houses, building fires, hotel guests being trapped in elevators, and telephone outages due to severed lines. Two people were reported killed and 42 injured.  The earthquake was felt all over Taiwan, including the capital city of Taipei, which is 450&nbsp;km north of Hengchun, Pingtung|Hengchun.
+
+Power was knocked out to a reported 3,000 homes, but service was restored within a few hours.  As of the following morning, cleanup was already underway.
+
+Fifteen historical buildings, including a Grade 2 elephant site, have been damaged in the historic center of Hengchun, Pingtung|Hengchun.
+
+The 3rd nuclear power plant, Maanshan Nuclear Power Plant, of Taiwan Power Company nearby was affected by the earthquake. Because of the vigorous vibration, the alarm at nuclear reactor|Reactor #2 was activated, forcing the operators to carry out SCRAM immediately. However, nuclear reactor|Reactor #1 was not affected and remained operational. After the emergency shutdown of nuclear reactor|Reactor #2, engineers checked the facilities at the plant and no problems had been found.
+
+===Hong Kong and Macau===
+Residents in different Districts of Hong Kong|districts of Hong Kong felt the earthquake. Fearing the collapse of their buildings, people in Sham Shui Po District|Sham Shui Po, Wong Tai Sin District|Wong Tai Sin and Yuen Long District|Yuen Long ran down to the streets. The Hong Kong Observatory estimated the tremor as Modified Mercalli intensity scale of III to IV. In Macau, residents called the Office for Meteorological and Geophysical Services to ask whether earthquake occurred in their city.
+
+===China===
+There were no reports of major damage in China although the quake could be felt there. In Xiamen, Fujian, people evacuated from their home and office to open spaces. The earthquake could also be felt in various cities in Guangdong province and Fujian province (e.g. Guangzhou, Shenzhen, Shantou and Fuzhou.)
+
+==Aftershocks==
+Aftershocks greater than 5 Richter magnitude scale (or more correctly local magnitude M<sub>L</sub> scale) are listed in the table below:
+
+{| class="wikitable"
+|-
+! #
+! Time
+! Location
+! Magnitude
+! Depth
+|-----
+| 1
+| December 26, 2006 20:34 UTC+8
+| 21.97°N, 120.42°E, 11.6&nbsp;km northwest of Fangliao
+| 7.0 Richter magnitude scale|M<sub>L</sub>
+| 50.2&nbsp;km 
+|-{{grey row}}
+| 2
+| December 26, 2006 20:40 UTC+8
+| 21.94°N, 120.4E, 35.4&nbsp;km west of Hengchun, Pingtung|Hengchun
+| 5.2 Richter magnitude scale|M<sub>L</sub>
+| 25.0&nbsp;km 
+|-----
+| 3
+| December 26, 2006 22:53 UTC+8
+| 21.86°N, 120.39°E, 39.8&nbsp;km southwest of Hengchun, Pingtung|Hengchun
+| 5.2 Richter magnitude scale|M<sub>L</sub>
+| 25.0&nbsp;km 
+|-{{grey row}}
+| 4
+| December 26, 2006 23:41 UTC+8
+| 22.09°N, 120.22°E, 31.6&nbsp;km southwest of Little Liuchiu Island
+| 5.5 Richter magnitude scale|M<sub>L</sub>
+| 23.0&nbsp;km 
+|-----
+| 5
+| December 27, 2006 01:35 UTC+8
+| 21.78°N, 120.31°E, 50.4&nbsp;km southwest of Hengchun, Pingtung|Hengchun
+| 5.8 Richter magnitude scale|M<sub>L</sub>
+| 32.6&nbsp;km 
+|-{{grey row}}
+| 6
+| December 27, 2006 10:30 UTC+8
+| 22.03°N, 120.33°E, 35.1&nbsp;km south of Little Liuchiu Island
+| 5.9 Richter magnitude scale|M<sub>L</sub>
+| 28.0&nbsp;km 
+|-----
+| 7
+| December 28, 2006 17:38 UTC+8
+| 21.96°N, 120.56°E, 54.5&nbsp;km southwest of Hengchun, Pingtung|Hengchun
+| 5.3 Richter magnitude scale|M<sub>L</sub>
+| 54.5&nbsp;km 
+|}
+
+In addition, three others were reported that were of at least 4.7 intensity according to the Taiwan's Central Weather Bureau.
+
+==Tsunami warning==
+===Taiwan===
+While this earthquake marked the first time a tsunami was detected in Taiwan, the change in Sea level|water level was only 25&nbsp;cm and no damage was caused.
+
+===Warning from agencies in other areas===
+Early reports issued by the Japan Meteorological Agency indicated that the earthquake triggered a 1 meter tsunami, which was detected heading for the east coast of the Philippines, with Basco, Batanes|Basco in its likely path. The Hong Kong Observatory also issued tsunami information bulletin, while indicating Hong Kong would likely be unaffected.
+
+==Disruption in communications==
+The earthquake catastrophically disrupted Internet services in Asia, affecting many Asian countries. Financial transactions, particularly in the foreign exchange market were seriously affected as well. The aforementioned disruption was caused by damage to several submarine communications cables.
+
+===Taiwan===
+Image:2006Dec26 TaiwanSouth Earthquake USGS-ShakeMap.jpg|thumb|Map showing the impact of the earthquake
+Chunghwa Telecom stated that an submarine communications cable|undersea cable off the southern coast had been damaged, interrupting communications (including International Direct Dialling|IDD, telephone services and internet services) of Taiwan with China, Hong Kong, Malaysia, Singapore, Thailand, and the United States.  The international calling capacity was reduced to 40%.
+
+===China===
+China Telecom reported that several international submarine communications cables had been broken, including:
+* CUCN (cable system)|CUCN and SEA-ME-WE 3 (cable system)|SMW3, which was damaged at December 26, 2006  20:25 UTC+8 approximately 9.7&nbsp;km away from landing point in Fangshan, Pingtung County, Taiwan;
+* APCN 2 (cable system)|APCN 2 S3, which was damaged at December 27, 2006  02:00 UTC+8 approximately 2100&nbsp;km away from landing point in Chongming County|Chongming, Shanghai, China;
+* APCN 2 (cable system)|APCN 2 S7, which was damaged at December 27, 2006  00:06 UTC+8 approximately 904&nbsp;km away from landing point in Tamsui Township|Tanshui, Taipei County (now New Taipei City), Taiwan;
+* Fiber-Optic Link Around the Globe|FLAG Europe Asia, the segment between Hong Kong and Shanghai was broken at December 27, 2006 04:56 UTC+8;
+* Fiber-Optic Link Around the Globe|FLAG North Asia Loop, the segment between Hong Kong and Pusan was broken at December 26, 2006 20:43 UTC+8, <br />severely damaging the communications within the Asia-Pacific region and with the United States and Europe.
+
+International Direct Dialling|IDD, telephone services and internet services of China with North America was seriously affected by the earthquake. However, China Telecom announced on December 31 that International Direct Dialling|IDD services had resumed to normal level. Internet services had resumed to 70% of normal level. As the submarine communications cable|undersea cables to North America was seriously damaged by the earthquake, the quality of internet services depends on the progress of 2006 Hengchun earthquake#Repairing work|repairing work.
+
+=== Hong Kong ===
+Starting from the dawn of December 27, connection between foreign web sites/servers and Hong Kong internet users kept failing. Wikipedia, search engines, online messengers like ICQ and MSN Messenger, and portals like Google, Yahoo! and MSN have been largely unavailable. Access to Chinese Wikipedia was cut by the earthquake too, as the servers are located in South Korea. Websites located in mainland China, such as xinhuanet.com, the website of Xinhua News Agency, were also inaccessible.
+
+On December 29, the Office of the Telecommunications Authority (OFTA) http://www.ofta.gov.hk of Hong Kong Government announced that, International Direct Dialling|IDD and roaming calls to Taiwan have resumed to 50% of the normal level. International Direct Dialling|IDD and roaming calls to other Asian countries (e.g. South Korea) are slower than normal condition. Calls from Hong Kong to overseas using Telephone card|calling cards have the same situation as the International Direct Dialling|IDD and roaming calls.
+
+However, calling from overseas to Hong Kong using Telephone card|calling cards is still facing serious congestion.
+
+For internet services, as of December 29, connections to web sites in the U.S., South Korea, Japan and Taiwan were still very slow. However, the situation was improving, sites which could not be accessed before (e.g. Wikipedia, Google, YouTube) were available at extremely slow speed. Among the internet service providers in Hong Kong, PCCW's Netvigator was the slowest to resume enough bandwidth for their users. Therefore, as a temporary remedy, many internet users in Hong Kong used proxy servers in Australia, Thailand, Spain or even the UAE and Kuwait to access foreign websites.
+
+As of December 31, the situation of internet connection had improved. Although sites that were previously unavailable became accessible, the connection speed was still slower than normal.
+
+===Philippines===
+The earthquake has cut PLDT's capacity and connectivity by as much as 40 percent  Call centers and other Business process outsourcing in the Philippines|outsourced business processes that have become a major industry in the Philippines feared that the Submarine communications cable|cable damage might hamper their operations dramatically; only two centers were totally shut down due to the problems.
+
+===United States===
+In the United States, several networks and bloggers have experienced a noticeable reduction of the volume of E-mail spam|spam received after the earthquake.  A blogger noted that "one large network in North America saw their mail from Korea drop by 90% and from China by 99%."
+
+===Other areas===
+Korea Telecom, and Jaring, as well as the Thailand Ministry of Information and Communication Technology|Communications Authority of Thailand, Singapore's StarHub and SingTel  and Brunei's Telbru have also reported disruption to most Internet services. In Singapore, search engines and portals like Google, Yahoo!, MSN and most websites have been virtually unreachable. In Indonesia, Google is not accessible, but Yahoo! and Wikipedia can still be used, though the network connection speed is very slow. Sri Lankan Internet services have likewise been affected. In Malaysia, there were problems with popular Internet services  such as Gmail and Yahoo! News, however the situation is reported to be improving on 29 December.
+
+==Repair work==
+According to the Office of the Telecommunications Authority (OFTA) of Hong Kong Government, among the five cable ships deployed, two arrived at the scene. However, one of the two ships experienced a major fault on December 30 afternoon and was under urgent repair in Kaohsiung, Taiwan. The repair for the ship was estimated to take about a week. Therefore the repair for the cables had to be postponed. It is estimated that the first part of the repair of one of the  submarine cables would be completed around January 16, 2007. For the other damaged cables, survey and assessment were being arranged and repair of most of the cables is expected to be completed progressively by the end of January 2007.
+
+International Direct Dialling|IDD Services and disrupted internet service in Southeast Asia has been greatly restored pending the repairs and rerouted traffic.
+
+Before the completion of the cable works, however, some countries had already found alternative methods to restore the Internet access. For example, by January 3, 2007, Singapore's SingTel had already fully restored the Internet access provided by them. SingNet, SingTel's subsidiary, which does Internet service provider|ISP services, released an announcement on its homepage, mentioning that "internet access to services such as gaming and video downloading may experience some delays". Whether or not this is related to the earthquake is unknown, albeit likely.
+
+According to ''China Daily'' (January 16) the repair work might be completed end of January, yet heavy winds in the Bashi Channel have stirred up 10–12-meter waves, which makes it impossible to resume work.
+
+==See also==
+* Chi-Chi earthquake|1999 Taiwanese 921 earthquake (Chi-Chi earthquake)
+* 2004 Indian Ocean earthquake
+* List of earthquakes
+* Submarine communications cable
+
+==References==
+
+{{Reflist|2}}
+
+==External links==
+* http://earthquake.usgs.gov/eqcenter/recenteqsww/Quakes/uswtai.php US Geological Survey (USGS) earthquake report
+* http://www.cwb.gov.tw/V5e/seismic/Data/quake/EE1226202667106.html Taiwan's Central Weather Bureau earthquake report
+* http://www.cwb.gov.tw Central Weather Bureau of Taiwan The Central Weather Bureau|CWB maintains an up-to-date record of earthquakes and their aftershocks.
+* http://today.reuters.com/news/articlenews.aspx?type=newsOne&storyID=2006-12-26T162403Z_01_JAK11584_RTRUKOC_0_US-TSUNAMI-ANNIVERSARY.xml&WTmodLoc=Home-C2-TopNews-newsOne-9 ''Reuters'' article
+* http://news.bbc.co.uk/2/hi/asia-pacific/6210161.stm "Strong quake strikes off Taiwan" BBC News
+{{Earthquakes in 2006}}
+{{Taiwan earthquakes}}
+
+{{DEFAULTSORT:Hengchun Earthquake, 2006}}
+Category:2006 earthquakes
+Category:Earthquakes in Taiwan|2006 Hengchun
+Category:2006 in Taiwan

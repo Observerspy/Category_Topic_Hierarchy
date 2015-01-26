@@ -1,0 +1,55 @@
+clustering:
+cluster id: 0concept: 
+voter demographics#primaries#general election campaign#government formation#background#conduct#presidential debates#turnout#eligibility#media bias#rejected candidates#second round#campaign issues#candidates#aftermath#before the primaries#campaign#international observers#
+cluster id: 1concept: 
+vote and seat summaries#
+cluster id: 2concept: 
+chamber of deputies#
+cluster id: 3concept: 
+party conventions#
+cluster id: 4concept: 
+results by province#analysis#leaders' debates#reactions#ballot access#early primaries/caucuses#first round#overall results#
+cluster id: 5concept: 
+campaign slogans#election campaign#
+cluster id: 6concept: 
+electoral system#results#summary#vote#procedure#overview#debates#result#overview of results#
+cluster id: 7concept: 
+polls#opinion polls#economy#opinion polling#exit polls#
+cluster id: 8concept: 
+electors#
+cluster id: 9concept: 
+congress of deputies#issues#senate#
+cluster id: 10concept: 
+comparison#
+cluster id: 11concept: 
+official candidate websites#sources#
+cluster id: 12concept: 
+electoral maps#
+cluster id: 13concept: 
+investiture voting#electronic voting#
+cluster id: 14concept: 
+results by region#
+cluster id: 15concept: 
+health care#
+cluster id: 16concept: 
+nominations#other nominations#
+cluster id: 17concept: 
+political context#
+cluster id: 18concept: 
+official candidates#presidential candidates#registered candidates#other candidates#
+cluster id: 19concept: 
+withdrawn#
+cluster id: 20concept: 
+votes by state#results by state#
+cluster id: 21concept: 
+political parties#manifestos#candidates by party#
+cluster id: 22concept: 
+unsuccessful candidacies#
+cluster id: 23concept: 
+apportionment#controversies#campaigns#endorsements#
+cluster id: 24concept: 
+timeline#
+cluster id: 25concept: 
+seat by seat results#
+cluster id: 26concept: 
+post-election#

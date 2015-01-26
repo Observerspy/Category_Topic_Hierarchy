@@ -1,0 +1,68 @@
+{{Use dmy dates|date=April 2014}}
+{{Infobox earthquake
+| title = 1985 Pichilemu earthquake
+| date = {{Start date|1985|04|08|df=yes}}
+| origintime = 21:56:59 UTC-4
+| image = 
+| image alt = 
+| image name = 
+|map2 = {{Location map+ | South America
+| places =
+{{Location map~|South America|lat=-34.39|long=-72.01|label=Pichilemu|position=left||label_size=120|mark=Blue pog.svg}}
+{{Location map~|South America|lat=-34.12|long=-71.51|marksize=40|mark=Bullseye1.png}}
+ | relief = yes
+ | width = 250
+ | float = right
+ | caption = }}
+| caption =
+| magnitude = 7.5 Moment magnitude scale|M<sub>w</sub> 
+| intensity = Modified Mercalli intensity|MM VII
+| depth = {{convert|37.8|km|mi|0|abbr=on}} 
+| location = {{coord|-34.12|-71.51|type:event|display=inline,title}}
+| countries affected = Chile, Argentina
+| tsunami = No
+| casualties = 2 killed
+}}
+The '''1985 Pichilemu earthquake''' occurred with a moment magnitude scale|moment magnitude of 7.5 and a maximum perceived intensity of VII (''Very Strong'') on 8 April 1985 at {{Tooltip|21:56:59 local time|(01:56:59 UTC)}}. The shock's epicenter was located {{convert|75|km|mi}} southwest of Santiago, Chile|Santiago, Chile, with a hypocentral depth of {{convert|37.8|km|mi|0|abbr=on}}.
+
+==Earthquake==
+File:1985 Lago Rapel earthquake.jpg|thumb|USGS ShakeMap of the 1985 Pichilemu mainshock
+{{see also|Peru-Chile Trench}}
+
+The 9 April 1985 Pichilemu earthquake occurred in the same fault area as the 2010 Pichilemu earthquake, and is considered by University of Chile Seismological Service a thrust fault-type interplate earthquake.
+
+The earthquake, measured in the Modified Mercalli intensity, reached magnitude VI in Curacaví, La Calera, Chile|La Calera, Los Andes, Chile|Los Andes, Pe?aflor, Chile|Pe?aflor, San Antonio, Chile|San Antonio, Valparaíso, and Vi?a del Mar; and magnitude V–VI in Concón, Constitución, Chile|Constitución, Curicó, La Ligua, Melipilla, Papudo, Pichilemu, Puchuncaví, Quilpué, and Villa Alemana. The earthquake was felt throughout much of central Chile from La Serena, Chile|La Serena to Osorno, Chile|Osorno. It was also felt in Mendoza Province|Mendoza, San Juan Province (Argentina)|San Juan, San Luis Province (Argentina)|San Luis, Córdoba Province (Argentina)|Córdoba, Tucumán Province|Tucumán, and Santa Fe Province (Argentina)|Santa Fe provinces of Argentina|provinces in Argentina.
+
+Although it has been considered by the news media as an aftershock of the main Santiago earthquake,
+
+===Damage and effects===
+Two people died of heart attacks after the earthquake; one in Santiago and another in Chillán.
+
+It created damage in addition to that already caused by 1985 Santiago earthquake|3 March earthquake in the Santiago-Valparaíso area.
+
+===Previous events===
+{{main|1985 Santiago earthquake}}
+
+A magnitude 8.0 earthquake was registered on 3 March 1985 offshore Valparaíso, Valparaíso Region. There was a long interruption on basic services, and the damage provoked by that earthquake was estimated to be more than 1,046 million US dollars.
+
+==See also==
+{{Portal|Pichilemu}}
+* 2010 Pichilemu earthquake
+* List of earthquakes in Chile
+
+==References==
+{{reflist|refs=
+
+
+}}
+
+{{Earthquakes in 1985}}
+{{Earthquakes in Chile}}
+{{Pichilemu}}
+
+{{DEFAULTSORT:Pichilemu earthquake, 1985}}
+Category:Megathrust earthquakes in Chile|1985
+Category:1985 earthquakes
+Category:1985 in Chile
+Category:History of Pichilemu|Earthquake, 1985
+Category:History of O'Higgins Region|1985 Pichilemu earthquake

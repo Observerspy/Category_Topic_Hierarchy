@@ -1,0 +1,44 @@
+{{Infobox earthquake
+| title= 1902 Guatemala earthquake
+| date= {{start-date|April 19, 1902|April 18, 1902}}
+| map2 ={{Location map many| Guatemala
+ | label=
+ | lat=14.9
+ | long=-91.5
+ | mark=Bullseye1.png
+ | marksize=40
+ | position=top
+ | width= 200
+ | float=center
+ | caption=
+ | relief=yes
+ }} 
+| magnitude = 7.5 Moment magnitude scale|M<sub>w</sub>
+| depth={{convert|25|km|mi|0}}
+| location={{coord |14.90|N|91.50|W}}
+| countries affected = {{GUA}}
+| tsunami = 
+| casualties = 800 to 900 fatalities
+}}
+
+The '''1902 Guatemala earthquake''' struck on April 18, 1902 at 20:23:50 hrs. It had an estimated magnitude of 7.5 Moment magnitude scale|M<sub>w</sub> and an epicenter depth of approximately 25&nbsp;km. The quake had a duration of 1 to 2 minutes and had many foreshocks and aftershocks. The area around Quetzaltenango and Sololá was particularly hard hit. Approximately 800 to 900 were killed, and nearly all churches in western Guatemala and eastern Chiapas were heavily damaged or destroyed.
+
+==See also==
+*Earthquakes in Guatemala
+
+==References==
+{{Reflist}}
+
+== External links ==
+*http://www.insivumeh.gob.gt/ Instituto Nacional de Sismología, Vulcanología, Meteorología e Hidrolagía (INSIVUMEH)
+*http://earthquake.usgs.gov/regional/world/historical.php US Geological Survey Report note
+
+{{DEFAULTSORT:1902 Guatemala Earthquake}}
+Category:1902 in Guatemala|Guatemala Earthquake, 1902
+Category:Earthquakes in Guatemala
+Category:History of Guatemala
+Category:1902 earthquakes
+
+
+{{CentralAm-earthquake-stub}}
+{{Guatemala-stub}}

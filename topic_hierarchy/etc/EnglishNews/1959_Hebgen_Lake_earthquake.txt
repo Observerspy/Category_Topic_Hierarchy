@@ -1,0 +1,112 @@
+{{Infobox earthquake
+|title = 1959 Hebgen Lake earthquake
+|date = {{start-date|August 17, 1959|August 17, 1959}}
+|map2 = {{Location map+ | Montana
+ | AlternativeMap = USA_Montana_relief_location_map.jpg
+ | places =
+  {{Location map~ | Montana
+    | label = 
+    | position = 
+    | mark = Bullseye1.png
+    | marksize = 40
+    | lat_deg = 44.712
+    | lon_deg = -111.215
+  }}
+ | label =
+ | lat = 
+ | long = 
+ | mark = 
+ | marksize = 
+ | position = top
+ | width = 250
+ | float = right
+ | caption = }}
+| magnitude = 7.3–7.5 Moment magnitude scale|M<sub>w</sub>
+| location = {{coord|44.863|-111.335|display=inline, title}} <br> ~15 miles North of West Yellowstone, Montana, United States
+| countries affected = southwestern Montana, Idaho, Wyoming
+| casualties = 28+ dead }}
+
+The '''1959 Hebgen Lake earthquake''' occurred on August 17, 1959 in southwestern Montana, United States. The earthquake measured 7.3&nbsp;&ndash;&nbsp;7.5 on the Richter magnitude scale, and caused a huge landslide that caused over 28 fatalities and left $11 million (1959 US$, $74.1 million 2006 US$) in damage. The slide blocked the flow of the  Madison River resulting in the creation of Quake Lake. Effects of the earthquake were also felt in Idaho and Wyoming.
+
+The 1959 quake was the strongest and deadliest earthquake to hit Montana since the 1935 Helena earthquake|1935-36 Helena earthquakes left 4 people dead. It also caused the worst landslides in the history of the Northwestern United States since 1927.
+
+==Earthquake==
+{{main|List of earthquakes in the United States}}
+
+The earthquake occurred at 11:37 p.m. (mst) with a Richter magnitude estimated between 7.3 and 7.5. During the earthquake the surrounding landscape dropped as much as 20 feet (6 m) and shockwaves caused numerous seiches to surge across Hebgen Lake for 12 hours. Water pushed by the seiches poured over the dam which did not collapse. Several aftershocks ranging from 5.8 to 6.3 were reported after the quake.
+
+The earthquake struck in Madison Canyon, an area to the west of Yellowstone National Park. Several nearby campgrounds were occupied by vacationing campers and tourists at the time the quake struck.
+
+Image:Wij00084.jpg|thumb|Damage from the earthquake
+
+Although magnitude measurements of the 1959 earthquake vary (the United States Geological Survey recorded the quake at both 7.3 The landslide caused by quake was the largest since an earthquake in Wyoming in 1925 caused a landslide amounting to {{convert|50000000|cuyd|m3}} of rock and debris that left 28 people dead. The death toll from the quake was also the highest since the 1925 earthquake and most recent for the Northwestern United States  since an earthquake in 1927 that left seven people dead. The 1959 earthquake was also the most damaging earthquake to occur in Montana since the 1935-36 earthquakes that left four people dead. The Hebgen Lake area also experienced earthquakes again in 1964, 1974, 1977 and 1985.
+
+===Damage===
+
+The landslides caused by the quake carried 80 million tons (40 million cubic yards) of rock, mud and debris down into the valley and created hurricane force winds strong enough to toss cars. In Madison Canyon, a family of seven were swept away by the landslide, five of whom perished. Two more fatalities were also reported in nearby Cliff Lake to the south. In Rock Creek, tourists camping there were caught off guard by the quake and landslide, which swept them into the creek. The landslide caused a seiche which inundated trailers and tents, uprooted trees, and injured one additional person. In nearby Yellowstone National Park, new geysers and cracks sprouted up over the park.
+
+Image:Hebgen Lake House.JPG|left|thumb|House destruction from the earthquake
+
+In Yellowstone National Park near Old Faithful, the earthquake damaged the Old Faithful Inn, forcing guests there to evacuate. Landslides caused by the quake blocked a road between Mammoth and Old Faithful, damaging a bridge inside the park. Buildings at the Montana State University campus also sustained quake damage.
+
+Areas around Hebgen Lake were also hard hit as the quake caused parts of the lake to rise eight feet. Roads and highways running along coastal sections of the lake collapsed into the water. In West Yellowstone, Montana|West Yellowstone, the earthquake damaged a courthouse
+
+{| class="wikitable" style="text-align:center"
+|+ '''Death toll from the 1959 Yellowstone earthquake'''
+|- style="text-align:center;"
+! State
+! Reported deaths
+! Confirmed deaths
+! Unaccounted
+|-
+| Montana
+| 0
+| 27
+| 1
+|-
+| Idaho
+| 8
+| 0
+| 0
+|}
+
+The earthquake also caused damage and fatalities outside of Montana. In Raynolds Pass in Eastern Idaho, a landslide killed eight more people. The final death toll from the earthquake was 28, although some newspaper reports suggested the death toll was high as 50-60., and $11 million (1959 US$; $74.1 million 2006 US$) in damage was caused.
+
+===Quake Lake===
+The landslide caused by the quake blocked the flow of the Madison River. The blockage caused the water to rise and formed a new lake, which was later to be named Quake Lake. Fearing that the pressure caused by the rising water would result in a catastrophic flood, the United States Army Corps of Engineers|Army Corps of Engineers began to cut a 250&nbsp;ft (76.2 m) wide and 14&nbsp;ft (4.3 m) deep channel into the slide. By September 10, water began to flow through the channel. To prevent more erosion by the flowing water, the Army Corps cut another {{convert|50|ft|m|abbr=on}} (15.2 m) channel which was completed on October 29. The construction of the two channels cost $1.7 million (1959 US$).
+
+==Aftermath==
+
+Amateur radio operator K7ICM transmitted news of the quake at 11:43 p.m. (MST). At 11:50 p.m., another amateur in Idaho contacted the Idaho State Police who in turn contacted their headquarters in Boise, Idaho|Boise. The Montana Highway Patrol, Montana State Civil Defense and the Montana Fish, Wildlife & Parks Department also received word of the earthquake and its effects. The geography of the area plus the damage from the earthquake disrupted and/or obstructed radio communications, making broadcasting accurate information about the quakes effects difficult.
+
+The American Red Cross, The Yellowstone County Chapter, Salvation Army and various other states, local and national organizations sent aid to the victims of the earthquake. The Red Cross also set up temporary housing in Bozeman, Montana|Bozeman and the Wyoming Department of Health sent 200 trailers to the Yellowstone area to be used as hospitals. Because the majority of the roads in and around the Yellowstone area were either damaged or blocked by the landslides and the quake, equipment and personnel from the United States Air Force and the U.S. Forest Service were brought in to transport the injured to nearby hospitals outside the quake zone and to perform search and rescue missions in Madison Canyon. 300 people trapped in the canyon were rescued. Rescuers found five to nine bodies in the earthquake zone. Residents from the town of Ennis, Montana|Ennis, were evacuated to Virginia City, Montana|Virginia City and Butte, Montana|Butte.
+
+Image:Roaddamage59quake.JPG|right|thumb|Road damage from the earthquake
+
+Senators and Representatives Frank Moss (politician)|Frank Moss (D-Utah), John F. Baldwin, Jr.|John Baldwin (R-California), Harold T. Johnson|Harold Johnson (D-California), Lee Metcalf (D-Montana), Leroy Anderson (D-Montana), Tom Morris (D-New Mexico) and Gracie Pfost (D-Idaho) overflew and surveyed the disaster area. The Senate Interior and Insular Affairs Committee requested Montana Governor J. Hugo Aronson to declare the areas hardest hit by the quake a disaster area. Wyoming Governor John J. Hickey provided help and equipment in the aftermath of the quake. The Montana National Guard was called to the quake area to prevent looting of campsites left abandoned by the quake. The Idaho National Guard were also sent to the quake area. The Montana Highway Department began clearing roads of debris and mud. The work was slowed by aftershocks and smaller landslides. On August 19, US Highway 20 and US Highway 191 were reopened while Montana State Highway 1 remained closed. Three bridges in Duck Creek, Cougar Creek and Madison Canyon were repaired and reopened as well. Because of the threat of gasoline spilling into the Missouri River, a local pipeline company built an emergency pumping station. The Montana Power Company surveyed Hebgen Dam and found it sustained minimal damage. Hebgen Lake was completely drained for crewmen to make repairs and to rid it of dead or dying fish. Overall repairs to the Yellowstone National Park amounted to $2.6 million (1959 USD).
+
+50 people including police officers, members of the Red Cross and others held a memorial service a mile north of the slide in Madison Canyon for campers presumed buried under the quake-induced landslide. The services lasted for 15 minutes. The U.S. Forest Service placed a plaque on one of the boulders that fell during the quake to honor the 19-21 people who were killed during the quake-induced landslide.
+
+==See also==
+* Yellowstone Caldera
+
+==References==
+{{Reflist}}
+
+==External links==
+*http://www.amazon.com/dp/B0007F2FX8 Night the Mountain Fell:The Story of the Montana-Yellowstone Earthquake on Amazon.com
+*http://www.dma.mt.gov/DES/Library/SECP/MT%20Disaster%20&%20Emergency%20Plan/Volume%20XVII_Hazard%20Mitigation%20409%20Plan/1101%20409%20plan/409%20IV_earthquake_111601.pdf Montana Earthquake PDF Document
+
+{{Yellowstone history}}
+{{Idaho}}
+{{Montana}}
+{{Wyoming}}
+
+{{DEFAULTSORT:1959 Yellowstone Earthquake}}
+Category:1959 in the United States|Yellowstone Earthquake, 1959
+Category:Yellowstone
+Category:1959 earthquakes|Yellowstone Earthquake, 1959
+Category:Earthquakes in Montana
+Category:Earthquakes in Idaho
+Category:Earthquakes in Wyoming
+Category:Landslides in the United States

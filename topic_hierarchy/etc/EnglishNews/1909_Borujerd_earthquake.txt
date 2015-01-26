@@ -1,0 +1,41 @@
+{{Infobox earthquake
+|title = 1909 Borujerd earthqukae
+|date= {{Start-date|23 January 1909}}
+|map =
+|magnitude = 7.3 (Richter scale)
+|depth =
+|location= {{nowrap|{{coord|33.00|N|50.00|E|display=inline,title}} }}
+|countries affected = {{flag|Iran}}
+|tsunami = none
+|casualties = at least 8,000 dead
+}}
+
+The '''1909 Borujerd earthquake''' also known as '''Silakhor earthquake''' occurred in Silakhor Plain|Silakhor plain (in the south of today's Borujerd County), Persia (modern day Iran) on January 23, 1909. Around 8,000 fatalities were caused directly from the Richter scale|magnitude 7.3 earthquake. An indefinite number of aftershocks continued for six months after the main shock. The section on this fault ruptured was the same as the main rupture zone of the 2006 Borujerd earthquake.
+
+== Background ==
+Occurring on the local Dorood (county)|Dorood Fault, the tremor caused {{convert|40|km|mi|...}} of visible geologic fault|surface faulting was recorded on the fault.
+
+== Damage and casualties ==
+60 villages within the region were either completely destroyed or damaged beyond repair. Casualties were extensive, occurring in 130 individual villages. However, damage was contained within a {{convert|40000|km2|sqmi|...}} area. 8,000 were killed in this sector along with several thousand animals.{{sfn|Ambraseys|1974|pp=399–427}}
+
+Damage was worst within the epicentral area (Silakhor Valley) and surrounding valleys populated by domestic tribes. Signs of ground failure and landslides was evident for another {{convert|20|-|30|km|mi}} southeast of the epicenter.{{sfn|Ambraseys|1974|pp=399–427}}
+
+== See also ==
+* List of earthquakes in Iran
+* 2006 Borujerd earthquake
+
+== References ==
+{{reflist}}
+
+;Bibliography
+{{refbegin}}
+* {{cite journal|ref=harv|title=Seismicity of Iran: The Silakhor (Luristan) Earthquake of 23rd, January, 1909|url=http://www.annalsofgeophysics.eu/index.php/annals/article/download/4931/4989|journal=Annals of Geophysics|publisher=Annali di Geofisica|first=N.N.|last=Ambraseys|authorlink=Nicolas Ambraseys|year=1974|volume=27|issue=3-4|pages=399–427}}
+{{refend}}
+
+{{Earthquakes in Iran}}
+
+{{DEFAULTSORT:Silakhor Earthquake, 1909}}
+Category:Earthquakes in Iran|1909 Borujerd
+Category:1909 in Iran
+Category:1909 earthquakes|Borujerd
+Category:History of Lorestan Province

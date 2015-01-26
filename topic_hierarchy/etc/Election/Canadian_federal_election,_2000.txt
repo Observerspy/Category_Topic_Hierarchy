@@ -1,0 +1,588 @@
+{{Infobox election
+| election_name = Canadian federal election, 2000
+| country = Canada
+| type = parliamentary
+| ongoing = no
+| party_colour = no
+| party_name = no
+| previous_election = Canadian federal election, 1997
+| previous_year = 1997
+| previous_mps = 36th Canadian Parliament
+| next_election = Canadian federal election, 2004
+| next_year = 2004
+| next_mps = List of House members of the 38th Parliament of Canada
+| seats_for_election = 301 seats in the [[37th Canadian Parliament]] | majority_seats = 151
+| election_date = {{start-date|November 27, 2000}}
+| turnout = 64.1%<ref>{{cite web|last=Pomfret|first=R.|title=Voter Turnout at Federal Elections and Referendums|url=http://www.elections.ca/content.aspx?section=ele&dir=turn&document=index&lang=e|work=Elections Canada|publisher=Elections Canada|accessdate=10 February 2012}}</ref>
+| image1 = [[Image:Chretien crop Sept 9 2002.jpg|x150px]]
+| colour1 = {{Canadian party colour|CA|Liberal|nohash}}
+| leader1 = [[Jean Chrétien]]
+| leader_since1 = [[Liberal Party of Canada leadership election, 1990|June 23, 1990]]
+| party1 = {{Canadian party colour|CA|Liberal|name}}
+| leaders_seat1 = [[Saint-Maurice (electoral district)|Saint-Maurice]]
+| last_election1 = 155 seats, 38.46%
+| seats_before1 = 161
+| seats1 = 172
+| seat_change1 = +11
+| popular_vote1 = 5,252,031
+| percentage1 = 40.85%
+| swing1 = +2.39[[Percentage Point|pp]]
+| image2 = [[Image:Stockwell Day.jpg|x150px]]
+| colour2 = {{Canadian party colour|CA|Canadian Alliance|nohash}}
+| leader2 = [[Stockwell Day]]
+| leader_since2 = [[Canadian Alliance leadership elections#2000 leadership election|June 24, 2000]]
+| party2 = {{Canadian party colour|CA|Canadian Alliance|name}}
+| leaders_seat2 = [[Okanagan—Coquihalla]]
+| last_election2 = 60 seats, 19.35%
+| seats_before2 = 60
+| seats2 = 66
+| seat_change2 = +6<ref>{{cite web|title=Parliament of Canada - Party Standings in the House of Commons|url=http://www.parl.gc.ca/ParlInfo/Files/Parliament.aspx?Item=d189f2cb-ecaa-47c9-aa82-593e522d0c01&Language=E&Section=PartyStandingsHOC|work=Parliament of Canada|publisher=Parliament of Canada|accessdate=19 April 2012}}</ref>
+| popular_vote2 = 3,276,929
+| percentage2 = 25.49%
+| swing2 = +6.13[[Percentage Point|pp]]
+| image3 = [[Image:Gilles Duceppe2.jpg|x150px]]
+| colour3 = {{Canadian party colour|CA|BQ|nohash}}
+| leader3 = [[Gilles Duceppe]]
+| leader_since3 = [[Bloc Québécois leadership election, 1997|March 15, 1997]]
+| party3 = {{Canadian party colour|CA|BQ|name}}
+| leaders_seat3 = [[Laurier—Sainte-Marie|Laurier—<br>Sainte-Marie]]
+| last_election3 = 44 seats, 10.67%
+| seats_before3 = 44
+| seats3 = 38
+| seat_change3 = −6
+| popular_vote3 = 1,377,727
+| percentage3 = 10.72%
+| swing3 = +0.04[[Percentage Point|pp]]
+| image4 = [[File:Alexa McDonough cropped.jpg|x150px]]
+| colour4 = {{Canadian party colour|CA|NDP|nohash}}
+| leader4 = [[Alexa McDonough]]
+| leader_since4 = [[New Democratic Party leadership election, 1995|October 14, 1995]]
+| party4 = {{Canadian party colour|CA|NDP|name}}
+| leaders_seat4 = [[Halifax (electoral district)|Halifax]]
+| last_election4 = 21 seats, 11.05%
+| seats_before4 = 19
+| seats4 = 13
+| seat_change4 = −6
+| popular_vote4 = 1,093,868
+| percentage4 = 8.51%
+| swing4 = −2.54[[Percentage Point|pp]]
+| image5 = [[File:Joe Clark 1976.jpg|150x150px]]
+| colour5 = {{Canadian party colour|CA|PC|nohash}}
+| leader5 = [[Joe Clark]]
+| leader_since5 = [[Progressive Conservative leadership elections#1998 Progressive Conservative leadership election|November 14, 1998]]
+| party5 = {{Canadian party colour|CA|PC|name}}
+| leaders_seat5 = [[Calgary Centre]]
+| last_election5 = 20 seats, 18.84%
+| seats_before5 = 15
+| seats5 = 12
+| seat_change5 = −3
+| popular_vote5 = 1,566,998
+| percentage5 = 12.19%
+| swing5 = −6.65[[Percentage Point|pp]]
+| map_image = Canada 2000 Federal Election.svg
+| map_size = 250px
+| map_caption =
+| title = [[Prime Minister of Canada|Prime Minister]]
+| posttitle = [[Prime Minister of Canada|Prime Minister]] after election
+| before_election = [[Jean Chrétien]]
+| before_party = {{Canadian party colour|CA|Liberal|name}}
+| after_election = [[Jean Chrétien]]
+| after_party = {{Canadian party colour|CA|Liberal|name}}
+}}
+
+[[Image:Canada00.PNG|right|thumb|Map of Canada, showing the results of the 2000 election by riding.]]
+
+The '''2000 Canadian federal election''' was held on November 27, 2000, to elect 301 [[Member of Parliament|Members of Parliament]] of the [[Canadian House of Commons]] of the [[37th Canadian Parliament|37th Parliament]] of [[Canada]].
+
+Since the previous election of 1997, small-"c" conservatives had begun attempts to merge the [[Reform Party of Canada]] and [[Progressive Conservative Party of Canada]] as part of the [[United Alternative]] agenda. During that time, [[Jean Charest]] stepped down as leader of the Progressive Conservatives and former [[Prime Minister of Canada|Prime Minister]] [[Joe Clark]] took over the party and opposed any union with the Reform Party. In spring of 2000, the Reform Party became the [[Canadian Alliance]], a political party dedicated to uniting right-wing conservatives together into one party. Former Reform Party leader [[Preston Manning]] lost in a leadership race to [[Stockwell Day]] who became leader of the new Canadian Alliance party.
+
+The federal government called an [[snap election|early election]] after being in office for just over three years (with a maximum allowed mandate of five years). The governing [[Liberal Party of Canada]] won a third consecutive [[majority government]], winning more seats than the previous election. The Canadian Alliance made some minor gains, such as electing two Members of Parliament (MPs) from the province of [[Ontario]]. The [[Bloc Québécois]], [[New Democratic Party (Canada)]] and the PC Party all lost seats. As the 1993 and 1997 federal elections involved vote-splitting between the Reform Party and the PC Party, the situation was repeated again between the Alliance and the PC Party, which in Canada's First Past the Post system allowed many Liberal candidates with a plurality of votes to win.
+
+This was the last election until 2011 which resulted in a majority government.
+
+==Campaign==
+The decision by [[Prime Minister of Canada|Prime Minister]] and Liberal Party leader [[Jean Chrétien]] to call a [[snap election|snap, early election]] in fall of 2000 has been viewed by commentators as an attempt to stem a possible rise of support to the Canadian Alliance. At the time of the election, the Canadian economy was strong and there were few immediate negative issues, as the opposition parties were not prepared for the campaign.<ref>Dornan, Christopher; Pammett, Jon H. ''The Canadian general election of 2000''. Dundurn Press Ltd., 2001. ISBN 1-55002-356-X, ISBN 978-1-55002-356-5. Pp. 8.</ref> Had the election been held later in 2001 amid an economic downturn, some observers suggested that the Canadian Alliance and Progressive Conservative parties may have merged as a united right-wing party, or that right-wing voters would turn ''en masse'' to either the Alliance or PC Party, which would have presented a more difficult election for the Liberal Party.<ref>Dornan, Christopher; Pammett, Jon H. Pp. 11</ref><ref>Dornan, Christopher; Pammett, Jon H. Pp. 9.</ref>
+
+The major issue in the election was [[health care]] which had risen in public opinion polls to be the most important issue for Canadians.<ref name="Dornan, Christopher Pp. 122">Dornan, Christopher; Pammett, Jon H. Pp. 122.</ref>
+
+The public was largely uninterested in the election, correctly surmising that it would be a repeat of previous elections where the regionally-divided nature of the country gave most of the seats in [[Ontario]] to the Liberal Party [[Ontario]], in [[Western Canada]] to the Alliance, and in [[Quebec]] to the Bloc Québécois and Liberals.<ref>Dornan, Christopher; Pammett, Jon H. Pp. 10.</ref>
+
+The Liberals’ final television advertisement, according to [[Stephen Clarkson]]'s ''[[The Big Red Machine]]'': “emphasized the contrast between [the Liberals and the Canadian Alliance] while warning voters about [PC leader] Joe Clark’s claim that he would form a coalition with the Bloc Québécois in a minority government. The ad told Canadians not to take risks with other parties but to choose a strong, proven team”.<ref>{{cite news|last=Stinson|first=Scott|title=Scott Stinson: Redefining the Liberals not a quick process|url=http://fullcomment.nationalpost.com/2011/05/06/scott-stinson-liberals-begin-process-of-redefinition/|accessdate=30 March 2014|newspaper=National Post|date=6 May 2011}}</ref>
+
+==Political parties==
+
+===Liberal Party===
+[[Image:Liberal Party of Canada L logo-Parti Liberal du Canada logo de L (1990s-2004).svg|thumb|220px|right|Liberal Party logo during the election.]]
+The [[Liberal Party of Canada|Liberal Party]] entered the election with a record of having ended the fiscal deficit, made major reductions in federal spending (such as by cuts to the civil service, privatization of crown corporations), creating new environmental regulations, and increased spending beginning on social programs beginning in 1998 after the budget deficit had ended and a surplus had been achieved.<ref name="Dornan, Christopher Pp. 16">Dornan, Christopher; Pammett, Jon H. Pp. 16.</ref> The Liberal Party came under attack by opposition parties for irregularities in the Department of Human Resources' Transition Job Fund program, but Chrétien managed to capably defend the government's actions.<ref name="Dornan, Christopher Pp. 16"/> Chrétien was directly attacked by the opposition parties for alleged corrupt involvement from the Prime Minister's Office (PMO) in providing funding to local projects in Chrétien's riding of [[Saint-Maurice (electoral district)|Saint-Maurice]].<ref>Dornan, Christopher; Pammett, Jon H. Pp. 23.</ref> The Liberal Party focused its attacks on the Canadian Alliance, accusing it of being a dangerous right-wing movement that was dangerous to national unity.<ref>Dornan, Christopher; Pammett, Jon H. Pp. 22-23.</ref> The Liberal Party's most tense problem was the ongoing leadership feud within the Liberal Party between Chrétien and Finance Minister [[Paul Martin]] who wanted to replace Chrétien as Liberal leader and Prime Minister.<ref name="Dornan, Christopher Pp. 115">Dornan, Christopher; Pammett, Jon H. Pp. 115.</ref>
+
+====Strategy====
+Due to the regionalized nature of previous elections, the Liberal Party designed its election strategy along regional lines, aiming to take every seat in Ontario, winning seats in Quebec from the Bloc Québécois, and winning seats in Atlantic Canada, while attempting to minimize losses in [[Western Canada]] to the Canadian Alliance.<ref name="Dornan, Christopher Pp. 16"/>
+
+Chrétien only spent parts of nine days campaigning in the West, including only two stops in the province of [[Alberta]], both in the city of [[Edmonton]] while visiting the province of [[British Columbia]] only three times, and only in the cities of Victoria and [[Vancouver]].<ref>Dornan, Christopher; Pammett, Jon H. Pp. 19.</ref>
+
+The Liberal Party focused its effort in regaining support in [[Atlantic Canada]], where the party had suffered serious loses in the 1997 election to the New Democratic Party and Progressive Conservative Party due to the Liberal government's imposition of quotas on Atlantic Canadian cod fisheries and the government's cuts to unemployment insurance benefits.<ref name="Dornan, Christopher Pp. 20">Dornan, Christopher; Pammett, Jon H. Pp. 20.</ref> Chrétien gained support during the campaign from former New Brunswick Premier [[Frank McKenna]] and former Chrétien government minister and then the current Premier of [[Newfoundland and Labrador]], [[Brian Tobin]] resigned as Premier and ran as a Liberal Party candidate in his province.<ref name="Dornan, Christopher Pp. 20"/> During the campaign, Chrétien apologized to Atlantic Canadians for the negative impact of employment insurance reforms which had caused hardship in Atlantic Canada.<ref name="Dornan, Christopher Pp. 20"/>
+
+In Quebec, the Liberal Party benefited from the collapse of support for the Progressive Conservative Party, after the PCs' popular [[French-speaking Quebecer|Québécois]] leader [[Jean Charest]] had resigned in 1998 and was replaced by former Prime Minister [[Joe Clark]] who was unpopular in Quebec which resulted in three PC members from Quebec defecting to join the Liberal Party prior to the election.<ref>Dornan, Christopher; Pammett, Jon H. Pp. 21.</ref> In Quebec the recently passed [[Clarity Act]] by the federal government was controversial in that it demanded a clear and concise question on a new referendum on sovereignty.<ref name="Dornan, Christopher Pp. 22">Dornan, Christopher; Pammett, Jon H. Pp. 22.</ref> Chrétien defended the Clarity Act and attacked sovereigntist Quebec premier and former Bloc Québécois leader [[Lucien Bouchard]], challenging him to hold another referendum on sovereignty under the new laws, as Chrétien expected that the sovereigntists would lose such a referendum.<ref name="Dornan, Christopher Pp. 22"/> The Liberal Party promised a number of government projects in Quebec to woo Quebec voters to the Liberal Party.<ref name="Dornan, Christopher Pp. 22"/>
+
+The Liberal Party appealed to Canada's most populous province of Ontario by acting to restore funding that its government had cut in the 1990s in order to cut the deficit of the 1990s.<ref name="Dornan, Christopher Pp. 24">Dornan, Christopher; Pammett, Jon H. Pp. 24.</ref> The Liberal government established a health accord with all premiers in September 2000 that involved major projected increases to public health care spending.<ref name="Dornan, Christopher Pp. 24"/> Overall, the Liberals increased their number of seats in the House of Commons from 155 seats to 172 seats.
+
+===Canadian Alliance===
+[[Image:Canadian Alliance logo - logo de l'Alliance Canadienne.svg|thumb|220px|right|Canadian Alliance logo during the election.]]
+
+The [[Canadian Alliance]] (the common short form name of Canadian Reform Conservative Alliance) was a new political party in the election, having been created only months earlier as the successor to the [[Reform Party of Canada]], a party originally founded as a [[Western Canada]] protest party which sought to become a national party in the 1990s.<ref name="Dornan, Christopher Pp. 59">Dornan, Christopher; Pammett, Jon H. Pp. 59.</ref> Reform Party leader [[Preston Manning]] was deeply disappointed with the Reform Party's failure to spread eastward in the 1997 election, as the Reform Party lost its only seat in Ontario in that election, which isolated the party only to Western Canada.<ref name="Dornan, Christopher Pp. 60">Dornan, Christopher; Pammett, Jon H. Pp. 60.</ref> Both the leadership and supporters of the Reform Party realized that major changes had to be made in order to shed the party's image as a western-based protest party.<ref name="Dornan, Christopher Pp. 60"/> The Reform Party identified vote-splitting with its rival conservative movement, the Progressive Conservative Party as the cause for the Liberal Party winning the 1997 election, and thus stated that the solution was the merger of the Reform and Progressive Conservative parties together into one party.<ref>Dornan, Christopher; Pammett, Jon H. Pp. 61.</ref> This agenda by the Reform Party to unite the two parties was called the [[United Alternative]] which began in 1998.<ref>Dornan, Christopher; Pammett, Jon H. Pp. 61-62.</ref>
+
+The Alliance was founded in May 2000.<ref name="Dornan, Christopher Pp. 59"/> The new party also had a new leader, [[Stockwell Day]] who won the leadership contest for the party after competing with Manning for the position. The Alliance had hoped to use the 2000 election to decimate the PC Party to end its conservative rival and allow the Alliance to become the dominant conservative political party in Canada.<ref name="Dornan, Christopher Pp. 59"/> The Alliance dedicated its campaign to legitimizing the party as a national party and not a western-based party as its predecessor the Reform Party largely was, in spite of its efforts to become a national party.<ref name="Dornan, Christopher Pp. 59"/> New leader [[Stockwell Day]] was expected to appeal far more to the crucial [[Ontario]] voters, and the [[Canadian Alliance]] was hoping for major improvements. The Alliance campaigned on tax cuts, an end to the federal gun registration program, and family values. The campaign was dogged by accusations that the party would allow private health care to operate alongside the public medicare system and introduce [[two-tier health care]], and for threatening gay rights and abortion rights. The Alliance ended up winning only two Ontario ridings. This led to the eventual downfall of Day the next year. At one point, the Alliance was at 30.5% in the polls, and some thought they could win the election, or at least knock the Liberals down to a minority government. While they did not do so, they did retain their official opposition status, and increased their numbers in the House of Commons by six seats, from 60 to 66.
+
+On election night, controversy arose when a CBC producer's gratuitously [[sexism|sexist]] comment about Stockwell Day's daughter-in-law, [[Juliana Thiessen Day]], was accidentally broadcast on the Canadian networks' pooled election feed from Day's riding.
+
+===Bloc Québécois===
+[[File:Bloc Quebecois B logo 1990s.svg|thumb|130px|right|Logo of the Bloc Québécois during the election.]]
+The Bloc Québécois suffered from the unpopular decision of its provincial counterpart, the ruling [[Parti Québécois]] government's agenda to merge the communities surrounding Quebec City into one community.<ref>Dornan, Christopher; Pammett, Jon H. Pp. 140.</ref> Many [[French-speaking Quebecer|Québécois]] were angered by this decision and voted in protest against the Bloc or chose to not vote at all to demonstrate their frustration.<ref>Dornan, Christopher; Pammett, Jon H. Pp. 140-141.</ref> Bloc leader [[Gilles Duceppe]] received negative media attention after he decided to personally appoint candidate Noël Tremblay to run in the riding of [[Chicoutimi—Le Fjord]] in spite of the Bloc's riding association's selection of [[Sylvain Gaudreault]] to run in the riding.<ref>Dornan, Christopher; Pammett, Jon H. Pp. 141.</ref> The Bloc's 177 page platform was criticized as being far too large and few copies were distributed and few internet users accessed the platform because of is length and was rarely discussed during the campaign.<ref>Dornan, Christopher; Pammett, Jon H. Pp. 144.</ref> Instead, the Bloc produced large numbers of copies of small booklets that outlined the policies within the large platform.<ref name="Dornan, Christopher Pp. 145">Dornan, Christopher; Pammett, Jon H. Pp. 145.</ref> The Bloc campaigned to try to win over previous supporters of the PC Party.<ref name="Dornan, Christopher Pp. 145"/> This campaign strategy failed, as the Bloc lost seats to the Liberal Party due to the collapse of Quebec support for the Progressive Conservative Party, whose voters shifted to the Liberal Party.<ref>Dornan, Christopher; Pammett, Jon H. Pp. 140, 145.</ref> The Bloc won in 38 ridings, six ridings fewer than in the 1997 election.
+
+===New Democratic Party===
+[[Image:NDP NPD 2000.svg|thumb|400px|right|Logo of the New Democratic Party during the election.]]
+The New Democratic Party suffered badly in the campaign due to the drop in support for the provincial New Democratic parties over the preceding decade and amid a scandal in 2000 facing [[British Columbia]]'s NDP Premier [[Glen Clark]] who was forced to resign as Premier.<ref name="Dornan, Christopher Pp. 114">Dornan, Christopher; Pammett, Jon H. Pp. 114.</ref> Matters were made worse for the federal NDP after Saskatchewan's NDP Premier [[Roy Romanow]] resigned in 2000 after the party lost seats in the 1999 Saskatchewan provincial election, and afterwards suggested that the federal NDP should merge with the Liberal Party.<ref name="Dornan, Christopher Pp. 114"/> In Nova Scotia, the provincial NDP lost seats in its 1999 election while the NDP government of the Yukon had been recently defeated.<ref name="Dornan, Christopher Pp. 114"/> As Canada's major [[Social democracy|social democratic]] political party, it relied on support from the labour movement, but recent strains between the NDP and the [[Canadian Auto Workers]] union and the [[Canadian Labour Congress]] had weakened the party's base of support.<ref name="Dornan, Christopher Pp. 114"/> The party had received little media attention during the election and 2000 as a whole, due to the media's focus on Canada's newest political party, the [[Canadian Alliance]], the political comeback of former Prime Minister [[Joe Clark]] to the leadership of the Progressive Conservative Party, and the leadership feud within the Liberal Party between Jean Chrétien and [[Paul Martin]].<ref name="Dornan, Christopher Pp. 115"/> The NDP did not expect to do well in the election and aimed to win thirty-two "must-win" seats.<ref name="Dornan, Christopher Pp. 115"/>
+
+The NDP's platform and campaign focused on protecting medicare while attacking the Liberal Party for its tax cuts to wealthy Canadians and corporations.<ref name="Dornan, Christopher Pp. 122"/> The NDP's focus on attacking the Liberals failed to recognize the surging support for the Canadian Alliance in the province of Saskatchewan, which the NDP had hoped to gain seats in.<ref>Dornan, Christopher; Pammett, Jon H. Pp. 124.</ref> The NDP failed to galvanize support, as it remained low in support in polling results throughout most of the election campaign.<ref>Dornan, Christopher; Pammett, Jon H. Pp. 127-128.</ref> NDP leader [[Alexa McDonough]] performed badly in the French-language debate due to her not being fluent in French.<ref name="Dornan, Christopher Pp. 128">Dornan, Christopher; Pammett, Jon H. Pp. 128.</ref> In the English-language debate, McDonough attacked Alliance leader Stockwell Day for favouring two-tier health care and attacked Liberal leader Jean Chrétien for giving out tax cuts to the wealthy rather than funding Canada's public health care system.<ref name="Dornan, Christopher Pp. 128"/>
+
+===Progressive Conservative Party===
+[[Image:Parti PC Party Canada 1996.svg|thumb|250px|right|Logo of the Progressive Conservative Party during the election.]]
+The Progressive Conservative Party aimed to regain its former place in Canadian politics under the leadership of former Prime Minister [[Joe Clark]]. The [[Progressive Conservative Party of Canada|PC Party]] had a very disappointing election, falling from 20 to 12 seats, and being almost exclusively confined to the [[Maritime provinces]] and Newfoundland. It won the 12 seats needed for [[Official party status]] in the House of Commons, however. Failure to win 12 seats might have marginalized the party in the House of Commons, and likely led to a more rapid decline.
+
+It should be noted that governing parties have the option of extending party status to caucuses of less than twelve members at their discretion. Had the Progressive Conservatives been just a few seats short of the requisite twelve ''and'' the NDP had stayed at least twelve seats, the Liberal government would likely have exercised this option as they had done for [[Social Credit Party of Canada|Social Credit]] in [[Canadian federal election, 1974|1974]].
+
+===Green Party===
+The [[Green Party of Canada]]'s rise in popularity continued with an 88% increase in support, besting even the impressive 79% increase in support it had registered in the preceding 1997 election. Green Party candidates received 2.2% of the vote in the ridings they contested, and 2.1% of the vote province-wide in British Columbia despite not running a full slate of candidates there. In Nunavut, the Green Party candidate received 4.5% of the vote, the best it had yet received in any province or territory. Despite two consecutive elections of impressive gains, the Green Party in the 2000 election remained all but ignored by the national media.
+
+[[File:Cdn2000.PNG|right|thumb|200px|37th Parliament]]
+
+==Results==
+{| width=70%
+|-
+| colspan="5" style="text-align:center;"|↓
+|-
+| bgcolor={{Canadian party colour|CA|Liberal}} width=57%|<center><span style="color:white;">'''172'''</span>
+| bgcolor={{Canadian party colour|CA|Canadian Alliance}} width=21.9%|<center><span style="color:white;">'''66'''</span>
+| bgcolor={{Canadian party colour|CA|BQ}} width=12.6%|<center><span style="color:white;">'''38'''</span>
+| bgcolor={{Canadian party colour|CA|NDP}} width=4.3%|<center><span style="color:white;">'''13'''</span>
+| bgcolor={{Canadian party colour|CA|PC}} width=3.9%|<center><span style="color:white;">'''12'''</span>
+|-
+| <center><span style="color:{{Canadian party colour|CA|Liberal}};">'''Liberal'''</span>
+| <center><span style="color:{{Canadian party colour|CA|Canadian Alliance}};">'''Canadian Alliance'''</span>
+| <center><span style="color:{{Canadian party colour|CA|BQ}};">'''BQ'''</span>
+| <center><span style="color:{{Canadian party colour|CA|NDP}};">'''NDP'''</span>
+| <center><span style="color:{{Canadian party colour|CA|PC}};">'''PC'''</span>
+|}
+{{Canadian federal election, 2000}}
+
+==Vote and seat summaries==
+{{Bar box
+|title=Popular vote
+|titlebar=#ddd
+|width=600px
+|barwidth=410px
+|bars=
+{{Bar percent|Liberal|{{Canadian party colour|CA|Liberal}}|40.85}}
+{{Bar percent|Canadian Alliance|{{Canadian party colour|CA|Canadian Alliance}}|25.49}}
+{{Bar percent|PC|{{Canadian party colour|CA|PC}}|12.19}}
+{{Bar percent|Bloc Québécois|{{Canadian party colour|CA|BQ}}|10.72}}
+{{Bar percent|NDP|{{Canadian party colour|CA|NDP}}|8.51}}
+{{Bar percent|Green|{{Canadian party colour|CA|Green}}|0.81}}
+{{Bar percent|Others|#DCDCDC|1.43}}
+}}
+<br />
+{{Bar box
+|title=Seat totals
+|titlebar=#ddd
+|width=600px
+|barwidth=410px
+|bars=
+{{Bar percent|Liberal|{{Canadian party colour|CA|Liberal}}|57.14}}
+{{Bar percent|Canadian Alliance|{{Canadian party colour|CA|Canadian Alliance}}|21.93}}
+{{Bar percent|Bloc Québécois|{{Canadian party colour|CA|BQ}}|12.62}}
+{{Bar percent|NDP|{{Canadian party colour|CA|NDP}}|4.32}}
+{{Bar percent|PC|{{Canadian party colour|CA|PC}}|3.99}}
+}}
+
+===Results by province===
+{| class="wikitable" border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse"
+|- bgcolor=CCCCCC
+! align="center" colspan="3"|Party name
+! align="center"|[[British Columbia|BC]]
+! align="center"|[[Alberta|AB]]
+! align="center"|[[Saskatchewan|SK]]
+! align="center"|[[Manitoba|MB]]
+! align="center"|[[Ontario|ON]]
+! align="center"|[[Quebec|QC]]
+! align="center"|[[New Brunswick|NB]]
+! align="center"|[[Nova Scotia|NS]]
+! align="center"|[[Prince Edward Island|PE]]
+! align="center"|[[Newfoundland and Labrador|NL]]
+! align="center"|[[Nunavut|NU]]
+! align="center"|[[Northwest Territories|NT]]
+! align="center"|[[Yukon|YK]]
+! align="center"|Total
+|-
+{{Canadian_politics/party colours/Liberal/row}}
+| rowspan="2"|[[Liberal Party of Canada|Liberal]]
+| Seats:
+| align="right"|5 <!--BC-->
+| align="right"|2 <!--Alb-->
+| align="right"|2 <!--Sask-->
+| align="right"|5 <!--Man-->
+| align="right"|100 <!--Ont-->
+| align="right"|36 <!--Que-->
+| align="right"|6 <!--NB-->
+| align="right"|4 <!--NS-->
+| align="right"|4 <!--PEI-->
+| align="right"|5 <!--NL-->
+| align="right"|1 <!--NU-->
+| align="right"|1 <!--NT-->
+| align="right"|1 <!--YK-->
+| align="right"|172 <!--Canada/Total-->
+{{Canadian_politics/party colours/Liberal/row}}
+| Popular vote:
+| align="right"|27.7 <!--BC-->
+| align="right"|20.9 <!--Alb-->
+| align="right"|20.7 <!--Sask-->
+| align="right"|32.5 <!--Man-->
+| align="right"|51.5 <!--Ont-->
+| align="right"|44.2 <!--Que-->
+| align="right"|41.7 <!--NB-->
+| align="right"|36.5 <!--NS-->
+| align="right"|47.0 <!--PEI-->
+| align="right"|44.9 <!--NL-->
+| align="right"|69.0 <!--NU-->
+| align="right"|45.3 <!--NT-->
+| align="right"|32.9 <!--YK-->
+| align="right"|40.8 <!--Camada/Total-->
+{{Canadian_politics/party_colours/Canadian Alliance/row}}
+| rowspan="2"|[[Canadian Alliance]]
+| Seats:
+| align="right"|27 <!--BC-->
+| align="right"|23 <!--Alb-->
+| align="right"|10 <!--Sask-->
+| align="right"|4 <!--Man-->
+| align="right"|2 <!--Ont-->
+| align="right"|-  <!--Que-->
+| align="right"|-  <!--NB-->
+| align="right"|-  <!--NS-->
+| align="right"|- <!--PEI-->
+| align="right"|-  <!--NL-->
+| align="right"|&nbsp; <!--NU-->
+| align="right"|-  <!--NT-->
+| align="right"|-  <!--YK-->
+| align="right"|66 <!--Canada/Total-->
+{{Canadian_politics/party_colours/Canadian Alliance/row}}
+| Vote:
+| align="right"|49.4 <!--BC-->
+| align="right"|58.9 <!--Alb-->
+| align="right"|47.7 <!--Sask-->
+| align="right"|30.4 <!--Man-->
+| align="right"|23.6 <!--Ont-->
+| align="right"|6.2 <!--Que-->
+| align="right"|15.7 <!--NB-->
+| align="right"|9.6 <!--NS-->
+| align="right"|5.0 <!--PEI-->
+| align="right"|3.9 <!--NL-->
+| align="right"|&nbsp; <!--NU-->
+| align="right"|17.6 <!--NT-->
+| align="right"|27.0 <!--YK-->
+| align="right"|25.5 <!--Camada/Total-->
+{{Canadian_politics/party colours/BQ/row}}
+| rowspan="2"|[[Bloc Québécois]]
+| Seats:
+| align="right"|&nbsp; <!--BC-->
+| align="right"|&nbsp; <!--Alb-->
+| align="right"|&nbsp; <!--Sask-->
+| align="right"|&nbsp; <!--Man-->
+| align="right"|&nbsp; <!--Ont-->
+| align="right"|38 <!--Que-->
+| align="right"|&nbsp; <!--NB-->
+| align="right"|&nbsp; <!--NS-->
+| align="right"|&nbsp; <!--PEI-->
+| align="right"|&nbsp; <!--NL-->
+| align="right"|&nbsp; <!--NU-->
+| align="right"|&nbsp; <!--NT-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"|38 <!--Canada/Total-->
+{{Canadian_politics/party colours/BQ/row}}
+| Vote:
+| align="right"|&nbsp; <!--BC-->
+| align="right"|&nbsp; <!--Alb-->
+| align="right"|&nbsp; <!--Sask-->
+| align="right"|&nbsp; <!--Man-->
+| align="right"|&nbsp; <!--Ont-->
+| align="right"|39.9 <!--Que-->
+| align="right"|&nbsp; <!--NB-->
+| align="right"|&nbsp; <!--NS-->
+| align="right"|&nbsp; <!--PEI-->
+| align="right"|&nbsp; <!--NL-->
+| align="right"|&nbsp; <!--NU-->
+| align="right"|&nbsp; <!--NT-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"|10.7 <!--Camada/Total-->
+{{Canadian_politics/party colours/NDP/row}}
+| rowspan="2"|[[New Democratic Party (Canada)|New Democratic]]
+| Seats:
+| align="right"|2 <!--BC-->
+| align="right"|- <!--Alb-->
+| align="right"|2 <!--Sask-->
+| align="right"|4 <!--Man-->
+| align="right"|1 <!--Ont-->
+| align="right"|-  <!--Que-->
+| align="right"|1 <!--NB-->
+| align="right"|3 <!--NS-->
+| align="right"|-  <!--PEI-->
+| align="right"|-  <!--NL-->
+| align="right"|-  <!--NU-->
+| align="right"|-  <!--NT-->
+| align="right"|-  <!--YK-->
+| align="right"|13 <!--Canada/Total-->
+{{Canadian_politics/party colours/NDP/row}}
+| Vote:
+| align="right"|11.3 <!--BC-->
+| align="right"|5.4 <!--Alb-->
+| align="right"|26.2 <!--Sask-->
+| align="right"|20.9 <!--Man-->
+| align="right"|8.3 <!--Ont-->
+| align="right"|1.8 <!--Que-->
+| align="right"|11.7 <!--NB-->
+| align="right"|24.0 <!--NS-->
+| align="right"|9.0 <!--PEI-->
+| align="right"|13.1 <!--NL-->
+| align="right"|18.3 <!--NU-->
+| align="right"|26.9 <!--NT-->
+| align="right"|32.1 <!--YK-->
+| align="right"|8.5 <!--Camada/Total-->
+{{Canadian_politics/party_colours/Progressive Conservatives/row}}
+| rowspan="2"|[[Progressive Conservative Party of Canada|Progressive Conservative]]
+| Seats:
+| align="right"|-  <!--BC-->
+| align="right"|1 <!--Alb-->
+| align="right"|- <!--Sask-->
+| align="right"|1 <!--Man-->
+| align="right"|-  <!--Ont-->
+| align="right"|1 <!--Que-->
+| align="right"|3 <!--NB-->
+| align="right"|4 <!--NS-->
+| align="right"|-  <!--PEI-->
+| align="right"|2 <!--NL-->
+| align="right"|-  <!--NU-->
+| align="right"|-  <!--NT-->
+| align="right"|-  <!--YK-->
+| align="right"|12 <!--Canada/Total-->
+{{Canadian_politics/party_colours/Progressive Conservatives/row}}
+| Vote:
+| align="right"|7.3 <!--BC-->
+| align="right"|13.5 <!--Alb-->
+| align="right"|4.8 <!--Sask-->
+| align="right"|14.5 <!--Man-->
+| align="right"|14.4 <!--Ont-->
+| align="right"|5.6 <!--Que-->
+| align="right"|30.5 <!--NB-->
+| align="right"|29.1 <!--NS-->
+| align="right"|38.4 <!--PEI-->
+| align="right"|34.5 <!--NL-->
+| align="right"|8.1 <!--NU-->
+| align="right"|10.1 <!--NT-->
+| align="right"|7.6 <!--YK-->
+| align="right"|12.2 <!--Camada/Total-->
+|-
+! colspan=3|Total seats:
+! align="right"|34 <!--BC-->
+! align="right"|26 <!--Alb-->
+! align="right"|14 <!--Sask-->
+! align="right"|14 <!--Man-->
+! align="right"|103 <!--Ont-->
+! align="right"|75 <!--Que-->
+! align="right"|10 <!--NB-->
+! align="right"|11 <!--NS-->
+! align="right"|4 <!--PEI-->
+! align="right"|7 <!--NL-->
+! align="right"|1 <!--NT-->
+! align="right"|1 <!--NU-->
+! align="right"|1 <!--YK-->
+! align="right"|301 <!--Canada/Total-->
+|-
+| colspan=17|'''Parties that won no seats:'''
+|-
+{{Canadian party colour|CA|Green|row-name}}
+| Vote:
+| align="right"|2.1 <!--BC-->
+| align="right"|0.5 <!--Alb-->
+| align="right"|0.4 <!--Sask-->
+| align="right"|0.2 <!--Man-->
+| align="right"|0.9 <!--Ont-->
+| align="right"|0.6 <!--Que-->
+| align="right"|&nbsp; <!--NB-->
+| align="right"|0.1 <!--NS-->
+| align="right"|0.3 <!--PEI-->
+| align="right"|&nbsp; <!--NL-->
+| align="right"|4.5 <!--NU-->
+| align="right"|&nbsp; <!--NT-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"|0.8<!--Camada/Total-->
+|-
+{{Canadian_politics/party colours/Marijuana/row}}
+|[[Marijuana Party of Canada|Marijuana]]
+| Vote:
+| align="right"|0.7 <!--BC-->
+| align="right"|0.2 <!--Alb-->
+| align="right"|&nbsp; <!--Sask-->
+| align="right"|0.1 <!--Man-->
+| align="right"|0.3 <!--Ont-->
+| align="right"|1.0 <!--Que-->
+| align="right"|0.1 <!--NB-->
+| align="right"|0.4 <!--NS-->
+| align="right"|&nbsp; <!--PEI-->
+| align="right"|&nbsp; <!--NL-->
+| align="right"|&nbsp; <!--NU-->
+| align="right"|&nbsp; <!--NT-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"|0.5<!--Camada/Total-->
+{{Canadian_politics/party_colours/Canadian Action/row}}
+|[[Canadian Action Party|Canadian Action]]
+|Vote:
+| align="right"|0.8 <!--BC-->
+| align="right"|0.1 <!--Alb-->
+| align="right"|0.2 <!--Sask-->
+| align="right"|0.2 <!--Man-->
+| align="right"|0.2 <!--Ont-->
+| align="right"|&nbsp; <!--Que-->
+| align="right"|&nbsp; <!--NB-->
+| align="right"|&nbsp; <!--NS-->
+| align="right"|&nbsp; <!--PEI-->
+| align="right"|&nbsp; <!--NL-->
+| align="right"|&nbsp; <!--NU-->
+| align="right"|&nbsp; <!--NT-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"|0.2<!--Canada/Total-->
+{{Canadian_politics/party_colours/Natural Law/row}}
+|[[Natural Law Party of Canada|Natural Law]]
+| Vote:
+| align="right"|0.1 <!--BC-->
+| align="right"|&nbsp; <!--Alb-->
+| align="right"|&nbsp; <!--Sask-->
+| align="right"|&nbsp; <!--Man-->
+| align="right"|0.1 <!--Ont-->
+| align="right"|0.3 <!--Que-->
+| align="right"|0.2 <!--NB-->
+| align="right"|&nbsp; <!--NS-->
+| align="right"|0.1 <!--PEI-->
+| align="right"|0.1 <!--NL-->
+| align="right"|&nbsp; <!--NU-->
+| align="right"|&nbsp; <!--NT-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"|0.1<!--Camada/Total-->
+{{Canadian_politics/party colours/Marxist-Leninist/row}}
+|[[Communist Party of Canada (Marxist–Leninist)|Marxist-Leninist]]
+| Vote:
+| align="right"|0.1 <!--BC-->
+| align="right"|&nbsp; <!--Alb-->
+| align="right"|&nbsp; <!--Sask-->
+| align="right"|&nbsp; <!--Man-->
+| align="right"|0.1 <!--Ont-->
+| align="right"|0.2 <!--Que-->
+| align="right"|&nbsp; <!--NB-->
+| align="right"|0.1 <!--NS-->
+| align="right"|&nbsp; <!--PEI-->
+| align="right"|&nbsp; <!--NL-->
+| align="right"|&nbsp; <!--NU-->
+| align="right"|&nbsp; <!--NT-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"|0.1<!--Camada/Total-->
+{{Canadian_politics/party colours/Communist/row}}
+|[[Communist Party of Canada|Communist]]
+| Vote:
+| align="right"|0.1 <!--BC-->
+| align="right"|&nbsp; <!--Alb-->
+| align="right"|&nbsp; <!--Sask-->
+| align="right"|0.3 <!--Man-->
+| align="right"|0.1 <!--Ont-->
+| align="right"|0.1 <!--Que-->
+| align="right"|&nbsp; <!--NB-->
+| align="right"|&nbsp; <!--NS-->
+| align="right"|&nbsp; <!--PEI-->
+| align="right"|&nbsp; <!--NL-->
+| align="right"|&nbsp; <!--NU-->
+| align="right"|&nbsp; <!--NT-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"|0.1<!--Canada/Total-->
+{{Canadian_politics/party colours/Independents/row}}
+|Other
+| Vote:
+| align="right"|0.4 <!--BC-->
+| align="right"|0.4 <!--Alb-->
+| align="right"|&nbsp; <!--Sask-->
+| align="right"|1.0 <!--Man-->
+| align="right"|0.6 <!--Ont-->
+| align="right"|0.2 <!--Que-->
+| align="right"|&nbsp; <!--NB-->
+| align="right"|0.2 <!--NS-->
+| align="right"|0.1 <!--PEI-->
+| align="right"|4.4 <!--NL-->
+| align="right"|&nbsp; <!--NU-->
+| align="right"|&nbsp; <!--NT-->
+| align="right"|0.4 <!--YK-->
+| align="right"|0.4<!--Canada/Total-->
+|}
+
+Source: [http://www.elections.ca/gen/rep/37g/table9_e.html Elections Canada]
+
+===Seat by seat results===
+*[[Canadian federal election, 2000 (candidates)]]
+
+==Notes==
+*'''Number of parties''': 11
+**'''First appearance''': [[Marijuana Party of Canada]]
+**'''Reappearance after hiatus''': [[Communist Party of Canada]]
+**'''Final appearance''': [[Natural Law Party of Canada]], [[Progressive Conservative Party of Canada]]
+**'''First-and-only appearance''': [[Canadian Alliance]]
+
+===10 closest ridings===
+1.'''[[Champlain (electoral district)|Champlain]], QC''': [[Marcel Gagnon]] (BQ) def. [[Julie Boulet]] (Lib) by 15 votes <br>
+2.'''[[Laval Centre]], QC''': [[Madeleine Dalphond-Guiral]] (BQ) def. Pierre Lafleur (Lib) by 42 votes<br>
+3.'''[[Leeds—Grenville]], ON''': [[Joseph Louis Jordan|Joe Jordan]] (Lib) def. [[Gord Brown]] (CA) by 55 votes<br>
+4.'''[[Saskatoon—Rosetown—Biggar]], SK''': [[Carol Skelton]] (CA) def. [[Dennis Gruending]] (NDP) by 68 votes<br>
+5.'''[[Yukon (electoral district)|Yukon]], YT''': [[Larry Bagnell]] (Lib) def. [[Louise Hardy]] (NDP) by 70 votes<br>
+6.'''[[Tobique—Mactaquac]], NB''': [[Andy Savoy]] (Lib) def. [[Gilles Bernier (New Brunswick politician)|Gilles Bernier]] (PC) by 150 votes<br>
+7.'''[[Regina—Lumsden—Lake Centre]], SK''': [[Larry Spencer]] (CA) def. [[John Solomon (Canadian politician)|John Solomon]] (NDP) by 161 votes<br>
+8.'''[[Regina—Qu'Appelle]], SK''': [[Lorne Nystrom]] (NDP) def. [[Don Leier]] (CA) by 164 votes<br>
+9.'''[[Palliser (Saskatchewan electoral district)|Palliser]], SK''': [[Dick Proctor]] (NDP) def. [[Don Findlay]] (CA) by 209 votes<br>
+10.'''[[Matapédia—Matane]], QC''': [[Jean-Yves Roy]] (BQ) def. [[Marc Bélanger (politician)|Marc Bélanger]] (Lib) by 276 votes<br>
+11.'''[[Cardigan (electoral district)|Cardigan]], PE''': [[Lawrence MacAulay]] (Lib) def. [[Kevin MacAdam]] (PC) by 276 votes
+
+==See also==
+{{Portal|Canadian politics}}
+*[[List of Canadian federal general elections]]
+*[[List of political parties in Canada]]
+
+Articles on parties' candidates in this election:
+{| <br>
+|valign="top" width=33%|
+*[[Marxist-Leninist Party candidates, 2000 Canadian federal election|Marxist-Leninists]]
+*[[Canadian Action Party candidates, 2000 Canadian federal election|Canadian Action]]
+*[[Canadian Alliance candidates, 2000 Canadian federal election|Canadian Alliance]]
+|valign="top" width=33%|
+*[[Communist Party candidates, 2000 Canadian federal election|Communists]]
+*[[Liberal Party candidates, 2000 Canadian federal election|Liberals]]
+*[[Natural Law Party candidates, 2000 Canadian federal election|Natural Law]]
+|valign="top" width=33%|
+*[[New Democratic Party candidates, 2000 Canadian federal election|New Democrats]]
+*[[Progressive Conservative Party candidates, 2000 Canadian federal election|Progressive Conservatives]]
+*[[Christian Heritage Party candidates, 2000 Canadian federal election|Christian Heritage]]
+|}
+
+==References==
+{{Reflist|2}}
+
+==External links==
+*[http://www.elections.ca/content.asp?section=gen&document=index&dir=rep/37g&lang=e&textonly=false Elections Canada: 2000 election]
+*[http://www.egwald.com/statistics/canadianelections.php Predicting the 2000 Canadian Election]
+
+{{Canadian federal election, 2000A}}
+{{election canada}}
+
+{{DEFAULTSORT:Canadian Federal Election, 2000}}
+[[Category:Canadian federal election, 2000| ]]

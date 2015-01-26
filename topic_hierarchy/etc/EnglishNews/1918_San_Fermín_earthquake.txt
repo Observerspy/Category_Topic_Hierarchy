@@ -1,0 +1,81 @@
+{{refimprove|date=October 2012}}
+{{Earthquake
+| title              = San Fermín earthquake of 1918
+| date               = {{start-date|October 11, 1918|October 11, 1918}}
+| map2               = {{Location map+ | Puerto Rico
+ | relief = 1
+ | places =
+{{Location map~|Puerto Rico|lat=18.20|long=-67.14|label=Mayagüez|mark=Green pog.svg}}
+{{Location map~|Puerto Rico|lat=18.45|long=-66.07|label=San Juan|mark=Green pog.svg}}
+{{Location map~|Puerto Rico|lat=18.5|long=-67.5|mark=Bullseye1.png|marksize=40}}
+ | width = 250
+ | float = right
+ | caption = }}
+| magnitude          = 7.5 surface wave magnitude|M<sub>s</sub> 
+| depth              = 
+| location           = {{coord|18.5|-67.5|display=inline,title}} 
+| countries affected = Puerto Rico
+| tsunami            = 20–35ft 
+| aftershocks        = 14
+| intensity          = 
+| casualties         = 116 
+}}
+
+The '''San Fermín earthquake''', also known as the '''Puerto Rico earthquake of 1918''', struck the island of Puerto Rico at 10:14 am on October 11, 1918. The magnitude for the earthquake measured 7.5 on the surface wave magnitude scale and level IX on the Rossi-Forel scale. The main-shock epicenter occurred off the northwestern coast of the island, somewhere along the Puerto Rico Trench.
+
+The earthquake triggered a tsunami with waves measured at approximately 20–35&nbsp;ft; it swept the west coast of the island. The combined effects of the earthquake and tsunami made it one of the worst natural disasters that have struck the island. The losses resulting from the disaster were approximately 116 casualties and $4 million in property.
+
+==Earthquake==
+The epicenter of the 1918 Puerto Rico Earthquake was located in the Mona Passage off the northwestern coast of the island, somewhere along an old left-lateral strike-slip fault. The strongest ground shaking has been estimated at around a magnitude 7.5, or Level IX (Rossi-Forel scale). The resulting tsunami affected primarily the west coast towns of the Island (primarily Mayaguez).
+
+===Damage===
+File:Terremoto Mayaguez 1918.jpg|thumb|left|Damage caused to the "La Habanera de Infanzón y Rodríguez" building in Mayagüez, Puerto Rico|Mayagüez
+
+As a result of the earthquake, numerous structures in the west coast suffered irreparable damage. Factories and production facilities were virtually destroyed, while bridges and roads were severely damaged. The earthquake caused several mudslides in areas where the magnitude exceeded Level VII, but none caused numerous deaths. Also, the river currents were affected, which, in many cases affected the foundations of many bridges, resulting in their collapse. Telegraph cables under the ocean were damaged, cutting off the island from outside communication for a time. 
+
+Image:Inundacion-1918.jpg|thumb|Simulation of the results of the tsunami on the coast of Aguadilla, Puerto Rico
+
+The reported casualties of the earthquake have been estimated somewhere between 91 to 116 deaths. Approximately 40 of these deaths were caused by the tsunami which swept shore communities. Also, damages to property were estimated at around $4 million, which was a huge amount at that time in terms of the island's economy.<!--convert to current dollars-->
+
+In Mayagüez, the largest city affected, 700 masonry buildings were damaged and 1,000 wooden houses, so many people were homeless. Major buildings like the church, post office and hall were severely damaged. With fear because of the aftershocks, many people camped out in the hills for weeks.
+
+===Tsunami===
+As a result of the earthquake, a tsunami lashed the west coast of the island, probably 4–7 minutes after the main shock. The highest waves were measured at 20&nbsp;ft and destroyed several coastal villages. It has been estimated that 40 people were drowned as a direct result of the tsunami. The tsunami reached Galveston, Texas, where it registered as a disturbance on tide gauges.
+
+===Aftershocks===
+Several aftershocks were reported immediately after the main earthquake. On October 24 and November 12, two strong aftershocks were reported in the island. However, no damage was reported as a result.
+
+==Gallery==
+<center><gallery perrow="5">
+File:Iglesia Mayaguez 1918.jpg|Cathedral of Mayagüez after the first earthquake; further damage toppled the left tower
+File:Terremoto-pr-2.gif|Brick homes in Mayagüez, Puerto Rico|Mayagüez destroyed by the earthquake 
+</gallery></center>
+
+==See also==
+{{Portal|Puerto Rico|Geology}}
+* Geology of Puerto Rico
+* 1787 Boricua earthquake
+
+==References==
+{{Reflist|refs=
+
+}}
+
+;Sources
+{{refbegin}}
+* {{citation|title=The Porto Rico Earthquakes of October-November, 1918|url=http://www.bssaonline.org/content/9/4/95.extract|first=H.|last=Reid|authorlink=Harry Fielding Reid|year=1919|journal=Bulletin of the Seismological Society of America|publisher=Seismological Society of America|volume=9|number=4|pages=95–127}}
+* {{citation|title=On the earthquake hazards of Puerto Rico and the Virgin Islands|url=http://www.bssaonline.org/content/75/1/251.abstract|first=W.|last=McCann|year=1985|journal=Bulletin of the Seismological Society of America|publisher=Seismological Society of America|volume=75|number=1|pages=251-262}}
+{{refend}}
+
+==External links==
+*http://poseidon.uprm.edu "Puerto Rico Tsunami Warning and Mitigation Program", University of Puerto Rico, Mayaguez
+*http://redsismica.uprm.edu/spanish/informacion/terr1918.php "Puerto Rico Seismic Network", University of Puerto Rico, Mayaguez
+*http://www.ngdc.noaa.gov/nndc/struts/results?bt_0=1918&st_0=1918&type_17=EXACT&query_17=None+Selected&op_12=eq&v_12=USA+TERRITORY&type_12=Or&query_14=PR&type_3=Like&query_3=&st_1=&bt_2=&st_2=&bt_1=&bt_4=&st_4=&bt_5=&st_5=&bt_6=&st_6=&bt_7=&st_7=&bt_8=&st_8=&bt_9=&st_9=&bt_10=&st_10=&type_11=Exact&query_11=&type_16=Exact&query_16=&bt_18=&st_18=&ge_19=&le_19=&display_look=1&t=101650&s=1&submit_all=Search+Database Significant earthquake – Puerto Rico: Mona Passage – National Geophysical Data Center
+*http://earthquake.usgs.gov/earthquakes/world/events/1918_10_11.php USGS Historic Earthquake: Northwestern Mona Passage – United States Geological Survey
+
+{{DEFAULTSORT:1918 Puerto Rico Earthquake}}
+Category:Megathrust earthquakes in Puerto Rico
+Category:Mayagüez, Puerto Rico
+Category:1918 earthquakes|San Fermin Earthquake, 1918
+Category:1918 in Puerto Rico|San Fermin Earthquake, 1918
+Category:20th-century tsunamis

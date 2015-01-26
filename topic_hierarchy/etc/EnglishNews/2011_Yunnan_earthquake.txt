@@ -1,0 +1,46 @@
+{{Earthquake|
+ | title= 2011 Yunnan earthquake
+ | date= {{Start date|2011|3|10|df=y}}<br />04:58:17 UTC<br />11:28:17 at epicenter
+ | map2 = {{Location map | China Yunnan
+ | label=
+ | lat= 24.710
+ | long= 97.994
+ | mark=Bullseye1.png
+ | marksize=40
+ | position=top
+ | width= 250
+ | float=right
+ | caption=}}
+ | depth ={{convert|10|km|sp=us}}
+ | location = {{coord|24.710|N|97.994|E|display=inline,title}}<br>Yingjiang County, Yunnan, China
+ | magnitude = 5.4 Moment magnitude scale|M<sub>w</sub>
+ | countries affected = {{flag|China}}<br>{{flag|Burma}}
+ | casualties =26 deaths<br>313 injured<br><small>(133 seriously injured)</small>
+|}}
+The '''2011 Yunnan earthquake''' was a 5.4 magnitude earthquake that occurred on 10 March 2011 at 12:58 China Standard Time|CST, with its epicenter in Yingjiang County, Yunnan, People's Republic of China, near the Burma|Burmese border. China's Xinhua reports that up to seven aftershocks, measuring up to a magnitude of 4.7, followed the initial quake, which caused a total of 127,000 people to be evacuated to nearby shelters. The earthquake occurred one day before a 2011 Tōhoku earthquake and tsunami|much larger earthquake struck Japan that also formed a tsunami.
+
+==Damage and casualties==
+The epicenter was {{convert|2|km|sp=us}} from the center of the county, which has a population of more than 270,000 people and is home to several of Ethnic minorities in China|China's ethnic minorities. The surrounding area also suffered through power outages caused by the quake and several aftershocks. Although there was a power outage telecommunications continued to work after the earthquake. Close to 127,100 people were evacuated from Yingjiang County following the quake, which affected a total of 344,600 people.
+
+China Central Television showed damaged buildings with debris around as police officers directed traffic on a chaotic street.
+
+Small tremors had been occurring in this region for two months and caused damage to many local buildings. A seismologist explained that the strength of this earthquake was enough to let damaged buildings collapse.
+
+== Reaction ==
+The Chinese media reported that 5,000 tents, 10,000 quilts and nearly 1,000 troops were being sent to the area to aid the rescue efforts. Xinhua has described the area as a "Quake Prone belt" as there have been a thousand tremors in the area in recent months. There were multiple aftershocks as rescue efforts got underway by firefighters and other rescuers. The Government of the People's Republic of China|Chinese government allocated 55 million yuan to relief efforts on 11 March while the Chinese Ministry of Finance|Ministry of Finance gave 50 million yuan for infrastructure repair. The earthquake forced the delay of a planned 180,000-kilowatt|kW hydroelectricity project in the Nujiang River Valley.
+
+==See also==
+* 2008 Yingjiang earthquakes
+* 2009 Yunnan earthquake
+
+==References==
+{{reflist}}
+
+{{Earthquakes in 2011}}
+{{Earthquakes in China}}
+
+{{DEFAULTSORT:Yunnan earthquake, 2011}}
+Category:Earthquakes in China|2011 Yunnan
+Category:History of Yunnan|2011
+Category:2011 earthquakes
+Category:2011 disasters in China

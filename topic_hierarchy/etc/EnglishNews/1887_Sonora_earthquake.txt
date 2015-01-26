@@ -1,0 +1,52 @@
+{{Earthquake
+|title= 1887 Sonora earthquake
+|date= {{Start-date|3 May 1887}}
+|map2 = {{Location map | Mexico |relief=1
+ | label=
+ | lat=31.07
+ | long=-109.12
+ | mark=Bullseye1.png
+ | marksize=40
+ | position=top
+ | width= 250
+ | float=right
+ | caption=}}
+|magnitude =7.6 Moment magnitude scale|M<sub>w</sub> 
+|depth=80 km
+|countries affected = Mexico, USA
+|location={{coord|31.07|-109.12|display=inline,title}}
+|tsunami = 
+|casualties =51
+}}
+The '''1887 Sonora earthquake''' occurred at 22:13 Coordinated universal time|UCT on 3 May in the Teras mountain range of northwestern Mexico. It was widely felt, with some damage being recorded up to {{convert|200|km}} from the epicenter in both Mexico and the United States. The earthquake had an estimated Moment magnitude scale|magnitude of 7.6 and caused 42 casualties in the town of Bavispe and 51 overall. It was the only historical earthquake to cause considerable damage in Arizona.
+The 1887 Tombstone Arizona newspapers mentioned lesser quakes (aftershocks) on August 27, 1887 and November 11, 1887.
+
+==Tectonic setting==
+The earthquake was located near the southern end of the extensional tectonics|extensional Basin and Range Province. The western margin of the Sierra Madre Occidental plateau is formed by a series of west-dipping Fault (geology)#Dip-slip faults|normal faults, over a distance of at least  {{convert|300|km}}. The earthquake occurred within this zone.
+
+==Damage==
+File:1887 Sonora earthquake fault map.png|thumb|Sketch by Dr. George Goodfellow of the 1887 Sonora earthquake fault zone based on several weeks of field study. The U.S./Arizona border is shown at top.
+Towns near the epicenter suffered significant damage, particularly in Bavispe, where most houses were destroyed and 42 of the town's 700 inhabitants were killed. Houses of adobe construction were also destroyed in Tepic and Moctezuma, Sonora|Moctezuma. The houses were roofed with heavy log rafters that were untied to the adobe walls and fell in when the walls collapsed.
+
+==Characteristics==
+The earthquake was associated with a surface rupture consisting of three segments with a combined length of 101.8&nbsp;km, the longest normal fault rupture recorded for an earthquake in historic times.
+
+There was a prolonged sequence of aftershocks that are interpreted to continue to the present. Particularly large aftershocks (about magnitude 5) occurred on 26 May 1907, 17 May 1913 and 18 and 19 December 1923.
+
+== Assistance and reporting ==
+
+The earthquake destroyed most of the adobe houses in Bavispe and killing 42 of the town's 700 residents, Dr. George E. Goodfellow in Tombstone, Arizona|Tombstone, Arizona Territory, loaded his wagon with medical supplies and rode {{convert|140|km}} to aid survivors. The townspeople named him ''El Doctor Santo'' (The Sainted Doctor), and in recognition of his humanitarian contributions, Mexican President Porfirio Diaz presented him with a silver medal that had belonged to Maximilian I of Mexico|Emperor Maximilian and a horse named ''El Rosillo''. Goodfellow noted that it was very difficult to pin down the time of the earthquake due to the absence of time pieces or a nearby railroad, and the primitive living standards of the area's residents.
+
+Goodfellow returned twice, the second time in July with Tombstone photographer C.S. Fly|Camillus Sidney Fly to study and record the effects of the earthquake. He covered over {{convert|700|mi}} on horseback but mostly on foot through the Sierra Madre Oriental mountains recording his observations. The United States Geological Service praised his "remarkable and creditable" report, describing it as "systematic, conscientious, and thorough."  The earthquake was at the time the “longest recorded normal-fault surface rupture in historic time.” His report was later described as an “outstanding study” and a “pioneering achievement”.
+
+==References==
+{{Reflist|colwidth=30em}}
+
+{{Earthquakes in Mexico}}
+
+Category:1887 earthquakes|Sonora Earthquake, 1887
+Category:1887 in Mexico|Sonora Earthquake, 1887
+Category:1887 in the United States|Sonora Earthquake, 1887
+Category:Disasters in Arizona
+Category:Earthquakes in Arizona
+Category:Earthquakes in Mexico

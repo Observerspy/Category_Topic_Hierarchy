@@ -1,0 +1,60 @@
+{{Infobox earthquake
+|title              = April 2011 Miyagi earthquake<br /><small>2011年 宫城県冲地震</small>
+|image              = 
+|image alt          = 
+|imagecaption       =
+|map                = 
+|map alt            = 
+|image name         =
+|map2               = {{Location map+|Japan|width=250|float=none|border=none|relief=yes|caption=Map showing the epicenter of the aftershock|places=
+{{Location map~|Japan|lat=38.253|long=141.640|mark=Bullseye1.png|marksize=30|position=top}}
+{{Location map~|Japan|lat=38.322|long=142.369|position=right|label=11 March quake}}
+{{Location map~|Japan|lat=35.7|long=139.715|label=Tokyo|position=left|mark=Green pog.svg}}
+{{Location map~|Japan|lat=38.26|long=140.87|label=Sendai|position=left|mark=Green pog.svg}}}}
+|mapsize            = 
+|caption            =
+|date               = 23:32:41, 7 April 2011 (+09:00)
+|origintime         =
+|duration           =
+|magnitude          = 7.1 Moment magnitude scale|(M<sub>w</sub>) 
+|depth              = {{convert|49|km|mi|0|abbr=on}}
+|location           = {{Coord|38.253|N|141.640|E|type:event_scale:50000000|display=inline,title}}
+|type               = Aftershock
+|countries affected = {{flag|Japan}}
+|damage             =
+|intensity          = Mercalli intensity scale|MM VIII
+|PGA                = <!-- NN''Peak ground acceleration|g'' -->
+|tsunami            = 
+|landslide          =
+|foreshocks         =
+|aftershocks        =
+|casualties         = 4 confirmed dead, 141 injured
+}}
+The '''April 2011 Miyagi earthquake''' (Japanese: {{Nihongo|"2011 Miyagi Prefecture Earthquake"|2011年 宫城県冲地震|2011-Nen Miyagi-ken-oki jishin}}) was a Moment magnitude scale|magnitude 7.1&nbsp;M<sub>w</sub> earthquake, with an epicenter|epicentre off the coast of Miyagi Prefecture, approximately {{Convert|66|km}} east of Sendai, Japan. The earthquake was classified as an aftershock of the 2011 Tōhoku earthquake and tsunami|March 11 Tōhoku earthquake, and occurred at 23:32&nbsp;Japan Standard Time|JST (14:32&nbsp;Coordinated Universal Time|UTC) on Thursday, 7&nbsp;April 2011.
+
+Immediately after the earthquake, several tsunami warnings were issued for the northeastern coast of Honshu; however, they were all canceled 90&nbsp;minutes later. Over 3&nbsp;million households in the area were left without power, and several nuclear plants suffered minor inconveniences. There was no major structural damage, but the quake killed at least 4&nbsp;people and injured 141.
+
+==Earthquake==
+The Moment magnitude scale|magnitude&nbsp;7.1 (Moment magnitude scale|M<sub>W</sub>) earthquake occurred submarine earthquake|undersea at a Hypocenter|focal depth of 49&nbsp;km (30.4&nbsp;mi) in the western Pacific Ocean on 7&nbsp;April 2011 at 14:21&nbsp;UTC, approximately 66&nbsp;km (41&nbsp;mi) east of Sendai. The quake was a direct result of Thrust fault#Reverse faults|thrust&ndash;reverse faulting on or near the subduction zone Plate tectonics|plate boundary between the Pacific plate|Pacific and North American Plates. Initially estimated at a magnitude of 7.4, the tremor was felt in several areas near the east coast of Honshu as an aftershock of the 11 March magnitude&nbsp;9.0 megathrust 2011 Tōhoku earthquake and tsunami|Tōhoku earthquake. The aftershock sequence of this event is ongoing since 11&nbsp;March, and includes over 58 earthquakes of magnitude&nbsp;6.0 or greater up until 7&nbsp;April 2011, with only two others of magnitude&nbsp;7.0 or greater. 
+
+==Damage and casualties==
+Although the quake was located several miles offshore, moderate to very strong shaking was reported as far inland as Tokyo, about 333&nbsp;km (207&nbsp;mi) from its epicentre. 
+
+Four people were reported dead as a result of the earthquake, including an elderly woman in Yamagata Prefecture who lost power to her medical ventilator. The Nikkei 225|Nikkei index fell sharply at the closing but rebounded the next day when reports of limited damage were confirmed.
+
+==See also==
+*List of foreshocks and aftershocks of the 2011 Tōhoku earthquake
+*List of earthquakes in Japan
+
+==References==
+{{reflist}}
+
+{{2011 Tōhoku earthquake and tsunami}}
+{{Earthquakes in 2011}}
+{{Earthquakes in Japan}}
+
+Category:Megathrust earthquakes in Japan|2011 Miyagi
+Category:2011 in Japan
+
+nl:Zeebeving Sendai 2011#Naschok 7 april 2011
+ja:宫城県冲地震#2011年4月7日（东北地方太平洋冲地震の余震）

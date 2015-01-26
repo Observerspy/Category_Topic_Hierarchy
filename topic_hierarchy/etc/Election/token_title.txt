@@ -1,0 +1,1676 @@
+-LCB-LCB-mdy/o 2011/TIME RCB-RCB-
+-LCB-LCB-election/o 
+-election-=/o Canadian/o federal/o election/o 2008/TIME 
+-country/o =/o Canada/LOC 
+-type/o =/o parliamentary/o 
+-party-colour/o =/o 
+-party-=/o 
+-previous-election/o =/o Canadian/o federal/o election/o 2006/TIME 
+-previous-year/o =/o 2006/TIME 
+-previous-MPs/o =/o List/o House/ORG members/o 39th/ORG Parliament/ORG Canada/ORG 
+-next-election/o =/o Canadian/o federal/o election/o 2011/TIME 
+-next-MPs/o =/o List/o House/ORG members/o 41st/ORG Parliament/ORG Canada/ORG 
+-next-year/o =/o 2011/TIME 
+-elected-mps/o =/o LSB-LSB-House/ORG members/o 40th/ORG Parliament/ORG RSB-RSB-
+-seats-for-election/o =/o LSB-LSB-Canadian/o federal/o electoral/o seats/o RSB-RSB-LSB-LSB-Commons/ORG Canada/ORG RSB-RSB-<br>-155/o seats/o needed/o majority/o 
+-election-date/o =/o LCB-LCB-RCB-RCB-
+-opinion-polls/o =/o Opinion/o polling/o Canadian/o federal/o election/o 2008/TIME 
+-turnout/o =/o 58.8/PERCENT 
+-image1/o =/o LSB-LSB-Harper/PER Remy/PER Steinegger/PER Infobox-RSB-RSB-
+-colour1/o =/o LCB-LCB-party/o RCB-RCB-
+-leader1/o =/o LSB-LSB-Harper/PER RSB-RSB-
+-leader-since1/o =/o LSB-LSB-Party/o Canada/LOC leadership/o election/o 20/TIME 2004/TIME RSB-RSB-
+-party1/o =/o LCB-LCB-party/o RCB-RCB-
+-leaders-seat1/o =/o LSB-LSB-Southwest/ORG RSB-RSB-
+-last-election1/o =/o 124/o seats/o 36.27/PERCENT 
+-seats-before1/o =/o 127/o 
+-seats1/o =/o 143/o 
+-seat-change1/o =/o 16/o 
+-popular-vote1/o =/o 5,209,069/o 
+-percentage1/o =/o 37.65/PERCENT 
+-swing1/o =/o 1.38/o LSB-LSB-RSB-RSB-
+-image2/o =/o LSB-LSB-Dion-RSB-RSB-
+-colour2/o =/o LCB-LCB-party/o RCB-RCB-
+-leader2/o =/o LSB-LSB-Dion/ORG RSB-RSB-
+-leader-since2/o =/o LSB-LSB-Party/o Canada/LOC leadership/o election/o 2/TIME 2006/TIME RSB-RSB-
+-party2/o =/o LCB-LCB-party/o RCB-RCB-
+-leaders-seat2/o =/o LSB-LSB-Laurent/o RSB-RSB-
+-last-election2/o =/o 103/o seats/o 30.23/PERCENT 
+-seats-before2/o =/o 95/o 
+-seats2/o =/o 77/o 
+-seat-change2/o =/o 18/o 
+-popular-vote2/o =/o 3,633,185/o 
+-percentage2/o =/o 26.26/PERCENT 
+-swing2/o =/o 3.97/o LSB-LSB-RSB-RSB-
+-image3/o =/o LSB-LSB-Duceppe2/o RSB-RSB-
+-colour3/o =/o LCB-LCB-party/o RCB-RCB-
+-leader3/o =/o LSB-LSB-Duceppe/PER RSB-RSB-
+-leader-since3/o =/o LSB-LSB-Québécois/o leadership/o election/o 15/TIME 1997/TIME RSB-RSB-
+-party3/o =/o LCB-LCB-party/o RCB-RCB-
+-leaders-seat3/o =/o LSB-LSB-Marie/o RSB-RSB-
+-last-election3/o =/o 51/o seats/o 10.48/PERCENT 
+-seats-before3/o =/o 48/o 
+-seats3/o =/o 49/o 
+-seat-change3/o =/o 1/o 
+-popular-vote3/o =/o 1,379,991/o 
+-percentage3/o =/o 9.98/PERCENT 
+-swing3/o =/o 0.50/o LSB-LSB-RSB-RSB-
+-image4/o =/o LSB-LSB-Layton/PER 2011/TIME RSB-RSB-
+-colour4/o =/o LCB-LCB-party/o RCB-RCB-
+-leader4/o =/o LSB-LSB-Layton/PER RSB-RSB-
+-leader-since4/o =/o LSB-LSB-Democratic/o Party/o leadership/o election/o 24/TIME 2003/TIME RSB-RSB-
+-party4/o =/o LCB-LCB-party/o RCB-RCB-
+-leaders-seat4/o =/o LSB-LSB-RSB-RSB-
+-last-election4/o =/o 29/o seats/o 17.48/PERCENT 
+-seats-before4/o =/o 30/o 
+-seats4/o =/o 37/o 
+-seat-change4/o =/o 7/o 
+-popular-vote4/o =/o 2,515,288/o 
+-percentage4/o =/o 18.18/PERCENT 
+-swing4/o =/o 0.70/o LSB-LSB-RSB-RSB-
+-image5/o =/o LSB-LSB-May-RSB-RSB-
+-colour5/o =/o LCB-LCB-party/o RCB-RCB-
+-leader5/o =/o LSB-LSB-May/ORG RSB-RSB-
+-leader-since5/o =/o LSB-LSB-Party/ORG Canada/ORG leadership/o election/o 27/TIME 2006/TIME RSB-RSB-
+-party5/o =/o LCB-LCB-party/o RCB-RCB-
+-leaders-seat5/o =/o LSB-LSB-Nova/o RSB-RSB-LRB-RRB-
+-last-election5/o =/o 0/o seats/o 4.48/PERCENT 
+-seats-before5/o =/o 1/o 
+-seats5/o =/o 0/o 
+-seat-change5/o =/o 1/o 
+-popular-vote5/o =/o 937,613/o 
+-percentage5/o =/o 6.78/PERCENT 
+-swing5/o =/o 2.30/o LSB-LSB-RSB-RSB-
+-map-image/o =/o Canada/ORG 2008/ORG Federal/ORG Election-svg/ORG 
+-map-size/o =/o 300px/o 
+-map-=/o 
+-title/o =/o LSB-LSB-Minister/o Minister/o RSB-RSB-
+-posttitle/o =/o LSB-LSB-Minister/o Minister/o RSB-RSB-election/o 
+-before-election/o =/o LSB-LSB-Harper/PER RSB-RSB-
+-before-party/o =/o LCB-LCB-party/o RCB-RCB-
+-after-election/o =/o LSB-LSB-Harper/PER RSB-RSB-
+-after-party/o =/o LCB-LCB-party/o RCB-RCB-
+-RCB-RCB-
+
+Canadian/o federal/o election/o LRB-formally/o Canadian/o General/o Election/o RRB-held/o Tuesday/TIME October/TIME 14/TIME 2008/TIME elect/o members/o LSB-LSB-RSB-RSB-LSB-LSB-House/ORG Commons/ORG RSB-RSB-LSB-LSB-Canadian/ORG Parliament/ORG RSB-RSB-LSB-LSB-Canadian/o parliament/o RSB-RSB-dissolved/o LSB-LSB-General/ORG General/ORG RSB-RSB-September/TIME 7/TIME 2008/TIME election/o yielded/o LSB-LSB-government/o RSB-RSB-LSB-LSB-Party/o Canada/LOC RSB-RSB-led/o incumbent/o LSB-LSB-Minister/o Minister/o RSB-RSB-LSB-LSB-Harper/PER RSB-RSB-
+
+election/o call/o resulted/o cancellation/o LSB-LSB-federal/o by-elections/o by-elections/o RSB-RSB-scheduled/o occur/o September/TIME <ref>-LCB-LCB-news/o 
+byelections/o ended/o general/o vote/o called/o 
+ctv-ca-over-080907-s-name=election2008/o 
+LSB-Press/ORG RSB-RSB-
+LSB-Television/ORG Network/ORG RSB-RSB-
+7/TIME 2008/TIME 
+7/TIME 2008/TIME RCB-RCB-
+
+-LCB-LCB-RCB-RCB-
+
+
+-LSB-LSB-Fed/ORG election/o 2008/TIME Ridings-riding/o RSB-RSB-
+
+-LCB-LCB-election/o dates/o Canada/LOC RCB-RCB-
+2007/TIME Parliament/ORG passed/o law/o fixing/o federal/o election/o dates/o every/o years/o scheduling/o election/o date/o October/TIME 19/TIME 2009/TIME law/o does/o LRB-constitutionally/o RRB-limit/o powers/o Governor/o General/o dissolve/o Parliament/o any/o time/o LSB-LSB-LRB-RRB-parties/o RSB-RSB-bring/o government/o LSB-LSB-confidence/o RSB-RSB-election/o loss/o non-confidence/o vote/o Prime/o Minister/o asked/o Governor/o General/o call/o election/o Governor/o General/o granted/o Prime/o Minister/o request/o 
+
+
+64.7/PERCENT eligible/o voters/o cast/o ballots/o LSB-LSB-federal/o election/o federal/o election/o RSB-RSB-LSB-LSB-Party/ORG Party/ORG RSB-RSB-received/o votes/o any/o single/o party/o 36/PERCENT vote/o 124/o seats/o LRB-dissolution/o RRB-Liberal/o Party/o fewer/o seats/o 2006/TIME nbsp-103/o seats/o LRB-dissolution/o RRB-30/PERCENT vote/o Bloc/o Québécois/o lost/o seats/o lowering/o its/o total/o 51/o seats/o LRB-dissolution/o RRB-10.5/PERCENT vote/o NDP/ORG retained/o its/o seats/o held/o LSB-LSB-Parliament/o RSB-RSB-11/o making/o its/o total/o 29/o seats/o LRB-dissolution/o RRB-17.5/PERCENT vote/o LSB-LSB-Party/ORG Party/ORG RSB-RSB-received/o 4.5/PERCENT vote/o minimal/o increase/o previous/o election/o win/o any/o seats/o LRB-dissolution/o RRB-LSB-LSB-LRB-RRB-RSB-RSB-parties/o constituted/o 1/PERCENT total/o vote/o independent/o winning/o seat/o 
+
+since/o 2006/TIME 
+-LCB-LCB-Canadian/o Parliament/o RCB-RCB-
+-LSB-LSB-2008/ORG Federal/ORG Election/ORG seats-party/o representation/o LSB-LSB-Canadian/o parliament/o RSB-RSB-decided/o election/o 
+-LCB-LCB-LRB-RRB-RCB-RCB-
+-LCB-LCB-LRB-RRB-RCB-RCB-
+-LCB-LCB-Québécois/o LRB-RRB-RCB-RCB-
+-LCB-LCB-Democrats/o LRB-RRB-RCB-RCB-
+-LCB-LCB-LRB-RRB-RCB-RCB-RSB-RSB-
+-LCB-LCB-Canadian/o federal/o election/o set/o October/TIME 14/TIME RCB-RCB-
+Since/o 2006/TIME election/o LSB-LSB-Parliament/ORG RSB-RSB-LRB-RRB-changed/o party/o LSB-LSB-Emerson/PER RSB-RSB-LSB-LSB-Khan/o RSB-RSB-LSB-LSB-Comuzzi/PER RSB-RSB-Liberal/o Conservative/o LSB-LSB-Turner/PER RSB-RSB-Conservative/o Independent/o Liberal/o LSB-LSB-Wilson/PER RSB-RSB-Liberal/o Independent/o Green/o LSB-LSB-Thibault/PER RSB-RSB-Bloc/o Québécois/o Independent/o LSB-LSB-Casey/PER RSB-RSB-Conservative/o Independent/o by-elections/o NDP/ORG gained/o seat/o Liberal/ORG Party/ORG Conservative/ORG Party/ORG gained/o seats/o Liberals/o Bloc/o Québécois/o seats/o vacant/o election/o called/o previously/o held/o Liberal/ORG Party/ORG Bloc/o Québécois/o 
+
+-LSB-LSB-Canadian/o parliament/o preceding/o election/o RSB-RSB-led/o Conservatives/o governed/o smallest/o minority/o ever/o Canadian/ORG House/ORG Commons/ORG just/o 40.6/PERCENT seats/o average/o length/o LSB-LSB-parliament/o RSB-RSB-Canada/LOC 1/o year/o 5/o months/o 22/o days/o minorities/o led/o LSB-LSB-Conservative/ORG Party/ORG Conservative/ORG Party/ORG RSB-RSB-shorter/o longest/o previous/o Conservative/o minority/o just/o 6/o months/o 19/o days/o <ref>-LSB-parl-gc-ca-dates-asp-lang=E-srt=DESC-Hist=Y-param=MIN/o Key/o Dates/o Parliament/o RSB-LSB-LSB-Canada/LOC RSB-RSB-39th/o Parliament/o became/o Canada/LOC longest/o serving/o Conservative/o minority/o October/TIME 24/TIME 2006/TIME 
+
+May/TIME 30/TIME 2006/TIME Conservatives/o LSB-LSB-LRB-RRB-RSB-RSB-Bill/o C-16/o amend/o LSB-LSB-Elections/o Act/o RSB-RSB-provide/o fixed/o election/o dates/o bill/o received/o royal/o assent/o May/TIME 3/TIME 2007/TIME bill/o states/o election/o 2009/TIME fixed/o election/o date/o third/o Monday/TIME October/TIME LRB-19/TIME 2009/TIME RRB-Despite/o bill/o September/TIME 7/TIME 2008/TIME LSB-LSB-Minister/o Minister/o RSB-RSB-sought/o dissolution/o 39th/ORG Parliament/ORG Governor/ORG General/ORG agreed/o hold/o general/o election/o October/TIME 14/TIME 2008/TIME 
+
+February/TIME 15/TIME 2007/TIME LSB-LSB-Globe/o Mail/o RSB-RSB-reported/o Conservatives/o preparing/o election/o expected/o called/o shortly/o 2007/TIME budget/o due/o March/TIME 19/TIME 2007/TIME Part/o reason/o timing/o election/o given/o strengthening/o Conservative/o poll/o numbers/o coupled/o desire/o advantage/o perception/o Harper/PER leadership/o qualities/o Liberal/o counterpart/o LSB-LSB-Dion/PER RSB-RSB-<ref>-LSB-theglobeandmail-com-20070215-wtories15-Tories/o prepped/o March/TIME campaign/o RSB-LSB-LSB-Globe/o Mail/o RSB-RSB-February/TIME 15/TIME 
+
+March/TIME 17/TIME 2007/TIME internal/o Conservative/o Party/o memo/o leaked/o LSB-LSB-Canadian/o Press/o RSB-RSB-telling/o members/o ready/o campaign/o week/o memo/o asked/o members/o donate/o  $75/MONEY  $150/MONEY fund/o early/o stages/o election/o campaign/o predictions/o federal/o election/o occur/o 2007/TIME proved/o true/o majority/o LSB-LSB-LRB-RRB-RSB-RSB-believed/o federal/o election/o triggered/o before/o fixed/o election/o date/o October/TIME 19/TIME 2009/TIME sometime/o 2008/TIME 
+
+-LSB-LSB-Harper/PER RSB-RSB-hinted/o possibility/o dissolving/o parliament/o August/TIME 14/TIME 2008/TIME Speaking/o LSB-LSB-Labrador/o RSB-RSB-cited/o Stéphane/PER Dion/PER main/o player/o making/o Parliament/o become/o increasingly/o going/o judgment/o little/o Parliament/o function/o productively/o Harper/PER said/o came/o repeated/o LSB-LSB-votes/o RSB-RSB-resulted/o NDP/ORG Bloc/o parties/o voting/o favor/o government/o Liberal/o Party/o voting/o favor/o attending/o vote/o Rumours/o possible/o fall/o election/o fuelled/o Harper/PER announcement/o fourth/o federal/o by-election/o September/TIME 22/TIME Toronto/LOC riding/o LSB-LSB-Valley/LOC West/LOC RSB-RSB-<ref>-LCB-LCB-news/o hints/o triggering/o election/o cbc-ca-brunswick-election-LSB-News/ORG RSB-RSB-14/TIME 2008/TIME 18/TIME 2008/TIME RCB-RCB-LCB-LCB-news/o calls/o 4th/o federal/o by-election/o sets/o stage/o possible/o fall/o general/o election/o cbc-ca-byelection-LSB-News/ORG RSB-RSB-17/TIME 2008/TIME 18/TIME 2008/TIME RCB-RCB-
+
+August/TIME 27/TIME 2008/TIME Harper/o asked/o Governor/o General/o LSB-LSB-Jean/o RSB-RSB-cancel/o trip/o LSB-LSB-Summer/o Games/o Beijing/LOC RSB-RSB-adding/o fuel/o speculation/o Prime/o Minister/o seek/o dissolution/o September/TIME 7/TIME 2008/TIME speculation/o Harper/PER asked/o Governor/o General/o call/o federal/o election/o October/TIME 14/TIME 2008/TIME 
+
+
+-LCB-LCB-Canadian/o federal/o election/o riding/o Canadian/o federal/o election/o 2008/TIME RCB-RCB-
+
+-LCB-70/PERCENT text-align/o 
+|/o ↓/o 
+|/o 
+-width/o 46.43/PERCENT 
+-width/o 25/PERCENT 
+-width/o 15.91/PERCENT 
+-width/o 12.01/PERCENT 
+-width/o 0.1/PERCENT 
+|/o 
+-<span-style=-color-cornflowerblue->-
+-<span-style=-color-lightcoral->-
+-<span-style=-color-lightskyblue->-
+-<span-style=-color-sandybrown->-
+-<span-style=-color-gray->-
+|/o RCB-
+-LCB-LCB-federal/o election/o 2008/TIME RCB-RCB-
+
+seat/o 
+-LCB-LCB-box/o 
+vote/o 
+ddd/o 
+
+
+
+-LCB-LCB-LCB-LCB-party/o RCB-RCB-RCB-RCB-
+-LCB-LCB-LCB-LCB-party/o RCB-RCB-RCB-RCB-
+-LCB-LCB-LCB-LCB-party/o RCB-RCB-RCB-RCB-
+-LCB-LCB-LCB-LCB-party/o RCB-RCB-RCB-RCB-
+-LCB-LCB-LCB-LCB-party/o RCB-RCB-RCB-RCB-
+-LCB-LCB-LCB-LCB-party/o RCB-RCB-RCB-RCB-
+-RCB-RCB-
+
+-LCB-LCB-box/o 
+totals/o 
+ddd/o 
+
+
+
+-LCB-LCB-LCB-LCB-party/o RCB-RCB-RCB-RCB-
+-LCB-LCB-LCB-LCB-party/o RCB-RCB-RCB-RCB-
+-LCB-LCB-LCB-LCB-party/o RCB-RCB-RCB-RCB-
+-LCB-LCB-LCB-LCB-party/o RCB-RCB-RCB-RCB-
+-LCB-LCB-LCB-LCB-party/o RCB-RCB-RCB-RCB-
+-RCB-RCB-
+
+
+-LCB-
+|/o ccc/o 
+-align/o 
+-align/o LSB-LSB-RSB-RSB-
+-align/o LSB-LSB-RSB-RSB-
+-align/o LSB-LSB-RSB-RSB-
+-align/o LSB-LSB-RSB-RSB-
+-align/o LSB-LSB-RSB-RSB-
+-align/o LSB-LSB-RSB-RSB-
+-align/o LSB-LSB-RSB-RSB-
+-align/o LSB-LSB-RSB-RSB-
+-align/o LSB-LSB-Edward/LOC RSB-RSB-
+-align/o LSB-LSB-RSB-RSB-
+-align/o LSB-LSB-RSB-RSB-
+-align/o LSB-LSB-RSB-RSB-
+-align/o LSB-LSB-RSB-RSB-
+-align/o 
+-LCB-LCB-party/o RCB-RCB-
+-LSB-LSB-Party/ORG RSB-RSB-
+-Seats/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-LCB-LCB-party/o RCB-RCB-
+-Vote/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-LCB-LCB-party/o RCB-RCB-
+-LSB-LSB-Party/ORG RSB-RSB-
+-Seats/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-LCB-LCB-party/o RCB-RCB-
+-Vote/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-LCB-LCB-party/o RCB-RCB-
+-LSB-LSB-Québécois/o RSB-RSB-
+-Seats/o 
+-align/o nbsp-
+-align/o nbsp-
+-align/o nbsp-
+-align/o nbsp-
+-align/o nbsp-
+-align/o 
+-align/o nbsp-
+-align/o nbsp-
+-align/o nbsp-
+-align/o nbsp-
+-align/o nbsp-
+-align/o nbsp-
+-align/o nbsp-
+-align/o 
+-LCB-LCB-party/o RCB-RCB-
+-Vote/o 
+-align/o nbsp-
+-align/o nbsp-
+-align/o nbsp-
+-align/o nbsp-
+-align/o nbsp-
+-align/o 
+-align/o nbsp-
+-align/o nbsp-
+-align/o nbsp-
+-align/o nbsp-
+-align/o nbsp-
+-align/o nbsp-
+-align/o nbsp-
+-align/o 
+-LCB-LCB-party/o RCB-RCB-
+-LSB-LSB-Democratic/o Party/o LRB-RRB-Democrat/o RSB-RSB-
+-Seats/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-LCB-LCB-party/o RCB-RCB-
+-Vote/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-LCB-LCB-party/o RCB-RCB-
+-Vote/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-LCB-LCB-party/o RCB-RCB-
+-LSB-LSB-LRB-RRB-affiliation/o RSB-RSB-
+-Seats/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o nbsp-
+-align/o nbsp-
+-align/o nbsp-
+-align/o nbsp-
+-align/o 
+-LCB-LCB-party/o RCB-RCB-
+-Vote/o 
+-align/o 
+-align/o nbsp-
+-align/o 
+-align/o nbsp-
+-align/o 
+-align/o 
+-align/o nbsp-
+-align/o 
+-align/o nbsp-
+-align/o nbsp-
+-align/o nbsp-
+-align/o nbsp-
+-align/o nbsp-
+-align/o 
+-LCB-LCB-party/o RCB-RCB-
+seats/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+-align/o 
+|/o RCB-
+
+ballot/o 
+-LSB-LSB-Federal-2008/o display/o results/o 2008/TIME Canadian/o federal/o election/o provinces/o RSB-RSB-
+LSB-LSB-City/ORG RSB-RSB-several/o ballot/o boxes/o containing/o votes/o advance/o polls/o disappeared/o close/o advance/o polling/o October/TIME 7/TIME boxes/o stored/o closet/o deputy/o returning/o officer/o <ref-name=-ballotbox->-LCB-LCB-news/o 
+theglobeandmail-com-20081013-ELECTIONBALLOTS13SB-
+ballot/o boxes/o recovered/o Quebec/LOC 
+
+
+13/TIME 2008/TIME 
+14/TIME 2008/TIME 
+
+Globe/ORG Mail/o RCB-RCB-tampering/o boxes/o votes/o deputy/o returning/o officers/o fired/o <ref-name=-ROfired->-LCB-LCB-news/o 
+thestar-com-
+Canada/LOC fires/o 3/o officials/o missing/o ballot/o boxes/o 
+LSB-Star/o RSB-RSB-
+14/TIME 2008/TIME 
+14/TIME 2008/TIME RCB-RCB-Deputy/o returning/o officers/o only/o polling/o officials/o allowed/o handle/o ballots/o during/o vote/o count/o law/o allow/o store/o sealed/o boxes/o may/o necessary/o large/o remote/o rural/o ridings/o However/o boxes/o returned/o day/o late/o riding/o returning/o officer/o ordered/o return/o <ref-name=-ROfired2->-LCB-LCB-
+ctv-ca-election2008-081013-s-name=election2008-no-ads=/o 
+dismissed/o missing/o ballot/o boxes/o 
+LSB-News/o RSB-RSB-
+13/TIME 2008/TIME 
+5/TIME 2008/TIME RCB-RCB-
+
+
+number/o political/o leaders/o popular/o websites/o supported/o LSB-LSB-voting/o RSB-RSB-election/o mostly/o Conservative/ORG Party/ORG reasons/o varied/o regional/o LSB-LSB-Labrador/o RSB-RSB-premier/o LSB-LSB-Williams/PER LRB-RRB-Williams/PER RSB-RSB-LSB-LSB-Conservative/o RSB-RSB-campaign/o ideological/o popular/o website/o VoteForEnvironment-received/o views/o 12/o days/o its/o existence/O<ref> LSB-londontopic-ca-php-artid=11132/o Anti-Harper-pro-environment/o website/o slammed/o pageviews/o RSB-October/TIME 6/TIME 2008/TIME </ref> founders/o interviewed/o CBC/ORG mainstream/o media/o showed/o regional/o breakdowns/o riding/o offered/o recommendations/o based/o candidate/o likely/o beat/o Conservative/o candidate/o Conservative/o candidate/o little/o chance/o winning/o riding/o strongly/o entrenched/o recommended/o heart/o Similarly/o vote/o swapping/o organization/o LSB-LSB-RSB-RSB-entitled/o Harper/o Vote/o Swap/o Canada/LOC gained/o press/o <ref-name=-vote-swap->-LCB-LCB-
+thetyee-ca-
+Voting/o 2.0/o 
+
+
+LSB-Tyee/o RSB-RSB-
+9/TIME 2008/TIME 
+14/TIME 2008/TIME RCB-RCB-premise/o organization/o eligible/o voters/o different/o electoral/o districts/o may/o exchange/o votes/o opponent/o Conservative/o candidate/o district/o better/o chance/o being/o elected/o district/o Elections/o Canada/LOC deemed/o practice/o legal/o <ref-name=-legal-swap->-LCB-LCB-news/o 
+thestar-com-
+ready/o swap/o votes/o 
+LSB-Star/o RSB-RSB-
+14/TIME 2008/TIME 
+14/TIME 2008/TIME RCB-RCB-
+
+Green/o Party/o leader/o Elizabeth/PER May/PER sent/o mixed/o signals/o strategic/o voting/o October/TIME 12/TIME recommended/o close/o ridings/o supporters/o green/o policies/o consider/o voting/o NDP/ORG Liberals/o defeat/o Conservatives/o <ref>Tutton/LOC Michael/PER LSB-thestar-com-May/TIME says/o vote/o NDP/ORG Liberal/o close/o ridings/o RSB-Toronto/o Star/o October/TIME 12/TIME 2008/TIME </ref> day/o said/o support/o strategic/o voting/o advised/o voters/o choose/o any/o candidate/o Green/o <ref>-LSB-aol-ca-strategic-Green/o party/o says/o leader/o calling/o strategic/o voting/o block/o Tories/o RSB-News/o October/TIME 12/TIME 2008/TIME </ref> addition/o during/o final/o days/o campaign/o Liberals/o attempted/o attract/o strategic/o NDP/ORG Green/ORG votes/o Conservatives/o Conservatives/o attempted/o attract/o Bloc/o votes/o Liberals/o <ref>-LSB-google-com-Dion/PER urges/o Greens/o red/o May/o muddies/o waters/o RSB-Canadian/o Press/o October/TIME 12/TIME 2008/TIME LCB-LCB-RCB-RCB-
+
+
+
+students/o homeless/o transient/o voters/o turned/o away/o polls/o unable/o provide/o identification/o showing/o otherwise/o confirming/o place/o residence/o legislation/o introduced/o 2007/TIME requires/o voters/o show/o pieces/o identification/o confirm/o voter/o address/o vouched/o another/o voter/o able/o show/o identification/o <ref>-LCB-LCB-news/o rules/o cause/o confusion/o polls/o cbc-ca-problems-html-ref=rss/o LSB-News/ORG RSB-RSB-14/TIME 2008/TIME 15/TIME 2008/TIME RCB-RCB-LCB-LCB-RCB-RCB-
+
+-LCB-sortable/o 
+|/o 
+-Region/o Turnout/o LRB-RRB-
+|/o 
+|/o LSB-LSB-RSB-RSB-
+
+|/o 
+|/o LSB-LSB-Columbia/ORG RSB-RSB-
+
+|/o 
+|/o LSB-LSB-RSB-RSB-
+
+|/o 
+|/o LSB-LSB-Brunswick/o RSB-RSB-
+
+|/o 
+|/o LSB-LSB-Labrador/o RSB-RSB-
+
+|/o 
+|/o LSB-LSB-Territories/ORG RSB-RSB-
+
+|/o 
+|/o LSB-LSB-Scotia/LOC RSB-RSB-
+
+|/o 
+|/o LSB-LSB-RSB-RSB-
+
+|/o 
+|/o LSB-LSB-RSB-RSB-
+
+|/o 
+|/o LSB-LSB-Edward/ORG Island/ORG RSB-RSB-
+
+|/o 
+|/o LSB-LSB-RSB-RSB-
+
+|/o 
+|/o LSB-LSB-RSB-RSB-
+
+|/o 
+|/o LSB-LSB-RSB-RSB-
+
+|/o RCB-
+
+
+-LCB-LCB-turnout/o Canada/LOC RCB-RCB-
+-LSB-LSB-turnout/o RSB-RSB-lowest/o Canadian/o election/o history/o 58.8/PERCENT LSB-LSB-RSB-RSB-cast/o ballot/o <ref>-LCB-LCB-Turnout/o Federal/ORG Elections/ORG elections-ca-aspx-section=ele-dir=turn-document=index-Canada/ORG 10/TIME 2012/TIME RCB-RCB-federally/o funded/o parties/o Greens/o attracted/o fewer/o total/o votes/o 2006/TIME Greens/o received/o nearly/o 280,000/o votes/o Conservatives/o lost/o 170,000/o votes/o Liberals/o Bloc/o 170,000/o NDP/ORG voters/o turned/o away/o because/o failure/o meet/o stricter/o proof/o address/o requirements/o including/o 2-attempting/o vote/o LSB-LSB-University/ORG RSB-RSB-example/o effect/o may/o voter/o turnout/o unknown/o <ref>-LCB-LCB-news/o cbc-ca-voting-day-News/o close/o Nova/LOC Scotia/LOC 14/TIME 2008/TIME RCB-RCB-LCB-LCB-RCB-RCB-
+
+
+
+federal/o election/o LSB-LSB-recount/o RSB-RSB-automatically/o ordered/o riding/o LSB-LSB-victory/o RSB-RSB-0.1/PERCENT LRB-one-thousandth/o RRB-votes/o cast/o cases/o larger/o narrow/o margin/o victory/o elector/o request/o judicial/o recount/o 
+
+Judicial/o recounts/o ordered/o ridings/o case/o LSB-LSB-Prairie/o RSB-RSB-judicial/o recount/o overturned/o reported/o victor/o giving/o seat/o Liberals/o LSB-LSB-Mendès/PER RSB-RSB-Bloc/o incumbent/o LSB-LSB-Lussier/PER RSB-RSB-
+
+ridings/o recount/o confirmed/o election/o results/o Liberal/o LSB-LSB-Dosanjh/PER RSB-RSB-margin/o Vancouver/LOC South/LOC reduced/o 33/o votes/o just/o 20/o <ref>-LSB-marketwatch-com-Canada-Announces-Results-Judicial-aspx-guid={F7BADC37-6EAC-413E-8B08-570B4AFC18FE/o RCB-Elections/ORG Canada/ORG Announces/ORG Results/ORG Judicial/ORG Recount/ORG Electoral/ORG District/ORG Vancouver/ORG South/ORG RSB-LSB-elections-ca-e-Elections/o Canada/LOC Election/ORG Night/ORG Results/ORG RSB-LCB-LCB-2012/TIME RCB-RCB-slimmest/o victory/o any/o riding/o entire/o election/o results/o Kitchener-Waterloo/o recount/o reduced/o Peter/PER Braid/PER margin/o victory/o mere/o 17/o votes/o Dosanjh/o Conservative/o opponent/o Wai/PER Young/PER appealed/o recount/o LSB-LSB-Court/ORG British/ORG Columbia/ORG RSB-RSB-citing/o ballot/o boxes/o fully/o recounted/o <ref>-LSB-theglobeandmail-com-20081028-BCBRIEFS28-1-candidate/o appeal/o recount/o RSB-LSB-LSB-Globe/o Mail/o RSB-RSB-October/TIME 28/TIME 2008/TIME </ref> ballots/o eventually/o counted/o November/TIME 4/TIME confirming/o Dosanjh/PER victory/o 20/o votes/o initial/o partial/o recount/o indicated/o margin/o 22/o votes/o 
+
+sixth/o riding/o recount/o canceled/o elector/o requested/o withdrew/o request/o 
+
+-LCB-70/PERCENT border-collapse/o 
+|/o 
+-Riding/o 
+-Initial/o validated/o results/o second/o place/o 
+-Recount/o type/o 
+-Recount/o date/o 
+-Judicially/o certified/o results/o second/o place/o 
+|/o 
+|/o 
+-Candidate/o 
+-Votes/o 
+-
+|/o 
+-Candidate/o 
+-Votes/o 
+-
+|/o 
+-LSB-LSB-LRB-district/o RRB-RSB-RSB-PEI/o 
+-LCB-LCB-politics-colours-RCB-RCB-nbsp-
+-LSB-LSB-Shea/PER RSB-RSB-LSB-LSB-Party/ORG RSB-RSB-
+-8,122/o 
+-44.0/PERCENT 
+-Requested/o 
+-October/TIME 23/TIME 2008/TIME 
+-LCB-LCB-politics-colours-RCB-RCB-nbsp-
+-LSB-LSB-Shea/PER RSB-RSB-LSB-LSB-Party/ORG RSB-RSB-
+-8,110/o 
+-43.9/PERCENT 
+|/o 
+-LCB-LCB-politics-colours-RCB-RCB-nbsp-
+-LSB-LSB-Milligan/PER RSB-RSB-LSB-LSB-Party/ORG RSB-RSB-
+-8,060/o 
+-43.6/PERCENT 
+-LCB-LCB-politics-colours-RCB-RCB-nbsp-
+-LSB-LSB-Milligan/PER RSB-RSB-LSB-LSB-Party/ORG RSB-RSB-
+-8,055/o 
+-43.6/PERCENT 
+|/o 
+-LSB-LSB-Prairie/o RSB-RSB-QC/o 
+-LCB-LCB-politics-colours-RCB-RCB-nbsp-
+-LSB-LSB-Lussier/PER RSB-RSB-LSB-LSB-RSB-RSB-
+-19,202/o 
+-32.6/PERCENT 
+-Requested/o 
+-October/TIME 24/TIME 2008/TIME 
+-LCB-LCB-politics-colours-RCB-RCB-nbsp-
+-LSB-LSB-Mendès/PER RSB-RSB-LSB-LSB-Party/ORG RSB-RSB-
+-19,103/o 
+-32.6/PERCENT 
+|/o 
+-LCB-LCB-politics-colours-RCB-RCB-nbsp-
+-LSB-LSB-Mendès/PER RSB-RSB-LSB-LSB-Party/ORG RSB-RSB-
+-19,110/o 
+-32.4/PERCENT 
+-LCB-LCB-politics-colours-RCB-RCB-nbsp-
+-LSB-LSB-Lussier/PER RSB-RSB-LSB-LSB-RSB-RSB-
+-19,034/o 
+-32.5/PERCENT 
+|/o 
+-LSB-LSB-West/LOC RSB-RSB-
+-LCB-LCB-politics-colours-RCB-RCB-nbsp-
+-LSB-LSB-Kania/PER RSB-RSB-LSB-LSB-Party/ORG RSB-RSB-
+-21,739/o 
+-40.3/PERCENT 
+-Requested/o 
+-November/TIME 6/TIME 2008/TIME 
+-LCB-LCB-politics-colours-RCB-RCB-nbsp-
+-LSB-LSB-Kania/PER RSB-RSB-LSB-LSB-Party/ORG RSB-RSB-
+-21,746/o 
+-40.3/PERCENT 
+|/o 
+-LCB-LCB-politics-colours-RCB-RCB-nbsp-
+-LSB-LSB-Seeback/PER RSB-RSB-LSB-LSB-Party/ORG RSB-RSB-
+-21,516/o 
+-39.9/PERCENT 
+-LCB-LCB-politics-colours-RCB-RCB-nbsp-
+-LSB-LSB-Seeback/PER RSB-RSB-LSB-LSB-Party/ORG RSB-RSB-
+-21,515/o 
+-39.9/PERCENT 
+|/o 
+-LSB-LSB-LRB-district/o RRB-RSB-RSB-
+-LCB-LCB-politics-colours-RCB-RCB-nbsp-
+-LSB-LSB-Braid/PER RSB-RSB-LSB-LSB-Party/o RSB-RSB-
+-21,851/o 
+-36.1/PERCENT 
+-Automatic/o 
+-October/TIME 31/TIME 2008/TIME 
+-LCB-LCB-politics-colours-RCB-RCB-nbsp-
+-LSB-LSB-Braid/PER RSB-RSB-LSB-LSB-Party/o RSB-RSB-
+-21,830/o 
+-36.1/PERCENT 
+|/o 
+-LCB-LCB-politics-colours-RCB-RCB-nbsp-
+-LSB-LSB-Telegdi/PER RSB-RSB-LSB-LSB-Party/ORG RSB-RSB-
+-21,803/o 
+-36.0/PERCENT 
+-LCB-LCB-politics-colours-RCB-RCB-nbsp-
+-LSB-LSB-Telegdi/PER RSB-RSB-LSB-LSB-Party/ORG RSB-RSB-
+-21,813/o 
+-36.0/PERCENT 
+|/o 
+-LSB-LSB-Fuca/o RSB-RSB-BC/o 
+-LCB-LCB-politics-colours-RCB-RCB-nbsp-
+-LSB-LSB-Martin/PER LRB-RRB-Martin/PER RSB-RSB-LSB-LSB-Party/ORG RSB-RSB-
+-20,042/o 
+-34.2/PERCENT 
+-Requested/o 
+-recount/o terminated/o request/o elector/o requested/o 
+|/o 
+-LCB-LCB-politics-colours-RCB-RCB-nbsp-
+-LSB-LSB-DeSouza/PER RSB-RSB-LSB-LSB-Party/ORG RSB-RSB-
+-19,974/o 
+-34.1/PERCENT 
+|/o 
+-LSB-LSB-South/ORG RSB-RSB-BC/o 
+-LCB-LCB-politics-colours-RCB-RCB-nbsp-
+-LSB-LSB-Dosanjh/PER RSB-RSB-LSB-LSB-Party/ORG RSB-RSB-
+-16,101/o 
+-38.5/PERCENT 
+-Automatic/o 
+-November/TIME 4/TIME 2008/TIME 
+-LCB-LCB-politics-colours-RCB-RCB-nbsp-
+-LSB-LSB-Dosanjh/PER RSB-RSB-LSB-LSB-Party/ORG RSB-RSB-
+-16,110/o 
+-38.5/PERCENT 
+|/o 
+-LCB-LCB-politics-colours-RCB-RCB-nbsp-
+-LSB-LSB-Young/o RSB-RSB-LSB-LSB-Party/ORG RSB-RSB-
+-16,068/o 
+-38.4/PERCENT 
+-LCB-LCB-politics-colours-RCB-RCB-nbsp-
+-LSB-LSB-Young/o RSB-RSB-LSB-LSB-Party/ORG RSB-RSB-
+-16,090/o 
+-38.4/PERCENT 
+|/o RCB-
+
+
+-LCB-LCB-Canadian/o federal/o election/o 2008/TIME RCB-RCB-
+
+-6/TIME 2006/TIME Harper/PER LSB-LSB-RSB-RSB-sworn/o 
+-3/TIME 2007/TIME Bill/o C-16/o receives/o LSB-LSB-Assent/o RSB-RSB-bill/o states/o election/o held/o October/TIME 19/TIME 2009/TIME earlier/o dissolution/o 
+-26/TIME 2008/TIME Harper/PER indicates/o may/o call/o election/o fall/TIME 2008/TIME Parliament/o dissolved/o early/o week/o September/TIME 1/TIME 
+-29/TIME 2008/TIME Harper/PER meets/o Gilles/PER Duceppe/PER leader/o Bloc/PER Québécois/PER attempt/o common/o ground/o Bloc/o Conservatives/o 
+-30/TIME 2008/TIME 
+-Liberal/o LSB-LSB-Wilson/PER RSB-RSB-joins/o Green/ORG Party/ORG being/o Independent/o nearly/o year/o riding/o LSB-LSB-Vancouver/LOC Coast/ORG Sky/o Country/o RSB-RSB-LSB-LSB-Columbia/ORG RSB-RSB-Wilson/o becomes/o Member/o Parliament/o Green/ORG Party/ORG 
+-Harper/PER meets/o LSB-LSB-Layton/PER RSB-RSB-leader/o Democrats/o attempt/o common/o ground/o NDP/ORG Conservatives/o 
+-1/TIME 2008/TIME Harper/PER meets/o Stéphane/PER Dion/PER leader/o Liberals/o attempt/o common/o ground/o Liberals/o Conservatives/o avert/o dissolution/o Parliament/ORG allowing/o fall/o session/o continue/o planned/o However/o twenty-minute/o meeting/o LSB-LSB-Sussex/ORG Drive/ORG RSB-RSB-official/o residence/o Dion/PER emerges/o stating/o common/o ground/o parties/o election/o certain/o 
+-5/TIME 2008/TIME LSB-LSB-Prime/o Minister/o LRB-RRB-Minister/o Office/o RSB-RSB-LRB-RRB-announces/o Prime/o Minister/o Stephen/PER Harper/PER visit/o Governor/o General/o 9/o September/TIME 7/TIME 2008/TIME ask/o dissolution/o 39th/ORG Parliament/ORG general/o election/o October/TIME 14/TIME 2008/TIME <ref>-LCB-LCB-
+-events/o September/TIME nbsp-7/TIME 2008/TIME 
+-pm-gc-ca-asp-category=4-id=2266/o 
+-LSB-Prime/o Minister/o LRB-RRB-Prime/o Minister/o RSB-RSB-
+-5/TIME 2008/TIME 
+-accessdate/o =/o September/TIME 7/TIME 2008/TIME RCB-RCB-
+-7/TIME 2008/TIME Prime/o Minister/o Harper/PER asks/o Governor/o General/o Michaëlle/PER Jean/PER call/o general/o election/o October/TIME 14/TIME 2008/TIME accepts/o request/o <ref-name=-drive->-LCB-LCB-news/o 
+-talks/o talk/o does/On walk/o Rideau/ORG Hall/ORG 
+-ctv-ca-green-efforts-080907-s-name=election2008/o 
+-LSB-News/o RSB-RSB-
+-7/TIME 2008/TIME 
+-7/TIME 2008/TIME RCB-RCB-
+-14/TIME 2008/TIME Elections/o held/o members/o House/ORG Commons/ORG LSB-LSB-Canadian/o Parliament/o RSB-RSB-<ref-name=-Letters-Patent->-LSB-gazette-gc-ca-pr-09-08-x4-142x4-pdf/o letters/o patent/o RSB-dissolving/o Parliament/ORG setting/o calling/o election/o summoning/o Parliament/o </ref> 
+-4/TIME 2008/TIME Writs/o returned/o Chief/o Election/o Officer/o Patent/o 
+-10/TIME 2008/TIME 40th/o Parliament/o summoned/o <ref-name=-parliament-summoned->-LCB-LCB-news/o 
+-Summoning/ORG Parliament/ORG Meet/o November/TIME nbsp-18/TIME 2008/TIME 
+-gc-ca-x5-e-
+-LSB-Gazette/ORG RSB-RSB-
+-10/TIME 2008/TIME 
+-9/TIME 2008/TIME RCB-RCB-LCB-LCB-RCB-RCB-
+-1/TIME 2008/TIME Liberals/o NDP/ORG sign/o agreement/O<ref name=-proposed-coalition-Liberals-and-NDP->-LCB-LCB-news/o 
+-Cooperative/ORG Government/ORG Address/o Present/o Economic/o Crisis/o 
+-liberal-ca-Accord-en-signed-pdf/o 
+-LSB-Party/o Canada/LOC RSB-RSB-LSB-LSB-Democratic/o Party/o LRB-RRB-Democratic/o Party/o RSB-RSB-
+-1/TIME 2008/TIME 
+-9/TIME 2008/TIME RCB-RCB-LCB-LCB-RCB-RCB-proposed/o coalition/o government/o replace/o governing/o Conservatives/o Prime/o Minister/o Harper/PER <ref-name=-deal-news->-LCB-LCB-news/o 
+-NDP/ORG Bloc/o sign/o deal/o proposed/o coalition/o 
+-cbc-ca-talks-
+-LSB-News/ORG RSB-RSB-
+-1/TIME 2008/TIME 
+-9/TIME 2008/TIME RCB-RCB-
+-1/TIME 2008/TIME Liberals/o NDP/ORG Bloc/o Québécois/o sign/o name=-policy-accord-Liberals-NDP-and-BQ->-LCB-LCB-news/o 
+-Policy/o Address/o Present/o Economic/o Crisis/o 
+-liberal-ca-Policy-Frame-en-signed-pdf/o 
+-LSB-Party/o Canada/LOC RSB-RSB-LSB-LSB-Democratic/o Party/o LRB-RRB-Democratic/o Party/o RSB-RSB-LSB-LSB-Québécois/o RSB-RSB-
+-1/TIME 2008/TIME 
+-9/TIME 2008/TIME RCB-RCB-LCB-LCB-RCB-RCB-whereby/o Bloc/o support/o Liberal-government/o 18/o months/o news/o 
+-4/TIME 2008/TIME Parliament/o prorogued/o Governor/o General/o during/o LSB-LSB-Canadian/o parliamentary/o dispute/o RSB-RSB-advice/o Prime/o Minister/o <ref-name=-prorogued->-LCB-LCB-news/o 
+-Proroguing/o Parliament/o January/TIME nbsp-26/TIME 2009/TIME 
+-gc-ca-x6-e-
+-LSB-Gazette/ORG RSB-RSB-
+-5/TIME 2008/TIME 
+-9/TIME 2008/TIME RCB-RCB-LCB-LCB-RCB-RCB-
+-26/TIME 2009/TIME Parliament/o reconvene/o second/o session/o 
+
+
+-LCB-LCB-2008/TIME RCB-RCB-
+Prime/o Minister/o Stephen/PER Harper/PER said/o considering/o calling/o election/o because/o lack/o cooperation/o Parliament/LOC saying/o signs/o indicate/o Parliament/ORG its/o productiveness/o LSB-LSB-Northwest/ORG RSB-RSB-LSB-LSB-Territories/o RSB-RSB-Conservative/ORG Party/ORG Canada/ORG fueled/o rumors/o oncoming/o election/o released/o several/o LSB-LSB-advertisements/o RSB-RSB-focused/o range/o issues/o attacked/o Liberal/ORG Party/ORG Canada/ORG proposed/o LSB-LSB-tax/o RSB-RSB-LSB-LSB-Prime/o Minister/o LRB-RRB-Minister/o Office/o RSB-RSB-LRB-RRB-confirmed/o Harper/PER call/o election/o October/TIME 14/TIME meeting/o Democratic/o Party/o leader/o LSB-LSB-Layton/PER RSB-RSB-Bloc/o Québécois/o leader/o LSB-LSB-Duceppe/PER RSB-RSB-gave/o Prime/o Minister/o little/o hope/o fall/o session/o Parliament/o productive/o PMO/ORG officials/o said/o <ref>-LSB-cbc-ca-layton-Layton/PER says/o doubt/o federal/o election/o RSB-LSB-LSB-News/o RSB-RSB-March/TIME 21/TIME Senior/o government/o officials/o announced/o September/TIME Stephen/PER Harper/PER ask/o Governor/o General/o LSB-LSB-Jean/o RSB-RSB-dissolve/o parliament/o call/o election/o October/TIME 14/TIME met/o Liberal/o leader/o Stéphane/PER Dion/PER called/o meeting/o Dion/PER said/o unable/o agree/o upcoming/o session/o Parliament/ORG slated/o September/TIME 15/TIME productive/o 
+
+Liberal/o Party/o members/o gathered/o LSB-LSB-RSB-RSB-September/TIME 2/TIME day/o caucus/o changed/o preparing/o parliamentary/o session/o strategy/o session/o formulate/o plan/o attack/o Conservatives/o healing/o internal/o party/o rifts/o surfaced/o weeks/o Conservatives/o began/o spending/o  $60/MONEY pre-election/o funding/o projects/o wide/o variety/o institutions/o groups/o announcements/o big/o including/o LSB-LSB-Industry/o LRB-RRB-Minister/o RSB-RSB-LSB-LSB-Prentice/PER RSB-RSB-pledge/o  $25/MONEY expansion/o LSB-LSB-RSB-RSB-exhibition/o facility/o LSB-LSB-RSB-RSB-Tories/o announced/o number/o smaller/o projects/o including/o  $40,000/MONEY 2008/TIME 55/o Games/o  $25,000/MONEY Peace/o Window/o Holy/ORG Trinity/ORG Anglican/ORG Church/ORG Winnipeg/LOC announcements/o spread/o country/o Atlantic/LOC region/o  $500,000/MONEY youth/o jobs/o cultural/o organizations/o Association/o Book/o Publishers/o LSB-LSB-Columbia/ORG RSB-RSB-receive/o Jack/PER Layton/PER attacked/o Conservative/o Party/o bribing/o public/o doing/o thing/o used/o complain/o Liberals/o doing/o before/o elections/o 
+
+survey/o conducted/o LSB-LSB-John/PER RSB-RSB-38/o cent/o Canadians/o vote/o Conservative/o party/o election/o held/o immediately/o 28/o cent/o vote/o Liberal/o party/o 19/o NDP/ORG Bloc/o Québécois/o Green/ORG party/o poll/o shows/o Conservatives/o taking/o early/o leads/o LSB-LSB-RSB-RSB-British/ORG Columbia/ORG LSB-LSB-Prairies/o RSB-RSB-LSB-LSB-Canada/LOC RSB-RSB-Liberals/o hold/o strong/o majority/o Quebec/LOC Bloc/o Québécois/o leads/o Conservatives/o Liberals/o tied/o second/o asked/o Canadians/o said/o Conservatives/o handle/o economy/o better/o said/o Liberals/o handle/o environment/o better/o 
+
+September/TIME 7/TIME Harper/PER officially/o asked/o dissolution/o Parliament/ORG called/o election/o October/TIME 14/TIME 
+
+
+40th/o Canadian/ORG Federal/ORG Election/ORG campaign/o officially/o began/o 8-20/time a-m-Eastern/ORG Daylight/ORG Time/ORG Governor/o General/o Michaëlle/PER Jean/PER accepted/o Stephen/PER Harper/PER request/o dissolve/o Parliament/o call/o election/o October/TIME 14/TIME 2008/TIME party/o leaders/o jumped/o right/o campaign/o LSB-LSB-Dion/PER RSB-RSB-attacking/o Conservative/o record/o presenting/o Liberal/o plan/o rejected/o accusation/o Harper/PER Liberal/o party/o risky/o choice/o LSB-LSB-Layton/PER RSB-RSB-took/o forceful/o approach/o previous/o elections/o Democratic/o Party/o just/o tried/o maintain/o high/o number/o seats/o Parliament/LOC influence/o government/o Layton/PER clear/o campaign/o position/o prime/o minister/o time/o returned/o longstanding/o NDP/ORG theme/o alleged/o abuses/o big/o business/o promised/o called/o big/o oil/o cellphone/o banks/o attacks/o expected/o focus/o Conservatives/o ignore/o Liberals/o LSB-LSB-May/ORG RSB-RSB-Green/ORG Party/ORG said/o Canadians/o care/o environment/o vote/o party/o long/o able/o television/o debates/o Stephen/PER Harper/PER stated/o objection/o including/o Green/ORG Party/ORG television/o debates/o because/o similar/o policies/o Green/ORG Liberal/o party/o unfair/o Bloc/o Québécois/o Leader/o LSB-LSB-Duceppe/PER RSB-RSB-said/o Conservatives/o prevented/o winning/o majority/o LSB-LSB-RSB-RSB-only/o party/o Duceppe/o compared/o Harper/PER LSB-LSB-United/LOC President/o RSB-RSB-LSB-LSB-W-Bush/PER RSB-RSB-said/o government/o incompetent/o 
+
+
+LSB-LSB-leaders/o debates/o Debates/o 2008/o RSB-RSB-French/o English/o included/o leaders/o parties/o Stephen/PER Harper/PER Conservatives/o Stéphane/PER Dion/PER Liberals/o Jack/PER Layton/PER NDP/ORG Gilles/PER Duceppe/PER Bloc/o Québécois/o Elizabeth/PER May/PER Green/ORG Party/ORG 
+
+French-language/o debate/o aired/o Wednesday/TIME October/TIME 1/TIME 8/o 10/o p-m-LSB-LSB-Time/ORG RSB-RSB-moderated/o LSB-LSB-Bureau/ORG RSB-RSB-journalist/o host/o English-language/o debate/o aired/o Thursday/TIME October/TIME 2/TIME 9/o 11/time p-m-EDT/time LSB-LSB-Paikin/PER RSB-RSB-LSB-LSB-RSB-RSB-moderator/o 
+
+
+-LCB-LCB-leadership/o debate/o Green/ORG Party/ORG part/o RCB-RCB-
+parties/o nbsp-Conservatives/o Bloc/o Québécois/o NDP/ORG nbsp-opposed/o inclusion/o Green/ORG Party/ORG citing/o statements/o Green/ORG Party/ORG leader/o Elizabeth/PER May/PER effect/o best/o outcome/o election/o Liberal-led/o government/o deal/o struck/o Green/ORG Party/ORG Liberals/o Liberals/o run/o May/TIME riding/o Central/ORG Nova/ORG Green/ORG party/o Liberal/o leader/o Stéphane/PER Dion/PER riding/o Saint-Laurent/o say/o May/o Liberal/o candidate/o <ref>-LCB-LCB-=/o http-cbc-ca-may-debates-=/o May/TIME battle/o debate/o exclusion/o =/o September/TIME 10/TIME =/o LSB-LSB-Broadcasting/ORG Corporation/ORG RSB-RSB-=/o 2008/TIME News/o RCB-RCB-LCB-LCB-RCB-RCB-
+
+Stephen/PER Harper/PER Jack/PER Layton/PER reported/o said/o Green/ORG Party/ORG included/o participate/o Leaders/o Debates/o Dion/PER said/o supports/o May/TIME inclusion/o attend/o Harper/PER does/o Bloc/PER Québécois/PER stated/o boycott/o debates/o May/TIME included/o <ref>-LCB-LCB-Green/o leader/o blames/o Harper/PER Layton/PER being/o barred/o debates/o work=canada-canada-com-html-id=ce3e7a10-554b-4aa7-ad89-5bef5927cd98/o 9/TIME 2008/TIME RCB-RCB-media/o consortium/o charge/o debate/o LSB-LSB-Broadcasting/ORG RSB-RSB-LSB-LSB-Television/o RSB-RSB-LSB-LSB-Television/ORG Television/ORG RSB-RSB-LSB-LSB-LRB-network/o RRB-RSB-RSB-decided/o prefer/o broadcast/o debates/o major/o party/o leaders/o risk/o minimal/o participation/o Green/ORG Party/ORG indicated/o begun/o procedures/o lodge/o formal/o complaint/o LSB-LSB-Radio-television/ORG Telecommunications/ORG Commission/ORG RSB-RSB-<ref>-LCB-LCB-Release/o 2008/TIME Leaders/o Debates/o group/o newswire-ca-9/TIME 2008/TIME RCB-RCB-name=-CBC08sep08->-LCB-LCB-=/o http-cbc-ca-debates-=/o Greens/o participate/o leaders/o debates/o networks/o =/o September/TIME 9/TIME =/o LSB-LSB-Broadcasting/ORG Corporation/ORG RSB-RSB-=/o 2008/TIME News/o RCB-RCB-LCB-LCB-RCB-RCB-past/o federal/o elections/o 
+
+September/TIME 10/TIME Harper/PER Layton/PER released/o statements/o oppose/o May/TIME inclusion/o debate/o citing/o public/o backlash/o protests/o nbsp-acknowledging/o making/o threat/o boycotting/o debate/o nbsp-media/o consortium/o reconvene/o discuss/o matter/o Layton/o stated/o debate/o become/o only/o condition/o Stephen/PER Harper/PER response/o spokespeople/o Stephen/PER Harper/PER announced/o stand/o alone/o opposition/o Green/ORG Party/ORG inclusion/o debates/o changed/o position/o matter/o <ref>-LCB-LCB-=/o http-cbc-ca-may-debates-=/o Harper/PER Layton/PER willing/o Green/o leader/o =/o September/TIME 10/TIME =/o LSB-LSB-Broadcasting/ORG Corporation/ORG RSB-RSB-=/o 2008/TIME News/o RCB-RCB-LCB-LCB-RCB-RCB-day/o consortium/o announced/o May/TIME allowed/o participate/o debate/o <ref>-LCB-LCB-=/o http-cbc-ca-may-debates-=/o Green/o leader/o allowed/o debates/o networks/o =/o September/TIME 10/TIME =/o LSB-LSB-Broadcasting/ORG Corporation/ORG RSB-RSB-=/o 2008/TIME News/o RCB-RCB-LCB-LCB-RCB-RCB-
+
+
+September/TIME 30/TIME Harper/PER announced/o ask/o 12/o minutes/o economy/o scheduled/o Leader/o Debate/o extended/o hour/o citing/o LSB-LSB-crisis/o 2007/TIME crisis/o affecting/o U-S-RSB-RSB-deepened/o since/o debate/o format/o finalized/o change/o require/o agreement/o parties/o debate/o approved/o NDP/ORG released/o statement/o soon/o supported/o move/o public/o response/o concerned/o topics/o environment/o time/o cover/o issue/o <ref-name=-cbc-Harper-asks-for-full-hour-on-economy->-LCB-LCB-news/o asks/o full/o hour/o economy/o during/o leaders/o debates/o cbc-ca-debates-=/o LSB-LSB-Broadcasting/ORG Corporation/ORG RSB-RSB-30/TIME 2008/TIME 30/TIME 2008/TIME News/ORG RCB-RCB-
+
+October/TIME 1/TIME day/o debate/o announced/o debates/o extended/o time/o 12/o 30/o minutes/o economy/o leaders/o give/o opening/o closing/o statements/o allow/o longer/o discussions/o economy/o removing/o time/o topics/o revealed/o leaders/o standing/o individual/o podiums/o debate/o done/o past/o years/o debate/o done/o LSB-LSB-table/o RSB-RSB-format/o <ref-name=-cbc-Economy-dominate-debate->-LCB-LCB-news/o dominate/o French-language/o debate/o cbc-ca-economy-=/o LSB-LSB-Broadcasting/ORG Corporation/ORG RSB-RSB-1/TIME 2008/TIME 1/TIME 2008/TIME News/ORG RCB-RCB-
+
+
+
+
+French/o debate/o revolved/o economy/o environment/o topics/o repeatedly/o being/o brought/o discussions/o allotted/o topics/o Stephen/PER Harper/PER came/o criticism/o every/o leader/o nearly/o every/o topic/o especially/o economy/o environment/o party/o leaders/o stating/o Harper/PER politics/o led/o Canada/LOC current/o crises/o areas/o points/o included/o Harper/PER environmental/o plan/o considered/o worst/o developed/o countries/o organizations/o world/o Elizabeth/PER May/PER labeling/o type/o fraud/o name=-cbc-Harper-targeted-in-French-Debate->-LCB-LCB-news/o targeted/o economy/o crime/o French/o debate/o cbc-ca-french-=/o LSB-LSB-Broadcasting/ORG Corporation/ORG RSB-RSB-2/TIME 2008/TIME 2/TIME 2008/TIME News/ORG RCB-RCB-attempts/o remove/o regulations/o financial/o sectors/o similar/o done/o LSB-LSB-George/PER W-administration/o RSB-RSB-United/LOC States/LOC led/o Canada/LOC being/o nearly/o hard/o hit/o LSB-LSB-crisis/o 2007/TIME financial/o crisis/o RSB-RSB-United/LOC States/LOC <ref-name=-cbc-Harper-targeted-in-French-Debate--
+
+Continuous/o comparisons/o Harper/PER LSB-LSB-W-Bush/PER RSB-RSB-course/o debate/o Jack/PER Layton/PER stating/o point/o Bush/PER ending/o presidency/o year/o Harper/PER leader/o developed/o country/o follow/o LSB-LSB-doctrine/o RSB-RSB-<ref-name=-cbc-Harper-targeted-in-French-Debate--
+
+
+Following/o tone/o French/o debate/o discussion/o revolved/o economy/o environment/o leaders/o keep/o criticizing/o Harper/PER especially/o lack/o economic/o platform/o despite/o asking/o format/o change/o focus/o economy/o light/o ongoing/o financial/o crisis/o using/o time/o criticize/o economic/o platforms/o leaders/o <ref-name=-cbc-Leaders-to-Harper--Show-economic-Platform--May/o lashed/o Harper/PER understanding/o Canadians/o worried/o homes/o jobs/o finances/o comparing/o current/o situation/o LSB-LSB-disease/o RSB-RSB-Dion/PER stated/o only/o thing/o keeps/o Canada/LOC being/o hit/o hard/o crisis/o laws/o created/o previous/o Liberal/o government/o Conservatives/o attempting/o overturn/o Duceppe/PER repeatedly/o criticized/o Harper/PER financial/o practices/o attitudes/o similar/o LSB-LSB-George/PER W-administration/o RSB-RSB-Layton/PER point/o stated/o Harper/PER position/o showed/o incompetent/o uncaring/o situation/o asked/o Harper/PER respond/o Harper/PER came/o criticism/o laissez-faire/o attitude/o job/o sector/o supporting/o primarily/o oil/o companies/o companies/o outsource/o jobs/o manufacturing/o sector/o 
+
+turned/o environment/o Carbon/o Tax/o proposal/o came/o repeatedly/o Dion/PER May/TIME supporting/o May/TIME ambitious/o figures/o Dion/PER pointing/o recommended/o proven/o way/o deal/o carbon/o emissions/o countries/o organizations/o world/o noting/o growth/o Sweden/LOC Germany/LOC system/o <ref-name=-cbc-Leaders-to-Harper--Show-economic-Platform--Harper/PER criticized/o plan/o saying/o increase/o taxpayers/o burden/o Dion/PER people/o environmental/o measures/o cost/o economy/o said/o plan/o includes/o  $40/MONEY carbon/o taxes/o  $26/MONEY tax/o cuts/o <ref-name=-cbc-Leaders-to-Harper--Show-economic-Platform--Dion/o defended/o Liberal/o Green/ORG Shift/ORG saying/o LSB-statements/o RSB-true/o every/o dollar/o raise/o tax/o cut/o tax/o cuts/o income/o <ref-name=-cbc-Leaders-to-Harper--Show-economic-Platform--Duceppe/o commented/o targets/o applied/o individual/o provinces/o thereby/o allowing/o Quebec/LOC financially/o benefit/o due/o already-implemented/o greenhouse/o gas/o reductions/o <ref-name=-cbc-Leaders-to-Harper--Show-economic-Platform--Layton/PER favors/o LSB-LSB-and-trade/o system/o RSB-RSB-said/o Mr-Harper/PER imagination/o emissions/o fall/o plan/o <ref-name=-cbc-Leaders-to-Harper--Show-economic-Platform--Harper/PER sought/o outline/o government/o record/o environmental/o fronts/o giving/o examples/o minority/o government/o supported/o preservation/o hundreds/o thousands/o hectares/o environmentally/o sensitive/o land/o LSB-LSB-Conservancy/o Canada/LOC RSB-RSB-government/o declared/o protected/o marine/o area/o LSB-LSB-Superior/o RSB-RSB-created/o whale/o sanctuary/o LSB-LSB-Island/LOC RSB-RSB-May/o responded/o saying/o only/o word/o said/o true/o national/o parks/o <ref-name=-cbc-Leaders-to-Harper--Show-economic-Platform--
+
+Layton/PER criticized/o Dion/PER lack/o accomplishments/o official/o opposition/o during/o minority/o government/o party/o previous/o leader/o broken/o promises/o areas/o Child/ORG Care/ORG Pharmacare/ORG <ref-name=-cbc-Leaders-to-Harper--Show-economic-Platform--
+
+Duceppe/o painted/o Conservative/o government/o  $45/MONEY national/o arts/o culture/o funding/o cuts/o assault/o province/o identity/o saying/o recognize/o Quebec/LOC nation/o cut/o culture/o LSB-RSB-soul/o nation/o followed/o citing/o economic/o benefits/o culture/o <ref-name=-cbc-Leaders-to-Harper--Show-economic-Platform--
+
+Harper/PER said/o erred/o calling/o Canada/LOC participation/o 2003/TIME U-S-led/o invasion/o Iraq/ORG saying/o absolutely/o error/o obviously/o clear/o adding/o claim/o weapons/o mass/o destruction/o proved/o false/o <ref-name=-cbc-Leaders-to-Harper--Show-economic-Platform->-LCB-LCB-news/o platform/o party/o leaders/o dare/o Harper/PER economy/o cbc-ca-debate-night-=/o LSB-LSB-Broadcasting/ORG Corporation/ORG RSB-RSB-3/TIME 2008/TIME 3/TIME 2008/TIME News/ORG RCB-RCB-
+
+Commenting/o debate/o Layton/PER said/o enjoyed/o May/o contributions/o debate/o <ref-name=-cbc-Barbs-fly-over-economy->-LCB-LCB-news/o fly/o economy/o leaders/o return/o campaign/o trail/o cbc-ca-follow-=/o LSB-LSB-Broadcasting/ORG Corporation/ORG RSB-RSB-3/TIME 2008/TIME 3/TIME 2008/TIME News/ORG RCB-RCB-Reporter/o LSB-LSB-Van/PER Dusen/PER RSB-RSB-said/o Harper/PER managed/o hits/o calmly/o told/o fight/o back/o partisan/o going/o alienate/o voters/o especially/o women/o Barbs/o fly/o economy/o Duceppe/PER said/o happy/o forced/o Harper/PER admit/o support/o joining/o Iraq/ORG war/o 2003/TIME mistake/o adding/o admission/o campaign/o Conservative/o leader/o lacks/o solid/o judgment/o skills/o Harper/PER weakened/o confirmed/o does/o support/o refundable/o tax/o credit/o manufacturing/o industry/o encourage/o companies/o improve/o productivity/o Barbs/o fly/o economy/o 
+
+
+
+
+Stephen/PER Harper/PER cut/o  $45/MONEY arts/o funding/o office/o move/o drew/o criticism/o leaders/o LSB-LSB-RSB-RSB-citizens/o leaders/o seeking/o restore/o funding/o Conservatives/o stated/o money/o being/o reallocated/o arts/o cultural/o programs/o including/o various/o official/o languages/o projects/o 400th/o anniversary/o LSB-LSB-City/LOC RSB-RSB-projects/o connected/o LSB-LSB-Winter/o Vancouver-Whistler/o Winter/o Olympic/o Games/o RSB-RSB-Conservative/o refusal/o parliamentary/o review/o cuts/o moratorium/o measures/o LSB-LSB-House/ORG Commons/ORG Standing/ORG Committee/ORG Canadian/ORG Commons/ORG Heritage/ORG Committee/ORG RSB-RSB-chance/o hold/o hearings/o culture/o arts/o funding/o opposition/o members/o calling/o foul/o <ref-name=-cbc-Layton-reverse-Harper-Art-Cuts->-LCB-LCB-news/o cbc-ca-arts-Layton/PER vows/o reverse/o Harper/PER arts/o cuts/o bolster/o culture/o funding/o News/o 23/TIME 2008/TIME 23/TIME 2008/TIME RCB-RCB-LCB-LCB-RCB-RCB-
+
+Stéphane/PER Dion/PER Jack/PER Layton/PER promised/o reverse/o cut/o Dion/PER promising/o increase/o funding/o LSB-LSB-Council/ORG Arts/o RSB-RSB- $360/MONEY Layton/PER promised/o bring/o income/o averaging/o artists/o national/o level/o providing/o annual/o tax/o exemption/o  $20,000/MONEY income/o earned/o copyright/o residuals/o stating/o key/o things/o before/o start/o giving/o $50/MONEY tax/o giveaways/o banks/o oil/o companies/o protect/o promote/o arts/o sure/o appropriate/o funding/o LSB-LSB-Broadcasting/ORG Canada/o RSB-RSB-protecting/o LSB-LSB-Canada/ORG RSB-RSB-LSB-LSB-Television/o Fund/o RSB-RSB-Layton/PER reverse/o Harper/PER Art/o Cuts/o 
+
+Harper/PER said/o believes/o issue/o topic/o Canadians/o particularly/o concerned/o issue/o <ref-name=-cbc-Actors-condemn-Harper->-LCB-LCB-news/o cbc-ca-protests-Actors/o condemn/o Harper/PER culture/o cuts/o News/ORG 24/TIME 2008/TIME 24/TIME 2008/TIME RCB-RCB-LCB-LCB-RCB-RCB-group/o Canadian/o performers/o included/o LSB-LSB-Hindle/PER RSB-RSB-LSB-LSB-Crewson/PER RSB-RSB-LSB-LSB-Pinsent/PER RSB-RSB-held/o press/o conference/o September/TIME 24/TIME saying/o cuts/o cripple/o Canadian/o arts/o industry/o Actors/o condemn/o Harper/o 
+
+September/TIME 29/TIME Harper/PER unveiled/o tax/o credit/o plan/o worth/o estimated/o  $150/MONEY year/o encourage/o parents/o enroll/o kids/o arts/o programs/o music/o drama/o credit/o apply/o  $500/MONEY eligible/o fees/o children/o 16/o participate/o eligible/o arts/o activities/o Harper/PER said/o LSB-Conservatives/o RSB-spend/o lot/o culture/o arts/o way/o ensure/o effective/o taxpayers/o money/o ultimately/o case/o benefits/o families/o society/o Harper/PER come/o criticism/o week/o before/o expressed/o opinion/o working/o people/o unable/o relate/o taxpayer-subsidized/o cultural/o elites/o see/o rich/o gala/o television/o Harper/PER offers/o kid/o art/o tax/o break/o LCB-LCB-news/o google-com-Harper/PER offers/o tax/o breaks/o parents/o kids/o arts/o programs/o Canadian/o Press/o 30/TIME 2008/TIME 30/TIME 2008/TIME RCB-RCB-LCB-LCB-RCB-RCB-
+
+Cadman/o bribe/o 
+-LCB-LCB-Cadman/PER Legal/o controversy/o RCB-RCB-
+early/TIME 2008/TIME alleged/o Independent/o LSB-LSB-Cadman/PER RSB-RSB-LSB-LSB-North/ORG RSB-RSB-terminally/o ill/o cancer/o time/o offered/o half-life/o insurance/o policy/o exchange/o voting/o proposed/o Liberal/o budget/o May/TIME 2005/TIME turned/o section/o 119/o LSB-LSB-Code/o Canada/LOC RSB-RSB-illegal/o bribe/o Accordingly/o Opposition/ORG Liberal/ORG party/o Intergovernmental/ORG Affairs/ORG critic/o LSB-LSB-LeBlanc/PER RSB-RSB-asked/o LSB-LSB-Canadian/o Mounted/o Police/o RSB-RSB-LRB-RRB-February/TIME 2008/TIME investigate/o allegation/o Conservatives/o offered/o Mr-Cadman/PER million-dollar/o life/o insurance/o policy/o exchange/o support/o budget/o vote/o May/TIME 2008/TIME RCMP/ORG announced/o evidence/o support/o charges/o <ref-name=-cbc-2008-05-16-->-LCB-LCB-news/o 
+cbc-ca-cadman-
+charges/o laid/o Cadman/o Affair/o RCMP/ORG 
+News/ORG 
+16/TIME 2008/TIME 
+9/TIME 2008/TIME RCB-RCB-
+Cadman/o died/o July/TIME following/o month/o Harper/PER stated/o court/o deposition/o any/o million-dollar/o offer/o authorized/o issue/o any/o authorization/o <ref>-LCB-LCB-
+-=/o Cornell/ORG Catana/ORG Reporting/ORG Services/ORG 
+-title/o =/o Stephen/PER Harper/PER Sworn/o Cross-Examination/o Mr-Paliare/PER 
+-work/o =/o Macleans-
+-accessdate/o =/o September/TIME 4/TIME 2008/TIME 
+-date/o =/o September/TIME 4/TIME 2008/TIME 
+-url/o =/o http-macleans-ca-pdf/o 
+RCB-RCB-LCB-LCB-news/o 
+-=/o Tim/PER Naumetz/PER 
+-title/o =/o Harper/PER testifies/o authorized/o offer/o Cadman/LOC 
+-work/o =/o Globe/o Mail/o 
+-accessdate/o =/o September/TIME 4/TIME 2008/TIME 
+-date/o =/o September/TIME 4/TIME 2008/TIME 
+-url/o =/o http-theglobeandmail-com-20080904-CADMAN04-
+-
+-RCB-RCB-currently/o ongoing/o legal/o battle/o Liberals/o Conservatives/o matter/o 
+
+September/TIME 24/TIME campaigning/o Surrey/LOC North/LOC Stephen/PER Harper/PER campaign/o team/o barred/o reporters/o talking/o local/o Conservative/o candidate/o LSB-LSB-Cadman/PER RSB-RSB-Chuck/PER Cadman/PER widow/o campaign/o team/o called/o LSB-LSB-Canadian/o Mounted/o Police/o RSB-RSB-LRB-RRB-ordered/o LSB-reporters/o RSB-Cadman/PER taken/o away/o staff/o Harper/o spokesman/o LSB-LSB-Teneycke/PER RSB-RSB-stated/o seen/o incident/o local/o candidates/o need/o interviewed/o candidates/o priority/o campaigning/o local/o ridings/o talking/o national/o media/o hold/o daily/o news/o conferences/o party/o prominent/o members/o <ref-name=-cbc-Tories-use-RCMP-to-block-media-->-LCB-LCB-news/o 
+cbc-ca-dispute-
+RCMP/ORG block/o media/o talking/o candidate/o Cadman/LOC 
+News/ORG 
+24/TIME 2008/TIME 
+24/TIME 2008/TIME 
+RCB-RCB-LCB-LCB-RCB-RCB-
+
+incident/o reminded/o people/o Conservative/o tactics/o during/o 2006/TIME election/o attempts/o media/o speak/o local/o candidates/o stopped/o campaign/o personnel/o especially/o LSB-LSB-Albrecht/PER RSB-RSB-incident/o campaign/o officials/o forced/o Albrecht/PER stay/o restaurant/o kitchen/o journalists/o attempted/o interview/o <ref-name=-cbc-Tories-use-RCMP-to-block-media--
+
+Conservatives/o chose/o U-S-LSB-LSB-Bureau/ORG Investigation/ORG RSB-RSB-agent/o LSB-LSB-Koenig/PER RSB-RSB-analyze/o tape/o reporter/o LSB-LSB-Zytaruk/PER RSB-RSB-interviewing/o Harper/PER Cadman/o bribe/o attempt/o tape/o key/o piece/o evidence/o ongoing/o legal/o battle/o October/TIME 10/TIME Koenig/PER announced/o tape/o altered/o any/o way/o contrary/o claims/o Stephen/PER Harper/PER altered/o <ref-name=-cbc-Cadman-tape-not-altered-->-LCB-LCB-news/o cbc-ca-tape-
+expert/o says/o Cadman/PER tape/o altered/o 
+News/ORG 
+10/TIME 2008/TIME 
+10/TIME 2008/TIME RCB-RCB-
+
+involvement/o 
+-LCB-LCB-role/o invasion/o Afghanistan/LOC RCB-RCB-
+ongoing/o LSB-LSB-RSB-RSB-LSB-LSB-Forces/ORG RSB-RSB-LSB-LSB-RSB-RSB-may/o influence/o voters/o Desmond/PER Morton/PER political/o science/o professor/o LSB-LSB-University/ORG RSB-RSB-suggested/o Conservatives/o blamed/o war/o because/o extended/o mission/o twice/o despite/o fact/o Liberal/o Leader/o LSB-LSB-Chrétien/PER RSB-RSB-Canada/LOC prime/o minister/o Canada/LOC current/o military/o involvement/o Afghanistan/LOC started/o 2001/TIME Conservatives/o Liberals/o various/o times/o agreed/o extend/o mission/o LRB-RRB-2011/TIME may/o result/o Canadians/o strongly/o Canada/LOC ongoing/o involvement/o otherwise/o typically/o voted/o Liberal/o Conservative/o past/o votes/o elsewhere/o 2008/TIME <ref>-LCB-LCB-ctv-ca-afghanistan-080907-s-name=election2008-no-Afghanistan/LOC hurt/o Tory/o 8/TIME LSB-News/o RSB-RSB-RCB-RCB-
+
+
+Toronto/LOC Mayor/o LSB-LSB-Miller/PER LRB-politician/o RRB-Miller/PER RSB-RSB-spoken/o parties/o need/o focus/o cities/o infrastructure/o stating/o 8/o 10/o Canadians/o live/o cities/o far/o only/o LSB-LSB-green/o party/o RSB-RSB-revealed/o platform/o issue/o national/o transit/o strategy/o plans/o give/o cities/o permanent/o revenue/o source/o fix/o growing/o infrastructure/o backlog/o Miller/o stated/o endorse/o specific/o party/o urges/o people/o choose/o party/o cities/o thrive/o disagrees/o Stephen/PER Harper/PER opinion/o national/o importance/o <ref-name=-cbc-Toronto-mayor-suggests-Greens->-LCB-LCB-news/o cbc-ca-election-mayor/o suggests/o Greens/o best/o bet/o cities/o News/o 17/TIME 2008/TIME 17/TIME 2008/TIME RCB-RCB-LCB-LCB-RCB-RCB-
+
+September/TIME 18/TIME Stéphane/PER Dion/PER pledged/o spend/o  $70/MONEY 10/o years/o improve/o Canada/LOC infrastructure/o elected/o budget/o surpluses/o exceed/o $3/MONEY contingency/o fund/o infrastructure/o projects/o particularly/o green/o focus/o calling/o Canada/LOC cities/o towns/o engines/o economy/o LSB-LSB-Harper/PER RSB-RSB-immediately/o lashed/o spending/o proposal/o saying/o Dion/PER money/o government/o afford/o Conservative/o infrastructure/o plans/o modest/o affordable/o four-year/o budget/o published/o <ref-name=-cbc-Dion-pledges-$70B-infrastructure->-LCB-LCB-news/o cbc-ca-infrastructure-promises/o  $70B/MONEY infrastructure/o boost/o News/o 18/TIME 2008/TIME 18/TIME 2008/TIME RCB-RCB-LCB-LCB-RCB-RCB-
+
+September/TIME 23/TIME LSB-LSB-RSB-RSB-Toronto/LOC mayors/o LSB-LSB-Tremblay/ORG RSB-RSB-David/PER Miller/PER laid/o demands/o urban/o municipalities/o describing/o cities/o current/o financial/o problems/o national/o issue/o saying/o cities/o become/o country/o economic/o social/o cultural/o development/o engines/o need/o appropriate/o support/o need/o better/o tools/o continue/o role/o Canada/LOC economic/o engines/o country/o suffer/o listed/o LSB-LSB-RSB-RSB-LSB-LSB-gridlock/o RSB-RSB-LSB-LSB-buses/o RSB-RSB-overstretched/o LSB-LSB-department/o RSB-RSB-just/o symptoms/o problems/o big/o important/o solved/o backs/o property/o taxpayers/o order/o remain/o competitive/o transport/o goods/o efficiently/o attract/o talent/o cities/o require/o quality/o infrastructure/o affordable/o housing/o first-rate/o recreational/o cultural/o facilities/o LSB-LSB-Perrault/PER RSB-RSB-president/o LSB-LSB-Canadian/o Municipalities/o RSB-RSB-mayor/o LSB-LSB-RSB-RSB-LSB-LSB-RSB-RSB-stated/o things/o LSB-LSB-Gas/o Tax/o Fund/o RSB-RSB-important/o federal/o commitment/o needed/o tackle/o cities/o overwhelming/o infrastructure/o needs/o <ref-name=-cbc-Cities-need-more-power->-LCB-LCB-news/o cbc-ca-fcmelection0923-need/o power/o thrive/o mayors/o News/ORG 23/TIME 2008/TIME 23/TIME 2008/TIME RCB-RCB-LCB-LCB-RCB-RCB-
+
+September/TIME 29/TIME Layton/PER announced/o plans/o direct/o cent/MONEY litre/o gas/o tax/o approximately/o  $400/MONEY year/o transit/o projects/o country/o direct/o  $350/MONEY sale/o carbon/o permits/o big/o polluters/o saying/o major/o polluters/o ones/o paying/o transit/o greener/o families/o climate/o change/o requires/o investing/o transit/o plan/o does/o <ref-name=-cbc-gas-pays-for-Transit--Layton->-LCB-LCB-news/o cbc-ca-transit-gas/o tax/o pay/o public/o transit/o Layton/PER News/ORG 29/TIME 2008/TIME 30/TIME 2008/TIME RCB-RCB-LCB-LCB-RCB-RCB-
+
+
+Polls/o suggested/o LSB-LSB-RSB-RSB-major/o issue/o going/o election/o especially/o resulting/o high/o price/o gas/o rising/o prices/o goods/o services/o food/o possible/o impact/o LSB-LSB-crisis/o 2007-financial/o crisis/o RSB-RSB-may/o Canada/LOC experts/o say/o Canada/LOC just/o narrowly/o dodged/o LSB-LSB-RSB-RSB-economy/o its/o worst/o shape/o since/o 1991/TIME <ref>-LCB-LCB-ctv-ca-elxn-080906-s-name=election2008/o =/o CTV/o News/ORG Election/ORG 12/TIME 2008/TIME RCB-RCB-
+
+Dion/PER Harper/PER said/o others/o plans/o lead/o Canada/LOC recession/o Dion/PER stated/o Harper/PER once-booming/o economy/o growth/o dropping/o lowest/o LSB-LSB-RSB-RSB-nations/o <ref-name=-cbc-Dion-pledges-$70B-infrastructure--
+
+Conservatives/o stated/o possible/o negative/o consequences/o happen/o economy/o based/o Liberal/o LSB-LSB-promise/o RSB-RSB-elected/o <ref-name=-cbc-Dion-pledges-$70B-infrastructure--September/TIME 20/TIME 2008/TIME Liberal/o election/o promises/o totaled/o excess/o  $80/MONEY spending/o decade/o <ref-name=-80B->-LCB-LCB-aid/o pushes/o Liberal/o pledges/o past/o  $80B/MONEY mark/MONEY nationalpost-com-html-id=808864/o =/o LSB-LSB-Broadcasting/ORG Corporation/ORG RSB-RSB-20/TIME 2008/TIME 20/TIME 2008/TIME RCB-RCB-LCB-LCB-RCB-RCB-contrast/o cost/o programs/o promised/o Conservatives/o date/o  $2/MONEY annually/o Stephen/PER Harper/PER Prime/o Minister/o criticized/o Liberal/o spending/o promises/o saying/o making/o boggling/o spending/o plans/o predicts/o send/o Canada/LOC deficit/o 
+
+rejection/o LSB-LSB-bailout/o United/LOC States/LOC financial/o bailout/o United/LOC States/LOC financial/o system/o RSB-RSB-resulting/o market/o fluctuation/o world/o including/o LSB-LSB-Stock/ORG Exchange/ORG RSB-RSB-Jack/PER Layton/PER called/o Harper/PER call/o special/o meeting/o federal/o party/o leaders/o discuss/o potential/o effects/o U-economic/o crisis/o Canadians/o suggestion/o afternoon/o October/TIME 1/TIME since/o leaders/o Ottawa/LOC LSB-LSB-Leaders/o Leaders/o Debate/o RSB-RSB-night/o spokesman/o Harper/PER reported/o Harper/PER call/o meeting/o save/o discussion/o Leader/o Debate/o LSB-RSB-opportunity/o week/o debate/o nbsp-closed/o doors/o front/o Canadians/o nbsp-issues/o stake/o LSB-RSB-economy/o country/o <ref-name=-cbc-PM-rebuffs-US-crisis-meeting->-LCB-LCB-news/o rebuffs/o NDP/ORG call/o federal/o leaders/o meeting/o U-S-crisis/o cbc-ca-mtg-=/o LSB-LSB-Broadcasting/ORG Corporation/ORG RSB-RSB-30/TIME 2008/TIME 30/TIME 2008/TIME News/ORG RCB-RCB-Harper/PER announced/o ask/o 12/o minutes/o economy/o scheduled/o Leader/o Debate/o extended/o hour/o citing/o financial/o crisis/o affecting/o U-S-deepened/o since/o debate/o format/o finalized/o change/o require/o agreement/o parties/o debate/o approved/o NDP/ORG released/o statement/o soon/o supported/o move/o public/o response/o concerned/o topics/o environment/o time/o cover/o issue/o <ref-name=-cbc-Harper-asks-for-full-hour-on-economy--leaders/o supported/o idea/o opening/o closing/o statements/o dropped/o allotted/o time/o economy/o extended/o 30/o minutes/o affecting/o topics/o <ref-name=-cbc-Economy-dominate-debate--
+
+During/o Leaders/o Debates/o Harper/PER repeatedly/o came/o fire/o lack/o economic/o plan/o current/o time/o crisis/o campaigning/o lack/o ability/o explain/o deal/o current/o crisis/o merely/o repeating/o Canada/LOC unlikely/o face/o crisis/o choices/o power/o being/o able/o explain/o different/o choices/o examples/o immediately/o compared/o practices/o done/o LSB-LSB-George/PER W-administration/o RSB-RSB-insisted/o Canadians/o panic/o response/o mounting/o pressure/o public/o Harper/PER announced/o October/TIME 3/TIME reveal/o party/o platform/o including/o economic/o matters/o October/TIME 7/TIME week/o before/o election/o <ref-name=-cbc-Barbs-fly-over-economy--
+
+
+-LCB-LCB-scientists/o protest/o Harper/PER attacks/o science/o RCB-RCB-
+
+Shortly/o election/o called/o Harper/PER criticized/o using/o four-vehicle/o LSB-LSB-RSB-RSB-included/o van/o LSB-LSB-utility/o RSB-RSB-travel/o LCB-LCB-RCB-RCB-street/o door/o LSB-LSB-Sussex/ORG Drive/ORG RSB-RSB-door/o LSB-LSB-Hall/ORG RSB-RSB-dissolve/o parliament/o return/o Conservatives/o criticized/o Liberal/o party/o decision/o 29-year-old/o LSB-LSB-737-200/o RSB-RSB-campaigning/o saying/o older/o airplane/o poor/o fuel/o efficiency/o demonstrates/o hypocrisy/o environmental/o matters/o Daniel/PER Lauzon/PER spokesperson/o Liberals/o denied/o airplane/o substantially/o efficient/o Conservatives/o LSB-LSB-A319/o RSB-RSB-<ref-name=-nationalpostfuel->-LCB-LCB-news/o nationalpost-com-html-id=776106/o Liberal/o campaign/o jet/o attack/o 12/TIME 2008/TIME 8/TIME 2008/TIME LSB-National/ORG Post/ORG RSB-RSB-RCB-RCB-
+
+Tories/o previously/o criticized/o backing/o Canada/LOC commitments/o LSB-LSB-Protocol/o RSB-RSB-<ref-name=-slate-canada->-LCB-LCB-news/o slate-com-Matter/o Canada/LOC 12/TIME 2008/TIME LSB-LRB-RRB-RSB-RSB-12/TIME 2008/TIME RCB-RCB-plan/o requires/o industries/o reduce/o rate/o generate/o LSB-LSB-gases/o RSB-RSB-goal/o reducing/o overall/o emissions/o 45/o 65/PERCENT percent/PERCENT 2050/TIME <ref-name=-cbc-cleanair->-LCB-LCB-news/o cbc-ca-act-bill/o aimed/o cutting/o greenhouse/o gases/o half/o 2050/TIME News/ORG 9/TIME 2006/TIME 13/TIME 2008/TIME RCB-RCB-plan/o criticized/o groups/o LSB-LSB-Club/ORG RSB-RSB-called/o inadequate/o <ref-name=-Sierra-Club-Report-Card->-LCB-LCB-news/o 
+-tops/o Tories/o flops/o Sierra/ORG Club/ORG climate-change/o report/o card/o 
+-cbc-ca-
+-LSB-News/ORG RSB-RSB-
+-5/TIME 2008/TIME 
+-7/TIME 2008/TIME RCB-RCB-Criticism/o focused/o based/o targets/o emission/o reductions/o relative/o overall/o production/o overall/o emissions/o potentially/o increase/o production/o increases/o cleanair/o contrast/o cap/o emissions/o overall/o amount/o increase/o Conservatives/o plan/o includes/o hard/o cap/o 2020/TIME 2025/TIME cleanair/o environmental/o groups/o advocated/o immediate/o hard/o cap/o <ref-name=-cbc-cleanair--Club/o Report/o Card/o 
+
+Liberals/o developed/o LSB-LSB-Shift/o RSB-RSB-plan/o creating/o LSB-LSB-tax/o RSB-RSB-coupled/o reductions/o LSB-LSB-tax/o RSB-RSB-rates/o proposal/o tax/o greenhouse/o gas/o emissions/o starting/o  $10/MONEY LRB-RRB-ton/o CO2/o reaching/o  $40/MONEY LRB-RRB-ton/o years/o plan/o engage/o revenue/o recycling/o matching/o tax/o reductions/o income/o tax/o <ref>Jones/o Nicola/PER issues/o dominate/o election/o Climate/o change/o high/o Canadian/o agenda/o Nature/o September/TIME 17/TIME Criticism/o Green/ORG Shift/ORG plan/o focused/o its/o economic/o effects/o Conservatives/o predicting/o cause/o recession/o <ref-name=-cpcarbontax->-LCB-LCB-news/o google-com-carbon/o tax/o threatens/o national/o unity/o economy/o Harper/PER LSB-Press/ORG RSB-RSB-12/TIME 2008/TIME 12/TIME 2008/TIME RCB-RCB-LCB-LCB-RCB-RCB-pressed/o reporters/o provide/o evidence/o impact/o Harper/PER able/o cite/o study/o specifically/o modelled/o impact/o Liberal/o Green/o Shift/o plan/o <ref-name=-greenshiftrecession->-LCB-LCB-news/o 
+theglobeandmail-com-20080911-welxnharper0911-
+threat/o based/o old/o numbers/o 
+LSB-Globe/ORG Mail/o RSB-RSB-
+11/TIME 2008/TIME 
+2/TIME 2008/TIME 
+
+RCB-RCB-LCB-LCB-RCB-RCB-citing/o older/o economic/o model/o implementation/o Kyoto/o Protocol/o 
+
+LSB-LSB-RSB-RSB-association/o claimed/o Liberal/o carbon/o tax/o plan/o put/o 10,000/o jobs/o jeopardy/o Moncton/LOC alone/o <ref-name=-canadaeast-truckers->-LCB-LCB-news/o canadaeast-com-director/o says/o Liberal/o proposal/o jeopardizes/o 10,000/o Hub/LOC City/LOC jobs/o cost/o industry/o another/o  $500M/MONEY year/o News/ORG Service/ORG 8/TIME 2008/TIME 12/TIME 2008/TIME RCB-RCB-Environmental/o activist/o LSB-LSB-Suzuki/PER RSB-RSB-come/o support/o Dion/ORG plan/o saying/o oppose/o LSB-carbon/o tax/o plan/o RSB-just/o nonsense/o certainly/o way/o got/o name=-Suzuki-For-Dion->-LCB-LCB-news/o 
+http-ctv-ca-liberals-080518-s-name=-no-ads=/o slams/o NDP/ORG Tories/ORG backs/o Dion/PER carbon/o tax/o LSB-Press/ORG RSB-RSB-18/TIME 2008/TIME 12/TIME 2008/TIME RCB-RCB-giving/o interview/o explaining/o why/o effective/o way/o solve/o environmental/o crisis/o <ref-name=-cbc-Suzuki-explains-carbon-tax->-LCB-LCB-news/o 
+http-cbc-ca-suzuki-carbontax-Suzuki/PER explains/o why/o thinks/o carbon/o tax/o way/o LSB-Broadcasting/ORG Corporation/ORG RSB-RSB-1/TIME 2008/TIME 2/TIME 2008/TIME RCB-RCB-LCB-LCB-RCB-RCB-
+
+NDP/ORG plan/o environment/o focused/o LSB-LSB-trading/o RSB-RSB-claiming/o system/o decrease/o greenhouse/o emissions/o 80/PERCENT 2050/TIME <ref-name=-tostar-ndp-environment->-LCB-LCB-news/o thestar-com-hypes/o green/o strategy/o LSB-Toronto/LOC Star/o RSB-RSB-12/TIME 2008/TIME 13/TIME 2008/TIME RCB-RCB-plan/o includes/o series/o financial/o incentives/o retrofit/o LSB-LSB-transit/o RSB-RSB-systems/o transition/o economy/o LSB-LSB-collar/o collar/o RSB-RSB-plan/o halt/o LSB-LSB-Oil/LOC sands/o RSB-RSB-development/o emissions/o capped/o <ref-name=-np-ndp-environment->-LCB-LCB-news/o nationalpost-com-calls-for-80-greenhouse-gas-emission-reduction-by-2050-aspx/o lays/o NDP/ORG environment/o platform/o LSB-LSB-Post/o RSB-RSB-11/TIME 2008/TIME 13/TIME 2008/TIME RCB-RCB-Layton/PER criticized/o Liberal/o carbon/o tax/o plan/o stating/o taxes/o families/o polluters/o <ref-name=-ctv-layton-carbon->-LCB-LCB-news/o ctv-ca-2-080911-s-name=election2008/o calls/o Liberal/o carbon/o tax/o LSB-Press/ORG RSB-RSB-11/TIME 2008/TIME 13/TIME 2008/TIME RCB-RCB-
+
+
+-LCB-LCB-Conservative/o RCB-RCB-
+-LSB-LSB-Williams/PER LRB-RRB-Williams/PER RSB-RSB-LSB-LSB-Conservative/o Party/o Newfoundland/LOC Conservative/o RSB-RSB-premier/o LSB-LSB-Labrador/o RSB-RSB-launched/o campaign/o called/o LSB-LSB-Conservative/o RSB-RSB-primarily/o targeted/o Harper/PER federal/o Conservatives/o opposes/o Conservative/o majority/o due/o part/o Harper/PER promise/o during/o 2006/TIME election/o modify/o LSB-LSB-RSB-RSB-formula/o fully/o share/o offshore/o oil/o revenues/o province/o Williams/ORG says/o Harper/PER broken/o Harper/PER stated/o majority/o government/o <ref-name=-gam-Harper--Canada-more-Conservative->-LCB-LCB-news/o Canada/LOC conservative/o country/o theglobeandmail-com-20080913-wconservative0913-=/o LSB-LSB-Mail/o RSB-RSB-13/TIME 2008/TIME 3/TIME 2008/TIME Globe/ORG Mail/o RCB-RCB-Accordingly/o member/o provincial/o PC/o caucus/o supported/o voting/o Conservative/o election/o LCB-LCB-2008/TIME RCB-RCB-
+
+Leo/PER Power/PER veteran/o federal/o politics/o Conservative/o Party/o Canada/LOC campaign/o co-chair/o Newfoundland/LOC Labrador/o said/o raising/o money/o recruiting/o volunteers/o proved/o difficult/o blames/o Williams/ORG ABC/ORG campaign/o saying/o cut/o deep/o federal/o election/o machine/o struggling/o compete/o Power/o said/o party/o best/o hope/o winning/o seat/o province/o riding/o LSB-LSB-LRB-district/o RRB-RSB-RSB-incumbent/o candidate/o LSB-LSB-Manning/PER RSB-RSB-<ref-name=-cbc-Tory-org-Blames-ABC->-LCB-LCB-news/o organizer/o blames/o ABC/ORG campaign/o party/o woes/o cbc-ca-labrador-abc-=/o LSB-LSB-Broadcasting/ORG Corporation/ORG RSB-RSB-3/TIME 2008/TIME 3/TIME 2008/TIME News/ORG RCB-RCB-Manning/PER defeated/o Liberal/o LSB-LSB-Andrews/PER LRB-RRB-Andrews/PER RSB-RSB-LSB-LSB-RGANIZATION-John/ORG East/ORG RSB-RSB-LSB-LSB-RGANIZATION-John/ORG South/o Pearl/LOC RSB-RSB-represented/o Conservatives/o running/o re-election/o NDP/ORG Liberals/o respectively/o leaving/o Conservatives/o representatives/o Newfoundland/LOC Labrador/o 
+
+
+Since/o before/o election/o announced/o Conservative/o party/o ran/o attack/o ads/o Dion/PER saying/o capable/o leader/o Dion/o criticized/o Conservatives/o running/o ads/o <ref>-LSB-cbc-ca-dion-launch/o attack/o ads/o aimed/o Dion/o RSB-LSB-LSB-RSB-RSB-January/TIME 29/TIME 2007/TIME </ref> 
+
+October/TIME 9/TIME Stephen/PER Harper/PER called/o question/o abilities/o Liberal/o leader/o Dion/PER footage/o false/o starts/o interview/o LSB-LSB-Atlantic/LOC RSB-RSB-rebroadcast/o LSB-LSB-Duffy/PER Live/o RSB-RSB-aired/o public/o criticized/o Dion/PER grasp/o English/o language/o strength/o Liberals/o plan/o Canadian/o economy/o 
+
+footage/o shows/o interviewer/o LSB-LSB-Murphy/PER LRB-news/o anchor/o RRB-Murphy/PER RSB-RSB-asking/o Dion/PER question/o Prime/o Minister/o done/o economy/o crisis/o Mr-Harper/PER done/o Dion/o difficulty/o understanding/o question/o repeatedly/o asking/o Murphy/PER clarify/o meant/o Dion/PER Prime/o Minister/o Tuesday/TIME election/o day/o week/TIME month/o 60/o weeks/o ago/o half/TIME years/TIME ago/TIME Eventually/o start/o overs/o interview/o Dion/PER responded/o elected/o Prime/o Minister/o future/o CTV/o initially/o agreed/o restart/o interviews/o air/o false/o starts/o changed/o minds/o announced/o felt/o responsibility/o show/o <ref>-LCB-LCB-nationalpost-com-dion-responds-to-interview-gaffe-it-was-difficult-to-understand-and-harper-has-no-class-Dion/PER responds/o interview/o gaffe/o understand/o Harper/PER class/o 10/TIME 12/TIME 2008/TIME RCB-RCB-Harper/PER responded/o clips/o saying/o running/o trillion-and-a-half-dollar/o economy/o chance/o do-overs/o incident/o actually/o indicates/o very/o clearly/o Mr-Dion/PER Liberal/ORG Party/ORG really/o know/o economy/o told/o difficulties/o part/o due/o English/o being/o Dion/PER second/o language/o Harper/PER said/o think/o question/o language/o question/o very/o clear/o asked/o repeatedly/o <ref>-LCB-LCB-nationalpost-com-st-233-phane-dion-s-finest-hour-aspx/o Stéphane/PER Dion/PER finest/o hour/o Full/o Comment/o |/Opublisher=Network nationalpost-16/TIME 2008/TIME RCB-RCB-LCB-LCB-thestar-com-|/Otitle=TheStar 124-Federal/o Election/o 124-Tories/o show/o video/o play/o Dion/PER language/o difficulties/o |/Opublisher=Thestar October/TIME 9/TIME 16/TIME 2008/TIME RCB-RCB-LCB-LCB-cbc-ca-ctv-Canada/LOC Votes/LOC Conservatives/o jump/o Dion/PER interview/o News/o October/TIME 9/TIME 16/TIME 2008/TIME RCB-RCB-LCB-LCB-theglobeandmail-com-20081009-welxndionatv1009-cid=al-gam-mostview/o theglobeandmail-com-Liberals/o slam/o Tories/o 8216-attacking/o Dion/PER |/Opublisher=Theglobeandmail Thanh/ORG Ha/ORG Jane/PER Taber/PER Steven/PER Chase/PER 16/TIME 2008/TIME RCB-RCB-
+
+-LSB-LSB-Dunn/PER RSB-RSB-spokesman/o Dion/ORG accused/o Tories/o making/o fun/o Liberal/o leader/o hearing/o issues/o Dion/o responded/o Harper/PER comments/o saying/o Harper/PER class/o saying/o understand/o question/o because/o hearing/o problem/o maybe/o because/o LSB-RSB-second/o language/o understand/o question/o <ref-name=-cbc-Dion-Strikes-Back->-LCB-LCB-=/o http-cbc-ca-invu-=/o Dion/PER strikes/o back/o Harper/PER criticisms/o leadership/o =/o October/TIME 10/TIME =/o LSB-LSB-Broadcasting/ORG Corporation/ORG RSB-RSB-=/o 2008/TIME News/o RCB-RCB-LCB-LCB-RCB-RCB-Conservatives/o CTV/ORG come/o criticism/o handling/o footage/o stated/o stand/o actions/o <ref-name=-cbc-Dion-Strikes-Back--Duceppe/o called/o Harper/PER comments/o standard/o saying/o many/o English-speaking/o politicians/o little/o ability/o speak/o French/o francophones/o always/o expected/o perfect/o attack/o attempted/o blow/o Duceppe/PER took/o opportunity/o criticise/o Dion/PER suggesting/o understood/o question/o real/o question/o think/o Dion/PER understood/o question/o real/o problem/o language/o substance/o Duceppe/PER said/o nothing/o say/o Harper/PER Double/o Standards/o Duceppe/o LCB-LCB-=/o http-cbc-ca-dion-=/o Harper/PER criticism/o Dion/PER interview/o standard/o Duceppe/PER =/o October/TIME 10/TIME =/o LSB-LSB-Broadcasting/ORG Corporation/ORG RSB-RSB-=/o 2008/TIME News/o RCB-RCB-LCB-LCB-RCB-RCB-Layton/PER defended/o Dion/PER saying/o questions/o Harper/PER Double/o Standards/o Duceppe/o 
+
+Prime/o Minister/o LSB-LSB-Chrétien/PER RSB-RSB-come/o criticizing/o Harper/PER leadership/o abilities/o noting/o especially/o Harper/PER controlling/o ways/o cabinet/o ministers/o saying/o quit/o prime/o minister/o LSB-LSB-Elliott/PER Trudeau/PER RSB-RSB-treated/o way/o Dion/PER minister/o years/o Mr-Harper/PER arrived/o experience/o shows/o phrase/o times/o bad/o times/o since/o 1930s/TIME true/o destroyed/o 50/o years/o relationships/o China/LOC Canada/LOC second/o biggest/o trading/o partner/o noting/o past/o Liberal/o Progressive/o Conservative/o governments/o sought/o maintain/o its/o dealings/o key/o trading/o partner/o Prime/o Minister/o LSB-LSB-Martin/PER RSB-RSB-supported/o Dion/PER plans/o abilities/o many/o noted/o Dion/PER ability/o Chrétien/PER Martin/PER support/o despite/o Chrétien/PER Martin/ORG ongoing/o feud/o times/o bad/o times/o Chrétien/o LCB-LCB-=/o http-cbc-ca-dion-=/o times/o bad/o times/o Chrétien/o =/o October/TIME 10/TIME =/o LSB-LSB-Broadcasting/ORG Corporation/ORG RSB-RSB-=/o 2008/TIME News/o RCB-RCB-LCB-LCB-RCB-RCB-
+
+
+-LCB-LCB-Canadian/o listeriosis/o outbreak/o RCB-RCB-
+LSB-LSB-Agriculture/o LRB-RRB-Agriculture/o RSB-RSB-LSB-LSB-Ritz/PER RSB-RSB-already/o criticized/o Canada/LOC food/o scientists/o handling/o LSB-LSB-Canadian/o listeriosis/o listeriosis/o outbreak/o RSB-RSB-<ref-name=-CBC-Food-Union-against-Ritz->-LCB-LCB-news/o 
+-scientists/o union/o joins/o opposition/o calls/o Ritz/ORG firing/o 
+-cbc-ca-listeriosis-
+-LSB-News/ORG RSB-RSB-
+-20/TIME 2008/TIME 
+-20/TIME 2008/TIME 
+-RCB-RCB-LCB-LCB-RCB-RCB-criticized/o making/o inappropriate/o comments/o angering/o families/o affected/o LCB-LCB-2008/TIME RCB-RCB-Ritz/o joked/o outbreak/o conference/o call/o scientists/o political/o staffers/o August/TIME 30/TIME saying/o political/o fallout/o outbreak/o death/o cuts/o say/o cold/o cuts/o addition/o informed/o listeriosis-related/o death/o LSB-LSB-Edward/LOC Island/LOC RSB-RSB-quipped/o tell/o LSB-agriculture/o critic/o RSB-LSB-LSB-Easter/PER RSB-RSB-Despite/o calls/o Ritz/ORG resignation/o parties/o public/o Stephen/PER Harper/PER supported/o Ritz/o rebuffed/o calls/o resignation/o <ref-name=-Families-angry-about-Ritz->-LCB-LCB-news/o 
+-angry/o Ritz/o listeriosis/o jokes/o 
+-cbc-ca-families-
+-LSB-News/ORG RSB-RSB-
+-18/TIME 2008/TIME 
+-19/TIME 2008/TIME RCB-RCB-
+
+LSB-LSB-Service/ORG Alliance/ORG Canada/ORG RSB-RSB-revealed/o media/o Conservative/o party/o plans/o cut/o federal/o funding/o meat/o inspection/o programs/o  $3/MONEY effectively/o ending/o operation/o Manitoba/LOC Saskatchewan/LOC British/ORG Columbia/ORG <ref-name=-Conservatives-pull-meat-inspection->-LCB-LCB-news/o 
+-pull/o provincial/o meat/o inspection/o programs/o elected/o union/o 
+-cbc-ca-inspection-
+-LSB-News/ORG RSB-RSB-
+-19/TIME 2008/TIME 
+-19/TIME 2008/TIME RCB-RCB-
+
+
+September/TIME 30/TIME revealed/o LSB-LSB-Rae/PER RSB-RSB-Liberal/o Party/o March/TIME 20/TIME 2003/TIME Stephen/PER Harper/PER LSB-LSB-RSB-RSB-speech/o called/o troops/o LSB-LSB-invasion/o Iraq/ORG assist/o invasion/o RSB-RSB-Australian/o Prime/o Minister/o LSB-LSB-Howard/PER RSB-RSB-Howard/ORG delivered/o days/o before/o March/TIME 18/TIME <ref-name=-cbc-Harper-plagiarizes-speech-on-Iraq->-LCB-LCB-news/o 
+-accuse/o Harper/PER plagiarizing/o speech/o Iraq/ORG 
+-cbc-ca-harper-
+-LSB-News/ORG RSB-RSB-
+-30/TIME 2008/TIME 
+-30/TIME 2008/TIME 
+-RCB-RCB-LCB-LCB-RCB-RCB-
+
+Following/o Rae/PER statement/o Harper/PER spokesman/o LSB-LSB-Teneycke/PER RSB-RSB-dismissed/o issue/o irrelevant/o saying/o going/o debate/o five-year-old/o speech/o delivered/o Parliaments/o ago/o elections/o ago/o prime/o minister/o leader/o party/o longer/o exists/o <ref-name=-cbc-Harper-plagiarizes-speech-on-Iraq--
+
+Canadian/ORG Alliance/ORG staff/o member/o LSB-LSB-Institute/ORG RSB-RSB-policy/o analyst/o Owen/PER Lippert/PER wrote/o speech/o working/o current/o election/o campaign/o Conservative/o campaign/o headquarters/o September/TIME 30/TIME 2008/TIME issued/o statement/o resigned/o result/o incident/o <ref-name=-CBCplagiarize->-LCB-LCB-=/o http-cbc-ca-harper-=/o Harper/PER staffer/o quits/o plagiarized/o 2003/TIME speech/o =/o October/TIME 2/TIME =/o LSB-LSB-Broadcasting/ORG RSB-RSB-=/o 2008/TIME News/o RCB-RCB-LCB-LCB-RCB-RCB-
+
+stated/o 
+-LCB-LCB-time/o overzealous/o copying/o segments/o another/o world/o leader/o speech/o superiors/o Office/o Leader/o Opposition/o leader/o Opposition/o aware/o done/o <ref-name=-CBCplagiarize--RCB-RCB-
+
+October/TIME 3/TIME second/o plagiarism/o allegation/o Liberals/o said/o Harper/PER copied/o several/o sentences/o speech/o Ontario/LOC premier/o LSB-LSB-Harris/PER RSB-RSB-Harper/PER denied/o allegation/o saying/o talking/o couple/o sentences/o fairly/o standard/o political/o rhetoric/o <ref>-LSB-cbc-ca-plagiarism-Harper/PER denies/o latest/o allegations/o speech/o plagiarism/o RSB-News/o October/TIME 4/TIME 2008/TIME </ref> 
+
+October/TIME 6/TIME Conservatives/o contended/o Dion/PER committed/o plagiarism/o Minister/o Environment/o 2005/TIME went/o LSB-LSB-Nations/ORG RSB-RSB-conference/o climate/o change/o deliver/o speech/o substantial/o similarities/o executive/o summary/o year/o old/o UN/o report/o Liberal/o party/o respond/o plagiarism/o allegation/o <ref>-LCB-LCB-thestar-com-|/Otitle=TheStar Tories/o accuse/o Dion/PER plagiarism/o |/Opublisher=Thestar October/TIME 8/TIME 16/TIME 2008/TIME RCB-RCB-LCB-LCB-citynews-ca-27724-aspx/o Turnaround/o Tories/ORG Claim/ORG Stéphane/ORG Dion/ORG Plagiarized/ORG Someone/ORG Else/ORG Speech/o Staff/o 7/TIME 2008/TIME 16/TIME 2008/TIME RCB-RCB-
+
+
+
+
+
+
+Chris/PER Reid/PER Conservative/o candidate/o LSB-LSB-Centre/ORG RSB-RSB-resigned/o controversial/o statements/o blog/o advocated/o revising/o Canadian/o LSB-LSB-control/o RSB-RSB-legislation/o legalize/o LSB-LSB-carriage/o RSB-RSB-handguns/o <ref>-LCB-LCB-thestar-com-|/Otitle=TheStar |/Opublisher=TheStar 09-23/o 02-02/o RCB-RCB-replaced/o David/PER Gentili/PER 
+
+Conservatives/o apologized/o aide/o LSB-LSB-LRB-district/o RRB-RSB-RSB-candidate/o LSB-LSB-Cannon/ORG RSB-RSB-told/o LSB-LSB-peoples/o RSB-RSB-protesters/o meet/o Cannon/o behave/o sober/o problems/o sit/o whatever/o <ref>-LCB-LCB-news/o =/o Curry/o =/o Bill/o title/o =/o Tories/o apologize/o remark/o aboriginal/o protester/o publisher/o =/o LSB-LSB-Globe/ORG Mail/o RSB-RSB-date/o =/o September/TIME 18/TIME 2008/TIME url/o =/o http-theglobeandmail-com-20080918-welxncanapolgy0918-accessdate/o =/o November/TIME 28/TIME 2008/TIME RCB-RCB-
+
+
+Liberal/o candidate/o Simon/PER Bédard/PER asked/o resign/o reiterated/o 1990/TIME comments/o suggesting/o lethal/o force/o used/o LSB-LSB-Crisis/o RSB-RSB-<ref>-LCB-LCB-canada-com-html-id=e8e54944-b517-4728-b263-219b3787d619/o Citizen/o |/Opublisher=Canada 09-12/o 02-02/o RCB-RCB-LCB-LCB-canada-com-html-id=cdbe8c09-5c11-402f-9817-c321c4ff75a8/o |/Otitle=Canada |/Opublisher=Canada 09-11/o 02-02/o RCB-RCB-
+
+Liberal/o candidate/o Lesley/PER Hughes/PER dropped/o Liberal/ORG Party/ORG making/o controversial/o comments/o LSB-LSB-11/TIME 2001/TIME attacks/o RSB-RSB-continued/o campaign/o independent/o appeared/o Liberal/o ballot/o <ref>-LSB-winnipegsun-com-Winnipeg/ORG Sun/ORG RSB-LCB-LCB-2012/TIME RCB-RCB-
+
+
+Andrew/PER McKeever/PER NDP/ORG candidate/o LSB-LSB-LRB-district/o RRB-RSB-RSB-announced/o October/TIME 3/TIME resign/o election/o campaign/o revealed/o posted/o comments/o LSB-LSB-RSB-RSB-called/o war/o activist/o bitch/o threatened/o beat/o another/o person/o Mr-McKeever/PER wrote/o comments/o peppered/o expletives/o calling/o operators/o war/o resister/o website/o McKeever/PER quoted/o saying/o part/o List/o guard/o starts/o waxing/o prisoners/o McKeever/PER decision/o drop/o race/o came/o just/o week/o left/o campaign/o meaning/o remain/o ballot/o week/o before/o publication/o McKeever/PER resignation/o NDP/ORG leader/o Jack/PER Layton/PER defended/o McKeever/PER refused/o step/o 
+
+-LSB-LSB-West/PER LRB-RRB-West/PER RSB-RSB-candidate/o riding/o LSB-LSB-Islands/ORG RSB-RSB-dropped/o race/o details/o surfaced/o environmental/o event/o attended/o 12/o years/o ago/o went/o skinny-dipping/o asked/o teenagers/o body-paint/o candidates/o British/LOC Columbia/LOC proponents/o marijuana/o decriminalization/o nbsp-LSB-LSB-Larsen/PER RSB-RSB-Kirk/PER Tousaw/PER nbsp-resigned/o earlier/o videos/o produced/o Internet/o Pot-released/o media/o videos/o filmed/o 2000/TIME showed/o Mr-Larsen/PER leader/o LSB-LSB-Marijuana/ORG Party/ORG RSB-RSB-preparing/o light/o joint/o before/o driving/o car/o having/o taken/o short-acting/o hallucinogenic/o drug/o DMT/ORG earlier/o evening/time <ref>-LSB-nationalpost-com-flame-war-forces-ndp-candidate-to-resign-aspx/o National/ORG Post/ORG RSB-LCB-LCB-2012/TIME RCB-RCB-tv-net-403-
+
+
+John/PER Shavluk/PER Green/ORG candidate/o LSB-LSB-Delta/LOC RSB-RSB-removed/o party/o slate/o candidates/o September/TIME 4/TIME just/o before/o election/o call/o revealed/o previously/o published/o comments/o blog/o LSB-LSB-11/TIME attacks/o RSB-RSB-2001/TIME referred/o LSB-LSB-Trade/o Center/o RSB-RSB-shoddily/o built/o Jewish/o world/o bank/o headquarters/o <ref>-LCB-LCB-May/TIME John/ORG Shavluk/ORG Story/ORG LCB-LCB-RCB-RCB-Unambiguously/o com-may-and-the-john-shavluk-story-April/TIME 2013/TIME RCB-RCB-replaced/o Liz/PER Walker/PER Green/ORG Party/ORG candidate/o remained/o ballot/o independent/o 
+
+
+all-candidates/o debate/o staged/o high/o school/o student/o audience/o LSB-LSB-LRB-district/o RRB-RSB-RSB-September/TIME 29/TIME independent/o candidate/o LSB-LSB-Popescu/PER LRB-RRB-Popescu/PER RSB-RSB-responded/o question/o same-sex/o marriage/o stating/o executed/o remarks/o widely/o criticized/o Canada/LOC LSB-LSB-Sudbury/ORG Police/ORG Service/ORG RSB-RSB-announced/o investigation/o comments/o constituted/o crime/o Canadian/o LSB-LSB-speech/o RSB-RSB-legislation/o LSB-canada-com-html-id=015205ac-a93c-4239-8e4f-abbc1d6bb836/o Sudbury/LOC police/o investigate/o independent/o candidate/o gay/o comments/o RSB-Canwest/ORG News/ORG Service/ORG October/TIME 1/TIME 2008/TIME </ref> subsequently/o investigated/o LSB-LSB-Police/ORG RSB-RSB-radio/o interview/o October/TIME 2/TIME specifically/o advocated/o execution/o LSB-LSB-Canada/ORG RSB-RSB-executive/o director/o LSB-LSB-Kennedy/PER RSB-RSB-<ref>-LSB-ctv-ca-remarks-081007-hub=TorontoNewHome/o candidate/o probed/o second/o anti-gay/o remark/o RSB-LSB-LSB-Television/o RSB-RSB-October/TIME 8/TIME 2008/TIME </ref> 
+
+
+Supporters/o Ontario/LOC Liberal/o MPs/o LSB-LSB-Bennett/PER RSB-RSB-LRB-LSB-LSB-RGANIZATION-Paul/ORG LRB-district/o RRB-Paul/PER RSB-RSB-RRB-LSB-LSB-Kennedy/PER RSB-RSB-LRB-LSB-LSB-Park/o RSB-RSB-RRB-Liberal/o signs/o outside/o houses/o subject/o LSB-LSB-RSB-RSB-during/o hours/o October/TIME 3/TIME including/o graffiti/o phone/o cable/o lines/o being/o cut/o damage/o vehicles/o included/o brake/o cutting/o Toronto/LOC police/o reported/o 30/o incidents/o vandalism/o October/TIME 6/TIME <ref>-LSB-cbc-ca-highpark-cars/o damaged/o election/o vandalism/o spreads/o Toronto/LOC RSB-LSB-LSB-RSB-RSB-October/TIME 6/TIME victims/o realize/o brakes/o cut/o traffic/o near-accident/o <ref>-LSB-theglobeandmail-com-20081006-ELECTIONVANDALS6-Vandals/o target/o Toronto/LOC Liberals/o LSB-LSB-Globe/o Mail/o RSB-RSB-October/TIME 6/TIME 2008/TIME RSB-Liberal/o Senator/o LSB-LSB-Grafstein/PER RSB-RSB-residents/o reported/o vandalism/o car/o <ref-name=-grafstein->-LSB-thestar-com-senator/o Cadillac/o damaged/o RSB-LSB-LSB-Star/o RSB-RSB-October/TIME 11/TIME 2008/TIME </ref> 
+
+Vandalism/o reported/o campaign/o offices/o Trinity/LOC Liberal/LOC candidate/o LSB-LSB-Innes/PER RSB-RSB-Beaches/o York/LOC LSB-LSB-Democratic/o Party/o LRB-RRB-Democratic/o Party/o RSB-RSB-candidate/o LSB-LSB-Churley/PER RSB-RSB-Niagara/LOC Falls/LOC <ref-name=-Niagara-Falls-Review->-LSB-niagarafallsreview-ca-aspx-e=1237572/o Police/o confirm/o reports/o brakes/o damage/o RSB-Niagara/ORG Falls/ORG Review/ORG October/TIME 8/TIME 2008/TIME </ref> 
+
+
+
+election/o called/o LSB-LSB-Watch/o LRB-RRB-Watch/o RSB-RSB-Ottawa-based/o advocacy/o group/o filed/o legal/o suit/o claiming/o election/o call/o illegal/O<ref> LCB-LCB-thestar-com-rule/o 2008/TIME Harper/o election/o call/o legal/o Star/o 8/TIME 2009/TIME 28/TIME 2010/TIME RCB-RCB-because/o violated/o 2007/TIME amendments/o LSB-LSB-Elections/o Act/o RSB-RSB-amendments/o introduced/o Harper/PER government/o set/o fixed/o dates/o elections/o fulfilled/o 2006/TIME promise/o Harper/PER Prime/o Minister/o ability/o call/o snap/o elections/o 
+
+September/TIME 17/TIME 2009/TIME LSB-LSB-Court/ORG Canada/ORG RSB-RSB-ruled/o election/o unfair/o therefore/o illegal/o Democracy/o Watch/o appeal/o Federal/ORG Court/ORG Appeal/ORG dismissed/o Supreme/ORG Court/ORG denied/o leave/o hear/o appeal/o <ref>-LCB-LCB-news/o Court/ORG weigh/o Harper/PER fixed-election/o case/o thestar-com-supreme-court-will-not-weigh-in-on-harper-fixed-election-case/o Canadian/o Press/o Toronto/LOC Star/o 20/TIME 2011/TIME 12/TIME 2011/TIME RCB-RCB-
+
+
+following/o list/o ridings/o narrowly/o lost/o indicated/o party/o 2006/TIME election/o instance/o Liberal/o column/o 15/o seats/o came/o closest/o winning/o Listed/o riding/o followed/o party/o victorious/o LRB-parentheses/o RRB-margin/o terms/o percentage/o vote/o party/o lost/o 
+
+ridings/o targeted/o specified/o party/o because/o party/o lost/o very/o slim/o margin/o 2006/TIME election/o 
+
+15/o shown/o maximum/o margin/o victory/o 15/PERCENT 
+
+<nowiki>-Indicates/o incumbent/o running/o clarify/o list/o federal/o election/o winners/o party/o parentheses/o margin/o percentage/o vote/o party/o list/o seat/o LRB-margin/o victory/o party/o potentially/o seat/o list/o finish/o second/o previous/o election/o RRB-means/o targeting/o party/o seat/o incumbent/o party/o means/o incumbent/o party/o held/o seat/o 
+
+-LCB-
+|/o 
+-LSB-LSB-Party/o RSB-RSB-
+-LSB-LSB-Party/ORG RSB-RSB-
+|/o 
+|/o 
+-LSB-LSB-River/LOC RSB-RSB-LRB-RRB-0.3/PERCENT LRB-RRB-
+-LSB-LSB-LRB-district/o RRB-RSB-RSB-LRB-RRB-0.9/PERCENT LRB-RRB-
+-LSB-LSB-Nova/LOC RSB-RSB-NS/o LRB-RRB-1.1/PERCENT LRB-RRB-
+-LSB-LSB-Island/LOC North/LOC RSB-RSB-BC/o LRB-RRB-1.1/PERCENT LRB-RRB-
+-LSB-LSB-LRB-district/o RRB-RSB-RSB-LRB-RRB-1.3/PERCENT LRB-RRB-
+-LSB-LSB-Vancouver/LOC Coast/ORG Sky/o Country/o RSB-RSB-BC/o LRB-RRB-1.5/PERCENT LRB-RRB-
+-LSB-LSB-RSB-RSB-LRB-RRB-1.8/PERCENT LRB-RRB-
+-LSB-LSB-West/LOC RSB-RSB-LRB-RRB-2.2/PERCENT LRB-RRB-
+-LSB-LSB-RSB-RSB-NB/o LRB-RRB-2.4/PERCENT LRB-RRB-
+-LSB-LSB-Delta/ORG RSB-RSB-BC/o LRB-RRB-3.6/PERCENT LRB-RRB-
+-LSB-LSB-Boniface/ORG LRB-district/o RRB-Boniface/o RSB-RSB-MB/o LRB-RRB-3.6/PERCENT LRB-RRB-
+-LSB-LSB-John/ORG LRB-district/o RRB-John/PER RSB-RSB-NB/o LRB-RRB-3.6/PERCENT LRB-RRB-
+-LSB-LSB-South/LOC RSB-RSB-LRB-RRB-4.1/PERCENT LRB-RRB-
+-LSB-LSB-LRB-Columbia/ORG federal/o electoral/o district/o RRB-RSB-RSB-BC/o LRB-RRB-4.1/PERCENT LRB-RRB-
+-LSB-LSB-George/LOC RSB-RSB-LRB-RRB-4.7/PERCENT LRB-RRB-
+|/o 
+-LSB-LSB-Sound/ORG RSB-RSB-LRB-RRB-LRB-RRB-
+-LSB-LSB-South/ORG RSB-RSB-MB/o LRB-RRB-0.3/PERCENT LRB-RRB-
+-LSB-LSB-RSB-RSB-LRB-RRB-0.4/PERCENT LRB-RRB-
+-LSB-LSB-RSB-RSB-NB/o LRB-RRB-0.9/PERCENT LRB-RRB-
+-LSB-LSB-RGANIZATION-Catharines/ORG LRB-district/o RRB-Catharines/LOC RSB-RSB-LRB-RRB-1.1/PERCENT LRB-RRB-
+-LSB-LSB-LRB-district/o RRB-RSB-RSB-QC/o LRB-RRB-1.7/PERCENT LRB-RRB-
+-LSB-LSB-Kells/PER RSB-RSB-BC/o LRB-RRB-1.9/PERCENT LRB-RRB-
+-LSB-LSB-RSB-RSB-LRB-RRB-1.9/PERCENT LRB-RRB-
+-LSB-LSB-RSB-RSB-LRB-RRB-2.0/PERCENT LRB-RRB-
+-LSB-LSB-North/ORG RSB-RSB-LRB-RRB-2.0/PERCENT LRB-RRB-
+-LSB-LSB-Prairie/o RSB-RSB-QC/o LRB-RRB-2.2/PERCENT LRB-RRB-
+-LSB-LSB-LRB-district/o RRB-RSB-RSB-QC/o LRB-RRB-2.2/PERCENT LRB-RRB-
+-LSB-LSB-RSB-RSB-BC/o LRB-RRB-2.6/PERCENT LRB-RRB-
+-LSB-LSB-LRB-district/o RRB-RSB-RSB-LRB-RRB-2.7/PERCENT LRB-RRB-
+-LSB-LSB-RSB-RSB-LRB-RRB-2.7/PERCENT LRB-RRB-
+|/o 
+-LSB-LSB-Québécois/o RSB-RSB-
+-LSB-LSB-Democratic/o Party/o LRB-RRB-Democratic/o RSB-RSB-
+|/o 
+|/o 
+-LSB-LSB-Hébert/o LRB-district/o RRB-Hébert/o RSB-RSB-QC/o LRB-RRB-0.4/PERCENT LRB-RRB-
+-LSB-LSB-RSB-RSB-QC/o LRB-RRB-1.6/PERCENT LRB-RRB-
+-LSB-LSB-Saint-Charles/o RSB-RSB-QC/o LRB-RRB-2.7/PERCENT LRB-RRB-
+-LSB-LSB-RSB-RSB-QC/o LRB-RRB-3.3/PERCENT LRB-RRB-
+-LSB-LSB-Mercier/o LRB-district/o RRB-Mercier/o RSB-RSB-QC/o LRB-RRB-3.8/PERCENT LRB-RRB-
+-LSB-LSB-LRB-district/o RRB-RSB-RSB-QC/o LRB-RRB-5.0/PERCENT LRB-RRB-
+-LSB-LSB-Îles/o RSB-RSB-QC/o LRB-RRB-6.1/PERCENT LRB-RRB-
+-LSB-LSB-LRB-district/o RRB-RSB-RSB-QC/o LRB-RRB-6.3/PERCENT LRB-NDP/ORG RRB-
+-LSB-LSB-LRB-district/o RRB-RSB-RSB-QC/o LRB-RRB-11.4/PERCENT LRB-RRB-
+-LSB-LSB-RSB-RSB-QC/o LRB-RRB-12.8/PERCENT LRB-RRB-
+-LSB-LSB-Cartier/o RSB-RSB-QC/o LRB-RRB-13.9/PERCENT LRB-RRB-
+|/o 
+-LSB-LSB-Bay/o North/o RSB-RSB-LRB-RRB-1.0/PERCENT LRB-RRB-
+-LSB-LSB-Delta/ORG RSB-RSB-BC/o LRB-RRB-1.6/PERCENT LRB-RRB-
+-LSB-LSB-Bay/o River/LOC RSB-RSB-LRB-RRB-1.7/PERCENT LRB-RRB-
+-LSB-LSB-RSB-RSB-LRB-RRB-3.7/PERCENT LRB-RRB-
+-LSB-LSB-Belt/o RSB-RSB-LRB-RRB-4.6/PERCENT LRB-RRB-
+-LSB-LSB-Fuca/o RSB-RSB-BC/o LRB-RRB-4.6/PERCENT LRB-RRB-
+-LSB-LSB-LRB-district/o RRB-RSB-RSB-LRB-RRB-4.8/PERCENT LRB-RRB-
+-LSB-LSB-LRB-district/o RRB-RSB-RSB-LRB-RRB-5.2/PERCENT LRB-RRB-
+-LSB-LSB-Meadows/PER Ridge/LOC RSB-RSB-BC/o LRB-RRB-5.2/PERCENT LRB-RRB-
+-LSB-LSB-York/LOC RSB-RSB-LRB-RRB-5.4/PERCENT LRB-RRB-
+-LSB-LSB-LRB-district/o RRB-RSB-RSB-LRB-RRB-5.7/PERCENT LRB-Conservatives/o RRB-
+-LSB-LSB-RSB-RSB-LRB-RRB-6.5/PERCENT LRB-RRB-
+-LSB-LSB-Nova/o RSB-RSB-NS/o LRB-RRB-7.8/PERCENT LRB-RRB-
+-LSB-LSB-Shore/o Margaret/PER RSB-RSB-NS/o LRB-RRB-8.3/PERCENT LRB-RRB-
+-LSB-LSB-Kells/PER RSB-RSB-BC/o LRB-RRB-8.3/PERCENT LRB-RRB-
+|/o 
+-
+†/o Conservatives/O<ref> LCB-LCB-wikipedia-org-C3-A9-E2-80-94Missinippi-E2-80-94Churchill-River/o River/LOC Wikipedia/LOC encyclopedia/o |/Opublisher=En wikipedia-02-02/o RCB-RCB-intervening/o by-election/o 15/PERCENT margin/o Liberals/o <br>-
+‡/o incumbent/o become/o independent/o sitting/o Green/o time/o dissolution/o <br>-
+¹/o NDP/ORG intervening/o LSB-LSB-elections/o 39th/o Canadian/o Parliament/o election/o RSB-RSB-19/PERCENT margin/o Liberals/o 
+|/o RCB-
+-LSB-LSB-Byelection-LSB-LSB-sign/o RSB-RSB-major/o candidates/o decorate/o intersection/o during/o London/LOC North/LOC Centre/LOC by-election/o RSB-RSB-
+
+-LSB-LSB-Party/ORG Canada/ORG RSB-RSB-come/o 15/PERCENT winning/o any/o riding/o 2006/TIME election/o came/o 9.0/PERCENT short/o winning/o LSB-LSB-North/ORG Centre/ORG RSB-RSB-LRB-RRB-November/TIME 2006/TIME by-election/o 
+
+Cabinet/o 
+following/o Cabinet/o ministers/o elected/o margin/o 10/PERCENT 2006/TIME 
+-LSB-LSB-Clement/PER RSB-RSB-Health/o Federal/ORG Economic/ORG Initiative/ORG Northern/ORG Ontario/ORG 0.1/PERCENT Lib/o LSB-LSB-Sound/ORG RSB-RSB-
+-LSB-LSB-Cannon/ORG RSB-RSB-Transport/ORG Infrastructure/o Communities/o 5.0/PERCENT BQ/LOC LSB-LSB-LRB-district/o RRB-RSB-RSB-QC/o 
+-LSB-LSB-Flaherty/PER RSB-RSB-Finance/o 5.7/PERCENT Lib/o LSB-LSB-RSB-RSB-
+-LSB-LSB-Nicholson/PER RSB-RSB-Justice/o 5.9/PERCENT Lib/o LSB-LSB-Falls/ORG LRB-district/o RRB-Falls/o RSB-RSB-
+-LSB-LSB-MacKay/PER RSB-RSB-Defense/ORG Atlantic/LOC Opportunities/o 7.8/PERCENT NDP/ORG LSB-LSB-Nova/o RSB-RSB-NS/LOC 
+-LSB-LSB-Baird/PER LRB-politician/o RRB-Baird/PER RSB-RSB-Environment/o 9.0/PERCENT Lib/o LSB-LSB-West/LOC RSB-RSB-
+
+fall/o 
+
+-LCB-LCB-Canadian/o parliamentary/o dispute/o RCB-RCB-
+
+December/TIME 1/TIME 2008/TIME result/o opposition/o dissatisfaction/o government/o economic/o update/o LRB-failed/o include/o stimulus/o measures/o Canadian/o economy/o contend/o LSB-LSB-crisis/o crisis/o RSB-RSB-included/o pill/o regarding/o cessation/o public/o party/o financing/o RRB-leaders/o Liberal/ORG Party/ORG Democratic/ORG Party/ORG Bloc/o Québécois/o announced/o reached/o agreement/o approach/o LSB-LSB-General/o General/o RSB-RSB-purpose/o forming/o LSB-LSB-government/o RSB-RSB-Combined/o opposition/o parties/o constitute/o majority/o seats/o House/ORG Commons/ORG Parliament/o due/o vote/o LSB-LSB-no-confidence/o motion/o RSB-RSB-December/TIME 8/TIME successful/o Liberals/o NDP/ORG formally/o asked/o Governor/o General/o form/o coalition/o minority/o government/o 30/o months/o BQ/o pledged/o support/o 18/o months/o Liberal/o leader/o Stéphane/PER Dion/PER become/o prime/o minister/o selection/o successor/o Liberal/o leadership/o convention/o May/TIME 2009/TIME coalition/o LSB-LSB-RSB-RSB-comprised/o 18/o Liberal/o LRB-finance/o minister/o RRB-6/o NDP/ORG ministers/o Governor/o General/o LSB-LSB-Jean/o RSB-RSB-cut/o short/o LSB-LSB-visit/o RSB-RSB-LSB-LSB-RSB-RSB-light/o current/o political/o situation/o Canada/LOC <ref>-LCB-LCB-cbc-ca-talks-NDP/ORG Bloc/o sign/o deal/o proposed/o coalition/o News/ORG 1/TIME 2008/TIME RCB-RCB-
+December/TIME 4/TIME 2008/TIME Jean/o granted/o Harper/PER request/o LSB-LSB-RSB-RSB-Parliament/o January/TIME 26/TIME 2009/TIME thereby/o staving/o prospect/o imminent/o change/o government/o <ref>-LCB-LCB-cbc-ca-jean-agrees/o suspend/o Parliament/o Harper/PER LSB-Broadcasting/ORG RSB-RSB-4/TIME 4/TIME 2008/TIME RCB-RCB-
+
+
+-LSB-LSB-2008/OFederalElectionPolls Opinion/o Polls/o during/o election/o period/o RSB-RSB-
+-LCB-LCB-polling/o Canadian/o federal/o election/o 2008/TIME RCB-RCB-
+
+
+-LCB-LCB-endorsements/o Canadian/o federal/o election/o 2008/TIME RCB-RCB-
+
+
+-LSB-LSB-Québécois/o candidates/o 2008/TIME Canadian/o federal/o election/o RSB-RSB-
+-LSB-LSB-Heritage/ORG Party/ORG candidates/o 2008/TIME Canadian/o federal/o election/o RSB-RSB-
+-LSB-LSB-Party/o candidates/o 2008/TIME Canadian/o federal/o election/o RSB-RSB-
+-LSB-LSB-Party/ORG candidates/o 2008/TIME Canadian/o federal/o election/o RSB-RSB-
+-LSB-LSB-Party/o candidates/o 2008/TIME Canadian/o federal/o election/o RSB-RSB-
+-LSB-LSB-Democratic/o Party/o candidates/o 2008/TIME Canadian/o federal/o election/o RSB-RSB-
+
+changed/o 
+
+MPs/o running/o re-
+
+
+
+-LCB-40/PERCENT border-collapse/o 
+|/o 
+-District/ORG 
+-incumbent/o 
+-
+|/o 
+-
+-LSB-LSB-RGANIZATION-John/ORG East/ORG RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Doyle/PER RSB-RSB-LSB-cbc-ca-labrador-retires-Veteran/o St-John/PER Doyle/PER retiring/o politics/o RSB-LSB-LSB-News/o RSB-RSB-March/TIME 13/TIME 
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Harris/PER LRB-Labrador/o politician/o RRB-Harris/PER RSB-RSB-
+|/o 
+-
+-LSB-LSB-John/o South/o Pearl/LOC RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Hearn/ORG RSB-RSB-name=-theglobeandmail1->-LSB-theglobeandmail-com-20080902-wemerson03-Emerson/o wo/On run/o sources/o RSB-LSB-LSB-Globe/o Mail/o RSB-RSB-September/TIME 2/TIME 
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Coady/ORG RSB-RSB-
+|/o 
+-
+-LSB-LSB-Bay/o North/o RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Comuzzi/PER RSB-RSB-LSB-tbsource-com-asp-cid=111281/o Comuzzi/o wo/On run/o upcoming/o election/o RSB-LSB-LSB-Bay/o Source/o RSB-RSB-September/TIME 5/TIME 
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Hyer/PER RSB-RSB-
+|/o 
+-
+-LSB-LSB-RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Pallister/PER RSB-RSB-LSB-winnipegsun-com-sun-Pallister/PER quit/o politics/o RSB-LSB-LSB-Sun/o RSB-RSB-January/TIME 10/TIME 
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Hoeppner/PER RSB-RSB-
+|/o 
+-
+-LSB-LSB-LRB-electoral/o district/o RRB-RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Batters/PER RSB-RSB-LSB-cbc-ca-quits-Sask/o Batters/o wo/On run/o citing/o depression/o RSB-LSB-LSB-News/o RSB-RSB-September/TIME 2/TIME 
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Boughen/PER RSB-RSB-
+|/o 
+-
+-LSB-LSB-Albert/PER LRB-district/o RRB-Albert/o RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Fitzpatrick/PER LRB-politician/o RRB-Fitzpatrick/PER RSB-RSB-LSB-cbc-ca-Sask/o Tory/o says/o wo/On run/o RSB-LSB-LSB-News/o RSB-RSB-January/TIME 9/TIME 
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Hoback/PER RSB-RSB-
+|/o 
+-
+-LSB-LSB-RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Skelton/PER RSB-RSB-LSB-canada-com-html-id=c7ed3241-2d5a-4ec0-ab28-89622184137a/o Tory/o cabinet/o minister/o step/o RSB-LSB-LSB-News/ORG Service/ORG RSB-RSB-August/TIME 3/TIME 
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Block/ORG RSB-RSB-
+|/o 
+-
+-LSB-LSB-Northeast/ORG RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Hanger/o RSB-RSB-LSB-ctv-ca-hanger-071010-hub=QPeriod/o Alta/o Art/o Hanger/o wo/On run/o election/o RSB-LSB-LSB-News/o RSB-RSB-October/TIME 10/TIME 
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Shory/o RSB-RSB-
+|/o 
+-
+-LSB-LSB-Albert/LOC RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-G-Williams/PER RSB-RSB-LSB-cbc-ca-retires-Edmonton-Albert/o wo/On run/o RSB-LSB-LSB-News/o RSB-RSB-August/TIME 11/TIME 
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Rathgeber/PER RSB-RSB-
+|/o 
+-
+-LSB-LSB-Park/o RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Epp/PER RSB-RSB-LSB-canada-com-html-id=d2b9dd9e-6b5a-4e6f-a35f-faa3a1a32dda-k=50425/o Thirteen/o years/o long/o Ken/PER Epp/PER RSB-LSB-LSB-Journal/o RSB-RSB-August/TIME 18/TIME 
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Uppal/PER RSB-RSB-
+|/o 
+-
+-LSB-LSB-Hat/o LRB-electoral/o district/o RRB-Hat/o RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Solberg/ORG RSB-RSB-LSB-theglobeandmail-com-20080904-wsolberg0904-Solberg/PER retiring/o politics/o RSB-LSB-LSB-Globe/o Mail/o RSB-RSB-September/TIME 3/TIME 
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Payne/PER RSB-RSB-
+|/o 
+-
+-LSB-LSB-Deer/o LRB-district/o RRB-Deer/o RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Mills/PER LRB-RRB-Mills/PER RSB-RSB-LSB-canada-com-html-id=a125836d-91d5-4ec2-8df0-2f822f314771/o Longtime/o Red/o Deer/o wo/On pursue/o sixth/o term/o RSB-LSB-LSB-Herald/ORG RSB-RSB-February/TIME 8/TIME 
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Dreeshen/PER RSB-RSB-
+|/o 
+-
+-LSB-LSB-Rose/o LRB-district/o RRB-Rose/o RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Thompson/PER RSB-RSB-LSB-canada-com-html-id=fdbe2ed5-f770-4440-b329-2f362ef0a5f2/o Thompson/PER leave/o politics/o RSB-LSB-LSB-Journal/o RSB-RSB-June/TIME 19/TIME 
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Richards/PER RSB-RSB-
+|/o 
+-
+-LSB-LSB-RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Hinton/PER RSB-RSB-LSB-bettyhinton-ca-asp-id=446/o Betty/PER Hinton/PER Seek/o Re-election/o RSB-October/TIME 10/TIME 
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-McLeod/PER RSB-RSB-
+|/o 
+-
+-LSB-LSB-Kingsway/ORG RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Emerson/PER RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Davies/PER RSB-RSB-
+|/o RCB-
+
+
+
+-LCB-40/PERCENT border-collapse/o 
+|/o 
+-District/ORG 
+-incumbent/o 
+-
+|/o 
+-
+-LSB-LSB-George/LOC RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Matthews/PER RSB-RSB-LSB-cbc-ca-labrador-retires-Time/o right/o retire/o Liberal/o Matthews/PER says/o RSB-LSB-LSB-News/o RSB-RSB-April/TIME 3/TIME 
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Foote/PER RSB-RSB-
+|/o 
+-
+-LSB-LSB-LRB-district/o RRB-RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-McGuire/PER RSB-RSB-LSB-cbc-ca-edward-island-retires-Veteran/o P-E-I-retire/o RSB-LSB-LSB-News/o RSB-RSB-March/TIME 7/TIME 
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Shea/PER RSB-RSB-
+|/o 
+-
+-LSB-LSB-LRB-district/o RRB-RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Scott/PER LRB-RRB-Scott/PER RSB-RSB-LSB-ctv-ca-scott-070305-hub=Politics/o Veteran/o Liberal/o Andy/PER Scott/PER quit/o politics/o RSB-LSB-LSB-News/o RSB-RSB-March/TIME 5/TIME 
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Ashfield/PER RSB-RSB-
+|/o 
+-
+-LSB-LSB-RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Martin/PER RSB-RSB-LSB-theglobeandmail-com-20061213-wxlapierre13-Liberal/o MPs/o step/o aside/o Montreal/LOC RSB-LSB-LSB-Globe/o Mail/o RSB-RSB-December/TIME 13/TIME 
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Zarac/PER RSB-RSB-
+|/o 
+-
+-LSB-LSB-West/LOC RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Beaumier/PER RSB-RSB-LSB-northpeel-com-Longtime/o resigns/o opens/o door/o election/o candidate/o RSB-LSB-LSB-Brampton/o Guardian/o RSB-RSB-September/TIME 5/TIME 
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Kania/PER RSB-RSB-
+|/o 
+-
+-LSB-LSB-North/ORG RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Cullen/PER RSB-RSB-LSB-cbc-ca-Etobicoke/LOC run/o election/o RSB-LSB-LSB-News/o RSB-RSB-February/TIME 21/TIME 
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Duncan/PER RSB-RSB-
+|/o 
+-
+-LSB-LSB-RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Steckle/PER RSB-RSB-LSB-lfpress-ca-Veteran/o retire/o politics/o RSB-LSB-LSB-London/LOC Press/o RSB-RSB-March/TIME 7/TIME 
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Lobb/PER RSB-RSB-
+|/o 
+-
+-LSB-LSB-RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Stronach/PER RSB-RSB-LSB-thestar-com-Belinda/PER Stronach/PER quit/o politics/o RSB-LSB-LSB-Star/o RSB-RSB-April/TIME 11/TIME 
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Brown/PER RSB-RSB-
+|/o 
+-
+-LSB-LSB-Belt/o RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Bonin/PER RSB-RSB-LSB-northernlife-ca-16-06-bonin-retires-asp-NLStory=11-16-06-bonin-retires/o Ray/PER Bonin/PER does/On plan/o run/o RSB-LSB-LSB-Life/o LRB-RRB-Life/o RSB-RSB-November/TIME 16/TIME 
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Gravelle/PER RSB-RSB-
+|/o 
+-
+-LSB-LSB-Southwest/ORG RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Wappel/PER RSB-RSB-LSB-cbc-ca-retiring-Outspoken/o Liberal/o Wappel/o retiring/o RSB-LSB-LSB-News/o RSB-RSB-March/TIME 23/TIME 
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Simson/PER RSB-RSB-
+|/o 
+-
+-LSB-LSB-LRB-district/o RRB-RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Karetak-Lindell/PER RSB-RSB-LSB-nunatsiaq-com-01-term/o Nancy/PER Karetak-Lindell/PER says/o RSB-LSB-LSB-News/o RSB-RSB-December/TIME 22/TIME 
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Aglukkaq/PER RSB-RSB-
+|/o RCB-
+
+
+
+-LCB-40/PERCENT border-collapse/o 
+|/o 
+-District/ORG 
+-incumbent/o 
+-
+|/o 
+-
+-LSB-LSB-LRB-district/o RRB-RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Picard/PER RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Pomerleau/PER RSB-RSB-
+|/o 
+-
+-LSB-LSB-Boucher/o RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-St-Hilaire/PER RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Dorion/PER RSB-RSB-
+|/o 
+-
+-LSB-LSB-LRB-district/o RRB-RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Gravel/PER RSB-RSB-LSB-cbc-ca-raymondgravel0903-html-articlecomments/o Priest/o leaves/o politics/o pressure/o Vatican/ORG RSB-LSB-LSB-News/o RSB-RSB-September/TIME 3/TIME 
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Dufour/PER RSB-RSB-
+|/o 
+-
+-LSB-LSB-des-Mille-Îles/o LRB-district/o RRB-des-Mille-Îles/o RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Perron/PER RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Desnoyers/ORG RSB-RSB-
+|/o RCB-
+
+
+
+-LCB-40/PERCENT border-collapse/o 
+|/o 
+-District/ORG 
+-incumbent/o 
+-
+|/o 
+-
+-LSB-LSB-LRB-district/o RRB-RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-McDonough/PER RSB-RSB-LSB-ctv-ca-retires-080602-Alexa/PER McDonough/PER retires/o federal/o politics/o RSB-LSB-LSB-News/o RSB-RSB-June/TIME 2/TIME 
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Leslie/PER RSB-RSB-
+|/o 
+-
+-LSB-LSB-RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Blaikie/PER RSB-RSB-LSB-ctv-ca-reelection-070315-hub=Canada/o NDP/ORG Bill/PER Blaikie/PER wo/On seek/o re-election/o RSB-LSB-LSB-News/o RSB-RSB-March/TIME 15/TIME 
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Maloway/PER RSB-RSB-
+|/o 
+-
+-LSB-LSB-North/ORG RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Priddy/PER RSB-RSB-LSB-canada-com-html-id=dfb292ec-1b3d-4e22-bf9c-f86af9b73d57/o NDP/ORG Penny/ORG Priddy/ORG says/o wo/On run/o RSB-LSB-LSB-Sun/o RSB-RSB-July/TIME 16/TIME 
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Cadman/o RSB-RSB-
+|/o RCB-
+
+
+
+-LSB-LSB-federal/o by-elections/o elections/o progress/o RSB-RSB-vacant/o ridings/o canceled/o general/o election/o called/o 
+
+-LCB-40/PERCENT border-collapse/o 
+|/o 
+-District/ORG 
+-
+-
+|/o 
+-
+-LSB-LSB-Lambert/o LRB-district/o RRB-Lambert/o RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Kotto/PER RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Beaudin/PER RSB-RSB-
+|/o 
+-
+-LSB-LSB-Marie/o RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Robillard/PER RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Garneau/PER RSB-RSB-
+|/o 
+-
+-LSB-LSB-Valley/LOC West/LOC RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Godfrey/PER RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Oliphant/PER RSB-RSB-
+|/o 
+-
+-LSB-LSB-LRB-district/o RRB-RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Chamberlain/PER RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Valeriote/PER RSB-RSB-
+|/o RCB-
+
+
+
+
+
+-LCB-40/PERCENT border-collapse/o 
+|/o 
+-District/ORG 
+-
+-
+|/o 
+-
+-LSB-LSB-LRB-district/o RRB-RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Manning/PER RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Andrews/PER LRB-RRB-Andrews/PER RSB-RSB-
+|/o 
+-
+-LSB-LSB-Hébert/o RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Harvey/o RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Pierre/o Paillé/o RSB-RSB-
+|/o 
+-
+-LSB-LSB-RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Khan/o RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Crombie/PER RSB-RSB-
+|/o 
+-
+-LSB-LSB-RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Jaffer/PER RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Duncan/PER RSB-RSB-
+|/o RCB-
+
+
+
+-LCB-40/PERCENT border-collapse/o 
+|/o 
+-District/ORG 
+-
+-
+|/o 
+-
+-LSB-LSB-Nova/o RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Thibault/PER RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Kerr/PER RSB-RSB-
+|/o 
+-
+-LSB-LSB-LRB-district/o RRB-RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Hubbard/PER LRB-RRB-Hubbard/PER RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-O-Neill-Gordon/o RSB-RSB-
+|/o 
+-
+-LSB-LSB-John/PER LRB-district/o RRB-John/o RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Zed/PER RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Weston/PER RSB-RSB-
+|/o 
+-
+-LSB-LSB-RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-St-RGANIZATION-Denis/ORG RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Hughes/PER RSB-RSB-
+|/o 
+-
+-LSB-LSB-LRB-district/o RRB-RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-St-RGANIZATION-Amand/ORG RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-McColeman/PER RSB-RSB-
+|/o 
+-
+-LSB-LSB-LRB-district/o RRB-RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Turner/PER RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Raitt/PER RSB-RSB-
+|/o 
+-
+-LSB-LSB-LRB-district/o RRB-RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Valley/ORG RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Rickford/PER RSB-RSB-
+|/o 
+-
+-LSB-LSB-Centre/ORG RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Redman/PER RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Woodworth/PER LRB-RRB-Woodworth/PER RSB-RSB-
+|/o 
+-
+-LSB-LSB-LRB-district/o RRB-RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Telegdi/PER RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Braid/PER RSB-RSB-
+|/o 
+-
+-LSB-LSB-West/o RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Barnes/PER RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Holder/o RSB-RSB-
+|/o 
+-
+-LSB-LSB-RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Alghabra/o RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Dechert/o RSB-RSB-
+|/o 
+-
+-LSB-LSB-Ridges/o RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Temelkovski/o RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Calandra/PER RSB-RSB-
+|/o 
+-
+-LSB-LSB-LRB-district/o RRB-RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Brown/PER LRB-RRB-Brown/PER RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Young/ORG LRB-RRB-Young/PER RSB-RSB-
+|/o 
+-
+-LSB-LSB-LRB-district/o RRB-RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Marleau/PER RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Thibeault/PER RSB-RSB-
+|/o 
+-
+-LSB-LSB-LRB-district/o RRB-RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Kadis/PER RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Kent/PER RSB-RSB-
+|/o 
+-
+-LSB-LSB-Bay/o River/LOC RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Boshcoff/PER RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Rafferty/PER LRB-politician/o RRB-Rafferty/PER RSB-RSB-
+|/o 
+-
+-LSB-LSB-LRB-district/o RRB-RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-David/PER Maloney/PER RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Allen/PER LRB-RRB-Allen/PER RSB-RSB-
+|/o 
+-
+-LSB-LSB-LRB-district/o RRB-RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Keeper/PER RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Ashton/PER RSB-RSB-
+|/o 
+-
+-LSB-LSB-Boniface/PER LRB-district/o RRB-Boniface/o RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Simard/PER RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Glover/PER RSB-RSB-
+|/o 
+-
+-LSB-LSB-LRB-Columbia/ORG federal/o electoral/o district/o RRB-RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Chan/PER RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Wong/PER RSB-RSB-
+|/o 
+-
+-LSB-LSB-Vancouver/LOC LRB-district/o RRB-Vancouver/LOC RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Bell/PER RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Saxton/PER RSB-RSB-
+|/o RCB-
+
+
+
+-LCB-40/PERCENT border-collapse/o 
+|/o 
+-District/ORG 
+-
+-
+|/o 
+-
+-LSB-LSB-Park/o RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Nash/PER RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Kennedy/PER RSB-RSB-
+|/o 
+-
+-LSB-LSB-Island/LOC North/LOC RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-J-Bell/PER RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Duncan/PER LRB-politician/o RRB-Duncan/PER RSB-RSB-
+|/o RCB-
+
+
+
+-LCB-40/PERCENT border-collapse/o 
+|/o 
+-District/ORG 
+-
+-
+|/o 
+-
+-LSB-LSB-Prairie/o RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Lussier/PER RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Mendès/PER RSB-RSB-LSB-theglobeandmail-com-20081024-wrecount1024-win/o seat/o Quebec/LOC following/o recount/o RSB-LSB-LSB-Globe/o Mail/o RSB-RSB-October/TIME 24/TIME 2008/TIME </ref> 
+|/o 
+-
+-LSB-LSB-LRB-district/o RRB-RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Barbot/PER RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Trudeau/PER RSB-RSB-
+|/o RCB-
+
+
+
+-LCB-40/PERCENT border-collapse/o 
+|/o 
+-District/ORG 
+-
+-
+|/o 
+-
+-LSB-LSB-Vancouver/LOC Coast/ORG Sky/o Country/o RSB-RSB-
+|/o LCB-LCB-party/o RCB-RCB-nbsp-
+|/o LSB-LSB-Wilson/PER RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Weston/PER LRB-RRB-Weston/PER RSB-RSB-
+|/o RCB-
+
+
+
+-LCB-40/PERCENT border-collapse/o 
+|/o 
+-District/ORG 
+-
+-
+|/o 
+-
+-LSB-LSB-Neigette/o Basques/o RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Thibault/PER RSB-RSB-
+|/o LCB-LCB-politics-colours-RCB-RCB-nbsp-
+|/o LSB-LSB-Guimond/PER RSB-RSB-
+|/o RCB-
+
+
+-LCB-LCB-politics/o RCB-RCB-
+-LSB-LSB-Canadian/o federal/o general/o elections/o RSB-RSB-
+-LSB-LSB-political/o parties/o Canada/LOC RSB-RSB-
+-LSB-LSB-political/o financing/o Canada/LOC RSB-RSB-
+-LSB-LSB-turnout/o Canada/LOC RSB-RSB-
+
+
+-LCB-LCB-RCB-RCB-
+
+
+-LCB-LCB-Christopher/PER Canadian/o Federal/o Election/o 2008/TIME =/Ohttp google-ca-id=NAtePUeHIh0C-lpg=PP1-dq=Canadian-20federal-20general-20elections-pg=PP1-v=onepage-q-f=true/o Press/o 9781554884070/o =/o RCB-RCB-
+
+
+-LCB-LCB-inline/o RCB-RCB-
+
+
+-LSB-democraticspace-com-DemocraticSPACE/o Seat/o Projections/o RSB-
+-LSB-electionprediction-org-fed-Election/o Prediction/o Project/o RSB-
+-LSB-trendlines-ca-Trendlines/ORG Research/ORG RSB-Daily/o chart/o tracking/o average/o 11/o Riding/o Projection/o models/o 
+-LSB-wordpress-com-election-seat-projection-Paulitics/o 2008/TIME Election/o Seat/o Projection/o RSB-
+
+-LCB-LCB-federal/o election/o 2008A/o RCB-RCB-
+-LCB-LCB-canada/o RCB-RCB-
+-LCB-LCB-move-indef/o RCB-RCB-
+
+-LSB-LSB-2008/o elections/o Canada/LOC RSB-RSB-
+-LSB-LSB-federal/o election/o RSB-RSB-

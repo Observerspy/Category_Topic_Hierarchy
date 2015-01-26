@@ -1,0 +1,46 @@
+{{Earthquake
+|title= 62 Pompeii earthquake
+|date= {{Start-date|5 February 62}}
+|map2 = {{Location map | Italy | relief=1
+ | label=
+ | lat=40.7
+ | long=14.5
+ | mark=Bullseye1.png
+ | marksize=40
+ | position=top
+ | width= 250
+ | float=right
+ | caption=}}
+|magnitude = 5.2&ndash;6.1 
+|depth=
+|location={{Coord|40.7|14.5|display=inline,title}}
+|countries affected = Roman Empire, Campania
+|tsunami =
+|casualties = 
+}}
+The '''62 Pompeii earthquake''' occurred on 5 February 62 AD. It had an estimated magnitude of between 5 and 6 and a maximum intensity of XI or X on the Mercalli intensity scale. The towns of Pompeii and Herculaneum were severely damaged. The earthquake may have been a precursor to the Eruption of Mount Vesuvius in AD 79|eruption of Mount Vesuvius in AD 79 that destroyed the same two towns. The contemporary philosopher and dramatist Seneca the Younger wrote an account of the earthquake in the sixth book of his ''Naturales quaestiones'' entitled ''De Terrae Motu'' (''Concerning Earthquakes'').
+
+==Geological setting==
+The epicentre of the earthquake lies within a zone of active extensional faulting, but close to the southern flank of Vesuvius. Analysis of focal mechanisms from the area around Vesuvius indicates that active faulting in the area  involves NW–SE and NE–SW trending oblique-slip normal faults and E–W trending normal faults, part of the zone of active extension that extends the full length of the Apennines mountain chain, associated with continued opening of the Tyrrhenian Sea. An association between earthquakes in the central Apennines and eruptions of Vesuvius has been proposed, but is not yet proven.
+
+==Characteristics==
+The extent of damage has been used to estimate the magnitude of the earthquake. Estimates lie in the range from about 5 to 6.1. Shaking was reported to have continued for several days,
+
+==Damage==
+The towns of Pompeii and Herculaneum both suffered major damage, with damage to some buildings also reported from Naples and Nocera Inferiore|Nuceria. Seneca reported the death of a flock of 600 sheep that he attributed to the effects of poisonous gases.
+
+==Aftermath==
+
+The damage caused by the mainshock and the subsequent series of tremors was at least partly repaired by the time of the AD 79 eruption in both Pompeii and Herculaneum. A pair of Relief#Bas-relief or low relief|bas-reliefs, probably from the Lares Familiares|lararium in the house of Lucius Caecilius Iucundus in Pompeii are interpreted to depict the effects of the earthquake on buildings including the Temple of Jupiter (Pompeii)|Temple of Jupiter, the Aquarium of Cesar, and the Vesuvius Gate.
+
+The earthquake led Roman philosopher, statesman and dramatist Seneca the Younger to devote the sixth book of his ''Naturales quaestiones'' to the subject of earthquakes, describing the event of 5 February and giving the cause of earthquakes as the movement of air.
+
+==References==
+{{Reflist}}
+{{Archaeological site of Pompeii}}
+Category:1st century in Italy
+Category:62 earthquakes|Pompeii
+Category:62 in Europe
+Category:Earthquakes in Italy|0062 Pompeii
+Category:Herculaneum (ancient city)
+Category:Pompeii (ancient city)

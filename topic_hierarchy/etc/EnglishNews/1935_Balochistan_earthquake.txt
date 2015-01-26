@@ -1,0 +1,78 @@
+{{Use British English|date=May 2012}}
+{{Use dmy dates|date=May 2012}}
+{{Earthquake
+|title = 1935 Balochistan earthquake
+|date = {{start-date| 31 May 1935}} 
+|origintime = 21:56 (Coordinated Universal Time|UTC)
+|map2 = {{Location map | Pakistan
+ | label =
+ | lat = 29.5
+ | long = 66.8
+ | mark = Bullseye1.png
+ | marksize = 40
+ | position = top
+ | width = 250
+ | float = right
+ | caption =
+ | relief = yes}}
+|magnitude = 7.7 Moment magnitude scale|M<sub>w</sub>
+|depth={{convert|15|km|mi|sp=us}}
+|location={{coord|29.5|N|66.8|E|display=inline, title}}
+|countries affected = British Raj|British India (Makran Coast)
+|tsunami = 
+|casualties = 30,000 - 60,000
+}}
+File:Chappar Rift 1945.jpg|thumb|right|300px|The Chappar Rift in Balochistan, a landmark railway site, was affected by the 1935 earthquake, when the mountains opened up in parts. The gorges and rifts owe much to this earthquake for their appearance.
+The '''1935 Balochistan earthquake''' ({{lang-ur|???????? ?????}}) occurred on 31 May 1935 at 3:02&nbsp;am at Quetta, Baluchistan (Chief Commissioners Province)|Balochistan, British Raj|British India (now part of Pakistan). The earthquake had a magnitude of 7.7 moment magnitude scale|Mw  The quake was centred 4.0&nbsp;kilometres South West of Ali Jaan, Balochistan, British India.
+
+==The earthquake==
+
+Quetta and its neighbouring towns lie in the most active seismic region of Pakistan atop the Chaman Fault|Chaman and Chiltan faults. Movement on the Chaman Fault and 3:40&nbsp;am The aftershock, however, did not cause any damage in Quetta, but the towns of Mastung, Pakistan|Mastung, Maguchar and Kalat, Pakistan|Kalat were seriously affected.
+
+===Casualties===
+File:Bruce Street after the 1935 Balochistan earthquake.jpg|thumb|300px|Bruce Street immediately after the earthquake lay desolate in ruin. Commercial businesses came to a halt along with the complete destruction of the Kabari Market and the Fruit Market.
+Most of the reported casualties occurred in the city of Quetta. Initial communiqué drafts issued by the Government estimated a total of 20,000 people buried under the rubble, 10,000 survivors and 4,000 injured. The city was badly damaged and was immediately prepared to be sealed under the military guard with medical advice. All the villages between Quetta and Kalat were destroyed and the British feared casualties to be of higher numbers in surrounding towns; it was later estimated to be nowhere close to the damage caused in Quetta.
+
+<br>
+From memorabilia of a member of the Royal Signals in 1935:<br><em>
+"For long-distance military work, we used large rhombic set-ups, with heights of 50 to 75&nbsp;feet. For amateur work a single-wire horizontal, with the feed at three-sevenths of the total length, was used. As a matter of interest, during the Quetta earthquake of 1935, all civilian radio nets were destroyed, and all traffic was taken over by R.Signals stations. We did over 168 hours of frantic communications from D.I.K. to Quetta; sleeping on the floor next to the equipment."</em>
+
+Infrastructure was severely damaged. The railway area was destroyed and all the houses were razed to the ground with the exception of the Government House that stood in ruins. A quarter of the Cantonment area was destroyed but military equipment and the Royal Air Force garrison suffered serious damages. It was reported that only 6 out of the 27 machines worked after the initial seismic activity. A Regimental Journal for the 1st Battalion of the Queen's Royal Regiment (West Surrey)|Queen's Royal Regiment based in Quetta issued on November 1935 stated,
+<blockquote>It is not possible to describe the state of the city when the battalion first saw it. It was razed to the ground. Corpses were lying everywhere in the hot sun and every available vehicle in Quetta was being used for the transportation of injured&nbsp;…&nbsp;Companies were given areas in which to clear the dead and injured. Battalion Headquarters were established at the Residency. Hardly had we commenced our work than we were called upon to supply a party of fifty men, which were later increased to a hundred, to dig graves in the cemetery.</blockquote>
+
+==Rescue efforts==
+Tremendous losses were incurred on the city in the days following the event. On streets, people lay dead, buried beneath the debris, some still alive. British regiments were scattered around town to rescue people, an impossible task as 1st Queen's remember. 
+ 
+The weather did not prove to be of much help and the scorching summer heat made matters worse. Bodies of European and Anglo-Indians were recovered and buried in a British cemetery where soldiers had dug trenches. Padres performed the burial service in haste as soldiers would cover the graves quickly. Others were removed in the same way and taken to a nearby ''shamshāngāht'' for their remains to be cremation|cremated.
+
+While the soldiers excavated through the debris for a sign of life, the Government sent the Quetta administration instructions to build a ''tent city'' to house the homeless survivors and to provide shelter for their rescuers.{{citation needed|date=June 2008}} A fresh supply of medicated pads was brought forth for the soldiers to wear over their mouths while they dug for bodies in fears of a spread of disease from the dead bodies buried underneath.
+
+{|align="center" style="border:solid 1px #CACACA;"
+|
+<gallery caption="Images of life after the quake" widths="180px" style="background-color:transparent; border:solid 1px transparent; align:center;">
+Image:1935_Balochistan_earthquake_and_the_initial_medical_help.jpg|Initial medical set ups were established near the railway station to help provide first aid to the survivors. A tent city was built in the vicinity.
+Image:1935_Balochistan_tent_city.jpg|The tent city was erected to house the thousands of homeless survivors and also the rescue workers.
+Image:Kabari_Market_in_the_1935_earthquake.jpg|Image shows the gates of the Kabari Market, ruined  when the earthquake struck. Commercial operation were hit badly.
+Image:Opera_Talkies_destroyed_in_the_earthquake.jpg|Opera Talkies, a cinema set up for the recreation of the soldiers, was destroyed in the quake. 
+</gallery>
+|}
+
+==Significance==
+The natural disaster ranks as the List of natural disasters by death toll|23rd most deadly earthquake worldwide to date. In the aftermath of the 2005 Kashmir earthquake, the Director General for the Meteorological Department at Islamabad, Chaudhry Qamaruzaman, cited the earthquake as being amongst the four deadliest earthquakes the South Asian region has seen; the others being the Kashmir earthquake in 2005, Pasni City|Pasni, 1945 Balochistan earthquake, in 1945 and Kangra earthquake in 1905.
+
+== See also ==
+* 1945 Balochistan earthquake
+
+==References==
+{{reflist|colwidth=30em}}
+
+== External links ==
+* http://www.dawn.com/2005/10/25/fea.htm 1935 Quette Earthquake Dawn
+* http://www.warlinks.com/memories/brown_john/The%20Great%20Quetta1.htm 1935 Quette Earthquake photos
+* http://www.amazon.co.uk/dp/0952878240 The Quetta Earthquake 1935
+* http://www.queensroyalsurreys.org.uk/reg_in_india/india43_1.html Queen's Royal Surrey Accounts
+* http://www.warlinks.com/memories/brown_john/The%20Great%20Quetta1.htm The Great Quetta
+
+Category:Earthquakes in Pakistan|1935 Balochistan
+Category:History of Balochistan
+Category:1935 earthquakes|Balochistan 1935

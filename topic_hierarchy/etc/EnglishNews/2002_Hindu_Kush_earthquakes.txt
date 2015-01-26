@@ -1,0 +1,30 @@
+{{Earthquake
+| title= 2002 Hindu Kush, Afghanistan
+| map= HinduKushEQs.JPG
+| date=March 3 and March 25, 2002
+| magnitude=7.4, 6.1 Moment magnitude scale|M<sub>w</sub>
+| depth=256, 8 km
+|location={{coord|36.542|N|70.424|E}}, {{coord|35.93|N|69.19|E}}
+| countries affected=Afghanistan, Pakistan
+| casualties=At least 1,166 dead, thousands injured
+}}
+
+The '''2002 Hindu Kush earthquakes''' were two earthquakes which hit the Hindu Kush mountain range area in Afghanistan on March 3 and March 25, 2002. At least 166 people were killed in the first earthquake and at least a further thousand in the second.
+
+== The March 3 earthquake ==
+At 12:08:19 UTC a 7.4 tremor hit an area {{convert|65|km|mi|abbr=on}} S of Fayzabad, Badakhshan|Feyzabad, Afghanistan. At least 150 people were killed, several injured and 400 houses damaged or destroyed by a landslide that dammed and flooded Surkundara Valley, Samangan Province. At least 13 people were killed at Kabul and Rostaq, Afghanistan|Rostaq and 3 people killed in Bajaur, Pakistan. At least 300 houses were destroyed in Badakhshan and Takhar Provinces. A 45 meter wide fissure opened in Xiker Reservoir in Xinjiang, People's Republic of China|China. This was a deep Hypocenter|focus event and was felt in much of Afghanistan and Pakistan. Felt also in Tajikistan, Uzbekistan, Kyrgyzstan, Kazakhstan and India.
+
+== The March 25 earthquake ==
+At 14:56:33 UTC a 6.1 tremor hit an area {{convert|160|km|mi|abbr=on}} SW of Feyzabad, Afghanistan. At least 1,000 people were killed, several hundred injured and several thousand homeless in Baghlan Province. At least 1,500 houses were destroyed or damaged at Nahrin and several hundred more in other areas of Baghlan Province. Landslides blocked many roads in the epicentral area. This was a shallow focus event and was felt strongly in much of northern Afghanistan. Also felt in the Islamabad-Peshawar area, Pakistan and at Dushanbe, Tajikistan.
+
+== See also ==
+*2005 Hindu Kush earthquake
+
+== References ==
+{{Reflist}}
+
+{{DEFAULTSORT:Hindu Kush 2002}}
+{{Earthquakes in 2002}}
+Category:2002 earthquakes
+Category:2002 in Afghanistan
+Category:Earthquakes in Afghanistan|2002

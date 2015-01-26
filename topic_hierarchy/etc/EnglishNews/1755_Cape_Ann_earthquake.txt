@@ -1,0 +1,63 @@
+{{good article}}
+{{Earthquake
+|title= Cape Ann earthquake
+|date= {{Start-date|November 18, 1755}}
+|map2 = {{Location map+ | Massachusetts
+ | relief = 1
+ | width= 250
+ | float=none
+ | caption=
+ | places=
+  {{Location map~ | Massachusetts
+  | label=
+  | lat=42.7
+  | long=-70.2
+  | mark=Bullseye1.png
+  | marksize=40
+  | position=top}}
+  {{Location map~ | Massachusetts
+  | label=Cape Ann
+  | lat=42.63
+  | long=-70.63
+  | mark=
+  | marksize=8
+  | position=left}}
+}}
+|magnitude = 5.9 Moment magnitude scale|M<sub>w</sub>
+|depth=
+|intensity=Mercalli intensity scale|VIII - Destructive
+|location={{Coord|42.7|-70.2|display=inline,title}}
+|countries affected = British America, Province of Massachusetts Bay
+|tsunami =
+|casualties =
+}}
+The '''Cape Ann Earthquake''' took place off the coast of the British Province of Massachusetts Bay (present-day Massachusetts) on November 18, 1755. At between 6.0 and 6.3 on the Richter scale, it remains the largest earthquake in the history of Massachusetts. No one was killed but it damaged hundreds of buildings in Boston and was felt as far north as Nova Scotia and as far south as South Carolina.
+
+==Epicenter==
+The earthquake took place on November 18, 1755, at approximately 4:30 AM. Its epicenter is believed to have been offshore, approximately {{convert|24|mi|km}} east of Cape Ann.  The region experienced a number of aftershocks, the first of which was a little more than an hour after the quake. Most of these aftershocks could not be felt in Boston, affecting only the cape cod northeastern coast of the colony.
+
+Modern research has estimated that the quake was between 6.0 and 6.3 on the Richter scale, and the United States Geological Survey lists it as the largest earthquake in the history of Massachusetts. It is possible that the Cape Ann earthquake may have been remotely triggered by a larger 1755 Lisbon earthquake|earthquake in Lisbon, Portugal a few weeks prior, although there is not enough evidence to prove that they are linked.
+
+==Damage==
+File:Cape Ann earthquake.jpg|thumb|left|An 18th century woodcut taken from a religious tract showing the effects of the Cape Ann earthquake|alt=A number of buildings are shown pointing in different directions, as if being shaken, as people run through the streets looking panicked
+Boston and Cape Ann were the most heavily damaged. In Boston, damage was concentrated in areas of infill near the harbor; infill is less sturdy in earthquakes than solid land. From 1,300 to 1,600 chimneys in the city were damaged in some way, the gable ends of some houses collapsed, and a number of roofs were damaged by falling chimneys.
+
+==Legacy==
+File:Boston Back Bay.jpg|thumb|right|An aerial view of Back Bay in Boston, which could suffer serious damage if another quake like the 1755 Cape Ann earthquake were to occur|alt=A cityscape including a number of skyscrapers, with a river running through the middle
+Many Massachusetts residents of the time perceived the quake as punishment from God for immoral behavior. Such attribution is not uncommon with earthquakes, and Massachusetts at the time had experienced a number of religious revivals. In the days after the earthquake, special prayer services were held and civic authorities declared fast days. A number of sermons and other writings were published as a consequence, including Jeremiah Newland's ''Verses Occasioned by the Earthquakes in the Month of November, 1755'' and Thomas Prince's ''Earthquakes the Works of God and Tokens of his Just Displeasure''. Not all explanations of the event were theological; John Winthrop (1714–1779)|John Winthrop, a Harvard professor, proposed an alternate explanation having to do with heat and chemical vapors inside the surface of the earth.
+
+Since the 1755 earthquake, Boston and its surrounding towns have become a major metropolitan area. Much new construction has been built on infill, especially in the Back Bay area, which may be prone to greater shaking and to compaction of the sand and gravel used as fill. Many older buildings in the Boston area are built from stone and brick, and are likely to collapse completely during a major earthquake. Given this, modern observers have expressed concern about the effects of another quake in such a major city. A 1990 study by the Massachusetts Emergency Management Agency estimated potential financial losses at between $4 billion and $5 billion, and potential loss of life in the hundreds. As a consequence, the state has updated building codes and zoning laws to require that new construction and additions in vulnerable areas be built to resist earthquakes.
+
+Opposition to the Seabrook Station Nuclear Power Plant, about 15 miles off Cape Ann on the New Hampshire shoreline, highlighted the earthquake risk of the area. The plant was built regardless.
+
+==See also==
+*1755 Lisbon earthquake
+
+==References==
+{{Reflist|30em}}
+
+Category:Pre-statehood history of Massachusetts
+Category:1755 earthquakes|Cape Ann earthquake
+Category:Earthquakes in Massachusetts|Cape Ann earthquake, 1755
+Category:Tsunamis in the United States
+Category:18th-century Tsunamis

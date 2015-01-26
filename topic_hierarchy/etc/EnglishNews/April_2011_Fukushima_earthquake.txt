@@ -1,0 +1,77 @@
+{{Infobox earthquake
+|title              =Fukushima Hamadōri earthquake<br /><small>福岛県浜通り地震</small>
+|image              = 
+|image alt          = 
+|imagecaption       =
+|map                = 
+|map alt            = 
+|image name         =
+|map2               = {{Location map+|Japan|width=250|float=none|border=none|relief=yes|caption=Map showing the epicentre of the aftershock|places=
+{{Location map~|Japan|lat=37.007|long=140.477|mark=Bullseye1.png|marksize=30|position=top}}
+{{Location map~|Japan|lat=38.322|long=142.369|position=right|label=11 March quake}}
+{{Location map~|Japan|lat=35.7|long=139.715|label=Tokyo|position=left|mark=Green pog.svg}}}}
+|mapsize            = 
+|caption            =
+|date               = 17:16:13, 11 April 2011 (+09:00)
+|origintime         =
+|duration           =
+|magnitude          = 7.1 Moment magnitude scale|M<sub>w</sub>
+|depth              = {{convert|13|km|mi|0|abbr=on}}
+|location           = {{Coord|37.007|N|140.477|E|type:event_scale:50000000|display=inline,title}}
+|type               = Aftershock
+|countries affected = {{flag|Japan}}
+|damage             =
+|intensity          = Mercalli intensity scale|MM VIII
+|PGA                = <!-- NN''Peak ground acceleration|g'' -->
+|tsunami            = No
+|landslide          = Yes
+|foreshocks         =
+|aftershocks        = 
+|casualties         = 4 dead, 10 injured
+}}
+The {{Nihongo|'''April 2011 Fukushima earthquake'''|福岛県浜通り地震|Fukushima-ken Hamadōri jishin|lit. "Fukushima Hamadōri earthquake"}} was a potent Moment magnitude scale|magnitude 7.1&nbsp;M<sub>w</sub> Intraplate earthquake|intraplate aftershock that occurred at 17:16&nbsp;Japan Standard Time|JST (08:16&nbsp;Coordinated Universal Time|UTC) on Monday, 11&nbsp;April 2011, in the Hamadōri region of Fukushima Prefecture|Fukushima, Japan. With a shallow Hypocenter|focus of 13&nbsp;km (8&nbsp;mi), the earthquake was centred inland about 36&nbsp;km (22&nbsp;mi) west of Iwaki, Fukushima|Iwaki, causing widespread strong to locally severe shaking. It was one of many List of foreshocks and aftershocks of the 2011 Tōhoku earthquake|aftershocks to follow the 11 March Tōhoku earthquake, and the strongest to have its epicentre located inland. 
+
+The earthquake occurred as a result of Fault (geology)#Dip-slip faults|normal faulting to the west of Iwaki and triggered numerous landslides across adjacent mountainous areas. A few fires broke out, and 220,000 households lost electricity. Officials issued localised tsunami warning system|tsunami alerts, though no significant waves were generated. The earthquake caused little structural damage, but killed four people and injured ten others. The strong ground movements triggered the reactivation of a nearby Fault (geology)|geological fault, prompting researchers to conduct extensive geological survey|surveys in the region. 
+
+==Geology==
+The Moment magnitude scale|magnitude 7.1 M<sub>w</sub> Fukushima Hamadōri earthquake occurred inland on 11&nbsp;April 2011 at 08:16&nbsp;UTC at a Hypocenter|focal depth of 13&nbsp;km (8&nbsp;mi), about 36&nbsp;km (22&nbsp;mi) west of Iwaki, Fukushima, or 161&nbsp;km (100&nbsp;mi) north-northeast of Tokyo. This intraplate earthquake occurred in the vicinity of the Idosawa Fault &ndash; a shallow crustal fault in the Hamadōri|Hamadōri region near Iwaki, Fukushima#Towns|Tabito town, Iwaki city, that had previously been inactive. 
+
+Surveys near the epicentre revealed a Earthquake#Rupture dynamics|surface rupture of about 11&nbsp;km (7&nbsp;mi) and numerous fault scarps, with general vertical displacements of 0.8 to 1.5&nbsp;m (2.6 to 4.9&nbsp;ft); a maximum displacement of 2.3&nbsp;m (7.5&nbsp;ft) occurred at the small village of Shionohira. Localised Fault (geology)#Strike-slip faults|right-lateral slip of 30&nbsp;cm (12&nbsp;in) was observed at the subsiding west side of the rupture. The segments of the Idosawa Fault associated with this surface feature were classified as the "Shionohira Fault" in 2011.
+
+Although it was centred near a different fault zone, the earthquake was classified as an aftershock of the 2011 Tōhoku earthquake and tsunami|11&nbsp;March Tōhoku earthquake, which occurred offshore about 235&nbsp;km (145&nbsp;mi) to its northeast. The magnitude&nbsp;9.0 M<sub>w</sub> earthquake triggered widespread seismic activity, The Japan Meteorological Agency (JMA) assessed a magnitude of 7.0 M<sub>j</sub> and a depth of 6.4 km (4.0 mi).
+
+The Fukushima Hamadōri earthquake was succeeded by a number of smaller tremors; that same day, at least 11 earthquake of over magnitude&nbsp;3.5 M<sub>j</sub> were recorded near its epicentre. Of the series, the strongest registered at a magnitude of 5.5 M<sub>j</sub> and occurred within 3.5&nbsp;hours after the initial quake. A shallow magnitude 6.0 M<sub>w</sub> (6.4 M<sub>j</sub>) earthquake and several smaller tremors struck the region on 12 April.
+
+==Effects==
+File:April11 2011 Fukushima earthquake shake map.jpg|thumb|right|USGS shake map
+The earthquake struck in the late afternoon near a moderately populated region of the Fukushima Prefecture, although most structures around the epicentre were Earthquake engineering|resistant to earthquake shaking. Strong shaking (MM VI) spread through Iwaki, Sukagawa, Fukushima|Sukawaga, Kuroiso, Tochigi|Kuroiso, ?tawara, Tochigi|?tawara and Kitaibaraki, Ibaraki|Kitaibaraki, with light tremors (MM IV) felt in areas up to several hundred kilometres from the epicentre, including Tokyo and Yokohama. Workers at the Fukushima I Nuclear Power Plant|Fukushima Daiichi power plant &ndash; distanced 70&nbsp;km (40&nbsp;mi) from the epicentre &ndash; evacuated to safety, and external power to the plant was cut. The outage briefly disrupted cooling water injections into three of the reactors, but services to the plant were restored by 18:05 JST. while NTT DoCoMo restricted voice calls in 14&nbsp;prefectures following the quake. East Japan Railway Company temporarily suspended its services to restart four of five bullet-train lines; other Shinkansen bullet trains in the region were also halted. 
+
+The earthquake sparked several fires in Iwaki, with one fire breaking out in Asakawa, Fukushima|Asakawa town. Fire engines extinguished a blaze in a Soil liquefaction|liquefied natural gas tank at Daiichi Sankyo's Onahama Plant. The incident resulted in two immediate deaths. Four people were critically injured and taken to hospital; one of them was later pronounced dead. Significant land deformation with traces of Tectonic uplift|uplift was observed in and around town, affecting local roads but largely sparing its structures.
+
+A total of seven people from other regions near the epicentre, including southern Ibaraki Prefecture|Ibaraki, Tochigi Prefecture|Tochigi and Kanagawa Prefecture|Kanagawa prefectures, suffered minor injuries.
+
+==Response==
+The Earthquake Early Warning (Japan)|Earthquake Early Warning system was activated upon the detection of P-wave|primary waves &ndash; seismic waves that forego an earthquake's perceivable ground motions &ndash; giving residents 6.8 seconds to seek cover before the main shock. &ndash; local fishing boats along coastlines were shown heading out to sea on national news broadcasts. In response to the earthquake, the fire department dispatched search and rescue teams and emergency crews for relief efforts and damage assessments throughout the affected area. Six medical crews in pairs of two were also sent to Kanagawa, Chiba Prefecture|Chiba and Gunma Prefecture|Gunma prefectures. Former Prime Minister Naoto Kan postponed a press conference scheduled for 17:50 JST marking the one-month anniversary of the catastrophic Tōhoku earthquake and tsunami. 
+
+The Fukushima Hamadōri earthquake occurred in a region with historically low levels of seismicity; studies showed that the recent activity near the fault zone had been triggered by the Tōhoku earthquake. In the earthquake's aftermath, Professor Yagi Hiroshi from the Faculty of Education, Art and Science noted that "a possibility exists for widespread aftershocks of the same size to occur in the near future."
+
+==See also==
+*List of foreshocks and aftershocks of the 2011 Tōhoku earthquake
+*April 2011 Miyagi earthquake
+*List of earthquakes in Japan
+
+==References==
+{{reflist|colwidth=30em}}
+
+==External links==
+* http://www.cbsnews.com/video/watch/?id=7362425n News Report from CBS (video)
+* http://earthquake.usgs.gov/earthquakes/recenteqsww/Quakes/usc0002n9v.php Earthquake Report from the United States Geological Survey
+
+{{Earthquakes in 2011}}
+{{2011 Tōhoku earthquake and tsunami}}
+{{Earthquakes in Japan}}
+{{good article}}
+
+Category:Earthquakes in Japan|2011 Fukushima
+Category:2011 in Japan
+Category:2011 earthquakes

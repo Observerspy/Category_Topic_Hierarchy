@@ -1,0 +1,58 @@
+{{Infobox earthquake
+|title= 1964 Baihe Earthquake
+|map2= {{Location map many | Taiwan
+ | label=
+ | lat=23.20
+ | long=120.60
+ | mark=Bullseye1.png
+ | marksize=40
+ | position=top
+ | width= 250
+ | float=right
+ | caption=
+ | relief=yes}}|
+|date= {{start-date|18 January 1964|18 January 1964}}
+|magnitude=6.3 Richter magnitude scale|M<sub>L</sub>
+|depth= {{convert|20.0|km|mi|1|abbr=on}}
+|epicenter location= 
+|countries affected=Taiwan, Baihe, Tainan
+|location= {{coord|23.1|N|120.5|E|display=inline,title}}
+|casualties=106 killed
+}}
+
+The '''1964 Baihe earthquake''' ({{zh|t=1964年白河大地震|p=1964 nián Báihé dà dìzhèn}}), also known as the '''Great Baihe earthquake''', measured 6.3 Richter magnitude scale|local magnitude, and occurred at 20:04 Chungyuan Standard Time|CST (UTC+8) on 18 January in Baihe District|Baihe Township of Tainan County (now part of Tainan City), Taiwan. The hypocenter of the earthquake was 20 kilometers deep. The earthquake killed 106 people, destroyed 10,924 buildings, and caused a great fire in Jiayi City. It was the sixth deadliest earthquake in 20th century Taiwan, and the second deadliest post-World War II, after the 921 earthquake.
+
+==Technical details==
+The earthquake struck at 20:05 on Saturday January 18, 1964, affecting the heavily populated Chiayi-Tainan plain (Chianan Plain) area of central-southern Taiwan. The epicentre was near the town of Baihe District|Baihe, in northeastern Tainan County and at a focal depth of 20&nbsp;km. It was the most serious historical quake resulting from a rupture in the Chukou Fault#Chukou Fault|Chukou Fault ({{zh|t=触口断层|p=Chùkǒu duàncéng}}).
+
+==Damage==
+According to Taiwan's Central Weather Bureau, the casualties and damage were as follows:
+*106 dead
+*229 seriously injured
+*421 lightly injured
+*10,502 dwellings completely destroyed
+*25,818 dwellings partially destroyed
+*682 public buildings destroyed
+*764 public buildings partially destroyed
+The cost of repairing the damage to public buildings in Tainan County alone was estimated at NT$191 million (in 1964 New Taiwan Dollars).
+
+The effects of the quake depended on the ground on which buildings stood. On the softer ground of Baihe and Dongshan, Tainan, concrete structures fared better than wooden ones, whereas on the harder earth of Nanxi, Tainan|Nanxi and Yujing, Tainan|Yujing the reverse was true, with concrete buildings suffering more damage.
+
+In Jiayi City the damage from the earthquake was not so severe, however there was some damage, mainly to older, structurally weak wooden houses. The main cause of disaster in Jiayi was the fire that resulted from the quake. Aftershocks meant that residents and firefighters feared to approach the blaze to tackle it, thus letting it spread until it consumed 174 households in central Jiayi.
+
+==Reaction==
+There was no official disaster management policy in effect in Taiwan at the time - relief and reconstruction was carried out on an ad hoc basis by the military and police forces. The earthquake forced a rethink of this lack, and the following year the Standard Procedure for Natural Disaster Assistance was promulgated by the Taiwan Provincial Government.
+
+==See also==
+*1946 Xinhua earthquake
+*1999 Jiji earthquake
+
+==References==
+{{reflist}}
+
+{{taiwan earthquakes}}
+
+{{DEFAULTSORT:1964 Baihe Earthquake}}
+Category:1964 in Taiwan|Baihe Earthquake, 1964
+Category:1964 earthquakes|Baihe
+Category:1964 fires

@@ -1,0 +1,70 @@
+{{refimprove|date=March 2011}}
+{{Infobox earthquake
+| title = 2004 Chūetsu earthquake
+| date = {{Start date|2004|10|23}}
+|map2 = {{Location map+ | Japan
+ | AlternativeMap = Japan bluemarble location map with side map of the Ryukyu Islands.jpg
+ | places =
+ {{Location map~|Japan|lat=37.3|long=138.8|mark=Bullseye1.png|marksize=45}}
+ | width = 250
+ | float = right
+ | caption = }}
+| depth =  
+| magnitude = 6.8
+| countries affected = Japan
+| casualties = 40 killed
+}}
+The {{nihongo|'''Chūetsu Earthquakes'''|中越地震|Chūetsu jishin}} occurred in Niigata Prefecture, Japan, at 17:56 (local time) on Saturday, October 23, 2004 (08:56 Universal Time|UT, same day). The Japan Meteorological Agency (JMA) named it the {{nihongo|"Heisei 16 Niigata Prefecture Chuetsu Earthquake"|平成16年新潟県中越地震|Heisei ju-roku-nen Niigata-ken Chuetsu Jishin}}. Niigata Prefecture is located in the Hokuriku region of Honshu, the largest island of Japan. The initial earthquake had a magnitude 6.8 and caused noticeable shaking across almost half of Honshu, including parts of the Tohoku region|Tohoku, Hokuriku region|Hokuriku, Chūbu region|Chūbu, and Kantō regions.
+
+== Details ==
+The first quake struck the Chuetsu area of Niigata Prefecture, Japan with a reading of 7 on the Japanese ''Japan Meteorological Agency seismic intensity scale|shindo'' intensity scale at Kawaguchi, Niigata. The moment magnitude scale|moment magnitude of the earthquake is estimated at 6.8. For comparison, the Great Hanshin earthquake, which devastated much of Kobe, Hyogo|Kobe, measured 7 on the ''shindo'' scale, with a magnitude of 7.2. The earthquake occurred at a depth of 15.8&nbsp;km. The JMA gave the coordinates of the earthquake as {{coord|37.3|N|138.8|E|display=inline,title|type:event_region:JP}}. 
+
+A second earthquake occurred at 18:12, 16 minutes after the first. This one, at a much shallower depth, had a ''shindo'' intensity of 6+ and a magnitude of 5.9. A third, at 6:34, had a ''shindo'' intensity of 6?. At 19:46, another intensity 6? earthquake occurred. Intervening and subsequent earthquakes of lesser intensity also shook the region. During the first 66 hours, 15 earthquakes with intensities of ''shindo'' 5? or higher rocked the Chuetsu region.
+
+In a press release, the Geographical Survey Institute (GSI) of the Government of Japan published preliminary estimates that a fault having a length of 22&nbsp;km and a width of 17&nbsp;km moved approximately 1.4&nbsp;m.
+
+This was the deadliest earthquake to strike Japan since the January 1995 Great Hanshin earthquake.
+
+== Damage ==
+File:Chuetsu earthquake-myouken2.jpg|thumb|left|Damaged road by landslide
+File:Chuetsu earthquake-earthquake liquefaction1.jpg|thumb|Damaged road in Ojiya, Niigata|Ojiya, October 2004
+As late as November 3, the 39th fatality attributable to the earthquakes occurred as perceptible aftershocks continued. Over 3,000 injuries were reported in Niigata Prefecture. Over one hundred thousand people fled their homes. The earthquakes caused houses to collapse in Ojiya and damaged thousands in the area. 
+File:Chuetsu earthquake-jieitai2.jpg|thumb|Disaster relief convoy of the Japan Self-Defense Forces
+For the first time in its history, a Shinkansen train derailed while in service. Eight out of ten cars of the ''Toki (train)|Toki'' 325 service (a 200 Series Shinkansen train) derailed on the Joetsu Shinkansen line between Nagaoka Station in Nagaoka, Niigata|Nagaoka and Urasa Station in Yamato, Niigata|Yamato; no injuries were reported among the 155 passengers. The railbed, bridges and tunnels were all affected. East Japan Railway Company (JR East) stopped all trains in Niigata Prefecture, including the extensively damaged Joetsu Line, Shinetsu Main Line, Iiyama Line, Tadami Line and Echigo Line. Part of Nagaoka Station appeared ready to collapse as a result of an aftershock, but after a brief closure, the station reopened. 
+File:Chuetsu earthquake-takidashi.jpg|thumb|Soup distributed to people left homeless by the earthquake
+The section of the Joetsu Shinkansen between Echigo-Yuzawa Station and Tsubame-Sanjo Station closed. Buses transferred passengers between the two operating sections of the line: Tokyo Station to Echigo-Yuzawa Station and Tsubame-Sanjo Station to Niigata Station.
+File:200 K25 Toki 325 derailed 20041106.JPG|thumb|Derailed Joetsu Shinkansen train several days after the earthquake
+On December 27, 2004, service resumed on all remaining parts of the Joetsu and Iiyama Lines reopened. On December 28, 2004, the Joetsu Shinkansen also reopened, the last to do so. 
+
+Japan Highway Public Corporation|Japan Highways closed all expressways in Niigata Prefecture. Closures affected the Kanetsu Expressway and the Hokuriku Expressway. As of November 4, the Kanetsu Expressway remained closed between Nagaoka Interchange and Koide Interchange. This segment reopened on November 5. 
+
+Landslides and other problems forced closure of two national highways, Japan National Route 8|National Route 8 and Japan National Route 17|National Route 17, as well as several prefectural roads. This isolated several localities, including nearly the entire Villages of Japan|village of Yamakoshi, Niigata|Yamakoshi, which was then a village in the district of Koshi District, Niigata|Koshi but since merged with and became part of the city of Nagaoka, Niigata|Nagaoka. On July 22, 2005, the government lifted the nine-month-old evacuation order for 528 of the 690 affected households. 
+
+The earthquakes also caused a landslide that partially buried three vehicles. A young boy was rescued from one of these vehicles, but his mother and sister perished. (Recent typhoons had waterlogged the soil, making landslides more likely.) 
+
+The quake broke water mains. Extensive electric power, telephone (including cellular telephone) and Internet outages were reported. The cellular telephone system suffered from direct damage to relay stations, as well as depletion of battery back-up power supplies in as little as a day.
+
+==Aftermath==
+On April 1, 2007, the directive to evacuate five settlements in the former village of Yamakoshi, Niigata|Yamakoshi (later part of the city of Nagaoka, Niigata|Nagaoka) was lifted. Residents were permitted to return to their homes after a span of nearly two and a half years.
+
+A ''Pokémon'' anime episode that was based on the Pokémon Barboach and its evolved form Whiscash causing earthquakes was never aired, due to the similarity with this earthquake. (See: Pokémon episodes removed from rotation#Yureru Shima no Tatakai! Dojoach VS Namazun!!|Pokémon episodes removed from rotation page.)
+
+The movie A Tale of Mari and Three Puppies was based on events that took place during this earthquake.
+
+==History==
+Niigata Prefecture has been hit by numerous earthquakes in recorded history. Notable recent ones include a large 1964 Niigata earthquake|quake on June 16, 1964 that had a magnitude of 7.5, killing 28, where major Earthquake liquefaction|liquefaction had occurred and tsunami destroyed the port of Niigata city.
+
+There was also the 2007 Chūetsu offshore earthquake, both striking shortly after major typhoons passed by, causing complications.
+
+== External links ==
+* http://www.gsi.go.jp/WNEW/PRESS-RELEASE/2004/1024.htm GSI Press Release (in Japanese)
+* http://yahoo.usatoday.com/news/world/2004-10-23-japan-earthquake_x.htm?csp=1 Earthquakes Kill 21, Hurt 2000 in Japan
+* http://www.ce.washington.edu/~liquefaction/html/quakes/niigata/niigata.html 1964 Niigata quake
+
+{{DEFAULTSORT:Chuetsu Earthquake, 2004}}
+{{Earthquakes in 2004}}
+Category:Chūbu region
+Category:Earthquakes in Japan|2004 Chūetsu
+Category:2004 earthquakes
+Category:2004 in Japan
+Category:Hokuriku region

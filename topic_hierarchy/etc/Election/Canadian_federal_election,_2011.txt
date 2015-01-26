@@ -1,0 +1,659 @@
+{{Infobox election
+| election_name     = Canadian federal election, 2011
+| country           = Canada
+| type              = parliamentary
+| party_colour      = no
+| party_name        = no
+| previous_election = Canadian federal election, 2008
+| previous_year     = 2008
+| previous_mps      = List of House members of the 40th Parliament of Canada
+| election_date     = {{Start date|2011|5|2}}
+| elected_mps       = [[List of House members of the 41st Parliament of Canada|members]]
+| next_election     = 42nd Canadian federal election
+| next_year         = 42nd
+| next_mps          = List of House members of the 42nd Parliament of Canada
+| seats_for_election= [[List of Canadian federal electoral districts|308 seats]] in the [[House of Commons of Canada]]
+| majority_seats    = 155
+| opinion_polls     = Opinion polling in the Canadian federal election, 2011
+| turnout           = 61.1%
+<!-- Conservative -->
+| image1            = [[File:Stephen Harper by Remy Steinegger Infobox.jpg|150x150px]]
+| colour1           = {{Canadian party colour|CA|Conservative|nohash}}
+| leader1           = [[Stephen Harper]]
+| party1            = {{Canadian party colour|CA|Conservative|name}}
+| leader_since1     = [[Conservative Party of Canada leadership election, 2004|March 20, 2004]]
+| leaders_seat1     = [[Calgary Southwest]]
+| last_election1    = 143 seats, 37.65%
+| seats_before1     = 143
+| seats1            = 166
+| seat_change1      = +23
+| popular_vote1     = 5,832,401
+| percentage1       = 39.62%
+| swing1            = +1.96[[percentage points|pp]]
+<!-- New Democratic Party -->
+| image2            = [[File:Jack Layton - 2011.jpg|160x150px]]
+| colour2           = {{Canadian party colour|CA|NDP|nohash}}
+| leader2           = [[Jack Layton]]
+| party2            = {{Canadian party colour|CA|NDP|name}}
+| leader_since2     = [[New Democratic Party leadership election, 2003|January 24, 2003]]
+| leaders_seat2     = [[Toronto—Danforth]]
+| last_election2    = 37 seats, 18.18%
+| seats_before2     = 36
+| seats2            = 103
+| seat_change2      = +67
+| popular_vote2     = 4,508,474
+| percentage2       = 30.63%
+| swing2            = +12.44[[percentage points|pp]]
+<!-- Liberal -->
+| image3            = [[File:Victoria, BC Liberal Town Hall Forum public libéral.jpg|150x150px]]
+| colour3           = {{Canadian party colour|CA|Liberal|nohash}}
+| leader3           = [[Michael Ignatieff]]
+| party3            = {{Canadian party colour|CA|Liberal|name}}
+| leader_since3     = [[Liberal Party of Canada leadership election, 2009|May 2, 2009]]
+| leaders_seat3     = [[Etobicoke—Lakeshore]] ''(lost re-election)''
+| last_election3    = 77 seats, 26.26%
+| seats_before3     = 77
+| seats3            = 34
+| seat_change3      = -43
+| popular_vote3     = 2,783,175
+| percentage3       = 18.91%
+| swing3            = -7.36[[percentage points|pp]]
+<!-- Bloc Québécois -->
+| image4            = [[File:Gilles Duceppe2.jpg|150x150px]]
+| colour4           = {{Canadian party colour|CA|BQ|nohash}}
+| leader4           = [[Gilles Duceppe]]
+| party4            = {{Canadian party colour|CA|BQ|name}}
+| leader_since4     = [[Bloc Québécois leadership election, 1997|March 15, 1997]]
+| leaders_seat4     = [[Laurier—Sainte-Marie]] ''(lost re-election)''
+| last_election4    = 49 seats, 9.98%
+| seats_before4     = 47
+| seats4            = 4
+| seat_change4      = -43
+| popular_vote4     = 889,788
+| percentage4       = 6.04%
+| swing4            = -3.94[[percentage points|pp]]
+<!-- Green -->
+| image5            = [[File:Elizabeth May 2a.jpg|150x150px]]
+| colour5           = {{Canadian party colour|CA|Green|nohash}}
+| leader5           = [[Elizabeth May]]
+| party5            = {{Canadian party colour|CA|Green|name}}
+| leader_since5     = [[Green Party of Canada leadership election, 2006|August 27, 2006]]
+| leaders_seat5     = [[Saanich—Gulf Islands]]
+| last_election5    = 0 seats, 6.78%
+| seats_before5     = 0
+| seats5            = 1
+| seat_change5      = +1
+| popular_vote5     = 576,221
+| percentage5       = 3.91%
+| swing5            = -2.87[[percentage points|pp]]
+<!-- map -->
+| map_image         = Canada 2011 Federal Election.svg
+| map_size          =
+| map_caption       = Popular vote by province, with graphs indicating the number of seats won. As this is an [[FPTP]] election, seat totals are not determined by popular vote by province but instead via results by each riding.
+<!-- bottom -->
+| title             = [[Prime Minister of Canada|Prime Minister]]
+| before_election   = [[Stephen Harper]]
+| before_party      = {{Canadian party colour|CA|Conservative|name}}
+| posttitle         = [[Prime Minister of Canada|Prime Minister]] after election
+| after_election    = [[Stephen Harper]]
+| after_party       = {{Canadian party colour|CA|Conservative|name}}
+}}
+The '''2011 Canadian federal election''' (formally the '''41st Canadian general election''') was held Monday, May&nbsp;2, 2011, to elect members to the [[Canadian House of Commons|House of Commons]] of the [[41st Canadian Parliament]].
+
+The [[writ of election|writs of election]] for the 2011 election were issued by [[Governor General of Canada|Governor General]] [[David Johnston]] on March&nbsp;26. [[Prime Minister of Canada|Prime Minister]] [[Stephen Harper]] advised the Governor General to dissolve parliament after the House of Commons passed a [[motion of no confidence|motion of non-confidence]] against the government, finding it to be in [[contempt of parliament]]. A few days before, the three opposition parties had rejected the government's proposed budget.<ref name="macleans1">{{cite web|last=Wells |first=Paul |url=http://www2.macleans.ca/2011/05/05/not-feeling-the-love/ |title=The untold story of the 2011 election: Chapter 2 |publisher=Macleans.ca |date=2011-05-05 |accessdate=2012-03-19}}</ref>
+
+The [[Conservative Party of Canada|Conservative Party]] remained in power, increasing their seat count from a [[minority government|minority]] to a [[majority government]]. The [[Liberal Party of Canada|Liberal Party]] won the fewest seats in their history, and party leader [[Michael Ignatieff]] was defeated in [[Etobicoke—Lakeshore|his riding]]. The [[Bloc Québécois]] lost [[official party status]] for the first time since contesting general elections in 1993. Party leader [[Gilles Duceppe]] was defeated in [[Laurier—Sainte-Marie|his riding]] and subsequently resigned as leader. The [[New Democratic Party (Canada)|New Democratic Party]] won the largest number of seats in their history, enabling them to form the [[Official Opposition (Canada)|Official Opposition]] for the first time. The [[Green Party of Canada|Green Party]] elected its first member to the House of Commons with its leader, [[Elizabeth May]], becoming MP for [[Saanich—Gulf Islands]].
+
+==Background==
+{{main|40th Canadian Parliament}}
+The [[Canadian federal election, 2008|2008 federal election]] resulted in the continuation of the incumbent [[Conservative Party of Canada|Conservative]] minority government, headed by [[Stephen Harper]]. The 40th Parliament was marked by two controversial [[prorogation in Canada|prorogations]]: the first in December 2008 which ended an [[2008–2009 Canadian parliamentary dispute|attempted opposition coalition]], and the second a year following, which prompted [[2010 Canada anti-prorogation protests|public protests]]. Following the first prorogation, Ignatieff and the Liberal Party provided support for the government of Prime Minister [[Stephen Harper]]. On August 31, 2009, the Liberals withdrew their backing but the NDP under [[Jack Layton]] abstained and the Conservatives survived the confidence motion.<ref>{{cite news|url=http://ca.reuters.com/article/domesticNews/idCATRE58T4BE20091001 |title=Canada's government survives non-confidence motion &#124; Canada &#124; Reuters |publisher=Ca.reuters.com |date=October 1, 2009 |accessdate=April 28, 2010}}</ref>
+Ignatieff's attempt to force a September 2009 election was reported as a miscalculation, as polls showed that most Canadians did not want another election.<ref>{{cite web|title=Despite Election Rhetoric, Seven in Ten (68%) Canadians Say There's 'No Need for an Election', Majority (51%) Says County Heading in 'Right Direction', Minority (41%) 'Wrong', Ipsos |url=http://www.ipsos-na.com/news-polls/pressrelease.aspx?id=4420|publisher=Ipsos Market Research |accessdate=December 18, 2011|date=June 6, 2009}}</ref><ref>{{cite news|title=Time to make minority work|url=http://www.thestar.com/opinion/editorials/article/696242|publisher=The Star|accessdate=December 17, 2011|date=September 16, 2009}}</ref> Ignatieff's popularity as well as that of the Liberals dropped off considerably immediately afterwards.<ref>[http://www.nationalpost.com/news/canada/story.html?id=2221709 Ignatieff closing in on Dion territory] National Post:November 14, 2009{{dead link|date=March 2012}}</ref>
+
+In 2011, [[Elections Canada]] laid [[In and Out scandal|charges against the Conservative Party]], alleging contraventions of the Canada Elections Act five years earlier.<ref>{{cite press release |url=http://www.elections.ca/content.aspx?section=abo&dir=com/stat&document=index&lang=e |title=''Canada Elections Act'' Charges Laid |publisher=Elections Canada |accessdate=April 27, 2011 |date=February 25, 2011}}</ref><ref>{{cite news|last=Akin |first=David |url=http://www.lfpress.com/news/canada/2011/02/24/17401196.html |title=PM shrugs off charges against Tories |publisher=Lfpress.com |date=February 25, 2011 |accessdate=April 17, 2011}}</ref><ref name=illegal>{{cite news|author=Bruce Cheadle |url=http://www.theglobeandmail.com/news/politics/tory-election-allegations-illegal-not-administrative-prosecutor-says/article1924161/ |title=Tory election allegations 'illegal' not administrative, prosecutor says |work=The Globe and Mail |location=Canada  |date= February 28, 2011|accessdate=April 17, 2011}}</ref> This issue, along with the Bloc Québécois announcing its intention to vote against the budget, unless it contained numerous changes including $2&nbsp;billion in compensation to Quebec for harmonizing PST and GST and funding for a new NHL arena in [[Quebec City]], increased the speculation that there would be an election called soon as the Conservatives rejected the Bloc demands as "blackmail".<ref>{{cite news|url=http://www2.macleans.ca/2011/01/12/bloc-threatens-to-vote-against-budget/ |title=Bloc threatens to vote against budget |publisher=Macleans.ca |date=January 12, 2011 |accessdate=April 18, 2011}}</ref>
+
+On March&nbsp;9, 2011, [[Speaker of the Canadian House of Commons|Speaker]] of the House of Commons [[Peter Milliken]] ruled that [[Bev Oda]], a [[minister of the Crown]], and, separately, the [[Cabinet of Canada|Cabinet]] itself could both possibly be in [[contempt of parliament]],<ref>{{cite news |title=PM on rulings: 'win some, lose some' |author= Laura Payton|url=http://www.cbc.ca/news/politics/story/2011/03/09/pol-speaker-rulings.html |newspaper= [[CBC News]]|date=March 9, 2011 |accessdate=March 26, 2011}}</ref> the latter for its ongoing refusal to meet opposition requests for details of proposed bills and their cost estimates.<ref name=findings>{{cite news |url=http://www.cbc.ca/news/politics/story/2011/03/21/pol-privilege-contempt.html |title=MPs' report finds government in contempt |date=March 21, 2011 |publisher= [[CBC News]] |accessdate=March 24, 2011 |deadurl=yes}} {{Dead link|date=September 2013|bot=RjwilmsiBot}}</ref> Milliken directed both matters to committee and set as the deadline for its report March&nbsp;21, 2011, one day before the budget was to be tabled. The committee found the government to be in contempt of Parliament.<ref>{{cite web |url=http://www2.parl.gc.ca/content/hoc/Committee/403/PROC/Reports/RP5047570/procrp27/procrp27-e.pdf |title=Question of Privilege Relating to the Failure of the Government To Fully Provide the Documents as Ordered by the House: Report of the Standing Committee on Procedure and House Affairs |accessdate=April 26, 2011 |date=March 2011}}</ref> The vote divided along party lines, with the governing but minority Conservative [[Member of Parliament (Canada)|Members of Parliament]] (MPs) opposing the finding and issuing a dissenting report.<ref name=findings/> After the committee released its findings, [[Leader of the Official Opposition (Canada)|opposition leader]] and head of the [[Liberal Party of Canada|Liberal Party]] [[Michael Ignatieff]] proposed a [[motion of no confidence]] against the Crown-in-Council and,<ref>{{cite book|title=40th Parliament, 3rd Session, Friday, March&nbsp;25, 2011|publisher=Parlement of Canada|url=http://www.parl.gc.ca/HousePublications/Publication.aspx?Language=E&Mode=1&Parl=40&Ses=3&DocId=5072532#SOBQ-3827544|author=Government of Canada|accessdate=May 1, 2011|date=March 25, 2011}}</ref><ref>{{cite news|author=Stephanie Levitz and Martin O'Hanlon, The Canadian Press: |url=http://www.globaltvcalgary.com/personalities/Liberals+introduce+confidence+motion/4489986/story.html |title=Harper government set to fall Friday, setting stage for vote in early May |publisher=Globaltvcalgary.com |date=March 23, 2011 |accessdate=April 13, 2011}}</ref> on March&nbsp;25, 2011, the House of Commons voted on the motion, the majority agreeing, by a margin of 156 to 145, with the committee's conclusions.<ref name=Winnipeg1>{{cite news |url=http://winnipeg.ctv.ca/servlet/an/local/CTVNews/20110325/wpg_election_110325/20110325/?hub=WinnipegHome |title= Harper government topples on contempt motion, triggering May election|author= Bruce Cheadle|date=March 25, 2011 |publisher= [[The Canadian Press]]; [[CTV news]]|accessdate=March 25, 2011}}</ref><ref name=thestar1>{{cite news |title=Walkom: Yes, contempt of Parliament does matter |author= Thomas Walkom|url=http://www.thestar.com/news/canada/politics/article/962022--walkom-yes-contempt-of-parliament-does-matter |newspaper=[[Toronto Star]] |date=March 25, 2011 |accessdate=March 25, 2011}}</ref><ref>{{cite news|last=Gardner |first=Dan |url=http://www.ottawacitizen.com/news/decision-canada/Gardner+going+reward+contempt+Parliament/4564215/story.html |title=Gardner: Are we going to reward contempt of Parliament? |publisher=Ottawacitizen.com |date=April 8, 2011 |accessdate=April 27, 2011}}</ref><!-- cites overkill<ref>{{Cite news|url=http://www.cbc.ca/news/politics/story/2011/03/26/cv-election-writ.html |title=Election day set for May&nbsp;2 |author=[[CBC News]] |publisher=[[Canadian Broadcasting Corporation|CBC]] |date=March 26, 2011 |accessdate=March 26, 2011}}</ref><ref>{{Cite news|url=http://www.cbc.ca/news/canada/story/2011/03/21/f-government-game-privilege-contempt.html |title=Breaking the rules in the game of government |author=[[CBC News]] |publisher=[[Canadian Broadcasting Corporation|CBC]] |date=March 21, 2011 |accessdate=May 1, 2011}}</ref><ref>{{Cite news|url=http://www.cbc.ca/news/politics/story/2011/03/25/pol-defeat.html |title=MPs gather for historic vote |author=[[CBC News]] |publisher=[[Canadian Broadcasting Corporation|CBC]] |date=March 25, 2011 |accessdate=March 25, 2011}}</ref><ref>{{cite news|last=Mayeda|first=Andrew|title=Harper government falls|url=http://www.vancouversun.com/Harper+government+falls/4503131/story.html|accessdate=March 25, 2011|newspaper=Vancouver Sun|date=March 25, 2011}}</ref>--> A cabinet being found in contempt of parliament is without precedent in Canada or any other [[Commonwealth of Nations|Commonwealth country]].<ref name=Winnipeg1 /><ref name=thestar1 /> Earlier that week, all three opposition parties had indicated that they would oppose the government's budget; the NDP said that the concessions that the Conservatives made did not go far enough.<ref name="macleans1"/>
+
+==Campaign slogans==
+<!-- Let's try to keep this section in alphabetical order by party, please. -->
+The parties' [[political slogan|campaign slogans]] for the 2011 election:{{citation needed|date = May 2014}}
+
+* Bloc Québécois: "Parlons Québec"
+* Conservative Party: "Here For Canada / Ici pour le Canada". In francophone Quebec, Harper ran under the slogan "Notre région au pouvoir" (our region to power).<ref name="quebecslogan">{{cite news|url=http://www.cbc.ca/news/politics/inside-politics-blog/2011/04/here-for-canada-except-in-quebec.html |title=Here in Canada except in Quebec |work=CBC |location=Canada |date=April 8, 2011|accessdate=April 8, 2011 |deadurl=yes}} {{Dead link|date=September 2013|bot=RjwilmsiBot}}</ref>
+
+* Green Party: "It's Time" & "Canada needs Elizabeth May but only you can elect her"
+* Liberal Party: "Rise Up Canada" & "Change we need, from a proven team." The first one refers to Harper's contempt charge. The second one was used after the NDP's surge in the opinion polls making reference to the fact they never formed a government and have relatively inexperienced candidates.
+* New Democratic Party: "Working For Families / Travaillons ensemble", "You have a choice", & "That's Canadian Leadership"
+
+==Results==
+{{Main|Results of the Canadian federal election, 2011|Results by riding of the Canadian federal election, 2011}}
+
+{| style="width:70%; text-align:center;"
+|+ ↓
+|- style="color:white;"
+| style="background:{{Canadian party colour|CA|Conservative}}; width:53.90%;" | '''166'''
+| style="background:{{Canadian party colour|CA|NDP}}; width:33.44%;" | '''103'''
+| style="background:{{Canadian party colour|CA|Liberal}}; width:11.04%;" | '''34'''
+| style="background:{{Canadian party colour|CA|BQ}}; width:1.3%;" | '''4'''
+| style="background:{{Canadian party colour|CA|Green}}; width:1%;" | '''1'''
+|-
+| <span style="color:{{Canadian party colour|CA|Conservative}};">'''Conservative'''</span>
+| <span style="color:{{Canadian party colour|CA|NDP}};">'''New Democratic'''</span>
+| <span style="color:{{Canadian party colour|CA|Liberal}};">'''Liberal'''</span>
+| <span style="color:{{Canadian party colour|CA|BQ}};">'''B<br>Q'''</span>
+| <span style="color:{{Canadian party colour|CA|Green}};">'''G'''</span>
+|}
+{{Canadian federal election, 2011}}
+The voter turnout was 61.1%.<ref>{{cite web|last=Pomfret|first=R.|title=Voter Turnout at Federal Elections and Referendums|url=http://www.elections.ca/content.aspx?section=ele&dir=turn&document=index&lang=e|work=Elections Canada Online|publisher=Elections Canada|accessdate=February 10, 2012}}</ref>
+
+{{bar box
+|title=Vote share
+|titlebar=#ddd
+|width=600px
+|barwidth=410px
+|bars=
+{{bar percent|'''Conservative'''|{{Canadian party colour|CA|Conservative}}|39.62}}
+{{bar percent|NDP|{{Canadian party colour|CA|NDP}}|30.63}}
+{{bar percent|Liberal|{{Canadian party colour|CA|Liberal}}|18.91}}
+{{bar percent|Bloc Québécois|{{Canadian party colour|CA|BQ}}|6.04}}
+{{bar percent|Green|{{Canadian party colour|CA|Green}}|3.91}}
+{{bar percent|Others|#777777|0.89}}
+}}
+{{bar box
+|title=Parliamentary seats
+|titlebar=#ddd
+|width=600px
+|barwidth=410px
+|bars=
+{{bar percent|'''Conservative'''|{{Canadian party colour|CA|Conservative}}|53.90}}
+{{bar percent|NDP|{{Canadian party colour|CA|NDP}}|33.44}}
+{{bar percent|Liberal|{{Canadian party colour|CA|Liberal}}|11.04}}
+{{bar percent|Bloc Québécois|{{Canadian party colour|CA|BQ}}|1.30}}
+{{bar percent|Green|{{Canadian party colour|CA|Green}}|0.32}}
+}}
+
+==Results by province==
+{| class="wikitable"
+|-
+! style="text-align:center;" colspan="3"|Party name
+! style="text-align:center;"|[[British Columbia|BC]]
+! style="text-align:center;"|[[Alberta|AB]]
+! style="text-align:center;"|[[Saskatchewan|SK]]
+! style="text-align:center;"|[[Manitoba|MB]]
+! style="text-align:center;"|[[Ontario|ON]]
+! style="text-align:center;"|[[Quebec|QC]]
+! style="text-align:center;"|[[New Brunswick|NB]]
+! style="text-align:center;"|[[Nova Scotia|NS]]
+! style="text-align:center;"|[[Prince Edward Island|PE]]
+! style="text-align:center;"|[[Newfoundland and Labrador|NL]]
+! style="text-align:center;"|[[Yukon|YT]]
+! style="text-align:center;"|[[Northwest Territories|NT]]
+! style="text-align:center;"|[[Nunavut|NU]]
+! style="text-align:center;"|Total
+|-
+|{{Canadian politics/party colours/Conservative}} rowspan="2" |&nbsp;&nbsp;&nbsp;&nbsp;
+| rowspan="2"|[[Conservative Party of Canada|Conservative]]
+| Seats:
+| style="text-align:right;"|'''21''' <!--BC-->
+| style="text-align:right;"|'''27''' <!--AB-->
+| style="text-align:right;"|'''13''' <!--SK-->
+| style="text-align:right;"|'''11''' <!--MB-->
+| style="text-align:right;"|'''73''' <!--ON-->
+| style="text-align:right;"|'''5''' <!--QC-->
+| style="text-align:right;"|'''8''' <!--NB-->
+| style="text-align:right;"|'''4''' <!--NS-->
+| style="text-align:right;"|'''1''' <!--PE-->
+| style="text-align:right;"|'''1''' <!--NL-->
+| style="text-align:right;"|'''1''' <!--YT-->
+| style="text-align:right;"|'''0''' <!--NT-->
+| style="text-align:right;"|'''1''' <!--NU-->
+| style="text-align:right;"|'''166'''<!--Canada/Total-->
+|-
+| Vote:
+| style="text-align:right;"|45.5 <!--BC-->
+| style="text-align:right;"|66.8 <!--AB-->
+| style="text-align:right;"|56.3 <!--SK-->
+| style="text-align:right;"|53.5 <!--MB-->
+| style="text-align:right;"|44.4 <!--ON-->
+| style="text-align:right;"|16.5 <!--QC-->
+| style="text-align:right;"|43.9 <!--NB-->
+| style="text-align:right;"|36.7 <!--NS-->
+| style="text-align:right;"|41.2 <!--PE-->
+| style="text-align:right;"|28.4 <!--NL-->
+| style="text-align:right;"|33.8 <!--YT-->
+| style="text-align:right;"|32.1 <!--NT-->
+| style="text-align:right;"|49.9 <!--NU-->
+| style="text-align:right;"|39.6 <!--Canada/Total-->
+|-
+|{{Canadian politics/party colours/NDP}} rowspan="2" |&nbsp;&nbsp;&nbsp;&nbsp;
+| rowspan="2"|[[New Democratic Party (Canada)|New Democratic Party]]
+| Seats:
+| style="text-align:right;"|'''12''' <!--BC-->
+| style="text-align:right;"|'''1''' <!--AB-->
+| style="text-align:right;"|'''0''' <!--SK-->
+| style="text-align:right;"|'''2''' <!--MB-->
+| style="text-align:right;"|'''22''' <!--ON-->
+| style="text-align:right;"|'''59''' <!--QC-->
+| style="text-align:right;"|'''1''' <!--NB-->
+| style="text-align:right;"|'''3''' <!--NS-->
+| style="text-align:right;"|'''0''' <!--PE-->
+| style="text-align:right;"|'''2''' <!--NL-->
+| style="text-align:right;"|'''0''' <!--YT-->
+| style="text-align:right;"|'''1''' <!--NT-->
+| style="text-align:right;"|'''0''' <!--NU-->
+| style="text-align:right;"|'''103'''<!--Canada/Total-->
+|-
+| Vote:
+| style="text-align:right;"|32.5 <!--BC-->
+| style="text-align:right;"|16.8 <!--AB-->
+| style="text-align:right;"|32.3 <!--SK-->
+| style="text-align:right;"|25.8 <!--MB-->
+| style="text-align:right;"|25.6 <!--ON-->
+| style="text-align:right;"|42.9 <!--QC-->
+| style="text-align:right;"|29.8 <!--NB-->
+| style="text-align:right;"|30.3 <!--NS-->
+| style="text-align:right;"|15.4 <!--PE-->
+| style="text-align:right;"|32.6 <!--NL-->
+| style="text-align:right;"|14.4 <!--YT-->
+| style="text-align:right;"|45.8 <!--NT-->
+| style="text-align:right;"|19.4 <!--NU-->
+| style="text-align:right;"|30.6 <!--Canada/Total-->
+|-
+|{{Canadian politics/party colours/Liberal}} rowspan="2" |&nbsp;&nbsp;&nbsp;&nbsp;
+| rowspan="2"|[[Liberal Party of Canada|Liberal]]
+| Seats:
+| style="text-align:right;"|'''2''' <!--BC-->
+| style="text-align:right;"|'''0''' <!--AB-->
+| style="text-align:right;"|'''1''' <!--SK-->
+| style="text-align:right;"|'''1''' <!--MB-->
+| style="text-align:right;"|'''11''' <!--ON-->
+| style="text-align:right;"|'''7''' <!--QC-->
+| style="text-align:right;"|'''1''' <!--NB-->
+| style="text-align:right;"|'''4''' <!--NS-->
+| style="text-align:right;"|'''3''' <!--PE-->
+| style="text-align:right;"|'''4''' <!--NL-->
+| style="text-align:right;"|'''0''' <!--YT-->
+| style="text-align:right;"|'''0''' <!--NT-->
+| style="text-align:right;"|'''0''' <!--NU-->
+| style="text-align:right;"|'''34'''<!--Canada/Total-->
+|-
+| Vote:
+| style="text-align:right;"|13.4 <!--BC-->
+| style="text-align:right;"|9.3 <!--AB-->
+| style="text-align:right;"|8.6 <!--SK-->
+| style="text-align:right;"|16.6 <!--MB-->
+| style="text-align:right;"|25.3 <!--ON-->
+| style="text-align:right;"|14.2 <!--QC-->
+| style="text-align:right;"|22.6 <!--NB-->
+| style="text-align:right;"|28.9 <!--NS-->
+| style="text-align:right;"|41.0 <!--PE-->
+| style="text-align:right;"|37.9 <!--NL-->
+| style="text-align:right;"|33.0 <!--YT-->
+| style="text-align:right;"|18.4 <!--NT-->
+| style="text-align:right;"|28.6 <!--NU-->
+| style="text-align:right;"|18.9 <!--Canada/Total-->
+|-
+|{{Canadian politics/party colours/BQ}} rowspan="2" |&nbsp;&nbsp;&nbsp;&nbsp;
+| rowspan="2"|[[Bloc Québécois]]
+| Seats:
+| style="text-align:right;"| <!--BC-->
+| style="text-align:right;"| <!--AB-->
+| style="text-align:right;"| <!--SK-->
+| style="text-align:right;"| <!--MB-->
+| style="text-align:right;"| <!--ON-->
+| style="text-align:right;"|'''4''' <!--QC-->
+| style="text-align:right;"| <!--NB-->
+| style="text-align:right;"| <!--NS-->
+| style="text-align:right;"| <!--PE-->
+| style="text-align:right;"| <!--NL-->
+| style="text-align:right;"| <!--YT-->
+| style="text-align:right;"| <!--NT-->
+| style="text-align:right;"| <!--NU-->
+| style="text-align:right;"|'''4'''<!--Canada/Total-->
+|-
+| Vote:
+| style="text-align:right;"| <!--BC-->
+| style="text-align:right;"| <!--AB-->
+| style="text-align:right;"| <!--SK-->
+| style="text-align:right;"| <!--MB-->
+| style="text-align:right;"| <!--ON-->
+| style="text-align:right;"|23.4 <!--QC-->
+| style="text-align:right;"| <!--NB-->
+| style="text-align:right;"| <!--NS-->
+| style="text-align:right;"| <!--PE-->
+| style="text-align:right;"| <!--NL-->
+| style="text-align:right;"| <!--YT-->
+| style="text-align:right;"| <!--NT-->
+| style="text-align:right;"| <!--NU-->
+| style="text-align:right;"|6.0 <!--Canada/Total-->
+|-
+|{{Canadian party colour|CA|Green|background}} rowspan="2" |&nbsp;&nbsp;&nbsp;&nbsp;
+| rowspan="2"|[[Green Party of Canada|Green]]
+| Seats:
+| style="text-align:right;"|'''1''' <!--BC-->
+| style="text-align:right;"|'''0''' <!--AB-->
+| style="text-align:right;"|'''0''' <!--SK-->
+| style="text-align:right;"|'''0''' <!--MB-->
+| style="text-align:right;"|'''0''' <!--ON-->
+| style="text-align:right;"|'''0''' <!--QC-->
+| style="text-align:right;"|'''0''' <!--NB-->
+| style="text-align:right;"|'''0''' <!--NS-->
+| style="text-align:right;"|'''0''' <!--PE-->
+| style="text-align:right;"|'''0''' <!--NL-->
+| style="text-align:right;"|'''0''' <!--YT-->
+| style="text-align:right;"|'''0''' <!--NT-->
+| style="text-align:right;"|'''0''' <!--NU-->
+| style="text-align:right;"|'''1'''<!--Canada/Total-->
+|-
+| Vote:
+| style="text-align:right;"|7.7 <!--BC-->
+| style="text-align:right;"|5.3 <!--AB-->
+| style="text-align:right;"|2.7 <!--SK-->
+| style="text-align:right;"|3.6 <!--MB-->
+| style="text-align:right;"|3.8 <!--ON-->
+| style="text-align:right;"|2.1 <!--QC-->
+| style="text-align:right;"|3.2 <!--NB-->
+| style="text-align:right;"|4.0 <!--NS-->
+| style="text-align:right;"|2.4 <!--PE-->
+| style="text-align:right;"|0.9 <!--NL-->
+| style="text-align:right;"|18.9 <!--YT-->
+| style="text-align:right;"|3.1 <!--NT-->
+| style="text-align:right;"|2.1 <!--NU-->
+| style="text-align:right;"|3.9 <!--Canada/Total-->
+|-
+|{{Canadian politics/party colours/Independents}}|&nbsp;&nbsp;&nbsp;&nbsp;
+| [[Independent (politician)|Independent and no affiliation]]
+| Vote:
+| style="text-align:right;"|0.2 <!--BC-->
+| style="text-align:right;"|1.3 <!--AB-->
+| style="text-align:right;"|0.2 <!--SK-->
+| style="text-align:right;"|0.1 <!--MB-->
+| style="text-align:right;"|0.2 <!--ON-->
+| style="text-align:right;"|0.6 <!--QC-->
+| style="text-align:right;"|0.5 <!--NB-->
+| style="text-align:right;"| <!--NS-->
+| style="text-align:right;"| <!--PE-->
+| style="text-align:right;"|0.3 <!--NL-->
+| style="text-align:right;"| <!--YT-->
+| style="text-align:right;"| <!--NT-->
+| style="text-align:right;"| <!--NU-->
+| style="text-align:right;"|0.4<!--Canada/Total-->
+{{Canadian politics/party colours/Other/row}}
+! colspan="2" |Total seats
+! style="text-align:right;"|36 <!--BC-->
+! style="text-align:right;"|28 <!--AB-->
+! style="text-align:right;"|14 <!--SK-->
+! style="text-align:right;"|14 <!--MB-->
+! style="text-align:right;"|106<!--ON-->
+! style="text-align:right;"|75 <!--QC-->
+! style="text-align:right;"|10 <!--NB-->
+! style="text-align:right;"|11 <!--NS-->
+! style="text-align:right;"|4 <!--PE-->
+! style="text-align:right;"|7 <!--NL-->
+! style="text-align:right;"|1 <!--YT-->
+! style="text-align:right;"|1 <!--NT-->
+! style="text-align:right;"|1 <!--NU-->
+! style="text-align:right;"|308 <!--Canada/Total-->
+|}
+
+==Post-election==
+
+===Overview of results===
+[[File:Elections2011wikipedia.JPG|right|thumb|Canada Federal Election 2011 by Province]]
+[[File:Canada 2011 Federal Election seats.svg|thumb|right|250px|Rendition of party representation in the [[41st Canadian Parliament]] decided by this election
+{{legend|#6495ED|Conservatives (166)}}
+{{legend|#F4A460|New Democrats (103)}}
+{{legend|#F08080|Liberals (34)}}
+{{legend|#87CEFA|Bloc Québécois (4)}}
+{{legend|#2F873E|Green Party (1)}}]]
+[[Image:Canada Fed election 2011 Ridings.svg|thumb|right|Results by riding; shades refer to popular vote, as all ridings elected one member]]
+With an overall voter turnout of 61.4%,<ref>{{cite journal|last=Reilly|first=Ian|title="Amusing Ourselves to Death?" Social Media, Political Satire, and the 2011 Election|journal=Canadian Journal of Communication|year=2011|volume=36|issue=3|page=503}}</ref> the [[Conservative Party of Canada|Conservative Party]] remained in power, moving from a [[minority government|minority]] to a [[majority government]]<ref>{{cite web|url=http://enr.elections.ca/National_e.aspx |title= Preliminary Results |publisher=Elections Canada |accessdate=May 3, 2011}}</ref> by winning 166 of the 308 seats.<ref>{{cite news|title=Kanada: Konservative erringen Sieg|url=http://www.welt.de/print/welt_kompakt/print_politik/article13334432/Kanada-Konservative-erringen-Sieg.html|accessdate=May 11, 2011|newspaper=[[Die Welt]]|date=May 4, 2011|language=German}}</ref>  The [[New Democratic Party (Canada)|New Democratic Party]] won the largest number of seats in their history, including a large majority of seats in [[Quebec]] (where they had previously only ever elected two candidates<ref name=ndpqc group=fn />) and formed the [[Official Opposition (Canada)|Official Opposition]] for the first time. The [[Liberal Party of Canada|Liberal Party]] won the fewest seats in their history and party leader [[Michael Ignatieff]] was defeated in his own [[electoral district (Canada)|riding]].<ref name=libhist group=fn /> The [[Bloc Québécois]], which had always won at least a majority of seats in Quebec in every election of their existence, lost nearly all their seats, and thus also their [[official party status]], including the seat of their leader [[Gilles Duceppe]].<ref>{{cite news|last=LeBlanc|first=Daniel|title=Duceppe resigns as Bloc leader after losing riding|url=http://www.theglobeandmail.com/news/politics/duceppe-resigns-as-bloc-leader-after-losing-riding/article2007598/|accessdate=May 11, 2011|newspaper=[[The Globe and Mail]]|date=May 2, 2011}}</ref> [[Green Party of Canada|Green Party]] leader [[Elizabeth May]] became the first [[Member of Parliament (Canada)|Member]] of [[Parliament of Canada|Parliament]] elected to represent the party.<ref name="StarResultsPostElection">{{cite news|last=Taylor|first=Lesley Ciarula|title=Dryden falls, Trudeau survives: Notable election winners and losers|url=http://www.thestar.com/news/canada/federalbudget/article/984605--dryden-falls-trudeau-survives-notable-election-winners-and-losers?bn=1|accessdate=May 3, 2011|newspaper=[[Toronto Star]]|date=May 3, 2011}}</ref>
+
+===Recounts===
+[[Elections Canada]] ordered three [[Judiciary|judicial]] [[election recount|recounts]],<ref name=GazetteRecount>{{cite news |last=Chai |first=Carmen |title=Elections Canada now reviewing 3 riding wins |url=http://www.montrealgazette.com/news/canada/Elections+Canada+reviewing+riding+wins/4735165/story.html|accessdate=May 5, 2011|newspaper=[[Montreal Gazette]] |date=May 5, 2011}}</ref> and an elector initiated a fourth.<ref>{{cite news |url=http://www.cbc.ca/news/canada/manitoba/story/2011/05/13/mb-recount-election-winnipeg.html |title=Vote recount set for Winnipeg federal riding |publisher=CBC News |date=May 13, 2011 |accessdate=May 14, 2011 |deadurl=yes}} {{Dead link|date=September 2013|bot=RjwilmsiBot}}</ref> The [[Canada Elections Act]] states that "a judicial recount is required when the difference in votes between the first- and second-place candidates is less than one one-thousandth of the total votes cast in a riding," and allows an elector or candidate in any riding to approach a judge and request a recount regardless of the final result.<ref name=GazetteRecount/> In all four ridings, [[Etobicoke Centre (electoral district)|Etobicoke Centre]], [[Montmagny—L'Islet—Kamouraska—Rivière-du-Loup]], [[Nipissing—Timiskaming]], and [[Winnipeg North]], the validated result was confirmed:
+*As initially validated by election officials, [[Conservative Party of Canada|Conservative Party]] candidate [[Ted Opitz]] defeated Liberal incumbent [[Borys Wrzesnewskyj]] in [[Etobicoke Centre (electoral district)|Etobicoke Centre]] by 25 votes,<ref>{{cite news |url=http://www.thestar.com/news/crime/article/985959--judicial-recount-ordered-for-etobicoke-centre-riding |title=Judicial recount ordered for Etobicoke Centre riding|date=May 4, 2011 |accessdate=May 4, 2011 |work=Toronto Star |first=Henry |last=Stancu}}</ref> a margin increased by one in the recount.<ref>{{cite news |url=http://www.cbc.ca/news/canada/toronto/story/2011/05/23/ted-opitz-recount-etobicoke-centre.html |title=Conservative Opitz wins Etobicoke Centre recount |work=CBC News |date=May 23, 2011 |accessdate=May 23, 2011}}</ref> Citing potential voter registration irregularities, however, Wrzesnewskyj has sought to have the result overturned by the courts, filing a formal motion with the [[Ontario Superior Court]] in spring 2012.<ref>[http://www.cbc.ca/news/politics/inside-politics-blog/2012/04/wrzesnewskyj-vs-elections-canada-over-clerical-errors.html "Wrzesnewskyj vs. Elections Canada over 'clerical errors'"]. [[CBC News]], April 23, 2012.</ref> On October 25, 2012, the [[Supreme Court of Canada]] upheld Opitz's narrow victory.<ref>{{cite web|title=Judgements of the Supreme Court of Canada: Opitz v. Wrzesnewskyj|url=http://scc.lexum.org/decisia-scc-csc/scc-csc/scc-csc/en/item/12635/index.do|accessdate=June 25, 2012}}</ref>
+*Initially, Conservative [[Jay Aspin]] defeated incumbent [[Anthony Rota]] of the [[Liberal Party of Canada|Liberal Party]] by 15 votes in Nipissing—Timiskaming; the recount added three votes to the margin of victory.<ref name="WinnNipTim">{{cite news |url=http://www.theglobeandmail.com/news/politics/ottawa-notebook/recounts-confirm-liberal-victory-in-winnipeg-tory-win-in-northern-ontario/article2024876/?utm_medium=Feeds%3A%20RSS%2FAtom&utm_source=Politics&utm_content=2024876 |title=Recounts confirm Liberal victory in Winnipeg, Tory win in Northern Ontario |work=The Globe and Mail |location=Canada  |date=May 17, 2011 |accessdate=May 17, 2011 |first=Gloria |last=Galloway}}</ref>
+*In Montmagny—L'Islet—Kamouraska—Rivière-du-Loup, incumbent Conservative MP [[Bernard Généreux]] was initially declared re-elected, but due to a counting error on election night, the seat was later determined to have been won by the NDP candidate [[François Lapointe (politician)|François Lapointe]] by a margin of five votes.<ref name=GazetteRecount/> The recount confirmed Lapointe as the winner by nine votes.<ref>{{cite web |url=http://www.vancouversun.com/news/decision-canada/Recount+gives+59th+seat+Quebec/4785274/story.html |title=Recount gives NDP 59th seat in Quebec |work=Vancouver Sun |location=Canada  |date=May 14, 2011 |accessdate=May 15, 2011}}</ref>
+*In Winnipeg North, a recount was requested by an elector; the difference between Liberal [[Kevin Lamoureux]], the victor, and New Democrat [[Rebecca Blaikie]] was just 45 votes,<ref name=CPWpg-North>{{cite news |title=Too close to be sure: judicial recount in Winnipeg North |url=http://www.google.com/hostednews/canadianpress/article/ALeqM5hlx9fkfvVDvIgGQva78aaVRr5Zkw?docId=6841615 |accessdate=May 13, 2011 |newspaper=[[Canadian Press]]}}</ref> reduced by one vote in the recount.<ref name="WinnNipTim"/>
+
+===Opposition party leadership changes===
+Ignatieff announced on May 3, 2011, that he would step down as leader of the [[Liberal Party of Canada|Liberal Party]] when it chooses his successor.<ref name="StarResultsPostElection"/><ref name=NatPostLiblearesign>{{Cite news|url=http://news.nationalpost.com/2011/05/03/ignatieff-press-conference-fuels-speculation-about-leaders-future/ |title=Ignatieff steps down as Liberal leader|author=[[National Post]] |work=National Post |location=Canada  |date=May 3, 2011 |accessdate=May 3, 2011}}</ref> Ignatieff took a teaching position at the [[University of Toronto]] after his defeat in [[Etobicoke—Lakeshore]].<ref name="Globeteaching">{{cite news|last=Valpy|first=Micha  el|title=Ignatieff says U of T teaching position to mark 'end of my life as a politician'|url=http://www.theglobeandmail.com/news/politics/u-of-t-teaching-position-to-mark-the-end-of-my-life-as-a-politician/article2011390/|accessdate=May 5, 2011|newspaper=[[The Globe and Mail]]|date=May 5, 2011}}</ref> He will teach classes in the law faculty, the department of political science, the [[Munk School of Global Affairs]] and the School of Public Policy and Governance.<ref name="Globeteaching"/> Ignatieff stated that "The life that I like the best is teaching. It’s the end of my life as a politician".<ref name="Globeteaching"/> [[Bob Rae]], Liberal MP for [[Toronto Centre]] and former Premier of Ontario (1990 to 1995, as a New Democrat), subsequently became [[interim leader]] of the Liberal Party, with a [[Liberal Party of Canada leadership election, 2013|Liberal leadership election]] to take place April 14, 2013, during which Justin Trudeau was chosen as leader.
+
+Duceppe resigned as Bloc Québécois leader on election night following his defeat.<ref name=StarResultsPostElection /> [[Louis Plamondon]], MP for [[Bas-Richelieu—Nicolet—Bécancour]] and [[Dean of the House (Canada)|Dean of the House]], subsequently became interim [[parliamentary leader]] of the Bloc. Former MP [[Daniel Paillé]], who lost his seat in the election, won the [[Bloc Québécois leadership election, 2011|Bloc leadership election]] to succeed Duceppe on December 11, 2011.<ref>[http://www.cbc.ca/news/canada/story/2011/12/11/bloc-leaderhship.html "Daniel Paille new leader of Bloc Quebecois"]. [[CBC News]], December 11, 2011.</ref>
+
+On July 25, 2011, Jack Layton took a leave of absence to fight a newly diagnosed cancer. [[Nycole Turmel]], former union leader and newly elected MP for [[Hull—Aylmer]], was named interim leader of the New Democratic Party. On August 22, [[Death and state funeral of Jack Layton|Layton died]]. Turmel became opposition leader. A [[New Democratic Party leadership election, 2012|leadership election]] was held on March 24, 2012 and [[Thomas Mulcair]] was elected leader of the [[New Democratic Party (Canada)|New Democratic Party]].<ref>[http://www.theglobeandmail.com/news/politics/mulcair-victorious-on-fourth-ballot/article2380309/ "Mulcair victorious on fourth ballot"]. The Globe and Mail, March 24, 2012.</ref>
+
+===Controversies===
+The losing parties in the [[Berthier—Maskinongé]] riding claimed that the nomination papers for [[Ruth Ellen Brosseau]], the newly elected NDP Member of Parliament for the riding, had irregularities.<ref name=BrosseauIrregularities>{{cite news |url=http://www.thestar.com/news/canada/politics/article/985610--liberals-seek-revenge-on-quebec-mp-who-won-without-campaigning?bn=1|title=Liberals seek revenge on Quebec MP who won without campaigning|date=May 4, 2011|first=Allan|last=Woods|accessdate=May 5, 2011 |work=Toronto Star}}</ref> Some of the alleged irregularities include writing an address instead of signing, missing signatures, people thinking they were signing a petition for the NDP to name a candidate in the riding and one person not remembering that he signed her nomination papers even though he admitted that the signature looks like his.<ref name=BrosseauIrregularities/> The NDP denied the allegations.<ref name=BrosseauIrregularities/> Elections Canada has insisted that Brosseau's nomination papers are legitimate.<ref name="SunBrosseauCleared">{{cite news|last=Minsky|first=Amy|title=New MP Ruth Ellen Brosseau cleared by Elections Canada|url=http://www.vancouversun.com/news/canada/Ruth+Ellen+Brosseau+cleared+Elections+Canada/4740008/story.html|accessdate=May 6, 2011|newspaper=[[Vancouver Sun]]|date=May 6, 2011}}</ref> Elections Canada stated that "The decision to overturn or uphold the results is at the discretion of the courts and not Elections Canada".<ref name="SunBrosseauCleared"/>
+
+====Voter suppression scandal====
+
+{{main|2011 Canadian federal election voter suppression scandal}}
+
+In early 2012, there were allegations of voter suppression during the election, starting the [[robocall scandal]]. [[Elections Canada]] and the [[Royal Canadian Mounted Police]] (RCMP) are investigating claims that robocalls were used in an attempt to dissuade voters from casting their ballot by telling them their poll stations had changed location.<ref name="MaherFeb27">{{cite news|url = http://www.ottawacitizen.com/news/Elections+Canada+investigating+robocalls+that+misled+voters/6194990/story.html|title = Elections Canada investigating 'robocalls' that misled voters|accessdate = March 18, 2012|last = Maher|first = Stephen and Glen McGregor|date = February 27, 2012| work = [[Ottawa Citizen]]}}</ref> While the Elections Canada investigation initially focused on calls sent into Guelph amidst nationwide complaints, the investigation has continued to expand in scope and continues to examine complaints in other ridings across the country. Reports of fraudulent automated or live calls targeting opposition supporters have been published in 100 ridings<ref>{{cite web|author=David P. Ball |url=http://www.vancouverobserver.com/world/canada/2012/02/27/robogate-election-scandal-11-robo-call-ridings-linked-conservatives-11-seat |title=Robocall scandal by the numbers: up to 100 ridings allege election fraud |publisher=The Vancouver Observer |date=February 29, 2012 |accessdate=March 27, 2012}}</ref> and Elections Canada has acknowledged it is investigating telephone election fraud complaints in 247 of Canada's 308 federal ridings.
+
+On March 27, 2012 the [[Council of Canadians]] announced that they had launched a lawsuit in the [[Federal Court of Canada]] to ask for by-elections to be ordered in seven ridings where complaints were received and where Conservatives had won by slim margins. The ridings named are Don Valley East, Winnipeg South Centre, Saskatoon-Rosetown-Biggar, Vancouver Island North, Yukon, Nipissing-Timiskaming and Elmwood-Transcona.<ref>{{cite web|url=http://www.vancouversun.com/business/fp/yourmoney/Tories+offensive+over+robocalls/6234917/story.html |title=Tories go on offensive over robocalls |publisher=Vancouversun.com |date=March 2, 2012 |accessdate=March 26, 2012}}</ref><ref name="Maher27Mar12">{{cite news|url = http://www.ottawacitizen.com/news/Robocalls+Activist+group+files+legal+challenge+results+seven+ridings/6362995/story.html|title = Robocalls: Activist group files legal challenge of results in seven ridings|accessdate = March 27, 2012|last = Maher|first = Stephen and Glen McGregor|date = March 27, 2012| work = [[Ottawa Citizen]]}}</ref> The case was heard over two weeks starting December 9, 2012.<ref>{{cite news|last=Campion-Smith, Bruce|first=Wittington, Les|title=Elections Canada reveals massive robo-calls probe of 2011 election|url=http://www.thestar.com/news/canada/politics/article/1296114--elections-canada-reveals-massive-robo-calls-probe-of-2011-election|accessdate=December 12, 2012|newspaper=The Toronto Star|date=November 30, 2012}}</ref> Justice Richard G. Mosley ruled in May 2013 that fraud occurred in Guelph and that voting irregularities and misconduct occurred in all six of the contested ridings, but that it was not significant enough to warrant overturn the election results. The judge also ruled that the mostly likely source of the fraud was  the Conservative Party of Canada's CIMS database, although he concluded that there was no evidence that its use was approved by the CPC.<ref>Wingrove, Josh, (23 May 2013) [http://www.theglobeandmail.com/news/politics/federal-ruling-dismisses-robo-call-appeal-clears-tories/article12121319/ Robo-calls had minimal impact on 2011 election, court rules, upholding results], [[The Globe and Mail]], retrieved 24 May 2013</ref><ref>{{cite news|author=Posted: May 23, 2013 8:14 PM ET |url=http://www.cbc.ca/news/politics/story/2013/05/23/pol-federal-court-robocall-allegations.html |title=Federal Court won't remove MPs over robocall allegations - Politics - CBC News |publisher=Cbc.ca |date=2013-05-18 |accessdate=2013-05-24}}</ref>
+
+In April 2013, the first criminal charge in the matter was laid on Michael Sona, a former Conservative staffer who was the communications officer and official Ottawa liaison for the Guelph Conservative campaign.<ref>{{cite news|url=http://www.guelphmercury.com/news/local/article/680217--guelph-conservatives-felt-national-party-influence-documents-suggest|newspaper=Guelph Mercury}}</ref><ref>{{cite news|url=http://www.guelphmercury.com/news/local/article/912853--more-robocall-suspects-likely-guelph-mp-says|newspaper=Guelph Mercury}}</ref> In August 2014, he was convicted.<ref>{{cite news|url=http://www.cbc.ca/news/politics/michael-sona-guilty-in-robocalls-trial-1.2735676|title=Michael Sona guilty in robocalls trial - but 'did not likely act alone'|newspaper=CBC}}</ref>
+
+====Riding of Vaughan====
+
+In a further scandal, Elections Canada has been called on to investigate the finances of [[Associate Minister of National Defence (Canada)|Associate Minister of National Defence]] [[Julian Fantino]]'s election finances, after three former Conservative riding executives from [[Vaughan (electoral district)|Vaughan]]<ref>{{cite web|url=http://404systemerror.com/election-fraud-robocalls-the-case-of-vaughan/ |title=Election Fraud & Robocalls: The Case of Vaughan |publisher=404 System Error |date=March 8, 2012 |accessdate=March 26, 2012}}</ref><ref>{{cite web|url=http://www.canada.com/news/Three+former+Tory+association+members+seek+probe+into+Fantino+election+finances/6280438/story.html |title=Three former Tory association members seek probe into Fantino's election finances |publisher=Canada.com |date=March 9, 2012 |accessdate=March 26, 2012}}</ref> signed affidavits alleging impropriety in Fantino's 2010 and 2011 election campaigns. They allege there is a second, secret, illegal bank account containing $300,000.<ref>{{cite news|author=Posted: March 9, 2012 7:02 PM ET |url=http://www.cbc.ca/news/politics/story/2012/03/09/pol-fantino-election.html |title=Ex-Tory riding execs question Fantino's election finances - Politics - CBC News |publisher=Cbc.ca |date=March 9, 2012 |accessdate=March 26, 2012}}</ref>
+
+==Timeline==
+{{main|Timeline of the Canadian federal election, 2011}}
+*March 25, 2011: The Liberal Party's no-confidence motion passes the House 156–145, and the [[Prime Minister of Canada|Prime Minister]] moves for the House to adjourn.<ref>{{cite news|last=Galloway|first=Gloria|title=Harper government falls in historic Commons showdown|url=http://www.theglobeandmail.com/news/politics/harper-government-falls-in-historic-commons-showdown/article1956416/|accessdate=March 30, 2011|newspaper=The Globe and Mail|date=March 25, 2011}}</ref>
+*March 26, 2011: [[Governor General of Canada|Governor General]] [[David Johnston]] agrees to dissolve the [[40th Canadian Parliament|40th Parliament]] following a meeting with Prime Minister [[Stephen Harper]].<ref>{{cite news|last=Chase|first=Stephen|title=Federal election called for May&nbsp;2|url=http://www.theglobeandmail.com/news/politics/federal-election-called-for-may-2/article1957991/|accessdate=March 30, 2011|newspaper=The Globe and Mail|date=March 26, 2011}}</ref>
+*April 12, 2011: English leaders' debate.
+*April 13, 2011: French leaders' debate.
+*April 22, 23 and 25, 2011: Advance polls open<ref>{{cite web|url=http://www.elections.ca/content.aspx?section=vot&dir=faq&document=faqvoting&lang=e#a1 |title=How do I vote FAQ |publisher=Elections Canada |date=April 26, 2011 |accessdate=April 29, 2011}}</ref>
+*'''May 2, 2011''': Polling Day
+*May 23, 2011: [[Return of Writs]]<ref>{{cite journal |url=http://www.gazette.gc.ca/rp-pr/p2/2011/2011-03-28-x1/html/si-tr33-eng.html |title=Proclamation Issuing Election Writs |date=March 28, 2011 |work=Canada Gazette, Part II |volume=145 |issue=1 (Extra)}}</ref>
+*June 2, 2011: [[41st Canadian Parliament|41st Parliament]] convenes<ref>{{cite news |url=http://www.ottawacitizen.com/return+Parliament+Hill+June/4792075/story.html |title=MPs to return to Parliament Hill on June 2 |date=May 16, 2011 |work=Ottawa Citizen |accessdate=May 16, 2011}}</ref>
+
+==Issues==
+
+===Crime and law enforcement===
+
+====Internet surveillance and warrant-less wiretapping====
+The Conservatives promised to re-introduce [[Internet surveillance]] legislation that they were not able to pass, and bundle it with the rest of their crime bills. They said they plan to fast track the legislation within 100&nbsp;days after taking office.<ref>{{cite news|url=http://www.techeye.net/security/canadian-conservatives-promise-big-brother-laws |title=Canadian conservatives promise "big brother laws" – At least they are honest |publisher=TechEye |date=April 11, 2011 |accessdate=April 17, 2011}}</ref><ref>{{cite web|url=http://www.michaelgeist.ca/content/view/5733/125/ |title=Michael Geist – The Conservatives Commitment to Internet Surveillance |publisher=Michaelgeist.ca |date=April 9, 2011 |accessdate=April 17, 2011}}</ref><ref>{{cite news | url = http://www.cbc.ca/technology/story/2009/06/19/tech-internet-communications-electronic-police-bills-surveillance-follo-privacy.html | work=CBC News | title=Electronic snooping bill a 'data grab': privacy advocates | date=June 19, 2009}}</ref><ref>{{cite news|url=http://www.digitaljournal.com/article/274527 |title=New Canadian legislation will give police greater powers |publisher=Digitaljournal.com |date=June 21, 2009 |accessdate=April 17, 2011}}</ref><ref>{{cite news | url = http://www.cbc.ca/news/canada/story/2009/06/18/tech-internet-police-bill-intercept-electronic-communications.html | work=CBC News | title=ISPs must help police snoop on internet under new bill | date=June 18, 2009}}</ref><ref>{{cite news|author=Matt Hartley and Omar El Akkad |url=http://www.theglobeandmail.com/news/technology/tories-seek-to-widen-police-access-online/article1187507/ |title=Tories seek to widen police access online |work=The Globe and Mail |location=Canada  |date= June 18, 2009|accessdate=April 17, 2011}}</ref><ref>Canadian bill forces personal data from ISPs sans warrant – http://www.theregister.co.uk/2009/06/18/canada_isp_intercept_bills/</ref><ref>{{cite news|last=Brown |first=Jesse |url=http://www2.macleans.ca/2011/04/13/harpers-promise-a-warrantless-online-surveillance-state/ |title=Harper’s promise: a warrantless online surveillance state- Why ‘lawful access’ legislation is on its way and why that should worry you |publisher=Macleans.ca |date=April 13, 2011 |accessdate=April 17, 2011}}</ref>
+
+====Long gun registry====
+Harper pledged to scrap the [[long-gun]] [[Canadian Firearms Registry|registry]].<ref>{{cite news|last=Joe Friesen and John Ibbitson|title=Harper courts rural ridings with vow to kill gun registry|url=http://www.theglobeandmail.com/news/politics/harper-courts-rural-ridings-with-vow-to-kill-gun-registry/article1970912/?from=sec368|accessdate=April 4, 2011|newspaper=The Globe and Mail|date=April 4, 2011}}</ref>
+
+====Crime strategies====
+The Conservative platform included a promise to consolidate twelve crime bills into at least one omnibus bill and pass it within 100&nbsp;days of forming a majority government. The bills included within that list would crack down on organized drug crime, end house arrest for violent criminals and establish tougher sentences and mandatory jail time for sexual offences against children.<ref>{{cite news|url=http://news.nationalpost.com/2011/04/08/conservative-platform-harper-pledges-to-slash-4-billion-in-spending/ |title=Conservative platform: Harper pledges to slash $4-billion in spending |publisher=News.nationalpost.com |date=April 8, 2011 |accessdate=April 26, 2011}}</ref> The opposition parties claimed the crime bills were not costed fully, and the opposition parties countered that this would create a US style system of prisons.<ref name=transcript>{{cite news|url=http://www.globalnews.ca/decisioncanada/debate/index.html |title=INTERACTIVE: Federal Election Leaders' Debate 2011 |publisher=Globalnews.ca |date=April 13, 2011 |accessdate=May 1, 2011}}</ref> The Conservatives have not released the costs for expanding the [[prison system]]. The other parties state that more focus should be given on [[crime prevention]], so that it doesn't happen in the first place.<ref name=transcript/> The New Democratic Party (NDP) stated that their promise to hire 2,500 more [[police officers]] to patrol the streets, will help in preventing crime from occurring in the first place.<ref>{{cite news|url=http://www.vancouversun.com/news/unveils+plan+stamp+gang+violence+during+Surrey+stop/4580143/story.html |title=NDP unveils plan to stamp out gang violence during Surrey stop |work=The Vancouver Sun |date=April 8, 2011 |accessdate=April 18, 2011}}</ref><ref>{{cite news|author=Gloria Galloway |url=http://www.theglobeandmail.com/news/politics/ottawa-notebook/ndp-pledge-aims-to-stamp-out-gang-related-crime-at-its-source/article1974770/ |title=NDP pledge aims to stamp out gang-related crime at its source |work=The Globe and Mail |location=Canada  |date=April 7, 2011 |accessdate=April 18, 2011}}</ref><ref>{{cite news|url=http://www.cknw.com/Channels/Reg/NewsLocal/Story.aspx?ID=1398353 |title=Layton vows crime crackdown |publisher=Cknw.com |date=April 7, 2011 |accessdate=April 18, 2011}}</ref><ref>{{cite news|last=Kirkup |first=Kristy |url=http://www.torontosun.com/news/decision2011/2011/04/07/17905161.html |title=NDP unveils crime policy &#124; Decision 2011 &#124; News |work=Toronto Sun |date=April 7, 2011 |accessdate=April 18, 2011}}</ref>
+
+===Defence policy===
+The Conservatives plan to purchase 65 [[Lockheed Martin F-35 Lightning II Canadian procurement|F-35 Lightning II]] jet fighters. Stating that "Our [[defence policy]] is broken", the NDP announced that they would prioritize investment in [[naval ships]] over new fighter jets. The NDP stated that this would be a good opportunity to keep [[shipbuilding]] expertise and jobs in Canada.<ref>{{cite news | url = http://www.cbc.ca/news/canada/nova-scotia/story/2011/04/08/cv-election-ndp-esquimalt.html | work=CBC News | title=NDP prioritizes ships over jets | date=April 8, 2011}}</ref><ref>{{cite news|last=Kirkup |first=Kristy |url=http://www.torontosun.com/news/decision2011/2011/04/08/17922626.html |title=New ships not jets, say NDP &#124; Decision 2011 &#124; News |work=Toronto Sun |date=April 8, 2011 |accessdate=April 18, 2011}}</ref><ref>{{cite news|author=Gloria Galloway |url=http://www.theglobeandmail.com/news/politics/ottawa-notebook/layton-pans-tory-defence-plan-unveils-made-in-canada-alternative/article1976679/?from=sec368 |title=Layton pans Tory defence plan, unveils made-in-Canada alternative |work=The Globe and Mail |location=Canada  |date=April 8, 2011 |accessdate=April 18, 2011}}</ref><ref>{{cite news|author=Murray Brewster |url=http://www.globalregina.com/says+replacing+navy+aging+supply+ships+would+defence+priority/4586012/story.html |title=NDP says replacing navy's aging supply ships would be its defence priority |publisher=The Canadian Press |publisher=Globalregina.com |date=April 8, 2011 |accessdate=April 18, 2011}}</ref>
+
+===Economy and fiscal policy===
+
+====Balanced budget and recession====
+
+Conservatives argued that they steered the economy through the [[2007-2010 global financial crisis]], and promised to eliminate the [[budget deficit]] by 2014–15.<ref>{{cite news|url=http://www.nationalpost.com/news/canada/politics/Tories+kill+deficit+early/4582506/story.html |title=Tories vow to kill deficit early |work=National Post |location=Canada |date=April 8, 2011 |accessdate=April 18, 2011}}</ref><ref>{{cite news | url = http://www.cbc.ca/news/business/story/2011/04/08/cv-election-day14.html | work=CBC News | title=Tories vow to eliminate deficit early | date=April 8, 2011}}</ref> Former Prime Minister Paul Martin, campaigning for the Liberals, challenged assertions, noting  that his Liberal government left a $13&nbsp;billion [[budget surplus]], before the Conservatives took power.<ref>{{cite news|url=http://www.saultstar.com/ArticleDisplay.aspx?e=3035065 |title=If this election's about the economy, let's hope the parties aren't stupid |publisher=The Sault Star |accessdate=April 18, 2011}}</ref><ref name=martin1>{{cite web |url= http://www.torontosun.com/news/decision2011/2011/04/16/18015056.html |title=Paul Martin rips Tory fiscal record |work=Toronto Sun |date=April 16, 2011 |accessdate=April 16, 2011}}</ref>  In 2010, Paul Martin had been invited to the prestigious Global ARC conference to discuss that elimination of the Canadian government deficit.<ref>{{cite web|url=http://www.investmentreview.com/news/europe-can-learn-from-canada-john-major-paul-martin-4345 |title=Europe Can Learn From Canada: John Major, Paul Martin &#124; Canadian Investment Review |publisher=Investmentreview.com |date=May 19, 2010 |accessdate=May 5, 2011}}</ref> Martin also claimed that when he was Finance minister working under Jean Chretien, his blocking of [[Big Five (banks)#Proposed mergers|proposed bank mergers]] is what actually sheltered Canada from the worst effects of the recession.<ref name=martin1/><ref>{{cite news |url= http://www.reuters.com/article/2009/07/03/us-finance-mergers-idINTRE5623FR20090703 |title=World crisis puts Canadian bank mergers out of mind |first=Pav |last=Jordan |agency=Reuters |accessdate=April 15, 2011 |date=July 3, 2009}}</ref><ref>{{cite news |url= http://news.yahoo.com/s/ap/20110410/ap_on_re_ca/cn_harper_s_canada_remake |title=Prime minister nudging Canada to the right – Associated Press |first=Rob |last=Gilles |work=news.yahoo.com |date=April 10, 2011 |quote=Prime minister nudging Canada to the right |accessdate=April 15, 2011}}</ref> The New Democratic Party (NDP) released its platform promising a [[balanced budget]] in four years.<ref>{{cite news |url=http://www.cbc.ca/news/politics/canadavotes2011/story/2011/04/09/cv-ndp-platform.html |title=NDP to unveil balanced budget platform |publisher=CBC |location=Canada  |date=April 9, 2011 |accessdate=April 18, 2011}}</ref> After the NDP surge, the Liberals called the NDP platform "science fiction"<ref name=Sciencefiction>{{cite news|url=http://www.cbc.ca/news/canada/nova-scotia/story/2011/04/23/cv-election-saturday-campaign.html |title=NDP platform 'science fiction,' Ignatieff says |publisher=CBC |location=Canada  |date=April 23, 2011 |accessdate=April 29, 2011}}</ref> stating it contains over $30&nbsp;billion in new spending derived from sources that are not credible, and that implementing a cap and trade system that would take years to realize rather than provide the in-year contributions as claimed.<ref name=Sciencefiction/>
+
+====Corporate tax cuts and job creation strategy====
+The Conservatives stated that their plan to cut corporate taxes from 16.5% to 15%, will create more jobs.<ref>{{cite news|last=Taber|first=Jane|title=Ignatieff heads to Vancouver pharmacy to unveil another platform plank|url=http://www.theglobeandmail.com/news/politics/ottawa-notebook/ignatieff-heads-to-vancouver-pharmacy-to-unveil-another-platform-plank/article1962922/|accessdate=March 30, 2011|newspaper=The Globe and Mail|date=March 30, 2011}}</ref> Harper stated that an increase in corporate taxes will create job losses across Canada. Layton countered by saying currently the jobs are shipped [[overseas]], and pledged a $4,500 job creation tax credit to all businesses per new hire.<ref>{{cite news|last=Kirkup |first=Kristy |url=http://www.torontosun.com/news/decision2011/2011/03/30/17804416.html |title=Layton announces job creation measures |work=Toronto Sun |date=March 30, 2011 |accessdate=April 18, 2011}}</ref> Layton further went to say that [[small business]] are the ones creating more jobs, thus he promised to lower the tax rate for small business from 11% to 9%. He then went on to say the big business are using the corporate tax cuts by providing their CEOs with big bonuses, and thus pledged to increase their tax rate to 19.5%.<ref name=transcript/><ref>{{cite news|url=http://money.canoe.ca/money/business/canada/archives/2011/03/20110330-143448.html |title=NDP’s small biz measures a double-edged sword |publisher=Money.canoe.ca |date=March 30, 2011 |accessdate=April 18, 2011}}</ref> The Liberals on the other hand, will raise the rate to 18%, stating that it will be competitive but not excessively low.
+
+====Increasing Canada Pension Plan====
+The NDP promised a gradual doubling of [[Canada Pension Plan]] and QPP benefits, in conjunction with the provinces, with an increase in payroll deductions of as much as 2.5&nbsp;per cent.<ref name=promise>{{cite web|url=http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20110402/key-campaign-election-promises-040102/20110414?s_name=election2011 |title=Key election campaign promises so far from the federal parties |publisher=Ctv.ca |date=April 14, 2011 |accessdate=April 29, 2011}}</ref>
+
+====HST referendum in BC====
+If BC voters were to reject the [[Sales taxes in British Columbia|Harmonized Sales Tax]] in the upcoming referendum, the NDP promised to ensure that the penalties to be imposed by Ottawa on the HST agreement will be cancelled.<ref>{{cite news|last=Fowlie |first=Jonathan |url=http://www.vancouversun.com/news/should+keep+money+even+scrapped+Layton/4573179/story.html |title=B.C. should keep money even if HST is scrapped: Layton |work=The Vancouver Sun |date=April 7, 2011 |accessdate=April 18, 2011}}</ref><ref>{{cite news | url = http://www.cbc.ca/news/canada/british-columbia/story/2011/04/06/cv-election-layton-seniors.html | work=CBC News | title=Harper has ignored health-care problems: Layton | date=April 6, 2011 | deadurl=yes}} {{Dead link|date=September 2013|bot=RjwilmsiBot}}</ref><ref>{{cite news|last=Austin |first=Ian |url=http://www.theprovince.com/Layton+courting+haters/4573708/story.html |title=Layton courting B.C. HST haters |publisher=Theprovince.com |date=April 7, 2011 |accessdate=April 18, 2011}}</ref><ref>{{cite news|last=Kirkup |first=Kristy |url=http://www.torontosun.com/news/decision2011/2011/04/06/17894741.html |title=Layton feeds off HST anger in B.C. &#124; Decision 2011 &#124; News |work=Toronto Sun |date=April 6, 2011 |accessdate=April 18, 2011}}</ref>
+
+====Personal taxation====
+Conservatives promised income splitting for tax purposes for families with children to be implemented once the budget is balanced in 2013.<ref>{{cite news|last=Carrick|first=Rob|title=A wish list for all investors in this year’s election|url=http://www.theglobeandmail.com/globe-investor/personal-finance/rob-carrick/a-wish-list-for-all-investors-in-this-years-election/article1960511/|accessdate=March 30, 2011|newspaper=The Globe and Mail|date=March 29, 2011}}</ref>
+
+===Electoral reform and political honesty===
+
+====Political honesty====
+The New Democratic Party stated that both the Conservatives and the Liberals cannot be trusted. The NDP accused the Conservatives of creating "Liberal-style [[Political corruption|scandals]]"<ref>"He promised he’d clean up Liberal-style scandals," said Layton. "Instead, he just created new ones." – Federal election called for May&nbsp;2 – http://www.theglobeandmail.com/news/politics/federal-election-called-for-may-2/article1957991/page2/</ref> and accused the Liberals of flip-flopping on issues such as [[corporate tax]] cuts, and the [[War in Afghanistan (2001–present)|Afghanistan mission]].<ref>{{cite news | url = http://www.cbc.ca/news/politics/canadavotes2011/story/2011/04/09/cv-election-layton.html | work=CBC News | title=Layton warns of Tory, Liberal service cuts | date=April 9, 2011}}</ref><ref>{{cite news | url = http://www.thestar.com/news/canada/politics/article/968602--layton-calls-ignatieff-part-of-the-problem?bn=1 | location=Toronto | work=The Star | first=Richard J. | last=Brennan | title=Layton calls Ignatieff ‘part of the problem' | date=April 4, 2011}}</ref><ref>{{cite news|author=By JOE BELANGER, The London Free Press |url=http://www.lfpress.com/news/london/2011/04/04/17871561.html |title=Layton slams Harper over loan dithering &#124; London &#124; News &#124; London Free Press |publisher=Lfpress.com |date=April 5, 2011 |accessdate=April 17, 2011}}</ref> Throughout the election various polls had shown the political honesty issue to be low on the list of priorities for voters. Post-media conducted a survey that found health care, the economy, taxes and jobs all more important to Canadians. Further, half of voters identified Harper as the best suited to be Prime Minister followed by Layton with one third support and Ignatieff with less than twenty percent support. On the question of a hidden agenda, Ignatieff is viewed by three times more of those polled to have a hidden agenda than Harper.<ref>{{cite web|url=http://www.vancouversun.com/news/decision-canada/Voters+connecting+dots/4668930/story.html |title=Voters not connecting the dots |work=The Vancouver Sun |date=April 25, 2011 |accessdate=May 5, 2011}}</ref>
+
+====Political financing====
+Conservatives pledged to phase-out [[Federal political financing in Canada#Per-vote subsidy|per-vote subsidy]] over two years, with its eventual cancellation.<ref name=promise/>
+
+====Senate====
+Stephen Harper promised [[Senate of Canada|Senate]] reform without changing the constitution.<ref>{{cite news|url=http://news.nationalpost.com/2011/04/25/harper-lends-support-to-ontario-candidates-facing-ndp-incumbents/ |title=Harper pledges Senate reform, but without constitutional wrangling |publisher=News.nationalpost.com |date=December 22, 2010 |accessdate=April 26, 2011}}</ref> The NDP pledged to abolish the Senate, stating it is a waste of tax revenues and a form of [[patronage]].<ref name=transcript/>
+
+===General===
+
+===Promised government programs===
+
+====Newfoundland hydroelectric project and Quebec's HST====
+Conservatives, New Democrats and Liberals promised $4.2&nbsp;billion in loan guarantees to support the [[Lower Churchill Project|Lower Churchill River power project]].<ref>{{cite news|last=Shawn McCarthy and Steven Chase|title=Harper to back Lower Churchill mega-project in bid for Newfoundland seats|url=http://www.theglobeandmail.com/news/politics/harper-to-back-lower-churchill-mega-project-in-bid-for-newfoundland-seats/article1963954/|accessdate=April 2, 2011|newspaper=The Globe and Mail|date=March 30, 2011}}</ref> Due to outcry from Quebec over the pledge to provide loan guarantees for the Lower Churchill project, the Conservatives promise Quebec a $2.2&nbsp;billion transfer to ease the [[Quebec Sales Tax]] to [[Harmonized Sales Tax]] transition.<ref>{{cite news|last=Chase|first=Steven|title=Harper pledges to settle multibillion-dollar HST feud with Quebec|url=http://www.theglobeandmail.com/news/politics/ottawa-notebook/harper-pledges-to-settle-multibillion-dollar-hst-feud-with-quebec/article1967422/|accessdate=April 1, 2011|newspaper=The Globe and Mail|date=April 1, 2011}}</ref>
+
+====Post-secondary education====
+Liberals promised a "Learning Passport" for high school students seeking post-secondary education.<ref>{{cite press release|url=http://www.liberal.ca/newsroom/news-release/michael-ignatieff-announces-canadian-learning-passport/ |title=Michael Ignatieff announces Canadian Learning Passport |publisher=Liberal.ca |date=March 29, 2011 |accessdate=April 25, 2011}}</ref> The NDP's plan is to reduce the tuition fees, by increasing [[transfer payments]] to the Provinces.
+
+====Immigration Fairness Commissioner====
+Liberals proposed the establishment of an "Immigration Fairness Commissioner" to provide oversight on the entry of immigrants with professional qualifications (doctors, engineers, etc.), and to increase the number of family reunification visas.<ref>{{cite news|last=Taber|first=Jane|title=Ignatieff calls for immigration ‘fairness commissioner’|url=http://www.theglobeandmail.com/news/politics/ottawa-notebook/ignatieff-calls-for-immigration-fairness-commissioner/article1962566/|accessdate=March 30, 2011|newspaper=The Globe and Mail|date=March 29, 2011}}</ref>
+
+===Health care===
+[[Health care]] – The NDP pledged to train 1,200 more doctors and 6,000 more nurses.<ref>{{cite news|last=Galloway|first=Gloria|title=NDP goes big with health-care ads, accusing Harper of neglect|url=http://www.theglobeandmail.com/news/politics/ottawa-notebook/ndp-goes-big-with-health-care-ads-accusing-harper-of-neglect/article1961859/|accessdate=March 30, 2011|newspaper=The Globe and Mail|date=March 29, 2011}}</ref><ref>{{cite news|last=Kirkup |first=Kristy |url=http://www.torontosun.com/news/decision2011/2011/04/06/17901376.html |title=Future of health care hinges on election: Layton &#124; Decision 2011 &#124; News |work=Toronto Sun |date=April 6, 2011 |accessdate=April 18, 2011}}</ref><ref>{{cite news|url=http://www.ctv.ca/CTVNews/SpecialEvent7/20110406/layton-health-care-110406/ |title=Layton warns Canadians about Harper's health care – CTV News |publisher=Ctv.ca |date=April 6, 2011 |accessdate=April 18, 2011}}</ref><ref>{{cite news|author=Gloria Galloway |url=http://www.theglobeandmail.com/news/politics/tories-will-let-health-care-fail-layton-warns-as-he-rolls-out-plan-in-bc/article1973270/ |title=Tories will let health care fail, Layton warns as he rolls out plan in B.C. |work=The Globe and Mail |location=Canada  |date= April 6, 2011|accessdate=April 18, 2011}}</ref><ref>{{cite news | url = http://www.thestar.com/news/canada/politics/article/970078--canada-s-health-care-system-in-jeopardy-under-conservatives-layton?bn=1 | location=Toronto | work=The Star | first=Richard J. | last=Brennan | title=They may be New Democrats but old policies hurt profile | date=April 6, 2011}}</ref> All parties promised to continue to increase healthcare transfers to provinces by 6% annually.
+
+===Government regulations===
+
+====Improved internet and usage based billing====
+The New Democratic Party (NDP) promised a ban on all forms of [[usage based billing]] by ISPs, and enshrine [[net neutrality]] in law, which would prevent [[bandwidth throttling]]. The Liberals promised net neutrality as well as "functional separation" with regards to usage based billing as well as enshrining net neutrality in law, which would prevent [[bandwidth throttling]].<ref>{{Cite news|url=http://www.cbc.ca/news/politics/canadavotes2011/story/2011/04/06/cv-election-lib-rural.html |title=Liberals target faster rural internet service |author=[[CBC News]] |publisher=[[Canadian Broadcasting Corporation|CBC]] |date=April 6, 2011 |accessdate=April 6, 2011}}</ref><ref>{{Cite news|url=http://www.cbc.ca/news/story/2011/01/20/consumer-internet-ndp.html |title=Extra billing for internet use a 'ripoff': NDP  |author=[[CBC News]] |publisher=[[Canadian Broadcasting Corporation|CBC]] |date=January 20, 2011 |accessdate=April 6, 2011}}</ref> Almost all of the established parties, with the exception of the Conservatives, outlined polices that they claim will improve Canadian Internet access.<ref>{{Cite news|url=http://www.cbc.ca/news/politics/canadavotes2011/story/2011/04/28/technology-internet-election-digital-platforms.html |title=Platforms pro-internet, except Conservative: report  |author=[[CBC News]] |publisher=[[Canadian Broadcasting Corporation|CBC]] |date=April 28, 2011 |accessdate=April 29, 2011}}</ref>
+
+====Cap on credit card interest rates====
+The NDP promised to cap [[credit card]] rates at five percentage points above the Bank of Canada's prime interest rate.<ref>{{cite news|last=Galloway|first=Gloria|title=Layton vows to cap credit-card rates|url=http://www.theglobeandmail.com/news/politics/layton-vows-to-cap-credit-card-rates/article1961191/|accessdate=March 29, 2011|newspaper=The Globe and Mail|date=March 29, 2011}}</ref>
+
+==Election campaign==
+
+===Controversies and gaffes===
+{{main|Controversies in the Canadian federal election, 2011}}
+A number of controversies took place during the election campaign.
+
+===Leaders' debates===
+{{See also|2011 Canadian leaders debates}}
+The English- and French-language debates took place on April&nbsp;12 and&nbsp;13 respectively.<ref>{{cite news |first1=Daniel |last=Leblanc |coauthors=Simon Houpt and Steve Ladurantaye |title=Broadcasters rule out one-on-one debate between Harper and Ignatieff, confirm May’s exclusion |url=http://www.theglobeandmail.com/news/national/broadcasters-rule-out-one-on-one-debate-between-harper-and-ignatieff-confirm-mays-exclusion/article1964414/ |accessdate=March 31, 2011 |newspaper=The Globe and Mail |date=March 30, 2011}}</ref><ref>{{cite news|url=http://www.cbc.ca/news/politics/canadavotes2011/story/2011/04/10/cv-election-debats-duceppe.html# |title=How Canadian: NHL trumps debate |publisher=CBC |location=Canada  |date= April 10, 2011|accessdate=April 13, 2011}}</ref>
+
+On March&nbsp;29, the [[Consortium#Coopetition|consortium of broadcasters]] playing host to the debates (the [[Canadian Broadcasting Corporation|CBC]], [[CTV Television Network|CTV]], [[Global Television Network|Global]], [[Télévision de Radio-Canada|Radio-Canada]] and [[TVA (TV network)|TVA]]) announced that it would only invite the leaders of the four recognized parties in the House of Commons, namely, the Conservative Party, the Liberal Party, the Bloc Québécois and the New Democratic (NDP). Therefore the Green Party was [[Green Party of Canada#Exclusion from debates|excluded]], despite earning 6.8 per cent of the popular vote in the [[Canadian federal election, 2008|2008 federal election]].<ref>{{Cite news |last=Burgmann |first=Tamsyn |title=Green's Elizabeth May will fight broadcasters' decision to ditch her from debate |newspaper=The Canadian Press |date=March 29, 2011 |url=http://www.winnipegfreepress.com/business/breakingnews/greens-elizabeth-may-will-fight-broadcasters-decision-to-ditch-her-from-debate-118927234.html |accessdate=March 30, 2011}}</ref><ref>{{Cite news |title=Debate over May diverts campaign Harper pushes lower corporate taxes, Layton would raise them, Ignatieff would add to CPP |newspaper=CBC News |date=March 30, 2011 |url=http://www.cbc.ca/news/business/story/2011/03/30/cv-election.html |accessdate=March 30, 2011 |deadurl=yes}} {{Dead link|date=September 2013|bot=RjwilmsiBot}}</ref><ref>{{Cite news |last=Pynn |first=Larry |last2=Minsky |first2=Amy |title=Greens' Elizabeth May, determined to enter debate, prepares legal action|newspaper=Vancouver Sun and Postmedia News |date=March 30, 2011 |url=http://www.vancouversun.com/news/Greens+Elizabeth+determined+enter+debate+prepares+legal+action/4529114/story.html |accessdate=March 30, 2011}}</ref><ref>{{cite news |last=Leblanc |first=Daniel |title=Elizabeth May excluded from election debates |url=http://www.theglobeandmail.com/news/politics/elizabeth-may-excluded-from-election-debates/article1962085/ |accessdate=March 30, 2011 |newspaper=The Globe and Mail |date=March 30, 2011}}</ref>
+
+On March&nbsp;30, Stephen Harper challenged Michael Ignatieff to a one-on-one televised debate.<ref>{{cite news |first1=Steven |last1=Chase |coauthors=Gloria Galloway and Jane Taber |title=Harper and Ignatieff game for head-to-head debate |url=http://www.theglobeandmail.com/news/politics/ottawa-notebook/harper-and-ignatieff-game-for-head-to-head-debate/article1963435/ |accessdate=March 30, 2011 |newspaper=The Globe and Mail |date=March 30, 2011}}</ref> Although Ignatieff accepted the challenge, this was opposed by the other opposition parties. The idea was later rejected by the broadcast consortium and cancelled.
+
+On April&nbsp;1, comedian [[Rick Mercer]] suggested over Twitter hosting a one-on-one debate between Stephen Harper and Michael Ignatieff at Toronto's [[Massey Hall]]. He later added he would donate $50,000 to the charities of their choosing if they were willing to participate. Ignatieff immediately accepted the challenge and named the [[Alzheimer Society of Canada|Alzheimer Society]] as his charity of choice, as his mother succumbed to Alzheimer's disease in 1992. Harper did not respond to the challenge.<ref>{{cite news |title=Ignatieff accepts Rick Mercer debate offer |url=http://www.cbc.ca/news/offbeat/story/2011/04/02/mercer-ignatieff-harper-cv-election.html |accessdate=April 4, 2011 |date=April 2, 2011 |agency=CBC |work=CBC News}}</ref>
+
+In an interview with ''[[The Globe and Mail]]'' published on April&nbsp;1, Troy Reeb, the [[Consortium#Coopetition|broadcast consortium]] chairman, discussed the process behind setting up the leaders' debates and the rationale for various decisions made, including the decision to exclude the Green Party's leader Elizabeth May.<ref>{{cite news |last=Ladurantaye |first=Steve |title=Why the TV consortium excluded Elizabeth May |url=http://www.theglobeandmail.com/news/politics/why-the-tv-consortium-excluded-elizabeth-may/article1966583/ |accessdate=April 5, 2011 |newspaper=The Globe and Mail |date=April 1, 2011}}</ref>
+
+On April&nbsp;5, the Federal Court rejected the Green Party's request for an expedited hearing on the matter prior to the scheduled debates.<ref>{{cite news|title=Judge denies Elizabeth May’s bid to join leaders' debates |url=http://www.theglobeandmail.com/news/politics/judge-denies-elizabeth-mays-bid-to-join-leaders-debates/article1971474/ |accessdate=April 5, 2011 |newspaper=The Globe and Mail |date=April 5, 2011 |agency=CP}}</ref>
+
+On April&nbsp;10, the date of the French leaders debate was changed from April&nbsp;14 to April&nbsp;13 due to worries of broadcasting conflicts with the [[2011 NHL playoffs|NHL playoffs]] scheduled for April&nbsp;14.<ref>{{cite news |title=How Canadian: NHL trumps debate date |url=http://www.cbc.ca/news/politics/canadavotes2011/story/2011/04/10/cv-election-debats-duceppe.html |accessdate=April 10, 2011 |date=April 10, 2011 |agency=CBC |work=CBC News}}</ref> Also on April&nbsp;10, Elizabeth May participated in a panel interview on [[CHCH-TV]] in [[Hamilton, Ontario|Hamilton]], which she was invited to attend, as were the leaders of the Bloc, Liberals, New Democrats and Conservatives, by [[Channel Zero Inc.|Channel Zero]], whose president was disappointed by May's exclusion from the leaders' debates.<ref>{{cite news |title=CHCH-TV to Broadcast "Elizabeth May, For the Record" Live this Sunday, April&nbsp;10, 2011 – 8pm&nbsp;ET |url=http://www.newswire.ca/en/releases/archive/April2011/08/c2709.html |accessdate=April 10, 2011 |publisher=CNW Group |date=April 8, 2011 |agency=CNW}}</ref>
+
+===Small parties public forum===
+A joint press conference and public forum was staged by 11 of the 18 registered parties and one unregistered party on April 23, 2011, at [[York University]].  Forum organizers invited the leaders from all registered political parties who do not have seats in parliament.<ref>{{cite news|author=Anna Di Carlo |url=http://www.cpcml.ca/Tmld2011/D41062.htm |title=The Marxist-Leninist Daily |publisher=Cpcml.ca |date=April 18, 2011 |accessdate=May 14, 2011}}</ref> Parties were able to explain their platforms and responded to questions from the audience.  As a forum, the goal was an inter-party discussion of major issues, however some debate did occur.
+
+Participants in the forum were the [[Animal Alliance Environment Voters Party of Canada|Animal Alliance Environmental Voters]], the [[Canadian Action Party]], the [[Christian Heritage Party of Canada|Christian Heritage Party]], the [[Communist Party of Canada|Communist Party]], the [[First Peoples National Party of Canada|First Peoples National]], the [[Libertarian Party of Canada|Libertarian Party]], the [[Marijuana Party of Canada|Marijuana Party]], the [[Communist Party of Canada (Marxist–Leninist)|Marxist–Leninist Party]], the [[Rhinoceros Party]], and the [[Pirate Party of Canada|Pirate Party]].
+
+Green Party Leader [[Elizabeth May]] refused to participate in the forum claiming they are not one of "the small, fringe parties."<ref name=fringedebate>{{cite news|title=Green Party snubs fringe debate|work=National Post |location=Canada |author=Adrian Humphreys |url=http://news.nationalpost.com/2011/04/05/green-party-snubs-fringe-debate/|date=April 5, 2011}}</ref>
+
+==Opinion polls==
+[[File:2011FederalElectionPolls.png|right|border|500px]]
+{{Main|Opinion polling in the Canadian federal election, 2011}}
+
+===New Democratic Party surge===
+In the week before the leaders debate, on April&nbsp;8, a poll showed the New Democratic Party (NDP) support at 13.2%.<ref>{{cite journal|author=Richard J. Brennan National Affairs Writer |url=http://www.thestar.com/news/canada/politics/article/972241--ndp-fortunes-falling-fast-in-latest-poll |title=NDP fortunes falling fast in latest poll |work=Toronto Star |date=April 9, 2011 |accessdate=April 25, 2011}}</ref><ref>{{cite news|author=Gloria Galloway |url=http://www.theglobeandmail.com/news/politics/though-chips-look-down-laytons-eager-to-ante-up-for-debates/article1978060 |title=Layton remains game despite polls showing he's the odd man out |work=The Globe and Mail |location=Canada  |date=April 8, 2011 |accessdate=April 25, 2011}}</ref>
+A reversal of fortune began on April&nbsp;16, when an Angus Reid poll indicated a tie in support for the NDP and the Liberals, both polling at 25%.<ref>{{cite news|author=Joanna Smith Ottawa Bureau |url=http://www.thestar.com/news/canada/politics/article/976225 |title=NDP moves into tie with Liberals: Poll |work=Toronto Star |date=April 13, 2011 |accessdate=April 18, 2011 |location=Toronto}}</ref><ref>{{cite news|url=http://www.reuters.com/article/2011/04/18/canada-politics-idUSN1822211320110418 |title=Canada's NDP pushes for bigger place in election sun |publisher=Reuters |date=February 14, 2011 |accessdate=April 18, 2011 |first=Randall |last=Palmer}}</ref><ref>{{cite news|url=http://www.cbc.ca/news/politics/canadavotes2011/story/2011/04/18/cv-election-layton-quebec-812.html |title=Layton sees growing Quebec support, targets Liberals |publisher=CBC |location=Canada  |date=April 18, 2011 |accessdate=April 18, 2011}}</ref> The New Democrats' poll numbers then moved significantly ahead of the Liberals and slightly or moderately behind the Conservatives.<ref>{{cite news|url=http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20110422/federal-election-campaign-poll-day-28-110422/20110422?s_name=election2011 |title=Poll shows NDP, Liberals in statistical tie |publisher=Ctv.ca |date=April 22, 2011 |accessdate=April 22, 2011}}</ref><ref>{{cite news |url=http://www.cbc.ca/news/politics/canadavotes2011/story/2011/04/21/cv-election-ndp-quebec-803.html |title=Surging NDP support changes campaign dynamic |publisher=CBC |location=Canada  |date=April 21, 2011 |accessdate=April 22, 2011 |deadurl=yes}} {{Dead link|date=September 2013|bot=RjwilmsiBot}}</ref><ref>{{cite news |url=http://www.harrisdecima.ca/news/releases/201104/1160-conservatives-lead-five-ndp-surges-past-liberals|title=Conservatives Lead By Five; NDP Surges Past Liberals|publisher=Harris/Decima|date=April 28, 2011|accessdate=April 28, 2011}}</ref>
+
+The surge began in Quebec, with the NDP surprising many observers by surpassing the previously front-running Bloc in Quebec. In the entirety of Canada, the NDP surged past the Liberals to take the second place behind the Conservatives; in Quebec, the NDP took first place.<ref>{{cite news|url=http://www.reuters.com/article/2011/04/25/canada-us-politics-ekos-idCATRE73O5UR20110425 |title=NDP surges to strong second place in poll |publisher=Reuters |date=April 25, 2011 |accessdate=April 25, 2011 |first=Janet |last=Guttsman}}</ref><ref name="EKOS">{{cite web|url = http://www.ekospolitics.com/wp-content/uploads/full_report_april_21_2011.pdf|title = NDP Breakout Continues As Everyone Else Spins Wheels|accessdate =April 23, 2011|last = [[EKOS]]|date=April 2011}}</ref> The NDP surge became the dominant narrative of the last week of the campaign, as other parties turned their attacks on the party.<ref>{{cite news|url=http://www.vancouversun.com/news/decision-canada/surge+dominates+talk+federal+campaign+trail/4685960/story.html |title=NDP surge dominates talk on federal campaign trail |work=Vancouver Sun |location=Canada |date=April 27, 2011|accessdate=April 27, 2011}}</ref> [[Ruth Ellen Brosseau]], the [[New Democratic Party (Canada)|NDP]] candidate in [[Berthier—Maskinongé]], won despite not running a campaign and having a holiday in [[Las Vegas Valley|Las Vegas]].<ref name=StarResultsPostElection/> The NDP's rise in popularity was nicknamed "Orange Crush", an allusion to [[Orange Crush|the soft drink with the same name]] and the party's colour.<ref>{{cite news|url=http://www.cbc.ca/news/politics/inside-politics-blog/2011/08/remembering-jack-layton.html|title=Remembering Jack Layton|publisher=[[CBC News]]|first=Laura|last=Payton|quote=The NDP's surging popularity, especially in Quebec, during the last election came to be known as the Orange Crush.|date=August 22, 2011|accessdate=August 12, 2013}}</ref>
+
+==Spending limits==
+
+The calculation for a party's spending limit is based on the number of candidates a party is running and the number of voters in each riding where there is a candidate.<ref name="Spendinglimits">{{cite news|title=Elections Canada sets campaign spending limits|url=http://www.montrealgazette.com/news/decision-canada/Elections+Canada+sets+campaign+spending+limits/4672522/story.html|accessdate=May 11, 2011|newspaper=[[Montreal Gazette]]|date=April 25, 2011}}</ref> Parties are allowed to spend 70 cents for each one of those voters.<ref name="Spendinglimits"/> Local candidates were allowed to spend $2.07 for each of the first 15,000 electors, $1.04 for each of the next 10,000 and 52 cents for the remaining electors.<ref name="Spendinglimits"/>
+
+The parties with the highest spending limits were:
+{| class="wikitable"
+|-
+!Party!!Limit<ref name="Spendinglimits"/>
+|-
+|[[Liberal Party of Canada|Liberal Party]]||$21,025,793.23
+|-
+|[[New Democratic Party (Canada)|New Democratic Party]]||$21,025,793.23
+|-
+|[[Conservative Party of Canada|Conservative Party]]||$20,995,088.91
+|-
+|[[Green Party of Canada|Green Party]]||$20,764,344.60
+|-
+|[[Bloc Québécois]]||$5,737,817.88
+|}
+
+The parties with the lowest spending limits were:
+{| class="wikitable"
+|-
+!Party!!Limit<ref name="Spendinglimits"/>
+|-
+|[[Animal Alliance Environment Voters Party of Canada|Animal Alliance Environment Voters]]|| $467,969.04
+|-
+|[[Marijuana Party of Canada|Marijuana Party]]||$339,676.42
+|-
+|[[Western Block Party]]||$333,954.75
+|-
+|[[United Party of Canada|United Party]]||$241,406.53
+|-
+|[[First Peoples National Party of Canada|First Peoples National Party]]||$62,702.06
+|}
+
+==Endorsements==
+{{main|Newspaper endorsements in the Canadian federal election, 2011}}
+Most major newspapers endorsed the Conservatives, and none solely endorsed the Liberals or Greens. However Canada's highest circulated newspaper, the ''[[Toronto Star]]'', advised readers to vote against the Conservatives.
+
+==Candidates by party==
+Articles on parties' candidates for the 41st election:
+{| <br />
+| style="vertical-align:top; width:33%;"|
+* [[Animal Alliance Environment Voters Party of Canada candidates, 2011 Canadian federal election|Animal Alliance Environmental Voters]]
+* [[Bloc Québécois candidates, 2011 Canadian federal election|Bloc Québécois]]
+* [[Christian Heritage Party of Canada candidates, 2011 Canadian federal election|Christian Heritage]]
+* [[Communist Party of Canada candidates, 2011 Canadian federal election|Communist]]
+| style="vertical-align:top; width:33%;"|
+* [[Conservative Party of Canada candidates, 2011 Canadian federal election|Conservative]]
+* [[Green Party of Canada candidates, 2011 Canadian federal election|Green]]
+* [[Independent candidates, 2011 Canadian federal election|Independent and no affiliation]]
+* [[Liberal Party of Canada candidates, 2011 Canadian federal election|Liberal]]
+| style="vertical-align:top; width:33%;"|
+* [[Libertarian Party of Canada candidates, 2011 Canadian federal election|Libertarian]]
+* [[Communist Party of Canada (Marxist–Leninist) candidates, 2011 Canadian federal election|Marxist–Leninist]]
+* [[New Democratic Party candidates, 2011 Canadian federal election|New Democrats]]
+|}
+
+==See also==
+{{Portal|Canadian politics}}
+*[[Bloc Québécois leadership election, 2011]]
+*[[Controversies in the Canadian federal election, 2011]]
+*[[Liberal Party of Canada leadership election, 2013]]
+*[[List of Canadian federal general elections]]
+*[[List of political parties in Canada]]
+*[[Newspaper endorsements in the Canadian federal election, 2011]]
+*[[Results of the Canadian federal election, 2011]]
+
+==Notes==
+{{Reflist |group=fn |refs=
+
+<ref name="ndpqc" group=fn>The only NDP candidates elected in Quebec before 2011 were [[Thomas Mulcair]] and [[Phil Edmonston]], the latter in a 1990 by-election.</ref>
+
+<ref name="libhist" group=fn>The previous lowest seat total for the Liberals was 40 in the [[Canadian federal election, 1984|1984 election]].</ref>
+
+}}
+
+==References==
+{{Reflist|colwidth=30em}}
+
+==Further reading==
+* Argyle, Ray. ''Turning Points: The Campaigns That Changed Canada - 2011 and Before'' (2011) 440pp [http://www.amazon.com/gp/reader/B005233WJG/  excerpt and text search]
+* Pammett, Jon H., and Christopher Dornan, eds. ''The Canadian Federal Election of 2011'' (2011) [http://www.amazon.com/Canadian-Federal-Election-2011/dp/1459701801/  excerpt and text search]; 386pp; essays by experts
+
+==External links==
+{{Commons category}}
+* [http://www.elections.ca/ Elections Canada]
+* [http://www.cbc.ca/news/politics/canadavotes2011/ CBC News – Canada Votes 2011]
+* {{cite news |url=http://www.theglobeandmail.com/news/politics/compare-the-party-platforms/article1964156/ |title=Compare the party platforms |work=The Globe and Mail |location=Canada  |date=April 3, 2011 |accessdate=April 17, 2011}}
+
+{{Canadian federal election, 2011A}}
+{{election canada}}
+{{Canelections}}
+{{Use mdy dates|date=March 2012}}
+{{Use Canadian English|date=March 2011}}
+
+{{DEFAULTSORT:Canadian Federal Election, 2011}}
+[[Category:Canadian federal election, 2011| ]]

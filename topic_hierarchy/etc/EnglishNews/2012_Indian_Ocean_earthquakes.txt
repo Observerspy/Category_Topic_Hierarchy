@@ -1,0 +1,106 @@
+{{Use dmy dates|date=April 2013}}
+{{Infobox earthquake
+|title              = 2012 Indian Ocean earthquakes
+|image              = 
+|image alt          = http://en.wikipedia.org/w/index.php?title=2012_Indian_Ocean_earthquake&action=edit
+|imagecaption       = 
+|map                = USGS map of the 2012 Indian Ocean Earthquake.jpg
+|map alt            = USGS map of the 2012 Indian Ocean Earthquake
+|image name         = 
+|map2               = 
+|mapsize            = 
+|caption            = 
+|date               = {{Start date|2012|04|11|df=yes}}
+|origintime         = 15:38:37 Time in Indonesia|WIB (UTC+07:00)<br> 08:38:37 (UTC)
+|duration           = 3
+|magnitude          = 8.6 and 8.2 Moment magnitude scale|M<sub>w</sub>
+|depth              = {{convert|22.9|km|mi|1|abbr=on}}
+|location           = {{Coord|2.311|N|93.063|E|type:event_scale:50000000|display=inline,title}}
+|type               = undersea earthquake|Undersea (intraplate earthquake|Intraplate) 
+|countries affected = {{BGD}}<br />{{IND}}<br />{{IDN}}<br />{{MYS}}<br />{{SGP}}<br />{{LKA}}<br />{{THA}}
+|countries affected = {{BGD|23px}}<br />{{IND|23px}}<br />{{IDN|23px}}<br />{{MYS|23px}}<br />{{MDV|23px}}<br />{{SGP|23pxUganda}}<br />{{LKA|23px}}<br />{{THA|23px}}
+|damage             = 
+|intensity          = 
+|PGA                = <!-- NN''Peak ground acceleration|g'' -->
+|tsunami            = Minor
+|landslide          = 9
+|foreshocks         = No
+|aftershocks        = 110+
+|casualties         = 10 dead (heart attacks and shock), 4 injured
+}}
+
+The '''2012 Indian Ocean earthquakes''' were Moment magnitude scale|magnitude 8.6 and 8.2 M<sub>w</sub> undersea earthquakes that struck near the Indonesian province of Aceh on Wednesday, April 11, 2012, at 15:38 local time. Initially, authorities feared that the initial earthquake would cause a tsunami and warnings were issued across the Indian Ocean; however, these warnings were subsequently cancelled. an unusually strong intraplate earthquake, and the largest strike-slip earthquake ever recorded.
+
+==Tectonic setting==
+The 2012 earthquake's epicenter was located within the Indo-Australian Plate, which is divided into two sub- or proto-plates: the Indian, and Australian. At their boundary, the Indian and Australian Plates converge at {{convert|11|mm|in|1|abbr=on}} per year in a NNW-SSE direction.  This convergence is accommodated by a broad zone of wikt:diffuse|diffuse deformation. As part of that Deformation (engineering)|deformation, north-south trending fracture zones have been reactivated from the Ninety East Ridge as far east as 97°E.
+
+==Main Earthquake==
+The Moment magnitude scale|magnitude 8.6 (M<sub>w</sub>) earthquake occurred about {{convert|610|km|mi|0|abbr=on}} southwest of Banda Aceh, Indonesia at 08:38 UTC on 11 April 2012. The earthquake occurred at a Hypocenter|depth of {{convert|22.9|km|mi|1|abbr=on}}, which is considered relatively shallow according to the scale used by the United States Geological Survey|United States Geological Survey (USGS). The strike-slip nature of the earthquake meant that the movement displaced relatively little seawater and was less likely to cause a tsunami.
+
+Both the initial earthquake and the magnitude 8.2 aftershock were classified (based on their focal mechanisms) as Strike slip fault#Strike-slip faults|strike-slip earthquakes, meaning that the crust on either side shifted against each other horizontally, rather than vertically. Since 2006 there have been three other earthquakes in the area with a similar faulting style. All these earthquakes were consistent with either left-lateral slip on SSW-NNE orientated strike-slip faults, or right-lateral slip on WNW-ESE orientated strike-slip faults, both compatible with the direction of convergence. A back projection analysis of data collected by Hi-net, an observation network in Japan, found a complex pattern of four conjugate faults. There was a strong correlation between the fault rupture pattern and the distribution of the aftershocks.
+
+These earthquakes have a complex rupture process. The rupture of these earthquakes occurred on multiple, almost orthogonal faults. This is rare in a single earthquake. This earthquake had an overall relatively slow rupture speed, although the speed was supershear earthquake|above the S-wave velocity in some fault segments. The rupture was caused by ductile shear heating instability which is different from frictional failure and operates between 600°C - 800°C, which corresponds to about the depths of 40&nbsp;km - 60&nbsp;km. The serpentinization of oceanic lithosphere can lead to a low friction coefficient, but the reaction is possible only up to 400°C - 500°C, which corresponds to the depth of about 25&nbsp;km. A single dynamic weakening mechanism which can work over the whole range of slip of this earthquake is still to be identified.
+
+The Indo-Australian Plate was formed after the amalgamation of the Indian Plate and the Australian Plate some 45 million years ago. However, there is a relative movement between the Indian Plate and the Australian Plate. A process which would eventually split the Indo-Australian Plate in two probably have started 8 to 10 millions ago and is still taking place. Because of the deformation, fracture zones have been reactivated. The 2012 Indian Ocean earthquake is associated to the reactivation of the NNE–striking sea floor fabric.
+
+== Aftershocks ==
+A magnitude 8.2 aftershock struck at a depth of {{convert|16.4|km|mi}} about {{convert|430|km|mi|0|abbr=on}} southwest of Banda Aceh at 10:43 UTC, two hours after the initial earthquake.
+
+==Damage==
+Four people in their 60s and 70s in Banda Aceh, and a 39-year-old man in Lhoksemauwe died from heart attacks or shock. Injuries were reported in Aceh Singkil, including a child who was critically injured by a falling tree. People headed for higher ground in parts of Indonesia and M some with drips attached to their arms. One hotel guest was slightly injured when he jumped out of his window.
+
+The earthquake was felt over a large area, including Indonesia, the Maldives, Sri Lanka, India, Nepal, Bhutan, China, Bangladesh, Burma, Thailand, Malaysia, Laos, Cambodia, Singapore, and Vietnam. The quake was felt across the eastern coast of India including Chennai, Bangalore, Kochi, Bhubaneswar, Vizag and Kolkata. The Metro Rail services were suspended in Kolkata, and passengers were asked to leave stations. In peninsular Malaysia, shaking was felt in Penang and Kuala Lumpur. The tremor was felt in Colombo, Sri Lanka, where people in some high-rise buildings were evacuated. In China, the earthquake was felt in Tibet. However, it was not reported to be felt in places closer to the epicenter such as Yunnan and Guangxi.
+
+==Tsunami==
+Small {{convert|0.5|m|in|0|abbr=on}} waves, within regular tide limits, were reported in the Campbell Bay area of Great Nicobar Island, The Indonesian Agency for Meteorology, Climatology and Geophysics said three small tsunamis struck the Aceh coast. The highest was {{convert|80|cm|in|0|abbr=on}}, at Meulaboh. A {{convert|1|m|ft|0|abbr=on}} wave observed at Simeulue Regency|Simeulue did not cause significant damage.
+
+===Tsunami warnings===
+Three hours after the initial quake it was still unclear whether a tsunami had been generated or if a tsunami had done any significant damage. A geophysicist from the Pacific Tsunami Warning Center (PTWC) stated that a gauge closest to the epicenter recorded a wave peak of about {{convert|1|m|ft|0|abbr=on}}. Indonesian authorities also issued a statement saying that the likelihood of a tsunami was low.
+
+Tsunami warnings were issued in the following countries: Indonesia, Australia, Cambodia, Malaysia, Singapore, Thailand, Myanmar, Bangladesh, India, Sri Lanka, Maldives, Pakistan, Iran, United Arab Emirates, Oman, Yemen, Somalia, Kenya, Tanzania, Seychelles, Mozambique, Mauritius, Comoros, Madagascar, South Africa and the dependencies of Diego Garcia as part of the British Indian Ocean Territories, Crozet Islands, Réunion and Kerguelen Islands. Projected tsunami landfall times in GMT were: 8:38 for Indonesia, 11:38 for Sri Lanka, 14:38 for the Seychelles, 17:38 for Madagascar and 20:38 for South Africa.
+
+====India====
+File:Earthquake Leads Office Evacuation - Sector-V - Salt Lake City - Kolkata 2012-04-11 9367.JPG|thumb|left|People evacuating high rise buildings on the streets in Kolkata, India, in front of the Cognizant building.
+After the earthquake, the Indian National Centre for Ocean Information Services (INCOIS) issued a high-level tsunami warning for the Andaman and Nicobar Islands. Authorities told civilians to move away from the coast and towards higher ground.
+Areas subject to warnings included Tamil Nadu, Andhra Pradesh and the Union Territory of Andaman and Nicobar Islands.
+
+In Kolkata, underground Metro Railways services were stopped and tall office buildings and shopping malls were evacuated. Navy warships were put on high alert. The Indian Air Force dispatched two Lockheed C-130 Hercules|C-130s and one Ilyushin Il-76|Il-76 aircraft to the Andaman islands.
+
+====Sri Lanka====
+File:Sri lanka DMC evacuation order issued 11 April.jpg|thumb|upright|Evacuation order issued by Ministry of Disaster Management and Human Rights (Sri Lanka)|Ministry of Disaster Management and Human Rights in Sri Lanka.
+The Ministry of Disaster Management and Human Rights (Sri Lanka)|Ministry of Disaster Management and Human Rights (DMC) authorised an Emergency evacuation|evacuation order
+
+As part of a Risk management|risk mitigation measure, the Ceylon Electricity Board disconnected power supplies to coastal areas and railway control rooms. Coastal train services were suspended. The Road Development Authority removed toll charges from the Southern Expressway (Sri Lanka)|Southern Sri Lanka Distributor to aid the evacuation. Coastal bus services were temporarily re-routed.
+
+====Thailand====
+Six Andaman coast provinces of Thailand|provinces urged people to go to high ground and stay away from areas that could be affected. Phuket International Airport was closed. The alerts caused panic as people fled buildings and made for high ground.{{Citation needed|date=April 2012}}
+
+During the initial earthquake and for more than two hours after none of Thailand's free television stations reported the earthquake or tsunami warnings, preferring to continue a live broadcast of a House of Chakri|royal family ceremony, despite the National Broadcasting and Telecommunications Commission (NBTC)'s urgent order directing the emergency information to be broadcast instead without delay.
+
+==See also==
+
+<!--Read the BACKGROUND section, the 2004 Tsunami is linked and this becomes overlink-->
+*Earthquakes in 2012
+*List of earthquakes in Indonesia
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{wikinews|Massive earthquake hits Indonesia, no tsunami risk}}
+* {{commonscat-inline|2012 Indian Ocean earthquake}}
+* http://www.ga.gov.au/earthquakes/ Map of earthquakes: Australia and region — Last 7 days, Geoscience Australia
+* http://earthquake.usgs.gov/earthquakes/recenteqsww/Quakes/quakes_big.php Latest Earthquakes Magnitude 5.0 and Greater in the World – Last 7 days, USGS
+* http://wikimapia.org/#lat=2.3467994&lon=93.072485&z=7&l=0&m=b Satellite View at Wikimapia.org
+* http://www.isn.bosai.go.jp/events/20120411083834/index.html Preliminary source parameters obtained by automatic analysis  - 2012/04/11 08:38 Off West Coast of Northern Sumatra -  International seismic network, NIED, Japan
+{{Earthquakes in 2012}}
+
+Category:Earthquakes in Indonesia
+Category:Earthquakes in Thailand
+Category:Earthquakes in India
+Category:2012 earthquakes|Indian Ocean earthquakes
+Category:2012 in Indonesia
+Category:2012 disasters in India
+Category:2012 in Sri Lanka
+Category:2012 in Thailand
+Category:History of the Indian Ocean

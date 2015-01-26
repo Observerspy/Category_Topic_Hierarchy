@@ -1,0 +1,1336 @@
+{{Infobox election
+| election_name   = United Kingdom general election, 2010<ref name=ElecComm>{{cite web |url=http://www.electoralcommission.org.uk/elections/results/general_elections |title=General elections |publisher=Electoral Commission |date=18 May 2012 |accessdate=24 August 2013}}</ref>
+| country         = United Kingdom
+| type            = parliamentary
+| ongoing         = no
+| previous_election = United Kingdom general election, 2005
+| previous_year   = 2005
+| previous_mps    = List of MPs elected in the United Kingdom general election, 2005
+| next_election   = United Kingdom general election, 2015
+| next_year       = 2015
+| next_mps        = <!-- MPs elected in the United Kingdom general election, 56th -->
+| seats_for_election = All [[List of United Kingdom Parliament constituencies|650 seats]] in the [[House of Commons of the United Kingdom|House of Commons]] | majority_seats=326
+| elected_mps        = [[List of MPs elected in the United Kingdom general election, 2010|Members elected]]
+| election_date   = {{Start date|2010|05|06|df=yes}}
+| turnout         = 65.1%
+
+<!-- Conservative -->
+| image1          = [[File:David Cameron official.jpg|160x160px|David Cameron]]
+| leader1         = [[David Cameron]]
+| leader_since1   = [[Conservative Party (UK) leadership election, 2005|6 December 2005]]
+| party1          = Conservative Party (UK)
+| leaders_seat1   = [[Witney (UK Parliament constituency)|Witney]]
+| popular_vote1   = '''10,703,654'''<!--Note: Electoral commission figures. Some sources add 22,860 votes to the Conservatives for Speaker John Bercow in Buckingham. See the talk page.-->
+| percentage1     = '''36.1%'''
+| swing1          = {{increase}} 3.7%
+| last_election1  = 198, 32.4%
+| seats_before1   = 210
+| seats_needed1   = +116<ref name="Notional need" group="note" />
+| seats1          = '''307''' <!--Note: The BBC erroneously counts Speaker John Bercow as a Conservative, giving 307 but some people think it is 306. See the talk page. Sky does the same.--> 
+| seat_change1    = {{increase}} 97*<!-- note: the boundaries changed from the previous election + 97 is a nominal change figure from the seats the party would have won based on those boundaries. --> 
+
+<!-- Labour -->
+| image2          = [[File:Gordon Brown official.jpg|160x160px|Gordon Brown]]
+| leader2         = [[Gordon Brown]]
+| leader_since2   = [[Labour Party (UK) leadership election, 2007|24 June 2007]]
+| party2          = Labour Party (UK)
+| leaders_seat2   = [[Kirkcaldy and Cowdenbeath (UK Parliament constituency)|Kirkcaldy & Cowdenbeath]]
+| last_election2  = 355, 35.2%
+| seats_before2   = 349 
+| seats_needed2   = –23<ref name="Notional need" group="note">Reflects the notional winners of seats in light of boundary changes</ref>
+| seats2          = 258
+| seat_change2    = {{decrease}} 91*<!-- note: the boundaries changed from the previous election - 91 is a nominal change figure from the seats the party would have won based on those boundaries. --> 
+| popular_vote2   = 8,606,517
+| percentage2     = 29.0%
+| swing2          = {{decrease}} 6.2%
+
+<!-- Liberal Democrats -->
+| image3          = [[File:Nick Clegg 2012.jpg|160x160px|Nick Clegg]]
+| leader3         = [[Nick Clegg]]
+| leader_since3   = [[Liberal Democrats leadership election, 2007|18 December 2007]]
+| party3          = Liberal Democrats
+| leaders_seat3   = [[Sheffield Hallam (UK Parliament constituency)|Sheffield Hallam]]
+| last_election3  = 62, 22.0%
+| seats_before3   = 62 
+| seats_needed3   = +263
+| seats3          = 57
+| seat_change3    = {{decrease}} 5* <!-- note: the boundaries changed from the previous election - 5 is a nominal change figure from the seats the party would have won based on those boundaries. -->
+| popular_vote3   = 6,836,248
+| percentage3     = 23.0%
+| swing3          = {{increase}} 1.0%
+| map_image       = 2010UKElectionMap.svg
+| map_size        = 450px
+| map_caption     = Colours denote the winning party, as shown in the [[#Results|main table of results]]
+''^ Figure does not include the Speaker''<br />
+''* Indicates boundary change – so this is a nominal figure''
+| title           = [[Prime Minister of the United Kingdom|Prime Minister]]
+| posttitle      = Elected Prime Minister
+| before_election = [[Gordon Brown]]
+| before_party    = Labour Party (UK)
+| after_election  = [[David Cameron]]
+| after_party     = Conservative Party (UK)
+}}
+The '''United Kingdom general election of 2010''' was held on Thursday 6 May 2010, with 45,597,461 registered voters<ref name=ElecComm/> entitled to vote to elect members to the [[House of Commons of the United Kingdom|House of Commons]]. The [[Elections in the United Kingdom|election]] took place in [[United Kingdom constituencies|650 constituencies]]<ref name="thirsk" group="note" /> across the United Kingdom under the [[first-past-the-post]] system. None of the parties achieved the 326 seats needed for an overall majority. The [[Conservative Party (UK)|Conservative Party]], led by [[David Cameron]], won the largest number of votes and seats but still fell twenty seats short. This resulted in a [[hung parliament]] where no party was able to command a majority in the House of Commons. This was only the second general election since World War II to return a hung parliament, the first being the [[United Kingdom general election, February 1974|February 1974 election]]. Unlike in 1974, the potential for a hung parliament had this time been widely considered and predicted and both the country and politicians were better prepared for the constitutional process that would follow such a result.<ref name="timesonline1">{{cite news|url=http://www.timesonline.co.uk/tol/news/politics/article7119226.ece#cid=OTC-RSS&attr=797084|title=Britain wakes up to a hung Parliament|date=7 May 2010|work=The Times|accessdate=7 May 2010|first1=Philippe|last1=Naughton|first2=Roland|last2=Watson | location=London}}</ref> The [[United Kingdom coalition government (2010–present)|coalition government]] that was subsequently formed was the first coalition in British history to eventuate directly from an election outcome.
+
+[[Coalition government|Coalition talks]] began immediately between the Conservatives and the [[Liberal Democrats]] and [[2010 United Kingdom government formation|lasted for five days]]. There was an aborted attempt to put together a [[Labour Party (UK)|Labour]]/Liberal Democrat coalition (although other smaller parties would have been required to make up the ten seats they lacked for a majority). To facilitate this [[Gordon Brown]] announced on the evening of Monday 10 May that he would resign as Labour Party leader. Realizing  that a deal with the Tories was in reach, the next day on Tuesday 11 May, Brown announced his resignation<ref name="news.bbc.co.uk">{{cite news |url=http://news.bbc.co.uk/1/hi/uk_politics/election_2010/8675913.stm |title=Gordon Brown resigns as UK prime minister |publisher=BBC News |date=11 May 2010}}</ref> as [[Prime Minister of the United Kingdom|Prime Minister]], marking the end of 13 years of Labour government.<ref name="news.bbc.co.uk"/> This was accepted by [[Elizabeth II|Queen Elizabeth II]], who then invited [[David Cameron]] to form a government in her name and become Prime Minister. Just after midnight on 12 May, the Liberal Democrats emerged from a meeting of their Parliamentary party and Federal Executive to announce that the coalition deal had been "approved overwhelmingly",<ref name="New government – live blog">{{cite news |url=http://www.guardian.co.uk/politics/2010/may/11/general-election-2010-live-blog |title=New government – live blog |work=The Guardian |date=12 May 2010<!-- - 12.13&nbsp;am -->| first=Andrew | last=Sparrow | location=London}}</ref><ref name=LibDemApproveBBC>{{cite news|url=http://news.bbc.co.uk/2/hi/uk_news/politics/election_2010/8676539.stm|title=Lib Dems approve coalition deal|publisher=BBC News|date=11 May 2010|accessdate=11 May 2010}}</ref> sealing a [[United Kingdom coalition government (2010–present)|coalition government of Conservatives and Liberal Democrats]].
+
+None of the three main party leaders had previously led a general election campaign, a situation which had not occurred since [[United Kingdom general election, 1979|the 1979 election]]. During the campaign, the three main party leaders engaged in a series of [[United Kingdom general election debates, 2010|televised debates]], the first such debates in a British general election campaign. The Liberal Democrats achieved a breakthrough in opinion polls after the first debate in which their leader [[Nick Clegg]] was widely seen as the strongest performer. On polling day their share of the vote increased by only 1% over the previous general election, and they suffered a net loss of five seats. This was still the Liberal Democrats' largest popular vote since the party's creation, and they found themselves in a pivotal role in the formation of the new government. The share of votes for parties other than Labour or the Conservatives was 35% and was the largest since the [[United Kingdom general election, 1918|1918 general election]]. In terms of votes it was the most "three-cornered" election since [[United Kingdom general election, 1923|1923]], and in terms of seats since [[United Kingdom general election, 1929|1929]]. The [[Green Party of England and Wales]] won its first ever seat in the Commons, and the [[Alliance Party of Northern Ireland]] also gained its first elected member.<ref>In 1973 Stratton Mills, elected as a Unionist, defected to the Alliance Party but retired from Westminster at the next general election.</ref> The result in one constituency, [[Oldham East and Saddleworth (UK Parliament constituency)|Oldham East and Saddleworth]], was subsequently declared void on petition because of [[Oldham East and Saddleworth by-election, 2011|illegal practices during the campaign]], the first such instance since 1910.
+
+== Background ==
+The Prime Minister, [[Gordon Brown]], went to [[Buckingham Palace]] on 6 April and asked the [[Elizabeth II of the United Kingdom|Queen]] to [[Dissolution of the Parliament of the United Kingdom|dissolve Parliament]] on 12 April, confirming in a live press conference in [[Downing Street]], as had long been speculated, that the election would be held on 6 May,<ref>{{cite news |url=http://news.bbc.co.uk/1/hi/uk_politics/election_2010/8603591.stm |title=Gordon Brown calls 6 May general election |publisher=BBC News |date=6 April 2010}}</ref> five years since the previous election on 5 May 2005. The election took place on 6 May in [[Constituencies in the United Kingdom general election, 2010|649 constituencies]] across the United Kingdom, under the [[first-past-the-post]] system, for seats in the [[House of Commons of the United Kingdom|House of Commons]]. Voting in the [[Thirsk and Malton (UK Parliament constituency)|Thirsk and Malton constituency]]<ref name="thirsk" group="note" /> was postponed for three weeks because of the [[List of deaths of candidates during general elections of the United Kingdom|death of a candidate]].
+
+The governing Labour Party had campaigned to secure a fourth consecutive term in office and to restore support lost since 1997.<ref>{{cite news|url=http://news.bbc.co.uk/2/hi/uk_news/politics/6236315.stm|title=Brown would 'renew' Labour Party|publisher=BBC News|date=5 January 2007}}</ref> The Conservative Party sought to gain a dominant position in British politics after losses in the 1990s, and to replace Labour as the governing party. The Liberal Democrats hoped to make gains from both sides and hoped to hold the [[balance of power (parliament)|balance of power]] in a hung parliament. Since the [[United Kingdom general election debates, 2010|televised debates]] between the three leaders, their poll ratings had risen to the point where many considered the possibility of a Liberal Democrat role in Government.<ref>{{cite news|url=http://news.bbc.co.uk/2/hi/uk_news/politics/election_2010/8628765.stm|title=Election 2010: Lib Dem policies targeted by rivals|publisher=BBC News|date=19 April 2010}}</ref> Polls just before election day saw a slight swing from the Liberal Democrats back to Labour and Conservatives, with the majority of final polls falling within one point of Conservatives 36%, Labour 29%, Liberal Democrats 23%.<ref>{{cite news|url=http://ukpollingreport.co.uk/blog/archives/2688 |title=Final poll of the campaign |first=Anthony |last=Wells |publisher=UK Polling Report |date=6 May 2010|accessdate=7 May 2010}}</ref><ref>{{cite news |url=http://www.timesonline.co.uk/tol/news/politics/article7117623.ece |title=Tories scent victory as poll lead widens  |work=The Times|date=6 May 2010 |accessdate=6 May 2010| first1=Peter | last1=Riddell | first2=Jill | last2=Sherman | first3=Roland | last3=Watson | location=London}}</ref> However, record numbers of undecided voters raised uncertainty about the outcome.<ref>{{cite news|url=http://www.ft.com/cms/s/0/51d39a34-57dd-11df-855b-00144feab49a.html|title=UK – Brown woos undecided voters|work=Financial Times|date=5 May 2010|last=Pickard|first=Jim|accessdate=7 May 2010}}</ref><ref>{{cite news|url=http://www.bloomberg.com/apps/news?pid=20601087&sid=a9eRFBXAs_Co&pos=9|title=Brown Placing Third May Win Most Seats as Undecided Hold Key|publisher=Bloomberg|date=27 April 2010|last1=Jefferson|first1= Rodney|last2=Hutton|first2=Robert|accessdate=7 May 2010}}</ref> The [[Scottish National Party]], encouraged by their victory in the [[Scottish Parliament election, 2007|2007 Scottish parliament elections]], set itself a target of 20 MPs and was hoping to find itself holding a balance of power.<ref>{{cite news |url=http://news.scotsman.com/latestnews/Salmond-wants-Westminster-to-39dance.4001458.jp |title=Salmond wants Westminster to 'dance to a Scottish jig' as he targets 20 seats |work=[[The Scotsman]] |date=21 April 2008 |location=Edinburgh}}</ref> Equally, [[Plaid Cymru]] sought gains in Wales. Smaller parties which had had successes at local elections and the [[European Parliament election, 2009 (United Kingdom)|2009 European elections]] ([[UK Independence Party]], Green Party, [[British National Party]]) looked to extend their representation to seats in the House of Commons. The [[Democratic Unionist Party]] looked to maintain, if not extend, its number of seats, having been the fourth largest party in the House of Commons.
+
+The key dates were:
+{| class="wikitable"
+|-
+| style="width:130px;"|Monday 12 April||Dissolution of [[List of MPs elected in the United Kingdom general election, 2005|Parliament (the 54th)]] and campaigning officially began
+|-
+|Tuesday 20 April||Last day to file nomination papers, to register to vote, and to request a postal vote<ref name="Election Timetables">{{cite web |url=http://www.parliament.uk/commons/lib/research/rp2007/rp07-031.pdf |title=Research Paper 07/31: Election Timetables |work=House of Commons Library}}</ref>
+|-
+|Thursday 6 May||Polling day
+|-
+|Tuesday 11 May||[[David Cameron]] became Prime Minister through a coalition with the Liberal Democrats.
+|-
+|Tuesday 18 May||[[List of MPs elected in the United Kingdom general election, 2010|New Parliament (the 55th)]] assembled
+|-
+|Tuesday 25 May||[[State Opening of Parliament]]
+|-
+|Thursday 27 May|| Voting took place in the delayed poll in the constituency of [[Thirsk and Malton]]{{#tag:ref|The poll in the constituency of [[Thirsk and Malton (UK Parliament constituency)|Thirsk and Malton]] was postponed until 27 May because of the death of the [[UKIP]] candidate, John Boakes. UKIP did not name a candidate until after 6 May out of respect for Mr. Boakes<ref>{{cite news |url= http://www.maltonmercury.co.uk/news/Election-delayed-after-the-death.6260395.jp |title=Election delayed after the death of candidate |work=Malton & Pickering Mercury |date=28 April 2010 |accessdate=29 April 2010}}</ref> |name="thirsk" |group="note"}}
+|-
+|Friday 5 November||[[Oldham East and Saddleworth (UK Parliament constituency)|Oldham East and Saddleworth]] election result voided on petition at an [[election court]], causing a [[Oldham East and Saddleworth by-election, 2011|by-election]]
+|}
+
+=== MPs declining re-election ===
+{{Main|List of MPs who stood down at the United Kingdom general election, 2010}}
+
+This election had an unusually high number of MPs choosing not to seek re-election with more standing down than did so at the [[United Kingdom general election, 1945|1945 general election]] (which on account of the extraordinary [[Second World War|wartime]] circumstances came ten years after the preceding election).<ref>{{cite web|url=http://www.bbc.co.uk/blogs/newsnight/michaelcrick/2009/12/a_postwar_record_for_mps_stand.html|title=A post-war record for MPs standing down|publisher=BBC News|date=2 December 2009}}</ref> This has been attributed to the [[United Kingdom parliamentary expenses scandal|2009 expenses scandal]] and the fact that redundancy-style payments for departing MPs may be scrapped after the election.<ref>{{cite news|url=http://www.telegraph.co.uk/news/newstopics/mps-expenses/6894889/Quarter-of-MPs-to-stand-down-over-expenses.html|title=Quarter of MPs to stand down over expenses|work=[[The Daily Telegraph]]|date=28 December 2009|first1=Robert|last1=Winnett|first2=Rosa|last2=Prince|accessdate=26 May 2010 | location=London}}</ref>
+
+In all, 148 MPs (100 Labour, 35 Conservatives, 7 Liberal Democrats, 2 Independents, 1 Independent Conservative and 1 member each from Plaid Cymru, the DUP, and the SDLP) decided not to contest the election. [[Alex Salmond]] did not stand for re-election in order to focus on the role of [[First Minister of Scotland]] but the SNP retained the seat with a different candidate and a reduced majority over the Conservative Party.
+
+=== Boundary changes ===
+{{Main|Boundary changes for the United Kingdom general election, 2010|Constituencies in the United Kingdom general election, 2010}}
+[[File:2005UKElectionNominalMap.svg|240px|thumb|The notional (i.e. hypothetical) <!-- sic. Yes, it is "notional". Not "national"--> results of the 2005 election, if they had taken place with the new boundaries]]
+
+Each of the four national [[Boundary Commissions (United Kingdom)|Boundary Commission]]s is required by the Parliamentary Constituencies Act 1986 (as amended by the Boundary Commissions Act 1992) to conduct a general review of all the constituencies in its part of the United Kingdom every eight to twelve years to ensure the size and composition of constituencies are as fair as possible. Based on the Rallings and Thrasher studies using ward by ward data from local elections and the 2005 general election, the new boundaries used in 2010 would have returned nine fewer Labour MPs had they been in place at the previous election; given that there are to be four more seats in the next parliament this nationally reduces Labour's majority from 66 to 48.<ref name="Media Guide">Colin Rallings, Michael Thrasher, "The Media Guide to the New Parliamentary Constituencies", Local Government Chronicle Elections Centre, 2007, ISBN 0-948858-45-1</ref>
+
+Pursuant to Boundary Commission for England recommendations, the number of seats in England increased by four, and numerous changes were made to the existing constituency boundaries.<ref>{{cite web|url=http://www.opsi.gov.uk/si/si2007/20071681.htm|title=The Parliamentary Constituencies (England) Order 2007 (S.I. 2007 No. 1681)|publisher=Office of Public Sector Information|date=13 June 2007}}</ref>
+
+Northern Ireland continued to elect 18 MPs, but minor changes were made to the eastern constituencies in accordance with the Northern Ireland Boundary Commission's recommendations.<ref>{{cite web |url=http://www.opsi.gov.uk/si/si2008/uksi_20081486_en_1|title=The Parliamentary Constituencies (Northern Ireland) Order 2008 (S.I. 2008 No. 1486)|date=11 June 2006|publisher=The National Archives}}</ref> For the first time, these changes include the splitting of an [[ward (country subdivision)|electoral ward]] between two constituencies.
+
+Following the recommendations of the Boundary Commission for Wales, the total number of seats remained at 40, although new seats caused by radical redrawing of boundaries in [[Clwyd]] and [[Gwynedd]] were fought for the first time: [[Arfon (UK Parliament constituency)|Arfon]] and [[Dwyfor Meirionnydd (UK Parliament constituency)|Dwyfor Meirionnydd]] replaced [[Caernarfon (UK Parliament constituency)|Caernarfon]] and [[Meirionnydd Nant Conwy (UK Parliament constituency)|Meirionnydd Nant Conwy]] respectively; [[Aberconwy (UK Parliament constituency)|Aberconwy]] replaced [[Conwy (UK Parliament constituency)|Conwy]]. At the time of the election Welsh constituencies had electorates on average around 14,000 smaller than their counterparts in England.<ref>{{cite web|url=http://www.opsi.gov.uk/si/si2006/20061041.htm|title=The Parliamentary Constituencies and Assembly Electoral Regions (Wales) Order 2006 (S.I. 2006 No. 1041)|date=11 June 2006|publisher=The National Archives}}</ref>
+
+Scotland saw its most recent large-scale review completed in 2004, so its 59 constituencies remained the same as at the 2005 general election.
+{{Clear}}
+
+{{Election Summary Begin| title = Notional  (i.e. hypothetical) UK General Election 2005 on new 2010 boundaries}}
+{{Election Summary Party|
+  |party      = Labour Party (UK)
+  |seats      = 349
+  |net        = -7
+  |gain       =
+  |loss       =
+  |votes      = 9,552,436
+  |votes %    = 35.2
+  |seats %    = 53.7
+  |plus/minus =
+
+}}
+{{Election Summary Party|
+  |party      = Conservative Party (UK)
+  |seats      = 210
+  |net        = +12
+  |gain       =
+  |loss       =
+  |votes      = 8,784,915
+  |votes %    = 32.4
+  |seats %    = 32.3
+  |plus/minus =
+
+}}
+
+{{Election Summary Party|
+  |party      = Liberal Democrats (UK)
+  |seats      = 62
+  |gain       =
+  |loss       =
+  |net        =
+  |votes      = 5,985,454
+  |votes %    = 22.1
+  |seats %    = 9.5
+  |plus/minus =
+
+}}
+{{Election Summary Party|
+  |party      = Plaid Cymru
+  |seats      = 2
+  |gain       =
+  |loss       =
+  |net        = -1
+  |votes      = 174,838
+  |votes %    = 0.6
+  |seats %    = 0.3
+  |plus/minus =
+
+}}
+{{Election Summary Party|
+  |party      = Others
+  |seats      = 27
+  |gain       =
+  |loss       =
+  |net        =
+  |votes      = 2,650,867
+  |votes %    = 9.7
+  |seats %    = 4.2
+  |plus/minus =
+
+}}
+{{Election Summary|
+  |party      = Total
+  |seats      = 650
+  |gain       =
+  |loss       =
+  |net        =
+  |votes      = 27,148,510
+  |votes %    =
+  |seats %    =
+  |plus/minus =
+
+}}
+|}
+
+== Contesting parties ==
+
+=== Main parties ===
+{{See also|Conservative Party (UK) leadership election, 2005|Liberal Democrats leadership election, 2006|Labour Party (UK) leadership election, 2007|Liberal Democrats leadership election, 2007}}
+All three main parties went into the general election having changed leaders since 2005. [[David Cameron]] became [[Conservative Party (UK)|Conservative]] leader in December 2005, replacing [[Michael Howard]]. [[Gordon Brown]] succeeded [[Tony Blair]] as leader of the [[Labour Party (UK)|Labour Party]] and Prime Minister in June 2007. [[Nick Clegg]] was elected as leader of the [[Liberal Democrats]] in December 2007, succeeding [[Menzies Campbell]] who had replaced [[Charles Kennedy]] in January 2006. The last time all three main parties went into a general election with new leaders was in the [[United Kingdom general election, 1979|1979 election]], when [[James Callaghan]] as Labour leader, [[Margaret Thatcher]] for the Conservatives, and [[David Steel]] with the then-[[Liberal Party (UK)|Liberal Party]] took to the polls.
+
+The prospect of a [[coalition government|coalition]] or [[minority government]] was being considered well before polling day. [[Gordon Brown]] made comments about the possibility of a coalition in January 2010.<ref>{{cite news |url=http://www.independent.co.uk/news/uk/politics/pm-paves-way-for-deal-with--lib-dems-in-hung-parliament-1856888.html |title=PM paves way for deal with Lib Dems in hung parliament |work=[[The Independent]] |date=4 January 2010 | first1=Nigel | last1=Morris | accessdate=26 May 2010 | location=London}}</ref> In 2009, it was reported that senior civil servants were to meet with the Liberal Democrats to discuss their policies, an indication of how seriously the prospect of a hung parliament was being taken.<ref>{{cite news|url=http://www.guardian.co.uk/politics/2009/jan/01/whitehall-hung-parliament-liberal-democrats|title=Whitehall prepares for hung parliament with Lib Dem talks|work=The Guardian|date=1 January 2009|accessdate=17 May 2010|first=Nicholas|last=Watt | location=London}}</ref> [[Nick Clegg]]<ref>{{cite news|url=http://www.guardian.co.uk/politics/2008/mar/10/liberaldemocrats.nickclegg|title=Clegg's terms for deal in hung parliament|work=The Guardian|date=10 March 2008|first=Andrew|last=Sparrow|accessdate=26 May 2010 | location=London}}</ref> and [[Menzies Campbell]]<ref>{{cite web |url=http://www.mingcampbell.org.uk/ccarchive/2006/02/15/liberal-democrats-under-my-leadership-would-vote-against-any-queens-speech-without-a-clear-and-unambiguous-commitment-for-proportional-representation/|title=Liberal Democrats under my leadership would vote against any Queens Speech without a clear and unambiguous commitment for Proportional Representation|work=Ming Campbell Official Website|date=15 February 2006}}</ref> had continued the position of [[Charles Kennedy]] of not being prepared to form a coalition with either main party and of voting against any [[Speech from the Throne|Queen's Speech]] unless there was an unambiguous commitment in it to introduce [[proportional representation]].
+
+=== Other parties ===
+{{See also|List of parties contesting the United Kingdom general election, 2010}}
+
+Other parties with representation at Westminster after the previous general election included the [[Scottish National Party]], with six parliamentary seats, [[Plaid Cymru]] from Wales with three seats, and [[Respect Party|Respect&nbsp;– The Unity Coalition]] and [[Independent Kidderminster Hospital and Health Concern|Health Concern]], each of which held one parliamentary seat in England. Since that election, the SNP won the [[Scottish Parliament election, 2007|2007 Scottish Parliament elections]] and currently control the [[Scottish Government]], and also won the largest share of the [[European Parliament election, 2009|2009 European Parliament election]] vote in Scotland.<ref>{{cite news|url=http://news.bbc.co.uk/2/hi/uk_news/scotland/8088358.stm |title=Salmond hails 'historic' Euro win |publisher=BBC News |date=8 June 2009|accessdate=9 April 2010}}</ref> In Wales, the Labour Party remained the largest party in the [[National Assembly for Wales election, 2007|Welsh Assembly]], although Plaid Cymru increased their share of the vote and formed a [[One Wales|coalition government]] with Labour.<ref name="Labour-Plaid">{{cite news |url=http://news.bbc.co.uk/2/hi/uk_news/wales/6278848.stm |title=Labour-Plaid coalition is sealed |date=7 July 2007 |publisher=BBC News |accessdate=25 November 2011}}</ref>
+
+In 2009 the [[Ulster Unionist Party]] and the Conservative Party announced they had formed an [[electoral alliance]] whereby the two parties would field joint candidates for future elections under the banner of "[[Ulster Conservatives and Unionists – New Force]]".<ref name="LadyH">{{cite news |url=http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/7913967.stm |title=Lady Hermon under 'no pressure' |date=27 February 2009 |publisher=BBC News |accessdate=25 November 2011}}</ref> However this caused the sole UUP MP Lady [[Sylvia Hermon]] to resign from the party on 25 March 2010, leaving them with no representation at Westminster for the first time in their history.<ref>{{cite news |url=http://news.bbc.co.uk/2/hi/uk_news/northern_ireland/8586845.stm |title=MP Lady Sylvia Hermon quits Ulster Unionists |date=25 March 2010 |publisher=BBC News |accessdate=25 November 2011}}</ref>
+
+Many constituencies were contested by other, smaller parties. Parties that won no representatives at Westminster in 2005 but have seats in the [[Devolution#United Kingdom|devolved assemblies]] or [[European Parliament]] included the [[Alliance Party of Northern Ireland]], the [[Progressive Unionist Party of Northern Ireland]], the [[British National Party]], the [[UK Independence Party]] (UKIP), and the Green parties in the UK: the [[Green Party of England and Wales]], the [[Scottish Green Party]], and the [[Green Party in Northern Ireland]]. In 2009, [[Nigel Farage]] announced his intention to resign as UKIP leader to focus on becoming an MP. Farage was replaced in an election by party members by [[Malcolm Pearson, Baron Pearson of Rannoch|Lord Pearson of Rannoch]], whose stated intention was for the electoral support of UKIP to force a hung parliament. The Green Party of England and Wales voted to have a position of leader for the first time; the [[Green Party of England and Wales leadership election, 2008|first leadership election]] was won by [[Caroline Lucas]], who successfully contested the constituency of [[Brighton Pavilion (UK Parliament constituency)|Brighton Pavilion]].
+
+In addition, a new loose coalition, [[Trade Unionist and Socialist Coalition]] (TUSC), contested a general election for the first time. TUSC was a grouping of left wing parties that participated in the [[European Parliament election, 2009 (United Kingdom)|2009 European Parliament elections]] under the name of [[No2EU]]; members included the [[Socialist Workers Party (Britain)|Socialist Workers Party]], the [[Socialist Party (England and Wales)|Socialist Party]], the [[Socialist Alliance (England)|Socialist Alliance]], [[Socialist Resistance]], and is supported by some members of [[UNISON]], the [[National Union of Teachers]], the [[University and College Union]], the [[National Union of Rail, Maritime and Transport Workers]], and the [[Public and Commercial Services Union]]. Several members of these unions ran as candidates under the TUSC banner.<ref>{{cite web|url=http://www.tusc.org.uk/index.php |title=Trade Unionist and Sociaist Coalition |publisher=TUSC |accessdate=13 April 2010}}</ref> However, some former members of NO2EU, such as the [[Liberal Party (UK, 1989)|Liberal Party]]{{Citation needed|date=April 2010}} and the [[Communist Party of Britain]],<ref>[http://www.communist-party.org.uk/index.php?option=com_content&view=article&id=712:executive-committee-statement-on-elections&catid=69:executive-committee&Itemid=77 Executive Committee statement on elections] Communist Party, 17 January 2010</ref> chose not to participate in the TUSC campaign. The coalition did not run candidates against left wing Labour or Respect candidates.<ref>[http://www.socialistworker.co.uk/art.php?id=20159 TUSC left coalition to stand in general election] Socialist Worker, 6 February 2010</ref><ref>[http://www.socialistparty.org.uk/articles/8673 Launch of Trade Unionist and Socialist Coalition] The Socialist, 12 January 2010</ref>
+
+== Campaign ==
+
+=== April ===
+The prospective Labour candidate for [[Moray (UK Parliament constituency)|Moray]], Stuart Maclennan, was sacked after making offensive comments on his [[Twitter]] page, referring to elderly voters as "coffin dodgers" and voters in the North of Scotland as "[[teuchter]]s", and insulting politicians such as Cameron, Clegg, [[John Bercow]] and [[Diane Abbott]].<ref>{{cite news|url=http://news.bbc.co.uk/1/hi/uk_politics/election_2010/scotland/8610934.stm|title=Twitter abuse candidate Stuart MacLennan removed|publisher=BBC News|date=9 April 2010|accessdate=3 May 2010}}</ref><ref>{{cite web|last=Nicoll|first=Andrew|url=http://www.thescottishsun.co.uk/scotsol/homepage/news/election2010scotland/2925549/Twitter-ranting-Labour-hopeful-Stuart-MacLennan-is-blasted.html|title=Twitter ranting Labour hopeful Stuart MacLennan is blasted|work=The Scottish Sun|date=9 April 2010|accessdate=3 May 2010}}</ref>
+
+The UKIP candidate for [[Thirsk and Malton (UK Parliament constituency)|Thirsk and Malton]] — John Boakes – died, causing the election in the constituency to be postponed until 27 May.<ref>{{Cite news|first=Suzy|last=Jagger|title=Death of UKIP candidate John Boakes delays poll in Thirsk & Malton|url=http://www.timesonline.co.uk/tol/news/politics/article7105678.ece|work=The Times|date=23 April 2010|accessdate=7 May 2010 | location=London}}</ref><ref>{{Cite news|title=Election delayed after the death of candidate|url=http://www.maltonmercury.co.uk/news/Election-delayed-after-the-death.6260395.jp|work=Malton & Pickering Mercury|date=28 April 2010|accessdate=29 April 2010}}</ref><ref>{{Cite news|first=Mark|last=Stead|title=Thirsk and Malton election postponed after candidate John Boakes dies|url=http://www.yorkpress.co.uk/news/8115410.Election_off_in_North_Yorks__after_candidate_dies/|work=[[The Press (York)|The Press]]|date=23 April 2010|accessdate=7 May 2010}}</ref><ref>{{cite news|title=Funeral for UKIP election candidate John Boakes|url=http://news.bbc.co.uk/2/hi/uk_news/politics/election_2010/england/8658386.stm|publisher=BBC News|date=4 May 2010|accessdate=7 May 2010}}</ref>
+
+Philip Lardner, the Conservative candidate for [[North Ayrshire and Arran (UK Parliament constituency)|North Ayrshire and Arran]], was suspended from the party for comments he made about homosexuality on his website, describing it as not "normal behaviour". [[Andrew Fulton (Party chairman)|Andrew Fulton]], the chairman of the [[Scottish Conservative Party]], called the comments "deeply offensive and unacceptable", adding, "These views have no place in the modern Conservative party." However, he would still appear as a Conservative candidate because it was too late to remove his name from the ballot paper.<ref>{{cite news|url= http://news.bbc.co.uk/1/hi/uk_politics/election_2010/scotland/8647206.stm|title= Tory candidate Philip Lardner suspended for gay comment|publisher=BBC News|date= 27 April 2010|accessdate=1 May 2010}}</ref>
+
+2,378 postal voters in [[Bristol West (UK Parliament constituency)|Bristol West]] were wrongly sent ballot papers for [[Bristol East (UK Parliament constituency)|Bristol East]] by mistake. [[Bristol City Council]] officials asked people to tear up the wrong papers and said "Every effort will be made to ensure delivery [of new ballot papers] by 30 April."<ref>{{cite news|url= http://news.bbc.co.uk/1/hi/uk_politics/election_2010/england/8645772.stm|title=Postal voters sent wrong ballot papers in Bristol West|publisher=BBC News|date=27 April 2010|accessdate=2 May 2010}}</ref>
+
+====Bigotgate====
+[[Gordon Brown]], while in his car on 28 April, privately described a 65-year-old woman and lifelong Labour voter, Gillian Duffy, from [[Rochdale]], [[Greater Manchester]], a Labour-Liberal Democrat marginal seat, as a "bigoted woman". She had asked him about vulnerable people supposedly not receiving benefits because non-vulnerable people were receiving them, adding, "You can't say anything about the immigrants because you're saying that you're&nbsp;... but all these eastern Europeans what are coming in, where are they flocking from?" He replied "A million people have come from Europe but a million British people have gone into Europe."<ref>{{cite news|url=http://news.bbc.co.uk/1/hi/uk_politics/election_2010/8649476.stm |title=Profile of Gillian Duffy, the voter PM called 'bigoted' |publisher=BBC News |date=28 April 2010 |accessdate=4 May 2010}}</ref><ref>{{cite news|url=http://news.bbc.co.uk/1/hi/uk_politics/election_2010/8649448.stm |title=How Gordon Brown 'bigot' jibe row unfolded |publisher=BBC News |date=28 April 2010 |accessdate=3 May 2010}}</ref> Brown's conversation with his communications director Justin Forsyth (JF) went:
+* "GB: That was a disaster. [[Sue Nye|Sue]] should never have put me with that woman. Whose idea was that?
+* JF: I don't know, I didn't see her.
+* GB: Sue's I think [Brown's gatekeeper]. Just ridiculous&nbsp;... 
+* JF: What did she say?
+* GB: Everything, she was just a sort of bigoted woman who said she used to be Labour. I mean, it's just ridiculous. Sue pushed her up towards me."<ref>[http://www.dailymail.co.uk/news/election/article-1269761/Gordon-Browns-Gillian-Duffy-gaffe-PMs-humiliating-day-minute-minute.html#ixzz0oPE7FHYs Minute by minute, in words and pictures, Gordon Brown's most humiliating day] Mail Online, 29 April 2010</ref>
+
+Brown's remarks were recorded by a [[Sky News]] microphone he was still wearing, and widely broadcast. It was later said that Brown had misheard Duffy and thought she had asked, "where are they fucking from?"<ref>[http://www.newstatesman.com/blogs/the-staggers/2010/04/bnp-voters-bigotgate-balls Web Only: the best of the blogs] New Statesman, 29 April 2010</ref><ref>[waugh.standard.co.uk/2010/04/what-did-gordon-think-mrs-duffy-said.html What did Gordon think Mrs Duffy said?] London Evening Standard, 29 April 2010</ref><ref>[http://www.mirror.co.uk/news/uk-news/gordon-brown-thought-gillian-duffy-218039 Gordon Brown thought Gillian Duffy had said F-word] Mirror, 30 April 2010</ref> Soon after the incident, Brown talked to [[Jeremy Vine]] live on [[BBC Radio 2]] where he publicly apologised to Mrs Duffy. Subsequently, Brown visited her house for 43 minutes in order to apologise in person. Upon emerging, he described himself as a "penitent sinner",<ref>{{cite news|url=http://news.bbc.co.uk/2/hi/uk_news/politics/election_2010/8649841.stm |title=Brown apologises to voter for 'bigoted woman' comment |publisher=BBC News |date=28 April 2010|accessdate=28 April 2010}}</ref> while Duffy refused to speak to the press and would not shake hands with him in front of the cameras. She said the incident had left her feeling more sad than angry and that she would not be voting for Labour or any other party.<ref>{{cite news|url= http://news.bbc.co.uk/1/hi/uk_politics/election_2010/8656353.stm|title=Election 2010: Woman in Brown 'bigot' row not to vote|publisher=BBC News|date=1 May 2010|accessdate=1 May 2010}}</ref> The incident subsequently has been dubbed as "Bigotgate".
+
+The SNP attempted but failed to ban the broadcast of the final party leaders debate in Scotland, in a court action. They had argued that "the corporation [the BBC] had breached its rules on impartiality by excluding the SNP." The judge, Lady Smith, ruled that "the SNP's case 'lacks the requisite precision and clarity'" and added she could not "conclude the BBC had breached impartiality rules." Additionally, broadcasting regulator Ofcom ruled that it had not "upheld complaints received from the SNP and Plaid Cymru about The First Election Debate broadcast on ITV1 on Thursday 15 April 2010."<ref>{{cite news|url=http://news.bbc.co.uk/1/hi/uk_politics/election_2010/scotland/8648425.stm|title=SNP fails in BBC debate court bid|date=28 April 2010|publisher=BBC News|accessdate=29 April 2010}}</ref>
+[[File:Conservative Party posters.jpg|thumb|left|An election sign in a residential property.]]
+The leader of the UK Independence Party, [[Malcolm Pearson, Baron Pearson of Rannoch|Lord Pearson]], wrote an open letter to [[Somerset]] newspapers, asking voters to support Conservative candidates, rather than UKIP candidates in the [[Somerton and Frome (UK Parliament constituency)|Somerton and Frome]], [[Taunton Deane (UK Parliament constituency)|Taunton Deane]] and [[Wells (UK Parliament constituency)|Wells]] constituencies. This action was criticised by UKIP candidates who refused to stand down.<ref>{{cite news|url=http://news.bbc.co.uk/1/hi/uk_politics/election_2010/8648195.stm|title=UKIP asks voters in Somerset to back the Tories|publisher=BBC News|date=28 April 2010|accessdate=30 April 2010}}</ref>
+
+Labour candidate for Bristol East and former MP [[Kerry McCarthy]] revealed information about postal votes cast in the constituency on Twitter. [[Avon and Somerset Constabulary|Avon and Somerset police]] said they were "looking into a possible alleged breach of electoral law." [[Bristol City Council]] stated that "This is a criminal matter and [it] will be for the police to decide what action to take."<ref>{{cite news|url=http://news.bbc.co.uk/1/hi/uk_politics/election_2010/england/8652724.stm|title=Police probe Twitter votes gaffe by Bristol candidate|publisher=BBC News|date=29 April 2010|accessdate=30 April 2010}}</ref>
+
+The former Prime Minister [[Tony Blair]] returned to the campaign trail for Labour, visiting a polyclinic in Harrow West, after a troubled Labour campaign.<ref>{{cite news|url=http://politicsraw.com/2010/04/30/tonys-back/|title=Tony Blair Returns To Campaign Trail|work=PoliticsRAW|date=30 April 2010|accessdate=30 April 2010}}</ref>
+
+Postal voters in the marginal [[Vale of Glamorgan (UK Parliament constituency)|Vale of Glamorgan]] constituency had to be issued with new ballot papers after mistakenly being told they did not have to sign applications for postal votes.<ref>{{cite news|url=http://news.bbc.co.uk/1/hi/uk_politics/election_2010/wales/8653849.stm|title=Key marginal Vale of Glamorgan's postal votes error|publisher=BBC News|date=30 April 2010|accessdate=2 May 2010}}</ref>
+
+A group of entrepreneurs warned on the dangers of a [[Lib-Lab]] coalition in an open letter to ''[[The Times]]'' on 29 April.<ref>[http://www.timesonline.co.uk/tol/comment/letters/article7111022.ece Lib-Lab coalition would be 'disastrous for British business'] ''The Times'' 29 April 2010:</ref><ref>Watson, Roland [http://www.timesonline.co.uk/tol/news/politics/article7111086.ece Brown's 'bigot' blunder plunges Labour campaign into crisis], ''The Times'', 29 April 2010</ref><ref>{{cite news|last=Leach |first=Ben |url=http://www.telegraph.co.uk/news/election-2010/7649545/General-Election-2010-Lib-Lab-coalition-would-be-bad-for-business-say-leaders.html |title=General Election 2010: Lib-Lab coalition 'would be bad for business', say leaders |work=The Daily Telegraph|date=29 April 2010 |accessdate=7 June 2010 | location=London}}</ref>
+
+=== May ===
+In [[Hornsey and Wood Green (UK Parliament constituency)|Hornsey and Wood Green]] constituency 749 postal voters were sent ballot papers which asked voters to pick three candidates instead of one; [[London Borough of Haringey|Haringey Council]] had to send correct versions by hand.<ref>{{cite news|url=http://news.bbc.co.uk/1/hi/uk_politics/election_2010/8655846.stm|title=Error leads to new ballot papers in Haringey|publisher=BBC News|date=1 May 2010|accessdate=2 May 2010}}</ref>
+
+The [[Metropolitan Police Service|Metropolitan Police]] launched an investigation in the [[London Borough of Tower Hamlets]]. ''[[The Times]]'' reported on 2 May that the investigation had revealed some names on the register were fictitious, with a late surge in applications to be added to the electoral register (before the 20 April deadline) leading to 5,000 additions without time for full checks.<ref>{{cite news|url=http://www.timesonline.co.uk/tol/news/politics/article7113502.ece|title=Late surge in Tower Hamlets postal votes prompts police fraud probe|first=Dominic|last=Kennedy|work=The Times|date=1 May 2010|accessdate=2 May 2010 | location=London}}</ref> In terms of the outcome of the borough's two seats, the narrower majority in any event exceeded 5,000 votes in [[Poplar and Limehouse (UK Parliament constituency)|Poplar and Limehouse]], at 6,030 votes.
+
+The Labour candidate for [[North West Norfolk (UK Parliament constituency)|North West Norfolk]], [[Manish Sood]], described [[Gordon Brown]] as Britain's worst ever Prime Minister.<ref>{{cite news|url=http://politicsraw.com/2010/05/04/manish-sood-turns-against-pm/|title=Manish Sood Turns Against PM|work=PoliticsRAW|date=4 May 2010|accessdate=4 May 2010}}</ref> The comments, which he repeated to a variety of news outlets, took attention away from the previous day's speech by Brown to [[Citizens UK]], widely described as his best in the campaign.<ref>[http://www.guardian.co.uk/politics/2010/may/04/gordon-brown-worst-candidate-says General election 2010: Brown worst prime minister ever&nbsp;– Labour candidate] ''[[The Guardian]]'', 4 May 2010</ref><ref>[http://www.guardian.co.uk/politics/2010/may/03/gordon-brown-plea-progressive-voters General election 2010: Battered Gordon Brown finds his voice] ''The Guardian'', 3 May 2010</ref>
+
+A Conservative Party activist in [[Peterborough]] was arrested after alleged postal voting fraud, calling into question 150 postal votes.<ref>{{cite news|url=http://news.bbc.co.uk/1/hi/uk_politics/election_2010/england/8662814.stm|title=Arrest after alleged voting fraud in Peterborough|publisher=BBC News|date=5 May 2010|accessdate=5 May 2010}}</ref>
+[[File:Nick Griffin, talking to voters.jpg|170px|thumb|left|[[Nick Griffin]], leader of the [[British National Party]], talking to voters in [[Romford Market]].]]
+Simon Bennett resigned as the head of the [[British National Party]]'s online operation then redirected its website to his own on which he attacked the party's leadership.<ref>{{cite news|url=http://www.timesonline.co.uk/tol/news/politics/article7116654.ece|title=BNP in turmoil after online chief Simon Bennett walks out|work=The Times|first=Fiona|last=Hamilton|date=5 May 2010|accessdate=5 May 2010 | location=London}}</ref>
+
+[[File:Polling station 6 may 2010.jpg|thumb|right|Polling station in [[Camberwell]]]]
+On the morning of polling day, 6 May, the former and later leader of UKIP, [[Nigel Farage]], standing in [[Buckingham (UK Parliament constituency)|Buckingham]] against the Speaker, was injured when a light banner-towing aircraft in which he was a passenger crashed near [[Brackley]], Northamptonshire.<ref>{{cite news|url=http://news.bbc.co.uk/1/hi/england/northamptonshire/8664260.stm |title=Nigel Farage injured in plane crash on election day |publisher=BBC News |date=6 May 2010|accessdate=7 May 2010}}</ref>
+
+Groups of voters waiting in queues at 10 pm were locked out of polling stations in [[Sheffield Hallam (UK Parliament constituency)|Sheffield Hallam]], Manchester and Leeds; and police said one London polling station was open until 10.30 pm, which triggered a national review of polling station requirements led by the [[Electoral Commission (United Kingdom)|Electoral Commission]].<ref>{{cite news|url=http://news.bbc.co.uk/1/hi/uk_politics/election_2010/8666338.stm|title=Election 2010: Voters turned away as polls close|publisher=BBC News|date=7 May 2010|accessdate=7 May 2010}}</ref>
+
+The counts for the [[Foyle (UK Parliament constituency)|Foyle]] and [[East Londonderry (UK Parliament constituency)|East Londonderry]] constituencies were suspended because of a security alert around 11 pm after a car was abandoned outside the counting centre, causing a bomb scare.
+
+{{-}}
+
+== Debates ==
+{{Main|United Kingdom general election debates, 2010}}
+Following a campaign by [[Sky News]] and with agreement of the party leaders.<ref>{{cite news|last=Norman |first=Laurence |url=http://online.wsj.com/article/SB125458139648761865.html?mod=googlenews_wsj|title=Brown Agrees to U.S.-Style Debates|work=The Wall Street Journal|date=3 October 2009|accessdate=10 January 2010}}</ref> it was announced on 21 December 2009 that there would be three leaders' debates, each broadcast on [[Prime time#United Kingdom|prime time television]],<ref>{{cite news|title=Brown to face three televised election debates|publisher=BBC News|date=21 December 2009|url=http://news.bbc.co.uk/1/hi/uk_politics/8425280.stm|accessdate=21 December 2009}}</ref> and a subsequent announcement in March 2010 that a debate between the financial spokesmen of the three main parties, [[Alistair Darling]], [[George Osborne]] and [[Vince Cable]] would be held on 29 March.<ref>[http://www.channel4.com/programmes/ask-the-chancellors Ask the Chancellors] Channel 4</ref>
+
+{| class="wikitable"
+|-
+! style="width:5%;" | '''Date'''
+! style="width:5%;" | '''Host'''
+! style="width:5%;" | '''Location'''
+! style="width:5%;" | '''Moderator'''
+! style="width:5%;" | '''Subject'''
+|-
+|| 15 April
+|| [[ITV (TV network)|ITV]]
+|| [[Manchester]]
+|| [[Alastair Stewart]]
+|| Domestic policy
+|-
+| colspan="5"  style="vertical-align:top; border-bottom:solid 2px black;"|'''Highlights'''<br/>In instant polling after the event [[Nick Clegg]] was judged the clear winner.<ref>{{cite news|url=http://www.reuters.com/article/idUSTRE63E4S920100415|title=Outsider Clegg judged winner in first UK TV debate|date=15 April 2010|agency=Reuters|first=Estelle|last=Shirbon}}</ref> This first debate caused a large, immediate, and unexpected impact on opinion polls in favour of the Liberal Democrats.
+|-
+|| 22 April
+||[[Sky News]]
+||[[Bristol]]
+||[[Adam Boulton]]
+||International affairs
+|-
+| colspan="5"  style="vertical-align:top; border-bottom:solid 2px black;"|'''Highlights'''<br/>[[Nick Clegg]] and [[David Cameron]] came out best in the instant polls with [[Gordon Brown]] very closely behind. [[Nick Clegg]], having received such a surge after the first debate, was judged to have fended off the Labour Party and Conservative Party attacks. [[Gordon Brown]] was judged to have drastically improved his performance, and [[David Cameron]] was judged to have overcome the nerves that commentators believed affected him in the First Debate.<ref>{{cite news|url=http://news.bbc.co.uk/1/hi/uk/8638994.stm|title=Papers divided over verdict on second leaders debate|publisher=BBC News|date=23 April 2010|accessdate=27 April 2010}}</ref> In the build-up, the Liberal Democrats were affected by claims Clegg had received secret donations from businessmen, although he subsequently released his financial statements to show that no improper conduct had occurred.<ref>{{cite news|url=http://www.timesonline.co.uk/tol/news/politics/article7105654.ece|title=Nick Clegg left £700 out of pocket in unusual financial arrangement|work=The Times|date=23 April 2010|last1=Ralph|first1=Alex|last2=Jagger|first2=Suzy|accessdate=27 April 2010 | location=London}}</ref>
+|-
+||29 April
+||[[BBC]]
+||[[Birmingham]]
+||[[David Dimbleby]]
+|| Economy and taxes
+|-
+| colspan="5"  style="vertical-align:top; border-bottom:solid 2px black;"|'''Highlights'''<br/>In the third and final poll, [[David Cameron]] was widely regarded as the party leader who made the best impression to the audience at home.<ref>[http://today.yougov.co.uk/politics/instant-reactions-final-debate Instant reactions: The final debate] YouGov, 29 April 2010</ref><ref name=ComRes29April10>{{cite web | url = http://www.comres.co.uk/page165453351.aspx | title = ITV News Instant Debate Poll 29 April 2010 | publisher = [[ComRes]] | accessdate =30 April 2010}}</ref><ref>{{cite news |title=Polls Suggest Cameron Wins Final Debate |url=http://news.sky.com/skynews/Home/Politics/Leaders-Debate-First-Instant-Polls-Suggest-Win-For-David-Cameron/Article/201004415622529?f=rss |date=29 April 2010 |publisher=Sky News}}</ref><ref name=Populus29April10>{{cite web | url = http://www.populuslimited.com/the-times-post-debate-poll-april-29-2010-290410.html | title = Post Debate Poll – 29 April 2010 | publisher = [[Populus Ltd]] | accessdate =30 April 2010}}</ref><ref name=Guardian29April10>{{cite news |url=http://www.guardian.co.uk/politics/2010/apr/30/leaders-debate-david-cameron-wins-third-leg |title=Election debate: David Cameron wins third leg |author=Patrick Wintour and Polly Curtis |date=29 April 2010 |work=The Guardian | location=London}}</ref> At the end of the debating night, the Conservatives had gained a 5% lead over the Labour Party.
+|}
+
+The SNP insisted that as the leading political party in Scotland in the latest opinion poll, it should be included in any debate broadcast in Scotland.<ref>[http://www.snp.org/node/15981 Salmond slams rigged election debate proposals] SNP, 21 December 2009</ref> On 22 December 2009, the UKIP leader, [[Malcolm Pearson, Baron Pearson of Rannoch|Lord Pearson]] stated that his party should also be included. Following a decision by the BBC Trust not to uphold a complaint from the SNP and Plaid Cymru over their exclusion from the planned BBC debate, the SNP announced on 25 April that they would proceed with legal action over the debate scheduled for 29 April.<ref>{{cite news|url=http://news.bbc.co.uk/1/hi/uk_politics/election_2010/8642550.stm|title=SNP in legal bid over BBC TV prime ministerial debate|date=25 April 2010|publisher=BBC News|accessdate=27 April 2010}}</ref> The party said it was not trying to stop the broadcast but it wanted an SNP politician included for balance. The SNP lost the case, in a judgement delivered on 28 April.<ref>{{cite web|url=http://www.scotcourts.gov.uk/opinions/2010CSOH56.html|title=Opinion of Lady Smith in the Petition of Scottish National Party and Others for Judicial Review|work=Scottish Courts|date=28 April 2010|accessdate=28 April 2010}}</ref>
+
+== Opinion polls ==
+[[File:Polling station on Aire Road in Wetherby, West Yorkshire (6th May 2010).jpg|thumb|right|A polling station in [[Wetherby]], [[West Yorkshire]]]]
+{{Main|Opinion polling for the United Kingdom general election, 2010}}
+{{See also|Exit poll|Opinion poll}}
+
+Since each MP is elected separately by the [[first past the post]] voting system, it is impossible to precisely project a clear election outcome from overall UK shares of the vote. Not only can individual constituencies vary markedly from overall voting trends, but individual countries and regions within the UK may have a very different electoral contest that is not properly reflected in overall share of the vote figures.
+
+Immediately following the previous general election, the Labour party held a double-digit lead in opinion polls. However, over the course of 2005, this lead was eroded somewhat. By December 2005, the Conservative party showed its first small leads in opinion polls following the controversial [[Terrorism Act 2006#Extending the period of detention without charge|90 days detention]] proposals and the election of [[David Cameron]] to the leadership of the Conservative party.<ref>{{cite web |url=http://ukpollingreport.co.uk/blog/archives/104 |title=Tories take the Lead |date=10 December 2005 |author=Wells, Anthony |publisher=UKPollingReport |accessdate=15 March 2010}}</ref>
+
+In early 2006, opinion polls were increasingly mixed with small leads given alternately to Labour and Conservative. From the May 2006 local elections, in which Labour suffered significant losses, the Conservatives took a small single-digit lead in opinion polls. Labour regained the lead in June 2007 following the resignation of [[Tony Blair]] and the appointment of [[Gordon Brown]] as prime minister. From November 2007, the Conservatives again took the lead and, from then, extended their lead into double digits, particularly in response to the MPs' expenses scandal, although there was some evidence that the lead narrowed slightly towards the end of 2009. By the end of February 2010, [[Ipsos MORI]], [[ICM Research|ICM]], [[YouGov]] and [[ComRes]] polls had all found a sufficient narrowing of the Conservative lead for media speculation about a hung parliament to return.<ref>[http://ukpollingreport.co.uk/blog/archives/2436 YouGov show Tory lead cut to 7 points] UK Polling Report, 29 January 2010</ref>
+<center><gallery widths="300px" heights="300px">
+File:UKGeneralElection2010ICMPolls.svg|<span style="background:#00d; width:6px; height:8px; margin:2px;">&nbsp;&nbsp;</span>Conservative <span style="background:#d00; width:6px; height:8px; margin:2px;">&nbsp;&nbsp;</span>Labour <span style="background:#ff0; width:6px; height:8px; margin:2px;">&nbsp;&nbsp;</span>Liberal Democrats <span style="background:#888; width:6px; height:8px; margin:2px;">&nbsp;&nbsp;</span>Other&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Graph of poll results since 2005
+
+File:UK General Election 2010 YouGov Polls Graph.png|Graph of [[YouGov]] poll results from 6 April 2010
+</gallery></center>
+From 15 April 2010, following the first televised debate of the party leaders, polling data changed dramatically, with the Lib Dem vote proportion rising to 28–33%, and the Conservative vote proportion falling. In some polls, the Liberal Democrats took the lead from the Conservatives. Under UNS projections, this made a hung parliament highly probable, if Lib Dem performance had persisted.<ref>[http://www.guardian.co.uk/commentisfree/2010/apr/20/general-election-2010-poll-editorial General election 2010: All change for new politics] ''The Guardian'', 20 April 2010</ref>
+
+The following graph shows ComRes poll results recorded over the period 11 April – 6 May 2010, including annotations of the three TV debates:
+
+[[File:ComRes Graph Election 2010.JPG]]
+
+After the second debate on 22 April the polls, on average, placed the Conservatives in the lead on 33%, the Liberal Democrats in second on 30% and Labour in third on 28%. If these polls had reflected the election day results on a uniform swing nationwide, Labour would have had the most seats in a hung Parliament.
+
+=== Exit poll ===
+At 22:00 on election day, coinciding with the closure of the polls, the results of an [[exit poll]] completed by GfK NOP and Ipsos MORI on behalf of the [[BBC News|BBC]], [[Sky News|Sky]] and [[ITV News|ITV]] news services was announced. Data were gathered from individuals at 130 polling stations around the country. The results of the poll initially suggested a hung parliament with the Conservative Party 19 seats from a controlling majority; this was later adjusted to 21 seats. The distribution of seats amongst the Conservatives, Labour, Liberal Democrats and other parties was initially suggested to be 307, 255, 59 and 29 respectively,<ref>{{cite news |url=http://news.bbc.co.uk/2/hi/uk_news/politics/election_2010/8666227.stm |title=Election exit poll: Tories to be 19 short of majority |date=6 May 2010 |publisher=BBC News |accessdate=25 November 2011}}</ref> although the seat numbers were later changed to 303, 251, 69, and 27 respectively.<ref name=BBCLive>{{cite news|url=http://news.bbc.co.uk/1/shared/election2010/liveevent/|title=Live coverage – General Election 2010|publisher=BBC News|date=6 May 2010|accessdate=6 May 2010}}</ref>
+
+Initial reaction to the exit poll by various commentators was of surprise at the apparent poor prospects for the Liberal Democrats<ref>{{cite news|url=http://news.bbc.co.uk/1/hi/uk_politics/election_2010/8666266.stm |title=Parties surprised by exit poll |publisher=BBC News |date=6 May 2010|accessdate=7 May 2010}}</ref> because it was odds with many opinion polls undertaken in the previous weeks. The actual results showed that the exit poll was a good predictor.
+
+A later BBC Exit poll (05:36 BST) predicted the Conservatives on 306, 20 short of an overall majority, Labour on 262, and Liberal Democrats on 55.<ref name=BBCLive/>
+
+== Endorsements ==
+
+=== Newspaper endorsements ===
+{{Main|Newspaper endorsements in the United Kingdom general election, 2010}}
+National newspapers in England traditionally endorse political parties before a general election. The following table shows which parties the major papers endorsed.
+
+{| class="wikitable"
+|-
+! colspan="3" | Dailies
+| rowspan="13" style="background: none; border: none inherit;" | &nbsp;
+! colspan="3" | Sundays
+|-
+! Newspaper
+! colspan="2" | Endorsement
+! Newspaper
+! colspan="2" | Endorsement
+|-
+| ''[[The Times]]''
+{{party name with colour|Conservative Party (UK)}}<ref>{{cite news |url=http://www.timesonline.co.uk/tol/comment/leading_article/article7113404.ece |title=Vote of Confidence |work=The Times |date=30 April 2010| accessdate=26 May 2010 | location=London |first1=Charles |last1=Bremner |first2=David |last2=Robertson}}</ref>
+| ''[[Sunday Times]]''
+{{party name with colour|Conservative Party (UK)}}<ref>{{cite news |url=http://www.timesonline.co.uk/tol/comment/leading_article/article7113942.ece |title=Tories deserve a chance to govern |work=Sunday Times |date=2 May 2010| accessdate=26 May 2010 | location=London |first1=Charles |last1=Bremner |first2=David |last2=Robertson}}</ref>
+|-
+| ''[[The Guardian]]''
+{{party name with colour|Liberal Democrats}}<ref name="guardian-endorse">{{cite news |url=http://www.guardian.co.uk/commentisfree/2010/apr/30/the-liberal-moment-has-come |title=General Election 2010: The liberal moment has come |work=The Guardian |date=30 April 2010 | accessdate=26 May 2010 | location=London}}</ref>
+| ''[[The Observer]]''
+{{party name with colour|Liberal Democrats}}<ref>{{cite news |url=http://www.guardian.co.uk/commentisfree/2010/may/01/liberal-democrats-endorsement-observer |title=Nick Clegg is the candidate of change |work=The Observer |date=1 May 2010 | accessdate=26 May 2010 | location=London}}</ref>
+|-
+| ''[[Daily Telegraph]]''
+{{party name with colour|Conservative Party (UK)}}<ref>{{cite news|url= http://www.telegraph.co.uk/comment/telegraph-view/7678946/General-Election-2010-Now-is-the-time-for-character.html|title = General Election 2010: Now is the time for character |work=The Daily Telegraph|date=4 May 2010 | accessdate=26 May 2010 | location=London}}</ref>
+| ''[[The Sunday Telegraph]]''
+{{party name with colour|Conservative Party (UK)}}<ref name=BBCnb/>
+|-
+| ''[[Financial Times]]''
+{{party name with colour|Conservative Party (UK)}}<ref name=FT-endorse>{{cite news|url=http://www.ft.com/cms/s/0/bd4e693c-56df-11df-aa89-00144feab49a.html|title=Editorial The Case for Change|work=Financial Times|date=2 May 2010}}</ref>
+| colspan="3" | &nbsp;
+|-
+| ''[[The Independent]]'' ||||Undeclared<ref name=BBCnb/>
+| ''[[The Independent on Sunday]]'' ||||Undeclared<ref name=BBCnb/>
+|-
+| ''[[Evening Standard]]''
+{{party name with colour|Conservative Party (UK)}}<ref name="DavidCameron2010">{{cite news |url=http://www.thisislondon.co.uk/standard/article-23830737-david-cameron-the-prime-minister-that-london-now-needs.do |title=David Cameron: the Prime Minister that London now needs |work=Evening Standard |location=London |date=5 May 2010}}</ref>
+| colspan="3" | &nbsp;
+|-
+| ''[[Daily Mail]]''
+{{party name with colour|Conservative Party (UK)}}<ref name=BBCnb/>
+| ''[[The Mail on Sunday]]''
+{{party name with colour|Conservative Party (UK)}}<ref>{{cite news |url=http://www.dailymail.co.uk/debate/article-1270380/Who-trust-clear-mess.html |title=Who can you trust to clear up this mess? |work=Daily Mail|date=1 May 2010 | location=London}}</ref>
+|-
+| ''[[Daily Express]]''
+{{party name with colour|Conservative Party (UK)}}<ref>{{cite news |url=http://www.express.co.uk/posts/view/173235/Only-Cameron-can-save-Britain- |title=Only David Cameron can save Britain |work=Daily Express |date=5 May 2010}}</ref>
+| ''[[Sunday Express]]''
+{{party name with colour|Conservative Party (UK)}}<ref name=BBCnb>{{Cite book |url=http://news.bbc.co.uk/1/hi/uk_politics/election_2010/8656552.stm |title=Election 2010: Party leaders step up campaigning |date=2 May 2010|publisher=BBC News|chapter=Newspaper Backing}}</ref>
+|-
+| ''[[Daily Mirror]]''
+{{party name with colour|Labour Party (UK)}}<ref name=BBCnb/>
+| ''[[Sunday Mirror]]''
+{{party name with colour|Labour Party (UK)}}<ref name=BBCnb/>
+|-
+| colspan="3" | &nbsp;
+| ''[[The People]]'' || style="background:gray;"| || Any coalition<ref name=BBCnb/>
+|-
+| ''[[The Sun (United Kingdom)|The Sun]]''
+{{party name with colour|Conservative Party (UK)}}<ref>{{cite news |url=http://www.thesun.co.uk/sol/homepage/news/2661063/The-Sun-Says-Labours-lost-it.html |title=The Sun Says: Labour's lost it |work=The Sun |date=30 September 2009 |location=London |first=Last |last=Updated}}</ref>
+| ''[[News of the World]]''
+{{party name with colour|Conservative Party (UK)}}<ref>{{cite news|url= http://news.bbc.co.uk/1/hi/uk/8591295.stm|title= News of the World backs Conservatives in election race|publisher=BBC News |date= 28 March 2010|accessdate=2 May 2010}}</ref>
+|-
+| ''[[Daily Star (United Kingdom)|The Daily Star]]'' ||||Undeclared<ref name=BBCnb/>
+|
+| ''[[Daily Star Sunday]]'' ||||Undeclared<ref>{{cite web |url=http://www.dailystar.co.uk/search/2010%20general%20election?s=2010+general+election&o=20 |title=Search Results |website=The Daily Star |accessdate=13 October 2013}}</ref>
+|}
+
+''[[The Independent]]'' and ''[[The Guardian]]'' advocated [[tactical voting]] to maximise the chance of a Liberal Democrat/Labour coalition to make [[electoral reform]] including of the [[House of Lords]] and introduction of domestic [[proportional representation]] more likely.<ref name="guardian-endorse"/><ref>[http://www.independent.co.uk/opinion/leading-articles/leading-article-vote-for-change-real-change-1960288.html Vote for change. Real change] ''[[The Independent on Sunday]]'', 2 May 2010</ref>''
+
+== Results ==
+{| class=wikitable ; text-align:center;"
+|rowspan=2|Party
+| align=center |'''[[Conservative Party (UK)|Conservatives]]'''<br>([[Conservative Party (UK)|C]]+[[Ulster Unionist Party|UUP]])
+| align=center |'''[[Labour Party (UK)|Labour Party]]'''
+| align=center |'''[[Liberal Democrats]]'''
+| align=center |'''[[UK Independence Party]]'''
+| align=center |'''[[British National Party]]'''
+| align=center |'''[[Scottish National Party]]'''
+| align=center |'''[[Green Party of England and Wales|Green Party]]
+|-
+| align=center bgcolor=dodgerblue|
+| align=center bgcolor=red|
+| align=center bgcolor=gold|
+| align=center bgcolor=purple|
+| align=center bgcolor=navy|
+| align=center bgcolor=#FFFF00|
+| align=center bgcolor=#66cc33|
+|-
+|rowspan=2|Leader
+|align=center |<small>[[David Cameron]] ([[Conservative Party (UK)|C]])
+|align=center |<small>[[Gordon Brown]]
+|align=center |<small>[[Nick Clegg]]
+|align=center |<small>[[Malcolm Pearson, Baron Pearson of Rannoch|Lord Pearson]]
+|align=center |<small>[[Nick Griffin]]
+|align=center |<small>[[Angus Robertson]]<br><small> ''as Parliamentary Group Leader
+|align=center |<small>[[Caroline Lucas]]
+|-
+| align=center |[[File:David Cameron official.jpg|125px]]
+| align=center |[[File:Gordon Brown official.jpg|155x155px|Gordon Brown]]
+| align=center |[[File:Nick Clegg by the 2009 budget cropped.jpg|125px]]
+| align=center |[[File:Malcolm Pearson.jpg|230px]]
+| align=center |[[File:Nick griffin bnp from flickr user britishnationalism (cropped).jpg|142px]]
+| align=center |[[File:Angus robertson.jpg|135px]]
+| align=center |[[File:Caroline Lucas Smile.jpg|110px]]
+|-
+|rowspan=2|Votes
+|align=center |10,806,015 (36.4%)
+|align=center |8,609,527 (29.0%)
+|align=center |6,836,824 (23.0%)
+|align=center |919,471 (3.1%)
+|align=center |564,321 (1.9%)
+|align=center |491,386 (1.7%)
+|align=center |265,243 (0.9%)
+|-
+|<center>{{percentage bar|36.4||1E90FF}} 
+|<center>{{percentage bar|29.0||FF0000}}
+|<center>{{percentage bar|23.0||FFD700}}
+|<center>{{percentage bar|3.1||800080}}
+|<center>{{percentage bar|2.0||00008B}}
+|<center>{{percentage bar|1.7||FFFF00}}
+|<center>{{percentage bar|0.9||66cc33}}
+|-
+|rowspan=2|Seats
+|align=center |306 (47.1%)
+|align=center |258 (39.7%)
+|align=center | 57  (8.8%)
+|align=center |  0  (0.0%)
+|align=center |  0  (0.0%)
+|align=center |  6  (0.9%)
+|align=center |  1  (0.2%)
+|-
+|align=center |{{Infobox political party/seats|306|650|hex=dodgerblue}}
+|align=center |{{Infobox political party/seats|258|650|hex=red}}
+|align=center |{{Infobox political party/seats|57|650|hex=gold}}
+|align=center |{{Infobox political party/seats|0|650|hex=dodgerblue}}
+|align=center |{{Infobox political party/seats|0|650|hex=dodgerblue}}
+|align=center |{{Infobox political party/seats|6|650|hex=yellow}}
+|align=center |{{Infobox political party/seats|1|650|hex=66cc33}}
+|-
+|}
+
+
+{| style="width:88%; text-align:center;"
+|+ ↓
+|- style="color:white;"
+| style="background:dodgerblue; width:47.1%;" | '''306'''
+| style="background:gold; width:8.8%;" | '''57'''
+| style="background:red; width:39.7%;" | '''258'''
+| style="background:gray; width:4.5%;" | '''29'''
+|-
+| <span style="color:dodgerblue;">'''Conservative'''</span>
+| <span style="color:gold;">'''Lib Dem'''</span>
+| <span style="color:red;">'''Labour'''</span>
+| <span style="color:gray;"><small>'''Others'''</span>
+|}
+
+Turnout nationally was 65%, a rise from the 61% turnout in the [[United Kingdom general election, 2005|2005 general election]].<ref name="turnout">{{cite news |url=http://news.bbc.co.uk/1/hi/uk_politics/election_2010/8672976.stm |title=Election 2010: Turnout mapped |publisher=BBC News |date=10 May 2010 |first=John |last=Walton}}</ref>
+
+{{United Kingdom parliamentary election, 2010}}
+
+On 27 May 2010 the Conservatives won the final seat of Thirsk and Malton in a landslide result, thus giving them 306<!-- yes, 306. See above.--> seats. The election in that constituency had been delayed because of the death of the UKIP candidate.<ref>{{cite news|url=http://www.telegraph.co.uk/news/election-2010/7776060/Tories-win-final-general-election-seat-in-Thirsk-and-Malton.html|title=Tories win final general election seat in Thirsk and Malton|first=Nick|last=Collins|date=28 May 2010|work=The Daily Telegraph | location=London}}</ref>
+
+{{bar box
+|title=Vote share
+|titlebar=#ddd
+|width=600px
+|barwidth=410px
+|bars=
+{{bar percent|'''Conservative'''|{{Conservative Party (UK)/meta/color}}|36.1}}
+{{bar percent|Labour|{{Labour Party (UK)/meta/color}}|29.0}}
+{{bar percent|Liberal Democrat|{{Liberal Democrats/meta/color}}|23.0}}
+{{bar percent|UK Independence|{{UKIP/meta/color}}|3.1}}
+{{bar percent|British National|{{British National Party/meta/color}}|1.9}}
+{{bar percent|Scottish National|{{Scottish National Party/meta/color}}|1.7}}
+{{bar percent|Others|#777777|5.2}}
+}}
+{{bar box
+|title=Parliamentary seats
+|titlebar=#ddd
+|width=600px
+|barwidth=410px
+|bars=
+{{bar percent|'''Conservative'''|{{Conservative Party (UK)/meta/color}}|47.1}}
+{{bar percent|Labour|{{Labour Party (UK)/meta/color}}|39.7}}
+{{bar percent|Liberal Democrat|{{Liberal Democrats/meta/color}}|8.8}}
+{{bar percent|Democratic&nbsp;Unionist|{{Democratic Unionist Party/meta/color}}|1.2}}
+{{bar percent|Scottish National|{{Scottish National Party/meta/color}}|0.9}}
+{{bar percent|Sinn Féin|{{Sinn Féin/meta/color}}|0.8}}
+{{bar percent|Others|#777777|1.5}}
+}}
+
+=== Election petitions ===
+
+Two results were also challenged by defeated candidates through election petitions – [[Fermanagh and South Tyrone (UK Parliament constituency)|Fermanagh and South Tyrone]], and [[Oldham East and Saddleworth]].
+
+==== Fermanagh and South Tyrone ====
+The defeated Unionist 'Unity' candidate, Rodney Connor, lodged a petition against the successful Sinn Féin candidate, [[Michelle Gildernew]], in [[Fermanagh and South Tyrone (UK Parliament constituency)|Fermanagh and South Tyrone]], alleging irregularities in the counting of the votes had affected the result. Gildernew had won with a plurality of four votes. However the Court found that there were only three ballot papers which could not be accounted for, and even if they were all votes for Connor, Gildernew would have had a plurality of one. The election was therefore upheld.<ref name=Unionist_dismay>{{cite news|title=Unionist dismay as election case falters|url=http://www.newsletter.co.uk/news/regional/unionist-dismay-as-election-case-falters-1-1867964|accessdate=15 May 2014|newspaper=News Letter|date=23 October 2010}}</ref>
+
+==== Oldham East and Saddleworth ====
+{{see also|Oldham East and Saddleworth by-election, 2011}}
+On 28 May 2010, the defeated Liberal Democrat candidate Elwyn Watkins lodged a petition against the election of Phil Woolas (Labour) in [[Oldham East and Saddleworth (UK Parliament constituency)|Oldham East and Saddleworth]] constituency.<ref>{{cite news| url=http://news.bbc.co.uk/1/hi/england/manchester/10181693.stm | publisher=BBC News | title=Candidate challenges Woolas win | date=28 May 2010}}</ref> The petition challenged leaflets issued by Woolas' campaign as having contained false statements of fact concerning Watkins' personal character, which is an illegal practice under section 106 of the [[Representation of the People Act 1983]]. The statements attempted to link Watkins with Muslim extremists and death threats to Woolas, accused him of reneging on a promise to live in the constituency, and implied that his campaign was funded by illegal foreign political donations.<ref>[http://www.oldham.gov.uk/election-petition-may2010-part1.pdf Petition part 1], [http://www.oldham.gov.uk/election-petition-may2010-part2.pdf part 2], [http://www.oldham.gov.uk/election-petition-may2010-part3.pdf part 3].</ref><ref>{{cite news|url=http://news.bbc.co.uk/1/hi/england/merseyside/10468410.stm |title=Court examines Labour Muslim slur election leaflet |publisher=BBC News |date=30 June 2010 |accessdate=13 August 2010}}</ref>
+
+During the court case a number of emails between Woolas and his campaign team emerged. In one, Woolas' agent, Joe Fitzpatrick, emailed Woolas and campaign adviser Steven Green, to say: "Things are not going as well as I had hoped&nbsp;... we need to think about our first attack leaflet."<ref>{{cite news|url=http://www.telegraph.co.uk/news/uknews/7999018/Phil-Woolas-the-toxic-claims-that-turned-tide-for-former-minister.html |title=Phil Woolas: the 'toxic' claims that turned tide for former minister |work=The Daily Telegraph |date=13 September 2010 |accessdate=5 November 2010 |location=London |first=Gordon |last=Rayner}}</ref> A reply from Fitzpatrick said: "If we don't get the white vote angry he's gone." Some have criticised these tactics in light of significant existing racial tensions in the area.<ref>{{cite news|author=Rebecca Camber |url=http://www.dailymail.co.uk/news/article-1311491/Labour-MP-Phil-Woolas-accused-stirring-race-hate-win-white-vote.html |title=Labour MP Phil Woolas accused of stirring up race hate to win white vote |work=Daily Mail |date=14 September 2010 |accessdate=5 November 2010 |location=London}}</ref> The court hearing finished on 17 September 2010, with the judges reserving their judgement until 5 November 2010.<ref>{{cite news| url=http://www.bbc.co.uk/news/uk-politics-11342423  | publisher=BBC News | title=Court reserves judgement over Phil Woolas re-election | date=17 September 2010}}</ref> On that day Woolas was found to have breached section 106 of the Representation of the People Act 1983 in relation to three of the four statements complained about, and the judges ruled that his election was void.<ref>{{cite news| url=http://www.bbc.co.uk/news/uk-politics-11699888 | publisher=BBC News | title=Judges order election re-run | date=5 November 2010}}</ref> Phil Woolas applied for a judicial review into the ruling,<ref>{{cite news|url=http://www.bbc.co.uk/news/uk-politics-11699888 |title=Judges order election rerun in ex-minister's seat |publisher=BBC |date=14 September 2010 |accessdate=5 November 2010}}</ref> stating that "this election petition raised fundamental issues about the freedom to question and criticise politicians." and that it "will inevitably chill political speech".<ref>{{cite news|author=Polly Curtis, Whitehall correspondent |url=http://www.guardian.co.uk/politics/2010/nov/05/phil-woolas-immigration-leaflets-oldham-east-rerun |title=Phil Woolas immigration leaflets case: high court orders election rerun in Oldham East &#124; guardian.co.uk |work=The Guardian |date= 5 November 2010|accessdate=5 November 2010 |location=London}}</ref> He succeeded in overturning the finding in respect of one of the three statements but the main findings of the election court judgment were upheld. A [[Oldham East and Saddleworth by-election, 2011|by-election]] on 13 January 2011 resulted in the election of [[Debbie Abrahams]] (Labour).
+
+== Analysis ==
+{{For|results by county/region and analysis|Results breakdown of the United Kingdom general election, 2010}}
+{{For|results by constituency|Results of the 2010 United Kingdom general election by parliamentary constituency}}
+{{For|details by MP|MPs elected in the UK general election, 2010}}
+
+{{Wikinewspar2|UK elections: Hung parliament, Cameron to negotiate with Liberal Democrats|2010 UK general election results}}
+
+At 9:41 on 7 May, the BBC confirmed a [[hung parliament]]. The Conservatives stood at 290 seats, Labour at 247 and Liberal Democrats at 51.<ref name="timesonline1"/><ref name = "BBC-Election-2010-web">{{cite news | url = http://news.bbc.co.uk/2/shared/election2010/results/| publisher=BBC News | title = Election 2010 | date = 7 May 2010 |accessdate=7 May 2010 }}</ref> One constituency seat ([[Thirsk and Malton (UK Parliament constituency)|Thirsk and Malton]]) was contested on 27 May because of the death of the UKIP candidate and was won by the Conservative party, whilst another seat ([[Oldham East and Saddleworth (UK Parliament constituency)|Oldham East and Saddleworth]]) later had its result declared void; Labour won the resulting [[Oldham East and Saddleworth United Kingdom general election 2010 rerun|by-election]].
+
+[[File:Chartinguk20100506electionvotesandseats.png|thumb|right|200px|alt=pie chart of the election results showing popular vote against seats won, coloured in party colours|Proportion of seats (outer ring) shown with proportion of votes (inner ring).]]
+
+The result showed an overall 5% swing from Labour to the Conservatives, nearly similar to the 5.2% swing achieved by the Conservative leader [[Margaret Thatcher]] in 1979.<ref name="BBC-Election-2010-web"/> The 97 net seat gains made by the Conservatives outdid their previous best gains total in [[United Kingdom general election, 1950|1950]], when they gained 85. Labour's loss of 91 seats was worse than their previous greatest loss of seats, when they lost 77 seats in [[United Kingdom general election, 1970|1970]].
+
+Of the 532 seats contested in England (a final seat, Thirsk and Malton, was contested on 27 May), the Conservatives won 298 seats and an absolute majority of 61 seats over all other parties combined, securing an average swing of 5.6% from Labour.<ref>{{cite news |url= http://news.bbc.co.uk/1/shared/election2010/results/region/48.stm |title= Election 2010: England |publisher=BBC News|date= 7 May 2010 |accessdate=10 May 2010}}</ref> Labour did poorly in many Southern areas, notably in the Eastern Region where they won only two of their 14 seats from 2005: [[Luton North (UK Parliament constituency)|Luton North]] and [[Luton South (UK Parliament constituency)|Luton South]]. The Labour party did however gain two seats: [[Bethnal Green and Bow (UK Parliament constituency)|Bethnal Green and Bow]] and [[Chesterfield (UK Parliament constituency)|Chesterfield]]. The Conservatives made 95 of their gains in England, but they also suffered three losses, all to the Liberal Democrats. For the Liberal Democrats, their eight gains were overshadowed by their 12 losses – one to Labour and 11 to the Conservatives.
+
+None of Scotland's 59 seats changed hands and all were held by the same party that had won them at the 2005 election, with Labour regaining the two seats they had lost in by-elections since 2005. There was a swing to Labour from the Conservatives of 0.8% (with Labour increasing its share of the vote by 2.5% and the Conservatives increasing by just 0.9%) The Conservatives finished with just a single MP representing a Scottish constituency.
+
+Of the 40 seats contested in Wales, the Conservatives more than doubled their seats from three to eight, taking one from the Liberal Democrats and four from Labour. [[Welsh nationalism|Welsh nationalist]] party [[Plaid Cymru]]'s number of seats was reduced from three to two on the new seat boundaries, but they managed to gain one seat, [[Arfon (UK Parliament constituency)|Arfon]], from Labour. Labour did however regain [[Blaenau Gwent (UK Parliament constituency)|Blaenau Gwent]], which had once been Labour's safest seat in Wales until it had been taken by an Independent, [[Peter Law]], in 2005.<ref>{{cite news| url=http://news.bbc.co.uk/1/hi/uk_politics/vote_2005/wales/4514385.stm | publisher=BBC News | title=Labour loses safest seat in Wales | date=6 May 2005}}</ref> Overall, Labour made a net loss of 4 seats but remained the biggest party, with 26.
+
+There were 18 seats contested in [[Northern Ireland]]. Both [[Irish nationalism|Irish nationalist]] parties, [[Sinn Féin]] and the [[Social Democratic and Labour Party]] (SDLP), held their seats. The [[Unionism in Ireland|unionist]] [[Democratic Unionist Party]] (DUP) and [[Ulster Unionist Party]] (UUP) (the latter in [[UCUNF|an electoral pact with the Conservatives]]), lost one seat each. This left the nationalist parties unchanged with eight seats, the main unionist parties with eight seats (all DUP), the Alliance with one seat and an independent unionist with one seat. It is the first time since the [[partition of Ireland]] that unionist parties failed to secure a majority of Northern Ireland's Westminster seats in a general election, and also the first time Sinn Féin obtained the largest share of the vote in Northern Ireland at a general election.<ref>{{cite web|url= http://www.ark.ac.uk/elections/fw10.htm|title=2010 Westminster Elections|work=Access Research Knowledge|publisher=Northern Ireland Social and Political Archive (ARK)|date=8 May 2010|accessdate=17 May 2010}}</ref>
+
+=== Notable results ===
+* [[Secretary of State for Children, Schools and Families]] [[Ed Balls]] held his seat in [[Morley and Outwood]] by just 1,101, despite much anticipation of a "[[Portillo moment]]"<ref>{{cite news|url=http://www.telegraph.co.uk/news/election-2010/7692694/General-Election-2010-Ed-Balls-survives-Tory-challenge.html|title=General Election 2010: Ed Balls survives Tory challenge|last=Gammell|first=Caroline|date=7 May 2010|work=The Daily Telegraph|accessdate=8 May 2010 | location=London}}</ref>
+* [[Minister of State for Borders and Immigration]] [[Phil Woolas]] retained [[Oldham East and Saddleworth (UK Parliament constituency)|Oldham East and Saddleworth]] by just 103 votes. However, following a legal challenge by his Liberal Democrat opponent, [[Elwyn Watkins]], a new by-election was ordered and held on 13 January 2011. Woolas was barred from standing in this by-election but Labour held the seat with an increased majority.<ref name="BBC_12003985">{{cite news |url=http://www.bbc.co.uk/news/uk-politics-12003985 |title=Oldham East by-election to be held on 13 January |date=15 December 2010 |publisher=BBC News |accessdate=25 November 2011}}</ref>
+* [[Department of Health (United Kingdom)|Minister of State for Health]] [[Mike O'Brien (British politician)|Mike O'Brien]] unexpectedly lost [[North Warwickshire (UK Parliament constituency)|North Warwickshire]], a seat he had held for 18 years, by just 54 votes to Conservative challenger [[Dan Byles]].<ref>{{cite news |url=http://www.coventrytelegraph.net/news/north-warwickshire-news/2010/05/07/election-2010-labour-minister-mike-o-brien-loses-north-warwickshire-seat-92746-26395292/ |title=Election 2010: Labour minister Mike O'Brien loses North Warwickshire seat |work=Coventry Telegraph |date=7 May 2010 |accessdate=24 August 2013 |archiveurl=http://web.archive.org/web/20100511211948/http://www.coventrytelegraph.net/news/north-warwickshire-news/2010/05/07/election-2010-labour-minister-mike-o-brien-loses-north-warwickshire-seat-92746-26395292/ |archivedate=11 May 2010}}</ref>
+* [[Green Party of England and Wales|Green Party]] leader [[Caroline Lucas]] won [[Brighton Pavilion (UK Parliament constituency)|Brighton Pavilion]], becoming their first Westminster MP<ref>[[Cynog Dafis]] had previously represented [[Ceredigion]] on a joint Plaid Cymru/Green ticket</ref><ref>{{cite news|url=http://www.independent.co.uk/news/uk/politics/one-brighton-shining-moment-as-lucas-makes-green-history-1968203.html|title=One Brighton shining moment as Lucas makes Green history|last=McCarthy|first=Michael|date=8 May 2010|work=The Independent|accessdate=8 May 2010 | location=London}}</ref>
+* [[British National Party]] leader [[Nick Griffin]] finished in third place after a heavy loss in [[Barking (UK Parliament constituency)|Barking]] to incumbent Labour MP [[Margaret Hodge]]<ref>{{cite news |url=http://news.bbc.co.uk/1/hi/uk_politics/election_2010/8667612.stm |title=Labour's Margaret Hodge tells BNP: Get out and stay out |publisher=BBC News |date=7 May 2010}}</ref>
+* In the wake of job losses at the local [[Tata_Steel Europe|Steel Works]], [[Solicitor General]] [[Vera Baird]] lost her seat of [[Redcar (UK Parliament constituency)|Redcar]] on a swing of 21.8% to [[Ian Swales]] of the [[Liberal Democrats]].
+* [[Gisela Stuart]] held onto her [[Birmingham Edgbaston]] seat despite many predictions that she would lose it. This was the only one of the 50 most marginal seats Labour held that was not lost by the party.
+
+=== Demographics ===
+The election resulted in an increase in the number of MPs from ethnic minorities from 14 to 27, including the first black and Asian female Conservative MPs, [[Helen Grant (politician)|Helen Grant]] and [[Priti Patel]],<ref>{{cite news |url=http://www.guardian.co.uk/politics/2010/may/07/black-minority-ethnic-mps-2010 |title=UK Election results: Number of minority ethnic MPs almost doubles |work=The Guardian |date=7 May 2010 | first=Afua | last=Hirsch | location=London}}</ref> and the first female Muslim MPs, [[Rushanara Ali]], [[Shabana Mahmood]] and [[Yasmin Qureshi]].<ref>{{cite news |url=http://www.smh.com.au/world/nations-first-female-muslim-mps-rejoice-20100508-ukxf.html |title=Nation's first female Muslim MPs rejoice |work=Sydney Morning Herald |date=9 May 2010}}</ref> This means that 4.2% of MPs are from an ethnic minority – in the [[United Kingdom Census 2001|2001 Census]], it was reported that [[Ethnic groups in the United Kingdom|ethnic minorities]] comprised 7.9% of the population. The number of female MPs rose to 141, an increase from 19.5% to 21.7% of all MPs, and the highest ever total; the number of female Conservative MPs rose from 18 (8.6% of all Conservatives) to 48 (15.7%).<ref>{{cite web |url=http://www.womenintechnology.co.uk/news/female-representation-in-government-increases-slightly-news-19770799 |title=Female representation in government increases slightly |publisher=Women in technology |date=11 May 2010}}</ref>
+
+=== Northern Ireland ===
+{{main|2010 United Kingdom general election in Northern Ireland}}
+In Northern Ireland a swing of more than 20% resulted in DUP [[First Minister of Northern Ireland|First Minister]] [[Peter Robinson (politician)|Peter Robinson]] losing his [[Belfast East (UK Parliament constituency)|Belfast East]]<ref>{{cite news|url=http://news.bbc.co.uk/1/shared/election2010/results/constituency/701.stm|title=Election 2010 – Belfast East|publisher=BBC News|accessdate=7 May 2010}}</ref> seat to the [[Alliance Party of Northern Ireland|Alliance Party]]'s [[Naomi Long]], giving Alliance its first elected MP in Westminster.
+
+[[Reg Empey|Sir Reg Empey]], leader of the UUP/Conservative alliance (UCUNF), standing for the first time in [[South Antrim (UK Parliament constituency)|South Antrim]], lost to the DUP incumbent [[William McCrea (politician)|William McCrea]]. Thus both leaders of the main Unionist parties failed to win seats while the UUP for the first time has no MPs at Westminster. A few days after the election, Empey announced that he would resign before the party conference, triggering a [[Ulster Unionist Party leadership election, 2010|leadership election]].
+
+[[Sylvia Hermon|Sylvia Hermon, Lady Hermon]] retained her seat in [[North Down (UK Parliament constituency)|North Down]], significantly increasing her percentage of the vote despite a slightly lower turnout and her defection from the UUP/Conservative alliance to stand as an independent.
+
+New SDLP leader [[Margaret Ritchie (politician)|Margaret Ritchie]], succeeding [[Eddie McGrady]] MP, won against Sinn Féin's Caitriona Ruane in [[South Down (UK Parliament constituency)|South Down]]. All of the Sinn Féin and SDLP incumbents held their seats, although Sinn Féin's [[Michelle Gildernew]] retained her seat in [[Fermanagh and South Tyrone (UK Parliament constituency)|Fermanagh & South Tyrone]] by only four votes over the Independent Unionist Unity candidate, [[Rodney Connor]], after three recounts.<ref>{{cite news|url=http://news.bbc.co.uk/1/hi/uk_politics/election_2010/northern_ireland/8667134.stm|title=SF's Gildernew retains her seat|publisher=BBC News|date=7 May 2010|accessdate=7 May 2010}}</ref>
+
+=== MPs who lost their seats ===
+{| class="wikitable" style="font-size: 95%;"
+|-
+!colspan=2|Party
+!Name
+!Constituency
+!Office held whilst in power
+!Year elected
+!Defeated by
+!colspan=2|Party
+|-
+! rowspan=56 style="background-color: {{Labour Party (UK)/meta/color}}" |
+| rowspan=56|[[Labour Party (UK)|Labour Party]]
+|<small>[[The Right Honourable]]</small><br/> [[Jacqui Smith]]
+|[[Redditch (UK Parliament constituency)|Redditch]]
+|Former [[Home Secretary]] (2007–09)
+|1997
+|[[Karen Lumley]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+| rowspan=1|[[Conservative Party (UK)|Conservative Party]]
+|-
+|<small>[[The Right Honourable]]</small><br/> [[Charles Clarke]]
+|[[Norwich South (UK Parliament constituency)|Norwich South]]
+|Former [[Home Secretary]] (2004–06)
+|1997
+|[[Simon Wright (politician)|Simon Wright]]
+! rowspan=1 style="background-color: {{Liberal Democrats/meta/color}}" |
+| rowspan=1|[[Liberal Democrats]]
+|-
+|<small>[[The Right Honourable]]</small><br/> [[Tony McNulty]]
+|[[Harrow East (UK Parliament constituency)|Harrow East]]
+|[[Department for Work and Pensions|Minister of State for Employment and Welfare Reform]]
+|1997
+|[[Bob Blackman (politician)|Bob Blackman]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+| rowspan=1|[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[Angela Smith, Baroness Smith of Basildon|Angela Smith]]
+|[[Basildon (UK Parliament constituency)|Basildon]], contesting [[South Basildon and East Thurrock (UK Parliament constituency)|South Basildon and East Thurrock]]
+|[[Cabinet Office|Minister of State for Third Sector]]
+|1997
+|[[Stephen Metcalfe (UK politician)|Stephen Metcalfe]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+| rowspan=1|[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[Bill Rammell]]
+|[[Harlow (UK Parliament constituency)|Harlow]]
+|[[Minister of State for the Armed Forces]]
+|1997
+|[[Robert Halfon]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+| rowspan=1|[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[Gillian Merron]]
+|[[Lincoln (UK Parliament constituency)|Lincoln]]
+|[[Department of Health (United Kingdom)|Minister of State for Public Health]]
+|1997
+|[[Karl McCartney]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+| rowspan=1|[[Conservative Party (UK)|Conservative Party]]
+|-
+|<small>[[The Right Honourable]]</small><br/> [[Mike O'Brien (UK politician)|Mike O'Brien]] <small>[[Queen's Counsel|QC]]</small>
+|[[North Warwickshire (UK Parliament constituency)|North Warwickshire]]
+|[[Department of Health (United Kingdom)|Minister of State for Health Services]]
+|1992
+|[[Dan Byles]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+| rowspan=1|[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[Phil Hope]]
+|[[Corby (UK Parliament constituency)|Corby]]
+|[[Department of Health (United Kingdom)|Minister of State for Health]]
+|1997
+|[[Louise Mensch]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+| rowspan=1|[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[Vera Baird]] <small>[[Queen's Counsel|QC]]</small>
+|[[Redcar (UK Parliament constituency)|Redcar]]
+|[[Solicitor General for England and Wales]]
+|2001
+|[[Ian Swales]]
+! rowspan=1 style="background-color: {{Liberal Democrats/meta/color}}" |
+| rowspan=1|[[Liberal Democrats]]
+|-
+|<small>[[The Right Honourable]]</small><br/>  [[Jim Knight]]
+|[[South Dorset (UK Parliament constituency)|South Dorset]]
+|[[Department for Work and Pensions|Minister of State for Employment and Welfare Reform]]
+|2001
+|[[Richard Drax]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+| rowspan=1|[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[Dawn Butler]]
+|[[Brent South (UK Parliament constituency)|Brent South]], contesting [[Brent Central (UK Parliament constituency)|Brent Central]]
+|[[Minister for Young Citizens and Youth Engagement]]
+|2005
+|[[Sarah Teather]]
+! rowspan=1 style="background-color: {{Liberal Democrats/meta/color}}" |
+| rowspan=1|[[Liberal Democrats]]
+|-
+|[[Sarah McCarthy-Fry]]
+|[[Portsmouth North (UK Parliament constituency)|Portsmouth North]]
+|[[Exchequer Secretary to the Treasury]]
+|2005
+|[[Penny Mordaunt]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+| rowspan=1|[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[Bob Blizzard]]
+|[[Waveney (UK Parliament constituency)|Waveney]]
+|[[Lord of the Treasury|Lord Commissioner of HM Treasury]]
+|1997
+|[[Peter Aldous]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+| rowspan=1|[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[Janet Anderson]]
+|[[Rossendale and Darwen (UK Parliament constituency)|Rossendale and Darwen]]
+|[[Vice-Chamberlain of the Household]]
+|1992
+|[[Jake Berry]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+| rowspan=1|[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[Shahid Malik]]
+|[[Dewsbury (UK Parliament constituency)|Dewsbury]]
+|[[Parliamentary Under-Secretary of State]], [[Department for Communities and Local Government]]
+|2005
+|[[Simon Reevell]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+| rowspan=1|[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[David Kidney]]
+|[[Stafford (UK Parliament constituency)|Stafford]]
+|Parliamentary Under Secretary of State, [[Department for Energy and Climate Change]]
+|1997
+|[[Jeremy Lefroy]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+| rowspan=1|[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[Michael Jabez Foster|Michael (Jabez) Foster]]
+|[[Hastings and Rye (UK Parliament constituency)|Hastings and Rye]]
+|Parliamentary Under-Secretary of State, [[Home Office]]; Minister for Equalities
+|1997
+|[[Amber Rudd]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+| rowspan=1|[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[Michael John Foster|Michael Foster]]
+|[[Worcester (UK Parliament constituency)|Worcester]]
+|Parliamentary Under-Secretary of State, [[Department for International Development]]
+|1997
+|[[Robin Walker (politician)|Robin Walker]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+| rowspan=1|[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[Dan Norris]]
+|[[Wansdyke (UK Parliament constituency)|Wansdyke]], contesting [[North East Somerset (UK Parliament constituency)|North East Somerset]]
+|Parliamentary Under Secretary of State, [[Department for the Environment, Food and Rural Affairs]]
+|1997
+|[[Jacob Rees-Mogg]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+| rowspan=1|[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[Chris Mole]]
+|[[Ipswich (UK Parliament constituency)|Ipswich]]
+|Parliamentary Under-Secretary of State, [[Department for Transport]]
+|2001
+|[[Ben Gummer]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+| rowspan=1|[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[Paul Clark (politician)|Paul Clark]]
+|[[Gillingham and Rainham (UK Parliament constituency)|Gillingham and Rainham]]
+|Parliamentary Under-Secretary of State, [[Department for Transport]]
+|1997
+|[[Rehman Chishti]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+| rowspan=1|[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[Jonathan Shaw (politician)|Jonathan Shaw]]
+|[[Chatham and Aylesford (UK Parliament constituency)|Chatham and Aylesford]]
+|Parliamentary Under-Secretary of State, [[Department for Work and Pensions]]; Minister for Disabled People
+|1997
+|[[Tracey Crouch]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+| rowspan=1|[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[Ann Keen]]
+|[[Brentford and Isleworth (UK Parliament constituency)|Brentford and Isleworth]]
+|Parliamentary Under-Secretary of State for [[Department of Health (United Kingdom)|Health Services]]
+|1997
+|[[Mary Macleod]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+| rowspan=1|[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[Claire Ward]]
+|[[Watford (UK Parliament constituency)|Watford]]
+|Parliamentary Under Secretary of State for [[Ministry of Justice (England and Wales)|Justice]]
+|1997
+|[[Richard Harrington (politician)|Richard Harrington]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+| rowspan=1|[[Conservative Party (UK)|Conservative Party]]
+|-
+|<small>[[The Right Honourable]]</small><br/> [[Joan Ryan]]
+|[[Enfield North (UK Parliament constituency)|Enfield North]]
+|Parliamentary Under Secretary of State for Nationality, Citizenship and Immigration
+|1997
+|[[Nick de Bois]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+| rowspan=1|[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[Sally Keeble]]
+|[[Northampton North (UK Parliament constituency)|Northampton North]]
+|Parliamentary Under Secretary of State, [[Department for International Development]]
+|1997
+|[[Michael Ellis (British politician)|Michael Ellis]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+| rowspan=1|[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[Parmjit Dhanda]]
+|[[Gloucester (UK Parliament constituency)|Gloucester]]
+|Parliamentary Under-Secretary of State, [[Department of Communities and Local Government]]
+|2001
+|[[Richard Graham (politician)|Richard Graham]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+| rowspan=1|[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[Celia Barlow]]
+|[[Hove (UK Parliament constituency)|Hove]]
+|Parliamentary Under-Secretary of State, [[Department for Business, Enterprise and Regulatory Reform]]
+|2005
+|[[Mike Weatherley]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+| rowspan=1|[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[Nick Ainger]]
+|[[Carmarthen West and South Pembrokeshire (UK Parliament constituency)|Carmarthen West and South Pembrokeshire]]
+|Parliamentary Under-Secretary of State, [[Wales Office]]
+|1992
+|[[Simon Hart]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+| rowspan=1|[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[Charlotte Atkins]]
+|[[Staffordshire Moorlands (UK Parliament constituency)|Staffordshire Moorlands]]
+|Parliamentary Under-Secretary of State, [[Department for Transport]]
+|1997
+|[[Karen Bradley]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+| rowspan=1|[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[James Plaskitt]]
+|[[Warwick and Leamington (UK Parliament constituency)|Warwick and Leamington]]
+|Parliamentary Under-Secretary of State, [[Department for Work and Pensions]]
+|1997
+|[[Chris White (politician)|Chris White]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+| rowspan=1|[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[Phyllis Starkey]]
+|[[Milton Keynes South West (UK Parliament constituency)|Milton Keynes South West]]
+|Chair of the [[Communities and Local Government Committee|Communities and Local Government Select Committee]]
+|1997
+|[[Iain Stewart (politician)|Iain Stewart]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+| rowspan=1|[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[Andrew Dismore]]
+|[[Hendon (UK Parliament constituency)|Hendon]]
+|Chair of the [[Joint Committee on Human Rights]]
+|1997
+|[[Matthew Offord]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+| rowspan=1|[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[Lynda Waltho]]
+|[[Stourbridge (UK Parliament constituency)|Stourbridge]]
+|Assistant Regional Minister for the West Midlands
+|2005
+|[[Margot James]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+| rowspan=1|[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[Ian Cawsey]]
+|[[Brigg and Goole (UK Parliament constituency)|Brigg and Goole]]
+|Assistant Whip
+|1997
+|[[Andrew Percy]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+| rowspan=1|[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[Anne Snelgrove]]
+|[[Swindon South (UK Parliament constituency)|Swindon South]]
+|[[Parliamentary Private Secretary]] (PPS) to the [[Prime Minister of the United Kingdom|Prime Minister]]
+|2005
+|[[Robert Buckland]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+| rowspan=1|[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[Rob Marris]]
+|[[Wolverhampton South West (UK Parliament constituency)|Wolverhampton South West]]
+|PPS to the [[Secretary of State for Northern Ireland]]
+|2001
+|[[Paul Uppal]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+| rowspan=1|[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[Christine Russell]]
+|[[City of Chester (UK Parliament constituency)|City of Chester]]
+|PPS to the [[Minister for Children (United Kingdom)|Minister of State for Children, Young People and Families]]
+|1997
+|[[Stephen Mosley]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+| rowspan=1|[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[Andy Reed (politician)|Andy Reed]]
+|[[Loughborough (UK Parliament constituency)|Loughborough]]
+|PPS to [[HM Treasury|Treasury]] Ministers
+|1997
+|[[Nicky Morgan (politician)|Nicky Morgan]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+| rowspan=1|[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[Dari Taylor]]
+|[[Stockton South (UK Parliament constituency)|Stockton South]]
+|PPS to the [[Department of Health (United Kingdom)|Minister of State for Health]] and Chairman of the [[North East Regional Select Committee]]
+|1997
+|[[James Wharton (UK politician)|James Wharton]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+| rowspan=1|[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[Shona McIsaac]]
+|[[Cleethorpes (UK Parliament constituency)|Cleethorpes]]
+|PPS to the [[Department of Health (United Kingdom)|Minister of State for Health]]
+|1997
+|[[Martin Vickers]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+| rowspan=1|[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[Linda Gilroy]]
+|[[Plymouth Sutton (UK Parliament constituency)|Plymouth Sutton]], contesting [[Plymouth Sutton and Devonport (UK Parliament constituency)|Plymouth Sutton and Devonport]]
+|PPS to the [[Minister of State]] for Housing and Local Government
+|1997
+|[[Oliver Colvile]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+| rowspan=1|[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[Martin Linton]]
+|[[Battersea (UK Parliament constituency)|Battersea]]
+|PPS to the [[Department for Constitutional Affairs]]
+|1997
+|[[Jane Ellison]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+| rowspan=1|[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[Nick Palmer]]
+|[[Broxtowe (UK Parliament constituency)|Broxtowe]]
+|PPS to the [[Department for Constitutional Affairs]]
+|1997
+|[[Anna Soubry]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+| rowspan=1|[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[Terry Rooney]]
+|[[Bradford North (UK Parliament constituency)|Bradford North]]
+|PPS to the [[Department for Communities and Local Government|Minister of State for Housing and Planning]]
+|1990
+|[[David Ward (politician)|David Ward]]
+! rowspan=1 style="background-color: {{Liberal Democrats/meta/color}}" |
+| rowspan=1|[[Liberal Democrats]]
+|-
+|[[David Borrow]]
+|[[South Ribble (UK Parliament constituency)|South Ribble]]
+|PPS to the [[Department for Education and Skills (United Kingdom)|Department for Education and Skills]]
+|1997
+|[[Lorraine Fullbrook]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+| rowspan=1|[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[Patrick Hall (politician)|Patrick Hall]]
+|[[Bedford (UK Parliament constituency)|Bedford]]
+|PPS to the [[Foreign Office]]
+|1997
+|[[Richard Fuller (Bedford MP)|Richard Fuller]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+| rowspan=1|[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[David Drew (politician)|David Drew]]
+|[[Stroud (UK Parliament constituency)|Stroud]]
+|
+|1997
+|[[Neil Carmichael (Conservative politician)|Neil Carmichael]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+| rowspan=1|[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[Roger Berry|Dr Roger Berry]]
+|[[Kingswood (UK Parliament constituency)|Kingswood]]
+|
+|1992
+|[[Chris Skidmore]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+| rowspan=1|[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[Anthony David Wright|Tony Wright]]
+|[[Great Yarmouth (UK Parliament constituency)|Great Yarmouth]]
+|
+|1997
+|[[Brandon Lewis]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+| rowspan=1|[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[Geraldine Smith]]
+|[[Morecambe and Lunesdale (UK Parliament constituency)|Morecambe and Lunesdale]]
+|
+|1997
+|[[David Morris (Conservative politician)|David Morris]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+| rowspan=1|[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[Frank Cook]]
+|[[Stockton North (UK Parliament constituency)|Stockton North]]<br/><small>Stood as an Independent candidate after being deselected</small>
+|
+|1983
+|[[Alex Cunningham]] 
+! rowspan=1 style="background-color: {{Labour Party (UK)/meta/color}}" |
+| rowspan=1|[[Labour Party (UK)|Labour Party]]
+|-
+|[[Gordon Prentice]]
+|[[Pendle (UK Parliament constituency)|Pendle]]
+|
+|1992
+|[[Andrew Stephenson]] 
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+| rowspan=1|[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[Gwyn Prosser]]
+|[[Dover (UK Parliament constituency)|Dover]]
+|
+|1997
+|[[Charlie Elphicke]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+| rowspan=1|[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[Julie Morgan]]
+|[[Cardiff North (UK Parliament constituency)|Cardiff North]]
+|
+|1997
+|[[Jonathan Evans (politician)|Jonathan Evans]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+| rowspan=1|[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[Brian Jenkins (politician)|Brian Jenkins]]
+|[[Tamworth (UK Parliament constituency)|Tamworth]]
+|
+|1997
+|[[Christopher Pincher]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+| rowspan=1|[[Conservative Party (UK)|Conservative Party]]
+|-
+! rowspan=9 style="background-color: {{Liberal Democrats/meta/color}}" |
+| rowspan=9|[[Liberal Democrats]]
+|[[Lembit Öpik]]
+|[[Montgomeryshire (UK Parliament constituency)|Montgomeryshire]]
+|Housing Spokesman
+|1997
+|[[Glyn Davies (politician)|Glyn Davies]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+| rowspan=1|[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[Evan Harris|Dr Evan Harris]]
+|[[Oxford West and Abingdon (UK Parliament constituency)|Oxford West and Abingdon]]
+|Science Spokesman
+|1997
+|[[Nicola Blackwood]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+| rowspan=1|[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[Julia Goldsworthy]]
+|[[Falmouth and Camborne (UK Parliament constituency)|Falmouth and Camborne]], contesting [[Camborne and Redruth (UK Parliament constituency)|Camborne and Redruth]]
+|Communities and Local Government Spokesman
+|2005
+|[[George Eustice]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+| rowspan=1|[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[Richard Younger-Ross]]
+|[[Teignbridge (UK Parliament constituency)|Teignbridge]], contesting [[Newton Abbot (UK Parliament constituency)|Newton Abbot]]
+|Heritage Spokesman
+|2001
+|[[Anne-Marie Morris]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+| rowspan=1|[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[Sandra Gidley]]
+|[[Romsey (UK Parliament constituency)|Romsey]], contesting [[Romsey and Southampton North (UK Parliament constituency)|Romsey and Southampton North]]
+|Health Spokesman
+|2000
+|[[Caroline Nokes]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+| rowspan=1|[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[Paul Holmes (politician)|Paul Holmes]]
+|[[Chesterfield (UK Parliament constituency)|Chesterfield]]
+|Justice Spokesman and Chairman of the [[Liberal Democrats]]
+|2001
+|[[Toby Perkins]]
+! rowspan=1 style="background-color: {{Labour Party (UK)/meta/color}}" |
+| rowspan=1|[[Labour Party (UK)|Labour Party]]
+|-
+|[[Paul Rowen]]
+|[[Rochdale (UK Parliament constituency)|Rochdale]]
+|Work and Pensions Spokesman
+|2005
+|[[Simon Danczuk]]
+! rowspan=1 style="background-color: {{Labour Party (UK)/meta/color}}" |
+| rowspan=1|[[Labour Party (UK)|Labour Party]]
+|-
+|[[Willie Rennie]]
+|[[Dunfermline and West Fife (UK Parliament constituency)|Dunfermline and West Fife]]
+|Chair of the Lib Dem Campaigns Team
+|2006
+|[[Thomas Docherty (politician)|Thomas Docherty]]
+! rowspan=1 style="background-color: {{Labour Party (UK)/meta/color}}" |
+| rowspan=1|[[Labour Party (UK)|Labour Party]]
+|-
+|[[Susan Kramer]]
+|[[Richmond Park (UK Parliament constituency)|Richmond Park]]
+|Transport Spokesman
+|2005
+|[[Zac Goldsmith]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+| rowspan=1|[[Conservative Party (UK)|Conservative Party]]
+|-
+! rowspan=2 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+| rowspan=2|[[Conservative Party (UK)|Conservative]]
+|<small>[[The Right Honourable]]</small><br/> [[David Heathcoat-Amory]]
+|[[Wells (UK Parliament constituency)|Wells]]
+|
+|1983
+|[[Tessa Munt]]
+! rowspan=1 style="background-color: {{Liberal Democrats/meta/color}}" |
+| rowspan=1|[[Liberal Democrats]]
+|-
+|[[Nigel Waterson]]
+|[[Eastbourne (UK Parliament constituency)|Eastbourne]]
+|
+|1992
+|[[Stephen Lloyd]]
+! rowspan=1 style="background-color: {{Liberal Democrats/meta/color}}" |
+| rowspan=1|[[Liberal Democrats]]
+|-
+!style="background-color: {{Democratic Unionist Party/meta/color}}" |
+|[[Democratic Unionist Party]]
+|<small>[[The Right Honourable]]</small><br/> [[Peter Robinson (politician)|Peter Robinson]]
+|[[Belfast East (UK Parliament constituency)|Belfast East]]
+|Leader of the DUP and [[First Minister and deputy First Minister|First Minister of Northern Ireland]]
+|1979
+|[[Naomi Long]]
+! rowspan=1 style="background-color: {{Alliance Party of Northern Ireland/meta/color}}" |
+| rowspan=1|[[Alliance Party of Northern Ireland]]
+|-
+!style="background-color: {{Respect - The Unity Coalition/meta/color}}" |
+|[[Respect - The Unity Coalition|Respect]]
+|[[George Galloway]]
+|[[Bethnal Green & Bow (UK Parliament constituency)|Bethnal Green & Bow]], contesting [[Poplar and Limehouse (UK Parliament constituency)|Poplar and Limehouse]]
+|
+|1987
+|[[Jim Fitzpatrick (politician)|Jim Fitzpatrick]]
+! rowspan=1 style="background-color: {{Labour Party (UK)/meta/color}}" |
+| rowspan=1|[[Labour Party (UK)|Labour Party]]
+|-
+!style="background-color: {{Scottish National Party/meta/color}}" |
+|[[Scottish National Party]]
+|[[John Mason (Scottish politician)|John Mason]]
+|[[Glasgow East (UK Parliament constituency)|Glasgow East]]
+|
+|2008
+|[[Margaret Curran]]
+! rowspan=1 style="background-color: {{Labour Party (UK)/meta/color}}" |
+| rowspan=1|[[Labour Party (UK)|Labour Party]]
+|-
+! rowspan=3 style="background-color: {{Independent (politician)/meta/color}}" |
+| rowspan=3|[[Independent (politician)|Independent]]
+|[[Richard Taylor (UK politician)|Dr Richard Taylor]]
+|[[Wyre Forest (UK Parliament constituency)|Wyre Forest]]
+|
+|2001
+|[[Mark Garnier]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+| rowspan=1|[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[Bob Spink|Dr Bob Spink]]
+|[[Castle Point (UK Parliament constituency)|Castle Point]]
+|
+|2001
+|[[Rebecca Harris]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+| rowspan=1|[[Conservative Party (UK)|Conservative Party]]
+|-
+|[[Andrew Pelling]]
+|[[Croydon Central (UK Parliament constituency)|Croydon Central]]
+|
+|2005
+|[[Gavin Barwell]]
+! rowspan=1 style="background-color: {{Conservative Party (UK)/meta/color}}" |
+| rowspan=1|[[Conservative Party (UK)|Conservative Party]]
+|-
+! rowspan=1 style="background-color: {{Blaenau Gwent People's Voice Group/meta/color}}" |
+||[[Blaenau Gwent People's Voice Group]]
+|[[Dai Davies (politician)|Dai Davies]]
+|[[Blaenau Gwent (UK Parliament constituency)|Blaenau Gwent]]
+|
+|2006
+|[[Nick Smith (British politician)|Nick Smith]]
+! rowspan=1 style="background-color: {{Labour Party (UK)/meta/color}}" |
+| rowspan=1|[[Labour Party (UK)|Labour Party]]
+|}
+
+== Effect of the expenses scandal ==
+
+Many of the MPs who were most prominently caught up in the scandal decided, or were ordered, not to stand for re-election in 2010. Among them were [[Margaret Moran]],<ref>{{cite news |url=http://www.telegraph.co.uk/news/newstopics/mps-expenses/5403017/MPs-expenses-Margaret-Moran-to-stand-down-at-election-but-insists-she-did-nothing-wrong.html |title=MPs' expenses: Margaret Moran to stand down but insists she did nothing wrong |work=The Daily Telegraph |date=29 May 2009 | location=London | first=Martin | last=Beckford}}</ref> [[Elliot Morley]],<ref>{{cite news |url=http://news.bbc.co.uk/2/hi/uk_news/politics/8073923.stm |title=Elliot Morley to stand down as MP |publisher=BBC News |date=29 May 2009}}</ref> [[David Chaytor]],<ref>{{cite news |url=http://news.bbc.co.uk/2/hi/uk_news/politics/8078558.stm |title=Labour MP Chaytor to stand down |publisher=BBC News |date=2 June 2009}}</ref> [[Nicholas Winterton|Nicholas]] and [[Ann Winterton]],<ref>{{cite news |url=http://www.telegraph.co.uk/news/newstopics/mps-expenses/5326205/Sir-Nicholas-and-Ann-Winterton-to-stand-down-from-parliament-MPs-expenses.html |title=Sir Nicholas and Ann Winterton to stand down from parliament: MPs expenses |work=The Daily Telegraph |date=15 May 2009 | location=London | first1=Christopher | last1=Hope | first2=Jon | last2=Swaine}}</ref> [[Derek Conway]],<ref>{{cite news |url=http://www.telegraph.co.uk/news/newstopics/politics/conservative/1576993/Derek-Conway-to-stand-down-at-election.html |title=Derek Conway to stand down at election |work=The Daily Telegraph |date=30 January 2008 | location=London | first=Robert | last=Winnett}}</ref> [[John Gummer]],<ref>{{cite news |url=http://www.telegraph.co.uk/news/newstopics/politics/6911521/John-Gummer-mole-charge-MP-to-quit-Parliament.html |title=John Gummer: mole charge MP to quit Parliament |work=The Daily Telegraph |date=30 December 2009 | location=London | first=Rosa | last=Prince}}</ref> [[Douglas Hogg]],<ref>{{cite news |url=http://news.bbc.co.uk/2/hi/uk_news/politics/8057579.stm |title=Moat claim MP to quit at election |publisher=BBC News |date=19 May 2009}}</ref> [[Anthony Steen]],<ref>{{cite news |url=http://www.telegraph.co.uk/news/newstopics/mps-expenses/5357365/MPs-expenses-Anthony-Steen-to-stand-down-as-MP-at-next-election.html |title=MPs' expenses: Anthony Steen to stand down as MP at next election |work=The Daily Telegraph |date=20 May 2009 | location=London | first1=Andrew | last1=Pierce | first2=Chris | last2=Irvine}}</ref> [[Peter Viggers]],<ref>{{cite news |url=http://www.portsmouth.co.uk/newshome/Sir-Peter-Viggers-to-stand.5288487.jp |title=Sir Peter Viggers to stand down over expenses claim |work=Portsmouth Today |date=20 May 2009}}</ref> [[Julie Kirkbride]] and her husband [[Andrew MacKay]].<ref>{{cite news |url=http://news.bbc.co.uk/2/hi/uk_news/politics/8065339.stm |title=Tory MP to stand down at election |publisher=BBC News |date=23 May 2009}}</ref>
+
+Where sitting MPs did stand for re-election after their expenses claims were criticised, there were some notable losses. Former Home Secretary [[Jacqui Smith]] lost her marginal [[Redditch (UK Parliament constituency)|Redditch]] seat, which showed a large 9.2% swing to the Conservatives. Smith had claimed expenses on a large family home in Redditch by declaring her house-share with her sister in London as her main home, had been described as "near fraudulent" by the former chairman of the committee on Standards in Public life,<ref>{{cite news |url=http://www.guardian.co.uk/politics/2009/may/10/mps-expenses-jacqui-smith |title=Taxmen to probe MPs over profits from home sales |work=The Guardian |date=10 May 2009 | first1=Rajeev | last1=Syal | first2=Toby | last2=Helm | first3=Gaby | last3=Hinsliff | location=London}}</ref> although she had only been ordered to apologise rather than repay the money.<ref>{{cite news |url=http://www.guardian.co.uk/politics/2009/oct/12/smith-expenses-breach |title=Jacqui Smith apologises to MPs for misusing second home allowance |work=The Guardian |date=12 October 2009 |last=Sparrow |first=Andrew | location=London}}</ref> Former Home Office minister [[Tony McNulty]] lost [[Harrow East (UK Parliament constituency)|Harrow East]] to the Conservatives on an 8% swing, after repaying over £13,000 claimed on a second home, occupied by his parents, which was 8 miles away from his primary residence.<ref>{{cite news |url=http://news.bbc.co.uk/2/hi/uk_news/politics/7957555.stm |title=McNulty defends expenses claims |publisher=BBC News |date=22 March 2009}}</ref> [[Ann Keen]] lost [[Brentford and Isleworth (UK Parliament constituency)|Brentford and Isleworth]] on a 6% swing, but her husband [[Alan Keen]] retained [[Feltham and Heston]]. The couple were criticised for claiming for a second home in central London while rarely staying in their nearby constituency home.<ref>{{cite news|url=http://www.guardian.co.uk/politics/2010/may/07/tories-escape-expenses-scandal-general-election|title=Tories brush off expenses scandal while voters punish Labour in general election|last=Barkham|first=Patrick|date=7 May 2010|work=The Guardian|accessdate=8 May 2010 | location=London}}</ref>
+
+[[Shahid Malik]] lost his [[Dewsbury (UK Parliament constituency)|Dewsbury]] seat on a 5.9% swing to the Conservatives. Malik had been required to repay some of his expense claims and, at the time of the election, was under investigation for other claims.<ref>{{cite news |url=http://www.inthenews.co.uk/news/general-election-2010/general-election-2010-shahid-malik-loses-in-dewsbury-$21376724.htm |title=General election 2010: Shahid Malik loses in Dewsbury |publisher=inthenews.co.uk |date=7 May 2010}}</ref> [[David Heathcoat-Amory]] was one of only two sitting Conservatives to be defeated when he lost [[Wells (UK Parliament constituency)|Wells]] to the Liberal Democrats by 800 votes. Heathcoat-Amory was criticised for claiming manure on expenses.<ref>{{cite news|url=http://www.channel4.com/news/articles/vote_2010/election+2010+the+high+profile+losers/3638827|title=Vote 2010: you win some, you lose some|date=7 May 2010|publisher=Channel 4 News|accessdate=8 May 2010}}</ref> [[Phil Hope]], who repaid over £40,000 in expenses,<ref>{{cite news |url=http://www.telegraph.co.uk/news/newstopics/mps-expenses/5317104/Phil-Hope-agrees-to-return-41000-as-MPs-retreat-on-expenses-claims.html |title=Phil Hope agrees to return £41,000 as MPs retreat on expenses |work=The Daily Telegraph |date=13 May 2009 | location=London | first=Matthew | last=Moore}}</ref> was defeated in his [[Corby (UK Parliament constituency)|Corby]] constituency although the swing was lower than the national average at 3.3%. Lembit Öpik was defeated in his Montgomeryshire constituency on a 13% swing. Öpik had claimed a £40 summons charge for non-payment of Council Tax,<ref>{{cite news |url=http://news.bbc.co.uk/2/hi/uk_news/wales/mid_/8047205.stm |title=Opik to repay tax summons expense |publisher=BBC News |date=13 May 2009}}</ref> although media coverage of the loss placed more emphasis on the politician's colourful personal life.<ref>{{cite news |url=http://news.bbc.co.uk/2/hi/uk_news/politics/election_2010/wales/8666699.stm |title=Liberal Democrat Lembit Opik loses Montgomeryshire |publisher=BBC News |date=7 May 2010}}</ref><ref>{{cite news |url=http://www.timesonline.co.uk/tol/news/politics/article7119009.ece |title=Lembit Opik loses seat to Conservatives |work=The Times|date=7 May 2010 | first=Chris | last=Smyth | location=London}}</ref>
+
+[[Hazel Blears]], who had paid more than £13,000 to cover [[capital gains tax]] which she had avoided by "flipping" the designation of her main residence,<ref>{{cite news |url=http://www.telegraph.co.uk/news/newstopics/mps-expenses/5364423/Gordon-Brown-pursuing-a-political-vendetta-against-Hazel-Blears-MPs-expenses.html |title=Gordon Brown 'pursuing a political vendetta' against Hazel Blears – MPs' expenses |work=The Daily Telegraph |date=22 May 2009 | location=London | first=Andrew | last=Porter}}</ref> suffered a large drop in her vote in [[Salford and Eccles (UK Parliament constituency)|Salford and Eccles]], but was still comfortably re-elected; a 'Hazel must go' candidate won only 1.8%.<ref>{{cite news |url=http://www.telegraph.co.uk/news/newsvideo/uk-politics-video/7689786/General-Election-2010-Hazel-Blears-retains-Salford-and-Eccles.html |title=General Election 2010: Hazel Blears retains Salford and Eccles |work=The Daily Telegraph |date=7 May 2010 | location=London}}</ref> Conversely, [[Brian Jenkins (politician)|Brian Jenkins]] lost his [[Tamworth (UK Parliament constituency)|Tamworth]] seat on a large 9.5% swing despite being described as a "saint" by the ''[[Daily Telegraph]]'' on account of his low expenses.<ref>{{cite news |url=http://www.telegraph.co.uk/news/newstopics/mps-expenses/5350793/MPs-expenses-The-saints-Part-iii.html?image=13 |title=MPs' expenses: The saints (Part iii) |work=The Daily Telegraph | location=London |date=19 May 2009}}</ref>
+
+Predictions<ref>{{cite news |url=http://www.telegraph.co.uk/news/election-2010/7614923/General-Election-2010-MPs-expenses-scandal-fires-independent-challenge.html |title=General Election 2010: MPs' expenses scandal fires independent challenge |work=The Daily Telegraph |date=22 April 2010 | location=London | first=Martin | last=Evans}}</ref> of a rise in the number of successful [[Independent (politician)|Independents]] in the election as a result of the [[United Kingdom Parliamentary expenses scandal|2009 expenses scandal]] failed to materialise. Independents supported by the [[Jury Team]] or the [[Independent Network]], support networks who both attempted to select and promote high quality Independents who had signed up for the so-called Nolan Principles of public life, set out in the [[Committee on Standards in Public Life]], failed to have any significant impact. Broadcaster [[Esther Rantzen]] gathered a great deal of publicity for her campaign in [[Luton South (UK Parliament constituency)|Luton South constituency]] where the former MP Margaret Moran had stood down, but ended up losing her deposit in 4th place with 4.4% of the vote; the winner was Moran's successor as Labour candidate.
+
+There was also a high profile campaign over expenses directed against [[Speaker of the House of Commons (United Kingdom)|Speaker]] [[John Bercow]], who had 'flipped' his designation of second home. An imperfectly observed convention states that the major parties do not oppose the Speaker seeking re-election; Bercow faced two main opponents in  [[Buckingham (UK Parliament constituency)|Buckingham]]. Independent former Member of the European Parliament [[John Stevens (politician)|John Stevens]], standing on the Buckinghamshire Campaign for Democracy ticket, campaigned with a man dressed in a dolphin costume whom he called 'Flipper'<ref>{{cite web|url=http://www.newstatesman.com/uk-politics/2010/04/john-bercow-speaker-buckingham |title=Bercow's last stand? |last=Seddon |first=Mark |authorlink=Mark Seddon |work=New Statesman |date=21 April 2010}}</ref> and polled second with 21.4%. Former leader of the [[UK Independence Party]] [[Nigel Farage]] also fought the seat but came third in the vote with 17.4%. Bercow won with 47.3%.
+
+== Voting problems ==
+Problems occurred with voting at 27 polling places in 16 constituencies, and affected approximately 1,200 people.<ref name="ec-problem-report">{{cite web |url=http://www.electoralcommission.org.uk/__data/assets/pdf_file/0010/99091/Interim-Report-Polling-Station-Queues-complete.pdf |title=2010 UK Parliamentary general election: Interim report: review of problems at polling stations at close of poll on 6 May 2010 |date=20 May 2010 |format=PDF |publisher=The Electoral Commission |location=UK |at=Section 1.6 |accessdate=27 July 2010 }}</ref> This situation which was condemned by politicians of various parties. [[Jenny Watson]], chair of the [[Electoral Commission (UK)|Electoral Commission]], the independent body that oversees the electoral process, was forced on to television to defend preparations and procedures. The Electoral Commission has announced it will be carrying out a "thorough investigation".<ref name="turnedaway">{{Cite news|title=Electoral Commission to investigate thwarted voters|url=http://www.channel4.com/news/articles/politics/hundreds+of+voters+turned+away+from+packed+polls/3638632|publisher=[[Channel 4 News]]|date=6 May 2010|accessdate=7 May 2010}}</ref>  Under the law in force at the 2010 election, voters had to have been handed their ballots by the 10&nbsp;pm deadline; people who were waiting in queues to vote at 10&nbsp;pm were not allowed to vote.<ref>{{cite news |url=http://news.bbc.co.uk/1/hi/uk_politics/election_2010/8666338.stm |title=Election 2010: Inquiry as voters miss out as polls shut |date=7 May 2010 |accessdate=1 August 2010 |publisher=BBC News}}</ref>
+
+In [[Chester]] there were reports that 600 registered voters were unable to vote because the electoral roll had not been updated,<ref>{{Cite news|author=Charlotte Spratt and Steve Doughty|title=Thousands left unable to vote as huge queues form|url=http://www.dailymail.co.uk/news/election/article-1274093/GENERAL-ELECTION-2010-Thousands-left-unable-vote-huge-queues-form-polling-stations-Britain.html|work=Daily Mail|date=7 May 2010|accessdate=7 May 2010 | location=London}}</ref> while in [[Hackney South and Shoreditch (UK Parliament constituency)|Hackney]], [[Islington]], [[Leeds]], [[Lewisham]], [[Manchester]], [[Newcastle upon Tyne (UK Parliament constituency)|Newcastle]] and [[Sheffield]] long queues led to many voters being turned away and unable to vote as the {{Nowrap|10 pm}} deadline arrived.<ref name="turnedaway" /> Some dissatisfied voters staged [[sit-in]]s to protest against what some of them had called "[[disenfranchisement]]".<ref name="turnedaway" /> In [[Liverpool]], higher than expected turnout meant several polling stations ran out of ballot papers, with defeated council leader [[Warren Bradley (politician)|Warren Bradley]] stating that some residents were unable to cast their votes.<ref name="Liverpool polling station runs out of ballots">{{cite news|title=Liverpool polling station runs out of ballots|url=http://news.bbc.co.uk/1/hi/uk_politics/election_2010/england/8663394.stm|publisher=BBC News|date=7 May 2010|accessdate=7 May 2010}}</ref> In Wyre and Preston North, a 14-year-old boy cast a vote after being sent a polling card.<ref>{{cite news|url=http://news.bbc.co.uk/1/hi/uk_politics/election_2010/england/8670022.stm|title=Lancashire teenager voted 'to make a difference'|date=8 May 2010|publisher=BBC News|accessdate=10 July 2010}}</ref>
+
+In parts of Liberal Democrat leader [[Nick Clegg]]'s [[Sheffield Hallam (UK Parliament constituency)|Sheffield Hallam]] seat it was reported that students from the city's two universities were placed in separate queues from 'local' residents, who were given priority, resulting in many students being unable to cast their votes.<ref>{{cite news|title=Election 2010: Voters turned away as polls close|url=http://news.bbc.co.uk/1/hi/uk_politics/election_2010/8666338.stm|publisher=BBC News|date=7 May 2010|accessdate=7 May 2010}}</ref>
+
+Just days after the election Clegg spoke at a [[Take Back Parliament]] rally saying the results showed the British system is broken and needs fixing, while vowing the voices of the protesters would be heard. The rally demanded Clegg affirm his promise to push for ''"democratic and proportional representation of the British public"''.<ref>{{cite news|url=http://www.presstv.ir/detail.aspx?id=125860&sectionid=351020606|title=UK protesters slam electoral system|work=PressTV|date=8 May 2010|accessdate=11 May 2010}}</ref>
+
+Because of [[Air travel disruption after the 2010 Eyjafjallajökull eruption|closure of United Kingdom airspace]] as a result of the [[2010 eruptions of Eyjafjallajökull|Iceland volcanic eruption]], potential [[Expatriate|expat]] voters in New Zealand were denied a vote when postal voting papers arrived too late to be returned to the UK,<ref>{{cite news|title=Kiwi votes too late for UK election|url=http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=10643772|work=NZ Herald|date=9 May 2010|accessdate=11 May 2010}}</ref> although Australian broadcaster [[Special Broadcasting Service|SBS]] suggested that given the extremely tight timetabling of overseas votes, ''there is very little chance that voting papers'' [for voters outside Europe] ''will be received, let alone returned, in time to be counted.''<ref>{{cite news|title=UK elections: how to vote from abroad|url=http://www.sbs.com.au/news/article/1252037/UK-elections:-how-to-vote-from-abroad-|publisher=Special Broadcasting Service|date=6 May 2010|accessdate=11 May 2010}}</ref>
+
+== Post-election events ==
+{{main|2010 United Kingdom government formation}}
+When it became clear that no party would achieve an overall majority the three main party leaders made public statements offering to discuss the options for forming the next government with the other parties.
+
+On 11 May 2010, as coalition talks between the Conservatives and the Liberal Democrats seemed to be drawing to a successful conclusion,<ref name="news.bbc.co.uk"/> [[Gordon Brown]] announced that he was resigning as Prime Minister and also as Labour leader. He then left [[Downing Street]], accompanied by his wife and children, driving to [[Buckingham Palace]] where he tendered his resignation to Her Majesty the Queen and advised her to call for [[David Cameron]].<ref>{{cite news|url=http://news.bbc.co.uk/1/shared/election2010/liveevent/|title=Election 2010 – Live coverage – General Election 2010|publisher=BBC News|date=11 May 2010|accessdate=11 May 2010}}</ref><ref>{{cite news|url=http://news.bbc.co.uk/1/hi/uk/8676273.stm|title=PM's full resignation statement|publisher=BBC News|date=11 May 2010|accessdate=11 May 2010}}</ref> [[Premiership of David Cameron|Cameron became Prime Minister]] one hour after the Queen accepted Brown's resignation.<ref name=CamPMBBC>{{cite news|url=http://news.bbc.co.uk/2/hi/uk_news/politics/election_2010/8675265.stm|title=David Cameron is UK's new prime minister|date=11 May 2010|publisher=BBC News|accessdate=11 May 2010}}</ref> In his first address outside [[10 Downing Street]], he announced his intention to [[Cameron ministry|form a coalition government]], the first since the Second World War, with the [[Liberal Democrats]]. As one of his first moves, Cameron appointed [[Nick Clegg]] as [[Deputy Prime Minister of the United Kingdom|Deputy Prime Minister]].<ref name=CamPMBBC/>
+
+Just after midnight on 12 May 2010, the Liberal Democrats emerged from a meeting of their Parliamentary party and Federal Executive to announce that the coalition deal had been "approved overwhelmingly",<ref name="New government – live blog"/><ref name="LibDemApproveBBC"/> meaning that [[David Cameron]] would lead a coalition government of Conservatives and Liberal Democrats.
+
+Later that day, the two parties jointly published the [[Conservative – Liberal Democrat Coalition Agreement]] specifying the terms of the coalition deal.<ref>[http://www.conservatives.com/News/News_stories/2010/05/Coalition_Agreement_published.aspx Conservative Liberal Democrat Coalition Agreement], [[Conservative Party (UK)|Conservative Party]], Published 12 May 2010. Retrieved 13 May 2010</ref><ref>[http://libdems.org.uk/latest_news_detail.aspx?title=Conservative_Liberal_Democrat_coalition_agreements&pPK=2697bcdc-7483-47a7-a517-7778979458ff Conservative Liberal Democrat Coalition Agreement], [[Liberal Democrats]], Published 12 May 2010. Retrieved 13 May 2010</ref><ref>{{cite news|url=http://www.guardian.co.uk/politics/2010/may/12/lib-dem-tory-deal-coalition|title=Full text of the Conservative-Liberal Democrat coalition deal|date=12 May 2010|accessdate=12 May 2010|work=The Guardian | location=London}}</ref>
+
+== See also ==
+* [[Cameron ministry]]
+* [[Opinion polling for the next United Kingdom general election]]
+
+== Notes ==
+<references group="note"/>
+
+== Further reading ==
+* {{cite book |first1=Philip |last1=Cowley |authorlink1=Philip Cowley |authorlink2=Dennis Kavanagh |first2=Dennis |last2=Kavanagh |title = The British General Election of 2010 |year=2010 |publisher=Palgrave Macmillan |isbn=978-0-230-52190-2}}
+* {{cite book |first1=Andrew |last1=Adonis |authorlink1=Andrew Adonis, Baron Adonis |title = Five Days in May |year=2013 |publisher=Biteback}}
+* {{cite book |last1=Baldini |first1=Gianfranco |first2=Jonathan |last2=Hopkin |title=Coalition Britain: The UK Election of 2010 |year=2012}}
+* {{cite book |last1=Fisher |first1=Justin |first2=Christopher |last2=Wlezien |title=The UK General Election of 2010: Explaining the Outcome |year=2011}}
+* {{cite book |last=Worcester |first=Robert |title=Explaining Cameron's Coalition: How It Came About: An Analysis of the 2010 British General Election |year=2011}}
+
+== References ==
+{{Reflist|colwidth=25em}}
+
+== External links ==
+{{Commons category|2010 UK General election}}
+* [http://www.osce.org/documents/odihr/2010/07/45252_en.pdf OSCE/ODIHR Election Assessment Mission Report], report by independent observers, the [[Office for Democratic Institutions and Human Rights]]
+* [http://www.electoralcommission.org.uk/__data/assets/pdf_file/0010/100702/Report-on-the-administration-of-the-2010-UK-general-election.pdf Report on the administration of the 2010 UK general election] by the [[Electoral Commission (UK)|Electoral Commission]]
+* [http://www.politicsresources.net/area/uk/ge10/ge10.php British General Election, 2010] resources from ''Political Science Resources''
+* [http://ukpolitics.telegraph.co.uk/advancedSearch/candidate Your Candidate Finder] Telegraph – allows you to filter all the candidates in the database based on everything from what type of education they had, to their age, gender, profession, county and role (i.e. contesting, defending, standing for the first time or again)
+* [http://www.nsd.uib.no/european_election_database/country/uk/ NSD: European Election Database – UK] publishes regional level election data (NUTS 1); allows for comparisons of election results, 1992–2010
+* [http://www.bafta.org/access-all-areas/videos/election-tv-debates,1098,BA.html Election 2010 – The TV debate at BAFTA] BAFTA asks an expert panel, was TV the real winner of the General Election?
+* [http://archives.lse.ac.uk/TreeBrowse.aspx?src=CalmView.Catalog&field=RefNo&key=GE2010 Catalogue of 2010 general election ephemera] at the [http://www.lse.ac.uk/library/archive/Default.htm Archives Division] of the [[London School of Economics]].
+
+=== Manifestos ===
+;Main parties
+* [[Conservative Party (UK)|Conservatives]]: ''[http://media.conservatives.s3.amazonaws.com/manifesto/cpmanifesto2010_lowres.pdf Invitation to join the government of Britain]''
+* [[Labour Party (UK)|Labour]]: ''[http://www2.labour.org.uk/uploads/TheLabourPartyManifesto-2010.pdf A future fair for all]''
+* [[Liberal Democrats]]: ''[http://network.libdems.org.uk/manifesto2010/libdem_manifesto_2010.pdf Change that works for you/Building a fairer Britain]''
+
+;Smaller parties already holding seats
+* [[Democratic Unionist Party]]: ''[http://www.dup2win.com/DownloadManager.asp?file=DUPManifesto2010.pdf&force=true Let's Keep Northern Ireland Moving Forward]''
+* [[Plaid Cymru]]: ''[http://www.plaidcymru.org/uploads/publications/467.pdf Think Different. Think Plaid.]''
+* [[Respect Party]]: ''[http://www.therespectparty.net/pdf/News/respect_manifesto_2010.pdf Homes, Jobs and Peace, Manifesto for a Hung Parliament]''
+* [[Scottish National Party]]: ''[http://snp.org/system/files/SNP+Manifesto+2010+web.pdf Elect a local champion.]''
+* [[Sinn Féin]]: ''[http://www.sinnfein.ie/files/Westminster2010_ManifestoFinal.pdf 2010 Westminster Election Manifesto]''
+* [[Social Democratic and Labour Party]]: ''[http://www.sdlp.ie/images/files/41562_Manifesto_Final.pdf For Your Future]''
+* [[Ulster Conservatives and Unionists – New Force]]: ''[http://www.voteforchangeni.com/index.php?command=FILES_DOWNLOAD&download=eb222ceb6341a079116bbfca8e639143 Invitation to join the government of the United Kingdom]''
+
+;Other parties
+* [[Alliance Party of Northern Ireland]]: ''[http://www.allianceparty.org/resources/sites/82.165.40.25-42fa41bb0bef84.24243647/Alliance+2010+General+Election+Manifesto.pdf Alliance Works, Working for you at Westminster]''
+* [[Alliance for Green Socialism]]: ''[http://www.greensocialist.org.uk/ags/resources/downloads/agsmanifesto2010.pdf General Election Manifesto 2010]''
+* [[British National Party]]: ''[http://bnp.org.uk/2010/04/democracy-freedom-culture-and-identity-the-bnps-election-manifesto-2010-is-launched/ Democracy, Freedom, Culture and Identity]''
+* [[British National Front]]: ''[http://www.national-front.org.uk/2010manifesto.htm National Front 2010 Election Manifesto]''
+* [[Christian Peoples Alliance]]: ''[http://www.cpaparty.org.uk/resources/CPA_Election_Manifesto_2010.pdf Not by Bread Alone]''
+* [[Communist Party of Britain]]: ''[http://www.communist-party.org.uk/images/stories/election2010/Communist_manifesto_2010.pdf Britain For The People Not The Bankers]''
+* [[Co-operative Party]]: ''[http://party.coop/images/2010%20manifesto.pdf A Cooperative Agenda For A Fourth Term]''
+* [[English Democrats Party]]: ''[http://www.voteenglish.org/assets/Uploads/PDF/English-Democrats-Manifesto-2010.pdf English Democrats 2010 Manifesto]''
+* [[Green Party of England and Wales]]: ''[http://www.greenparty.org.uk/assets/files/resources/Manifesto_web_file.pdf Fair is Worth Fighting For]''
+* [[The Macclesfield Independent]]: ''[http://www.voteindependent.co.uk For manifesto, visit website and click Policy Issues]''
+* [[Green Party of Northern Ireland]]: ''[http://www.greenpartyni.org/manifesto.aspx Make A Difference Vote Green]''
+* [[Liberal Party (UK, 1989)|Liberal Party]]: ''[http://www.liberal.org.uk/elections/2010/manifesto.htm Principle, Policy and Purpose]''
+* [[Mebyon Kernow]]: ''[http://www.mebyonkernow.org/files/Mebyon%20Kernow%20policy%20document%202010.pdf Key Campaign Priorities]''
+* [[Official Monster Raving Loony Party]]: ''[http://www.loonyparty.com/index.php?page=manifestoproposals-1 The Monster Raving Loony Manifesto]''
+* [[Pirate Party UK]]: ''[http://www.pirateparty.org.uk/blog/2010/mar/22/pirate-party-uk-launches-its-2010-election-manifes/ The 2010 Election Manifesto of the Pirate Party UK]''
+* [[Scottish Green Party]]: ''[http://www.scottishgreens.org.uk/uploaded/Wesminster2010.pdf A Living Wage For All, Protect Public Services, Support New Green Jobs]''
+* [[Scottish Socialist Party]]: ''[http://www.scottishsocialistparty.org/new_stories/election2010/ssp-mini-manifesto.html For An Independent Socialist Scotland]''
+* [[Socialist Equality Party (UK)|Socialist Equality Party]]: ''[http://www.socialequality.org.uk/manifesto Socialist Equality Party Manifesto for the 2010 British General Election]''
+* [[Trade Unionist and Socialist Coalition]]: ''[http://www.tusc.org.uk/pdfs/TUSCmanifesto.pdf No To Cuts and Privatisation! Make the Bosses Pay!]''
+* [[Traditional Unionist Voice]]: ''[http://www.tuv.org.uk/files/TUV-Manifesto.pdf Putting It Right]''
+* [[UK Independence Party]]: ''[http://www.ukip.org/media/pdf/UKIPManifesto2010.pdf Empowering the people]''
+* [[United Kingdom Libertarian Party]]: ''[http://lpuk.org/pages/manifesto.php For Life, Liberty, and Prosperity]''
+
+=== Boundary Commissions ===
+* [http://www.boundarycommissionforengland.org.uk Boundary Commission for England]
+* [http://www.bcomm-scotland.gov.uk/index.html Boundary Commission for Scotland]
+* [http://www.bcomm-wales.gov.uk/ Boundary Commission for Wales]
+* [http://www.epolitix.com/EN/News/200606/2ff8ffa1-55a9-4907-a6f3-ea4467b2aaec.htm Boundary changes favour Tories] ePolitix, 26 June 2006
+
+{{Portal bar|British politics|2010s}}
+{{United Kingdom general election, 2010}}
+{{British elections}}
+{{Gordon Brown}}
+{{David Cameron}}
+{{Nick Clegg}}
+{{New Labour}}
+
+{{Use dmy dates|date=March 2014}}
+
+{{Use British English|date=December 2012}}
+
+{{DEFAULTSORT:United Kingdom General Election, 2010}}
+[[Category:United Kingdom general election, 2010| ]]
+[[Category:General elections to the Parliament of the United Kingdom|2010]]
+[[Category:2010 elections in the United Kingdom]]

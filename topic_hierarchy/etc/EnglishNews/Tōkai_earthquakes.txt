@@ -1,0 +1,76 @@
+{{Earthquake
+|title= Tōkai earthquakes
+|date = every 100–150 years
+|map2 = {{Location map | Japan
+ | label=
+ | lat=35.0
+ | long=138.0
+ | mark=Bullseye1.png
+ | marksize=50
+ | position=top
+ | width= 250
+ | float=right
+ | caption=}}
+|magnitude = at least 8 Richter magnitude scale|M<sub>L</sub>
+|countries affected = Japan: Tōkai region
+}}
+
+The '''Tōkai earthquakes''' are major earthquakes that have occurred regularly with an interval of 100 to 150 years in the Tōkai region of Japan. The Tōkai segment has been struck by earthquakes in 1498, 1605, 1707 and 1854. Given the historic regularity of these earthquakes, Kiyoo Mogi in 1969 pointed out that another great shallow earthquake was possible in the "near future" (i.e., in the next few decades). 
+
+Given the magnitude of the last two earthquakes, the next is expected to have at least moment magnitude (energy) 8, with large areas shaken at the highest level in the Japan Meteorological Agency seismic intensity scale|Japanese intensity scale, 7. The Fukushima I Nuclear Power Plant was severely damaged after a large 2011 Tōhoku earthquake and tsunami|earthquake followed by a tsunami in 2011, causing a  International Nuclear Event Scale|nuclear event of level 7, the highest on the scale.
+
+Shortly after the 2011 Tōhoku earthquake, new reports were released which indicated the significant likelihood of another magnitude 9 earthquake occurring elsewhere in Japan, this time on the Nankai Trough. The reports stated that if a 9.0 earthquake occurred on the Nankai Trough, the effects would be very serious. The quake itself would likely kill thousands, and a series of 34-meter (112-foot) tall tsunamis would impact areas from the Kantō Region to Kyūshū, adding thousands to the death toll, and destroying Shizuoka Prefecture|Shizuoka, Shikoku, and other areas with large populations.
+
+==Earthquake prediction==
+The Japanese government is taking the Tōkai earthquakes seriously and has charged the Japan Meteorological Agency with predicting the next one. There is now a dense array of instruments placed to accumulate a continuous stream of data related to seismicity, strain, crustal expansion, tilt, tidal variations, ground water fluctuations and other variables. They are watching for an anomaly in this data which might precede the next major Tōkai earthquake.
+
+Following the prediction of an earthquake in the relatively near future, and in order to try to predict when it would occur, the Coordinating Committee for Earthquake Prediction (CCEP) designated the Tōkai region as an Area of Specific Observation in 1970, and upgraded it to an Area of Intensified Observation in 1974. Following the passing of the Large-Scale Earthquake Countermeasure Act in 1978, the Earthquake Assessment Committee (EAC) was set up to warn the Prime Minister, via the Japan Meteorological Agency, if the next quake is imminent.
+
+==Relation to other major earthquakes==
+File:RuptureAreasNankaiMegathrust.png|thumb|240px|Nankai, Tonankai and Tokai earthquake areas
+The pattern of historical seismicity reveals that the megathrust surface is segmented, with five separate zones of rupturing identified, conventionally labeled A&ndash;E, from west to east. Earthquakes involving the A+B segments are generally referred to as Nankai earthquakes|Nankai (literally ''South Sea'') earthquakes, C+D Tōnankai earthquakes|Tōnankai (literally ''Southeast Sea'') earthquakes and E Tōkai (literally ''East Sea'') earthquakes. These earthquakes repeat at intervals generally in the range of 90 &ndash; 200 years.
+
+On all but one occasion, rupture of segment C (±?D ±E) has been followed by rupture of segments A+B within a few years. This behavior has been reproduced by modeling the viscoelastic response of the megathrust fault plane with lateral variations in both convergence rate and frictional properties.
+
+==Historical Tōkai earthquakes==
+{|class="wikitable unsortable" id="stripe" style="width: 98%;"
+!Date
+!Seismic scale#Magnitude scales|Magnitude
+!Name
+!Death&nbsp;toll
+!Description
+|-
+| {{dts|684|11|26}} || 8.3 || Hakuhō earthquake || unknown || Landslides. Many houses, shrines and temples collapsed.
+|-
+| {{dts|887|8|22}} || 8.5 || Ninna earthquake  || unknown || Many people were killed by collapsing houses. 
+|-
+| {{dts|1096|12|11}} || 8.4 || Kōwa earthquake || unknown || The main building of the Kyoto Imperial Palace|imperial palace was damaged, and the big bell of the Tōdai temple fell down. The tsunami in Suruga Province|Suruga split houses, and 400 shrines and temples were damaged.
+|-
+| {{dts|1361|7|26}} || 8.5 || Shohei earthquake || unknown || To be described.
+|-
+| {{dts|1498|9|11}} || 8.4 ||1498 Meiō Nankaidō earthquake|Meiō earthquake || 40,000 || Kai Province|Kai was severely shaken. The buildings around Kōtoku-in|the great Buddha of Kamakura (altitude 7m) were swept away by a tsunami. In Ise, Mie|?minato, Ise Province|Ise 1,000 households were destroyed with 5,000 people drowned. 10,000 people drowned in Ise-Shima, while in Shida District, Shizuoka|Shida District, Shizuoka Prefecture, 26,000 people died. Nankai earthquakes also occurred around the same time, according to the National Institute of Advanced Industrial Science and Technology|Geological Survey of Japan.
+|-
+| {{dts|1605|2|3}} || 7.9 || 1605 Keichō Nankaidō earthquake || 2,300 || The tsunami struck from the Pacific coast of Kyushu, Miyazaki, led to the deaths of 57 on the island Hachijō-jima, destroyed 700 houses in a village west of the Kii Peninsula, 1,500 people died in Shishikui Awa, 350 deaths in Tosa Nishinoura, and 400 in the vicinity of Cape Muroto, Kōchi|Muroto. 
+|-
+| {{dts|1707|10|28}} || 8.4 || 1707 Hōei earthquake|Hoei earthquake  || 20,000 || Tōkai, Tōnankai and Nankai earthquakes occurred at the same time with magnitude 8.4–8.6. Mount Fuji erupted 49 days after this earthquake and the Hōei crater was created. About 20,000 people were killed and 60,000 houses collapsed, the Tosa area was affected by the tsunami.
+|-
+| {{dts|1854|12|23}} || 8.4 || 1854 Ansei-Tōkai earthquake|Ansei-Tōkai earthquake || 3,000 || The epicenter ranged from Suruga Bay to the deep ocean, and struck primarily in the Tōkai region, but destroyed houses as far away as Edo. The accompanying tsunami caused damage along the entire coast from the Bōsō Peninsula in modern-day Chiba prefecture to Tosa province (modern-day Kōchi prefecture).
+|}
+
+==See also==
+* 1944 Tōnankai earthquake
+* Kanto earthquake
+* List of earthquakes in Japan
+* Nankai megathrust earthquakes
+
+==References==
+{{reflist}}
+
+==External links==
+*http://www.jma.go.jp/en/quake_tokai Tokai earthquake information from Japan Meteorological Agency
+*http://www.e-quakes.pref.shizuoka.jp/english Tokai earthquake preparedness in Shizuoka prefecture
+
+{{Earthquakes in Japan}}
+
+{{DEFAULTSORT:Tokai Earthquakes}}
+Category:Megathrust earthquakes in Japan

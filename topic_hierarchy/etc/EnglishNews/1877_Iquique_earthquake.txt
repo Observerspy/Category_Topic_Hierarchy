@@ -1,0 +1,63 @@
+{{Earthquake
+|title= 1877 Iquique earthquake
+|date= {{Start-date|May 9, 1877}}
+|map2 = {{Location map | Chile
+| label=
+| lat=-19.6
+| long=-70.2
+| mark=Bullseye1.png
+| marksize=60
+| position=top
+| width= 150
+| float=center
+| caption=
+ | relief=yes}}
+|magnitude = 8.5 M<sub>S</sub>,  9 M<sub>?</sub>
+|depth=
+|location={{coord|-19.6|-70.2|type:event|display=inline,title}}
+|countries affected = Peru, Tarapacá Region and Bolivia, Antofagasta Region (both now part of Chile)
+|tsunami = Yes
+|casualties = 2,541}}
+The '''1877 Iquique earthquake''' occurred at 21:16 local time on 9 May (0:59 on 10 May Coordinated universal time|UTC). It had a magnitude of 8.5 on the surface wave magnitude scale. It had a maximum intensity of XI (Extreme) on the Mercalli intensity scale and triggered a devastating tsunami. A total of 2,541 people died, mainly in Peru and what is now northernmost Chile, with some deaths also reported from Hawaii and Japan.
+
+==Historical context==
+
+Affected areas in what is now the Antofagasta Region|Antofagasta region of Chile had during this period been subject to the Atacama border dispute|Atacama border dispute between Bolivia and Chile.  Under the War_of_the_Pacific#Boundary_Treaty_of_1874|1874 boundary treaty between Bolivia and Chile, the border between the two nations as of 1877 followed the 24th parallel south.  The terms of that treaty required that Bolivia not levy taxes on Chilean companies mining nitrates between the 23rd parallel south|23rd and 24th parallels (including the city of Antofagasta) for 25 years, except for agreed duties to be shared between the two countries.
+
+Following extensive damage in the 1877 earthquake and tsunami, the municipal authorities in Antofagasta voted for a tax of Bolivian boliviano|10 centavos per quintal (approximately {{convert|46|kg|abbr=on|disp=or}}) of nitrates exported to fund reconstruction of the town. by which Chile gained control of territory as far north as Tacna, including Bolivia's entire coastline.
+
+==Tectonic setting==
+Coastal regions of Peru and Chile lie above the convergent boundary, where the Nazca Plate is being Subduction|subducted beneath the South American Plate along the line of the Peru-Chile Trench. The rate of convergence across this boundary is measured at about {{convert|8|cm|abbr=on}} per year. This boundary has been the site of many great megathrust earthquakes, in addition to events caused by faulting within both the subducting and over-riding plates.
+
+==Damage==
+The earthquake shaking caused significant damage over most of the coastal parts of the Tarapacá Region|Tarapacá and Antofagasta Regions. The tsunami caused a {{convert|10|m|abbr=on}} wave along about {{convert|500|km|abbr=on}} of coast, from Arica in the north to Mejillones in the south.
+
+==Characteristics==
+
+===Earthquake===
+The shaking lasted for five minutes at Caleta Pabellón de Pica, a coastal town {{convert|70|km|abbr=on}} south of Iquique. The area of felt intensity of VIII on the Mercalli intensity scale or greater, extended from about {{convert|50|km|abbr=on}} south of Arica to just south of Cobija. This indicates a rupture length of about {{convert|420|km|abbr=on}}.
+
+===Tsunami===
+The tsunami affected the coasts of Peru and northern Chile and was observed across the Pacific Ocean, in Australia, New Zealand, Samoa, Tonga, Fiji, Hawaii, Mexico, California and Japan. At Arica eight separate large waves were recorded.
+
+==Future earthquake hazard==
+The rupture area of the 1877 earthquake has been recognised as one of the major seismic gaps on the plate boundary, known as the "Northern Chile Seismic Gap". The M<sub>w</sub> = 7.7 2007 Tocopilla earthquake occurred at the southern edge of the gap, but is not considered to have necessarily reduced the risk of a great megathrust earthquake within this area. In 2005, a recurrence period of 135 years was estimated for great earthquakes along this part of the plate boundary, suggesting that a similar earthquake to the 1877 event was likely in the early 21st century. The 2014 Iquique earthquake struck in the same seismic gap with a magnitude of M<sub>w</sub> = 8.2.
+
+==See also==
+* 1868 Arica earthquake
+
+==References==
+{{Reflist}}
+
+{{Earthquakes in Chile}}
+
+Category:Megathrust earthquakes in Chile
+Category:1877 earthquakes
+Category:1877 in Chile
+Category:Megathrust earthquakes in Peru
+Category:1877 in Peru
+Category:Earthquakes in Bolivia
+Category:1877 in Bolivia
+Category:Tsunamis in Japan
+Category:History of Antofagasta Region
+Category:History of Tarapacá Region

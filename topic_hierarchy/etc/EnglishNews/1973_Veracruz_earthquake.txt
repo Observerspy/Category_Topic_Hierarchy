@@ -1,0 +1,64 @@
+{{Earthquake
+|title = 1973 Veracruz earthquake
+|date = August 28, 1973
+|image              
+|caption =
+|map2 = {{Location map | Mexico
+| label =
+| lat = 18.51
+| long = -97.03
+| mark = Bullseye1.png
+| marksize = 40
+| position = top
+| width = 250
+| float = right
+| caption = 
+| relief = yes}}
+|duration = 1 – 2 minutes 
+|magnitude = 7.0&nbsp;Richter magnitude scale|M<sub>L</sub>  
+|depth = 84 km 
+|location = {{coord|18.23|N|96.61|W}} 
+|countries affected = Mexico
+|intensity = VIII (''Destructive'') 
+|tsunami = No
+|casualties = 600 – 1200
+}}
+
+The '''Veracruz earthquake of 1973''', also known as '''El Terremoto de Orizaba''', occurred at 3:50 a.m. local time (9:50 GMT) on August 28, with the epicenter located in the vicinity of Serdan in the State of Puebla. It registered 7.0 on the Richter magnitude scale and had a maximum perceived intensity of VII (''Very Strong'') on the Mercalli intensity scale. The effects of the earthquake were felt in the Mexico|Mexican states of Veracruz and Puebla in southeast Mexico.
+
+==Geography==
+The area that was damaged in Veracruz is tropical and mountainous; Pico de Orizaba, Mexico's tallest peak, is located there. The earthquake occurred during the rainy season, with heavy rain coming down before and after the event, and this made search and rescue difficult in that area. Serdán is located in the rain shadow of the mountainous area and has a more arid climate.
+
+==Past events==
+Mexico's southwest coast is much more seismically active than the southeast area near Orizaba. Earthquakes there have been relatively infrequent. The last prior strong event in the region was on June 17, 1928, when a magnitude 7.8 event occurred south of Serdán. However, the area 100 to 300 kilometers south of Serdán does see more very strong earthquakes, with three events over magnitude 7 in 1928 alone.
+
+==Damage==
+There was extensive damage, leaving hundreds dead and widespread devastation, in Municipalities of Puebla|several cities in Puebla.  The death toll was at least 600, with as many as 1,200 dead, and 212 casualties alone in the small city of Cuidad Serdán.
+Major cities affected were Ciudad Serdán, Orizaba, Ixtaczoquitlán, Córdoba, Ciudad Mendoza, Zongolica, Rio Blanco, and Acutzingo.
+
+In Orizaba, a twelve-story apartment building collapsed as result of the earthquake. Many of the occupants, up to 100, were sleeping at the time, and this was the number proclaimed dead at that site.
+
+This event was the most disastrous earthquake in Puebla until the 1999 Tehuacán earthquake.
+
+==See also==
+* 1985 Mexico City earthquake
+
+==References==
+{{Reflist|30em|refs=
+
+}}
+
+;Bibliography
+{{refbegin}}
+*{{citation|last=Irvine|first=H. Max|title=The Veracruz earthquake of 28 August 1973|url=http://authors.library.caltech.edu/26422/|publisher=Earthquake Engineering Research Laboratory (California Institute of Technology)|date= October 1973|asin=B0006Y7UIK}}
+*{{citation|first=John F.|last=Meehan|title=Reconnaissance report of the Veracruz, Mexico earthquake of August 28, 1973|url=http://www.bssaonline.org/content/64/6/2011.citation|journal=Bulletin of the Seismological Society of America|publisher=Seismological Society of America|date=December 1974|volume=64|number=6|pages=2011–2025}}
+{{refend}}
+
+==External links==
+*http://www.ngdc.noaa.gov/nndc/struts/results?eq_0=4642&t=101650&s=13&d=22,26,13,12&nd=display Comments for the Significant Earthquake – National Geophysical Data Center
+
+{{Earthquakes in Mexico}}
+
+Category:Earthquakes in Mexico
+Category:1973 earthquakes|Veracruz Earthquake, 1973
+Category:1973 in Mexico|Veracruz Earthquake, 1973

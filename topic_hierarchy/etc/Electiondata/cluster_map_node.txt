@@ -1,0 +1,55 @@
+1: #vote and seat summaries
+2: #candidates gallery
+3: #chamber of deputies
+5: #primaries
+6: #general election campaign#election campaign#campaign#campaigns
+7: #results by province
+8: #campaign slogans
+9: #government formation
+10: #background
+11: #conduct
+12: #analysis
+13: #eligibility
+14: #new democrats
+15: #electoral system
+16: #10 closest ridings
+17: #polls#opinion polls#opinion polling
+18: #liberals
+20: #results
+21: #conservatives
+22: #congress of deputies
+23: #second round
+24: #issues
+25: #reactions
+26: #investiture voting
+27: #summary
+28: #results by region
+29: #nominations
+30: #ballot access
+31: #official candidates
+32: #mps who lost their seats
+33: #procedure
+34: #candidates
+35: #aftermath
+36: #overview
+37: #first round
+38: #before the primaries
+39: #super tuesday
+40: #debates
+41: #democratic party nomination
+42: #votes by state
+43: #senate
+44: #registered candidates
+46: #notable expressions and phrases
+47: #other nominations
+48: #apportionment
+50: #controversies
+51: #timeline
+53: #international observers
+54: #post-election
+55: #sources
+56: #results by state
+58: #manifestos
+59: #bloc québécois
+60: #endorsements
+0: #root

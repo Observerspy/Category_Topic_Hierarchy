@@ -1,0 +1,55 @@
+{{Infobox earthquake
+| title = 1997 Ardabil earthquake
+| date = {{start-date|28 February 1997|28 February 1997}}
+| map2 = {{Location map | Iran
+| relief = yes
+| label = 
+| lat = 38.075
+| long = 48.05
+| mark = Bullseye1.png
+| marksize = 40
+| position = bottom
+| width = 250
+| float = right
+| caption = }}
+| caption = 
+| magnitude = 6.1 Richter magnitude scale|M<sub>w</sub>
+| depth = {{convert|10|km|mi|6}}
+| duration = 15 seconds
+| location = {{coord|38.075|N|48.050|E}}
+| countries affected = {{flag|Iran}}
+| casualties = 1,100 people killed, 2,600 injured, 36,000 homeless
+}}
+
+The '''1997 Ardabil earthquake''' was a destructive earthquake that occurred on 28 February 1997. The epicenter was located near the city of Ardabil in northern Iran.
+
+==Background and tectonics==
+Ardabil and the Ardabil province|surrounding province which bears its name are agricultural lands, primarily populated by Azeris. Two other earthquakes damaged northern Iran the month before, killing at least 79 people.
+
+==Damage and casualties==
+The earthquake occurred at 12:57&nbsp;UTC (4:27&nbsp;p.m. Iran Standard Time) and lasted for 15 seconds. At least 1,100 people were killed, 2,600 injured, 36,000 homeless, 12,000 houses damaged or destroyed and 160,000 livestock killed in the Ardabil area of northwestern Iran. Severe damage was observed to roads, electrical power lines, communications and water distribution systems around Ardabil. Hospitals and other medical buildings were overflowing with patients as a result of the earthquake. More than 83 villages experienced some form of damage.
+
+Within the village of Villadareh, 85 corpses were recovered from the rubble. In Varania, another small village near the epicenter that had previously had a population of 85, all but 20 residents had perished.
+
+===Aftershocks===
+Roughly 350 aftershocks followed the main Ardabil earthquake. The largest one had a magnitude of 5.2 on the Richter scale. Aid workers and rescuers approximate death toll as high as 3000. 
+
+==Aftermath and relief efforts==
+In the aftermath of the tremor, {{convert|18|in|cm|0}} of snow fell, hampering rescue efforts. The Iranian government declared three days of mourning to honor victims. Iranian president visited the damaged area on 4 March. Rescue workers at the scene disputed the official government death toll, claiming it was as much as three times higher.
+
+Nonetheless, head of the Iranian Branch of Red Crescent Seifollah Vahid Dastjerdi was satisfied with the pace of relief work. More than 8,700 tents, 21,800 blankets, 15,300 heaters and lanterns, 2,000 bottles of baby formula and 80 tons of bread were given to the victims. Additionally, 60 ambulances, 127 trucks and vans and two helicopters transported victims, relief workers, and supplies to and from the affected region.
+
+===Air crash===
+On 3 March, a small aircraft on a relief mission crashed about 16 miles (25 km) northeast of Ardabil. Its wreckage was discovered the following day. There were four people on board the Falcon aircraft but no survivors. The crash was blamed on poor weather and heavy snowfall.
+
+==References==
+{{reflist|refs=
+}}
+
+{{Earthquakes in 1997}}
+{{Earthquakes in Iran}}
+
+Category:Earthquakes in Iran|1997 Ardabil
+Category:1997 earthquakes|Ardabil
+Category:1997 in Iran|Ardabil earthquake
+Category:History of Ardabil Province

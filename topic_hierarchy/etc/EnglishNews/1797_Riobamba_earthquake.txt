@@ -1,0 +1,54 @@
+{{Infobox earthquake
+|title = 1797 Riobamba earthquake
+|date = {{Start-date|February 4, 1797}}
+|map2 = {{Location map many | Ecuador
+| label =
+| lat = -1.6
+| long = -78.6
+| mark = Bullseye1.png
+| marksize = 70
+| position = top
+| label2 =Riobamba
+| lat2 = -1.675
+| long2 = -78.65
+| mark2 =
+| mark2size = 10
+| position2 = left
+| label3 = Quito
+| lat3 = -0.25
+| long3 = -78.58
+| mark3 =
+| mark3size = 10
+| position3 = left
+| width = 250
+| float = right
+| caption =
+ | relief = yes}}
+|magnitude = 8.3 Magnitude Richter magnitude scale|M<sub>L</sub>
+|depth =
+|location = {{coord|-1.6|-78.6||display=inline,title}}
+|countries affected = Ecuador
+|tsunami = 
+|casualties = 6,000-40,000}}
+The '''1797 Riobamba earthquake''' occurred at 12:30 Coordinated universal time|UTC on 4 February. It devastated the city of Riobamba and many other cities in the Interandean Valles|Interandean valley, causing up to 40,000 casualties. It is estimated that seismic intensities in the Epicenter|epicentral area reached at least XI on the Mercalli scale, and that the earthquake had a Richter magnitude scale|magnitude of 8.3, the most powerful historical event known in Ecuador. The earthquake was studied by Alexander von Humboldt, when he visited the area in 1801/2.
+
+==Tectonic setting==
+The active tectonics of Ecuador is dominated by the effects of the subduction of the Nazca Plate beneath the South American Plate. The main NNE-SSW trending fault systems show a mixture of dextral (right lateral) Fault (geology)#Strike-slip faults|strike-slip faulting and reverse faulting. In addition to these faults that run parallel to the Andes in Ecuador, there are two important SW-NE trending-dextral-fault systems:  the Pallatanga fault and the Chingual fault. The Pallatanga fault runs close to the epicenter and movement on this fault has been suggested as the cause of the earthquake, although there is no clear surface break supporting such recent movement.
+
+==Damage==
+The area of significant damage (Intensity ≥VII) extended from Quito in the north to more than 60&nbsp;km south of Riobamba, including the cities of Guaranda, Ambato, Ecuador|Ambato, Latacunga and the towns of Saquisilí and Ba?os de Agua Santa|Ba?os.
+
+Humboldt's analysis of this earthquake relied on anecdotal accounts that he gathered during his visit. Some of the observations such as "the bodies of many of the inhabitants were found to have been hurled to Cullca, a hill several hundred feet in height and on the opposite side of the river Lican", are not credible. He gave a figure of thirty to forty thousand for the number of casualties, while some more recent estimates give figures as low as six thousand.
+
+==Characteristics==
+The shaking lasted for three to four minutes. The estimated rupture length for the earthquake is 70.3&nbsp;km, with a fault azimuth of 067°.
+
+==Aftermath==
+The city of Riobamba was rebuilt nearly 20&nbsp;km northeast of its original site, now occupied by the small town of Cajabamba, Ecuador|Cajabamba.
+
+==References==
+{{Reflist}}
+
+Category:Earthquakes in Ecuador
+Category:1797 earthquakes|Riobamba
+Category:18th century in Ecuador

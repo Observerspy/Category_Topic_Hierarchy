@@ -1,0 +1,62 @@
+{{Earthquake|
+ | title= 2010 El?z?? earthquake
+ | date= {{Start date|2010|3|8|df=y}}
+ | map2 = {{Location map | Turkey |relief=1
+ | label=
+ | lat= 38.807
+ | long= 40.100
+ | mark=Bullseye1.png
+ | marksize=40
+ | position=top
+ | width= 250
+ | float=right
+ | caption=}}
+ | depth = {{convert|5.0|km|mi|1}}
+ | location = {{Coord|38.807|40.100|display=inline,title}}
+ | magnitude = 6.1 Moment magnitude scale|M<sub>w</sub>
+ | countries affected = Turkey
+ | casualties = 42
+|}}
+
+The '''2010 El?z?? earthquake''' was a 6.1 Moment magnitude scale|M<sub>w</sub> earthquake that occurred on 8 March 2010 at 02:32 UTC (04:32 local time). Reports in the Turkish media two days after the quake placed the death toll at 41. Later, the death toll rose to 42. Another 74 were injured, many after falling and jumping from buildings during the quake. A stampede through the streets led to further injuries.
+
+The earthquake came one week to the day after the Turkish Chamber of Civil Engineers sent a report to parliament detailing inadequate building projects and the possibility that Istanbul would be destroyed by an earthquake, which could kill tens of thousands of people, at some point in the next three decades.
+
+==Geology==
+File:March 2010 Turkey earthquake intensity USGS.jpg|thumb|right|200px|USGS shake map of the El?z??, Turkey earthquake
+
+The quake occurred on the East Anatolian Fault, a major transform fault which represents  the boundary between the Anatolian Plate and the Arabian Plate.
+
+==Casualties and damage==
+According to officials, most of the deaths occurred in three villages: Ok?ular, Yukar? Kanatl? and Kayal?.
+
+Thirty houses collapsed in Ok?ular, and the death toll is at least 17. Reports from the scene indicate "the village is totally flattened" and "everything has been knocked down – there is not a stone in place". The village is closed to traffic to allow emergency services to find their way round. Families of villagers gathered at the scene to find out what had happened to their relatives.
+
+At least 25 people died in Yukar? Demirci,
+
+Many people used vehicles and taxis to drive to the hospital. Farm animals were also killed,
+
+==Response==
+{{TUR}}: Four government ministers, including Deputy Prime Minister Cemil ?i?ek, visited the scene as soon as news of the earthquake was reported. The Red Crescent and Turkey's disaster management centre donated blankets and tents. Prime Minister Recep Tayyip Erdo?an later arrived.
+
+{{PAK}}: Prime Minister Yousaf Raza Gillani sent a condolence message to his Turkish counterpart Recep Tayyip Erdo?an over the loss of lives and property caused by the massive earthquake and said that "We have learnt with utter sense of shock and profound sadness the news of the massive earthquake that has hit your beautiful country, today. Our hearts go out to our Turkish brethren over the loss of precious lives and destruction of property. I wish to convey, on behalf of the people and Government of Pakistan and on my own behalf our deepest condolences and commiserations to the people and Government of Turkey in bearing this enormous natural calamity."
+
+{{ISR}}: Defense Minister Ehud Barak ordered an aid proposal to be put together but later said that Turkey informed Israel that it did not require assistance at this time.
+
+==Aftershocks==
+Several aftershocks were felt immediately after the quake, the strongest measuring 5.5 (at 09:47 local time), 5.1 (at 12:14) and 5.3 (at 13:12). Villagers were told to stay away from buildings for several days due to the potential of further aftershocks.
+
+Onur Tan et al. (2011) analyzed 2130 aftershocks (ML≥0.3) and reported in http://www.agu.org/pubs/crossref/2011/2011GL047702.shtml Geophysical Research Letters.
+
+==References==
+{{Clear}}
+{{Reflist|colwidth=30em}}
+
+{{Earthquakes in 2010}}
+{{Earthquakes in Turkey}}
+
+{{DEFAULTSORT:Elazig 2010}}
+Category:2010 in Turkey
+Category:Earthquakes in Turkey|2010 El?z??
+Category:2010 earthquakes
+Category:History of El?z?? Province

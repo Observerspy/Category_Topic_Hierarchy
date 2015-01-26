@@ -1,0 +1,60 @@
+{{Infobox earthquake
+|title = 1999 Chamoli earthquake
+|date = {{start-date|28 March 1999|28 March 1999}} 
+|map2 = {{Location map | India
+ | relief = yes
+ | label =
+ | lat = 30.408
+ | long = 79.416
+ | mark = Bullseye1.png
+ | marksize = 40
+ | position = top
+ | width = 250
+ | float = right
+ | caption = }}
+|magnitude = 6.8 Richter magnitude scale|M<sub>w</sub> 
+|depth = {{convert|21|km|mi|0}} 
+|location = {{coord|30.408|N|79.416|E}} 
+|countries affected = {{IND}}
+|casualties = Approximately 103 dead 
+}}
+
+The '''1999 Chamoli earthquake''' occurred on 28 
+
+==Cause==
+The Himalayas|Himalaya Range has been undergoing crustal shortening along the 2,400&nbsp;km long northern edge of the Indian Plate which resulted in the formation of several thrust planes including the Main Central Thrust (MCT), the Main Boundary Thrust (MBT) and the Main Frontal Thrust (MFT). The MCT consists of three sub-thrusts: MCT I, MCT II and MCT III. Many earthquakes have occurred along these thrust faults. Academics believe the Chamoli earthquake in 1999 is associated with these fault systems.
+
+==Description==
+The magnitude of the earthquake was 6.8 on the Richter scale, and it lasted for forty seconds. Apart from the Chamoli district, the quake also affected five other districts of Uttar Pradesh viz. Rudraprayag, Tehri Garhwal, Bageshwar, Uttarkashi and Pauri Garhwal (all are in Uttarakhand now). Among these, Chamoli and Rudraprayag were the most affected districts. Aftershocks continued and most of the aftershocks occurred in the east of Chamoli. Officials from Pakistan reported that the quake was also felt in Lahore and Gujranwala. The earthquake was also felt in the Nanda Devi mountain region, in Kanpur, Shimla, Delhi, Dehradun, Haridwar, Saharanpur, Moradabad, Bijnor, Muzaffarnagar, Meerut, Ghaziabad, India|Ghaziabad and Srinagar and in the Baitadi District, Dadeldhura District, Darchula District and Kanchanpur District in Mahakali Zone in Nepal.
+
+==Damage and casualties==
+<!--  Commented out: Image:1999 Chamoli earthquake damage.jpeg|thumb|right|200px|Houses destroyed in the earthquake{{ifdc|Image:1999 Chamoli earthquake damage.jpeg|log=2008 August 11}} -->
+Severe ground deformations resulted from the earthquake. Formation of ground fissures were reported from many areas. Landslides and changes in the groundwater flow were also reported. Well-developed ground cracks were seen in Gopeshwar, Chamoli and Bairagna. Cracks were observed in asphalt roads at several locations. Landslips cut off parts of Mandakini valley and Mandal valley and many major roads.
+
+The death toll was 103. Over 2,000 villages were affected by the earthquake. Electricity, water supply and communication were also severely affected by the earthquake especially in the Chamoli town, Gopeshwar and Okhimath region of Rudraprayag district. According to Mike Wooldridge (Broadcaster)|Mike Wooldridge, correspondent for the BBC News, Chamoli suffered most damage and almost all the houses and shops built on slopes in the lower part of the town were destroyed.
+
+The bridge deck of a Footbridge|pedestrian suspension bridge situated near Bairagna developed lateral buckling and the cables of the bridge were loosened. Pipeline transport#Water pipelines|Water pipelines in Chamoli and Gopeshwar towns were damaged affecting water supply due to landslides caused by the quake. The concrete-lined canals of the irrigation network in the affected region sustained some cracks.
+
+In Delhi, many buildings sustained non-structural damage.
+
+==Relief efforts==
+Rescue operations were hampered by landslides, loss of electrical power and the loss of communication links with Chamoli. Many road workers became involved to clear landslide debris from a 16&nbsp;km stretch of road leading to the worst-affected area. Local people carried out search and rescue operations. Rescue efforts were led by the Indian Army and Paramilitary forces of India|Paramilitary personnel were also called-in to aid. The army used Equipment of the Indian Army#Aircraft|helicopters to ferry in supplies. Food and other necessary supplies were air-dropped to villages which lacked motorable roads and where roads were damaged due to landslides. Locals organized a committee to make sure that those most affected receive food.
+
+==See also==
+*Earthquake hazard zoning of India
+
+==References==
+{{reflist|refs=
+
+
+
+}}
+
+{{Earthquakes in 1999}}
+{{Himalayan quakes}}
+
+Category:Earthquakes in India|1999 Chamoli
+Category:1999 earthquakes|Chamoli earthquake
+Category:1999 in India|Chamoli earthquake
+Category:History of Uttarakhand (1947–present)
+Category:Chamoli district

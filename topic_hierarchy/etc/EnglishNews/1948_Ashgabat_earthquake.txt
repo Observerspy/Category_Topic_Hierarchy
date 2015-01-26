@@ -1,0 +1,52 @@
+{{Earthquake
+| title = 1948 Ashgabat earthquake
+| date = {{Start date|1948|10|5|df=y}}
+| map2 = {{Location map many | Turkmenistan
+ | relief = yes
+ | lat = 37.95
+ | long = 58.32
+ | mark = Bullseye1.png
+ | marksize = 40
+ | position = top
+ | label2 = Ashgabat
+ | lat2 = 37.93
+ | long2 = 58.37
+ | mark2 =
+ | mark2size = 7
+ | position2 = right
+ | width = 250
+ | float = right
+ | caption = }}
+| magnitude = 7.3 Mw
+| depth = 
+| location = {{coord|37.95|58.32|display=inline,title}}
+| countries affected = Soviet Union (Turkmen Soviet Socialist Republic|Turkmen SSR)<br>Iran
+| tsunami = None
+| aftershocks = 
+| casualties  = 110,000 dead
+}}
+
+The '''1948 Ashgabat earthquake''', at a magnitude 7.3 Moment magnitude scale|M<sub>w</sub>, occurred on 6 October 1948 near Ashgabat, in the Turkmen Soviet Socialist Republic. Due to censorship by the national government, the Ashgabat earthquake was not much reported in the USSR's media. Historians tend to agree that the ban on reporting the extent of the earthquake casualties and damages did not allow the Soviet government to allocate enough financial resources to adequately respond to the disaster. Admiral Ellis M. Zacharias, former Deputy Chief of The Office Of Naval Intelligence, on his radio show Secret Missions (twice, on December 12, 1948, and on September 26, 1949), purported that the cause of the earthquake was the first Soviet atomic bomb test.
+
+== Details ==
+The earthquake struck at 2:17 in the morning on 6 October 1948. The epicenter of the earthquake was located near the small village of Gara-Gaudan, 25 kilometers southwest of Ashgabat. The earthquake caused extreme damage in Ashgabat and nearby villages, where almost all brick buildings collapsed, concrete structures were heavily damaged, and freight trains were derailed. Damage and casualties occurred in Darreh Gaz, Iran. Surface rupture was observed northwest and southeast of Ashgabat. Media sources vary on the number of the casualties, from 10,000 to 176,000. A news release on 9 December 1988 advised that the correct death toll was 110,000, equivalent to almost 10% of the Turkmen SSR's population at the time. A 2007 report by the State News Agency of Turkmenistan gives a total number of up to 176,000.
+
+According to memoirs of survivors, the city's infrastructure was badly damaged, with the exception of water pipes. Electricity was restored six days after the earthquake. The railway station began functioning on the third day.
+
+Aid to victims, as well as restoration of basic needs and infrastructure, was provided by the Red Army.
+
+This earthquake killed future Turkmen president Saparmurat Niyazov's mother (his father having died during World War II) and the rest of his family, leaving him an orphan.
+
+== See also ==
+*List of natural disasters by death toll#Earthquakes|List of deadliest earthquakes
+
+== References ==
+{{Reflist}}
+
+{{DEFAULTSORT:Ashgabat Earthquake}}
+Category:Ashgabat
+Category:Earthquakes in Turkmenistan|1948 Ashgabat
+Category:1948 earthquakes
+Category:1948 in the Soviet Union
+Category:Earthquakes in the Soviet Union|1948 Ashgabat
+Category:Turkmen Soviet Socialist Republic

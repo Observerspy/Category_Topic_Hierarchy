@@ -1,0 +1,79 @@
+{{good article}}
+{{Earthquake
+|title = 2008 Chino Hills earthquake
+|date = {{Start date|2008|7|29}}
+|map = LA Earthquake July 29 2008.jpg
+|map2 = {{Location map+ | California
+|places =
+{{Location map~|California|lat=32.72|long=-117.16|label=San Diego|position=right|mark=Green pog.svg}}
+{{Location map~|California|lat=34.05|long=-118.25|label=Los Angeles|position=left|mark=Green pog.svg}}
+{{Location map~|California|lat=36.18|long=-115.14|label=Las Vegas|position=left|mark=Green pog.svg}}
+{{Location map~|California|lat=33.953|long=-117.761|mark=Bullseye1.png|marksize=50}}
+| relief = yes
+| width = 250
+| float = right
+| caption = }}
+|magnitude = 5.5 Moment magnitude scale|M<sub>w</sub>
+|depth = {{convert|9.1|mi|km|sp=us}}
+|location = {{coord|33.953|N|117.761|W|region:US|display=inline}}
+|intensity = Mercalli intensity scale|VIII - Destructive
+|aftershocks = ~100
+|countries affected = United States (Southern California)
+|casualties =
+}}
+
+The '''2008 Chino Hills earthquake''' occurred at 11:42:15&nbsp;a.m. Pacific Time Zone|PDT (18:42:15 Coordinated Universal Time|UTC) on July 29, 2008, in Southern California.
+
+Though no lives were lost during the earthquake, it caused considerable damage in numerous structures throughout the area and caused some amusement park facilities to shut down their rides.  The earthquake led to increased discussion regarding the possibility of a stronger earthquake in the future.
+
+==Tectonics==
+The Chino Hills earthquake was caused by oblique slip faulting, with components of both Thrust fault|thrust and sinistral strike-slip tectonics|strike-slip displacement.  Its epicenter was within {{convert|3|mi|km|sp=us}} of Chino Hills, California|Chino Hills and its hypocenter was approximately {{convert|9.1|mi|km|sp=us}} deep. The main shock was reportedly felt as far south as San Diego–Tijuana|San Diego, and Tijuana, Mexico, and as far east as Las Vegas, Nevada. It was the strongest earthquake to occur in the greater Los Angeles area since the 1994 Northridge earthquake.
+
+As reported by ''The Orange County Register'', three microquakes, all less than magnitude 3.0, occurred in Anaheim Hills, {{convert|7|mi|km|sp=us}} southwest of Chino Hills, two months before the Chino Hills earthquake. There was an unusually low amount of seismic activity in Southern California in the week prior to the quake. Between July 20 and July 26, 2008, there were no earthquakes in Southern California exceeding magnitude 3.0, thus there was speculation that the wane in seismic activity was a precursor to a possible larger event.
+
+==Impact==
+File:Quake yorba linda.jpg|thumb|left|The earthquake knocked down merchandise inside buildings such as this Yorba Linda, California|Yorba Linda grocery store.
+
+The Chino Hills earthquake caused no deaths or significant damage due to the physical location of its epicenter. However, the high volume of telephone use following the shock overloaded provider capacity and disrupted service into the afternoon.
+
+Amusement rides at Disneyland, Six Flags Magic Mountain, Universal Studios Hollywood and Knott's Berry Farm were evacuated and temporarily shut down. California State University, Fullerton suffered some damage in its older, Earthquake engineering|inadequately engineered buildings. Pipes on a Macy's department store in Westfield Topanga ruptured during the tremor flooding the store which closed for a couple of days in order to be repaired. A light fixture damaged by the shock started a small fire in the Westfield MainPlace Mall in Santa Ana, California|Santa Ana; since the fire was in an empty movie theater, nobody was harmed.
+
+A gap was reported on California State Route 91 near Anaheim Hills, approximately {{convert|7|mi|km}} southwest of the epicenter, but the California Department of Transportation concluded that the gap did not pose a danger.
+Caltrans replaced an expansion joint on an Interstate 5 (California)|Interstate 5 truck overpass at the El Toro Y Interchange.  The roof of Placentia, California|Placentia's public library nearly collapsed; afterwards, the building was closed for repairs.
+
+File:South Coast Plaza earthquake damage in 2008.jpg|thumb|Earthquake damage at South Coast Plaza in Costa Mesa, California|Costa Mesa.
+File:South Coast Plaza earthquake damage in 2008 2.jpg|thumb|Damage in a shopping center.
+
+Electrical outages were reported in Chino, California|Chino, Chino Hills, California|Chino Hills, Diamond Bar, California|Diamond Bar and Pomona, California|Pomona. Los Angeles International Airport reported a ground radar system outage along with a broken water heater, causing flooding in the checked luggage preparation area of Terminal 7. Minor injuries from falling ceiling tiles were reported at a medical clinic in Brea, California|Brea.
+
+The quake also interrupted a videotaping of Judge Judy, causing commotion in the audience and almost making the security guards evacuate the courtroom.
+
+==Aftershocks==
+Approximately 100 minor aftershocks and one presumed foreshock were reported within two days after the earthquake, and two others, occurring over two hours later, were recorded at magnitude 3.6. One presumed foreshock, magnitude 1.3, occurred sixteen hours prior to the earthquake in the same location as the main shock.
+
+==Response==
+There was speculation that the Chino Hills earthquake may have been a foreshock to a larger earthquake. The Southern California Seismic Network's ''Aftershock Probability Report'', produced minutes after the event, stated that "Most likely, the recent mainshock will be the largest in the sequence. However, there is a small chance, approximately 5–10%, of an earthquake equal to or larger than this mainshock in the next 7 days."
+
+Geologists at the United States Geological Survey and Uniform California Earthquake Rupture Forecast suggest that an earthquake with a magnitude of 6.7 or larger will almost definitely occur somewhere in the state within the next 30 years. Additionally, registration for the Great Southern California ShakeOut, a regional earthquake drill scheduled to occur on Nov. 13, 2008, increased significantly in the aftermath of the earthquake.
+
+==See also==
+* Earthquakes in California
+* List of earthquakes in the United States
+
+==References==
+{{Reflist|2}}
+
+==External links==
+{{Wikinews|Earthquake strikes southern California}}
+{{Commons category|2008 Chino Hills earthquake}}
+* http://earthquake.usgs.gov/eqcenter/eqinthenews/2008/ci14383980/ Chino Hills earthquake on USGS
+* {{cite web|url=http://www.guardian.co.uk/world/2008/aug/04/naturaldisasters.usa?gusrc=rss|title=Apocalypse - but not right now. How California stays cool about the Big One|last=Gliaster|first=Dan|date=2008-08-04|publisher=guardian.co.uk| accessdate= 24 March 2009 <!--DASHBot-->}}
+{{Earthquakes in 2008}}
+{{Significant earthquakes in California}}
+
+{{DEFAULTSORT:Chino Hills Earthquake 2008}}
+Category:Earthquakes in California
+Category:Chino Hills (California)|Earthquake
+Category:2008 earthquakes
+Category:2008 natural disasters in the United States
+Category:Chino Hills, California|Earthquake

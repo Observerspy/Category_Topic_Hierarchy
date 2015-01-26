@@ -1,0 +1,97 @@
+clustering:
+cluster id: 0concept: 
+voter demographics#
+cluster id: 1concept: 
+vote and seat summaries#
+cluster id: 2concept: 
+chamber of deputies#
+cluster id: 3concept: 
+party conventions#
+cluster id: 4concept: 
+primaries#general election campaign#background#conduct#analysis#turnout#results#summary#vote#procedure#campaign#
+cluster id: 5concept: 
+results by province#
+cluster id: 6concept: 
+campaign slogans#
+cluster id: 7concept: 
+government formation#media bias#second round#reactions#campaign issues#aftermath#economy#
+cluster id: 8concept: 
+presidential debates#leaders' debates#
+cluster id: 9concept: 
+eligibility#
+cluster id: 10concept: 
+electoral system#
+cluster id: 11concept: 
+polls#opinion polls#exit polls#
+cluster id: 12concept: 
+electors#
+cluster id: 13concept: 
+rejected candidates#candidates#early primaries/caucuses#before the primaries#debates#other nominations#
+cluster id: 14concept: 
+congress of deputies#senate#
+cluster id: 15concept: 
+comparison#
+cluster id: 16concept: 
+official candidate websites#sources#
+cluster id: 17concept: 
+issues#
+cluster id: 18concept: 
+electoral maps#
+cluster id: 19concept: 
+investiture voting#
+cluster id: 20concept: 
+results by region#
+cluster id: 21concept: 
+health care#
+cluster id: 22concept: 
+nominations#
+cluster id: 23concept: 
+political context#
+cluster id: 24concept: 
+ballot access#
+cluster id: 25concept: 
+official candidates#candidates by party#
+cluster id: 26concept: 
+electronic voting#
+cluster id: 27concept: 
+overview#result#
+cluster id: 28concept: 
+first round#
+cluster id: 29concept: 
+presidential candidates#registered candidates#
+cluster id: 30concept: 
+withdrawn#
+cluster id: 31concept: 
+overall results#overview of results#
+cluster id: 32concept: 
+votes by state#
+cluster id: 33concept: 
+political parties#
+cluster id: 34concept: 
+opinion polling#
+cluster id: 35concept: 
+unsuccessful candidacies#
+cluster id: 36concept: 
+other candidates#
+cluster id: 37concept: 
+apportionment#
+cluster id: 38concept: 
+election campaign#
+cluster id: 39concept: 
+controversies#
+cluster id: 40concept: 
+timeline#
+cluster id: 41concept: 
+seat by seat results#
+cluster id: 42concept: 
+international observers#
+cluster id: 43concept: 
+post-election#
+cluster id: 44concept: 
+results by state#
+cluster id: 45concept: 
+campaigns#
+cluster id: 46concept: 
+manifestos#
+cluster id: 47concept: 
+endorsements#

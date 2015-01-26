@@ -1,0 +1,124 @@
+{{Use mdy dates|date=March 2012}}
+{{Infobox earthquake|
+| title=2012 Guatemala earthquake
+| date= {{Start date|2012|11|07}} 16:35:47 UTC
+| image= Eartquake Guatemala 2012.jpg
+| imagecaption= 
+| map=
+| map2= {{Location map many | Guatemala
+  | width       = 250
+  | float       = center
+  | border      = 1
+  | caption     = Epicenter and main cities in affected area
+  | alt         = 
+  | relief      = yes
+  | AlternativeMap = 
+  | <!--first label/marker-->
+  | label1      =  
+  | position1   =  top
+  | mark1       =  Bullseye1.png
+  | mark1size   =  40
+  | lat1_deg    =  13.987
+  | lon1_deg    =  -91.965
+  | <!--second label/marker-->
+  | <!--repeat as needed up to 9-->
+  | label2      = '''Guatemala&nbsp;City'''
+  | label2_size = 104
+  | position2   = right
+  | mark2       = Black pog.svg
+  | mark2size   = 10
+  | link2       = 
+  | lat2_deg    = 14.62
+  | lon2_deg    = -90.53
+  | <!--label/marker: 3-->
+  | label3      = '''Champerico'''
+  | label3_size = 99
+  | position3   = right
+  | mark3       = Black pog.svg
+  | mark3size   = 8
+  | lat3_deg    = 14.29
+  | lon3_deg    = -91.91
+  | <!--label/marker: 4-->
+  | label4      = '''Quetzaltenango'''
+  | label4_size = 99
+  | position4   = right
+  | mark4       = Black pog.svg
+  | mark4size   = 9
+  | lat4_deg    = 14.84
+  | lon4_deg    = -91.50
+  | <!--label/marker: 5-->
+  | label5      = '''San Marcos, Guatemala|San Marcos'''
+  | label5_size = 99
+  | position5   = top
+  | mark5       = Black pog.svg
+  | mark5size   = 8
+  | lat5_deg    = 14.96
+  | lon5_deg    = -91.79
+}}
+| magnitude = 7.4 Moment magnitude scale|M<sub>w</sub>
+| depth={{convert|24.1|km|mi|0}}
+| location={{coord|13.987|N|91.965|W|type:event|display=inline,title}}
+| countries affected = Guatemala
+| intensity = Mercalli intensity scale|MM VII
+| tsunami = 
+| casualties = 39 killed|}}
+
+The '''2012 Guatemala earthquake''' occurred on November 7, 2012, at 16:35:47 UTC (10:35:47 local time). The epicenter of the 7.4 Moment magnitude scale|M<sub>w</sub> earthquake was located in the Pacific Ocean, {{convert|35|km}} south of Champerico in the department of Retalhuleu Department|Retalhuleu. The region is one of many earthquakes, where the Cocos Plate is being subducted along the Middle America Trench beneath the North American Plate|North American and the Caribbean Plates, near their triple junction.
+
+The quake was reportedly felt in Guatemala and in parts of Mexico, El Salvador, Belize, Honduras, Nicaragua and Costa Rica. Damage to buildings was reported in several cities in Guatemala, including San Marcos, Guatemala|San Marcos, Quetzaltenango and the capital Guatemala City. The Pacific Tsunami Warning Center issued a warning about the possibility of a local tsunami within {{convert|100|to|200|mi}} of the epicenter.
+
+With 39 dead, this is the most intense and deadliest earthquake that has hit Guatemala since the 1976 Guatemala earthquake|earthquake of 1976.
+
+==Damage and casualties by country==
+===Guatemala===
+San Marcos Department|San Marcos, Quetzaltenango Department|Quetzaltenango, Sololá Department|Sololá, Totonicapán Department|Totonicapán, Quiché Department|Quiché and Huehuetenango Department|Huehuetenango were the hardest hit departments. According to the minister of energy of Guatemala, the earthquake left 73,000 households without power. The Guatemalan president declared a 30 day "state of calamity" in the departments of Retalhuleu, Sololá, Totonicapán, San Marcos, Quetzaltenango, Quiché and Huehuetenango. In Guatemala, as of November 11, 9,414 houses were found damaged, and 18,755 people were evacuated, 7,218 of which stayed in 61 refuges. The Pan-American Highway in Guatemala (CA-1) was damaged.
+File:7.4M 2012 Guatemala earthquake - Finite Fault Model by USGS.png|thumb|left|Finite fault model of the earthquake
+File:Terremoto 2012 en San Marcos, Guatemala. 01.jpg|thumb|Heavy damage to buildings in San Marcos, Guatemala|San Marcos, Guatemala 
+File:Terremoto 2012 en San Marcos, Guatemala. 03.jpg|thumb|Damaged buildings in the city of San Marcos, a few seconds after the earthquake
+There were collapsed buildings and reported deaths and injuries in San Marcos. Accounts of deaths and injuries in San Marcos were initially difficult to confirm due to communication interruption and roads blocked by landslides. Many people in San Marcos, fearing possible aftershocks, gathered on the cold and dark streets. At least 50 houses were damaged in El Quetzal, 9 of which no longer inhabitable, and the dwellers had to take refuge in the community public school. More than 300 people stayed in 10 refuges in the department. Lack of water in the refuges in San Pedro Sacatepéquez and San Marcos due to the collapse of piping caused preoccupations about the sanitary conditions.
+
+Eight people were buried in a landslide in Concepción Chiquirichapa. Ten deaths were reported in Quetzaltenango department. 156 houses were damaged in Quetzaltenango Department, and government buildings in Quetzaltenango City (Xela) were slightly damaged.
+
+Retalhuleu, situated in the south, is close to the epicenter. The Departmental Palace of Retalhuleu, a historical building, was damaged, which caused the government offices therein to be relocated.
+
+Sololá reported the most damaged houses with number of 4,756, followed by 3,870 in San Marcos.
+
+Cracks were reported in National Palace (Guatemala)|Palacio Nacional de la Cultura in Guatemala City, a former government seat built between 1939 and 1943.
+
+Some houses of the coffee growers were damaged. No major damage was reported for agricultural products such as coffee, vegetables and potatoes.
+
+===Mexico===
+Minor damage was reported in the state of Chiapas, which neighbors Guatemala. In Chiapas, public buildings were evacuated, and telephone and internet services were interrupted. Over a dozen of buildings in Chiapas had minor fissures; the city hall of Tapachula, Chiapas|Tapachula, the installations of the Desarrollo Integral de la Familia, along with a school in Ciudad Hidalgo, Chiapas|Ciudad Hidalgo, were among the places affected.
+
+In the state of Oaxaca, several aftershocks of the earthquake were felt throughout various communities. The quake was also felt in the states of Campeche, Guerrero, Michoacán, Morelos, Puebla and Tabasco.
+
+In Mexico City, workers rushed to the streets from the office buildings, and no major damage was reported.
+
+===El Salvador===
+In El Salvador, many urban dwellers evacuated their homes in the capital city, but there were no reports of any damage.
+
+===Nicaragua===
+Nicaragua emitted a tsunami alert after the quake and alerted several communities along the coastlines to mobilize to higher altitudes.
+
+== Relief and reconstruction ==
+
+The minister of finance of Guatemala expressed that 800 million Guatemalan quetzal|quetzales were ready for covering emergent needs due to the earthquake. The Ministry of Health of Guatemala assigned 1 million quetzales to the hospital of San Marcos and dispatched two trucks with medicines. The minister of interior announced a fund of 25 million quetzales for the reconstruction of damaged police stations, prisons, and government buildings.
+
+The United States Ambassador to Guatemala announced to offer 50,000 USD to Coordinadora Nacional para la Reducción de Desastres (CONRED) for immediate humanitarian help. The United States and Taiwan would offer 110,000 USD in total as economical support. The Inter-American Development Bank would offer 200,000 USD. Various countries offered to provide help in personnel or matter, including Venezuela and Chile. World Food Programme offered 72 tonnes of emergency food aid.
+
+On November 9, the authorities started the evaluation of the damaged houses in San Marcos and San Pedro Sacatepéquez to decide which to be repaired and which to be demolished and rebuilt. The reconstruction in San Marcos had started on November 27. It was estimated that the reconstruction of the houses could need at least a year.
+
+==See also==
+{{Portal|Guatemala|Earthquakes}}
+*List of earthquakes in Guatemala
+{{-}}
+==References==
+{{reflist|colwidth=30em}}
+{{commons category|2012 Guatemala earthquake}}
+
+{{Earthquakes in 2012}}
+
+{{DEFAULTSORT:2012 Guatemala Earthquake}}
+Category:Megathrust earthquakes in Guatemala
+Category:2012 earthquakes|Guatemala earthquake
+Category:2012 in Guatemala

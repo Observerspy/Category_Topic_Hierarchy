@@ -1,0 +1,67 @@
+{{Use dmy dates|date=October 2013}}
+{{Infobox earthquake
+| title              = 1934 Bihar earthquake
+| date               = {{start-date|January 15, 1934}}
+| origintime         = 8:43 UTC 
+| map2               = {{Location map | Tibetan Plateau
+ | label =
+ | lat = 27.55
+ | long = 87.09
+ | mark = Bullseye1.png
+ | marksize = 40
+ | position = top
+ | width = 250
+ | float = right
+ | caption = }}
+| magnitude          = 8.1 Moment magnitude scale|M<sub>w</sub>
+| depth              = 33 km
+| location           = {{coord|27.55|N|87.09|E|display=inline, title}}  
+| countries affected = India, Nepal
+| Francisco          = yes
+| intensity          = XI (''Extreme'')
+| casualties         = 10,600
+}}
+
+The '''1934 Bihar earthquake''' or '''1934 Bihar-Nepal earthquake''' was one of the worst earthquakes in India's history. Munger and Muzaffarpur were completely destroyed. This 8.1 moment magnitude scale|magnitude earthquake occurred on January 15, 1934 at around 2:13 PM (I.S.T.) (08:43 coordinated universal time|UTC) and caused widespread damage in the northern Bihar and in Nepal. 
+
+==Earthquake==
+The epicentre for this event was located in the eastern Nepal about 10&nbsp;km south of Mount Everest. The areas where the most damage to life and property occurred extended from Purnea in the east to Champaran in the west—a distance of nearly {{convert|320|km|mi|abbr=on}}—and from Kathmandu in the north to Munger in the south—a distance of nearly {{convert|130|km|mi|abbr=on}}. The impact was reported to be felt in Lhasa to Mumbai, and from Assam to Punjab (British India)|Punjab.  The earthquake was so severe that in Kolkata, (around 650&nbsp;km from epicenter) many buildings were damaged and the tower of St. Paul's Cathedral, Kolkata|St. Paul's Cathedral collapsed.
+
+===Ground effects===
+One noteworthy phenomenon of this earthquake was that sand and water vents appeared throughout the central vents of earthquake area. The ground around these sand fissures subsided, causing more damage.  Extensive liquefaction of the ground took place over a length of 300&nbsp;km (called the Slump Belt) during 1934 Bihar-Nepal earthquake in which many structures went afloat.
+
+In Muzzafarpur, sand fissures erupted at several places in town. The wells were choked with sand while water levels in tanks became shallower due to sand deposited in the tank beds. Most of the buildings in Muzzafarpur were damaged. All the Kutcha buildings collapsed while other buildings suffered damage due to sinking and cracking of the ground.
+
+===Damage===
+File:Gandhi in Bihar after the earthquake.jpg|thumb|250px|Gandhi visits after the earthquake
+
+In Sitamarhi, not a single house was left standing. In Rajnagar Bihar|Rajnagar, near Madhubani, India|Madhubani, all the Kutcha buildings collapsed. The buildings of Darbhanga Raj, including the famous Naulakha Palace, were severely damaged.
+
+In Jharia the earthquake lead to further spread of underground fire. 
+
+The three important towns of Nepal—Kathmandu, Bhaktapur, Nepal|Bhaktapur and Patan, Lalitpur|Patan—were severely affected and almost all the buildings collapsed. Large cracks appeared in the ground and several roads were damaged in Kathmandu. However, the Pashupatinath Temple|temple of Shree Pashupatinath|Pashupatinath, the guardian deity of Nepal, escaped any damage.
+
+Total number of deaths recorded in Bihar were 7253
+
+==Aftermath==
+Mahatma Gandhi visited the Bihar state. He wrote that the Bihar earthquake was Divine retribution|providential retribution for India's failure to eradicate Hindu Untouchables|untouchability.
+
+==See also==
+* 1988 Nepal earthquake
+* List of earthquakes in India
+
+== References ==
+{{Reflist}}
+
+== External links ==
+*http://cires.colorado.edu/~bilham/HimFatalities.html 1934 Mw 8.1 Bihar/Nepal earthquake 15 January 1934 — Cooperative Institute for Research in Environmental Sciences
+*http://asc-india.org/maps/intensity/1934-nepal.htm Intensity Map (http://www.webcitation.org/5iRBUdV5O Archived) — Amateur Seismic Centre 
+
+{{Himalayan quakes}}
+
+{{DEFAULTSORT:1934 Bihar Earthquake}}
+Category:Earthquakes in India|1934
+Category:1934 in India|Bihar Earthquake, 1934
+Category:Earthquakes in Nepal
+Category:1934 earthquakes|Bihar Earthquake, 1934
+Category:Natural Disasters in Bihar

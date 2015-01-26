@@ -1,0 +1,53 @@
+{{Infobox earthquake
+| title = 1999 Athens earthquake
+| date = {{start-date|September 7, 1999|September 7, 1999}}
+| map2 = {{Location map+|Greece|relief=1|float=center
+| places=
+{{Location map~|Greece|lat=38.11|long=23.60|mark=Bullseye1.png|marksize=40|position=top|width= 250|float=center}}
+{{Location map~|Greece|lat=37.96|long=23.71|label=Athens|position=left|mark=Green pog.svg}}
+}}
+| depth = 10 km
+| location = 38.11N 23.60E
+| magnitude = 6.0 Moment magnitude scale|M<sub>w</sub>
+| PGA = 0.6 ''peak ground acceleration|g''
+| countries affected = {{flag|Greece}}
+| casualties = 143 dead <br> 2,000 injured <br> 50,000 homeless <br> 53,000+ buildings damaged or destroyed 
+}}
+
+File:Ricomex 1.jpg|thumb|right|250px|Ricomex industry (Vileda)
+File:Ricomex 3.jpg|thumb|right|200px|Ricomex industry (Vileda) monument
+
+The '''1999 Athens earthquake''', registering a moment magnitude of 6.0, occurred on September 7, 1999, at 2:56:50 pm local time and lasted approximately 15 seconds in Ano Liosia. The tremor was epicentered approximately 17&nbsp;km to the northwest of the city center, in a sparsely populated area between the working-class town of Acharnes and the Mount Parnitha National Park. This proximity to the Athens Metropolitan Area resulted in widespread structural damage, mainly to the nearby towns of Ano Liossia, Acharnes, Fyli and Thrakomakedones as well as to the northern Athenian suburbs of Kifissia, Metamorfosi, Kamatero and Nea Philadelphia. More than 100 buildings (including three major factories) across those areas collapsed trapping scores of victims under their rubble while dozens more were severely damaged. Overall, 143 people lost their lives and more than 2,000 were treated for injuries in what eventually became Greece's deadliest natural disaster in almost half a century. This event took Greek seismologists by surprise as it came from a previously unknown fault, originating in an area that was for a long time considered of a particularly low seismicity.  The highest recorded peak ground acceleration was 0.3g, at 15&nbsp;km from the epicentre, with attenuation predicting 0.6g acceleration at the centre.
+
+==Damage==
+The 1999 quake was the most devastating and costly natural disaster to hit the country in nearly 20 years. The last major earthquake to hit Athens took place on February 24, 1981, near the Alkyonides Islands of the Corinthian Gulf, some 87&nbsp;km to the west of the Greek capital. Registering a moment magnitude of 6.7, the 1981 earthquake had resulted in the deaths of 20 people and considerable and widespread Earthquake engineering|structural damage in the city of Corinth, nearby towns and sections of Athens' western suburbs. 
+
+Apart from the proximity of the epicenter to the Athens Metropolitan Area, this quake also featured a very shallow hypocenter combined with unusually high peak ground acceleration|ground accelerations. Unexpectedly heavy damage also affected the town of Adames. The tangible loss was estimated at about 3 billion US dollars. No significant structural damage was reported to the municipality of Athens and the southern and eastern suburbs of the city. The Acropolis of Athens and the rest of the city's famous ancient monuments escaped the disaster either totally unharmed or suffering only minor damage. A landslide  as well as several fissures were reported along the road leading to the peak of Mount Parnitha. Minor damage was also reported to water and waste networks close to the epicenter.
+
+==Turkish aid==
+The tremor took place less than a month after a 1999 ?zmit earthquake|(much larger in scale) Turkish disaster. This peculiar succession of earthquakes and mutual help of both countries gave rise to talks about what became known as the "Greek-Turkish earthquake diplomacy", in hopes for a breakthrough in bilateral relations, which had been marred by decades of mutual hostility. Turkey reciprocated the aid rendered by Greece immediately following the August 17, 1999 Turkish earthquake. A special taskforce was formed, consisting of the Undersecretariat of the Prime Ministry, the Turkish Armed Forces, the Ministries of Foreign Affairs and of Internal Affairs and the Greek Embassy in Ankara was contacted. The Turkish aid was the first to arrive in the affected areas, with the first 20-person rescue team arriving in Athens within 13 hours after the earthquake struck. The Greek consulates and the embassy in Turkey had their phone lines jammed with Turkish citizens offering  blood donations.
+
+==References==
+{{Reflist|refs=
+
+}}
+Br J Surg. 2004 Dec;91(12):1633-40. Autopsy findings from 111 deaths in the 1999 Athens earthquake as a basis for auditing the emergency response. Papadopoulos IN1, Kanakaris N, Triantafillidis A, Stefanakos J, Kainourgios A, Leukidis C.
+
+==Further reading==
+*http://mceer.buffalo.edu/research/Reconnaissance/greece9-7-99/ The Athens (Greece) Earthquake of September 7, 1999: Preliminary Report on Strong Motion Data and Structural Response.
+*http://www.eeri.org/lfe/pdf/greece_athens_eeri_preliminary_report.pdf Athens EERI Preliminary Report
+*http://www.springerlink.com/content/u22055w7726323m7/  The Source Mechanism of the Athens Earthquake, September 7, 1999, Estimated from P Seismograms Recorded at Long Range
+*Spyros B. Pavlides|Pavlides, S., Papadopoulos, G. A., and Ganas, A., 1999. The 7th September 1999 unexpected earthquake of Athens: Preliminary results on the seismotectonic environment, 1st Conf. Advances in Natural Hazards Mitigation: Experiences from Europe and Japan, Programme-Abstracts-Reports, Athens, 3–4 November 1999, 80-85.
+*Ganas, A., Papadopoulos, G., and Pavlides, S. B., 2001. The 7th September 1999 Athens 5.9 Ms earthquake: remote sensing and digital elevation model inputs towards identifying the seismic fault. International Journal of Remote Sensing, 22 (1), 191-196.
+*Ganas, A., Stavrakakis, G., Lagios, E., Papadopoulos, G., & Pavlides, S., http://www.pcigeomatics.com/services/support_center/tech_papers/aganas1.pdf Investigation of the seismic fault that ruptured during the 7/9/99 Athens earthquake using space techniques, RSPS 2001 Proceedings, Natural Hazards
+*Elenas A. (Department of Civil Engineering, Institute of Structural Mechanics and Earthquake Engineering, Democritus University of Thrace, GR-67100 Xanthi, Greece) http://home.iitk.ac.in/~vinaykg/Iset_40_tn.pdf "Athens Earthquake of 7 September 1999: Intensity Measures and Observed Damages", ''ISET Journal of Earthquake Technology'', Technical Note, Vol. 40, No.1, March 2003, pp.&nbsp;77–97.
+
+{{coord|38|6|36|N|23|36|0|E|region:GR|display=title}}
+{{Commons category|Earthquakes of Athens 1999}}
+{{Earthquakes in Greece}}
+{{Earthquakes in 1999}}
+
+{{DEFAULTSORT:1999 Athens Earthquake}}
+Category:Earthquakes in Greece|1999 Athens
+Category:1999 earthquakes|Athens
+Category:1999 in Greece|Athens earthquake

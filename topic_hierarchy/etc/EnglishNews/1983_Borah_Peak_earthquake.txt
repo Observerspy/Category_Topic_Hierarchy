@@ -1,0 +1,54 @@
+{{Infobox earthquake
+|title = 1983 Borah Peak earthquake
+|date = October 28, 1983
+|origintime = 14:06 Coordinated Universal Time|UTC  <br> 8:06 am Mountain Time Zone|MDT (UTC-6)
+|image = Borah1983.JPG
+|imagecaption = Borah Peak with fault scarp seen<br>near base of tan hill in foreground
+|map2 = {{Location map | USA West
+ |AlternativeMap = USA Region West landcover location map.jpg
+ |label =
+ |lat = 44.08
+ |long = -113.8
+ |mark = Bullseye1.png
+ |marksize = 40
+ |position = top
+ |width = 250
+ |float = right
+ |caption = }}
+|magnitude = 7.3 <br> 6.9 - (Richter)
+|intensity = Modified Mercalli intensity|MM IX
+|depth = {{convert|16|km|abbr=on}} 
+|location = {{coord|44.08|N|113.8|W|display=inline, title}} 
+|countries affected = Lost River Range<br>Central Idaho <br> United States
+|landslide = Yes
+|casualties= 2 child fatalities
+}}
+
+The '''1983 Borah Peak earthquake''' occurred on October 28, 1983, in the Lost River Range at Borah Peak in Central Idaho|central Idaho, United States. The most significant earthquake recorded in the state, it occurred on a Friday morning at 8:06 am Mountain Time Zone|MDT.  The earthquake measured 7.3 on the moment magnitude scale and 6.9 on the Richter magnitude scale|Richter scale.
+
+==Geography==
+Along with being the largest, it is almost the most damaging earthquake as well. Two children were killed by falling masonry while walking to school in Challis, Idaho|Challis, about 120 miles (200 km) northeast of Boise, Idaho|Boise, the state's capital. $12.5 million in damage took place in the Challis-Mackay region. Maximum Mercalli scale intensity IX damage was decided upon, as a result of extreme surface faulting, while vibrational damage was at a Mercalli intensity of VI to VII.
+
+The rupture caused clear surface faulting&nbsp; a 21 mile (34 km) long northwest moving zone of fresh fault scarp|scarps and ground rupture was present on a slope of the Lost River Range. Extensive breakage occurred along a 5 mile (8 km) zone between West Spring and Cedar Creek; ground surface was literally "shattered" into tilted blocks, each meters in width. These scarps were as broad as 330 feet (100 m).
+
+==Damage==
+The Challis-Mackay region experienced rather thorough damage, with 11 commercial buildings and 39 homes with major damage; while another 200 houses were damaged, minor to moderately. Mackay, Idaho|Mackay in particular, about 50 miles (80 km) southeast of Challis, Idaho|Challis, experienced the most severe damage. Most of the city's large buildings on its Main Street were damaged, to some extent; eight of these buildings were deemed condemned and closed down. Most of these buildings were built from materials such as brick, concrete block, and stone, each varying.
+
+==Artesian fountains==
+
+Near Chilly Buttes of Thousand Springs Valley, a series of artesian fountains/sand blows erupted immediately after the main shock of the 1983 Borah Peak earthquake.   Groundwater gushed from these fountains forming small craters and depositing aprons of light-colored sandy sediment around each crater.
+
+<gallery>
+File:Fault Scarp Borah Peak Earthquake 1983.jpg|Fault scarps that outline the trough (graben) produced during the 1983 Borah Peak earthquake. Photo taken near Willow Creek at Doublespring Pass Road. (USGS Photo, 1983)
+File:Borah Peak earthquake artesian fountain 1983.jpg|Crater caused by an artesian fountain that flowed during the 1983 Borah Peak earthquake. (USGS Photo, 1983)
+File:Borah Peak earthquake artesian fountain 1983b.jpg|Another view of an artesian fountain triggered by the Borah Peak earthquake. (USGS Photo, 1983)
+</gallery>
+
+==References==
+{{reflist|refs=	
+ 	
+}}
+
+Category:1983 earthquakes|Borah Peak Earthquake, 1983
+Category:Earthquakes in Idaho
+Category:1983 in Idaho

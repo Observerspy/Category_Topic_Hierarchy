@@ -1,0 +1,38 @@
+{{Politics of Georgia (country)}}
+
+'''Presidential elections''' were held in [[Georgia (country)|Georgia]] on 9 April 2000.<ref>Nohlen, D, Grotz, F & Hartmann, C (2001) ''Elections in Asia: A data handbook, Volume I'', p382 ISBN 0-19-924958-X</ref> The result was a victory for [[Eduard Shevardnadze]] of the [[Union of Citizens of Georgia]], who won 82.0% of the vote, with a 75.9% turnout.<ref>Nohlen, D, Grotz, F & Hartmann, C (2001) ''Elections in Asia: A data handbook, Volume I'', p402 ISBN 0-19-924958-X</ref>
+
+==Results==
+{| class=wikitable style=text-align:right
+!Candidate
+!Party
+!Votes
+!%
+|-
+|align=left|[[Eduard Shevardnadze]]||align=left|[[Union of Citizens of Georgia]]||1,870,311||82.0
+|-
+|align=left|[[Jumber Patiashvili]]||align=left|Independent||390,486||17.1
+|-
+|align=left|[[Kartlos Gharibashvili]]||align=left|Independent||7,863||0.3
+|-
+|align=left|[[Avtandil Jogildze]]||align=left|[[National State Union of Georgia-Victorious Georgia]]||5,942||0.3
+|-
+|align=left|[[Vazha Zhghenti]]||align=left|[[Progressive Party of Georgia]]||3,363||0.2
+|-
+|align=left|[[Tengiz Asanidze]]||align=left|Independent||2,793||0.1
+|-
+|align=left colspan=2|Invalid/blank votes||62,418||-
+|-
+|align=left colspan=2|'''Total'''||'''2,343,176'''||'''100'''
+|-
+|colspan=4 align=left|Source: Nohlen et al.
+|}
+
+==References==
+{{reflist}}
+
+{{Georgian elections}}
+
+[[Category:Elections in Georgia (country)]]
+[[Category:2000 in Georgia (country)]]
+[[Category:2000 elections in Europe]]

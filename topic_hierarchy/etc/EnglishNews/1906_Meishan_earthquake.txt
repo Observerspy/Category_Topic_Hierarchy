@@ -1,0 +1,49 @@
+{{Earthquake
+|title= 1906 Meishan Earthquake
+|date= {{Start-date|March 17, 1906}}
+|image= 1906 Haishan Earthquake.jpg
+|map = Meishan-quake-map.png
+|magnitude = 7.1 Richter magnitude scale|M<sub>L</sub>
+|depth={{convert|6|km|mi|0}}
+|location={{coord|23.55|N|120.45|E|display=inline,title}}
+|countries affected = Taiwan under Japanese rule|Taiwan, Empire of Japan
+|tsunami =
+|casualties = 1,258 dead<br>2,385 injured
+}}
+The '''1906 Meishan earthquake''' ({{zh|t='''1906年梅山地震'''|p=1906 nián Měishān Dìzhèn}}) was a magnitude 7.1 earthquake which occurred on March 17, 1906 and was centred on Meishan, Chiayi, Jiayi County, Taiwan under Japanese rule|Taiwan. Referred to at the time as the '''Great Ka-gi earthquake''' ({{zh|t=嘉义大地震|p=Jiāyì Dà Dìzhèn}}), it is the list of earthquakes in Taiwan|third-deadliest earthquake in Taiwan's recorded history, claiming around 1,260 lives.
+
+==Technical data==
+The earthquake struck at 06:43 Chungyuan Standard Time|local time on March 17, 1906 with a magnitude of 7.1 on the Richter scale and a focal depth of {{convert|6|km|mi|0}}. The event created the Meishan fault, a fault line with a length of {{convert|25|km|mi|0}} stretching through modern-day Chiayi County. Aftershocks continued throughout the day, hampering rescue efforts.
+
+==Damage==
+Reports vary slightly, but according to the official Central Weather Bureau summary, the casualties and damage were as follows:
+*Deaths: 1,258
+*Injuries: 2,385
+*Houses destroyed: 6,769
+*Houses damaged: 14,218
+
+Image:Shinko-office-damage.png|thumb|left|A Japanese colonial office, which sustained damage in the earthquake
+
+Fusakichi Omori, a pioneering seismologist from Japan who arrived shortly after the earthquake believed that the high number of casualties was due to the construction of the local houses. Loosely cemented with mud, the combination of sun-dried mud brick walls and heavy roofing beams was thought to be responsible for many dwellings collapsing, killing or injuring the inhabitants.
+
+Omori's figures give slightly different casualty rates, and very different statistics for building damage:
+*Deaths: 1,266
+*Injuries: 2,476
+*Houses destroyed: 7,284
+*Houses damaged: 30,021
+{{clr}}
+
+==Reaction==
+The veteran missionary William Campbell (missionary)|William Campbell wrote concerning the quake:
+{{quotation|I was there soon after, and had a profound feeling of sadness on seeing whole streets covered with fallen beams and other ''debris''; on seeing, too, so many traces of the awful suffering on every side. Within Ka-gi Jiayi city, and a limited area around, 1,216 persons were suddenly thrust out into the eternal world. Not fewer than 2,306 persons were seriously injured, and 13,259 houses laid low. The great mysterious Power then tore the earth into deep, open chasms in several places.}}
+
+The Japanese colonial authorities in Taipei sent teams of medical personnel to assist, and Campbell reported that shortly after the earthquake reconstruction efforts were well advanced.
+At the time some writers suggested a link between the Meishan quake and the great 1906 San Francisco earthquake, which occurred a month later, while some religious groups linked it not only with the San Francisco disaster, but also an earlier earthquake in Cambria, Italy and other natural disasters as a sign of the end-times.
+
+==References==
+{{reflist}}
+
+{{taiwan earthquakes}}
+
+Category:1906 in Taiwan|Meishan Earthquake, 1906
+Category:1906 earthquakes|Meishan
