@@ -20,7 +20,6 @@ public class GetPropertiesUtils {
 	 */
 	private static String INPUTD = ConstantUtils.INPUTD;
 	private static String OUTPUTD = ConstantUtils.OUTPUTD;
-	private static String EX = ConstantUtils.EX;
 
 
 	/**
@@ -54,16 +53,4 @@ public class GetPropertiesUtils {
 		return tempdir;
 	}
 	
-	public static String getEx() {
-		String tempdir = PropertiesUtils.getPropertiesValue(EX,
-				CONFIG_FILENAME);
-
-		File file = new File(tempdir);
-
-		if (!file.exists()) {
-			file.mkdirs();
-		}
-
-		return tempdir;
-	}
 }

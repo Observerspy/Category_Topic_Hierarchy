@@ -8,7 +8,5 @@ public class ConstantUtils {
 
 	public static final String INPUTD = "inputD";
 	public static final String OUTPUTD = "outputD";
-	public static final String EX = "EX";
-
 
 }

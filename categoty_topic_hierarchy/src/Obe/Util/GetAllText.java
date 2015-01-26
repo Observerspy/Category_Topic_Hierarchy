@@ -13,7 +13,7 @@ import Obe.Dto.Concept;
 import Obe.Util.common.GetPropertiesUtils;
 
 public class GetAllText {
-	private String dir = GetPropertiesUtils.getoutPutDir()+"/F_cluster_map"+GetPropertiesUtils.getEx();
+	private String dir = GetPropertiesUtils.getoutPutDir()+"/F_cluster_map";
 	private String content = "";
 	private HashMap<String,Integer> map = new HashMap<String, Integer>();
 	private static GetAllText all = null;

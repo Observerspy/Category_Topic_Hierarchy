@@ -47,7 +47,7 @@ public class Main {
 		HashMap<String, Double> eback1 = new  HashMap<String, Double>();
 
 		LoadBigFile l2 = new LoadBigFile();
-		l2.setPath(GetPropertiesUtils.getoutPutDir()+"/cluster_weightn"+GetPropertiesUtils.getEx());
+		l2.setPath(GetPropertiesUtils.getoutPutDir()+"/cluster_weightn");
 		String str2 = l2.Load();
 		String[] text2 = str2.split("\r\n");
 		for(int i=1;i<text2.length;i++){
